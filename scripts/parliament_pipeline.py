@@ -397,7 +397,10 @@ Requirements:
   `Committee Member` voice, but never merge different witnesses.
 - Use `Chair` for the chair when that makes the dialogue easier to follow.
 - Give the session 2–8 short chapters, each with a one-sentence takeaway.
-- Aim for roughly 20–80 dialogue turns, depending on the source length.
+- Aim for roughly 20–80 dialogue turns, depending on the source length. Never
+  exceed 100 turns; condense harder instead.
+- Keep every turn under 700 characters. Split a long answer into several
+  consecutive turns by the same speaker rather than writing one long turn.
 - Use only speaker labels declared in the `speakers` array.
 - Return raw JSON only: no Markdown fence, introduction or commentary.
 
