@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title description">
+  <title id="title">A generic parliamentary committee room</title>
+  <desc id="description">Androgynous block-style committee members sit around a curved table facing four witnesses.</desc>
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#dce1d5"/>
+      <stop offset="1" stop-color="#bbc6b5"/>
+    </linearGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7d8377"/>
+      <stop offset="1" stop-color="#5e625b"/>
+    </linearGradient>
+    <linearGradient id="table" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7a5942"/>
+      <stop offset="0.5" stop-color="#604230"/>
+      <stop offset="1" stop-color="#493124"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#1e241f" flood-opacity=".3"/>
+    </filter>
+    <g id="member-teal">
+      <rect x="-24" y="-2" width="48" height="54" rx="6" fill="#315f72"/>
+      <rect x="-19" y="-39" width="38" height="38" rx="8" fill="#c69c7c"/>
+      <path d="M-20-22v-12l8-9h26l7 9v12l-8-8h-25z" fill="#414948"/>
+      <rect x="-11" y="-22" width="6" height="5" rx="2" fill="#303736"/>
+      <rect x="5" y="-22" width="6" height="5" rx="2" fill="#303736"/>
+    </g>
+    <g id="member-rust">
+      <rect x="-24" y="-2" width="48" height="54" rx="6" fill="#9b543e"/>
+      <rect x="-19" y="-39" width="38" height="38" rx="8" fill="#8d624d"/>
+      <path d="M-20-23v-14l9-7h22l10 8v13l-9-9h-22z" fill="#292e2d"/>
+      <rect x="-11" y="-22" width="6" height="5" rx="2" fill="#252928"/>
+      <rect x="5" y="-22" width="6" height="5" rx="2" fill="#252928"/>
+    </g>
+    <g id="member-purple">
+      <rect x="-24" y="-2" width="48" height="54" rx="6" fill="#6f5c91"/>
+      <rect x="-19" y="-39" width="38" height="38" rx="8" fill="#d2ad8d"/>
+      <path d="M-21-20v-14l7-10h29l6 10v14l-9-11h-24z" fill="#735646"/>
+      <rect x="-11" y="-22" width="6" height="5" rx="2" fill="#3d332e"/>
+      <rect x="5" y="-22" width="6" height="5" rx="2" fill="#3d332e"/>
+    </g>
+    <g id="member-gold">
+      <rect x="-24" y="-2" width="48" height="54" rx="6" fill="#b17b2e"/>
+      <rect x="-19" y="-39" width="38" height="38" rx="8" fill="#754c3b"/>
+      <path d="M-20-21v-16l10-8h20l11 8v16l-9-10h-23z" fill="#232928"/>
+      <rect x="-11" y="-22" width="6" height="5" rx="2" fill="#1f2423"/>
+      <rect x="5" y="-22" width="6" height="5" rx="2" fill="#1f2423"/>
+    </g>
+    <g id="chair">
+      <rect x="-30" y="-4" width="60" height="66" rx="7" fill="#234c5d"/>
+      <rect x="-24" y="-50" width="48" height="48" rx="9" fill="#b78361"/>
+      <path d="M-25-29v-16l11-9h28l11 9v16l-10-12h-29z" fill="#d8d1bc"/>
+      <rect x="-14" y="-28" width="8" height="6" rx="2" fill="#34403d"/>
+      <rect x="6" y="-28" width="8" height="6" rx="2" fill="#34403d"/>
+      <path d="M0 2l-9 14 9 8 9-8z" fill="#d8edf0"/>
+    </g>
+  </defs>
+
+  <rect width="1600" height="560" fill="url(#wall)"/>
+  <rect y="560" width="1600" height="340" fill="url(#floor)"/>
+
+  <g opacity=".5">
+    <rect x="70" y="55" width="280" height="250" rx="8" fill="#a5b09f" stroke="#7d897a" stroke-width="8"/>
+    <rect x="1250" y="55" width="280" height="250" rx="8" fill="#a5b09f" stroke="#7d897a" stroke-width="8"/>
+    <path d="M180 55v250M240 55v250M1310 55v250M1370 55v250" stroke="#7d897a" stroke-width="5"/>
+  </g>
+  <rect x="610" y="55" width="380" height="105" rx="8" fill="#94a491" stroke="#748371" stroke-width="6"/>
+  <path d="M660 105h280" stroke="#dfe6db" stroke-width="3" opacity=".7"/>
+  <circle cx="800" cy="105" r="28" fill="#d5dbcf" stroke="#738170" stroke-width="5"/>
+  <path d="M785 106l11 11 22-27" fill="none" stroke="#5a695a" stroke-width="7"/>
+
+  <g filter="url(#shadow)">
+    <ellipse cx="800" cy="430" rx="635" ry="235" fill="#3b3029" opacity=".45"/>
+    <path d="M170 414c75-245 1185-245 1260 0l-118 128c-95-132-929-132-1024 0z" fill="url(#table)" stroke="#3e2a20" stroke-width="14"/>
+    <path d="M300 417c128-126 872-126 1000 0" fill="none" stroke="#a47b58" stroke-width="8" opacity=".7"/>
+    <ellipse cx="800" cy="707" rx="330" ry="105" fill="#3b3029" opacity=".45"/>
+    <path d="M475 660c62-95 588-95 650 0l-55 118H530z" fill="url(#table)" stroke="#3e2a20" stroke-width="12"/>
+    <path d="M540 670h520" stroke="#a47b58" stroke-width="7" opacity=".7"/>
+  </g>
+
+  <!-- Committee members: head centres match the generic seat map. -->
+  <g transform="translate(800 207) scale(1.15)"><use href="#chair"/></g>
+  <g transform="translate(336 261) scale(.88)"><use href="#member-purple"/></g>
+  <g transform="translate(480 225) scale(.9)"><use href="#member-teal"/></g>
+  <g transform="translate(624 207) scale(.93)"><use href="#member-rust"/></g>
+  <g transform="translate(976 207) scale(.93)"><use href="#member-gold"/></g>
+  <g transform="translate(1120 225) scale(.9)"><use href="#member-purple"/></g>
+  <g transform="translate(1264 261) scale(.88)"><use href="#member-teal"/></g>
+  <g transform="translate(224 342) scale(.82)"><use href="#member-rust"/></g>
+  <g transform="translate(1376 342) scale(.82)"><use href="#member-gold"/></g>
+  <g transform="translate(400 378) scale(.86)"><use href="#member-teal"/></g>
+  <g transform="translate(1200 378) scale(.86)"><use href="#member-purple"/></g>
+
+  <!-- Papers, microphones and water on the curved table. -->
+  <g fill="#e7e5dc" stroke="#a9aa9f" stroke-width="3" opacity=".95">
+    <rect x="285" y="395" width="80" height="48" transform="rotate(8 325 419)"/>
+    <rect x="465" y="360" width="86" height="52" transform="rotate(4 508 386)"/>
+    <rect x="1000" y="360" width="86" height="52" transform="rotate(-4 1043 386)"/>
+    <rect x="1235" y="395" width="80" height="48" transform="rotate(-8 1275 419)"/>
+  </g>
+  <g stroke="#242a28" stroke-width="5" fill="none">
+    <path d="M690 365l18-46"/>
+    <path d="M910 365l-18-46"/>
+    <path d="M375 430l10-42"/>
+    <path d="M1225 430l-10-42"/>
+  </g>
+  <g fill="#d9eef0" stroke="#65828a" stroke-width="3">
+    <rect x="730" y="350" width="22" height="39" rx="5"/>
+    <rect x="848" y="350" width="22" height="39" rx="5"/>
+  </g>
+
+  <!-- Witnesses. -->
+  <g transform="translate(560 603) scale(1.06)"><use href="#member-gold"/></g>
+  <g transform="translate(720 576) scale(1.08)"><use href="#member-purple"/></g>
+  <g transform="translate(880 576) scale(1.08)"><use href="#member-teal"/></g>
+  <g transform="translate(1040 603) scale(1.06)"><use href="#member-rust"/></g>
+  <g fill="#e7e5dc" stroke="#a9aa9f" stroke-width="3">
+    <rect x="520" y="683" width="115" height="58" transform="rotate(2 578 712)"/>
+    <rect x="675" y="665" width="115" height="58" transform="rotate(1 732 694)"/>
+    <rect x="810" y="665" width="115" height="58" transform="rotate(-1 868 694)"/>
+    <rect x="965" y="683" width="115" height="58" transform="rotate(-2 1022 712)"/>
+  </g>
+  <g stroke="#242a28" stroke-width="5">
+    <path d="M645 680l-18-48"/>
+    <path d="M755 660l-9-45"/>
+    <path d="M845 660l9-45"/>
+    <path d="M955 680l18-48"/>
+  </g>
+
+  <!-- Optional remote-witness screen. -->
+  <g transform="translate(1365 92)">
+    <rect width="170" height="145" rx="10" fill="#263336" stroke="#52676b" stroke-width="8"/>
+    <rect x="12" y="12" width="146" height="112" rx="5" fill="#9bb2ae"/>
+    <g transform="translate(85 78) scale(.72)"><use href="#member-teal"/></g>
+    <circle cx="145" cy="135" r="5" fill="#81c784"/>
+  </g>
+</svg>

@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Parliamentary Committees, in Plain English</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preload" as="image" href="Energy Resilience/committee_room_4.png" />
+  </head>
+  <body>
+    <main class="app" aria-label="Committee session viewer">
+      <section class="stage-panel" aria-label="Committee room">
+        <header class="app-header">
+          <div class="header-copy">
+            <p class="eyebrow">
+              <span id="committeeName">Committee</span>
+              <span class="eyebrow-date" id="sessionDate" hidden></span>
+            </p>
+            <h1 id="sessionTitle">Loading session…</h1>
+            <p class="provenance">
+              A plain-English retelling of a public evidence session — condensed and
+              paraphrased, not a verbatim record.
+              <a id="sourceLink" href="https://committees.parliament.uk/" target="_blank" rel="noopener">
+                Official transcript ↗
+              </a>
+            </p>
+          </div>
+          <div class="header-side">
+            <label class="session-picker" id="sessionPickerWrap" hidden>
+              <span>Session</span>
+              <select id="sessionPicker" aria-label="Choose a session"></select>
+            </label>
+            <div class="turn-meter" aria-label="Dialogue progress">
+              <span id="turnCounter">–</span>
+              <span>turns</span>
+            </div>
+          </div>
+        </header>
+
+        <div class="stage-frame">
+          <div class="stage" id="stage">
+            <img
+              id="roomImage"
+              class="room-image"
+              src="Energy Resilience/committee_room_4.png"
+              alt="Illustration of a parliamentary committee room: MPs seated around a curved table, facing witnesses at a table opposite."
+            />
+            <div class="room-dim" id="roomDim" aria-hidden="true"></div>
+            <div class="spotlight" id="spotlight" aria-hidden="true"></div>
+            <div class="seat-nameplate" id="seatNameplate" aria-hidden="true">
+              <strong id="nameplateName"></strong>
+              <span id="nameplateKind"></span>
+            </div>
+          </div>
+
+          <article class="speech-bubble" id="speechBubble" aria-live="polite">
+            <div class="bubble-topline">
+              <span class="bubble-speaker" id="bubbleSpeaker">Loading</span>
+              <span class="bubble-count" id="bubbleCount"></span>
+            </div>
+            <p id="bubbleText">Setting up the committee room…</p>
+            <span class="bubble-arrow" aria-hidden="true"></span>
+          </article>
+        </div>
+
+        <div class="chapter-banner" id="chapterBanner">
+          <span class="chapter-label" id="chapterLabel">—</span>
+          <span class="chapter-takeaway" id="chapterTakeaway"></span>
+        </div>
+      </section>
+
+      <aside class="control-panel" aria-label="Playback and reading aids">
+        <div class="control-dock">
+          <button class="control-button secondary" id="previousBtn" type="button" aria-label="Previous speech">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 18l-6-6 6-6" /></svg>
+            Prev
+          </button>
+          <button class="control-button primary" id="playBtn" type="button" aria-label="Play">
+            <svg class="icon-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10.5-6.5z" /></svg>
+            <svg class="icon-pause" viewBox="0 0 24 24" aria-hidden="true" hidden>
+              <path d="M8 5.5v13M16 5.5v13" />
+            </svg>
+            <span id="playLabel">Play</span>
+          </button>
+          <button class="control-button secondary" id="nextBtn" type="button" aria-label="Next speech">
+            Next
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6l6 6-6 6" /></svg>
+          </button>
+        </div>
+
+        <div class="dock-row">
+          <label class="speed-label">
+            Speed
+            <select id="speedSelect" aria-label="Auto-play speed">
+              <option value="0.75">Relaxed</option>
+              <option value="1" selected>Normal</option>
+              <option value="1.4">Brisk</option>
+              <option value="2">Fast</option>
+            </select>
+          </label>
+          <span class="keys-hint" aria-hidden="true">Space play · ← → step</span>
+        </div>
+
+        <div class="progress-track" id="progressTrack" aria-label="Session progress">
+          <span id="progressFill"></span>
+          <div class="chapter-ticks" id="chapterTicks"></div>
+        </div>
+
+        <nav class="tabs" role="tablist" aria-label="Reading aids">
+          <button class="tab-button" role="tab" id="tabBtn-dialogue" data-tab="dialogue" aria-selected="true" aria-controls="tab-dialogue">
+            Dialogue
+          </button>
+          <button class="tab-button" role="tab" id="tabBtn-chapters" data-tab="chapters" aria-selected="false" aria-controls="tab-chapters">
+            Chapters
+          </button>
+          <button class="tab-button" role="tab" id="tabBtn-cast" data-tab="cast" aria-selected="false" aria-controls="tab-cast">
+            Who’s who
+          </button>
+          <button class="tab-button" role="tab" id="tabBtn-about" data-tab="about" aria-selected="false" aria-controls="tab-about">
+            About
+          </button>
+        </nav>
+
+        <section class="tab-panel" id="tab-dialogue" role="tabpanel" aria-labelledby="tabBtn-dialogue">
+          <div id="dialogueRail" class="dialogue-rail"></div>
+        </section>
+
+        <section class="tab-panel" id="tab-chapters" role="tabpanel" aria-labelledby="tabBtn-chapters" hidden>
+          <div id="chapterList" class="chapter-list"></div>
+        </section>
+
+        <section class="tab-panel" id="tab-cast" role="tabpanel" aria-labelledby="tabBtn-cast" hidden>
+          <p class="panel-note">Tap a person to jump to their next remark.</p>
+          <div id="castList" class="cast-list"></div>
+        </section>
+
+        <section class="tab-panel" id="tab-about" role="tabpanel" aria-labelledby="tabBtn-about" hidden>
+          <div class="about-copy">
+            <h3>This session in a nutshell</h3>
+            <p id="aboutSummary"></p>
+            <h3>What this is</h3>
+            <p>
+              Parliamentary committees publish full transcripts of their evidence sessions, but
+              they are long and formal. This page retells one session as a short dialogue you can
+              step through at your own pace.
+            </p>
+            <p>
+              Wording is simplified, exchanges are condensed, and several MPs’ questions may be
+              merged into one voice — nothing here is a direct quote. For the verbatim record,
+              follow the official transcript link:
+              <a id="aboutSourceLink" href="https://committees.parliament.uk/" target="_blank" rel="noopener">official transcript ↗</a>.
+            </p>
+            <p class="licence-note">
+              Contains Parliamentary information licensed under the
+              <a
+                href="https://www.parliament.uk/site-information/copyright/open-parliament-licence/"
+                target="_blank"
+                rel="noopener"
+              >Open Parliament Licence v3.0 ↗</a>.
+              This is an independent project and is not endorsed by UK Parliament.
+            </p>
+          </div>
+        </section>
+      </aside>
+    </main>
+
+    <script src="sessions/energy-resilience-4.js"></script>
+    <script src="sessions/energy-resilience-5.js"></script>
+    <!-- GENERATED_SESSIONS_START -->
+    <!-- GENERATED_SESSIONS_END -->
+    <script defer src="app.js"></script>
+  </body>
+</html>

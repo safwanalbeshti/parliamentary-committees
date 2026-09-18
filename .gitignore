@@ -1,0 +1,5 @@
+.DS_Store
+.automation/
+__pycache__/
+*.pyc
+_site/

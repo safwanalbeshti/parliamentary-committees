@@ -1,0 +1,773 @@
+Energy Security and Net Zero
+Committee
+Oral evidence: Energy resilience, HC 171
+Wednesday 3 June 2026
+Ordered by the House of Commons to be published on 3 June 2026.
+Watch the meeting
+Members present: Bill Esterson (Chair); Ms Polly Billington; Sir Christopher
+Chope; Lizzi Collinge; Torcuil Crichton; Graeme Downie; Bradley Thomas; Claire
+Young.
+Questions 137 - 206
+Witnesses
+I: Chloe Oakshett, Maritime Lawyer, Addleshaw Goddard LLP and Director,
+Scottish Maritime Cluster; Elisabeth Braw, Senior Fellow, Atlantic Council; and
+Graham Skinner, Health, Safety & Security Policy Manager, Offshore Energies UK
+(OEUK).
+II: Deborah Petterson, Director of Resilience and Energy Management, NESO;
+and Stuart Okin, Director for Cyber Regulation and Emerging Technologies,
+Ofgem.
+Examination of witnesses
+Witnesses: Deborah Petterson and Stuart Okin.
+Q177 Chair: Welcome back to the Energy Security and Net Zero Select
+Committee and this morning’s session in our inquiry into energy
+resilience. Could our second panel introduce themselves, please?
+Stuart Okin: My name is Stuart Okin. I am the Director for Cyber
+Regulation and Emerging Technologies, which include quantum and
+artificial intelligence, at Ofgem.
+Deborah Petterson: I am Dr Deborah Petterson. I am the Director for
+Whole Energy System Resilience at NESO, the National Energy System
+Operator. You will be familiar with NESO’s role in running the electricity
+system of today and planning the system of the future, but you might be
+less aware of our new duty to provide independent advice and guidance
+to Government on any risk that might impact any part of the energy
+system.
+Q178 Lizzi Collinge: We heard evidence in the first panel about the threat to
+our energy infrastructure and we have seen stark examples, for example
+in Ukraine, of what can happen when an energy infrastructure is
+targeted. With that in mind, do you think we should be moving to more of
+an emergency mindset with Government and agencies around increasing
+energy resilience? Should we be acting with greater urgency than we
+already are? I will come to Deborah first.
+Deborah Petterson: Thank you very much for your question. Obviously,
+geopolitics, and the increasing threat we see with geopolitics, is in the
+forefront of all our minds. I find that the energy industry is extremely
+well-exercised, partly because the eventual impact is an outage and,
+therefore, storms, cyber-attacks, all the things you have been discussing
+in your first section this morning, are issues that the industry is well
+versed in. We have regular exercising programmes. However, the
+Strategic Defence Review and the resilience action plan produced by
+Cabinet Office all have this focus on building home defence, and that
+conversation about, “Is there more to do?” What I can say at the moment
+is that the way NESO is designing the system, the cyber-security
+requirements and industry’s approach to that absolutely meets the
+current risk appetite set out by Ministers and regulated by Ofgem.
+Stuart Okin: I have been in this role for seven years, and we have a
+well-established cyber-resilience network for gas and electricity. That
+being said, we have seen over the last two or three years an acceleration
+that has been conducted by our operators of essential services, which
+essentially is critical national infrastructure. It is something that we live
+with every day, as Deb has just said. We have to lean in to constantly
+manage the risks and the changing and evolving risk landscape.
+Q179 Lizzi Collinge: Do you get what you need to be able to meet that
+changing, emerging and increasing risk?
+Stuart Okin: Are you talking about our resources?
+Lizzi Collinge: Resources and responses from Government when those
+are needed with intelligence and information.
+Stuart Okin: We have a very good working relationship with all the
+Departments. We understand our swim lanes and what we do, and we
+support each other in these areas. This is why you saw the strategy that
+was released last week, which was a quad strategy by ourselves, DESNZ,
+NESO and NCSE. We have working lines. Would it be useful for the
+Committee and for the public to hear about how the set-up is arranged?
+Lizzi Collinge: Yes, briefly.
+Stuart Okin: Very briefly then, essentially, under the Network and
+Information Systems Regulations 2018—that is the standard Act that we
+support—there are some very clear lines. Regulations 10(1) and 10(2)
+mean that there have to be appropriate and proportionate controls and
+measures in place to manage the risk; 10(3) looks at the state of the art;
+and 10(4) is being responsive to the competent authorities. We are a
+joint competent authority with DESNZ. DESNZ does the designation. The
+OESs, the operators of essential services, should designate themselves or
+say that they are an OES, but the designation itself is conducted by
+DESNZ. That is then handed over to us to operate.
+We do that in conjunction with NCSE and CCU, as part of GCHQ, which is
+the technical authority, and they have the cyber-assessment framework.
+DESNZ will set the risk appetite, the type of attackers that it is looking to
+prevent, their capability. It sets the risk appetite, and then we assure
+against that. We inspect—we have done 40 deep-level inspections, which
+have led to fines of £30 million over the last few years. We ask them to
+do self-assessments and we engage directly with the industry. Of course,
+they have to exercise an audit as well.
+Q180 Lizzi Collinge: Thank you very much. I want to move on to threats that
+are not geopolitically related. When we think about ageing critical
+infrastructure—we have had the example of the North Hyde substation
+fire—what standards are being set for the maintenance and inspection of
+ageing infrastructure?
+Stuart Okin: We are currently investigating. That is a current ongoing
+investigation with North Hyde. On the recommendations of NESO, we
+went and looked at National Grid specifically and looked to see whether
+there are any other areas where they might have assets under similar
+condition as well. We looked through that. We are looking to see what we
+can do with standards that can be utilised for the future. I cannot talk
+about the ongoing investigation.
+Lizzi Collinge: That is fair enough.
+Deborah Petterson: I will add that North Hyde, the substation that led
+to the eventual closure of Heathrow, was the first Secretary of Stateinstructed review for NESO to do. Although NESO sits outside regulation,
+we have this power to request information for any near miss or for any
+incident that happens. Referring to your first session too, I think it is a
+nice example of how in those initial stages you do not understand what
+has happened. It was exactly the playbook we expected for hostile state
+sabotage. In that moment, what you saw was NESO mobilised, DESNZ,
+National Grid, SSC, but also counter-terror and policing, the intelligence
+agents, all come together into this well-rehearsed—the London Fire
+Brigade particularly.
+North Hyde is not critical national infrastructure—it is a substation in the
+west of London—but it led to an outage that included traffic lights,
+underground, rail, data centres, hospitals and GP surgeries. Fortunately,
+it was in the middle of the night, so that was all resolved very quickly. In
+our recommendations, we made a whole set about the cross-cutting
+nature of critical national infrastructure, and that is being picked up by
+DESNZ. They accepted every single one of our recommendations to look
+at the cross-cutting, underpinning nature of the energy system. Also,
+interestingly in that report, those recommendations have been picked up
+by the aviation sector, the rail sector and the energy sector. I think
+having someone who is a step away from Government but without that
+regulatory lens, to build a more secure system, is already proving to have
+value.
+Q181 Lizzi Collinge: That is very helpful, because you have gone immediately
+into something I wanted to ask about, the interdependency. As you said,
+North Hyde itself was not critical national infrastructure, but the impact it
+could have—and the impact any energy outage could have on things like
+transport and healthcare—is clearly very important and could lead to a
+risk to life. Are there any further comments you would like to make on
+how you map those dependencies and how you manage the second-order
+effects?
+Deborah Petterson: Yes, you are right, energy underpins our way of
+life, and I have started to describe energy security as our national
+security. You cannot launch a defence of your country without energy.
+That understanding, as it becomes more interdependent, along with
+telecoms—there is an interesting interconnection there. There are various
+parts to this. First, DESNZ asked us to look at the methodology for
+defining critical national infrastructure. You can imagine that we used to
+have these big blocks of power stations, and now we have this logically
+interconnected network of digital, telco, energy all coming together to
+operate the system. We are doing that, and then we will apply that
+methodology.
+But as you rightly stated, something classified as critical national
+infrastructure in energy—there are lots of things that are not critical
+national infrastructure that underpin other critical infrastructure and
+therefore the mapping of that system. I have to admit being a bit partial
+to this. When I was at the National Cyber Security Centre, the knowledge
+base was created by my team there and that has now been handed to the
+Cabinet Office, which obviously has a cross-cutting view of Government. I
+understand that its situation centre is picking that up to look at how
+these are interlinked.
+On the resilience action plan, the Cabinet Office said that it will move
+very quickly to looking at how all the different sectors critical
+infrastructure map together, but we are looking at that at NESO too. If
+we have that map of the infrastructure, it allows us to support the
+questions about where we best protect to support our national resilience.
+Q182 Lizzi Collinge: Thank you. I want to move on to a different threat but
+one that is extremely important, and that is more frequent extreme
+weather events. Do you think we have the correct strategy and
+operations in place to mitigate that threat to our energy system?
+Stuart Okin: We have just set up a resilience hub within Ofgem. Inside
+the resilience hub we are looking at all the cross-cutting—cyber; weather;
+we are looking across all these different areas. I think that as we diversify
+and as we have more or different types of energy systems in place,
+including the flexibility of localised, that will likely be able to give us more
+resilience. It does increase the attack surface from a cyber perspective,
+that is true, and there is also pressure on the supply chain, but on the
+other hand, if it is designed correctly, it will give us the diversity that we
+need for resilience.
+Deborah Petterson: If I could build on that, NESO is there to provide
+independent assessment advice on any risk to the energy system, and
+that also includes climate resilience. In our first year we have brought in
+a professor from the Met Office, Professor Emily Wallace, to support
+NESO in understanding. Weather is our fuel, but it is also a risk and
+inherently variable. We take the security of supply of weather as
+seriously as we do gas and electricity, and making sure we can hone that
+data.
+We model 30,000 weather patterns every single day to work out the
+parameters for what energy we require: when it is on a cold, grey day
+that we have sufficient gas and other sources of electricity; how we
+manage the system when there is excessive sunshine or wind. The more
+accurate data we have, the more economic and efficient the system can
+be. We are working with the Met Office, who are fantastic at using AI and
+their machine learning, but what they do, because at the moment we
+look at historic weather patterns 34 years back, and we use that to model
+these 30,000—
+Lizzi Collinge: Is there a risk there because our weather is changing?
+Deborah Petterson: Yes. The Met Office is bringing to us the forward
+projection of the weather we have yet to see but they have relative
+certainty in looking 10 and 20 years ahead for infrastructure. Emily has
+been pulling through that expertise into our strategic energy planning so
+we can look at regions and understand where there will be sea level rise.
+The other area we are doing at NESO is creating international
+partnerships. Our colleagues in America and Australia are well versed at
+dealing with wildfire. We saw a 600% increase in wildfire in this country
+over the last two years. We do emergency preparedness exercises, so we
+are there for the whole sector. We report to Ofgem and Government
+every year on the season ahead and how the industry is prepared. We
+are exercising emergency preparedness for the summers of the future
+and for now.
+Q183 Lizzi Collinge: Stuart, you touched on supply chain and things to that.
+Should the UK be prioritising the domestic manufacture of components,
+which could affect the cost of them, to reduce the risks of supply chain
+dependency and the dependency of our energy system on foreign supply
+chains?
+Stuart Okin: First, that is a decision for Government, clearly. That is
+DESNZ’s decision, and—
+Lizzi Collinge: Do you have an opinion on it?
+Stuart Okin: There are two parts to this. First, there is a risk and then
+there is a growth. On the risk side of things, we should always take a
+threat view that is based on intelligence—and that is intelligence not just
+about the country but also about the company, the individuals—and that
+threat intelligence should give you an idea or a view of what we should
+do in any particular component or system area. That is the first part of it.
+Then there is a growth part, which is that if something is being developed
+from a domestic perspective, obviously we need to be very careful of the
+value for money and the cost, as I know this Committee is very focused
+on as well. There is the balancing between the cost of building something
+locally versus the risk.
+Deborah Petterson: NESO is one of the areas—so where we provide
+independent and expert advice, often it is driven by the sector that has a
+particular interest in supply chain. Also, interestingly, in April we had our
+first international security roundtable where we brought the Five Eyes
+over, along with some of our European counterparts, to bring together
+our security concerns. One of those areas was supply chain and how you
+secure the supply chain.
+Our view is that we should have a diverse supply chain. We would not
+want a monoculture of one type, but also I think from my previous
+experience in cyber-security that it is about always looking at your
+vulnerability. If it is what I would call a dumb piece of kit, a piece of
+metal, I would advise someone to have a diverse supply chain so you
+have options but the threat is less, whereas if it is something that is
+enriched with data: where do you want your data, who has access to it,
+who holds it, are you comfortable if it is in another country, what you
+would do out of hours, maybe that is a huge benefit? By asking those
+questions and then taking that judgment, we support industry in
+providing advice and guidance.
+Q184 Lizzi Collinge: Finally, we had some interesting evidence in the last
+session about the risks of putting too many burdens on operators,
+especially smaller operators and smaller businesses, around their
+responsibilities for energy resilience. Do you think there needs to be a
+dissemination of responsibility for energy resilience to wider society and
+to operators and businesses, rather than it just being held in central
+Government? What are your thoughts on that?
+Stuart Okin: We have a number of different Departments, as I pointed
+out at the beginning. DSIT is doing a huge amount of work in setting the
+new Cyber Security and Resilience Bill and the setting up of the security
+unit inside there. We have DESNZ, ourselves and NESO, so there are
+quite a few, and of course NCSC.
+If I understand the question where you are aiming for, for the larger
+operators of central services that are critical national infrastructure, I
+think the focus needs to be on them making sure they step up. We
+should hold them to account to make sure that they do that. The cyberassessment framework that they utilise covers everything from risk
+governance right through. It is an outcome-based system, but it is very
+thorough.
+We have added to that—we have 300 pages of added guidance to that—
+which includes some of the physical elements as well. All outcome-based,
+not prescriptive, it gives them the idea of what we are expecting to do
+but I would expect them to set up.
+Smaller entities and licensees, the 1,400 licensees that are not the CNI,
+are a different area. We have gone to consultation recently saying for the
+CNI base should we change the thresholds, but for all of the others, the
+1,400 licences, “This is a baseline standard. How do you feel about
+that?”, which is basically around Cyber Essentials and Cyber Essentials
+Plus. We have asked the industry to come back on that. However, it
+should be pointed out to the Committee that that is really a baseline.
+They do not look at governance and risk. They look at five different
+areas.
+Q185 Ms Polly Billington: I would like to ask a little bit about the energy
+sector cyber-security strategy, particularly the changing nature of our
+energy system. We are now changing the risk profile quite considerably
+because of the nature of the more complex and decentralised grid, much
+of which we have talked about. What I noted in what is said in the
+strategy is that, “The integration of legacy infrastructure with new
+technologies presents a complex challenge requiring careful management
+to ensure seamless and secure operations”. How does the framework put
+forward in the strategy interact with the Cyber Security and Resilience Bill
+and Ofgem and DESNZ’s consultation reshaping cyber regulation in
+downstream gas and electricity?
+Stuart Okin: It covers a number of different areas but I will just pick
+one, for example, to give to the Committee. Supply chain is a key part of
+that. Inside the action plan that we have in the energy strategy, we will
+be looking at supply chain standards and supply chain guidance. In fact,
+we released yesterday some principles that we would like the supply
+chain to look at. How that relates to the Cyber Security and Resilience Bill
+is that the Bill at the moment is intended to have supply chain as a
+regulated entity.
+Ms Polly Billington: Much like your answers to Lizzi.
+Stuart Okin: Exactly. We started developing this over a year ago. We
+had sight of the Cyber Security and Resilience Bill, so we needed to make
+sure the strategy aligned with that. That is just one example.
+Deborah Petterson: You are absolutely right. There is an increased
+attack surface, a much richer set of assets. However, one of the learnings
+from the conflict in Ukraine is to move to a far more distributed system to
+give you a greater resilience and a more diverse supply of different
+energy resources, a greater basket to operate from.
+Lizzi mentioned the Polish cyber-attacks. What we need to bear in mind is
+that the adversary was already targeting these. There is a question mark:
+what was their motivation? Was it to distract people from distributed
+energy resources because they have an interest in oil and gas sales or
+was it just to start testing and trying their capability in that space?
+I think what is important are the smaller operators. There are things like
+Cyber Essentials, there is a free offer from the NCSC. We are very lucky
+to have an outward-facing intelligence agency there to support. I cannot
+believe I am going to quote Spider-Man but with great power comes
+great responsibility. If these industries wish to be part of our energy mix,
+the national security implications of the role they provide has to be taken
+seriously. NEOS has this whole-system view now and we are building new
+relationships with wind and batteries and solar, and bringing them into
+this community to better understand the threat.
+Q186 Ms Polly Billington: That is helpful. It is interesting you mentioned
+Spider-Man, when you were talking about what happened at Hyde. I
+think of how this can sound extremely dull until suddenly you are in a “28
+Days Later” scenario and so forth. We need to understand what the risks
+are when you have something that is more distributed and what that
+means. On your point about interconnecting very strongly with telecoms,
+we have two separate regulatory bodies for telecoms and energy and yet
+those two are increasingly interconnected in regulation. Do you see one
+of the roles of NESO is to co-ordinate those two aspects and is that in
+your mandate? Is that formally there or has that grown up as you have
+been established?
+Deborah Petterson: Our duty is to provide the Government and
+industry with independent assessment advice on any risk of the energy
+system. Some people question that that sounds unbounded. For me, the
+energy system is dependent on digital and telco, therefore it is helpfully
+unbounded because it allows that if it can provide a risk that needs
+investigation, NESO has the reach to do that. For example, one of our
+learnings from the Iberian peninsula outage—of which there are many
+because of the lived experience of our partners, some of the best learning
+you will ever have—is in the restoration process, the fragility of the
+telecoms.
+We are absolutely now moving to exercise with our partners and the
+focus of our emergency preparedness assessment, which we do in
+consultation with Ofgem and DESNZ about the areas of focus. We will be
+looking at operational telephony and how that works under crisis and
+stress.
+Stuart Okin: That exercise is being conducted at the end of this month.
+Q187 Claire Young: Sticking with the issue of the security strategy, what
+specific metrics will determine whether it has been successful in
+increasing cyber-security resilience in the energy sector, particularly
+given increasing distribution and changing threats? The absence for a
+period of any successful cyber-attacks does not necessarily mean you
+have a comprehensively resilient sector.
+Deborah Petterson: I will pass to Stuart in just one moment, but there
+is a thing about working in risk that the absence of an incident, the crisis
+that did not happen, is hard to judge and assign a value to. It has been
+estimated that the outage in the Iberian Peninsula cost the economy in
+one day €1.6 billion, I think it is. There is that very extreme example.
+The Jaguar Land Rover and Marks & Spencer incidents have shown the
+potential for loss to the UK economy, but for the actual metrics I will pass
+to Stuart.
+Stuart Okin: The key metrics for the strategy will be around exercising
+and testing. You should not be looking at, as you have just said, incidents
+in that respect. You should be looking at exercising and testing. There are
+a number of different measurements even underneath that. With the
+operators of essential services at the moment, the critical national
+infrastructure, we have an assurance programme that we expect them to
+be sending to us every year—their assurance plan, how they are
+exercising, how they are testing—and we can pick up on particular areas.
+We have made it very clear in the objectives, that it is not about having a
+clear test result. In fact, we want you to go and find those problems, and
+that is very clear in our documentation. When you find the problems, how
+are you going to mitigate them? That is what we will hold you
+accountable to on the timelines. That is done with either individual or
+groups; the operators can group together and test that.
+Then the systemic testing, which NESO will be conducting—we also do
+exercising and testing for big gas outages—usually in October, also
+includes electricity downward effect. Exercising, testing, constantly
+looking for problems, gaps and fixing those gaps are the KPIs that we
+measure the success on.
+Q188 Claire Young: Given that we have new and emerging threats, such as
+rapid advancements in AI weaponisation by threat actors, how will the
+strategy be changed to counter those?
+Stuart Okin: We have written, as a quota actually—we did this very
+quickly after the Mythos on 7 April. We wrote quite quickly to the
+operators to ask them to focus their attention on that particular area and
+indeed Poland’s lessons as well.
+The thing about AI, and it is really important, is that machine learning
+has been around for some time, and AI is just an extension to this. It is
+an incredible powerful thing and it will be absolutely necessary for us to
+balance the system. When we were talking about the weather system,
+there are some great AI solutions in cloud casting that I know NESO are
+using, so this is incredibly important, but also it can be used to
+weaponise. NCSC recently came out with a blog about the fact that we
+now expect huge amounts of patching off the back of the Glasswing
+programme, and there are other similar models.
+How does it change? It means that certain things like island mode
+become incredibly important. That is part of our inspections, to make
+sure that operators can literally pull the plug if they need to be able to do
+so. It is a requirement under our guidance and our overlays that they are
+able to work with either no digital or partial digital; it is actually an area.
+It will be tricky. We are expecting AI defence mechanisms to come as
+well in place, but there are mitigations we can take today.
+Deborah Petterson: Can I build on that as well? The Claude Mythos or
+the ChatGPT 5.5 is already rolled out. I always like Jen Easterly’s view on
+this—the ex-head of CISA in the US—that we do not so much have a
+cyber-security problem as we have a software coding problem with bad
+code. In some ways, rather than this being apocalyptic, it is also an
+opportunity because it is good at finding bad code. We will have a wall of
+patches to fix the bad code, like draining the swamp of all that enduring
+and legacy code that was not well-written in the first place. We have this
+sprint now, but it will leave us in a stronger place.
+Q189 Claire Young: It has been suggested to us that it is not clear what types
+of cyber-attacker the Government are now expecting OESs to protect the
+energy networks from. Do you think that is a fair criticism?
+Deborah Petterson: Do we care what cyber they are?
+Stuart Okin: I am not sure it is a fair criticism. We have a very clear
+definition that NCSC has led us towards, which is then signed off as a risk
+appetite by DESNZ, which is the type of attacker—whether it is state or
+non-state—that we are trying to protect against is professional in nature,
+is able to use known vulnerabilities, and is able to stay undetected for
+some time and laterally move around the systems. That is the definition.
+Then against that definition, NCSC have basically looked at all the
+different scenarios that they had seen in the past where people with that
+definition have been able to attack and have then developed the risk
+appetite. That is what we suggest that you have for controls and changes
+in place to prevent that type of thing from occurring or that type of
+attacker profile and their capability. That is what we work towards today.
+Deborah Petterson: There are those that wish to do us harm and have
+intent to do us harm—and that could be hybrid, cyber, physical—and it is
+about our industry being prepared. What we have seen in the current
+geopolitical context is that we cannot predict tomorrow but what we can
+do is exercise and be prepared for a system that is agile and able to
+respond; so that is the objective.
+Stuart Okin: The last thing I would like to add on to this—and this is
+probably more Deb’s area from her past—is that essentially we are part
+of an ecosystem, so we must not forget our cyber-offensive capability
+and our military defence capability. The operator’s essential services are
+our last line of defence not the first line of defence.
+Q190 Claire Young: You don’t think there is any difference between nation
+state-level attacks versus compromised supply chains?
+Deborah Petterson: I would anticipate a compromised supply chain
+would probably be a nation state anyway because you need a huge
+amount of resource behind you to do something in that space. I think on
+what you mentioned earlier, and you are absolutely right about AI
+bringing new threat, is that it almost democratises or allows the least
+skilled to become skilled. Whereas maybe even 18 months ago, the
+National Cyber Security Centre would have split your hacktivist from your
+nation state attacker, you are giving the nation state attacker skillset and
+capability to a less skilled individual. Hence my question that I am not
+sure that the definition matters any more.
+Our operators of central services, and certainly in the energy system, see
+themselves as the frontline of defence. They are home defence, the Dad’s
+Army of our day, who are there ready to defend and motivated to do so.
+Q191 Claire Young: Stepping back from that, do you think there is sufficient
+Government and regulatory oversight of the cyber-protection of
+electricity transmission networks?
+Deborah Petterson: I will allow Ofgem to defend themselves.
+Stuart Okin: Again, in the last two to three years we have seen an
+absolute acceleration of focus, and you have designated a good
+Permanent Secretary as well.
+Q192 Claire Young: Are there any gaps you would identify in that oversight?
+Stuart Okin: The gaps are the ones that I have mentioned earlier on.
+There are quite a few gaps and they will be addressed by the Cyber
+Security and Resilience Bill, the supply chain being an example of that.
+Deborah Petterson: The threat changes fast. When it comes to an
+outcome-based system, for us it is often loss of load expectation or the
+ability to restore in certain timeframes, because you cannot predict what
+the threat of the future will be. We have been admired overseas for
+having regulation that is outcome-focused, which does not assume a
+certain type of threat and a certain type of attack, and I think that is
+right.
+We do observe gaps, and one of the benefits of the policy Department
+not being present in NESO’s governance to create that independence
+means that we can observe, which can obviously bring a healthy tension
+sometimes between the policy Department and NESO. An example of that
+was observing where there was regulatory uncertainty in North Hyde and
+observing where there were issues that needed to be addressed by
+Ofgem and DESNZ in who was responsible in certain areas. We are
+empowered to do that with the duty of candour that NESO has on risk.
+Q193 Claire Young: Do you feel that your feedback on that is being listened
+to?
+Deborah Petterson: They accepted every recommendation from North
+Hyde. Another example where again it was an uncomfortable message
+was our gas security of supply assessment, where last October we
+published the report that observed an emerging risk to our gas security
+of supply in five and 10 years’ time. The Secretary of State ordered an
+immediate consultation on how to mitigate that risk that was emerging.
+Stuart Okin: I was just going to say very quickly, one recommendation,
+as we move forward in the Cyber Security and Resilience Bill, is: do not
+be too prescriptive. There is always this challenge or there is this need to
+write everything down and to specify what every organisation should do.
+The problem with that is that we move so fast or whatever is written is
+out of date as soon as you write it, so be high level. One of the beauties
+of the new regulation is that an appropriate proportion of it is very high
+level.
+Q194 Claire Young: One final very quick question. Stuart, how do you assess
+the adequacy of funding for cyber-security upgrades under the RIIO-3
+price control framework?
+Stuart Okin: For RIIO-2 and ED2, that period, about £2 billion was
+allocated for cyber, although that includes some control room upgrades,
+some big areas. That is not just for upgrades, that is for operations as
+well, the whole area. For RIIO-3, £1.2 billion has been allocated to the
+security side of things. Again, that includes full operations. In the RIIO-2
+and ED2 period, the previous period, that created about 2,000 roles
+inside the sectors, which I think is incredibly important—you need to
+have that capability. As I said, that is where we are starting to see the
+sea change.
+Q195 Torcuil Crichton: I am going to ask some questions about gas security,
+and, Deborah, for you to update us on what you have told the Ministers
+about that. First, you have been in cyber-security, infrastructure security,
+running the risk assessments for over two decades. Do you sleep at
+nights, should we sleep at nights and should Ministers sleep at nights?
+Deborah Petterson: Just over a decade on the national security side.
+The UK is admired for the way in which the intelligence services have
+reached out to industry and partners and are more open, and the
+creation of the National Cyber Security Centre allowed for that. I feel that
+my job is to have the sleeplessness on your behalf. Having been
+immersed in the threat and the intent and the capability of those who
+wish to do us harm, it is really serious and it is not something we take for
+granted for the resilience of our system.
+It has been fantastic joining NESO. There is a sense of mission by our
+power system engineers to maintain a secure and resilient system—itis
+like it is in their DNA. It feels like a very similar environment to that in
+national security. Therefore, our ability now to reach into the national
+security community, the outreach by defence and home defence to
+ensure we have greater and deeper partnerships, the information sharing
+that is being set up and is starting to flow, means I think you can feel
+confident in the UK, along with the real openness to the international
+security roundtable I mentioned the first we had.
+We had our Five Eyes nations with the Ukrainians, the Latvians, and the
+Norwegians, talking through what it is like to have an aggressive
+neighbour testing your infrastructure all the time or destroying it, and
+then taking us through step by step what they are doing and what we
+need to think about. It is important not to be complacent, but you have
+an industry that really is not.
+Stuart Okin: Just to add to that, you are two decades, mine is three
+decades. You can sit there and get very depressed continuously reading
+threat reports and risks and outages and also having to deal with them
+on the ground. Therefore, you also have to balance that with the costs
+that are associated with fixing that. Do we want to build bunkers around
+every single substation, and so on? Is that appropriate?
+There is a constant flow between that risk profile and then the cost of
+repairing it, but I make no apologies. We have fined £30 million-worth of
+fines under NIS because we had not seen appropriate and proportionate
+action being taken, and we do so. I think that is where we have to take
+action.
+Deborah Petterson: We must, of course, add we have an incredibly
+resilient grid—like, 99.999% resilience; it is one of the best in the world.
+I think that diversity of energy sources, the redundancy we have in the
+system already, and although that has been there—it was designed
+between the war periods to be a resilient grid in wartime, and it is
+absolutely right. We reassess the geopolitical threat.
+The grid has been designed and our markets have been designed to drive
+efficiency and lower cost, but cost, resilience and clean are like three
+dials that we have to dial up and down depending on circumstance, and it
+is for Ministers to decide at any time where that priority is. We will always
+prioritise a secure grid, but we need to build in deep, increasing
+redundancy, increasing resilience. I think there is an active conversation
+at the moment about whether we can justify that investment.
+At NESO, we have literally just been given the resource to create a new
+team, to look at cascade and compounding risk, to see if there is a sweet
+spot where we can invest that gives us both security, clean and
+affordable all in one place. I look forward to telling you more about that
+in future.
+Q196 Torcuil Crichton: Can I ask your advice to Ministers on the gas network
+resilience there, where we get it from the North sea, from Norway, from
+through Europe and LNG?
+Deborah Petterson: That is absolutely right.
+Torcuil Crichton: What is your advice to me on what the best and most
+cost-effective way of securing gas supply is?
+Deborah Petterson: As I have mentioned, we provide this independent
+assessment and analysis to Government on any risk to the system, and a
+fundamental tenet of resilience is having adequate resources, and gas is
+an integral part of our system. We are required under licence to publish
+each year a five and 10-year outlook on security of supply, and there is
+an emerging risk. The Secretary of State acted immediately on that to do
+a consultation that closed—I think it was about three or four months
+ago—and we are looking forward to hearing the assessment and how and
+what the approach will be to addressing that risk.
+For me, as I have mentioned before, like with our supply chain, with our
+types of energy, equally with gas, having that diverse mix of gas—just to
+assure people in the middle east—this Committee is probably all aware
+but I do not think the public are—that we only secured 5% of our
+resources from the middle east. The vast majority of gas that we do not
+take from the North sea was secured from the US and Canada. After
+2022, the gas split into two basins, with the middle east going towards
+the east and Asian nations and Europe being supplied by Australia,
+Canada, America. What we had anticipated before the conflict was the
+gas markets going to oversupply by the end of this year. In some ways,
+the conflict has brought it back into balance, but there is no shortage of
+gas molecules.
+Q197 Torcuil Crichton: All that imported stuff is LNG that comes in?
+Deborah Petterson: Yes.
+Q198 Torcuil Crichton: How do we deal with the scenario of peak winter
+demand and bad weather and tankers trying to get into ports, for
+example? Have you looked at that?
+Deborah Petterson: Yes. As I said, that comes into the modelling of
+30,000 weather scenarios every single day. In the UK we have a security
+of supply standard, and that is that we have sufficient margins to supply
+gas on a cold day, which is a one-in-20 cold day—that is a period,
+actually, which stretches to 11 days, so we are looking across an 11-day
+cold, grey, still period—and with the loss of our largest piece of
+infrastructure. We compound both those things and then if we have
+sufficient margin to take us through our peak demand—for this January, I
+think our peak demand was about 45 GW—we feel we have sufficient
+supply. That is a security of supply standard we thought might to be at
+risk in five and 10 years’ time that is looking forward to address now.
+Q199 Torcuil Crichton: What is best to guarantee gas supplies? Should we
+build more storage? Should we import more energy? Should we take
+more out of the North sea?
+Stuart Okin: Again, I am going to push back and say that is a decision
+for DESNZ.
+Deborah Petterson: I think it is absolutely right that we have this broad
+and diverse range. You mentioned we have the Norwegian continental
+shelf and the UK continental shelf, which still provides just over a third of
+our gas. We have LNG and we have storage, and we have the
+interconnector to Europe. We have this basket of supplies that means we
+are not reliant on one single thing. The North sea is declining and it is
+declining at a faster rate, but of course we still have that and it is still
+there.
+Stuart Okin: NESO are working on the spatial planning as well, so that
+will have a big influence on the design of the future.
+Q200 Ms Polly Billington: I want to follow up, before I go to my international
+co-ordination question, on your reference to the people who do this as
+the sort of Dad’s Army of the 21st century, which I like. I also note,
+however, that in the strategy it cites the fact that the UK faces a
+significant shortage of professionals who have the required combination
+of cyber and engineering skills with an insufficient number of securitycleared industry staff. Whose responsibility is it to tackle that problem?
+Stuart Okin: I would say it is all of our responsibilities.
+Ms Polly Billington: Forgive me Stuart, when it is everybody’s
+responsibility it ends up being nobody’s.
+Stuart Okin: It is no one’s responsibility, no, I get that. At the moment
+DSIT is running a big programme to try to improve that, but when I say it
+is all, we have been encouraging our operators of essential services to
+reach out, have apprentice schemes to connect in to do that training.
+There is a responsibility on ourselves to make sure that as part of the
+investment funds that are coming through RIIO, which was mentioned
+earlier, there is the ability to train an apprentice.
+There are responsibilities there and then you have DSIT that takes a
+broader perspective on these things. It is a challenge and there is no
+doubt about that. I remember reading a report that said one in three
+posts are not being filled, which is not good. It is something that we all
+need to focus on. We have been running campaigns and we have had no
+shortage of applicants. For any particular campaign that we run we will
+get 500 applicants coming through. It is then making sure that they have
+the right skillsets. In Ofgem we pride ourselves on training people
+through. We bring them in early careers, train them through, and then if
+they leave and join the industry, so be it. It is something that we have
+responsibility for across the piece, but I understand your point.
+Deborah Petterson: Skills is not an area that NESO covers, but we have
+our own apprenticeships. I know from my experience in the National
+Cyber Security Centre, the CyberFirst programme, the CyberGirls
+programme—I have always thought there should be a CyberSecond, so
+that would be my hat, a scheme for people looking to retrain. There is a
+degree to which the frontier AI will support building those skills and
+provide the tooling that is needed at greater scale. I know that there is a
+lot of government programmes in this space and we are certainly
+involved in the apprenticeships.
+Q201 Ms Polly Billington: How serious is it as a risk? It feels a bit like our
+frontier is short-staffed.
+Stuart Okin: It is a risk. I am not sure I have a number to put on to the
+risk. As I say, 2,000 roles have been created in the last few years, and
+been filled, and they cross everything from policy right through to
+engineers. We have some of the best universities in the country and
+some great apprentice schemes. It is a risk and something to be
+constantly focused on, but I would not put a number against it per se.
+Q202 Ms Polly Billington: My final question is about international coordination. We went as a Select Committee to Brussels and visited NATO,
+talked to them about energy security and how it links into national
+security, as you mentioned, Deborah. How has sharing best practice with
+Five Eyes nations helped to better protect the UK’s national
+infrastructure?
+Deborah Petterson: We had an excellent meeting, and it is the Five
+Eyes learning from our European partners, too. In fact in my team we
+have one of the UK NATO expert advisers; my head technical officer for
+resilience also supports the UK in that way. Some of the best practice
+that the Five Eyes nations brought—New Zealand on that, the isolating—I
+think it is bringing up the drawbridge and operating independently and
+they talked us through that.
+AEMO, our Australian partners, were talking through how they do wholesector live exercising every year, and that is something we are certainly
+going to look to explore and how we could roll out with NESO, where you
+bring—and not just desk-based, like doing operational exercising across
+all market participants annually. Texas is talking through some of its
+work with data centre and intelligence sharing, and there is something
+called the Lighthouse Project in Canada, where they have this very deep
+partnership of how they enrich intelligence for their energy sector and get
+that out.
+Equally, they were fascinated hearing Latvian stories, about how they are
+managing drones, the Norwegian total defence concept that you
+referenced earlier, and of course the Ukrainians talking about how they
+are securing their substations against drone attack and conflict. It was a
+really meaningful exchange, and we will be meeting with them in a
+couple of months’ time to then decide the next steps of following up.
+Another area involving the Five Eyes—actually, it was not that particular
+roundtable, but my team went for the first time to Washington for Five
+Eyes on space weather. Not all risks are geopolitical in nature; some are
+just the sun. The UK was in a period of intense solar activity that can
+have an impact on our grid and our digital infrastructure and how it
+operates. My team have worked with industry and partnerships to come
+up with new guidance, new codes for how we manage this period of high
+solar activity. Partly it is the Met Office supporting so we can predict it,
+and now we have rehearsed processes and exercises in place so we know
+how to step through that.
+But New Zealand is well ahead on that and they have already rolled out
+some of the things that we are planning, and were able to say, “Actually
+do less of that, do more of that, we invested there, we recommend”. The
+ability to share information freely and openly is enabling us to learn the
+lessons of others before we make mistakes ourselves.
+Stuart Okin: That is a long list, so I will keep my list very short. We
+have to work internationally on all areas. Two years ago, as an example,
+we were involved in a European exercise—the very first European
+exercise on cyber—even though we were outside Europe but we were
+invited to participate. Ofgem participated in that.
+One of my members is a voting member for the 62443 standard, which is
+an international standard that everybody looks to from the operational
+technology perspective in cyber and energy, and indeed in other areas
+like water and so on. Looking at the internal energy markets and coming
+together on that requires even further integration potentially with our
+European colleagues. There is a lot of work that we do.
+To finish off, again, my pick on the area of supply chain, there is no way
+that any single country can dictate a supply chain. It has to be an
+international effort because we have suppliers coming from all sorts of
+places. We are very lucky in the UK. We have General Electric and
+Schneiders and a few others where they send to themselves software
+development here in the UK. That is very good but we cannot rely on
+that. We have to work with our international partners, especially the Five
+Eyes, in developing standards and guidance, and so on to help the supply
+chain secure us through the future.
+Q203 Chair: To come back, Stuart, to what you said about the European
+energy market, how important do you think it is that we have closer
+integration in energy? We have seen the discussions around closer ties,
+but there is some way to go in finalising arrangements. What is your
+position on where you think we need to get to?
+Stuart Okin: Again, I want to be very clear, it is DESNZ’s decision on
+internal markets and our integration.
+Chair: But as you mentioned it.
+Stuart Okin: But as I mentioned it, we obviously therefore will respond
+to that. DESNZ has said it is looking towards that, so we need to
+respond. Our response from a cyber perspective is to look into what we
+need to do differently. Things have moved on in the last few years, and
+generally a lot of the guidance and standards in Europe still have not
+been ratified themselves. We are in a very good place to be able to
+integrate from a cyber perspective. I think that a little bit more work will
+be required to make sure that we are at various parts of the various
+different committees that are run there. But in enacting it within the UK,
+if we decide that is the route that the Government wish to take, from a
+cyber perspective it will be okay.
+Q204 Chair: What about from a supply perspective, supply of energy, energy
+resilience?
+Deborah Petterson: We are physically connected to 10 European
+nations. Our control room is speaking every single day to our European
+partners on managing supply and connection. Also we have been invited
+as NESO again, because we are set slightly apart from Government, to sit
+and observe on ENTSO-E. We are part of Coreso and part of the Hamburg
+Declaration on the North sea and offshore co-operation. As I said, there is
+real openness to partner and regularly partnering and speaking and
+joining. While we will also give formal advice to DESNZ and the Cabinet
+Office on any negotiations looking at the formal European arrangements,
+informally, on a partnership level, we are working with them day in, day
+out.
+Q205 Chair: Deborah, to come back to what you have been saying about
+civilian and military resources working together—and in particular you
+quoted the Norwegian approach—it strikes me what you are advocating
+here is seeing the energy resilience funding that we have, whether it is
+with NESO or more widely, as a part of defence. It feels like you are
+suggesting that doing something along those lines would be helpful.
+Deborah Petterson: I would not dream of suggesting how the
+Government spend its money. However, it is absolutely true that article 3
+of NATO talks about resilient grid infrastructure. Article 3 is how we
+defend and look after our own nation, and a resilient grid infrastructure is
+listed as one of the elements. I have certainly been talking to home
+defence, understanding joint command in MOD about our closer
+partnership in this space.
+Q206 Chair: Even if we do not formally allocate it as defence spending, we
+should be confident in seeing it in those terms?
+Deborah Petterson: I would describe energy as mission-vital
+infrastructure for defence, and therefore would expect them to be
+extremely interested in the resilience of our grid.
+Chair: That is very helpful. Thank you, both, for your extremely helpful
+and informative evidence, and that ends our session.

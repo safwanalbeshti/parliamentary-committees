@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sips -g pixelWidth -g pixelHeight committee_room.png)",
+      "Bash(iconv -f MACROMAN -t UTF-8 Committee_1.txt)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(file \"Energy Resilience\"/*.txt PROMPT.txt)",
+      "Bash(sips -g pixelWidth -g pixelHeight \"Energy Resilience/committee_room_4.png\" \"Energy Resilience/committee_room_5.png\")",
+      "Bash(mkdir -p /tmp/crops)",
+      "Bash(sips -c 260 1400 --cropOffset 840 250 committee_room_4.png --out /tmp/crops/r4_witnesses.png)",
+      "Bash(sips -c 240 1400 --cropOffset 450 1150 committee_room_4.png --out /tmp/crops/r4_top.png)",
+      "Bash(sips -c 260 1000 --cropOffset 620 300 committee_room_4.png --out /tmp/crops/r4_left.png)",
+      "Bash(sips -c 280 700 --cropOffset 580 2080 committee_room_4.png --out /tmp/crops/r4_right.png)",
+      "Bash(sips -c 130 480 --cropOffset 510 1230 committee_room_4.png --out /tmp/crops/p_topleft.png)",
+      "Bash(sips -c 130 480 --cropOffset 530 1640 committee_room_4.png --out /tmp/crops/p_topcenter.png)",
+      "Bash(sips -c 130 480 --cropOffset 530 2060 committee_room_4.png --out /tmp/crops/p_topright.png)",
+      "Bash(sips -c 160 600 --cropOffset 660 2150 committee_room_4.png --out /tmp/crops/p_rightwoman.png)",
+      "Bash(sips -c 200 800 --cropOffset 700 320 committee_room_4.png --out /tmp/crops/p_leftside.png)",
+      "Bash(sips -c 1536 1400 --cropOffset 0 0 committee_room_4.png --out /tmp/crops/r4_lefthalf.png)",
+      "Bash(sips -c 1536 1400 --cropOffset 0 1388 committee_room_4.png --out /tmp/crops/r4_righthalf.png)"
+    ]
+  }
+}

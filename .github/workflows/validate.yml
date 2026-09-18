@@ -1,0 +1,32 @@
+name: Validate condensations
+
+on:
+  pull_request:
+    paths:
+      - "inbox/**/condensation.json"
+      - "scripts/**"
+      - "tests/**"
+      - "index.html"
+      - "sessions/**"
+      - "assets/**"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the project
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Run tests
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Validate all submitted condensations
+        run: python3 scripts/parliament_pipeline.py validate
