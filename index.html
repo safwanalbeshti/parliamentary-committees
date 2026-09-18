@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Parliamentary Committees, in Plain English</title>
-    <link rel="stylesheet" href="styles.css?v=3" />
+    <link rel="stylesheet" href="styles.css?v=4" />
     <link rel="preload" as="image" href="Energy Resilience/committee_room_4.png" />
   </head>
   <body>
@@ -15,8 +15,22 @@
           Public evidence sessions, retold as short dialogues you can step through.
           Pick a meeting to begin.
         </p>
+        <div class="menu-modes" role="group" aria-label="Group meetings by">
+          <button type="button" class="mode-button" data-mode="inquiry" aria-pressed="true">
+            By inquiry
+          </button>
+          <button type="button" class="mode-button" data-mode="committee" aria-pressed="false">
+            By committee
+          </button>
+        </div>
       </header>
-      <div class="meeting-list" id="meetingList"></div>
+
+      <div class="menu-crumb" id="menuCrumb" hidden>
+        <button type="button" class="crumb-back" id="crumbBack">← All committees</button>
+        <span class="crumb-title" id="crumbTitle"></span>
+      </div>
+
+      <div class="block-grid" id="blockGrid"></div>
       <p class="menu-footnote">
         Condensed and paraphrased from official transcripts — not a verbatim record.
         Contains Parliamentary information licensed under the Open Parliament Licence v3.0.
@@ -207,6 +221,6 @@
     <script src="sessions/generated/oral-evidence-18094.js?v=e99a9d4c"></script>
     <script src="sessions/generated/oral-evidence-18095.js?v=5332c431"></script>
     <!-- GENERATED_SESSIONS_END -->
-    <script defer src="app.js?v=3"></script>
+    <script defer src="app.js?v=4"></script>
   </body>
 </html>

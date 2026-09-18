@@ -20,11 +20,16 @@ const KIND_LABELS = {
 };
 
 const STORAGE_KEY = "committee-viewer-progress";
+const MENU_MODE_KEY = "committee-viewer-menu-mode";
 
 const el = {
   appMain: document.querySelector("main.app"),
   meetingMenu: document.querySelector("#meetingMenu"),
-  meetingList: document.querySelector("#meetingList"),
+  blockGrid: document.querySelector("#blockGrid"),
+  modeButtons: [...document.querySelectorAll(".mode-button")],
+  menuCrumb: document.querySelector("#menuCrumb"),
+  crumbBack: document.querySelector("#crumbBack"),
+  crumbTitle: document.querySelector("#crumbTitle"),
   menuBtn: document.querySelector("#menuBtn"),
   stage: document.querySelector("#stage"),
   roomImage: document.querySelector("#roomImage"),
@@ -76,6 +81,8 @@ let cast = new Map();
 let currentIndex = 0;
 let isPlaying = false;
 let playTimer = null;
+let menuMode = "inquiry";
+let openCommittee = null;
 
 init();
 
@@ -91,7 +98,14 @@ function init() {
 
   buildSessionPicker();
   bindControls();
-  renderMeetingMenu();
+
+  let storedMode = "inquiry";
+  try {
+    storedMode = localStorage.getItem(MENU_MODE_KEY) || "inquiry";
+  } catch {
+    /* storage unavailable — fine */
+  }
+  setMenuMode(storedMode);
 
   const fromHash = readHash();
 
@@ -147,64 +161,171 @@ function sessionMenuLabel(item) {
   return label.startsWith(prefix) ? label.slice(prefix.length) : label;
 }
 
-function renderMeetingMenu() {
-  const fragment = document.createDocumentFragment();
-
+function committeesFromSessions() {
+  // One block per committee, holding that committee's inquiry groups.
+  const groups = new Map();
   for (const meeting of meetingsFromSessions()) {
-    const card = document.createElement("article");
-    card.className = "meeting-card";
-
-    const heading = document.createElement("header");
-    heading.className = "meeting-heading";
-
-    const title = document.createElement("h2");
-    title.className = "meeting-committee";
-    title.textContent = meeting.title;
-    heading.append(title);
-
-    if (meeting.committee) {
-      const committee = document.createElement("p");
-      committee.className = "meeting-date";
-      committee.textContent = meeting.committee;
-      heading.append(committee);
+    // meeting.committee is empty when the group already IS a committee fallback.
+    const name = meeting.committee || meeting.title;
+    if (!groups.has(name)) {
+      groups.set(name, { name, meetings: [], sessionCount: 0, when: 0 });
     }
+    const group = groups.get(name);
+    group.meetings.push(meeting);
+    group.sessionCount += meeting.sessions.length;
+    group.when = Math.max(group.when, meeting.when);
+  }
+  return [...groups.values()].sort((a, b) => b.when - a.when);
+}
 
-    card.append(heading);
+function plural(count, word) {
+  return `${count} ${word}${count === 1 ? "" : "s"}`;
+}
 
-    const list = document.createElement("div");
-    list.className = "meeting-sessions";
+// An inquiry block: the face shows the title, hovering reveals its sessions.
+function inquiryBlock(meeting, showCommittee) {
+  const block = document.createElement("article");
+  block.className = "block";
+  block.tabIndex = 0;
 
-    meeting.sessions.forEach((item) => {
-      const button = document.createElement("button");
-      button.type = "button";
-      button.className = "meeting-session";
+  const face = document.createElement("div");
+  face.className = "block-face";
 
-      const name = document.createElement("span");
-      name.className = "meeting-session-name";
-      name.textContent = sessionMenuLabel(item);
+  const title = document.createElement("h2");
+  title.className = "block-title";
+  title.textContent = meeting.title;
+  face.append(title);
 
-      const when = document.createElement("span");
-      when.className = "meeting-session-date";
-      when.textContent = item.date || "";
-
-      const summary = document.createElement("span");
-      summary.className = "meeting-session-summary";
-      summary.textContent = item.summary || "";
-
-      const go = document.createElement("span");
-      go.className = "meeting-session-go";
-      go.textContent = "→";
-
-      button.append(name, when, summary, go);
-      button.addEventListener("click", () => enterSession(item.id));
-      list.append(button);
-    });
-
-    card.append(list);
-    fragment.append(card);
+  if (showCommittee && meeting.committee) {
+    const meta = document.createElement("p");
+    meta.className = "block-meta";
+    meta.textContent = meeting.committee;
+    face.append(meta);
   }
 
-  el.meetingList.replaceChildren(fragment);
+  const count = document.createElement("p");
+  count.className = "block-count";
+  count.textContent = plural(meeting.sessions.length, "session");
+  face.append(count);
+
+  block.append(face);
+
+  const reveal = document.createElement("div");
+  reveal.className = "block-reveal";
+
+  const revealTitle = document.createElement("p");
+  revealTitle.className = "reveal-title";
+  revealTitle.textContent = meeting.title;
+  reveal.append(revealTitle);
+
+  for (const item of meeting.sessions) {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "reveal-session";
+
+    const name = document.createElement("span");
+    name.className = "reveal-session-name";
+    name.textContent = sessionMenuLabel(item);
+
+    const when = document.createElement("span");
+    when.className = "reveal-session-date";
+    when.textContent = item.date || "";
+
+    button.append(name, when);
+    button.addEventListener("click", (event) => {
+      event.stopPropagation();
+      enterSession(item.id);
+    });
+    reveal.append(button);
+  }
+
+  block.append(reveal);
+
+  // Touch devices have no hover: tapping the face opens the same panel.
+  block.addEventListener("click", () => block.classList.add("is-open"));
+  block.addEventListener("mouseleave", () => block.classList.remove("is-open"));
+  block.addEventListener("keydown", (event) => {
+    if (event.key === "Enter" || event.key === " ") {
+      event.preventDefault();
+      block.classList.toggle("is-open");
+    } else if (event.key === "Escape") {
+      block.classList.remove("is-open");
+    }
+  });
+
+  return block;
+}
+
+// A committee block: no hover panel — clicking opens that committee's own grid.
+function committeeBlock(committee) {
+  const block = document.createElement("button");
+  block.type = "button";
+  block.className = "block block-link";
+
+  const title = document.createElement("span");
+  title.className = "block-title";
+  title.textContent = committee.name;
+
+  const inquiries = committee.meetings.length;
+  const count = document.createElement("span");
+  count.className = "block-count";
+  count.textContent =
+    `${inquiries} ${inquiries === 1 ? "inquiry" : "inquiries"}` +
+    ` · ${plural(committee.sessionCount, "session")}`;
+
+  const go = document.createElement("span");
+  go.className = "block-go";
+  go.textContent = "→";
+
+  block.append(title, count, go);
+  block.addEventListener("click", () => {
+    openCommittee = committee.name;
+    renderMenu();
+  });
+  return block;
+}
+
+function renderMenu() {
+  const fragment = document.createDocumentFragment();
+  const inCommitteeView = menuMode === "committee" && openCommittee;
+
+  if (inCommitteeView) {
+    const committee = committeesFromSessions().find(
+      (entry) => entry.name === openCommittee
+    );
+    for (const meeting of committee ? committee.meetings : []) {
+      fragment.append(inquiryBlock(meeting, false));
+    }
+    el.crumbTitle.textContent = openCommittee;
+  } else if (menuMode === "committee") {
+    for (const committee of committeesFromSessions()) {
+      fragment.append(committeeBlock(committee));
+    }
+  } else {
+    for (const meeting of meetingsFromSessions()) {
+      fragment.append(inquiryBlock(meeting, true));
+    }
+  }
+
+  el.menuCrumb.hidden = !inCommitteeView;
+  el.blockGrid.replaceChildren(fragment);
+}
+
+function setMenuMode(mode) {
+  menuMode = mode === "committee" ? "committee" : "inquiry";
+  openCommittee = null;
+  try {
+    localStorage.setItem(MENU_MODE_KEY, menuMode);
+  } catch {
+    /* storage unavailable — fine */
+  }
+  for (const button of el.modeButtons) {
+    button.setAttribute(
+      "aria-pressed",
+      button.dataset.mode === menuMode ? "true" : "false"
+    );
+  }
+  renderMenu();
 }
 
 function showMenu() {
@@ -803,6 +924,15 @@ function populateSessionPicker() {
 
 function bindControls() {
   el.menuBtn.addEventListener("click", showMenu);
+
+  for (const button of el.modeButtons) {
+    button.addEventListener("click", () => setMenuMode(button.dataset.mode));
+  }
+  el.crumbBack.addEventListener("click", () => {
+    openCommittee = null;
+    renderMenu();
+  });
+
   el.previousBtn.addEventListener("click", () => setCurrent(currentIndex - 1));
   el.nextBtn.addEventListener("click", () => setCurrent(currentIndex + 1));
   el.playBtn.addEventListener("click", togglePlay);

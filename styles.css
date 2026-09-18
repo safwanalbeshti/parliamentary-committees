@@ -1032,7 +1032,7 @@ h1 {
 /* ---------- meeting menu ---------- */
 
 .meeting-menu {
-  max-width: 860px;
+  max-width: 1040px;
   margin: 0 auto;
   padding: clamp(20px, 4vw, 48px) clamp(16px, 3vw, 32px);
 }
@@ -1044,93 +1044,203 @@ h1 {
 }
 
 .menu-header p {
-  margin: 0 0 26px;
+  margin: 0 0 18px;
   color: var(--muted);
   max-width: 56ch;
 }
 
-.meeting-list {
-  display: grid;
-  gap: 18px;
+.menu-modes {
+  display: inline-flex;
+  gap: 4px;
+  margin-bottom: 26px;
+  padding: 4px;
+  background: rgba(24, 32, 38, 0.07);
+  border-radius: 999px;
 }
 
-.meeting-card {
-  background: var(--panel);
-  border: 1px solid var(--line);
-  border-radius: var(--radius);
-  box-shadow: 0 10px 30px rgba(24, 32, 38, 0.08);
-  overflow: hidden;
-}
-
-.meeting-heading {
-  padding: 14px 18px 10px;
-  border-bottom: 1px solid var(--line);
-}
-
-.meeting-committee {
-  margin: 0;
-  font-size: 1.02rem;
-  color: var(--ink);
-}
-
-.meeting-date {
-  margin: 2px 0 0;
-  font-size: 0.82rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--muted);
-}
-
-.meeting-sessions {
-  display: grid;
-}
-
-.meeting-session {
-  display: grid;
-  grid-template-columns: 1fr auto;
-  grid-template-areas: "name go" "date go" "summary go";
-  gap: 2px 14px;
-  align-items: center;
-  text-align: left;
-  width: 100%;
-  padding: 12px 18px;
-  background: transparent;
+.mode-button {
   border: 0;
-  border-top: 1px solid var(--line);
-  cursor: pointer;
+  background: transparent;
+  border-radius: 999px;
+  padding: 7px 16px;
   font: inherit;
-  transition: background 0.15s ease;
+  font-size: 0.85rem;
+  color: var(--muted);
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease;
 }
 
-.meeting-session:first-child {
-  border-top: 0;
+.mode-button[aria-pressed="true"] {
+  background: var(--paper);
+  color: var(--ink);
+  font-weight: 700;
+  box-shadow: 0 1px 3px rgba(24, 32, 38, 0.18);
 }
 
-.meeting-session:hover,
-.meeting-session:focus-visible {
-  background: rgba(212, 154, 56, 0.12);
+.menu-crumb {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 18px;
 }
 
-.meeting-session-name {
-  grid-area: name;
+.crumb-back {
+  border: 1px solid var(--line);
+  background: var(--panel);
+  border-radius: 999px;
+  padding: 7px 14px;
+  font: inherit;
+  font-size: 0.85rem;
+  color: var(--ink);
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.crumb-back:hover {
+  background: rgba(212, 154, 56, 0.15);
+}
+
+.crumb-title {
   font-weight: 700;
   color: var(--ink);
 }
 
-.meeting-session-summary {
-  grid-area: summary;
-  color: var(--muted);
-  font-size: 0.86rem;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
+.block-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 14px;
 }
 
-.meeting-session-go {
-  grid-area: go;
+.block {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-height: 154px;
+  padding: 16px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: 0 8px 22px rgba(24, 32, 38, 0.07);
+  text-align: left;
+  font: inherit;
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.block:hover,
+.block:focus-visible,
+.block:focus-within,
+.block.is-open {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 30px rgba(24, 32, 38, 0.15);
+  /* Lift above neighbours so the reveal panel is never clipped by them. */
+  z-index: 3;
+}
+
+.block-face {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.block-title {
+  margin: 0 0 6px;
+  font-size: 1rem;
+  line-height: 1.32;
+  color: var(--ink);
+  font-weight: 700;
+}
+
+.block-meta {
+  margin: 0;
+  font-size: 0.78rem;
+  line-height: 1.35;
+  color: var(--muted);
+}
+
+.block-count {
+  margin: auto 0 0;
+  padding-top: 12px;
+  font-size: 0.72rem;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  font-weight: 700;
   color: var(--accent-strong);
-  font-size: 1.2rem;
+}
+
+.block-link .block-count {
+  padding-right: 22px;
+}
+
+.block-go {
+  position: absolute;
+  right: 14px;
+  bottom: 13px;
+  font-size: 1.1rem;
+  color: var(--accent-strong);
+}
+
+/* Hover panel listing the sessions inside an inquiry block. */
+.block-reveal {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 12px;
+  background: var(--paper);
+  border-radius: var(--radius);
+  overflow-y: auto;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.14s ease;
+}
+
+.block:hover .block-reveal,
+.block:focus-within .block-reveal,
+.block.is-open .block-reveal {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.reveal-title {
+  margin: 0 0 6px;
+  font-size: 0.7rem;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--muted);
+}
+
+.reveal-session {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  width: 100%;
+  padding: 7px 9px;
+  border: 0;
+  border-radius: 6px;
+  background: transparent;
+  text-align: left;
+  font: inherit;
+  cursor: pointer;
+}
+
+.reveal-session:hover,
+.reveal-session:focus-visible {
+  background: rgba(212, 154, 56, 0.18);
+}
+
+.reveal-session-name {
+  font-size: 0.85rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: var(--ink);
+}
+
+.reveal-session-date {
+  font-size: 0.72rem;
+  color: var(--muted);
 }
 
 .menu-footnote {
@@ -1153,12 +1263,4 @@ h1 {
 
 .menu-button:hover {
   background: rgba(212, 154, 56, 0.15);
-}
-
-.meeting-session-date {
-  grid-area: date;
-  color: var(--muted);
-  font-size: 0.78rem;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
 }
