@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18086,
+  "activity_id": 38787,
+  "document_id": 305247,
+  "meeting_date": "2026-09-15",
+  "meeting_date_display": "15 September 2026",
+  "publication_date": "2026-09-16T15:27:01",
+  "title": "General Election Planning",
+  "committee": "Administration Committee",
+  "committees": [
+    {
+      "id": 2,
+      "name": "Administration Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9437,
+      "title": "General Election Planning",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [],
+  "speaker_candidates": [
+    "Chair",
+    "Nigel Mills",
+    "Sir Charles Walker",
+    "Baroness Debbonaire",
+    "Bambos Charalambous",
+    "Mr Nigel Evans",
+    "Mary Glindon",
+    "Kirsteen Sullivan",
+    "Marie Goldman",
+    "Bob Blackman"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18086/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18086",
+  "source_sha256": "c8c0fc954cde461c5e734aa6d6fc62e112c4d1f43e181f5d6247728de124a8c5",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

@@ -1,0 +1,350 @@
+{
+  "schema_version": 1,
+  "source_id": 18077,
+  "source_sha256": "c6b9f414d9ac56322e4b21c8b4f415128ae7950a3e6cf0005b7b4246a6e98f55",
+  "title": "Ofcom's STV Cuts and Gaelic Broadcasting",
+  "label": "9 September 2026 · STV cuts and Gaelic broadcasting",
+  "summary": "The Scottish Affairs Committee questioned Ofcom about its approval of STV's changes to its news programming, which will see the STV North and Central 6pm programmes share more content, and about the governance of Gaelic broadcasting. Ofcom explained that its decision was driven by financial sustainability and changing audience habits, and that while the consultation received over 1,300 responses, mostly AI-assisted and opposed, it found no new evidence to change its view. The committee raised concerns about the handling of the consultation and the impact on regional news, while Ofcom defended its process and highlighted increased digital news consumption.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Patricia Ferguson",
+      "role": "Chair of the Scottish Affairs Committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Glenn Preston",
+      "name": "Glenn Preston",
+      "role": "Director, Scotland, Ofcom",
+      "kind": "witness"
+    },
+    {
+      "label": "Cristina Nicolotti Squires",
+      "name": "Cristina Nicolotti Squires",
+      "role": "Group Director, Broadcasting and Media Group, Ofcom",
+      "kind": "witness"
+    },
+    {
+      "label": "Kirsteen Sullivan",
+      "name": "Kirsteen Sullivan",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Dave Doogan",
+      "name": "Dave Doogan",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Douglas McAllister",
+      "name": "Douglas McAllister",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Lillian Jones",
+      "name": "Lillian Jones",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Douglas Lumsden",
+      "name": "Douglas Lumsden",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Susan Murray",
+      "name": "Susan Murray",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Mr MacDonald",
+      "name": "Mr MacDonald",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Maureen Burke",
+      "name": "Maureen Burke",
+      "role": "Committee Member",
+      "kind": "member"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Gaelic broadcasting",
+      "takeaway": "Ofcom says Gaelic broadcasting governance works well but admits there's a scrutiny gap around the Scottish Government's agreement with MG ALBA.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Good morning. We'd like to discuss STV and Gaelic broadcasting. Could you introduce yourselves?"
+        },
+        {
+          "speaker": "Glenn Preston",
+          "text": "I'm Glenn Preston, director of Ofcom Scotland. We have about 130 colleagues in Edinburgh."
+        },
+        {
+          "speaker": "Cristina Nicolotti Squires",
+          "text": "I'm Cristina Nicolotti Squires, group director for broadcasting and media. I joined Ofcom a couple of years ago after 35 years in journalism."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Gaelic broadcasting involves Ofcom, MG ALBA, the BBC and the Scottish Government. Does that complexity create governance challenges?"
+        },
+        {
+          "speaker": "Glenn Preston",
+          "text": "It runs pretty smoothly, to be honest. Ofcom's role is mostly fiduciary. We recommend appointments to the MG ALBA board, and Scottish Ministers formally appoint them. We hold the Gaelic media fund and pass it to MG ALBA. We meet them quarterly to check performance. The UK Government and Parliament set the overarching framework. Funding and statutory questions aren't for us."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Gaelic broadcasting largely operates through the BBC operating licence. Is that sufficient?"
+        },
+        {
+          "speaker": "Glenn Preston",
+          "text": "The BBC annual report gives a holistic view, not deep dives into individual services like BBC ALBA. But we do a lot of other work with MG ALBA, and our Media Nations Scotland report covers Gaelic broadcasting. There's a legitimate question about scrutiny of the MOU between the Scottish Government and MG ALBA—there's no annual assessment of that."
+        }
+      ]
+    },
+    {
+      "title": "STV decision delay",
+      "takeaway": "Ofcom says the delay was because it received over 1,100 AI-assisted responses and had to process each one carefully, not because of political pressure.",
+      "turns": [
+        {
+          "speaker": "Kirsteen Sullivan",
+          "text": "Ofcom was due to announce its decision on STV's proposals before Easter but delayed until after the Scottish Parliament elections. The NUJ called it 'astonishing'. Why the delay?"
+        },
+        {
+          "speaker": "Cristina Nicolotti Squires",
+          "text": "It was a difficult decision and we wanted to give it full consideration. We had a lot of public responses, quite a bit generated by AI—a novelty for us. We needed to go through each consultation response carefully. There was no other reasoning behind the delay."
+        },
+        {
+          "speaker": "Kirsteen Sullivan",
+          "text": "Did you not factor in that the proposals would generate a lot of responses due to the levels of concern?"
+        },
+        {
+          "speaker": "Cristina Nicolotti Squires",
+          "text": "We knew there would be many responses and how people felt, but we had to go through each one. It was the first time we had such a volume generated by AI, and we wanted to be careful. We didn't want to rush."
+        },
+        {
+          "speaker": "Glenn Preston",
+          "text": "At the start, organisations including the NUJ told us not to rush because it was too important. Then, just before the election period when we wouldn't typically publish anything with political ramifications, we were told we were too slow. We got STV's first submission in mid-October, a second in late November, published the consultation on 16 December, it closed in mid-February, and we published on 1 June. We'd never had an AI-assisted campaign like that: 90% of responses—just over 1,100—came through an AI tool called Save STV North. People could pick from a menu and send emails. We had to go through all 1,100 responses carefully, which took extra time."
+        },
+        {
+          "speaker": "Kirsteen Sullivan",
+          "text": "Are we to take it that the election, or political opposition, influenced the timing?"
+        },
+        {
+          "speaker": "Glenn Preston",
+          "text": "No. Ofcom doesn't publish anything across its entire remit during an election period."
+        }
+      ]
+    },
+    {
+      "title": "AI responses and consultation",
+      "takeaway": "Ofcom insists it read every response but admits it doesn't know how many were published and that its deadline was over-ambitious.",
+      "turns": [
+        {
+          "speaker": "Dave Doogan",
+          "text": "It seems you dropped the ball on the timing. You got 1,200 AI responses—that wouldn't faze an MP with a staff of five or six. Ofcom was caught on the hop by AI responses. Isn't that a vicious irony?"
+        },
+        {
+          "speaker": "Cristina Nicolotti Squires",
+          "text": "I wouldn't say surprised. It was the first time we had such an enormous amount—90% AI-generated—and we had to work out how to handle it and remove personal data. Maybe we were over-ambitious with the Easter deadline."
+        },
+        {
+          "speaker": "Douglas McAllister",
+          "text": "Were those AI-assisted responses published and treated as individual responses?"
+        },
+        {
+          "speaker": "Glenn Preston",
+          "text": "We treated them as individual responses in our analysis. I don't know how many were published—I'll need to check and come back to you."
+        },
+        {
+          "speaker": "Douglas McAllister",
+          "text": "If I suggested 1,300 received and less than 100 published, would that be accurate?"
+        },
+        {
+          "speaker": "Glenn Preston",
+          "text": "I'm sorry, I don't know. We'll provide that information."
+        },
+        {
+          "speaker": "Kirsteen Sullivan",
+          "text": "1,300 responses isn't a huge number. Why did AI-assisted responses take longer to process than individual ones?"
+        },
+        {
+          "speaker": "Glenn Preston",
+          "text": "It was a volume point. We read every response, not just the 1,100 AI-assisted ones."
+        },
+        {
+          "speaker": "Cristina Nicolotti Squires",
+          "text": "With hindsight, our self-imposed deadline was perhaps unrealistic. The AI responses contained a lot of data that we wouldn't normally get, and we had to treat that data carefully."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Did you go back to those individuals to ask about their data?"
+        },
+        {
+          "speaker": "Glenn Preston",
+          "text": "No, we didn't go back to them as individuals. We did not respond to them, but we did read every representation."
+        }
+      ]
+    },
+    {
+      "title": "Audience engagement and evidence",
+      "takeaway": "Ofcom argues that declining linear audiences and the need for financial sustainability justified the changes, and that no new evidence emerged from the consultation.",
+      "turns": [
+        {
+          "speaker": "Douglas McAllister",
+          "text": "You said you wanted time to engage with representations, but you didn't engage with those 1,100 people. How did you engage with audiences?"
+        },
+        {
+          "speaker": "Cristina Nicolotti Squires",
+          "text": "We did a number of engagements with organisations and newsrooms affected. We also did a large amount of audience research. The STV programme's audience has been declining for five years—last year it was a 14% share. People weren't watching it. We engage with audiences through research like Media Nations and our News Consumption Survey. Since the changes six weeks ago, audiences have stayed roughly the same, and digital video views have gone up from 64 million to 80 million a month. The programme's audience was declining; that's not because the content is no good, it's because habits are changing."
+        },
+        {
+          "speaker": "Chair",
+          "text": "You suggested the 1,300 who responded weren't watching. That's a sweeping assumption."
+        },
+        {
+          "speaker": "Cristina Nicolotti Squires",
+          "text": "I'm sorry if I misspoke. I don't know if they were viewers. I imagine they probably were."
+        },
+        {
+          "speaker": "Douglas Lumsden",
+          "text": "With 1,340 responses, mostly against, and the decision made anyway, what's the point of future consultations?"
+        },
+        {
+          "speaker": "Cristina Nicolotti Squires",
+          "text": "We moved STV from its original position; what we ended up with is not what it proposed. Public service broadcasting is struggling financially—STV's revenue is down 27%, Channel 4 is reorganising, the BBC has £500 million to save. We had to balance sustainability. I'm passionate about preserving news, but the long-term sustainability of STV was a factor."
+        },
+        {
+          "speaker": "Glenn Preston",
+          "text": "The consultation responses didn't engage much with the actual questions. There's a real concern about waiting for a crisis. The decline in linear news is across central and north. We don't want to be asleep at the wheel."
+        },
+        {
+          "speaker": "Cristina Nicolotti Squires",
+          "text": "The point of a consultation isn't just sentiment; it's evidence. No one came up with different evidence. We have to make decisions based on evidence."
+        }
+      ]
+    },
+    {
+      "title": "Revised proposals and licence changes",
+      "takeaway": "Ofcom says it rejected STV's original plan for 100% shared content and secured a revised proposal with 30% bespoke content, regional distinctiveness and digital investment.",
+      "turns": [
+        {
+          "speaker": "Lillian Jones",
+          "text": "STV revised its original proposal. How significant were the differences?"
+        },
+        {
+          "speaker": "Glenn Preston",
+          "text": "STV initially proposed 100% news sharing. We weren't happy it complied with licences, so we asked it to rethink. It came back with a 70:30 split. We published both submissions with the consultation."
+        },
+        {
+          "speaker": "Cristina Nicolotti Squires",
+          "text": "The original had no 30% bespoke content and no digital strategy. We didn't tell STV how to do it; editorial plans are down to the broadcaster. But we told it the first one was not good enough."
+        },
+        {
+          "speaker": "Douglas McAllister",
+          "text": "Did you say publicly you were minded to approve the revised proposals before the consultation?"
+        },
+        {
+          "speaker": "Glenn Preston",
+          "text": "The consultation included a minded-to-approve proposal because it met licence conditions and included extra commitments. It's common for Ofcom to give a steer. If we get evidence that counters it, we'll consider it."
+        }
+      ]
+    },
+    {
+      "title": "Financial pressures and precedent",
+      "takeaway": "Ofcom says STV's financial situation worsened dramatically since the licence was awarded, and any broadcaster can request a licence variation at any time.",
+      "turns": [
+        {
+          "speaker": "Douglas Lumsden",
+          "text": "Ofcom renewed STV's licence for 10 years starting January 2025. Nine months later STV asked to change it. Do you feel duped?"
+        },
+        {
+          "speaker": "Cristina Nicolotti Squires",
+          "text": "I wouldn't characterise it as duped. We're happy STV had finances at the time, but the picture changed. STV's financial position has changed considerably recently."
+        },
+        {
+          "speaker": "Glenn Preston",
+          "text": "Our 2022 financial sustainability testing already identified likely net costs for STV. There were three and a half years between that assessment and the licence being issued. Production costs rose dramatically. Any broadcaster can come to us at any point to ask for changes."
+        },
+        {
+          "speaker": "Douglas Lumsden",
+          "text": "Did you consider putting the licence back out to tender?"
+        },
+        {
+          "speaker": "Glenn Preston",
+          "text": "The process is that we advise the Secretary of State on sustainability, and they decide on licence terms. Once completed, there's no option to go back and say it should be different."
+        },
+        {
+          "speaker": "Douglas Lumsden",
+          "text": "Doesn't this set a precedent for others to renege on promises?"
+        },
+        {
+          "speaker": "Glenn Preston",
+          "text": "It's perfectly possible for any broadcaster to come to us. It's not uncommon for broadcasters to ask for licence changes."
+        }
+      ]
+    },
+    {
+      "title": "Regional news and digital shift",
+      "takeaway": "Ofcom argues the changes preserve journalistic jobs and regional distinctiveness while shifting to digital, but acknowledges concerns about older and rural audiences.",
+      "turns": [
+        {
+          "speaker": "Mr MacDonald",
+          "text": "I'm worried about centralisation disadvantaging the Highlands. I hear about BBC cuts in Inverness and Stornoway. Also, Westminster funds regional press in England but not Scotland. Any comment?"
+        },
+        {
+          "speaker": "Cristina Nicolotti Squires",
+          "text": "Funding is for Westminster, not us. I don't know details of BBC cuts. With STV, production moved to Glasgow, but journalists remain in Aberdeen, Dundee and Inverness. It's not centralisation of news gathering. I can't comment on BBC plans."
+        },
+        {
+          "speaker": "Maureen Burke",
+          "text": "How did you assess the impact on different communities?"
+        },
+        {
+          "speaker": "Glenn Preston",
+          "text": "We published impact assessments. One concern was that older, rural viewers might be affected by less linear local news. We countered that with increasing broadband availability. Early evidence shows older audiences shifting online, but we need to keep watching."
+        },
+        {
+          "speaker": "Douglas Lumsden",
+          "text": "Is STV unusual in seeking these changes?"
+        },
+        {
+          "speaker": "Cristina Nicolotti Squires",
+          "text": "ITV is discussing selling half its business to Sky, the BBC faces big cuts, Channel 4 is cutting roles. There are real pressures on all public service broadcasters. We haven't had other proposals."
+        },
+        {
+          "speaker": "Glenn Preston",
+          "text": "We've made licence changes for the BBC in Scotland recently, reducing its 9pm news to a 7pm half hour. So it's not unique."
+        }
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "takeaway": "Ofcom insists it takes all consultation responses seriously and that the decision was a difficult balance between sustainability and regional news provision.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "I'm intrigued: you seemed to expect members of the public to bring new evidence to refute STV. How would they do that?"
+        },
+        {
+          "speaker": "Cristina Nicolotti Squires",
+          "text": "We take responses from everybody. The First Minister's response is as relevant as a viewer from the Hebrides. No one came to us with evidence. I take your point, but evidence isn't what we expect from members of the public. We welcome all responses; people might unearth something we haven't considered."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you both very much. That's been very helpful."
+        },
+        {
+          "speaker": "Cristina Nicolotti Squires",
+          "text": "Thank you for having us. I didn't come to Ofcom to stop people getting regional news, and I'm here to make sure they continue to get it."
+        }
+      ]
+    }
+  ]
+}

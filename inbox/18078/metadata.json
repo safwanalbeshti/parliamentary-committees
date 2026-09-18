@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18078,
+  "activity_id": 38608,
+  "document_id": 305114,
+  "meeting_date": "2026-09-14",
+  "meeting_date_display": "14 September 2026",
+  "publication_date": "2026-09-15T13:02:19",
+  "title": "Delivering HS2 and Euston",
+  "committee": "Public Accounts Committee",
+  "committees": [
+    {
+      "id": 127,
+      "name": "Public Accounts Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9790,
+      "title": "Delivering HS2 and Euston",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Permanent Secretary",
+      "organisation": "Department for Transport"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chief Executive Officer",
+      "organisation": "HS2 Ltd"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director General, Major Rail Projects",
+      "organisation": "Department for Transport"
+    }
+  ],
+  "speaker_candidates": [
+    "Public Accounts Committee members present",
+    "Transport Committee members present",
+    "Chair",
+    "Dean Creamer",
+    "Jo Shanmugalingam",
+    "Mark Wild",
+    "Ruth Cadbury",
+    "Rupert Lowe",
+    "Tristan Osborne",
+    "Matt Turmaine"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18078/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18078",
+  "source_sha256": "680216eb92d5f4fd191b1617cbbca5d372e20e91078c1d0ee0093d0a33083aa5",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

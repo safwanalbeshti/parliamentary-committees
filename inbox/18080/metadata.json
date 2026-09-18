@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18080,
+  "activity_id": 38688,
+  "document_id": 305116,
+  "meeting_date": "2026-09-14",
+  "meeting_date_display": "14 September 2026",
+  "publication_date": "2026-09-15T13:16:22",
+  "title": "Air Pollution in England",
+  "committee": "Environmental Audit Committee",
+  "committees": [
+    {
+      "id": 62,
+      "name": "Environmental Audit Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9561,
+      "title": "Air Pollution in England",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Minister of State for Public Health and Patient Safety",
+      "organisation": "Department of Health and Social Care"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chief Medical Officer",
+      "organisation": "Department of Health and Social Care"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Deputy Director for Public Health System and Workforce",
+      "organisation": "Department of Health and Social Care"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Dame Diana Johnson",
+    "Professor Sir Chris Whitty",
+    "Simon Reeve",
+    "Jonathan Davies",
+    "Martin Rhodes",
+    "Sojan Joseph",
+    "Adrian Ramsay",
+    "Manuela Perteghella",
+    "Barry Gardiner"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18080/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18080",
+  "source_sha256": "3cab27378025a6df006e99e511002764af81ed555551b9167bc5675aba1bff53",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

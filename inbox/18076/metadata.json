@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18076,
+  "activity_id": 38539,
+  "document_id": 305011,
+  "meeting_date": "2026-09-08",
+  "meeting_date_display": "8 September 2026",
+  "publication_date": "2026-09-15T10:18:41",
+  "title": "Advanced Research and Invention Agency (ARIA)",
+  "committee": "Science and Technology Committee",
+  "committees": [
+    {
+      "id": 193,
+      "name": "Science and Technology Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 8514,
+      "title": "Advanced Research and Invention Agency (ARIA)",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Chief Executive Officer",
+      "organisation": "Advanced Research and Invention Agency (ARIA)"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Dr Kathleen Fisher",
+    "Baroness Willis of Summertown",
+    "Lord Duncan of Springbank",
+    "Lord Winston",
+    "Lord Patel",
+    "Lord Drayson",
+    "Lord Ranger of Northwood",
+    "Lord Booth",
+    "Baroness Jones of Whitchurch",
+    "Lord Stern of Brentford",
+    "On the point about other foundations potentially funding the same thing"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18076/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18076",
+  "source_sha256": "7bbb07a5547acda7f229150fa0befc6d306c4cec3e7e88e7e85b045a3dcce18f",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

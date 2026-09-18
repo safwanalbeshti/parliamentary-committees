@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18077,
+  "activity_id": 38567,
+  "document_id": 305073,
+  "meeting_date": "2026-09-09",
+  "meeting_date_display": "9 September 2026",
+  "publication_date": "2026-09-15T12:05:53",
+  "title": "Proposed STV cuts",
+  "committee": "Scottish Affairs Committee",
+  "committees": [
+    {
+      "id": 136,
+      "name": "Scottish Affairs Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9391,
+      "title": "Proposed STV cuts",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [],
+  "speaker_candidates": [
+    "Chair",
+    "Glenn Preston",
+    "Cristina Nicolotti Squires",
+    "We hold the Gaelic media fund",
+    "Kirsteen Sullivan",
+    "Glen Preston",
+    "Dave Doogan",
+    "Douglas McAllister",
+    "Glenn Preson",
+    "Lillian Jones",
+    "Douglas Lumsden",
+    "Susan Murray",
+    "Mr MacDonald",
+    "Maureen Burke"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18077/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18077",
+  "source_sha256": "c6b9f414d9ac56322e4b21c8b4f415128ae7950a3e6cf0005b7b4246a6e98f55",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

@@ -1,21 +1,43 @@
 # Condense this parliamentary evidence session
 
-Upload `transcript.txt` with this prompt. Read the entire transcript before writing.
+You've been given the transcript of a parliamentary committee meeting. Come up with
+a condensed version that a layman can understand. Ideally, it consists of a much
+shorter (though not very short) dialogue in which things are explained in layman
+terms. The characters speak to each other in a casual way rather than an overly
+formal way. Think hard about what the conversation is about before producing this
+condensed natural dialogue, so as to make sure that you are not misunderstanding
+what it was about. Make sure contractions are used (e.g. "isn't" instead of
+"is not"), and don't omit the speaker's name.
 
-The goal is a substantially shorter, accurate, plain-English dialogue for a general
-reader. It should still be detailed enough to preserve the important arguments,
-qualifications, disagreements and practical examples.
+Here is an example of what the dialogue should read like:
 
-Requirements:
+> Deborah: That even something not officially labelled "critical national
+> infrastructure" can still cause huge disruption. That one fire affected Heathrow,
+> transport, hospitals, GP surgeries, data centres, and more.
+>
+> Chair: So energy is connected to everything else.
+>
+> Deborah: Exactly. Energy underpins transport, health, telecoms, defence, and
+> daily life. We need better maps of how all these systems depend on each other.
+>
+> Committee Member: What about extreme weather?
 
-- Use casual, natural language and contractions such as “isn’t” and “we’re”.
+Accuracy requirements:
+
 - Preserve who said what. Never transfer a claim from one witness to another.
 - Do not invent facts, motives, consensus, quotations or speaker identities.
-- Paraphrase rather than quote. The result is not a verbatim transcript.
 - Keep meaningful challenges and disagreements instead of smoothing them away.
-- You may merge repetitive committee questions into a clearly labelled
-  `Committee Member` voice, but never merge different witnesses.
+- Keep every named speaker's real name exactly as the transcript gives it. Never
+  replace a named committee member with a generic label such as `Committee
+  Member`. Use `Committee Member` only for a speaker the transcript itself
+  leaves unnamed, and never merge different witnesses.
 - Use `Chair` for the chair when that makes the dialogue easier to follow.
+- The people listed under "Witness metadata" below are the only witnesses: give
+  exactly them kind `witness`. Every other speaker is the chair (kind `chair`)
+  or a committee member (kind `member`). A committee member is never a witness.
+
+Structural requirements (the JSON is checked automatically):
+
 - Give the session 2–8 short chapters, each with a one-sentence takeaway.
 - Aim for roughly 20–80 dialogue turns, depending on the source length. Never
   exceed 100 turns; condense harder instead.
@@ -92,6 +114,7 @@ Return exactly this structure:
   ]
 }
 
-Allowed speaker kinds are `chair`, `member`, and `witness`. If you use the composite
-label `Committee Member`, set both its label and name to `Committee Member`, give it
-kind `member`, and explain in its role that it combines repetitive questions.
+Allowed speaker kinds are `chair`, `member`, and `witness`. If you use the label
+`Committee Member` for speakers the transcript leaves unnamed, set both its label
+and name to `Committee Member`, give it kind `member`, and explain in its role that
+it stands in for unnamed questioners.

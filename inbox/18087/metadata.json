@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18087,
+  "activity_id": 38159,
+  "document_id": 305251,
+  "meeting_date": "2026-09-15",
+  "meeting_date_display": "15 September 2026",
+  "publication_date": "2026-09-16T16:05:20",
+  "title": "Scrutiny of the draft Heathrow Expansion National Policy Statement",
+  "committee": "Transport Committee",
+  "committees": [
+    {
+      "id": 153,
+      "name": "Transport Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9865,
+      "title": "Scrutiny of the draft Heathrow Expansion National Policy Statement",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Independent Chair",
+      "organisation": "Heathrow Area Transport Forum"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chief Customer and Strategy Officer",
+      "organisation": "Transport for London"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chief Customer and Strategy Officer",
+      "organisation": "National Highways"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director",
+      "organisation": "Heathrow Southern Railway Ltd"
+    }
+  ],
+  "speaker_candidates": [
+    "Transport Committee members present",
+    "Housing, Communities and Local Government Committee member present",
+    "Chair",
+    "Steven Costello",
+    "Elliot Shaw",
+    "Anthony Smith",
+    "Alex Williams",
+    "Alex Mayer",
+    "To achieve that you have to do two things",
+    "The piece of the jigsaw we are missing at the moment is",
+    "Dr Arthur",
+    "Jacob Collier",
+    "That is where we have stepped backwards from 2017",
+    "Daniel Francis"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18087/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18087",
+  "source_sha256": "0372ac6ffc41484498508af7e729617ac24e4a1cf2dbb247fc4e5b747a64504a",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

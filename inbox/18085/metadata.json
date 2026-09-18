@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18085,
+  "activity_id": 38517,
+  "document_id": 305244,
+  "meeting_date": "2026-09-15",
+  "meeting_date_display": "15 September 2026",
+  "publication_date": "2026-09-16T15:16:43",
+  "title": "Fiscal devolution in England",
+  "committee": "Economic Affairs Committee",
+  "committees": [
+    {
+      "id": 175,
+      "name": "Economic Affairs Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9761,
+      "title": "Fiscal devolution in England",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Howard Dawber OBE",
+      "role": "Deputy Mayor for Business",
+      "organisation": "London City Hall"
+    },
+    {
+      "name": "Lord Houchen of High Leven",
+      "role": "Metro Mayor",
+      "organisation": "Tees Valley"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Lord Houchen of High Leven",
+    "Howard Dawber",
+    "There is an accountability issue and a principle here",
+    "Lord Young of Cookham",
+    "Lord Petitgas",
+    "Lord Prentis of Leeds",
+    "Then the question becomes",
+    "Lord Burns",
+    "Baroness Wheatcroft",
+    "Levelling up then became, “You can’t have both",
+    "Lord Newby",
+    "Lord Carrington of Fulham",
+    "Look at Teesside specifically on planning",
+    "Lord Razzall",
+    "Baroness Alexander of Cleveden",
+    "Lord Reid of Cardowan"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18085/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18085",
+  "source_sha256": "54466dc8008907e9877fd4eaabd0fd32832efd39feb1565e4d2cf41b729b0936",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

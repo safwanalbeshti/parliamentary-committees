@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18084,
+  "activity_id": 38762,
+  "document_id": 305241,
+  "meeting_date": "2026-09-15",
+  "meeting_date_display": "15 September 2026",
+  "publication_date": "2026-09-16T13:59:00",
+  "title": "The work of the Minister for International Development",
+  "committee": "International Development Committee",
+  "committees": [
+    {
+      "id": 98,
+      "name": "International Development Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9968,
+      "title": "The work of the Minister for International Development",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Minister of State for International Development and Africa",
+      "organisation": "Foreign, Commonwealth & Development Office"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Interim Permanent Under-Secretary",
+      "organisation": "Foreign, Commonwealth & Development Office"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Kirsty McNeill",
+    "Nick Dyer",
+    "Noah Law",
+    "James Naish",
+    "Janet Daby",
+    "Tracy Gilbert",
+    "Dr Rushworth",
+    "Monica Harding",
+    "Brian Mathew",
+    "You have talked about the five securities",
+    "David Taylor",
+    "Let’s chat GPE",
+    "Yes, that is the concept"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18084/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18084",
+  "source_sha256": "9261fc8d3bcc5a2b423f2b1aa3a3b85d37507da7fd5c8e0a90c90ca3ac50962c",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}
