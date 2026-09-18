@@ -1,0 +1,288 @@
+{
+  "schema_version": 1,
+  "source_id": 18083,
+  "source_sha256": "da15ced900a17d5346892c56612602e5e5a6d994e401bb380175917b0114cbe4",
+  "title": "Gibraltar's Chief Minister on the UK-EU Treaty: Sovereignty, Fluid Borders and a Fragile Compromise",
+  "label": "15 September 2026 · Gibraltar treaty",
+  "summary": "Fabian Picardo, Chief Minister of Gibraltar, gave evidence to the European Affairs Committee on the UK-EU agreement on Gibraltar. He explained why Gibraltar voted 96% to remain in the EU in 2016, how the treaty protects British sovereignty while ensuring fluidity at the border with Spain, and addressed concerns about the European Court of Justice, taxation, residency rules, costs, and the deal's provisional application. He described the treaty as imperfect but necessary, and confirmed that sovereignty remains untouched.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Stirrup",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Fabian Picardo",
+      "name": "Fabian Picardo",
+      "role": "Chief Minister of Gibraltar",
+      "kind": "witness"
+    },
+    {
+      "label": "Baroness Suttie",
+      "name": "Baroness Suttie",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "The Duke of Wellington",
+      "name": "The Duke of Wellington",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Smith of Newnham",
+      "name": "Baroness Smith of Newnham",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Jackson of Peterborough",
+      "name": "Lord Jackson of Peterborough",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Brennan of Canton",
+      "name": "Lord Brennan of Canton",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Grantchester",
+      "name": "Lord Grantchester",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Elliott of Mickle Fell",
+      "name": "Lord Elliott of Mickle Fell",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Barrow",
+      "name": "Lord Barrow",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Ashton of Upholland",
+      "name": "Baroness Ashton of Upholland",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Tugendhat",
+      "name": "Lord Tugendhat",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Moynihan of Chelsea",
+      "name": "Lord Moynihan of Chelsea",
+      "role": "Member of the committee",
+      "kind": "member"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Why Gibraltar Voted 96% to Stay",
+      "takeaway": "Brexit threatened Gibraltar's economy and daily life, so voters overwhelmingly backed remaining in the EU.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Welcome, Chief Minister. Why did Gibraltar vote so overwhelmingly for this treaty, and how did the 2016 referendum go down there?"
+        },
+        {
+          "speaker": "Fabian Picardo",
+          "text": "2016 was very difficult. The referendum result upended our economy, or threatened to. People understood that immediately, so they voted overwhelmingly to remain."
+        },
+        {
+          "speaker": "Fabian Picardo",
+          "text": "It wasn't just the economy. It was about being able to visit family in Spain, to live our lives beyond Gibraltar's tiny geography. We saw what new EU border rules would mean when 15,000 people cross into Gibraltar every day."
+        },
+        {
+          "speaker": "Chair",
+          "text": "That sets the scene. Baroness Suttie?"
+        }
+      ]
+    },
+    {
+      "title": "The Border and the Negotiation",
+      "takeaway": "Fluidity at the frontier was the most sensitive issue, and geopolitical shifts helped accelerate talks.",
+      "turns": [
+        {
+          "speaker": "Baroness Suttie",
+          "text": "What were the most difficult practical problems Brexit caused, and will this agreement fix them?"
+        },
+        {
+          "speaker": "Fabian Picardo",
+          "text": "Fluidity at the frontier was the starkest, most dangerous issue. We have 15,000 cross-border workers arriving mainly between 7 and 10am. If each check took 15 to 30 seconds with only two or three lanes, you can imagine the chaos."
+        },
+        {
+          "speaker": "Fabian Picardo",
+          "text": "Those workers keep our public services running—health, elderly care, children's services, online gaming, insurance. Without them, we couldn't offer the high-standard services we do or fund them."
+        },
+        {
+          "speaker": "The Duke of Wellington",
+          "text": "Did the change of government in the UK in 2024 affect the negotiations?"
+        },
+        {
+          "speaker": "Fabian Picardo",
+          "text": "Both UK parties have been equally supportive throughout. The election of a Labour government gave a bit of ideological optimism because Madrid had a socialist government, but honestly, President Trump and Vice-President Vance's speech in Munich in February 2025 gave the biggest boost—everyone realised we needed to work together."
+        }
+      ]
+    },
+    {
+      "title": "Sovereignty and the ECJ",
+      "takeaway": "Gibraltar's sovereignty remains untouched, and the ECJ's role is about legal consistency, not control.",
+      "turns": [
+        {
+          "speaker": "Baroness Smith of Newnham",
+          "text": "Have the principles from March 2021 been adhered to, especially the guarantee that sovereignty won't pass to another state?"
+        },
+        {
+          "speaker": "Fabian Picardo",
+          "text": "Those were my aims, not just the UK's. The double lock on our constitution from 2006 is a sine qua non. No iota of our sovereignty has been compromised."
+        },
+        {
+          "speaker": "Lord Jackson of Peterborough",
+          "text": "Does the European Court of Justice's involvement in dispute resolution infringe on Gibraltar's sovereignty?"
+        },
+        {
+          "speaker": "Fabian Picardo",
+          "text": "Absolutely not. We voted 96% to remain in the EU, with full ECJ jurisdiction. We're agreeing to abide by the rules of a club, and the ECJ just interprets those rules. It's about jurisprudential consistency, not sovereignty."
+        }
+      ]
+    },
+    {
+      "title": "Entry Refusals and Tax Policy",
+      "takeaway": "Complex border checks allow Gibraltar and Schengen to make independent entry decisions, and Gibraltar already meets top tax standards.",
+      "turns": [
+        {
+          "speaker": "Lord Brennan of Canton",
+          "text": "How will the agreement handle refusal of individual entry into Gibraltar? Who decides, and when?"
+        },
+        {
+          "speaker": "Fabian Picardo",
+          "text": "It's complex but logical. Gibraltar does its immigration check, then Schengen does theirs. If we refuse someone but Schengen accepts them, they can go into Spain through a separate exit—just like landing in Cádiz. If we accept them but Schengen refuses, they can only visit Gibraltar."
+        },
+        {
+          "speaker": "Lord Brennan of Canton",
+          "text": "How many people fall into these categories?"
+        },
+        {
+          "speaker": "Fabian Picardo",
+          "text": "In two months of applying these arrangements, there have been no such cases. Only double refusals, where both sides say no."
+        },
+        {
+          "speaker": "Lord Grantchester",
+          "text": "How will the obligations on tax transparency and fair competition under Article 211 work for Gibraltar?"
+        },
+        {
+          "speaker": "Fabian Picardo",
+          "text": "Our tax policy already aligns with OECD best practice. We were the first in the EU to have an open register of beneficial ownership. We're happy to sign up—it doesn't stop us being a competitive, well-regulated financial centre."
+        }
+      ]
+    },
+    {
+      "title": "Jobs, Residency and Costs",
+      "takeaway": "British workers won't be displaced, new residency rules are Gibraltar's own choice, and Gibraltar will fund its own financial mechanism.",
+      "turns": [
+        {
+          "speaker": "Lord Jackson of Peterborough",
+          "text": "With the old UK visa route ended, are local businesses worried they'll recruit young Spanish people instead of young Brits?"
+        },
+        {
+          "speaker": "Fabian Picardo",
+          "text": "I'm sorry, but that's misconceived. There are almost no young Brits who wander down to Gibraltar for work. We have seven unemployed residents. 15,500 cross-border workers come daily—half Spanish, a quarter British. They'll continue to come."
+        },
+        {
+          "speaker": "Fabian Picardo",
+          "text": "Our new residence rules—like a minimum earnings threshold of about £37,000—are our own sovereign decision, not required by the treaty. We've added exemptions for young people."
+        },
+        {
+          "speaker": "Lord Elliott of Mickle Fell",
+          "text": "How much will Gibraltar pay for the financial mechanism, and will the UK contribute?"
+        },
+        {
+          "speaker": "Fabian Picardo",
+          "text": "Gibraltar will fund it from our own taxpayers and contributions from leading industries. It'll be used for training people for the Gibraltar job market. Initially low millions, potentially growing."
+        }
+      ]
+    },
+    {
+      "title": "Parliamentary Approval and Provisional Application",
+      "takeaway": "Gibraltar's parliament unanimously endorsed the treaty, and provisional application has eased border fluidity despite early hiccups.",
+      "turns": [
+        {
+          "speaker": "Lord Barrow",
+          "text": "The treaty was unanimously endorsed in Gibraltar's parliament. What were the concerns, and does the concordat protect Gibraltar?"
+        },
+        {
+          "speaker": "Fabian Picardo",
+          "text": "The Hansard shows the concerns and my responses. It's an international compromise—imperfect but exactly what we need to keep going with our sovereignty intact. The concordat clarifies who does what and has been found satisfactory."
+        },
+        {
+          "speaker": "Baroness Ashton of Upholland",
+          "text": "Why is the treaty provisionally applied, and have any issues emerged?"
+        },
+        {
+          "speaker": "Fabian Picardo",
+          "text": "We needed to avoid the new EU entry/exit system causing massive tailbacks. Provisional application from 15 July let us keep fluidity. Ratification is due in December."
+        },
+        {
+          "speaker": "Fabian Picardo",
+          "text": "Early on, we had some customs queues and a fair causing traffic issues, but we're back to 250–300 trucks a day. We're finessing the procedures."
+        }
+      ]
+    },
+    {
+      "title": "Banking, Long-Term Settlement and Trade",
+      "takeaway": "Gibraltar's banking for non-residents is gone, the treaty settles fluidity but not self-determination, and Gibraltar remains a services economy free to trade in services.",
+      "turns": [
+        {
+          "speaker": "Lord Tugendhat",
+          "text": "Is Gibraltar still used for banking by British expats on the Costas?"
+        },
+        {
+          "speaker": "Fabian Picardo",
+          "text": "No, that's no longer a discernible part of our business. Most expats bank in Spain or the UK. They come to Gibraltar to shop and see a British bobby, not to bank."
+        },
+        {
+          "speaker": "Lord Tugendhat",
+          "text": "Does this agreement settle matters for the foreseeable future?"
+        },
+        {
+          "speaker": "Fabian Picardo",
+          "text": "Fluidity is settled. Sovereignty remains reserved by both the UK and Spain. But we still fight for self-determination in New York—we're on the UN list of non-self-governing territories."
+        },
+        {
+          "speaker": "Lord Moynihan of Chelsea",
+          "text": "Will Gibraltar be controlled by EU rules on AI, product liability, cyber resilience? Will it look more like an EU overseas territory?"
+        },
+        {
+          "speaker": "Fabian Picardo",
+          "text": "We've done a deal on fluidity of people and goods, not free movement. In services, we're a free agent like the UK. We can have CPTPP and other trade agreements extended to us in services."
+        },
+        {
+          "speaker": "Lord Moynihan of Chelsea",
+          "text": "But you can't trade genetically modified food from the UK, or research it."
+        },
+        {
+          "speaker": "Fabian Picardo",
+          "text": "We've never had that research—we have nowhere to grow anything. We've made compromises to grow in services. I hope the UK's SPS agreement with the EU will let UK produce into Gibraltar."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you, Chief Minister. This has been most helpful."
+        },
+        {
+          "speaker": "Fabian Picardo",
+          "text": "Thank you. I'll be retiring soon, so this is likely my last appearance. I appreciate the committee's interest over the years."
+        }
+      ]
+    }
+  ]
+}
