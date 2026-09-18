@@ -1,0 +1,240 @@
+{
+  "schema_version": 1,
+  "source_id": 18095,
+  "source_sha256": "bf69cb60ff2943672d8b0818c641ae58c72701418fd1767df1dc10c0b6775464",
+  "title": "Governing AI: Patchwork, Gridlock and the UK's Role",
+  "label": "16 September 2026 · AI and multilateralism",
+  "summary": "The committee heard from Sam Daws and Isabella Wilkinson about how multilateral institutions should tackle artificial intelligence. They described a fragmented, gridlocked governance landscape with no binding international rules, and identified shared risks, lack of trusted information and poor crisis preparedness as core challenges. Both witnesses argued the UK has strong technical and diplomatic assets, especially the AI Security Institute and the Bletchley legacy, but needs a more joined-up, strategic approach. They recommended supporting independent evaluators, using the G20 presidency and strengthening international networks like NAAIMES while avoiding new bureaucracy.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Robertson of Port Ellen",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Committee Member",
+      "name": "Committee Member",
+      "role": "Combines repetitive questions from various members",
+      "kind": "member"
+    },
+    {
+      "label": "Sam Daws",
+      "name": "Sam Daws",
+      "role": "Senior Adviser to the Martin AI Governance Institute, University of Oxford",
+      "kind": "witness"
+    },
+    {
+      "label": "Isabella Wilkinson",
+      "name": "Isabella Wilkinson",
+      "role": "Senior Research Fellow, Digital Society Programme, Chatham House",
+      "kind": "witness"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Key governance challenges",
+      "takeaway": "AI governance must address shared risks, missing trusted information and weak crisis preparedness.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Welcome. We're looking at how multilateral institutions should deal with AI. What are the key governance issues they need to address?"
+        },
+        {
+          "speaker": "Sam Daws",
+          "text": "The list is huge. First, safety: agreeing common evaluation methods, sharing risk information, responding to incidents. Second, international security, from cyberattacks to AI-enabled bio threats and military AI. Third, regulatory interoperability. We also need cultural and linguistic diversity, information integrity, science and public health, and environmental sustainability. Data centres use a lot of energy and water, but AI could also help with efficiency and new discoveries."
+        },
+        {
+          "speaker": "Isabella Wilkinson",
+          "text": "I'd group the challenges into three types. First, shared risks: malicious risks, loss of control risks, and systemic risks like discrimination or labour displacement. They're cross-border and cross-domain. Second, trust and information: there's a lack of trusted evidence about AI risks and opportunities. Third, preparedness for disruption: we lack a crisis toolbox. Overall, we're in a state of severe gridlock in multilateral AI governance."
+        }
+      ]
+    },
+    {
+      "title": "The global patchwork",
+      "takeaway": "There are many AI governance initiatives but little connection between dialogue and action.",
+      "turns": [
+        {
+          "speaker": "Committee Member",
+          "text": "We see the UN, G7, OECD and others all working on AI governance. How do you characterise the current state of play and is there space for one organisation to lead?"
+        },
+        {
+          "speaker": "Isabella Wilkinson",
+          "text": "It's a global patchwork that's stuck. Multilateral AI governance is still in its infancy. The UN's first meeting in July had over 3,000 participants and 100 states, but no binding commitments. There's lots of dialogue but little connective tissue to implementation. Some successes exist, like standardising AI incident reporting and transparency, led by the G7 and OECD. But nothing is internationally mandated on frontier AI. Human rights abuses from military AI show areas of inertia. The Council of Europe convention puts human rights front and centre, but we need to scale that up."
+        },
+        {
+          "speaker": "Sam Daws",
+          "text": "I agree it's fragmentary. The UN has had two General Assembly resolutions on AI safety and capacity building, backed by both the US and China. Regionally, the EU is regulation-focused, while others focus on sovereignty. Minilateral initiatives are the most interesting: the G7, OECD, the Bletchley process, the Singapore Consensus, the Digital Cooperation Organization, and Chinese-led ones like the World AI Cooperation Organization. We need connective tissue between all these and to embrace the private sector."
+        }
+      ]
+    },
+    {
+      "title": "Hardcore challenges and worst-case scenarios",
+      "takeaway": "Geopolitics, commercial secrecy and the opaque nature of AI make agreement difficult, but the risks are real.",
+      "turns": [
+        {
+          "speaker": "Committee Member",
+          "text": "What are the really hardcore challenges to multilateral co-operation on AI standards? Are they more in the technical layer or the human rights layer?"
+        },
+        {
+          "speaker": "Sam Daws",
+          "text": "Three overarching challenges. First, the geopolitical and dual-use nature of AI: most agreements only cover civilian use, and there's US-China competition over chips and diffusion. Second, commercial sensitivity: companies won't reveal model weights or datasets. Third, the technology itself is opaque and fast-moving. With agentic AI, models act in the world and can collude or deceive. We need to govern the full life cycle."
+        },
+        {
+          "speaker": "Committee Member",
+          "text": "Are you worried about language like AI wiping out humanity, or 'killer robots'? How imminent is the threat?"
+        },
+        {
+          "speaker": "Isabella Wilkinson",
+          "text": "That language is unhelpful and polarising. It feeds zero-sum delusions and Cold War blocs. We should reframe towards plurality and openness. The development of AI isn't a predetermined race to a single endpoint."
+        },
+        {
+          "speaker": "Sam Daws",
+          "text": "I'm extremely worried but also optimistic. Risks like bioweapons and loss of control are real. The Cold War narrative can be self-fulfilling. Better to talk about strategic competition with shared security obligations. We've used confidence-building measures before, and there are signs of willingness from both Xi and Trump."
+        },
+        {
+          "speaker": "Committee Member",
+          "text": "If there's no agreement, what's the worst-case scenario?"
+        },
+        {
+          "speaker": "Sam Daws",
+          "text": "Nothing is inevitable. AI development is jagged. I doubt we'll ever see a moment of complete dominance. The worst case is grim, but AI isn't top of my existential risk list. It's a wicked problem like climate change."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Nuclear weapons have protocols and secrecy that give organisations traction. Chemical and biological weapons are largely unregulated. Why be optimistic about AI?"
+        },
+        {
+          "speaker": "Sam Daws",
+          "text": "The incentives are better aligned because of economic value. Companies are waking up to safety. The Biological Weapons Convention is tiny, with only four staff, but the UK could lead on strengthening it, especially given AI's impact on bio risks."
+        }
+      ]
+    },
+    {
+      "title": "The UK's role and capabilities",
+      "takeaway": "The UK has world-class technical expertise and diplomatic heritage, but needs a more joined-up approach.",
+      "turns": [
+        {
+          "speaker": "Committee Member",
+          "text": "Does the UK have the capability to shape multilateral conversations on AI? What are its unique selling points?"
+        },
+        {
+          "speaker": "Isabella Wilkinson",
+          "text": "Yes, but we must act strategically. The UK has three USPs: world-leading technical expertise, especially the AI Security Institute; diplomatic heritage, like bringing the US and China together at Bletchley; and strong partnerships, especially with the US and as a bridge to Europe."
+        },
+        {
+          "speaker": "Sam Daws",
+          "text": "I agree. The UK has a great record in science diplomacy, like on antimicrobial resistance. But I'd be critical: engagement hasn't been joined up between the FCDO and the former DSIT. We need the Cabinet Office to steer an all-government approach and a credible offer on AI development, not just safety."
+        },
+        {
+          "speaker": "Committee Member",
+          "text": "We've seen AI boost productivity. But we've cut aid and diplomacy. How should we deploy our diplomatic capacity to help emerging economies and allies?"
+        },
+        {
+          "speaker": "Sam Daws",
+          "text": "It's not about aid anymore; it's about in-kind contributions. For example, our AI Security Institute could partner with Kenya's, and work with UN agencies. AI could transform developing countries' economies through open-source models. The UK can help with capacity building and standards."
+        },
+        {
+          "speaker": "Isabella Wilkinson",
+          "text": "Two tools stand out: scenario-based capacity building to prepare for disruptions, and standards. The UK can broker agreements on democratic AI standards and should centre this area. The G20 presidency is an opportunity."
+        }
+      ]
+    },
+    {
+      "title": "Convergence, fragmentation and private sector",
+      "takeaway": "Smaller groupings will converge, but fragmentation is expected; the private sector must be involved with accountability.",
+      "turns": [
+        {
+          "speaker": "Committee Member",
+          "text": "Will we see more convergence in select groupings rather than the UN? Is a decentralised network approach better?"
+        },
+        {
+          "speaker": "Isabella Wilkinson",
+          "text": "Yes, convergence in smaller groups but fragmentation globally. That's expected. But we need interoperability. The UN AI Governance for Humanity Lab mapped this. We should build connective tissue between different approaches."
+        },
+        {
+          "speaker": "Sam Daws",
+          "text": "Technical standards are key. The BSI can influence global standards, but we must engage with European standards too. We need to connect Chinese and Western standards, perhaps through the G20. Trusted dialogues between Chinese and Western AI safety institutes are needed."
+        },
+        {
+          "speaker": "Committee Member",
+          "text": "Which areas of AI governance are most likely to produce agreement, and which are unlikely?"
+        },
+        {
+          "speaker": "Isabella Wilkinson",
+          "text": "Agreement is a spectrum. Low-hanging fruit: child protection, deepfakes, capacity building, and local models. Unlikely: military AI and disinformation regulation, due to strategic advantage dilemmas."
+        },
+        {
+          "speaker": "Sam Daws",
+          "text": "Technical standards will progress. AI-enabled bio risks could see progress. Autonomous weapons are harder. Shared evaluation and risk management are opportunities. AI for science is a huge prize."
+        },
+        {
+          "speaker": "Committee Member",
+          "text": "What about the private sector? They're shaping governance. How do we ensure accountability and action?"
+        },
+        {
+          "speaker": "Isabella Wilkinson",
+          "text": "The private sector is already in the room. We need a relationship based on accountability and agency, not just voluntary agreements. Independent third-party evaluators are key. The UK can lead on this."
+        },
+        {
+          "speaker": "Sam Daws",
+          "text": "We need clear attribution of responsibility across the supply chain. Agent identification and tracking are important. We must engage with Chinese companies too, as they're heavily regulated and close to the frontier."
+        }
+      ]
+    },
+    {
+      "title": "Institutional design and recommendations",
+      "takeaway": "Avoid reinventing the wheel; strengthen existing networks, and the UK should push for agreement on priority areas.",
+      "turns": [
+        {
+          "speaker": "Committee Member",
+          "text": "Will global governance continue under existing organisations, or do we need new ones?"
+        },
+        {
+          "speaker": "Isabella Wilkinson",
+          "text": "Avoid reinventing the wheel. Strengthen existing architectures like NAAIMES, the International Association for Safe and Ethical AI, and the Geneva AI Summit. We can learn from the Financial Stability Board, WHO, and IAEA. There's a Chatham House report, Breaking the Deadlock on AI Governance, with recommendations."
+        },
+        {
+          "speaker": "Sam Daws",
+          "text": "AI is hard to house because it's general purpose. Likely direction: existing bodies take on relevant bits. A new IAEA-style agency is unlikely without a major incident. Don't start from an organigram; it's about political compromise. The UK should work with close allies on security, and be ambitious but incremental."
+        },
+        {
+          "speaker": "Committee Member",
+          "text": "You said 'don't reinvent the wheel' but also mentioned a possible new agency. How do we resolve that tension with the gridlock?"
+        },
+        {
+          "speaker": "Sam Daws",
+          "text": "Be ambitious but incremental. Private sector voluntary agreements, regulation like California's and the EU AI Act, are having effect. The UK should have a clear pathway to the optimal situation."
+        },
+        {
+          "speaker": "Committee Member",
+          "text": "China's World AI Cooperation Organization—how does its approach differ, and what are the implications?"
+        },
+        {
+          "speaker": "Isabella Wilkinson",
+          "text": "The UK can support interoperability between WAICO and other initiatives, especially through the UN. It's in our strategic interest."
+        },
+        {
+          "speaker": "Sam Daws",
+          "text": "China focuses on sovereignty, control, and development. Its offer is low-cost, open-source, full-stack. The West needs a similar offer reflecting open societies. The UK could even join WAICO to influence from inside. Acknowledge good intent while being clear on red lines."
+        },
+        {
+          "speaker": "Chair",
+          "text": "What should this committee recommend to the Government?"
+        },
+        {
+          "speaker": "Isabella Wilkinson",
+          "text": "Two recommendations: support an independent evaluator ecosystem leveraging UK technical authority; and use UK diplomatic convening power, including the G20 presidency, to build consensus on priority areas like biosecurity."
+        },
+        {
+          "speaker": "Sam Daws",
+          "text": "I agree. The UK has a huge offer. We need a warm relationship with the US to ensure access to frontier models; regulatory alignment with the EU where beneficial; engagement with China on multiple tracks; and tailored offers to the rest of the world. This doesn't cost a lot and can ensure AI helps humanity flourish."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you both. This session is now closed."
+        }
+      ]
+    }
+  ]
+}
