@@ -6,12 +6,12 @@
 window.COMMITTEE_SESSIONS = window.COMMITTEE_SESSIONS || [];
 window.COMMITTEE_SESSIONS.push({
   "id": "oral-evidence-18083",
-  "label": "15 September 2026 · Gibraltar treaty evidence",
+  "label": "15 September 2026 · Hon Fabian Picardo KC MP",
   "committee": "European Affairs Committee",
   "date": "15 September 2026",
   "sourceUrl": "https://committees.parliament.uk/oralevidence/18083/html/",
   "sourceLabel": "Official uncorrected transcript",
-  "summary": "Fabian Picardo, Chief Minister of Gibraltar, gave evidence to the European Affairs Committee about the UK-EU agreement on Gibraltar. He explained why Gibraltar voted 96% in favour, how the treaty protects sovereignty while ensuring fluidity at the border, the role of the European Court of Justice, tax and financial matters, and concerns about residence rules for British workers. He described the treaty as imperfect but necessary for Gibraltar's economy and way of life.",
+  "summary": "The European Affairs Committee questioned Fabian Picardo, Chief Minister of Gibraltar, about the UK-EU agreement on Gibraltar. He explained why Gibraltar voted 96% to stay in the EU in 2016, how the treaty protects sovereignty while ensuring fluidity at the border, the role of the European Court of Justice, new immigration and residency rules, tax governance, financial contributions, and the practical teething problems since provisional application began on 15 July. He argued the treaty is imperfect but necessary, and confirmed that Gibraltar's sovereignty remains exclusively British.",
   "room": {
     "image": "Energy Resilience/committee_room_4.png",
     "width": 2788,
@@ -72,7 +72,7 @@ window.COMMITTEE_SESSIONS.push({
       "soft": "#d7edf0"
     },
     "Fabian Picardo": {
-      "name": "Fabian Picardo",
+      "name": "Hon Fabian Picardo KC MP",
       "role": "Chief Minister of Gibraltar",
       "description": "",
       "kind": "witness",
@@ -82,9 +82,9 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#6f5c91",
       "soft": "#ebe2f5"
     },
-    "Committee Member": {
-      "name": "Committee Member",
-      "role": "Combines repetitive questions from various members",
+    "Baroness Suttie": {
+      "name": "Baroness Suttie",
+      "role": "Committee member",
       "description": "",
       "kind": "member",
       "seats": [
@@ -92,7 +92,118 @@ window.COMMITTEE_SESSIONS.push({
       ],
       "color": "#4c7b5d",
       "soft": "#dff0dd"
+    },
+    "The Duke of Wellington": {
+      "name": "The Duke of Wellington",
+      "role": "Committee member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member2"
+      ],
+      "color": "#9b543e",
+      "soft": "#f2e0d7"
+    },
+    "Baroness Smith of Newnham": {
+      "name": "Baroness Smith of Newnham",
+      "role": "Committee member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member3"
+      ],
+      "color": "#287079",
+      "soft": "#d9eeee"
+    },
+    "Lord Jackson of Peterborough": {
+      "name": "Lord Jackson of Peterborough",
+      "role": "Committee member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member4"
+      ],
+      "color": "#b17b2e",
+      "soft": "#f5e8c4"
+    },
+    "Lord Brennan of Canton": {
+      "name": "Lord Brennan of Canton",
+      "role": "Committee member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member5"
+      ],
+      "color": "#8a5a78",
+      "soft": "#f0e2ec"
+    },
+    "Lord Grantchester": {
+      "name": "Lord Grantchester",
+      "role": "Committee member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member6"
+      ],
+      "color": "#5c676d",
+      "soft": "#e5e8e8"
+    },
+    "Lord Elliott of Mickle Fell": {
+      "name": "Lord Elliott of Mickle Fell",
+      "role": "Committee member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member1"
+      ],
+      "color": "#315f72",
+      "soft": "#d7edf0"
+    },
+    "Lord Barrow": {
+      "name": "Lord Barrow",
+      "role": "Committee member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member2"
+      ],
+      "color": "#6f5c91",
+      "soft": "#ebe2f5"
+    },
+    "Baroness Ashton of Upholland": {
+      "name": "Baroness Ashton of Upholland",
+      "role": "Committee member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member3"
+      ],
+      "color": "#4c7b5d",
+      "soft": "#dff0dd"
+    },
+    "Lord Tugendhat": {
+      "name": "Lord Tugendhat",
+      "role": "Committee member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member4"
+      ],
+      "color": "#9b543e",
+      "soft": "#f2e0d7"
+    },
+    "Lord Moynihan of Chelsea": {
+      "name": "Lord Moynihan of Chelsea",
+      "role": "Committee member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member5"
+      ],
+      "color": "#287079",
+      "soft": "#d9eeee"
     }
   },
-  "transcript": "# Gibraltar's Chief Minister on the UK-EU Treaty\n\n## Why the Treaty Matters\n> Gibraltar voted overwhelmingly to stay in the EU, and the treaty aims to keep the border fluid for workers and families.\n\nChair: Welcome, Chief Minister. Why did Gibraltarians vote 96% in favour of this treaty, and why did it take so long to get here?\nFabian Picardo: In 2016, Brexit upended our economy and our ability to visit family in Spain. We voted overwhelmingly to remain. But leaving the EU meant new border checks for the 15,000 people who cross into Gibraltar daily. That would have been a disaster for our public services and businesses.\nChair: So the treaty is about keeping that fluidity?\nFabian Picardo: Exactly. The treaty ensures people and goods can keep moving smoothly across the border, which is vital for our economy and daily life.\n\n\n## Sovereignty and the ECJ\n> The treaty does not compromise Gibraltar's sovereignty, and the European Court of Justice only interprets EU rules, it doesn't rule over Gibraltar.\n\nCommittee Member: Did the change of UK government in 2024 affect negotiations? And are the principles from 2021 still upheld?\nFabian Picardo: Both UK parties have been supportive. The biggest boost actually came from Trump and Vance's rhetoric, which made Europe realise we need to work together. On sovereignty, the double lock from 2006 is non-negotiable. Not one iota of our sovereignty has been compromised.\nCommittee Member: What about the European Court of Justice? Does its involvement infringe on sovereignty?\nFabian Picardo: Absolutely not. The ECJ only tells us what EU text means. We need consistent interpretation of the same rules. It's about jurisprudential consistency, not sovereignty. Gibraltar voted to remain in the EU, so we accept the ECJ's role in interpreting EU law as part of the treaty.\n\n\n## Border Checks and Entry\n> Gibraltar and Schengen each do their own entry checks; if one refuses, the person can still enter the other area if permitted.\n\nCommittee Member: How will the refusal of individual entry work? Who decides?\nFabian Picardo: Gibraltar does its immigration check and Schengen does theirs, consecutively. If we allow entry but Schengen refuses, the person can only stay in Gibraltar. If we refuse but Schengen allows, they can go into Spain but not Gibraltar. It's logical and similar to how other EU states handle non-Schengen visa holders.\nChair: How do you enforce that if the border is fluid?\nFabian Picardo: If they enter Gibraltar but don't have Schengen permission, they'd be illegal in Spain. It's very restricted. So far, no such cases in the two months we've been applying these arrangements.\n\n\n## Tax and Financial Contributions\n> Gibraltar already meets high tax transparency standards and will contribute to a financial mechanism for training, not the UK taxpayer.\n\nCommittee Member: How will the tax good governance principles work, and what are the implications for Gibraltar's tax policy?\nFabian Picardo: We already fully comply with OECD and EU standards. We were the first in the EU to have an open register of beneficial ownership. We're happy to sign up to these principles—they don't impede our competitive financial services.\nCommittee Member: How much will Gibraltar pay for the financial mechanism, and will the UK contribute?\nFabian Picardo: Gibraltar will contribute, not the UK taxpayer. We'll raise it from our own resources and companies. It'll be used for training people for the Gibraltar job market. Initially low millions, but it may grow.\n\n\n## Residence Rules and British Workers\n> New residence rules are Gibraltar's own decision, not required by the treaty, and they aim to manage who becomes resident in a more attractive jurisdiction.\n\nCommittee Member: Are you concerned that new visa rules will mean fewer young British people working in Gibraltar's hospitality and leisure sectors?\nFabian Picardo: I can't imagine a more misconceived question. There are almost no young Brits who come to Gibraltar to work in those sectors. We have 15,500 cross-border workers—half Spanish, half British. They'll continue to come. The new residence requirements are our own sovereign decision, not from the treaty. We've set a minimum salary of around £37,000 for residency, but we also have exemptions for young people to bring skills to our digital industries.\nCommittee Member: So the treaty doesn't affect British workers' ability to work in Gibraltar?\nFabian Picardo: Correct. Anyone with a job in Gibraltar can come in. The residence rules are about who can become resident, not who can work here.\n\n\n## Provisional Application and Practical Issues\n> Provisional application started in July to avoid EES border chaos, and while customs procedures are still settling, fluidity is largely working.\n\nCommittee Member: Why is the treaty only provisionally applied, and what issues have emerged?\nFabian Picardo: We couldn't ratify in time before the EU's new Entry/Exit System (EES) deadline, so we included a provisional application clause. That's allowed us to keep the border fluid since 15 July. Ratification is expected in December. We've seen some delays at the airport when multiple flights arrive, and customs procedures are still bedding in. Truck traffic dropped initially but is back to normal. We're working through the stickier points.\nCommittee Member: Have you published guidance on the new residency regulations?\nFabian Picardo: Yes, we have. I can send you the date and details.\n\n\n## Trade and Future Relations\n> Gibraltar can join services trade deals like CPTPP but accepts compromises on goods to keep its services economy growing.\n\nCommittee Member: Will Gibraltar be bound by EU rules on AI, product liability, and cyber resilience? Would that make it more like an EU overseas territory?\nFabian Picardo: We've chosen to grow in services, which is what we're good at. We can join the CPTPP and other agreements in services. We accept compromises on goods, like not having GM research, because we have no land to grow anything anyway. We hope the UK's reset with the EU will include an SPS agreement so British produce can come to Gibraltar. But yes, we're a services economy and we're free in that area.\nCommittee Member: But you're precluded from things the UK can do, like trading GM food.\nFabian Picardo: We've made that compromise to keep growing in services. Since 2016, we can't bring in fresh produce that isn't EU-compliant, but an SPS deal could change that. The UK may make similar compromises in its reset.\n"
+  "transcript": "# UK-EU Agreement on Gibraltar\n\n## Why Gibraltar voted 96% to stay in the EU\n> Gibraltar feared Brexit would wreck its economy and border fluidity, so it voted overwhelmingly to remain.\n\nChair: Welcome, Chief Minister. Let's start with the big picture: why did Gibraltar vote so overwhelmingly to stay in the EU, and why has it taken so long to get this treaty?\nFabian Picardo: 2016 was very difficult for us. The result upended our economy and threatened the ability of many Gibraltarians to visit family in Spain or simply live the lives we live with access to southern Spain and Europe.\nFabian Picardo: We have 15,000 people crossing into Gibraltar every day. New EU border rules would have made that much harder. Voters understood that without needing it explained.\nBaroness Suttie: Which practical problems were most difficult, and will the treaty fix them?\nFabian Picardo: Frontier fluidity was the starkest and most dangerous issue. Cross-border workers keep our public services, health care, elderly care, gaming and insurance industries running. If they can't get in smoothly, our public services and public finances are at risk.\n\n\n## Did the change of UK government matter?\n> Both UK parties supported Gibraltar, but global geopolitics gave the talks a bigger push than the 2024 election.\n\nThe Duke of Wellington: When the UK government changed in 2024, did that affect the tone, speed or ease of negotiations?\nFabian Picardo: Both UK parties have been equally supportive, through the withdrawal agreement, the New Year's Eve framework and this treaty. I accompanied Lord Cameron and later David Lammy and Stephen Doughty.\nFabian Picardo: A Labour government in Madrid gave a bit of ideological hope, but if I'm honest, President Trump and Vice-President Vance's Munich speech in February 2025 gave the biggest boost. Europe and the UK realised they needed to work together, not fight over two and a half square miles.\n\n\n## Sovereignty and the European Court of Justice\n> Picardo insists Gibraltar's sovereignty is untouched and that ECJ involvement is only about consistent interpretation of shared rules, not sovereignty.\n\nBaroness Smith of Newnham: The 2021 principles said sovereignty over Gibraltar wouldn't pass to another state without your consent. Have those aims been achieved?\nFabian Picardo: Those were my aims, not the Foreign Secretary's. The double lock on our 2006 constitution is a sine qua non. Every UK Foreign Secretary has accepted that exclusively British sovereignty cannot be compromised by one iota. It hasn't been.\nLord Jackson of Peterborough: Does the European Court of Justice's role in interpreting EU law threaten Gibraltar's sovereignty in future?\nFabian Picardo: Absolutely not. Gibraltar voted 96% to remain, with full ECJ jurisdiction. We're like the UK in 1972 agreeing to abide by a club's rules. The ECJ can only tell us what European text means. That's jurisprudential consistency, not sovereignty.\nFabian Picardo: You can't have the same words interpreted differently in the same circumstances. A directive on the environment can't mean one thing in the EU and another under our treaty. That's why the ECJ's interpretation matters.\n\n\n## Who gets in and who gets refused\n> Border refusals work through consecutive Gibraltar and Schengen checks, with no single-refusal cases so far.\n\nLord Brennan of Canton: How does the agreement deal with refusing individual entry? Who decides, and when?\nFabian Picardo: It's complex, but the principle is simple. Gibraltar keeps its own immigration check and Schengen does its own. If Gibraltar allows you in but Schengen refuses, you can only visit Gibraltar. If Gibraltar refuses you but Schengen allows you, you can enter Schengen through a different exit at the airport.\nLord Brennan of Canton: So it's exit but not via the gift shop?\nFabian Picardo: Exactly. And if someone is refused by Gibraltar but allowed into Schengen, we put their face in our facial recognition system. If they enter Gibraltar, they're here illegally.\nChair: How do you know they don't cross into Spain if the border is fluid?\nFabian Picardo: They could come into Gibraltar but would be in Spain illegally if they crossed. It's like Germany letting you in without a Schengen visa—you can't legally go to France. In the two months of these arrangements, we've had no such single-refusal cases.\n\n\n## Tax, jobs and money\n> Gibraltar already meets top tax transparency standards, will fund a cohesion mechanism itself, and says new residency rules aren't required by the treaty.\n\nLord Grantchester: How will the treaty's tax governance obligations work, and what do they mean for Gibraltar's tax policy?\nFabian Picardo: We already align completely with OECD best practice. We were the first EU jurisdiction to implement an open register of beneficial ownership, ahead of the UK, Germany and France. We signed up with no objection. It doesn't stop us being a competitive, well-regulated financial centre.\nLord Jackson of Peterborough: With the old UK visa route ending, are businesses worried they'll hire young Spanish people instead of young British people who used to come to Gibraltar?\nFabian Picardo: I'm sorry, but that's a misconceived approach. There are almost none of those young Brits in our job market. We have seven unemployed residents—not 7%, seven people. 15,500 cross-border workers come daily, half Spanish, half from the balance of British and others. They'll continue to come.\nFabian Picardo: New residence requirements are our own sovereign decision, not a treaty requirement. We set a minimum earnings threshold of around £37,000 because the treaty makes Gibraltar more attractive as a place to live. We have exemptions for young people and want digital talent from any nationality.\nLord Elliott of Mickle Fell: How much will Gibraltar pay into the financial mechanism, and will the UK contribute?\nFabian Picardo: Gibraltar will contribute, not the UK taxpayer. We'll raise it from our own taxpayers and companies. It'll be used to train people for the Gibraltar job market. It'll start in the low millions.\n\n\n## Gibraltar's parliament, the concordat and provisional application\n> The treaty was endorsed unanimously in Gibraltar, the concordat clarifies responsibilities, and provisional application since 15 July has shown the treaty working despite teething problems.\n\nLord Barrow: The agreement was unanimously endorsed by Gibraltar's parliament. What was welcomed, and were there hidden concerns? And how do you see the concordat with the UK?\nFabian Picardo: Opposition concerns are on the record. This is a compromise between the UK, EU, Spain and Gibraltar. I've called it imperfect but exactly what we need to keep going with our sovereignty intact. The opposition leader used the same words last week. The concordat sets out who does what and who pays for what. It's been scrutinised and found satisfactory, if not perfect.\nBaroness Ashton of Upholland: Why did you have to provisionally apply the treaty from 15 July rather than fully apply it? Has anything emerged during this period?\nFabian Picardo: We had to avoid the new EU entry and exit system causing huge tailbacks at the frontier. We couldn't ratify in time, so we included a provisional application clause, suggested by the Commission. Ratification is expected at the Strasbourg session on 14 or 15 December.\nFabian Picardo: During provisional application, airport delays are shorter than at larger European airports. We had some customs traffic issues early on—a regional fair blocked lorry turnaround—but things are working. Truck numbers dropped from 250–300 a day to 100–150, but we're back up now. We're finessing the sticky bits.\nLord Jackson of Peterborough: Have you published guidance on the new residency regulations?\nFabian Picardo: Yes. I'll write to you with the date and the regulations.\n\n\n## Trade, AI rules and the future\n> Gibraltar is a services economy that can still join services parts of trade deals like CPTPP, but accepts compromises on goods and some EU regulations to keep border fluidity.\n\nLord Tugendhat: British people on the Costa del Sol used to bank in Gibraltar. Is that still common, and does the treaty help them?\nFabian Picardo: That's no longer a discernible part of our business. Banks here don't offer banking to non-residents. People in the Costas bank in Spain or the UK. We see tourists and expats shopping, not banking.\nLord Tugendhat: Do you expect this agreement to settle matters for the foreseeable future, or will more agreements be needed?\nFabian Picardo: On fluidity, it's settled. There may be rhetoric in a Spanish election year, but the arrangements give business efficacy. Sovereignty is unchanged for the UK and Spain. We still fight for self-determination in New York, where we remain on the non-self-governing territories list.\nLord Moynihan of Chelsea: You heard a previous witness say Gibraltar can't join the CPTPP in goods. Will you be controlled by EU product rules like the AI Act or Cyber Resilience Act? Would that make you more like an EU overseas territory?\nFabian Picardo: We're physically attached to Europe, so people and goods need to flow. But we never agreed to free movement of people—just fluidity. We can have all the UK's trade agreements extended to us in services, which is where our business is. We can't grow goods in 2.5 square miles.\nFabian Picardo: On AI and cyber, we're as free as the UK unless there's a grey area around goods and services. We've chosen to compromise on things like GM food research we never had, to keep growing in services. We hope the UK's reset with the EU includes an SPS agreement so British produce can come here.\nLord Moynihan of Chelsea: That would be tragic for our economy.\n\n\n## Farewell\n> Picardo thanked the committee and announced he will retire as Chief Minister in the coming months.\n\nChair: Thank you, Chief Minister. This has been most helpful for the House's consideration of the treaty.\nFabian Picardo: May I say something before you close? I want to thank you and earlier configurations of this committee for your interest in Gibraltar. I'll be retiring from office in the coming months, so this is likely my last appearance. Thank you for all your considerations over the past decade and a half.\nChair: We wish you a happy, productive and busy retirement. Thank you very much.\n",
+  "inquiry": "UK-EU Agreement on Gibraltar"
 });

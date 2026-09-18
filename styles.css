@@ -1088,7 +1088,7 @@ h1 {
 .meeting-session {
   display: grid;
   grid-template-columns: 1fr auto;
-  grid-template-areas: "name go" "summary go";
+  grid-template-areas: "name go" "date go" "summary go";
   gap: 2px 14px;
   align-items: center;
   text-align: left;
@@ -1153,4 +1153,12 @@ h1 {
 
 .menu-button:hover {
   background: rgba(212, 154, 56, 0.15);
+}
+
+.meeting-session-date {
+  grid-area: date;
+  color: var(--muted);
+  font-size: 0.78rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
 }

@@ -11,7 +11,8 @@ window.COMMITTEE_SESSIONS.push({
   label: "Session 5 · Defending the grid",
   committee: "Energy Security and Net Zero Committee",
   date: "3 June 2026",
-  sourceUrl: "https://committees.parliament.uk/",
+  inquiry: "Energy resilience",
+  sourceUrl: "https://committees.parliament.uk/oralevidence/17674/html/",
   sourceLabel: "Official transcript (HC 171)",
   summary:
     "The regulator (Ofgem) and the system operator (NESO) face MPs’ questions on whether Britain’s grid could withstand attack: the North Hyde fire’s lessons about hidden dependencies, 30,000 weather scenarios modelled daily, supply-chain risk, AI on both sides of the cyber fight, tightening gas margins, and a skills shortage on the cyber frontline. Bottom line: the system is strong, but energy resilience is now part of national defence.",

@@ -6,12 +6,12 @@
 window.COMMITTEE_SESSIONS = window.COMMITTEE_SESSIONS || [];
 window.COMMITTEE_SESSIONS.push({
   "id": "oral-evidence-18092",
-  "label": "15 Sep 2026 · Wildfire preparedness",
+  "label": "15 September 2026 · Jenny Riddell-Carpenter, Baroness Blake of Leeds, Peter Lee, Gabrielle Edwards",
   "committee": "Environment, Food and Rural Affairs Committee",
   "date": "15 September 2026",
   "sourceUrl": "https://committees.parliament.uk/oralevidence/18092/html/",
   "sourceLabel": "Official published transcript",
-  "summary": "This hearing examined the UK Government's response to the unprecedented 2026 wildfire season, which saw record numbers of fires, homes destroyed and over 50,000 acres burned. Two new ministers from DEFRA and MHCLG, along with senior officials, faced questions on lessons learned, the adequacy of resources, the national risk register, emergency alerts, land management and planning. The session revealed cross-government efforts but also gaps in strategy, coordination with devolved administrations, and urgency ahead of the next fire season. The main conclusion was that the current approach is not fit for future risk and that a step change in prevention, preparedness and resourcing is needed.",
+  "summary": "The Environment, Food and Rural Affairs Committee questioned DEFRA and MHCLG Ministers and officials about the unprecedented 2026 wildfire season. They discussed what went wrong, the lack of a national strategy, poor cross-government coordination, the emergency alert, and practical measures like water availability and land management. The overall conclusion was that the current approach is not fit for the future, and urgent action is needed before next spring.",
   "room": {
     "image": "Energy Resilience/committee_room_4.png",
     "width": 2788,
@@ -62,7 +62,7 @@ window.COMMITTEE_SESSIONS.push({
   "cast": {
     "Chair": {
       "name": "Mr Alistair Carmichael",
-      "role": "Chair of the Environment, Food and Rural Affairs Committee",
+      "role": "Chair of the Committee",
       "description": "",
       "kind": "chair",
       "seats": [
@@ -72,8 +72,8 @@ window.COMMITTEE_SESSIONS.push({
       "soft": "#d7edf0"
     },
     "Jenny Riddell-Carpenter": {
-      "name": "Jenny Riddell-Carpenter MP",
-      "role": "Parliamentary Under-Secretary of State, Department for Environment, Food and Rural Affairs",
+      "name": "Jenny Riddell-Carpenter",
+      "role": "Parliamentary Under-Secretary of State, DEFRA",
       "description": "",
       "kind": "witness",
       "seats": [
@@ -83,8 +83,8 @@ window.COMMITTEE_SESSIONS.push({
       "soft": "#ebe2f5"
     },
     "Baroness Blake of Leeds": {
-      "name": "Baroness Blake of Leeds CBE",
-      "role": "Minister for Building Safety, Fire and Resilience, Ministry of Housing, Communities and Local Government",
+      "name": "Baroness Blake of Leeds",
+      "role": "Minister for Building Safety, Fire and Resilience, MHCLG",
       "description": "",
       "kind": "witness",
       "seats": [
@@ -95,7 +95,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Peter Lee": {
       "name": "Peter Lee",
-      "role": "Director for Fire, Ministry of Housing, Communities and Local Government",
+      "role": "Director for Fire, MHCLG",
       "description": "",
       "kind": "witness",
       "seats": [
@@ -106,7 +106,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Gabrielle Edwards": {
       "name": "Gabrielle Edwards",
-      "role": "Interim Director for Strategy, Governance and Climate, Department for Environment, Food and Rural Affairs",
+      "role": "Interim Director for Strategy, Governance and Climate, DEFRA",
       "description": "",
       "kind": "witness",
       "seats": [
@@ -115,9 +115,9 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#287079",
       "soft": "#d9eeee"
     },
-    "Committee Member": {
-      "name": "Committee Member",
-      "role": "Combines repetitive questions from multiple committee members (Henry Tufnell, Josh Newbury, Sarah Bool, Charlie Dewhirst, Terry Jermy, Sarah Dyke, and Toby Perkins)",
+    "Henry Tufnell": {
+      "name": "Henry Tufnell",
+      "role": "Committee Member",
       "description": "",
       "kind": "member",
       "seats": [
@@ -125,7 +125,74 @@ window.COMMITTEE_SESSIONS.push({
       ],
       "color": "#b17b2e",
       "soft": "#f5e8c4"
+    },
+    "Josh Newbury": {
+      "name": "Josh Newbury",
+      "role": "Committee Member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member2"
+      ],
+      "color": "#8a5a78",
+      "soft": "#f0e2ec"
+    },
+    "Sarah Bool": {
+      "name": "Sarah Bool",
+      "role": "Committee Member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member3"
+      ],
+      "color": "#5c676d",
+      "soft": "#e5e8e8"
+    },
+    "Terry Jermy": {
+      "name": "Terry Jermy",
+      "role": "Committee Member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member4"
+      ],
+      "color": "#315f72",
+      "soft": "#d7edf0"
+    },
+    "Charlie Dewhirst": {
+      "name": "Charlie Dewhirst",
+      "role": "Committee Member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member5"
+      ],
+      "color": "#6f5c91",
+      "soft": "#ebe2f5"
+    },
+    "Sarah Dyke": {
+      "name": "Sarah Dyke",
+      "role": "Committee Member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member6"
+      ],
+      "color": "#4c7b5d",
+      "soft": "#dff0dd"
+    },
+    "Mr Toby Perkins": {
+      "name": "Mr Toby Perkins",
+      "role": "Committee Member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member1"
+      ],
+      "color": "#9b543e",
+      "soft": "#f2e0d7"
     }
   },
-  "transcript": "# Wildfire Response: Are We Prepared for the New Normal?\n\n## Lessons from a Record Wildfire Season\n> The 2026 wildfire season was unprecedented and showed that current systems are not fit for the future; both departments acknowledge the need for a major rethink.\n\nChair: This summer was dreadful for wildfires: record numbers, 19 homes destroyed, over 50,000 acres burned. Ministers, what lessons have you drawn?\nJenny Riddell-Carpenter: We're in a very different place now. We had over 1,300 wildfires—record numbers. What we have in place now won't be fit for managing fires in 10 years. We need to look again at land management, responsiveness, and behaviour change.\nBaroness Blake of Leeds: I agree. The summer showed incredible professionalism from fire services, but also that we now face urban fringe fires threatening homes and infrastructure. It's about prevention, mitigation, recovery, and response. Future preparedness is critical.\nChair: People in rural areas have lived with this for years. It took homes burning in Stourbridge for the Prime Minister to convene Cobra and appoint a fire minister. Is that what it takes?\nBaroness Blake of Leeds: The scale brought wider public understanding. I've seen the devastation locally. The Prime Minister is committed to a wildfire summit in October, bringing together all involved, including community representatives.\n\n\n## Coordination and Resources\n> There is cross-government work but no dedicated national wildfire strategy yet; resources may need to be reallocated, and coordination with devolved administrations needs ministerial engagement.\n\nCommittee Member: Baroness Blake, this summer exposed major gaps. The Staffordshire Chief Fire Officer said they were stretched and lacked appliance availability. Do you accept that?\nBaroness Blake of Leeds: Absolutely. The changing pattern means we must look at how we allocate resources. We have pilots on equipment and are learning from this summer. We put £97 million into resilience before the summer.\nCommittee Member: We have no national wildfire strategy in England. Will you commit to publishing one before next season?\nJenny Riddell-Carpenter: I'm focused on a one-year, two-year, and 10-year vision. We're increasing resources in DEFRA. We're working on an action plan that will feed into the summit. The strategy will be iterative.\nBaroness Blake of Leeds: We're not waiting for a strategy to coordinate. We have joint governance between our departments, but coordination across government hasn't been good enough. This is a catalyst.\nCommittee Member: Have you spoken to your counterparts in Wales, Scotland, and Northern Ireland?\nBaroness Blake of Leeds: I haven't yet, but officials are in regular contact. We need better political coordination.\nPeter Lee: We engage regularly with devolved administrations. We were in Scotland three weeks ago. There's no rebuff; we work closely.\n\n\n## Aerial Firefighting and Technology\n> The UK lacks dedicated aerial firefighting assets and relies on commercial arrangements; the government is exploring cost-effective solutions including drones and military assets.\n\nCommittee Member: The UK doesn't have a dedicated aerial firefighting capability. Relying on local commercial providers isn't sufficient, is it?\nBaroness Blake of Leeds: Aerial support is top of the agenda for the summit. Fire chiefs say it's good at putting out flames but not the underlying fire. We're looking at options.\nPeter Lee: We've relied on fire services resourcing themselves, but 44 services competing for the same asset isn't cost-effective. We're talking to providers about on-call availability for next summer. We're also looking at drones. We need to solve this for next summer and the future.\nCommittee Member: What about using military assets, like Chinooks?\nPeter Lee: The RAF is in discussions. We're looking at all public and private sector assets. Nothing is off the table.\nCommittee Member: Do you have a timeline?\nPeter Lee: By next summer we need to be in a much better place. That's what we're holding ourselves accountable for.\n\n\n## Land Management and Controlled Burning\n> DEFRA is reviewing licensing for controlled burning but maintains that long-term peatland restoration is the goal; critics argue the licensing scheme is too restrictive and slow.\n\nChair: On fuel load: re-wetting takes decades. What are you doing to reduce fire load for next year?\nJenny Riddell-Carpenter: Cutting is an option where accessible. We've granted two licences where cutting wasn't possible. Peatland restoration is a long-term solution.\nGabrielle Edwards: The licensing scheme applies to deep peat. We've had 24 applications; most were for training, which the fire service says can be done elsewhere. We're working with the CLA to make the process more flexible.\nChair: Even though land managers say they need seasonal burning, they're not applying because the regulations are too restrictive.\nGabrielle Edwards: We're in live conversations to improve guidance before the next burning season. It's not a blanket ban; we'll issue licences for credible wildfire mitigation.\nCommittee Member: The evidence review didn't consider wildfire risk. Does that concern you?\nGabrielle Edwards: We take advice from fire services on each application. We also consider wildfire risk in policy decisions. Evidence is never perfect, but we refine it.\n\n\n## Emergency Alerts and Risk Assessment\n> The national emergency alert was issued on fire service advice but faced technical and language issues; the national risk register underestimates wildfire likelihood and will be updated.\n\nCommittee Member: The emergency alert on 14 August was a significant moment. Should it have been issued sooner?\nBaroness Blake of Leeds: There are different views. On balance, it was beneficial, but we need sophisticated procedures. Vulnerable people and language sequencing in Wales were issues. We must use it judiciously.\nJenny Riddell-Carpenter: The decision was taken on the advice of the fire service. It raised public awareness but there were technical issues like repeated alerts due to poor signal. We're learning from that.\nCommittee Member: The national risk register rates wildfire as remote—less likely than a volcanic eruption. Is that accurate?\nJenny Riddell-Carpenter: The evidence shows realities have shifted. We're preparing for increased risk due to climate change.\nPeter Lee: We knew risk was changing but the speed was significant. We had 11 major incidents on one day. The risk register needs updating, and we'll do that before next season.\n\n\n## Planning, Water and Local Powers\n> Wildfire risk is being incorporated into planning policy, but water availability and local powers to restrict dangerous activities like disposable barbecues need further work.\n\nCommittee Member: What role did fire services have in shaping the 2026 planning framework's wildfire risk provisions?\nPeter Lee: I wasn't directly involved, but I believe they were consulted via the National Fire Chiefs Council. Simple measures like fire breaks can slow fire spread and give fire services time.\nBaroness Blake of Leeds: Wildfire risk must be part of the overall planning package, not stand-alone. We're considering guidance on managing risk in new developments.\nCommittee Member: Water availability is a growing challenge. Should water companies have stronger requirements to support firefighting?\nBaroness Blake of Leeds: I don't have an answer yet, but we're gathering evidence. Water companies are represented on local resilience forums and fire services work with them operationally.\nJenny Riddell-Carpenter: We need water resilience. Water companies must invest in infrastructure. We have a drought working group with water companies and the EA.\nGabrielle Edwards: Water companies have a legal duty for emergency preparedness. We'll take away the specific point about pressure during fires.\nCommittee Member: Should land managers be able to create wildfire ponds through permitted development rights?\nBaroness Blake of Leeds: We're working with the NFU on permitted development rights for on-farm reservoirs. Wildfire ponds will be given full consideration.\n\n\n## Joint Response and Future Preparedness\n> The government is strengthening partnerships and adaptation plans, but faces budget constraints and needs to urgently improve preparedness before the next wildfire season.\n\nCommittee Member: What steps are you taking to strengthen partnerships between fire services, land managers, and communities?\nJenny Riddell-Carpenter: We're focusing on a one-year, two-year, and 10-year vision. Land managers must work with fire services to reassess land. We need more uptake of land management schemes for fire resilience.\nBaroness Blake of Leeds: Local resilience forums are key. They need to be bespoke to local challenges and share intelligence. We must support the health and wellbeing of firefighters too.\nCommittee Member: The Climate Change Committee says national adaptation plan 3 is not fit for purpose. Will plan 4 be radically different?\nJenny Riddell-Carpenter: We'll set stronger objectives in adaptation 4, preparing for at least 2°C warming by 2050. But we're not waiting—actions are happening now, like the wildfire summit.\nCommittee Member: Will you have the budget you need?\nJenny Riddell-Carpenter: We need to be evidence-led. There's money in ELM schemes not being taken up. We'll focus on behaviour change and technology. Funding will follow a planned, evidence-based response.\nChair: We've run over, but I'll leave you with this: instil a sense of urgency. September now; next fire season will be here before we know it. It's your job to make sure the machinery of government doesn't grind slowly.\nBaroness Blake of Leeds: I take that point. We're looking carefully at the health and wellbeing of firefighters—they keep us safe. That's alongside all the other work.\n"
+  "transcript": "# Climate adaptation and emergency response\n\n## Lessons from a Record-Breaking Summer\n> The 2026 wildfire season was unprecedented and the Government accepts that current plans are not fit for the future.\n\nChair: This summer we saw record wildfires, 19 homes destroyed and over 50,000 acres burned. What lessons have you learned?\nJenny Riddell-Carpenter: This summer has changed everything. We had over 1,300 wildfires—record numbers. What we have in place now won't be fit for managing fires in 10 years' time. We need to look again at land management, responsiveness and behaviour change.\nBaroness Blake of Leeds: Fire and wildfires is back in MHCLG, which is the right place. The response from the fire service was extraordinary. The real step change is the impact on urban fringes—homes and vital infrastructure threatened. We need to focus on prevention, mitigation, recovery and future preparedness.\nChair: People in rural communities have lived with this for years. It took homes being destroyed in Stourbridge for the Prime Minister to convene Cobra. Is that what it takes?\nBaroness Blake of Leeds: The wider public understanding of the risk is something we haven't seen before. The Prime Minister is committed to holding a wildfire summit in October, bringing together everyone involved, including community representatives.\n\n\n## A National Strategy?\n> There is still no national wildfire strategy, but Ministers say they are working on an action plan and joint governance.\n\nJosh Newbury: Why does England still not have a national wildfire strategy? Will you commit to publishing one before next season?\nJenny Riddell-Carpenter: I'm focused on a one, two and 10-year vision. We're increasing resources in DEFRA and working on an action plan. We need to be in a stronger place by spring next year, rather than just writing a strategy.\nBaroness Blake of Leeds: We're working towards a strategy through the action plan, but we're not waiting for that to start co-ordinating. The joint governance between our Departments is essential. There's a level of co-ordination across Government that hasn't been there.\n\n\n## Aerial Firefighting and Equipment\n> The UK lacks dedicated aerial firefighting assets, but the Government is looking at cost-effective options, including drones, for next summer.\n\nSarah Bool: The UK doesn't have a dedicated aerial firefighting capability. Is reliance on commercial providers sufficient?\nBaroness Blake of Leeds: You're right to raise this; it's top of the agenda for the summit. Fire chiefs say aerial intervention is good at putting out flames but not the underlying fire. We're looking at all options.\nPeter Lee: We've always relied on fire services resourcing themselves. But 44 services competing for the same asset isn't cost-effective. We're talking to providers and looking at drones. We need to be in a much better place by next summer.\n\n\n## Planning, Water and Land Management\n> Wildfire risk needs to be built into planning, water supply and land management, but there are tensions over controlled burning and reservoir planning.\n\nCharlie Dewhirst: The 2026 planning framework requires developers to mitigate wildfire risk. What does that mean in practice?\nPeter Lee: Simple measures like fire breaks can slow down fire spread and give the fire service time. It's about balancing design with basic protection.\nSarah Dyke: Water availability is a growing challenge. During the New Forest fires, maintaining water supply was difficult. Are you considering stronger requirements on water companies?\nJenny Riddell-Carpenter: We need water resilience. There are legal duties on water companies for emergency preparedness. We're working with them and will take this away.\nHenry Tufnell: Only two out of 24 licence applications for controlled burning were approved. Why so few?\nGabrielle Edwards: Most were for training, not wildfire mitigation. The fire service advised they could train elsewhere. We're talking to the CLA about making the process more flexible.\nChair: Are you determined to leave fire load on the hill?\nGabrielle Edwards: No, but if we want to re-wet the peatland, controlled burning works against that. We need a transition. If credible applications come in, we'll issue licences.\n\n\n## Emergency Alert and Risk Register\n> The August emergency alert was requested by the fire service and deemed a success, but the national risk register needs updating to reflect the increased wildfire risk.\n\nTerry Jermy: The national alert on 14 August was a significant moment. Should it have been issued sooner? Was it a success?\nBaroness Blake of Leeds: There are different views, but on balance the benefit is recognised. We need sophisticated procedures. It caught the public's attention, though there were criticisms about vulnerable people and the Welsh language delay.\nJenny Riddell-Carpenter: The decision was taken on the advice of the fire service. Many people got multiple alerts due to poor signal—that's a real issue in rural areas. Overall, it was important.\nTerry Jermy: The national risk register still says the reasonable worst-case wildfire scenario is remote, around 1%—less likely than a volcanic eruption. Is that accurate?\nPeter Lee: That's a fair point. The risk has changed faster than expected. We had 11 major incidents on one day. We need to review the risk assessment and will do so before next season.\n\n\n## Final Urgency\n> The Committee warns that time is short before the next wildfire season and urges Ministers to act with urgency.\n\nChair: It's September now. We'll be into the next wildfire season before we know it. The machinery of government can grind slowly. It's your jobs to make sure it doesn't.\nBaroness Blake of Leeds: I take that point. We're also looking carefully at the health and wellbeing needs of firefighters. It's critical that we look after the people who keep us safe.\nChair: I agree: it's all about the people. That's all we have time for today. Thank you.\n",
+  "inquiry": "Climate adaptation and emergency response"
 });

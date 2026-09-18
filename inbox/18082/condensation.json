@@ -2,217 +2,417 @@
   "schema_version": 1,
   "source_id": 18082,
   "source_sha256": "24e577226743ceb583780eb9143a6ae6e19a638b944028946140042774e510ce",
-  "title": "Gibraltar's New Deal with the EU: Sovereignty, Borders, and Beyond",
-  "label": "15 September 2026 · Gibraltar treaty scrutiny",
-  "summary": "The European Affairs Committee questioned Lord Wood of Anfield and Paul Hughes about the UK-EU agreement on Gibraltar. They explained why Gibraltar was excluded from the 2020 trade deal, how the new treaty aims to keep the border fluid, and the complex governance arrangements. Key issues included protecting UK sovereignty, military autonomy, Schengen checks, and termination clauses. The witnesses stressed that Gibraltar chose these arrangements and that sovereignty is unaffected, but some members challenged whether Spain gains too much influence.",
+  "title": "Gibraltar's New EU Deal: Trade, Sovereignty and the Border",
+  "label": "15 September 2026 · UK-EU Gibraltar agreement",
+  "summary": "The European Affairs Committee questioned Lord Wood of Anfield and Paul Hughes about the new UK-EU treaty on Gibraltar. The deal aims to keep the Gibraltar-Spain land border fluid by aligning Gibraltar with certain EU rules, while the UK insists sovereignty is untouched. The hearing explored how it works in practice, why it took five years, and lingering concerns about Spain's role, military access, and exit clauses.",
   "speakers": [
     {
       "label": "Chair",
       "name": "Lord Stirrup",
-      "role": "Chair of the Committee",
+      "role": "Chair of the committee",
       "kind": "chair"
     },
     {
       "label": "Lord Wood of Anfield",
       "name": "Lord Wood of Anfield",
-      "role": "Parliamentary Under-Secretary of State, Foreign, Commonwealth & Development Office",
+      "role": "Parliamentary Under-Secretary of State, Foreign, Commonwealth & Development Office (FCDO)",
       "kind": "witness"
     },
     {
       "label": "Paul Hughes",
       "name": "Paul Hughes",
-      "role": "Deputy Head, Southern Europe Department, Foreign, Commonwealth & Development Office",
+      "role": "Deputy Head of the Southern Europe Department, Foreign, Commonwealth & Development Office (FCDO)",
       "kind": "witness"
     },
     {
-      "label": "Committee Member",
-      "name": "Committee Member",
-      "role": "Combines repetitive questions from several members",
+      "label": "Lord Jackson of Peterborough",
+      "name": "Lord Jackson of Peterborough",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Grantchester",
+      "name": "Lord Grantchester",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Suttie",
+      "name": "Baroness Suttie",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Ashton of Upholland",
+      "name": "Baroness Ashton of Upholland",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Moynihan of Chelsea",
+      "name": "Lord Moynihan of Chelsea",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Tugendhat",
+      "name": "Lord Tugendhat",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "The Duke of Wellington",
+      "name": "The Duke of Wellington",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Smith of Newnham",
+      "name": "Baroness Smith of Newnham",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Brennan of Canton",
+      "name": "Lord Brennan of Canton",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Elliott of Mickle Fell",
+      "name": "Lord Elliott of Mickle Fell",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Barrow",
+      "name": "Lord Barrow",
+      "role": "Committee member",
       "kind": "member"
     }
   ],
   "chapters": [
     {
-      "title": "Why Gibraltar Needed a Separate Deal",
-      "takeaway": "Gibraltar was left out of the 2020 trade deal, so a bespoke treaty was needed to keep the border open and avoid economic disruption.",
+      "title": "Why a bespoke deal was needed",
+      "takeaway": "Gibraltar was left out of the 2020 trade deal, so the UK, Gibraltar, Spain and the EU negotiated a separate treaty to keep the border fluid.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "Minister, why wasn't Gibraltar included in the 2020 trade and co-operation agreement? And why did it take five years to get this new agreement?"
+          "text": "Welcome, Minister. Why wasn't Gibraltar included in the 2020 trade and cooperation agreement in the first place? And why did it take five years to get this new deal?"
         },
         {
           "speaker": "Lord Wood of Anfield",
-          "text": "Gibraltar wasn't in the TCA because the EU, probably pushed by Spain, wanted separate arrangements. The bridging measures that followed kept the border fluid informally, but they weren't sustainable. Businesses couldn't plan, and the EU's new entry/exit system meant Spain couldn't keep them going. So we needed a treaty."
+          "text": "Good morning, Chair. Gibraltar wasn't in the TCA mainly because the EU—and Spain in particular—wanted separate arrangements. Gibraltar's needs are different, so the previous government agreed to pursue a bespoke deal instead."
         },
         {
           "speaker": "Lord Wood of Anfield",
-          "text": "Why five years? First, it's complex—over 1,000 pages, many dossiers, physical infrastructure. Second, politics: we had turmoil in the UK in 2022, a Spanish election in 2023, and a change of government here in 2024. That slowed things down."
-        },
-        {
-          "speaker": "Committee Member",
-          "text": "You talk about 'fluidity at the frontier'. How is that different from free movement?"
+          "text": "The goal was always a fluid border between Gibraltar and Spain. Without a deal, disruption could have cost hundreds of millions and threatened jobs and investment. The bridging measures helped for a while but were informal and couldn't last, especially with the EU's new entry/exit system coming in."
         },
         {
           "speaker": "Lord Wood of Anfield",
-          "text": "Fluidity means the 15,000 people who cross the land border daily can do so without checks. That's the key to Gibraltar's economy. It's not free movement—there are different arrangements for air and sea arrivals."
+          "text": "As for the five years: it's a hugely complex treaty—over a thousand pages, covering customs, airports, military issues, and more. And politics got in the way: UK political turmoil in 2022, Spanish elections in 2023, and a change of government here in 2024. Talks continued but the pace slowed."
         }
       ]
     },
     {
-      "title": "Sovereignty: Red Lines and Reassurances",
-      "takeaway": "The treaty explicitly protects UK sovereignty over Gibraltar, and any alignment with EU rules is a choice by Gibraltar, not a concession.",
+      "title": "What a fluid border really means",
+      "takeaway": "The deal lets the 15,000 people who cross the land border daily do so without checks, which is vital for Gibraltar's economy.",
       "turns": [
         {
-          "speaker": "Committee Member",
-          "text": "The treaty involves dynamic alignment with EU rules. Does that threaten UK sovereignty, especially with Spain getting powers over arrest, residency, and borders?"
+          "speaker": "Lord Jackson of Peterborough",
+          "text": "You talk about 'fluidity at the frontier'. What does that actually mean in practice? Is it the same as free movement?"
         },
         {
           "speaker": "Lord Wood of Anfield",
-          "text": "No, sovereignty isn't diminished. Article 2 explicitly says the treaty doesn't affect the sovereignty position. These are technical arrangements about Gibraltar's relationship with the EU. Gibraltar chose to align in certain areas to get the benefits of an open border."
-        },
-        {
-          "speaker": "Committee Member",
-          "text": "But you said there are 43 annexes of EU law applying to Gibraltar. That sounds like a lot."
-        },
-        {
-          "speaker": "Lord Wood of Anfield",
-          "text": "Actually, most of those annexes aren't about EU law—they're procedural or lists. Only about eight contain EU law references, and Gibraltar opted into those. It's a bespoke deal that avoids imposing irrelevant EU law."
-        },
-        {
-          "speaker": "Committee Member",
-          "text": "What about Spain's role? Could it creep into more control over Gibraltar?"
-        },
-        {
-          "speaker": "Lord Wood of Anfield",
-          "text": "No, the scope is carefully delineated. For example, Spanish military officers only deal with military derogations and limited information sharing. There's no jurisdiction for them to expand. In fact, more cooperation is what makes the treaty work."
+          "text": "Not the same. Fluidity means the 15,000 people who cross the land border every day can pass without checks. That's the key to Gibraltar's economy. Air and sea arrivals have different arrangements. The people of Gibraltar made clear this was the most important thing."
         }
       ]
     },
     {
-      "title": "Military Base and Schengen Checks",
-      "takeaway": "The treaty protects UK military operational autonomy, with special arrangements for personnel and goods, and Schengen checks won't trap military staff in the 90-day rule.",
+      "title": "How the deal is governed",
+      "takeaway": "A complex web of joint committees and diplomatic resources will oversee the treaty, but no big increase in UK resources is expected.",
       "turns": [
         {
-          "speaker": "Committee Member",
-          "text": "Will this treaty affect military personnel and access to the naval base?"
+          "speaker": "Lord Grantchester",
+          "text": "The agreement creates a lot of new structures—cooperation councils, committees, dispute resolution. How will the UK navigate all that? Will you need extra diplomats?"
         },
         {
           "speaker": "Lord Wood of Anfield",
-          "text": "Safeguarding operational autonomy was a red line. There's no Spanish role in authorising UK military operations or deployments. Military personnel, civilians on defence business, and their families aren't subject to routine Schengen checks."
+          "text": "You're right that it's complex. There's a ministerial-led cooperation council, three specialised committees, and dispute resolution mechanisms—similar to the withdrawal agreement. We also have the Gibraltar team in the FCDO, the Governor's team in Gibraltar, our mission in Brussels, and our embassy in Madrid all engaging."
         },
         {
           "speaker": "Lord Wood of Anfield",
-          "text": "We do have limited information sharing with Spanish military liaison officers to facilitate military derogations. The Commander British Forces is positive about how it's working."
-        },
-        {
-          "speaker": "Committee Member",
-          "text": "What about the Schengen 90-day rule? Could military staff get caught up in that when visiting other Schengen countries?"
-        },
-        {
-          "speaker": "Lord Wood of Anfield",
-          "text": "There's now an arrangement so military personnel can clock in and out, stopping and starting the Schengen clock appropriately. That's an implementation improvement in the last couple of months."
+          "text": "I visited Gibraltar last week for National Day—I even wore red trousers and a red tie! The Governor and his team do excellent work. We don't expect this to require a significant increase in resources."
         }
       ]
     },
     {
-      "title": "Entry Decisions and Mutual Recognition",
-      "takeaway": "Gibraltar keeps control over who enters, but it has agreed to mutually recognise Spanish refusals into Schengen based on security concerns, which raised questions about what happens if the two disagree.",
+      "title": "Sovereignty: red lines and real choices",
+      "takeaway": "The UK insists the treaty doesn't touch sovereignty, but Lord Moynihan challenges whether aligning Gibraltar with EU customs rules impinges on British trade policy.",
       "turns": [
         {
-          "speaker": "Committee Member",
-          "text": "Who decides who can be refused entry into Gibraltar? Could Spain effectively block someone?"
+          "speaker": "Baroness Ashton of Upholland",
+          "text": "Minister, there were principles set out in 2021 about what should and shouldn't be done on sovereignty. Did you have to bump up against any of those? Do you feel comfortable that sovereignty is fully protected?"
         },
         {
           "speaker": "Lord Wood of Anfield",
-          "text": "Gibraltar has been in charge of entry for decades, and that continues. Gibraltar residents can't be refused entry. Everyone arriving at the airport goes through Gibraltar immigration, then Spanish Schengen checks."
+          "text": "Categorically, this treaty doesn't affect sovereignty at all. Article 2 explicitly says the treaty can't be used to challenge the sovereignty position. Sovereignty wasn't discussed. The arrangements are bespoke to Gibraltar's unique circumstances and were chosen by the Government of Gibraltar and supported unanimously by its parliament."
+        },
+        {
+          "speaker": "Lord Moynihan of Chelsea",
+          "text": "But surely this removes Gibraltar from British trade policy permanently? Would Gibraltar still be allowed to join the CPTPP?"
         },
         {
           "speaker": "Lord Wood of Anfield",
-          "text": "If someone is flagged in the Schengen Information System, Spain may refuse them entry into Schengen. Gibraltar has decided to mutually recognise those refusals based on security or public safety. But Gibraltar still makes its own decision about entry into Gibraltar."
-        },
-        {
-          "speaker": "Committee Member",
-          "text": "So if Gibraltar says no but Spain says yes, what happens? Could someone be allowed into Spain but not Gibraltar?"
-        },
-        {
-          "speaker": "Lord Wood of Anfield",
-          "text": "Conceptually, yes. Gibraltar controls entry to Gibraltar. But we'll get back to you on the specific case of non-residents. The Chief Minister can also give you a practical answer."
-        },
-        {
-          "speaker": "Chair",
-          "text": "That's an important point—please do come back to us with clarity."
-        }
-      ]
-    },
-    {
-      "title": "Costs, Concordat, and Termination",
-      "takeaway": "The UK won't pay for the financial mechanism—Gibraltar will—and the concordat is a political, not legal, document; termination clauses include a Spanish option only after a four-year review.",
-      "turns": [
-        {
-          "speaker": "Committee Member",
-          "text": "How much will Gibraltar pay for this, and will the UK contribute?"
-        },
-        {
-          "speaker": "Lord Wood of Anfield",
-          "text": "Both parties will set up independent funds. Gibraltar will fund its own, and under the concordat, the UK contribution will come from Gibraltar, not UK taxpayers. No specific timelines yet, but it'll be set up soon."
-        },
-        {
-          "speaker": "Committee Member",
-          "text": "What's the legal status of the concordat? Is it as binding as the treaty?"
-        },
-        {
-          "speaker": "Lord Wood of Anfield",
-          "text": "It's a political agreement, not legally binding. It sets out how the UK and Gibraltar will work together on implementation. It respects constitutional arrangements and was wanted by Gibraltar."
+          "text": "It doesn't touch sovereignty. The customs arrangements were Gibraltar's choice. Paul, can you answer on CPTPP?"
         },
         {
           "speaker": "Paul Hughes",
-          "text": "It's a political instrument between us and the Government of Gibraltar."
+          "text": "The treaty is only about goods trade. Gibraltar has established a customs union with the EU for goods. It could accede to CPTPP for services—just not goods, because of that customs union."
         },
         {
-          "speaker": "Chair",
-          "text": "So it can be changed by political whim. That's a contrast to the treaty's enforcement mechanisms."
-        },
-        {
-          "speaker": "Lord Wood of Anfield",
-          "text": "Any UK Government will want a good relationship with Gibraltar, and Gibraltar will want clarity. So I expect it to endure."
-        },
-        {
-          "speaker": "Committee Member",
-          "text": "On termination: there seem to be three routes—Article 334 with 12 months' notice and Gibraltar consent, Article 19.5 with 90 days if Gibraltar rejects an EU law update, and Spain unilaterally forcing termination. Is that right?"
+          "speaker": "Lord Moynihan of Chelsea",
+          "text": "That's my point. We have a policy of not joining the EU customs union, but now Gibraltar is in one for goods. That impinges on our trade policy."
         },
         {
           "speaker": "Lord Wood of Anfield",
-          "text": "Article 19.5 is precedented in EU agreements with Norway, Switzerland, and Iceland. It's for a very specific scenario where Gibraltar rejects an update, triggering a 90-day discussion period. It's designed to be resolved."
-        },
-        {
-          "speaker": "Paul Hughes",
-          "text": "The Spanish option is in the mobility chapter, after a four-year review. If Spain tells the EU it's no longer content, the EU can start termination. It's not at any time—it's tied to that review."
+          "text": "Lord Moynihan, I don't think that's true. Gibraltar isn't joining the EU customs union. It has a bespoke customs union for goods with the EU—that's different. It's a choice they made."
         },
         {
           "speaker": "Chair",
-          "text": "Is it a one-off option at that moment?"
+          "text": "On sovereignty, some might worry about a creeping expansion of Spain's role—Spanish customs, police, etc. How is that controlled?"
         },
         {
-          "speaker": "Paul Hughes",
-          "text": "I'm fairly certain, yes. We can confirm with the Chief Minister."
+          "speaker": "Lord Wood of Anfield",
+          "text": "There are clearly delineated limits. For example, Spanish military officers are only involved in military derogations and limited information sharing. They have no jurisdictional role. More cooperation is what makes the treaty work, but it's carefully scoped."
         }
       ]
     },
     {
-      "title": "The Road Ahead",
-      "takeaway": "The treaty is the final piece of the Brexit puzzle, providing a stable foundation, but implementation will require ongoing cooperation and adjustments.",
+      "title": "Dispute resolution and the ECJ",
+      "takeaway": "The arbitration mechanism borrows from the withdrawal agreement, with a limited role for the European Court of Justice.",
       "turns": [
         {
-          "speaker": "Committee Member",
-          "text": "Does this agreement settle Gibraltar's future for good, or will more agreements be needed?"
+          "speaker": "Lord Tugendhat",
+          "text": "I'm intrigued by the dispute arbitration procedure. Could it be a precedent for the UK's current negotiations with the EU on things like electricity and carbon emissions?"
         },
         {
           "speaker": "Lord Wood of Anfield",
-          "text": "From a treaty perspective, it's the last piece of the jigsaw after Brexit. Sovereignty is fully protected. There will be implementation adjustments, but this is a stable and lasting foundation for Gibraltar's relationship with the EU."
+          "text": "I'm not an expert on the details, but there are parallels—like aligning on regulations. Paul, can you say more about the dispute mechanism?"
+        },
+        {
+          "speaker": "Paul Hughes",
+          "text": "It's largely standard, except for how it deals with EU law—there's a potential referral to the ECJ. That mechanism was taken from the withdrawal agreement and previous EU agreements. It could serve as a basis for other negotiations."
+        },
+        {
+          "speaker": "Lord Wood of Anfield",
+          "text": "To be clear, the ECJ's role is just clarifying aspects of EU law for the parts Gibraltar has taken on board."
+        }
+      ]
+    },
+    {
+      "title": "Military base and Schengen checks",
+      "takeaway": "The treaty protects UK military autonomy in Gibraltar, with no Spanish role in operations, and special arrangements for military personnel crossing borders.",
+      "turns": [
+        {
+          "speaker": "The Duke of Wellington",
+          "text": "I declare my historic interests in Spain. Will this treaty affect military personnel coming and going, and the general access to the naval and military base?"
         },
         {
           "speaker": "Chair",
-          "text": "Thank you both for your evidence. We're on time. It's been a pleasure."
+          "text": "And could you address the conduct of operations as well?"
+        },
+        {
+          "speaker": "Lord Wood of Anfield",
+          "text": "Safeguarding the operational autonomy of UK military facilities was a total red line. There's no Spanish role in approving or controlling our operations or deployments. Military personnel, defence civilians, and their families won't be subject to routine Schengen checks."
+        },
+        {
+          "speaker": "Lord Wood of Anfield",
+          "text": "We do have limited information sharing with Spanish military liaison officers—they're a NATO ally—but only to facilitate military derogations. The Commander British Forces is very positive about the early cooperation."
+        },
+        {
+          "speaker": "The Duke of Wellington",
+          "text": "So local commanders are content? Perhaps they even see it as an improvement?"
+        },
+        {
+          "speaker": "Lord Wood of Anfield",
+          "text": "Absolutely. I was struck by the positivity. It's only been two months, but relationship-building is going well."
+        },
+        {
+          "speaker": "Baroness Smith of Newnham",
+          "text": "I visited Gibraltar last year. You said service personnel won't be subject to routine Schengen checks. Will they have a document so they don't get caught by the 90-days-in-180 rule when visiting other Schengen countries?"
+        },
+        {
+          "speaker": "Lord Wood of Anfield",
+          "text": "Yes. They need a standard document like a valid ID or movement order. And there's now an arrangement for military personnel to 'clock in and out' so the Schengen clock stops and starts correctly. That's an implementation improvement from the last couple of months."
+        }
+      ]
+    },
+    {
+      "title": "Who decides who enters Gibraltar?",
+      "takeaway": "Gibraltar keeps control of entry, but has agreed to mutually recognise Spanish refusals into Schengen based on security concerns.",
+      "turns": [
+        {
+          "speaker": "Lord Brennan of Canton",
+          "text": "How will refusal of individual entry work? Who takes the final decision to exclude someone, and when?"
+        },
+        {
+          "speaker": "Lord Wood of Anfield",
+          "text": "Gibraltar has controlled entry for decades and still does. Gibraltar residents can't be refused entry—they have the right to return home. At the airport, everyone goes through Gibraltar immigration first, then Spanish Schengen checks. If Spain refuses entry into Schengen on security grounds, Gibraltar has chosen to mutually recognise that decision."
+        },
+        {
+          "speaker": "Lord Brennan of Canton",
+          "text": "So Spanish authorities could effectively refuse entry into Gibraltar?"
+        },
+        {
+          "speaker": "Lord Wood of Anfield",
+          "text": "No—Spain decides on Schengen entry. Gibraltar takes that information and makes its own decision, but they've chosen mutual recognition as the principle."
+        },
+        {
+          "speaker": "Chair",
+          "text": "What about the reverse? If Spain wants to allow someone in but Gibraltar doesn't?"
+        },
+        {
+          "speaker": "Lord Wood of Anfield",
+          "text": "Gibraltar has the right to exclude anyone from Gibraltar, including UK nationals who aren't residents. They're in charge of admission to Gibraltar."
+        },
+        {
+          "speaker": "Paul Hughes",
+          "text": "Everyone goes through both sets of checks. Gibraltar could say 'you're not coming into Gibraltar' even if Spain admits them into Schengen."
+        },
+        {
+          "speaker": "Lord Brennan of Canton",
+          "text": "What about non-EU citizens? Would the same apply?"
+        },
+        {
+          "speaker": "Paul Hughes",
+          "text": "I'd have to check and come back to you. I think the principle of transit home applies, but I'm not certain."
+        },
+        {
+          "speaker": "Lord Wood of Anfield",
+          "text": "We'll definitely clarify that point."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Yes, please do. I was baffled by that part too. And the Chief Minister is coming later, so he might help."
+        },
+        {
+          "speaker": "Lord Brennan of Canton",
+          "text": "One more thing, Minister: has anyone asked President Trump his opinion on Gibraltar, given he's opined on the Falklands and Northern Ireland?"
+        },
+        {
+          "speaker": "Lord Wood of Anfield",
+          "text": "I haven't done a trawl of his social media recently, so I don't know. I don't believe he has, but I can't be sure."
+        }
+      ]
+    },
+    {
+      "title": "Annexes, alignment and jobs",
+      "takeaway": "The UK rejects claims that 43 annexes of EU law diminish sovereignty, saying only about eight contain EU law and they were Gibraltar's choice.",
+      "turns": [
+        {
+          "speaker": "Lord Jackson of Peterborough",
+          "text": "The treaty contains 43 annexes of EU legal acquis applying to Gibraltar dynamically. In 2024, the Commons EU committee warned of a 'serious diminution of UK sovereignty'. Spain gets powers over arrest, residency permits, and even banning residents from leaving. Is Article 2 enough to address that?"
+        },
+        {
+          "speaker": "Lord Wood of Anfield",
+          "text": "Sovereignty hasn't been diminished. These are areas where Gibraltar is choosing to align to unlock benefits. And it's not true that there are 43 annexes of EU law—most are procedural or lists. Only about eight contain EU law. It's a bespoke deal, proportionate to Gibraltar's circumstances, and they decided to do it."
+        },
+        {
+          "speaker": "Lord Jackson of Peterborough",
+          "text": "With respect, that's separate. We're talking about the sovereignty of a British territory, regardless of whether Gibraltar agrees."
+        },
+        {
+          "speaker": "Lord Wood of Anfield",
+          "text": "We have a consistent principle: 'Nothing about Gibraltar without Gibraltar'. The people of Gibraltar made these choices and we respect them. This model avoids imposing irrelevant EU law and supports their economy."
+        },
+        {
+          "speaker": "Lord Jackson of Peterborough",
+          "text": "Finally, there's concern that the treaty gives the EU and Spain power to de facto block British nationals from working in Spain, displacing employment opportunities. Is that a fair concern?"
+        },
+        {
+          "speaker": "Lord Wood of Anfield",
+          "text": "I don't recognise that description. Gibraltar remains in charge of who comes in. Yes, there are economic changes, but the treaty provides legal certainty, which Gibraltarians have welcomed."
+        }
+      ]
+    },
+    {
+      "title": "Money, concordat and termination",
+      "takeaway": "A political concordat clarifies UK-Gibraltar cooperation, while termination clauses allow exit in specific scenarios—including a possible Spanish-triggered review after four years.",
+      "turns": [
+        {
+          "speaker": "Lord Elliott of Mickle Fell",
+          "text": "The agreement mentions a financial mechanism for regional cohesion. How much will Gibraltar pay, and will the UK contribute?"
+        },
+        {
+          "speaker": "Lord Wood of Anfield",
+          "text": "Both parties will set up independent funds. Gibraltar's fund could support training for frontier workers. No specific timelines yet. And under the concordat, the UK contribution comes from Gibraltar, not UK taxpayers."
+        },
+        {
+          "speaker": "Lord Barrow",
+          "text": "I declare my interest in having worked on related agreements. Why was the concordat necessary, and what's its impact?"
+        },
+        {
+          "speaker": "Lord Wood of Anfield",
+          "text": "It's a political agreement between the UK and Gibraltar to clarify how we work together on implementation. It sets out responsibilities while respecting constitutional arrangements. Similar to one under the withdrawal agreement. It's essential for smooth operation."
+        },
+        {
+          "speaker": "Chair",
+          "text": "What's the legal status of the concordat versus the treaty?"
+        },
+        {
+          "speaker": "Paul Hughes",
+          "text": "It's a political instrument between us and the Government of Gibraltar. No legal standing."
+        },
+        {
+          "speaker": "Chair",
+          "text": "So it's open to amendment by either side—driven by political considerations?"
+        },
+        {
+          "speaker": "Lord Wood of Anfield",
+          "text": "Whoever is in government, we have a vested interest in a working relationship with Gibraltar. They need clarity. I'm hopeful it continues."
+        },
+        {
+          "speaker": "Lord Moynihan of Chelsea",
+          "text": "On termination, Article 334 requires 12 months' notice and a referendum, but Article 19.5 allows termination in 90 days, and Spain can unilaterally force termination. Have I got that right?"
+        },
+        {
+          "speaker": "Lord Wood of Anfield",
+          "text": "Article 19.5 is precedented in EU agreements with Norway, Switzerland and Iceland. It's for a specific scenario where Gibraltar rejects an EU Act update. There's a 90-day discussion period to avoid it kicking in. As for Spain, Paul knows more."
+        },
+        {
+          "speaker": "Paul Hughes",
+          "text": "The article you mean is in the mobility chapter, after a four-year review. If Spain informs the EU it's no longer content, the EU can start termination. It reflects that most of the treaty affects Spain. It's not 'at any time'—it's a specific process at that review."
+        },
+        {
+          "speaker": "Chair",
+          "text": "So the Spanish option is a one-off at that four-year point? Can you confirm and come back to us?"
+        },
+        {
+          "speaker": "Paul Hughes",
+          "text": "I'm fairly certain, yes. The Chief Minister will be able to say for sure."
+        }
+      ]
+    },
+    {
+      "title": "Wrapping up: a lasting settlement?",
+      "takeaway": "The minister sees the treaty as the final piece of the Brexit jigsaw, with implementation now the focus.",
+      "turns": [
+        {
+          "speaker": "Lord Tugendhat",
+          "text": "It feels like negotiations on Gibraltar have been going on forever. Do you think this agreement settles matters for the foreseeable future, or will more be needed?"
+        },
+        {
+          "speaker": "Lord Wood of Anfield",
+          "text": "From a treaty point of view, yes—it's the last piece of the Brexit jigsaw. Sovereignty is protected completely. There will be implementation adjustments, but this is a stable and lasting foundation for Gibraltar's relationship with the EU."
+        },
+        {
+          "speaker": "Lord Tugendhat",
+          "text": "That's very encouraging. Congratulations to all involved."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you, Minister and Mr Hughes, for your evidence. It's been a pleasure. We're on time, so we'll conclude here."
         }
       ]
     }

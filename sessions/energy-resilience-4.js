@@ -11,8 +11,8 @@ window.COMMITTEE_SESSIONS.push({
   label: "Session 4 · Threats at sea",
   committee: "Energy Security and Net Zero Committee",
   date: "3 June 2026",
-  // Inquiry: Energy resilience, HC 171. Replace with the exact evidence page if you like.
-  sourceUrl: "https://committees.parliament.uk/",
+  inquiry: "Energy resilience",
+  sourceUrl: "https://committees.parliament.uk/oralevidence/17673/html/",
   sourceLabel: "Official transcript (HC 171)",
   summary:
     "Three witnesses — a security scholar, a maritime lawyer and an offshore-industry representative — walk MPs through the threats to the UK’s offshore energy infrastructure: deniable sabotage by hostile states, the limits of the law beyond 12 nautical miles, scarce repair ships and crews, and why drones grab headlines while cyber-attacks do the daily damage. Their shared message: detecting a threat is not the same as being ready to respond.",

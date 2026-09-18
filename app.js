@@ -106,25 +106,43 @@ function init() {
 /* ---------- meeting menu ---------- */
 
 function meetingsFromSessions() {
+  // Sessions group under their inquiry title (e.g. "Energy resilience");
+  // miscellaneous sessions without one group under their committee.
   const groups = new Map();
   for (const item of sessions) {
-    const key = `${item.committee || "Committee"}|${item.date || ""}`;
+    const key = item.inquiry ? `inquiry|${item.inquiry}` : `committee|${item.committee || "Committee"}`;
     if (!groups.has(key)) {
       groups.set(key, {
-        committee: item.committee || "Committee",
-        date: item.date || "",
-        when: Date.parse(item.date || "") || 0,
+        title: item.inquiry || item.committee || "Committee",
+        committee: item.inquiry ? item.committee || "" : "",
+        when: 0,
         sessions: [],
       });
     }
-    groups.get(key).sessions.push(item);
+    const group = groups.get(key);
+    group.sessions.push(item);
+    group.when = Math.max(group.when, Date.parse(item.date || "") || 0);
   }
-  return [...groups.values()].sort((a, b) => b.when - a.when);
+  const meetings = [...groups.values()].sort((a, b) => b.when - a.when);
+  for (const meeting of meetings) {
+    meeting.sessions.sort(
+      (a, b) =>
+        (Date.parse(a.date || "") || 0) - (Date.parse(b.date || "") || 0) ||
+        String(a.label).localeCompare(String(b.label))
+    );
+  }
+  return meetings;
+}
+
+function meetingSessionsFor(current) {
+  const meetings = meetingsFromSessions();
+  const found = meetings.find((meeting) => meeting.sessions.includes(current));
+  return found ? found.sessions : [current];
 }
 
 function sessionMenuLabel(item) {
   const label = item.label || item.id;
-  // Generated labels start with the meeting date, redundant under a date heading.
+  // Generated labels start with the meeting date, shown separately in the menu.
   const prefix = `${item.date} · `;
   return label.startsWith(prefix) ? label.slice(prefix.length) : label;
 }
@@ -139,15 +157,18 @@ function renderMeetingMenu() {
     const heading = document.createElement("header");
     heading.className = "meeting-heading";
 
-    const committee = document.createElement("h2");
-    committee.className = "meeting-committee";
-    committee.textContent = meeting.committee;
+    const title = document.createElement("h2");
+    title.className = "meeting-committee";
+    title.textContent = meeting.title;
+    heading.append(title);
 
-    const date = document.createElement("p");
-    date.className = "meeting-date";
-    date.textContent = meeting.date;
+    if (meeting.committee) {
+      const committee = document.createElement("p");
+      committee.className = "meeting-date";
+      committee.textContent = meeting.committee;
+      heading.append(committee);
+    }
 
-    heading.append(committee, date);
     card.append(heading);
 
     const list = document.createElement("div");
@@ -162,6 +183,10 @@ function renderMeetingMenu() {
       name.className = "meeting-session-name";
       name.textContent = sessionMenuLabel(item);
 
+      const when = document.createElement("span");
+      when.className = "meeting-session-date";
+      when.textContent = item.date || "";
+
       const summary = document.createElement("span");
       summary.className = "meeting-session-summary";
       summary.textContent = item.summary || "";
@@ -170,7 +195,7 @@ function renderMeetingMenu() {
       go.className = "meeting-session-go";
       go.textContent = "→";
 
-      button.append(name, summary, go);
+      button.append(name, when, summary, go);
       button.addEventListener("click", () => enterSession(item.id));
       list.append(button);
     });
@@ -241,6 +266,7 @@ function selectSession(id) {
   el.aboutSourceLink.href = sourceUrl;
   if (session.sourceLabel) el.sourceLink.textContent = `${session.sourceLabel} ↗`;
 
+  populateSessionPicker();
   if (el.sessionPicker.value !== session.id) el.sessionPicker.value = session.id;
 
   renderDialogueRail();
@@ -755,20 +781,24 @@ function readHash() {
 /* ---------- controls ---------- */
 
 function buildSessionPicker() {
-  if (sessions.length < 2) return;
+  el.sessionPicker.addEventListener("change", () => {
+    selectSession(el.sessionPicker.value);
+    setCurrent(0, { immediate: true });
+  });
+}
 
-  for (const item of sessions) {
+// The dropdown offers only the sessions of the current meeting; the full
+// catalogue lives in the meeting menu.
+function populateSessionPicker() {
+  const siblings = meetingSessionsFor(session);
+  el.sessionPicker.replaceChildren();
+  for (const item of siblings) {
     const option = document.createElement("option");
     option.value = item.id;
     option.textContent = item.label || item.committee || item.id;
     el.sessionPicker.append(option);
   }
-
-  el.sessionPickerWrap.hidden = false;
-  el.sessionPicker.addEventListener("change", () => {
-    selectSession(el.sessionPicker.value);
-    setCurrent(0, { immediate: true });
-  });
+  el.sessionPickerWrap.hidden = siblings.length < 2;
 }
 
 function bindControls() {

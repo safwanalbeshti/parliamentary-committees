@@ -403,9 +403,14 @@ Accuracy requirements:
 - Preserve who said what. Never transfer a claim from one witness to another.
 - Do not invent facts, motives, consensus, quotations or speaker identities.
 - Keep meaningful challenges and disagreements instead of smoothing them away.
-- You may merge repetitive committee questions into a clearly labelled
-  `Committee Member` voice, but never merge different witnesses.
+- Keep every named speaker's real name exactly as the transcript gives it. Never
+  replace a named committee member with a generic label such as `Committee
+  Member`. Use `Committee Member` only for a speaker the transcript itself
+  leaves unnamed, and never merge different witnesses.
 - Use `Chair` for the chair when that makes the dialogue easier to follow.
+- The people listed under "Witness metadata" below are the only witnesses: give
+  exactly them kind `witness`. Every other speaker is the chair (kind `chair`)
+  or a committee member (kind `member`). A committee member is never a witness.
 
 Structural requirements (the JSON is checked automatically):
 
@@ -472,9 +477,10 @@ Return exactly this structure:
   ]
 }}
 
-Allowed speaker kinds are `chair`, `member`, and `witness`. If you use the composite
-label `Committee Member`, set both its label and name to `Committee Member`, give it
-kind `member`, and explain in its role that it combines repetitive questions.
+Allowed speaker kinds are `chair`, `member`, and `witness`. If you use the label
+`Committee Member` for speakers the transcript leaves unnamed, set both its label
+and name to `Committee Member`, give it kind `member`, and explain in its role that
+it stands in for unnamed questioners.
 """
 
 
@@ -687,6 +693,30 @@ def validate_packet(packet: Path) -> tuple[list[str], list[str], dict[str, Any] 
                 warnings.append(
                     f"Speaker name {name!r} was not found verbatim in transcript.txt; "
                     "check the spelling and attribution."
+                )
+
+    official_witnesses = [
+        str(entry.get("name") or "").casefold()
+        for entry in metadata.get("witnesses") or []
+        if entry.get("name") and entry["name"] != "Name not supplied"
+    ]
+    if official_witnesses:
+        for speaker in speakers:
+            if not isinstance(speaker, dict):
+                continue
+            name = str(speaker.get("name") or "").casefold()
+            listed = bool(name) and any(
+                name in witness or witness in name for witness in official_witnesses
+            )
+            if speaker.get("kind") == "witness" and not listed:
+                warnings.append(
+                    f"{speaker.get('name')!r} is declared a witness but is not in "
+                    "the official witness list."
+                )
+            elif speaker.get("kind") == "member" and listed:
+                warnings.append(
+                    f"{speaker.get('name')!r} is an official witness but is "
+                    "declared a member."
                 )
 
     chapters = condensation.get("chapters")
@@ -954,7 +984,27 @@ def session_javascript(metadata: dict[str, Any], condensation: dict[str, Any]) -
             "soft": soft,
         }
 
-    transcript_lines = [f"# {condensation['title']}"]
+    # Naming comes from official metadata, never from the model: the inquiry
+    # (business) title names the meeting, the witnesses name the session.
+    inquiry = " / ".join(
+        str(entry.get("title") or "").strip()
+        for entry in metadata.get("businesses") or []
+        if entry.get("title")
+    )
+    witness_names = [
+        entry["name"]
+        for entry in metadata.get("witnesses") or []
+        if entry.get("name") and entry["name"] != "Name not supplied"
+    ] or [
+        speaker["name"]
+        for speaker in condensation["speakers"]
+        if speaker.get("kind") == "witness"
+    ]
+    session_label = metadata["meeting_date_display"] + " · " + (
+        ", ".join(witness_names) if witness_names else "Oral evidence"
+    )
+
+    transcript_lines = [f"# {inquiry or metadata['committee']}"]
     for chapter in condensation["chapters"]:
         transcript_lines.extend(
             [
@@ -973,7 +1023,7 @@ def session_javascript(metadata: dict[str, Any], condensation: dict[str, Any]) -
     status_label = metadata.get("transcript_status", "published").capitalize()
     session = {
         "id": f"oral-evidence-{metadata['parliament_oral_evidence_id']}",
-        "label": condensation["label"],
+        "label": session_label,
         "committee": metadata["committee"],
         "date": metadata["meeting_date_display"],
         "sourceUrl": metadata["source_url"],
@@ -983,6 +1033,8 @@ def session_javascript(metadata: dict[str, Any], condensation: dict[str, Any]) -
         "cast": cast,
         "transcript": transcript,
     }
+    if inquiry:
+        session["inquiry"] = inquiry
     serialised = json.dumps(session, ensure_ascii=False, indent=2)
     return f"""/*
  * Generated from UK Parliament oral evidence {metadata['parliament_oral_evidence_id']}.
@@ -996,7 +1048,9 @@ window.COMMITTEE_SESSIONS.push({serialised});
 
 def generated_tag(path: Path, root: Path) -> str:
     relative = path.relative_to(root).as_posix()
-    return f'    <script src="{relative}"></script>'
+    # Content-hashed URL so browsers pick up re-condensed sessions immediately.
+    digest = hashlib.sha256(path.read_bytes()).hexdigest()[:8]
+    return f'    <script src="{relative}?v={digest}"></script>'
 
 
 def update_index(root: Path, generated_files: list[Path], check: bool) -> bool:
