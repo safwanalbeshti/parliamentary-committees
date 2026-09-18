@@ -49,32 +49,28 @@ ROOT = Path(__file__).resolve().parents[1]
 INDEX_START = "    <!-- GENERATED_SESSIONS_START -->"
 INDEX_END = "    <!-- GENERATED_SESSIONS_END -->"
 
+# The original committee-room illustration (and its calibrated seat positions)
+# is reused for every automatically generated session.
 GENERIC_ROOM = {
-    "image": "assets/generic-committee-room.svg",
-    "width": 1600,
-    "height": 900,
+    "image": "Energy Resilience/committee_room_4.png",
+    "width": 2788,
+    "height": 1536,
     "seats": {
-        "chair": {"x": 50, "y": 23},
-        "member1": {"x": 21, "y": 29},
-        "member2": {"x": 30, "y": 25},
-        "member3": {"x": 39, "y": 23},
-        "member4": {"x": 61, "y": 23},
-        "member5": {"x": 70, "y": 25},
-        "member6": {"x": 79, "y": 29},
-        "member7": {"x": 14, "y": 38},
-        "member8": {"x": 86, "y": 38},
-        "member9": {"x": 25, "y": 42},
-        "member10": {"x": 75, "y": 42},
-        "witness1": {"x": 35, "y": 67},
-        "witness2": {"x": 45, "y": 64},
-        "witness3": {"x": 55, "y": 64},
-        "witness4": {"x": 65, "y": 67},
-        "remote": {"x": 90, "y": 19},
+        "chair": {"x": 66, "y": 29.5},
+        "member1": {"x": 25, "y": 36.5},
+        "member2": {"x": 79, "y": 30},
+        "member3": {"x": 20.5, "y": 41.5},
+        "member4": {"x": 36, "y": 37.5},
+        "member5": {"x": 89.5, "y": 46.5},
+        "member6": {"x": 87.5, "y": 40},
+        "witness1": {"x": 30, "y": 57},
+        "witness2": {"x": 45.5, "y": 62},
+        "witness3": {"x": 15, "y": 51.5},
     },
 }
 
-MEMBER_SEATS = [f"member{i}" for i in range(1, 11)]
-WITNESS_SEATS = [f"witness{i}" for i in range(1, 5)]
+MEMBER_SEATS = [f"member{i}" for i in range(1, 7)]
+WITNESS_SEATS = [f"witness{i}" for i in range(1, 4)]
 
 PALETTE = [
     ("#315f72", "#d7edf0"),
@@ -380,22 +376,39 @@ def prompt_for(metadata: dict[str, Any]) -> str:
     status = metadata["transcript_status"]
     return f"""# Condense this parliamentary evidence session
 
-Upload `transcript.txt` with this prompt. Read the entire transcript before writing.
+You've been given the transcript of a parliamentary committee meeting. Come up with
+a condensed version that a layman can understand. Ideally, it consists of a much
+shorter (though not very short) dialogue in which things are explained in layman
+terms. The characters speak to each other in a casual way rather than an overly
+formal way. Think hard about what the conversation is about before producing this
+condensed natural dialogue, so as to make sure that you are not misunderstanding
+what it was about. Make sure contractions are used (e.g. "isn't" instead of
+"is not"), and don't omit the speaker's name.
 
-The goal is a substantially shorter, accurate, plain-English dialogue for a general
-reader. It should still be detailed enough to preserve the important arguments,
-qualifications, disagreements and practical examples.
+Here is an example of what the dialogue should read like:
 
-Requirements:
+> Deborah: That even something not officially labelled "critical national
+> infrastructure" can still cause huge disruption. That one fire affected Heathrow,
+> transport, hospitals, GP surgeries, data centres, and more.
+>
+> Chair: So energy is connected to everything else.
+>
+> Deborah: Exactly. Energy underpins transport, health, telecoms, defence, and
+> daily life. We need better maps of how all these systems depend on each other.
+>
+> Committee Member: What about extreme weather?
 
-- Use casual, natural language and contractions such as “isn’t” and “we’re”.
+Accuracy requirements:
+
 - Preserve who said what. Never transfer a claim from one witness to another.
 - Do not invent facts, motives, consensus, quotations or speaker identities.
-- Paraphrase rather than quote. The result is not a verbatim transcript.
 - Keep meaningful challenges and disagreements instead of smoothing them away.
 - You may merge repetitive committee questions into a clearly labelled
   `Committee Member` voice, but never merge different witnesses.
 - Use `Chair` for the chair when that makes the dialogue easier to follow.
+
+Structural requirements (the JSON is checked automatically):
+
 - Give the session 2–8 short chapters, each with a one-sentence takeaway.
 - Aim for roughly 20–80 dialogue turns, depending on the source length. Never
   exceed 100 turns; condense harder instead.

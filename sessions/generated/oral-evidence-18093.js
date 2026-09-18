@@ -6,80 +6,56 @@
 window.COMMITTEE_SESSIONS = window.COMMITTEE_SESSIONS || [];
 window.COMMITTEE_SESSIONS.push({
   "id": "oral-evidence-18093",
-  "label": "15 September 2026 · International Agreements Committee",
+  "label": "15 Sep 2026 · UNIDO evidence",
   "committee": "International Agreements Committee",
   "date": "15 September 2026",
   "sourceUrl": "https://committees.parliament.uk/oralevidence/18093/html/",
   "sourceLabel": "Official uncorrected transcript",
-  "summary": "The International Agreements Committee questioned three UNIDO directors about the organisation's reforms since the UK withdrew and the case for rejoining. Witnesses highlighted tripled funding mobilisation, doubled technical delivery, and practical projects in energy, agribusiness and digital transformation. Members pressed on whether UNIDO delivers value for money, why the UK should formally join rather than just fund projects, and how scaling up can be achieved. Witnesses argued that membership gives governance oversight and allows the UK to shape policy, while acknowledging that scale remains a challenge.",
+  "summary": "The International Agreements Committee questioned three UNIDO directors about why the UK should rejoin the organisation after withdrawing in 2012. The witnesses described sweeping management reforms, tripled funding mobilisation and doubled technical delivery; pointed to UK-supported projects on steel and cement decarbonisation, hydrogen in Namibia and agri-tech in Ghana; and argued that UK taxpayers get better oversight and influence inside the governing bodies than as a non-member donor. Members pushed back repeatedly on whether joining adds value beyond project funding and whether reforms will outlast the current leadership.",
   "room": {
-    "image": "assets/generic-committee-room.svg",
-    "width": 1600,
-    "height": 900,
+    "image": "Energy Resilience/committee_room_4.png",
+    "width": 2788,
+    "height": 1536,
     "seats": {
       "chair": {
-        "x": 50,
-        "y": 23
+        "x": 66,
+        "y": 29.5
       },
       "member1": {
-        "x": 21,
-        "y": 29
+        "x": 25,
+        "y": 36.5
       },
       "member2": {
-        "x": 30,
-        "y": 25
+        "x": 79,
+        "y": 30
       },
       "member3": {
-        "x": 39,
-        "y": 23
+        "x": 20.5,
+        "y": 41.5
       },
       "member4": {
-        "x": 61,
-        "y": 23
+        "x": 36,
+        "y": 37.5
       },
       "member5": {
-        "x": 70,
-        "y": 25
+        "x": 89.5,
+        "y": 46.5
       },
       "member6": {
-        "x": 79,
-        "y": 29
-      },
-      "member7": {
-        "x": 14,
-        "y": 38
-      },
-      "member8": {
-        "x": 86,
-        "y": 38
-      },
-      "member9": {
-        "x": 25,
-        "y": 42
-      },
-      "member10": {
-        "x": 75,
-        "y": 42
+        "x": 87.5,
+        "y": 40
       },
       "witness1": {
-        "x": 35,
-        "y": 67
+        "x": 30,
+        "y": 57
       },
       "witness2": {
-        "x": 45,
-        "y": 64
+        "x": 45.5,
+        "y": 62
       },
       "witness3": {
-        "x": 55,
-        "y": 64
-      },
-      "witness4": {
-        "x": 65,
-        "y": 67
-      },
-      "remote": {
-        "x": 90,
-        "y": 19
+        "x": 15,
+        "y": 51.5
       }
     }
   },
@@ -95,9 +71,9 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#315f72",
       "soft": "#d7edf0"
     },
-    "Lord German": {
-      "name": "Lord German",
-      "role": "Committee member",
+    "Committee Member": {
+      "name": "Committee Member",
+      "role": "Combines repetitive questions from several committee members, including Lord German, Baroness Verma, Lord Hannay of Chiswick, Lord Stevenson of Balmacara, Lord Boateng, Baroness Lawlor and Baroness Bonham-Carter of Yarnbury",
       "description": "",
       "kind": "member",
       "seats": [
@@ -117,17 +93,6 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#4c7b5d",
       "soft": "#dff0dd"
     },
-    "Baroness Verma": {
-      "name": "Baroness Verma",
-      "role": "Committee member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member2"
-      ],
-      "color": "#9b543e",
-      "soft": "#f2e0d7"
-    },
     "Rana Ghoneim": {
       "name": "Rana Ghoneim",
       "role": "Director, Division of Energy and Climate Action, UNIDO",
@@ -136,19 +101,8 @@ window.COMMITTEE_SESSIONS.push({
       "seats": [
         "witness2"
       ],
-      "color": "#287079",
-      "soft": "#d9eeee"
-    },
-    "Lord Hannay of Chiswick": {
-      "name": "Lord Hannay of Chiswick",
-      "role": "Committee member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member3"
-      ],
-      "color": "#b17b2e",
-      "soft": "#f5e8c4"
+      "color": "#9b543e",
+      "soft": "#f2e0d7"
     },
     "Jason Slater": {
       "name": "Jason Slater",
@@ -158,53 +112,9 @@ window.COMMITTEE_SESSIONS.push({
       "seats": [
         "witness3"
       ],
-      "color": "#8a5a78",
-      "soft": "#f0e2ec"
-    },
-    "Lord Stevenson of Balmacara": {
-      "name": "Lord Stevenson of Balmacara",
-      "role": "Committee member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member4"
-      ],
-      "color": "#5c676d",
-      "soft": "#e5e8e8"
-    },
-    "Lord Boateng": {
-      "name": "Lord Boateng",
-      "role": "Committee member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member5"
-      ],
-      "color": "#315f72",
-      "soft": "#d7edf0"
-    },
-    "Baroness Lawlor": {
-      "name": "Baroness Lawlor",
-      "role": "Committee member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member6"
-      ],
-      "color": "#6f5c91",
-      "soft": "#ebe2f5"
-    },
-    "Baroness Bonham-Carter of Yarnbury": {
-      "name": "Baroness Bonham-Carter of Yarnbury",
-      "role": "Committee member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member7"
-      ],
-      "color": "#4c7b5d",
-      "soft": "#dff0dd"
+      "color": "#287079",
+      "soft": "#d9eeee"
     }
   },
-  "transcript": "# Why Rejoin UNIDO? Reform, Results and the Case for Membership\n\n## Reforms Since the UK Withdrawal\n> UNIDO has restructured and improved efficiency, tripling funds mobilisation and doubling delivery since the UK left.\n\nChair: Welcome. We're here to scrutinise the UK's re-entry into UNIDO. Lord German, please start.\nLord German: What have you changed since the UK withdrew to address the problems that led to its departure?\nManuel Mattiat: The UK's concerns were rational and well-assessed, mainly about efficiency, results and value for money, not the mandate. Under our current Director-General, a former German minister with a private-sector mindset, we've done two restructurings. We cut a layer of hierarchy without letting people go, just not replacing retirees. We've tripled funds mobilisation in four years—the UK is now our second largest donor—and doubled technical delivery to £400 million this year. We've also opened up to the private sector, which is unique in the UN space. The UK gave us a test case with £80 million, which increased to £140 million because it worked well.\nBaroness Verma: I've just come back from the DRC where huge areas have no electricity. I don't see much private sector investment in energy in developing nations. How are you targeting resources and measuring outcomes?\nRana Ghoneim: Only a few countries get energy investment. We host forums on financial flows and help countries develop industrial transformation investment plans. Energy isn't just about lighting; it's about comfort and industrial development. For example, we're working with west Africa on economic corridors for mineral beneficiation.\nBaroness Verma: But many countries depend on small industries that can't develop without energy. We need to start where local people can grow.\n\n\n## UN Reform and Partnerships\n> UNIDO is actively contributing to UN80 reform by focusing on its comparative advantage and outsourcing back-office functions.\n\nLord Hannay of Chiswick: All UN agencies are under financial pressure. What is UNIDO doing for the Secretary-General's reform to cut staff and programmes?\nManuel Mattiat: We had already reformed due to the UK's withdrawal, so we pre-empted some shocks. In UN80, we're being honest about who does what best. We're looking at outsourcing back-office functions like procurement and HR to agencies like WFP or UNOPS that are better at them. This is a significant shift for us.\nJason Slater: We have a practical example: a partnership with UNOOSA, the space agency, called Space4Industry. We're using geospatial data and AI for early warning systems in industrial zones, showing how two agencies can complement each other.\n\n\n## UK-Funded Projects on the Ground\n> UK money supports concrete projects in decarbonisation, innovation and clean energy, with examples in steel, cement, Brazil, Namibia and Kenya.\n\nLord Stevenson of Balmacara: Can you give two or three concrete examples of what UK money has achieved on the ground?\nRana Ghoneim: We work on global standards for carbon accounting in steel and cement. With UK expertise, we're influencing trade standards. We're also linking UK innovation ecosystems with Brazil for industrial decarbonisation. And through the A2D Facility, we're supporting Namibia's first hydrogen programme and biogasification in Kenya's tea industry, bringing UK technology to developing countries.\n\n\n## Food Security and Technology\n> UNIDO uses technology to reduce post-harvest losses, but members stress the importance of agronomists and practical results for farmers.\n\nLord Boateng: The UK has invested in food security for decades. Can you give examples of how UNIDO, with FAO or others, has helped smallholder farmers? If not, please write to us. We need to show UK taxpayers the difference they make.\nJason Slater: In Ghana, about 50% of rice is imported and 20% is lost post-harvest. We developed a tool that farmers can use to scan rice and track problems. In six months, we've reduced losses from 20% to 13%. It's funded by Japan, but shows how technology can solve food security challenges.\nBaroness Verma: Agronomists are the greatest asset. Technology is helpful, but you need agronomists in the mix to eradicate losses completely.\n\n\n## Why Rejoin? The Case for Membership\n> Witnesses argue that formal membership gives the UK a say in governance and policy, while members question whether it adds value beyond existing project funding.\n\nChair: We have a large aid department. What are you doing that we cannot? Why do we need to formally rejoin?\nManuel Mattiat: You're already our second largest donor but without a seat at the table. Membership gives you governance oversight, a say in policy, and the ability to hold us accountable. It's about accountability and ensuring your voice is heard in resolutions on issues from gender to food security. The membership fee is small compared to your voluntary contributions.\nBaroness Lawlor: I don't see a good reason to join except becoming part of a talking shop. The money we spend isn't making enough difference. Why not just fund projects directly?\nManuel Mattiat: From my field experience, UNIDO's work is tangible—solar mini-grids in Chad, small hydropower in Madagascar. Now with private sector involvement, projects scale from £2 million to £200 million. It's a different ballgame. Being a member allows you to shape our reform and access our normative work and research. We're better off with you than alone.\nJason Slater: In Ukraine, FCDO reached out to us because we had access on the ground they didn't. We're working with Japan and others on green recovery. This shows the value of partnership and scaling. We're also looking at new financial instruments to leverage private financing.\n\n\n## Scaling Up and Ensuring Long-Term Change\n> Witnesses acknowledge the need to scale up and assure that reforms will outlast the current Director-General through leadership development and institutional change.\n\nLord Boateng: A key failure in development is the inability to scale up. We need practical examples of how you've helped scale up, or we'll miss the SDGs.\nBaroness Bonham-Carter of Yarnbury: You say it's better to be inside. Can you convince sceptical colleagues that it's not just bureaucracy?\nChair: What if the Director-General retires and things revert? This is a long-term commitment.\nManuel Mattiat: We want you to be part of our growth story and governance. The UK has much to offer in research and innovation. Being a member allows us to subcontract and procure from you, which isn't possible otherwise. The current Director-General has changed the culture, and we're now seen as a leader in business innovation. Your membership would help sustain that trend.\nJason Slater: The Director-General is building a foundation beyond his term. We've embedded private sector engagement and implementation patterns. We're also looking at new financial instruments and a transformation fund.\nRana Ghoneim: Scaling requires anchor loads from industry to make energy business cases work. We're helping countries prepare for concessional and private finance. We're also investing in leadership training to ensure the legacy continues.\nChair: Thank you very much. We're grateful for your journey from Vienna.\nBaroness Bonham-Carter of Yarnbury: Please keep supporting Lavazza.\n"
+  "transcript": "# Why Rejoin UNIDO? Reforms, Results, and the Case for a Seat at the Table\n\n## Reforms since the UK left\n> UNIDO says it has restructured its management, tripled funding and doubled project delivery since the UK withdrew.\n\nCommittee Member: What's actually changed since the UK pulled out? What have you fixed that was a problem back then?\nManuel Mattiat: The UK's decision was fair and rational. It was never about our mandate—it was about how efficiently we ran the place. So that's where we've worked hardest.\nManuel Mattiat: The current Director-General came in four years ago from a German ministerial job with a very private-sector mindset. He did two rounds of restructuring, brought in outside business consultants, and cut a whole layer of management—without firing anyone, just not replacing people who retired.\nManuel Mattiat: In four years we've tripled our funding mobilisation. The UK is now our second-largest donor. We've also doubled what we actually deliver on the ground—around £400 million this year, up from roughly £190 million.\nManuel Mattiat: The UK gave us an £80 million test project to see if the reforms were real. It went well, so it grew to about £140 million. That trust was earned, not assumed.\nManuel Mattiat: We've also opened up to the private sector in a way that's unusual for a UN agency. That means companies get a foot in markets they couldn't easily reach, and there's a clear business case, not just charity.\n\n\n## Energy access and what Members see on the ground\n> Members push back that energy investment still isn't reaching the poorest countries, while UNIDO argues energy must be tied to industrial demand.\n\nCommittee Member: I travel across developing countries constantly. Large parts of the DRC still have no electricity at all. I don't see private or public investment actually landing where it's needed. Where is your money really going, and how do you measure it?\nRana Ghoneim: You're right that only a handful of countries attract investment right now. Least developed countries and small island states still get far too little.\nRana Ghoneim: We host forums to push for redirection of financial flows, and nationally we help countries build industrial transformation investment plans. Energy isn't just about lighting—it's the backbone, and industry is the engine that turns it into jobs.\nRana Ghoneim: For example, we're working with west Africa, under Sierra Leone's presidency, on economic corridors and mineral beneficiation. That shifts the conversation from just energy access to energy as an industrial opportunity.\nCommittee Member: But communities live off small businesses, and those can't grow without any power at all. Sometimes you need to start where growth can actually happen, with local people, not just the macro picture.\n\n\n## Fitting into UN reform and avoiding duplication\n> UNIDO says it's part of the wider UN80 reform, focusing on who does what best and outsourcing back-office functions to other agencies.\n\nCommittee Member: All UN agencies are under severe financial pressure. What is UNIDO doing to support the Secretary-General's reform effort to cut staff and programmes?\nManuel Mattiat: Because of the UK's withdrawal and others before it, we'd already been forced to reform before the current UN80 exercise. So we were somewhat ahead of the shock.\nManuel Mattiat: The first job in the UN80 working groups was being honest about who's good at what. Our mandate is industrial development under SDG 9, and we should be clear where we overlap with UNDP or FAO.\nManuel Mattiat: The most interesting part is back-office functions. Why do our own HR and procurement when agencies like UNOPS or WFP are faster? We're looking at what to outsource rather than duplicate.\nJason Slater: A practical example: we partnered with UNOOSA, the space agency, on Space4Industry. Industrial development depends on connectivity and geospatial data, so jointly we can deliver early-warning systems to protect industrial zones from climate risk.\n\n\n## UK money at work: concrete projects\n> The witnesses cite UK-funded work on steel and cement carbon standards, a Brazil partnership, hydrogen in Namibia and agri-tech in Ghana.\n\nCommittee Member: Can you give us two or three concrete examples of what UK money actually delivered on the ground?\nRana Ghoneim: First, we're working on global standards for carbon accounting in steel and cement, using UK expertise and industry knowledge. That matters for global trade.\nRana Ghoneim: Second, we're linking UK and Brazilian innovation ecosystems on steel and cement decarbonisation—UK universities and SMEs helping Brazil build its industrial decarbonisation roadmap.\nRana Ghoneim: Third, through the Accelerate-to-Demonstrate Facility, we're supporting Namibia's first hydrogen production programme, and biogasification in Kenya's tea industry. These are UK technology and know-how applied in developing countries.\nCommittee Member: UK taxpayers have spent decades on food security and linking farmers to markets. What practical examples do you have, maybe with FAO? If not, please write to us—we need to show what difference the money makes.\n\n\n## The rice project and food security\n> A Ghana rice project cut post-harvest losses from 20% to 13% in six months, though Members stress agronomists are just as vital as technology.\n\nJason Slater: In Ghana, about 50% of rice is imported, and we found around 20% of domestic production was lost post-harvest. We built a tool the farmer holds in their hand—they scan the rice and trace where losses occur.\nJason Slater: Within six months losses dropped from 20% to 13%. It was funded by Japan, not the UK, and we're now looking to replicate it across west Africa.\nCommittee Member: Alongside the technology, agronomists are the greatest asset a community has—they know the soil better than anyone. You could eliminate much of the loss by making sure they're in the mix.\n\n\n## Why join rather than just fund projects?\n> UNIDO argues the UK already pays in but has no seat or vote, so formal membership buys accountability, influence and access, not just project delivery.\n\nChair: We have a huge development office already. What are you doing that we can't do ourselves? Why do we need to rejoin rather than just fund projects?\nManuel Mattiat: Japan is giving us about £200 million for Ukraine's recovery. Italy funds coffee value chains, and companies like Illy and Lavazza rely on our certification to prove sustainability to consumers.\nManuel Mattiat: The harder point is political. You're already one of our biggest contributors, but you're not formally a stakeholder. You can't vote in the Industrial Development Board, and you don't get due diligence over how the money is spent.\nManuel Mattiat: If the membership fee is small compared to your voluntary contributions and can be found within existing resources, joining is almost a no-brainer. You get a voice, oversight and accountability.\nCommittee Member: I don't see any good reason to join except a talking shop. Money isn't reaching villages that need electricity. Why is that better value than funding projects we already trust?\nManuel Mattiat: I've seen it personally—solar mini-grids in Chad, small hydropower in Madagascar, vocational training for ex-combatants in west Africa. That work is tangible.\nManuel Mattiat: What we were missing was scale. The average project used to be £2 million; with private sector involvement it can now be £200 million. That changes the impact entirely.\nJason Slater: On Ukraine, FCDO and Innovate Ukraine came to us because we have on-the-ground co-ordinators they don't have. Together with Japan and Austria, we can scale what they couldn't do alone.\nCommittee Member: Isn't that evidence we'd be better off funding projects we have a mutual interest in and seeing the results?\nJason Slater: No, because of what happens after the project ends. We set up a finance coalition at London Climate Action Week to leverage private financing and amplify impact beyond any single project.\n\n\n## Scale, leadership and the long term\n> Members warn about the failure to scale globally; UNIDO points to leadership development, new financing tools and embedding private sector partnerships as the answer.\n\nCommittee Member: The whole development sector has failed to scale. We'll miss the SDGs otherwise. We need practical examples of scaling up to be convinced.\nCommittee Member: You say it's better to be inside. Convince the sceptics here that we're not just buying into bureaucracy.\nChair: It sounds like the Director-General has done a great job, but what happens when he retires? It could revert. This is a long-term commitment—weave that into your answers.\nManuel Mattiat: You should be part of the growth story. Beyond projects, we need UK know-how on industrial policy research, business innovation and reforming our IT and results systems. Other member states won't allow those contracts unless you're a member.\nManuel Mattiat: Other UN agencies now come to us to learn about business innovation, which never used to happen. Being part of that trend ensures it continues, politically and technically.\nRana Ghoneim: On scaling energy: rural demand is low, so industry has to be the anchor load that makes the business case. We're preparing countries for concessional finance and private capital, not just development finance.\nRana Ghoneim: And you build institutions through people. The Director-General has invested in leadership training across the organisation, so there's a deep bench to carry this beyond his term.\nJason Slater: I've been through several DFID assessments and seen the shift. It's about implementation modalities—knowing what we're good at, building consortia, and developing new financial instruments like a transformation fund.\nChair: Thank you all—that's been hugely helpful. We're grateful you travelled from Vienna and wish you a safe journey home.\nCommittee Member: Please keep supporting Lavazza.\n"
 });

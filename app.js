@@ -22,6 +22,10 @@ const KIND_LABELS = {
 const STORAGE_KEY = "committee-viewer-progress";
 
 const el = {
+  appMain: document.querySelector("main.app"),
+  meetingMenu: document.querySelector("#meetingMenu"),
+  meetingList: document.querySelector("#meetingList"),
+  menuBtn: document.querySelector("#menuBtn"),
   stage: document.querySelector("#stage"),
   roomImage: document.querySelector("#roomImage"),
   roomDim: document.querySelector("#roomDim"),
@@ -87,23 +91,117 @@ function init() {
 
   buildSessionPicker();
   bindControls();
+  renderMeetingMenu();
 
   const fromHash = readHash();
-  const stored = readStorage();
-  const startId =
-    (fromHash.sessionId && findSession(fromHash.sessionId) && fromHash.sessionId) ||
-    (stored && findSession(stored.id) && stored.id) ||
-    sessions[0].id;
 
-  selectSession(startId);
+  // A deep link goes straight to its session; everyone else starts at the menu.
+  if (fromHash.sessionId && findSession(fromHash.sessionId)) {
+    enterSession(fromHash.sessionId, fromHash.turn);
+  } else {
+    showMenu();
+  }
+}
+
+/* ---------- meeting menu ---------- */
+
+function meetingsFromSessions() {
+  const groups = new Map();
+  for (const item of sessions) {
+    const key = `${item.committee || "Committee"}|${item.date || ""}`;
+    if (!groups.has(key)) {
+      groups.set(key, {
+        committee: item.committee || "Committee",
+        date: item.date || "",
+        when: Date.parse(item.date || "") || 0,
+        sessions: [],
+      });
+    }
+    groups.get(key).sessions.push(item);
+  }
+  return [...groups.values()].sort((a, b) => b.when - a.when);
+}
+
+function sessionMenuLabel(item) {
+  const label = item.label || item.id;
+  // Generated labels start with the meeting date, redundant under a date heading.
+  const prefix = `${item.date} · `;
+  return label.startsWith(prefix) ? label.slice(prefix.length) : label;
+}
+
+function renderMeetingMenu() {
+  const fragment = document.createDocumentFragment();
+
+  for (const meeting of meetingsFromSessions()) {
+    const card = document.createElement("article");
+    card.className = "meeting-card";
+
+    const heading = document.createElement("header");
+    heading.className = "meeting-heading";
+
+    const committee = document.createElement("h2");
+    committee.className = "meeting-committee";
+    committee.textContent = meeting.committee;
+
+    const date = document.createElement("p");
+    date.className = "meeting-date";
+    date.textContent = meeting.date;
+
+    heading.append(committee, date);
+    card.append(heading);
+
+    const list = document.createElement("div");
+    list.className = "meeting-sessions";
+
+    meeting.sessions.forEach((item) => {
+      const button = document.createElement("button");
+      button.type = "button";
+      button.className = "meeting-session";
+
+      const name = document.createElement("span");
+      name.className = "meeting-session-name";
+      name.textContent = sessionMenuLabel(item);
+
+      const summary = document.createElement("span");
+      summary.className = "meeting-session-summary";
+      summary.textContent = item.summary || "";
+
+      const go = document.createElement("span");
+      go.className = "meeting-session-go";
+      go.textContent = "→";
+
+      button.append(name, summary, go);
+      button.addEventListener("click", () => enterSession(item.id));
+      list.append(button);
+    });
+
+    card.append(list);
+    fragment.append(card);
+  }
+
+  el.meetingList.replaceChildren(fragment);
+}
+
+function showMenu() {
+  stopAutoplay();
+  el.meetingMenu.hidden = false;
+  el.appMain.hidden = true;
+  document.title = "Parliamentary Committees, in Plain English";
+  history.replaceState(null, "", window.location.pathname + window.location.search);
+}
+
+function enterSession(id, turn = null) {
+  el.meetingMenu.hidden = true;
+  el.appMain.hidden = false;
+  selectSession(id);
 
   let startTurn = 0;
-  if (fromHash.turn !== null && fromHash.sessionId ? fromHash.sessionId === session.id : fromHash.turn !== null) {
-    startTurn = fromHash.turn;
+  const stored = readStorage();
+  if (turn !== null) {
+    startTurn = turn;
   } else if (stored && stored.id === session.id) {
     startTurn = stored.turn;
   }
-
   setCurrent(startTurn, { immediate: true });
 }
 
@@ -674,6 +772,7 @@ function buildSessionPicker() {
 }
 
 function bindControls() {
+  el.menuBtn.addEventListener("click", showMenu);
   el.previousBtn.addEventListener("click", () => setCurrent(currentIndex - 1));
   el.nextBtn.addEventListener("click", () => setCurrent(currentIndex + 1));
   el.playBtn.addEventListener("click", togglePlay);
@@ -713,6 +812,7 @@ function activateTab(name) {
 
 function onKeydown(event) {
   if (event.altKey || event.ctrlKey || event.metaKey) return;
+  if (el.appMain.hidden) return;
 
   const target = event.target;
   if (target instanceof Element && target.closest("input, select, textarea, [contenteditable]")) {

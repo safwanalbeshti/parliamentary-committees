@@ -1028,3 +1028,129 @@ h1 {
     transition-duration: 1ms !important;
   }
 }
+
+/* ---------- meeting menu ---------- */
+
+.meeting-menu {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: clamp(20px, 4vw, 48px) clamp(16px, 3vw, 32px);
+}
+
+.menu-header h1 {
+  margin: 0 0 8px;
+  font-size: clamp(1.5rem, 3.4vw, 2.2rem);
+  color: var(--ink);
+}
+
+.menu-header p {
+  margin: 0 0 26px;
+  color: var(--muted);
+  max-width: 56ch;
+}
+
+.meeting-list {
+  display: grid;
+  gap: 18px;
+}
+
+.meeting-card {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: 0 10px 30px rgba(24, 32, 38, 0.08);
+  overflow: hidden;
+}
+
+.meeting-heading {
+  padding: 14px 18px 10px;
+  border-bottom: 1px solid var(--line);
+}
+
+.meeting-committee {
+  margin: 0;
+  font-size: 1.02rem;
+  color: var(--ink);
+}
+
+.meeting-date {
+  margin: 2px 0 0;
+  font-size: 0.82rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.meeting-sessions {
+  display: grid;
+}
+
+.meeting-session {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  grid-template-areas: "name go" "summary go";
+  gap: 2px 14px;
+  align-items: center;
+  text-align: left;
+  width: 100%;
+  padding: 12px 18px;
+  background: transparent;
+  border: 0;
+  border-top: 1px solid var(--line);
+  cursor: pointer;
+  font: inherit;
+  transition: background 0.15s ease;
+}
+
+.meeting-session:first-child {
+  border-top: 0;
+}
+
+.meeting-session:hover,
+.meeting-session:focus-visible {
+  background: rgba(212, 154, 56, 0.12);
+}
+
+.meeting-session-name {
+  grid-area: name;
+  font-weight: 700;
+  color: var(--ink);
+}
+
+.meeting-session-summary {
+  grid-area: summary;
+  color: var(--muted);
+  font-size: 0.86rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.meeting-session-go {
+  grid-area: go;
+  color: var(--accent-strong);
+  font-size: 1.2rem;
+}
+
+.menu-footnote {
+  margin: 26px 0 0;
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+.menu-button {
+  border: 1px solid var(--line);
+  background: var(--panel);
+  color: var(--ink);
+  border-radius: 999px;
+  padding: 8px 14px;
+  font: inherit;
+  font-size: 0.85rem;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.menu-button:hover {
+  background: rgba(212, 154, 56, 0.15);
+}

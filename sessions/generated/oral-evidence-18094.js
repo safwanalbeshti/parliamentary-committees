@@ -6,80 +6,56 @@
 window.COMMITTEE_SESSIONS = window.COMMITTEE_SESSIONS || [];
 window.COMMITTEE_SESSIONS.push({
   "id": "oral-evidence-18094",
-  "label": "15 September 2026 · UNIDO evidence",
+  "label": "15 Sep 2026 · UNIDO evidence",
   "committee": "International Agreements Committee",
   "date": "15 September 2026",
   "sourceUrl": "https://committees.parliament.uk/oralevidence/18094/html/",
   "sourceLabel": "Official uncorrected transcript",
-  "summary": "The committee questioned Matt Toombs and Paul Durrant from the Department for Energy Security and Net Zero about why the UK should rejoin UNIDO after leaving in 2012. The witnesses argued that UNIDO has genuinely reformed and that the UK's relationship with it has deepened through programmes on green industrialisation. They faced tough questions about the value for money, access to climate finance for the poorest, and how to prevent backsliding, and confirmed a UK review of the decision would take place in 2029.",
+  "summary": "The committee pressed Matt Toombs and Paul Durrant on why the UK should rejoin UNIDO after leaving in 2012, what genuine reforms have occurred, and how membership helps developing countries access climate finance. Toombs argued that the context and UK–UNIDO relationship have changed significantly, with UNIDO now more efficient and transparent, and that a UK review point in 2029 will test whether the benefits are achieved. The witnesses also addressed questions about other countries' positions, access to finance, and avoiding turf wars with other UN bodies.",
   "room": {
-    "image": "assets/generic-committee-room.svg",
-    "width": 1600,
-    "height": 900,
+    "image": "Energy Resilience/committee_room_4.png",
+    "width": 2788,
+    "height": 1536,
     "seats": {
       "chair": {
-        "x": 50,
-        "y": 23
+        "x": 66,
+        "y": 29.5
       },
       "member1": {
-        "x": 21,
-        "y": 29
+        "x": 25,
+        "y": 36.5
       },
       "member2": {
-        "x": 30,
-        "y": 25
+        "x": 79,
+        "y": 30
       },
       "member3": {
-        "x": 39,
-        "y": 23
+        "x": 20.5,
+        "y": 41.5
       },
       "member4": {
-        "x": 61,
-        "y": 23
+        "x": 36,
+        "y": 37.5
       },
       "member5": {
-        "x": 70,
-        "y": 25
+        "x": 89.5,
+        "y": 46.5
       },
       "member6": {
-        "x": 79,
-        "y": 29
-      },
-      "member7": {
-        "x": 14,
-        "y": 38
-      },
-      "member8": {
-        "x": 86,
-        "y": 38
-      },
-      "member9": {
-        "x": 25,
-        "y": 42
-      },
-      "member10": {
-        "x": 75,
-        "y": 42
+        "x": 87.5,
+        "y": 40
       },
       "witness1": {
-        "x": 35,
-        "y": 67
+        "x": 30,
+        "y": 57
       },
       "witness2": {
-        "x": 45,
-        "y": 64
+        "x": 45.5,
+        "y": 62
       },
       "witness3": {
-        "x": 55,
-        "y": 64
-      },
-      "witness4": {
-        "x": 65,
-        "y": 67
-      },
-      "remote": {
-        "x": 90,
-        "y": 19
+        "x": 15,
+        "y": 51.5
       }
     }
   },
@@ -95,6 +71,17 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#315f72",
       "soft": "#d7edf0"
     },
+    "Committee Member": {
+      "name": "Committee Member",
+      "role": "Combines repetitive questions from several members of the committee.",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member1"
+      ],
+      "color": "#6f5c91",
+      "soft": "#ebe2f5"
+    },
     "Matt Toombs": {
       "name": "Matt Toombs",
       "role": "Director for International Net Zero - Climate Finance and Strategy, Department for Energy Security and Net Zero",
@@ -103,8 +90,8 @@ window.COMMITTEE_SESSIONS.push({
       "seats": [
         "witness1"
       ],
-      "color": "#6f5c91",
-      "soft": "#ebe2f5"
+      "color": "#4c7b5d",
+      "soft": "#dff0dd"
     },
     "Paul Durrant": {
       "name": "Paul Durrant",
@@ -114,64 +101,9 @@ window.COMMITTEE_SESSIONS.push({
       "seats": [
         "witness2"
       ],
-      "color": "#4c7b5d",
-      "soft": "#dff0dd"
-    },
-    "Baroness Anelay of St Johns": {
-      "name": "Baroness Anelay of St Johns",
-      "role": "Committee member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member1"
-      ],
       "color": "#9b543e",
       "soft": "#f2e0d7"
-    },
-    "Lord Boateng": {
-      "name": "Lord Boateng",
-      "role": "Committee member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member2"
-      ],
-      "color": "#287079",
-      "soft": "#d9eeee"
-    },
-    "Baroness Verma": {
-      "name": "Baroness Verma",
-      "role": "Committee member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member3"
-      ],
-      "color": "#b17b2e",
-      "soft": "#f5e8c4"
-    },
-    "Baroness Lawlor": {
-      "name": "Baroness Lawlor",
-      "role": "Committee member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member4"
-      ],
-      "color": "#8a5a78",
-      "soft": "#f0e2ec"
-    },
-    "Lord Hannay of Chiswick": {
-      "name": "Lord Hannay of Chiswick",
-      "role": "Committee member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member5"
-      ],
-      "color": "#5c676d",
-      "soft": "#e5e8e8"
     }
   },
-  "transcript": "# Rejoining UNIDO: Reform, Value and Climate Finance\n\n## The case for rejoining\n> The government believes the context and the UK's relationship with UNIDO have changed enough to justify rejoining.\n\nChair: Thanks for coming. The obvious question is: why rejoin UNIDO at all? We seem to have a good relationship without being a member, and it works well as a delivery agent. And what genuine reforms justify reversing the decision to leave 15 years ago?\nMatt Toombs: The context now is very different from 2012. Our relationship with UNIDO has also changed a lot, especially over the last five years of programme engagement. Clean, green industrial development is critical for developing countries, and the UK can benefit from being part of that growth. Back in 2012 we had no programmes with UNIDO and a thin relationship. Since then we've worked closely with them through COP26, on green public procurement with India, on the Accelerate-to-Demonstrate programme worth about £125 million, and on industrial decarbonisation with Brazil. So the value of rejoining is much greater now.\nMatt Toombs: On reforms: UNIDO is smaller and more efficient than it was at the time of the 2011 multilateral aid review. It's more transparent and open, with an independent evaluation unit and regular publications on programme effectiveness. There's much more disclosure than before. Those are some of the reasons we think it's worth moving.\n\n\n## What about other countries?\n> Other countries that left may also return, but the UK is not alone in staying engaged.\n\nBaroness Anelay of St Johns: You've said the context has changed. What about other countries that left? Have you talked to them about returning? If they're not considering it, why not, given the benefits you describe?\nMatt Toombs: We're in conversation with like-minded countries about their relationship with UNIDO. I can't speak for them, but a number of industrialised countries remain members—Japan, Italy, Germany, and the EU all have strong relationships. We wouldn't be an exception. And we're not starting from scratch; we've been building this relationship for at least five years.\nBaroness Anelay of St Johns: Some countries still think it's not worth joining and being part of governance, even if they contribute. Without naming them, do you think others that left might rejoin?\nMatt Toombs: Yes, I do. Next week at the UN General Assembly and Climate Week NYC there will be discussions on green industrialisation. It's a priority for the Turkish COP31 presidency and the Ethiopian COP32 presidency. We've built confidence through programmes, and we'd expect other countries to take a similar route.\n\n\n## Climate finance and the poorest\n> The witnesses argue UNIDO membership can help scale up climate finance, but admit access remains difficult.\n\nLord Boateng: Japan, Italy and Germany have always been strong on industrial policy and their economies thrived. But we've spent billions on aid with insufficient impact for the poorest. Now our development budget is cut, and we're being asked to pay a UNIDO subscription. How will membership help people facing climate and water crises? Less than 3% of global climate finance goes to water and sanitation, and only 0.3% to water, waste and hygiene. Girls miss school because they lack decent toilets. How will UNIDO membership improve things for the most marginalised?\nMatt Toombs: I agree it's crucial that our international climate finance supports those who need it most. Our climate finance is smaller now, so we've had to prioritise. The government published an updated ICF strategy this year, showing we need money to go further and mobilise larger amounts.\nLord Boateng: That's all very well, but how does UNIDO membership help people on the ground who can't access green climate finance?\nMatt Toombs: Being a member helps us get scale—transforming outcomes rather than just small projects. For example, with Brazil, about £15 million of UK investment alongside their industrial development led to them accessing £250 million of wider international finance, expected to raise around £2 billion in private finance. That changes livelihoods and creates jobs.\nBaroness Verma: Is it time to revisit how climate finance is accessed? People on the ground say it's complicated, slow, and full of hurdles, so those who need it most don't get it. And is ODA fit for purpose this century?\nMatt Toombs: Access to finance is a real challenge. The UK has worked with the Green Climate Fund and others to speed up and improve access. It's a priority across our climate finance work. It's a wider ODA challenge, not specific to UNIDO. With smaller ODA budgets, we need to use money where it can have scale and mobilise wider finance.\nBaroness Verma: Are you restricted in how you spend ODA with private companies? To get private investment, ODA needs to be easier for businesses to navigate, otherwise you won't get scale-up.\nMatt Toombs: We absolutely agree that connecting private finance and the private sector with publicly financed activities is critical. We have many examples with UNIDO involving UK businesses—like the green tea facility in Kenya or green steel in South Africa. The private sector has to be fully part of the solution.\n\n\n## Engagement with other countries\n> The UK discusses industrial development with Australia and New Zealand, but won't comment on their UNIDO plans.\n\nBaroness Lawlor: You mentioned Japan, but what about the US, Australia and New Zealand? Have you engaged with them? Are they likely to rejoin?\nMatt Toombs: I don't want to speak for individual countries. The US position on climate change is well known.\nLord Boateng: The US doesn't believe in it. What's the position of USAID and the FCDO, which used to work closely together?\nMatt Toombs: We work with the US where we can, but clearly on development and ODA, the US has withdrawn from agencies and reduced funding.\nBaroness Lawlor: What about Australia and New Zealand?\nMatt Toombs: We work closely with both. Australia has the COP presidency with Turkey this year and will oversee industrial development discussions. We talk to them as partners.\nBaroness Lawlor: Do you know if Australia is going back?\nMatt Toombs: I wouldn't want to comment on their specific relationship with UNIDO.\nChair: It might be interesting to see if any statements have been made about that.\n\n\n## Preventing backsliding and reviewing membership\n> The UK will review the benefits of rejoining in 2029, but it's a UK review, not a UNIDO one.\n\nLord Hannay of Chiswick: I was British ambassador to the UN in the 1990s. We're told UNIDO is reforming well. If we rejoin, how do we ensure it doesn't slip backwards? The FAO had a high reputation after the war but by the 1990s was a rest home for politicians and wasted money. Also, UN organisations turf fight. How do we stop UNIDO doing that? And have we set up a review after a fixed term, say five years, to check it's still improving? Will you come back to this committee?\nMatt Toombs: We wouldn't assume things won't slip backwards. Being a member gives us greater engagement and oversight, and stronger levers to act if things go wrong. That's part of the case for rejoining.\nMatt Toombs: On turf fighting, the UN80 context is important—many agencies are undergoing challenging reforms and will become more streamlined. Being part of UNIDO lets us ensure it's run effectively.\nMatt Toombs: On review: we plan to review whether we're achieving the benefits of rejoining in 2029. That relates to our funding agreement with UNIDO. In 2029 we'll look at whether we've met the tests we're setting now.\nLord Hannay of Chiswick: That will depend on whether we sustain membership or decide to withdraw again.\nMatt Toombs: Our intention is to make rejoining a positive move and sustain the relationship. But it's right to review whether we're achieving the benefits in three years.\nLord Hannay of Chiswick: If Parliament is involved in reviewing, would that help your hand in UNIDO governance?\nChair: We'd be keen to participate, but can you commit to that today? Is the review point set in the agreement?\nMatt Toombs: The review point is for the UK to decide, not part of a formal agreement with UNIDO.\nLord Hannay of Chiswick: That's what I meant: a UK review of the UK's decision to rejoin, not a UNIDO review that ends with hundreds of pages and little action.\nChair: We'll end the public session here as we're tight for time.\n"
+  "transcript": "# Why Rejoin UNIDO? UK Questions Value and Reform\n\n## Why Rejoin Now?\n> The UK has built a much closer relationship with UNIDO over the last five years, and the context around green industrial development has changed since 2012.\n\nChair: Why should we actually rejoin UNIDO? We already have a good relationship with them, and we don't have to get involved in the politics.\nMatt Toombs: The context now is very different from 2012. Climate and industrial development are critical for developing countries, and clean, green growth is a big commercial opportunity for the UK.\nMatt Toombs: Back in 2012 we had no programmes with UNIDO and a thin relationship. Since then we've worked with them through COP26, on green public procurement with India, and on major programmes like Accelerate-to-Demonstrate. Rejoining gives us more influence and access for British business.\nChair: What genuine reforms have been made to justify reversing our decision to leave?\nMatt Toombs: UNIDO is now smaller, more efficient, more transparent and more open. It has an independent evaluation unit and regularly publishes information on programme effectiveness. That's a real change from what we saw in 2011.\nCommittee Member: Other countries left too. Are they considering returning? Why is the UK moving when others may not?\nMatt Toombs: We're talking to like-minded countries. Many industrialised countries stayed in—Japan, Italy, Germany, the EU—so we wouldn't be an exception. And since we've built confidence through running programmes, I think other countries that left could rejoin too.\n\n\n## Climate Finance and the Poorest Countries\n> Membership in UNIDO is meant to help scale up finance and deliver on the ground, but access to climate finance remains a major challenge.\n\nCommittee Member: We've spent billions on aid with insufficient impact. Now we're cutting our development budget but being asked to pay a subscription. How does UNIDO membership help the poorest, especially on water and sanitation, where less than 3% of global climate finance goes?\nMatt Toombs: Our international climate finance is smaller, so we need every pound to go further. We've published an updated strategy that focuses on impact and mobilising larger amounts of private finance.\nCommittee Member: But how does UNIDO membership specifically assist people on the ground who can't access finance?\nMatt Toombs: By being a member, we can help achieve scale, not just small projects. For example, a £15 million UK investment with Brazil on industrial development helped them access £250 million in wider finance, expected to raise £2 billion in private finance. That changes livelihoods.\nCommittee Member: Is it time to revisit how climate finance is accessed? It's too complicated and slow.\nMatt Toombs: Access is a real challenge, and we're working with funds like the Green Climate Fund to speed it up. It's a wider issue, not specific to UNIDO.\nCommittee Member: Are you restricted in how ODA can be spent with private companies? It needs to be easier for business.\nMatt Toombs: We agree that linking private finance with public activities is critical. We have many examples with UNIDO involving UK businesses in Kenya, South Africa and elsewhere. The private sector must be fully part of the solution.\n\n\n## Other Countries’ Positions\n> The UK works with Australia, New Zealand and others on industrial development, but the witnesses would not comment on their specific UNIDO membership plans.\n\nCommittee Member: What about the US, Australia and New Zealand? Have you engaged with them about rejoining?\nMatt Toombs: I won't speak to individual countries' positions. The US has withdrawn from several agencies and reduced funding. Australia and New Zealand we work with closely, and Australia has a COP presidency role on industrial development. But I can't comment on their specific relationship with UNIDO.\nChair: We'd be interested to see if any statements have been made about that.\n\n\n## Reform and Future Review\n> The UK plans to review whether rejoin benefits are achieved in 2029, and membership gives the UK more levers to prevent UNIDO slipping backwards.\n\nCommittee Member: How do we ensure UNIDO doesn't slip backwards? We need a mechanism to review progress after a fixed term and come back to this committee.\nMatt Toombs: We wouldn't assume things won't slip. Being a member gives us greater oversight and stronger levers to act if things go wrong. The UN80 reform context is important too—many agencies are streamlining.\nMatt Toombs: We have a plan to review whether we're achieving the benefits of rejoining in 2029. That's a UK review, not a formal part of the agreement.\nCommittee Member: Would it help your hand in governance if Parliament is involved in that review?\nMatt Toombs: Our intention is to make rejoining a positive, sustained move. But it's right to review whether we're achieving the benefits in three years.\n"
 });

@@ -178,7 +178,7 @@ class PacketTests(unittest.TestCase):
         self.assertEqual(pipeline.build_command(args), 0)
         generated = self.root / "sessions" / "generated" / "oral-evidence-123.js"
         self.assertTrue(generated.exists())
-        self.assertIn("generic-committee-room.svg", generated.read_text())
+        self.assertIn("committee_room_4.png", generated.read_text())
         self.assertIn(
             'sessions/generated/oral-evidence-123.js',
             (self.root / "index.html").read_text(),
