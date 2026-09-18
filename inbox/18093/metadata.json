@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18093,
+  "activity_id": 38813,
+  "document_id": 305445,
+  "meeting_date": "2026-09-15",
+  "meeting_date_display": "15 September 2026",
+  "publication_date": "2026-09-18T11:21:10",
+  "title": "United Nations Industrial Development Organization",
+  "committee": "International Agreements Committee",
+  "committees": [
+    {
+      "id": 448,
+      "name": "International Agreements Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9992,
+      "title": "United Nations Industrial Development Organization",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Manuel Mattiat",
+      "role": "Director and Chief of Cabinet, Office of the Chief of Cabinet,",
+      "organisation": "UNIDO"
+    },
+    {
+      "name": "Rana Ghoneim",
+      "role": "Director, Division of Energy and Climate Action",
+      "organisation": "UNIDO"
+    },
+    {
+      "name": "Jason Slater",
+      "role": "Director, Division of Digital Transformation and Artificial Intelligence",
+      "organisation": "UNIDO"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Lord German",
+    "Manuel Mattiat",
+    "Baroness Verma",
+    "Rana Ghoneim",
+    "Lord Hannay of Chiswick",
+    "Jason Slater",
+    "Lord Stevenson of Balmacara",
+    "Lord Boateng",
+    "Baroness Lawlor",
+    "Baroness Bonham-Carter of Yarnbury"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18093/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18093",
+  "source_sha256": "10c541603d160d779f7f00c5b5e0c49a483c74533b3fb0c7d67491cf0ca77bf8",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

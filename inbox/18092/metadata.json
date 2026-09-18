@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18092,
+  "activity_id": 38786,
+  "document_id": 305421,
+  "meeting_date": "2026-09-15",
+  "meeting_date_display": "15 September 2026",
+  "publication_date": "2026-09-18T08:52:42",
+  "title": "Climate adaptation and emergency response",
+  "committee": "Environment, Food and Rural Affairs Committee",
+  "committees": [
+    {
+      "id": 52,
+      "name": "Environment, Food and Rural Affairs Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9339,
+      "title": "Climate adaptation and emergency response",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Minister for Building Safety, Fire and Resilience",
+      "organisation": "Ministry of Housing, Communities and Local Government"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Parliamentary Under-Secretary of State",
+      "organisation": "Department for Environment, Food and Rural Affairs"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director for Fire",
+      "organisation": "Ministry of Housing, Communities and Local Government"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Interim Director for Strategy, Governance and Climate",
+      "organisation": "Ministry of Housing, Communities and Local Government"
+    }
+  ],
+  "speaker_candidates": [
+    "Environmental Audit Committee member present",
+    "Chair",
+    "Jenny Riddell-Carpenter",
+    "Baroness Blake of Leeds",
+    "Peter Lee",
+    "Gabrielle Edwards",
+    "Henry Tufnell",
+    "Josh Newbury",
+    "Sarah Bool",
+    "Charlie Dewhirst",
+    "Terry Jermy",
+    "Sarah Dyke",
+    "Mr Toby Perkins"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18092/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18092",
+  "source_sha256": "4d98da8435ccfedbc5ff93e554c3b38b46ad2d33a1f128ae458786fafe988b13",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

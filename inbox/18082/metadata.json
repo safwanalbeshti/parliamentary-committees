@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18082,
+  "activity_id": 38698,
+  "document_id": 305194,
+  "meeting_date": "2026-09-15",
+  "meeting_date_display": "15 September 2026",
+  "publication_date": "2026-09-17T12:58:35",
+  "title": "UK-EU Agreement on Gibraltar",
+  "committee": "European Affairs Committee",
+  "committees": [
+    {
+      "id": 516,
+      "name": "European Affairs Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9963,
+      "title": "UK-EU Agreement on Gibraltar",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Lord Wood of Anfield",
+      "role": "Parliamentary Under-Secretary of State",
+      "organisation": "Foreign, Commonwealth & Development Office (FCDO)"
+    },
+    {
+      "name": "Paul Hughes",
+      "role": "Deputy Head of the Southern Europe Department",
+      "organisation": "Foreign, Commonwealth & Development Office"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Lord Wood of Anfield",
+    "What this solution delivers is quite simple in one way",
+    "The last part of your question was",
+    "The second reason is politics. Think about the last five years",
+    "Lord Jackson of Peterborough",
+    "Lord Grantchester",
+    "Baroness Suttie",
+    "Baroness Ashton of Upholland",
+    "Lord Moynihan of Chelsea",
+    "Paul Hughes",
+    "Lord Tugendhat",
+    "The Duke of Wellington",
+    "Baroness Smith of Newnham",
+    "Lord Brennan of Canton",
+    "Lord Elliott of Mickle Fell",
+    "Lord Barrow"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18082/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18082",
+  "source_sha256": "24e577226743ceb583780eb9143a6ae6e19a638b944028946140042774e510ce",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

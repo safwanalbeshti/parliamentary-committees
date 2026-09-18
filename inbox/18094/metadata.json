@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18094,
+  "activity_id": 38825,
+  "document_id": 305446,
+  "meeting_date": "2026-09-15",
+  "meeting_date_display": "15 September 2026",
+  "publication_date": "2026-09-18T11:21:29",
+  "title": "United Nations Industrial Development Organization",
+  "committee": "International Agreements Committee",
+  "committees": [
+    {
+      "id": 448,
+      "name": "International Agreements Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9992,
+      "title": "United Nations Industrial Development Organization",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Matt Toombs",
+      "role": "Director for International Net Zero - Climate Finance and Strategy",
+      "organisation": "Department for Energy Security and Net Zero"
+    },
+    {
+      "name": "Paul Durrant",
+      "role": "Head of the International Green Industrialisation, Technology Innovation & Electrification (IGNITE) team",
+      "organisation": "Department for Energy Security and Net Zero"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "The second is a question that has also been obliquely referred to",
+    "Matt Toombs",
+    "Baroness Anelay of St Johns",
+    "Lord Boateng",
+    "Baroness Verma",
+    "Baroness Lawlor",
+    "Lord Hannay of Chiswick",
+    "In terms of turf fighting, the context around UN80 is important"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18094/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18094",
+  "source_sha256": "d2edcfb1b886a1ba9a64259ae68be774264c466a916ddb88c84dc0ec95a2f2a6",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

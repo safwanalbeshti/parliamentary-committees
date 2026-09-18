@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18089,
+  "activity_id": 38773,
+  "document_id": 305389,
+  "meeting_date": "2026-09-16",
+  "meeting_date_display": "16 September 2026",
+  "publication_date": "2026-09-17T16:07:46",
+  "title": "The UK’s constitutional safeguards",
+  "committee": "Constitution Committee",
+  "committees": [
+    {
+      "id": 172,
+      "name": "Constitution Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9861,
+      "title": "The UK’s constitutional safeguards",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Lord Young of Old Windsor",
+      "role": "former Principal Private Secretary",
+      "organisation": "The Royal Household"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Lord Young of Old Windsor",
+    "Lord Murphy of Torfaen",
+    "Lord Burnett of Maldon",
+    "Lord Beith",
+    "Lord Jones of Penybont",
+    "Baroness Hamwee",
+    "Lord Griffiths of Burry Port",
+    "Lord Bellamy",
+    "Baroness Laing of Elderslie",
+    "Lord Cryer"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18089/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18089",
+  "source_sha256": "373a11fd3c75a42efc55d6870a42bb2de0a7a05225910dbe607358dab1a7a1f9",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

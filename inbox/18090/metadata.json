@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18090,
+  "activity_id": 38774,
+  "document_id": 305399,
+  "meeting_date": "2026-09-16",
+  "meeting_date_display": "16 September 2026",
+  "publication_date": "2026-09-17T16:44:56",
+  "title": "The UK’s constitutional safeguards",
+  "committee": "Constitution Committee",
+  "committees": [
+    {
+      "id": 172,
+      "name": "Constitution Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9861,
+      "title": "The UK’s constitutional safeguards",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Lord Case",
+      "role": "Former Cabinet Secretary and Head of the Civil Service",
+      "organisation": "UK Government"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Let us start off with a general one",
+    "Lord Case",
+    "Baroness Laing of Elderslie",
+    "Lord Beith",
+    "Lord Murphy of Torfaen",
+    "Lord Burnett of Maldon",
+    "Lord Cryer",
+    "Lord Bellamy",
+    "Lord Jones of Penybont",
+    "Baroness Hamwee"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18090/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18090",
+  "source_sha256": "4d61c2570295ec5a6610dcef926b8cceaec75b68f9a956bd6c3be22572d5a2e4",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

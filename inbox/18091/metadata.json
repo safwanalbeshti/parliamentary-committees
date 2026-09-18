@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18091,
+  "activity_id": 38776,
+  "document_id": 305400,
+  "meeting_date": "2026-09-15",
+  "meeting_date_display": "15 September 2026",
+  "publication_date": "2026-09-17T16:46:29",
+  "title": "The Online Safety Act: implementation and impact",
+  "committee": "Communications and Digital Committee",
+  "committees": [
+    {
+      "id": 170,
+      "name": "Communications and Digital Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9955,
+      "title": "The Online Safety Act: implementation and impact",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Director, Online Safety Strategy Delivery",
+      "organisation": "Ofcom"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Enforcement Director",
+      "organisation": "Ofcom"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Group Director, Online Safety",
+      "organisation": "Ofcom"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Oliver Griffiths",
+    "Suzanne Cater",
+    "Mark Bunting",
+    "Baroness Caine of Kentish Town",
+    "Lord Storey",
+    "Viscount Colville of Culross",
+    "Baroness Fleet",
+    "Baroness Elliott of Whitburn Bay",
+    "Lord Kirkhope of Harrogate",
+    "Lord Knight of Weymouth",
+    "Lord Tarassenko"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18091/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18091",
+  "source_sha256": "0295f70426adf66dd7343e5b285493c8888a2b784fe810e0b54fea9d58b0493b",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}
