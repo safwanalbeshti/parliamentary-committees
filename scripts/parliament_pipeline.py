@@ -770,7 +770,7 @@ def chat_completion(api_key: str, messages: list[dict[str, str]]) -> str:
         {
             "model": CONDENSE_MODEL,
             "messages": messages,
-            "max_tokens": 8192,
+            "max_tokens": int(os.environ.get("CONDENSE_MAX_TOKENS", "16000")),
             "response_format": {"type": "json_object"},
             "stream": False,
         }
