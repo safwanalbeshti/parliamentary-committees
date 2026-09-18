@@ -4,8 +4,9 @@
 The pipeline is fully automatic:
 
 1. ``sync`` discovers and normalises new oral-evidence transcripts.
-2. ``condense`` sends each new transcript to the DeepSeek API and saves the
-   returned dialogue as condensation.json in the packet directory.
+2. ``condense`` sends each new transcript to a chat-completions API
+   (GPT-5 mini by default) and saves the
+   dialogue it returns as condensation.json in the packet directory.
 3. ``validate`` checks the JSON and ``build`` turns it into a site session.
 
 A packet can still be condensed by hand (upload CHATGPT_PROMPT.md and
@@ -42,8 +43,10 @@ import zipfile
 API_BASE = "https://committees-api.parliament.uk/api"
 SOURCE_BASE = "https://committees.parliament.uk/oralevidence"
 USER_AGENT = "plain-english-committee-viewer/1.0"
-CONDENSE_API_URL = os.environ.get("CONDENSE_API_URL", "https://api.deepseek.com/chat/completions")
-CONDENSE_MODEL = os.environ.get("CONDENSE_MODEL", "deepseek-chat")
+CONDENSE_API_URL = os.environ.get(
+    "CONDENSE_API_URL", "https://api.openai.com/v1/chat/completions"
+)
+CONDENSE_MODEL = os.environ.get("CONDENSE_MODEL", "gpt-5-mini")
 ROOT = Path(__file__).resolve().parents[1]
 
 INDEX_START = "    <!-- GENERATED_SESSIONS_START -->"
@@ -820,15 +823,20 @@ def validate_command(args: argparse.Namespace) -> int:
 
 
 def chat_completion(api_key: str, messages: list[dict[str, str]]) -> str:
-    body = json.dumps(
-        {
-            "model": CONDENSE_MODEL,
-            "messages": messages,
-            "max_tokens": int(os.environ.get("CONDENSE_MAX_TOKENS", "16000")),
-            "response_format": {"type": "json_object"},
-            "stream": False,
-        }
-    ).encode("utf-8")
+    payload: dict[str, Any] = {
+        "model": CONDENSE_MODEL,
+        "messages": messages,
+        "response_format": {"type": "json_object"},
+        "stream": False,
+    }
+    # OpenAI's GPT-5 family rejects max_tokens; reasoning tokens also count
+    # against the limit, hence the generous default.
+    limit = int(os.environ.get("CONDENSE_MAX_TOKENS", "24000"))
+    if "openai.com" in CONDENSE_API_URL:
+        payload["max_completion_tokens"] = limit
+    else:
+        payload["max_tokens"] = limit
+    body = json.dumps(payload).encode("utf-8")
     request = Request(
         CONDENSE_API_URL,
         data=body,
@@ -846,10 +854,15 @@ def chat_completion(api_key: str, messages: list[dict[str, str]]) -> str:
                 payload = json.loads(response.read().decode("utf-8"))
             return str(payload["choices"][0]["message"]["content"])
         except HTTPError as exc:
-            if exc.code in {401, 402, 403}:
+            try:
+                detail = str(json.loads(exc.read().decode("utf-8"))["error"]["message"])
+            except Exception:
+                detail = str(exc.reason)
+            lowered = detail.lower()
+            if exc.code in {401, 402, 403} or "quota" in lowered or "credit" in lowered:
                 raise PipelineError(
-                    f"The condensation API rejected the request ({exc.code}). "
-                    "Check the DEEPSEEK_API_KEY secret and the account balance."
+                    f"The condensation API rejected the request ({exc.code}): {detail} "
+                    "Check the CONDENSE_API_KEY secret and the account balance."
                 ) from exc
             last_error = exc
         except (URLError, TimeoutError, json.JSONDecodeError, KeyError, IndexError) as exc:
@@ -944,9 +957,9 @@ def condense_command(args: argparse.Namespace) -> int:
     if not packets:
         print("Every packet already has a current condensation.")
         return 0
-    api_key = os.environ.get("DEEPSEEK_API_KEY", "")
+    api_key = os.environ.get("CONDENSE_API_KEY", "")
     if not api_key:
-        raise PipelineError("Set the DEEPSEEK_API_KEY environment variable.")
+        raise PipelineError("Set the CONDENSE_API_KEY environment variable.")
     condensed = 0
     failed = 0
     for packet in packets:
@@ -954,7 +967,7 @@ def condense_command(args: argparse.Namespace) -> int:
         try:
             errors, warnings = condense_packet(packet, api_key)
         except PipelineError as exc:
-            if "DEEPSEEK_API_KEY" in str(exc) or "account balance" in str(exc):
+            if "CONDENSE_API_KEY" in str(exc) or "account balance" in str(exc):
                 raise
             errors, warnings = [str(exc)], []
         for warning in warnings:
@@ -1308,7 +1321,7 @@ def parser() -> argparse.ArgumentParser:
 
     condense_parser = commands.add_parser(
         "condense",
-        help="Condense packets that lack a current condensation via the DeepSeek API.",
+        help="Condense packets that lack a current condensation via the model API.",
     )
     condense_parser.add_argument("--id", type=int)
     condense_parser.add_argument("--max-packets", type=int)

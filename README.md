@@ -40,7 +40,7 @@ The **Discover, condense and publish** GitHub Action runs every night (23:17 UTC
 1. Queries the official UK Parliament Committees API for recent oral evidence.
 2. Downloads the documents, strips formatting, and deduplicates by evidence ID and a
    SHA-256 hash of the cleaned transcript, writing `inbox/<id>/` packets.
-3. Sends each new transcript to the DeepSeek API with the packet's prompt and saves
+3. Sends each new transcript to the model API (GPT-5 mini) with the packet's prompt and saves
    the plain-English dialogue as `condensation.json`. A failed validation is retried
    once with the validator's error list; a packet that still fails is left
    uncondensed and a GitHub issue flags it for manual attention.
@@ -53,7 +53,7 @@ If Parliament changes a transcript later, the hash changes and the session is
 re-condensed from the new source. An existing condensation is never silently kept
 when its source has moved.
 
-At roughly five meetings a day, DeepSeek usage costs on the order of $1/month.
+At roughly five meetings a day, GPT-5 mini usage costs on the order of $2/month.
 
 ### Condensing a packet by hand
 
@@ -71,7 +71,7 @@ Check the last seven publication days:
 python3 scripts/parliament_pipeline.py sync --lookback-days 7
 ```
 
-Condense packets that need it (requires `DEEPSEEK_API_KEY` in the environment;
+Condense packets that need it (requires `CONDENSE_API_KEY` in the environment;
 `--dry-run` lists them, `--max-packets N` limits spend):
 
 ```sh
@@ -115,8 +115,10 @@ This folder is not currently a Git repository. To activate the workflows:
 3. In the repository's **Settings → Pages**, choose **GitHub Actions** as the source.
 4. In **Settings → Actions → General**, ensure workflows can read and write repository
    contents and create issues.
-5. In **Settings → Secrets and variables → Actions**, add a `DEEPSEEK_API_KEY`
-   secret (from [platform.deepseek.com](https://platform.deepseek.com)).
+5. In **Settings → Secrets and variables → Actions**, add a `CONDENSE_API_KEY`
+   secret (an OpenAI API key from [platform.openai.com](https://platform.openai.com);
+   set the `CONDENSE_API_URL`/`CONDENSE_MODEL` environment variables to use a
+   different chat-completions provider).
 6. Run **Discover, condense and publish** manually once and inspect the first
    sessions before relying on its nightly 23:17 UTC schedule.
 

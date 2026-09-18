@@ -2,8 +2,8 @@ name: Discover, condense and publish
 
 on:
   schedule:
-    # 23:17 UTC: after the day's publications, in DeepSeek's off-peak pricing
-    # window, and away from the top of the hour when scheduled Actions queue.
+    # 23:17 UTC: after the day's publications, away from the top of the hour
+    # when scheduled Actions queue.
     - cron: "17 23 * * *"
   workflow_dispatch:
     inputs:
@@ -40,9 +40,9 @@ jobs:
           LOOKBACK_DAYS: ${{ inputs.lookback_days || '7' }}
         run: python3 scripts/parliament_pipeline.py sync --lookback-days "$LOOKBACK_DAYS"
 
-      - name: Condense new transcripts with DeepSeek
+      - name: Condense new transcripts with GPT-5 mini
         env:
-          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          CONDENSE_API_KEY: ${{ secrets.CONDENSE_API_KEY }}
         run: python3 scripts/parliament_pipeline.py condense
 
       - name: Test and compile condensations
