@@ -2,9 +2,9 @@
   "schema_version": 1,
   "source_id": 18081,
   "source_sha256": "21339f8b409ef11777294d33a27085dfc621f2847164c55bfa3c59a50722d698",
-  "title": "Air Pollution in England: Ministers face the Environmental Audit Committee",
-  "label": "14 September 2026 · Air pollution evidence",
-  "summary": "The Environmental Audit Committee questioned DEFRA and DFT ministers and officials about cross-government coordination, Ella's law, nitrogen and ammonia policy, air quality alerts, non-exhaust vehicle emissions, maritime and aviation pollution, traffic reduction measures, and the electric vehicle transition. The hearing revealed gaps in cross-departmental working, disagreements over the presentation of air quality data and ammonia regulation, and continued debate over how far central government should support local clean air schemes.",
+  "title": "Ministers on air quality: targets, farming ammonia and transport",
+  "label": "14 September 2026 · Air Pollution in England (condensed)",
+  "summary": "Ministers from the Department for Environment, Food & Rural Affairs (DEFRA) and the Department for Transport (DfT) answered the committee on how government is tackling air pollution. They discussed cross-government working, revising targets for fine particles (PM2.5), monitoring expansion, how to cut farming ammonia (a key source of pollution), the role of non-exhaust road emissions like brake and tyre wear, measures for ports and shipping, and how the Government supports local authorities considering schemes such as low-emission zones.",
   "speakers": [
     {
       "label": "Chair",
@@ -15,32 +15,26 @@
     {
       "label": "Emma Hardy",
       "name": "Emma Hardy",
-      "role": "Minister of State, Department for Environment, Food and Rural Affairs",
-      "kind": "witness"
-    },
-    {
-      "label": "Simon Lightwood",
-      "name": "Simon Lightwood",
-      "role": "Parliamentary Under-Secretary of State (Minister for Buses and Local Transport), Department for Transport",
+      "role": "Minister of State, Department for Environment, Food and Rural Affairs (DEFRA)",
       "kind": "witness"
     },
     {
       "label": "Bill Parish",
       "name": "Bill Parish",
-      "role": "Deputy Director for Noise, Agricultural and Industrial Pollution, Department for Environment, Food and Rural Affairs",
+      "role": "Deputy Director for Noise, Agricultural and Industrial Pollution, DEFRA",
+      "kind": "witness"
+    },
+    {
+      "label": "Simon Lightwood",
+      "name": "Simon Lightwood",
+      "role": "Parliamentary Under-Secretary of State (Minister for Buses and Local Transport), Department for Transport (DfT)",
       "kind": "witness"
     },
     {
       "label": "Jennifer Raynor",
       "name": "Jennifer Raynor",
-      "role": "Deputy Director for Environment and Adaptation Strategy, Department for Transport",
+      "role": "Deputy Director for Environment and Adaptation Strategy, Department for Transport (DfT)",
       "kind": "witness"
-    },
-    {
-      "label": "Barry Gardiner",
-      "name": "Barry Gardiner",
-      "role": "Committee member",
-      "kind": "member"
     },
     {
       "label": "Julia Buckley",
@@ -57,6 +51,12 @@
     {
       "label": "John Whitby",
       "name": "John Whitby",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Barry Gardiner",
+      "name": "Barry Gardiner",
       "role": "Committee member",
       "kind": "member"
     },
@@ -81,364 +81,236 @@
   ],
   "chapters": [
     {
-      "title": "Cross-government working",
-      "takeaway": "DEFRA admits coordination on air pollution could be better and is setting up a formal cross-government group.",
+      "title": "Intro and cross-government working",
+      "takeaway": "Ministers admit cross-department work on air quality needs strengthening and plan a formal group as they produce a 2028 air quality strategy.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "Minister Hardy, how well are the Government working across departments on air pollution, and can you explain the contradictions you face?"
+          "text": "Welcome. Could the Ministers introduce themselves and say how well Government departments are working together on air pollution?"
+        },
+        {
+          "speaker": "Simon Lightwood",
+          "text": "I'm Simon Lightwood from DfT, responsible for buses and local transport; I'm joined by Jennifer Raynor."
+        },
+        {
+          "speaker": "Jennifer Raynor",
+          "text": "I'm Jennifer Raynor from DfT, working on environment and adaptation strategy."
         },
         {
           "speaker": "Emma Hardy",
-          "text": "I want to acknowledge the campaigners, especially Rosamund. On cross-government working, it could be better. We're launching a call for evidence this year as part of the air strategy due in 2028. I want to set up a formal cross-government group to openly discuss trade-offs, especially since there's been a change in Prime Minister."
+          "text": "I'm Emma Hardy, Minister at DEFRA, and with me is Bill Parish from DEFRA who handles agriculture and industrial pollution."
+        },
+        {
+          "speaker": "Bill Parish",
+          "text": "Good afternoon."
+        },
+        {
+          "speaker": "Emma Hardy",
+          "text": "On cross-government working: it's not perfect. We're launching a call for evidence this year ahead of an air strategy due in 2028, and we want a formal cross-Department group to sort trade-offs and coordinate policy."
         },
         {
           "speaker": "Chair",
-          "text": "We welcome that. I said to the previous panel we're disappointed MHCLG didn't send a minister. Is MHCLG recognising its role?"
-        },
-        {
-          "speaker": "Emma Hardy",
-          "text": "We haven't had a formal minister-to-minister conversation, but officials meet. We're trying to work in themes like healthy schools, which involve DfT, DfE and MHCLG. The worst government is when we're too siloed. It's work in progress."
+          "text": "So you accept it needs improvement and will pursue stronger co-ordination—good."
         }
       ]
     },
     {
-      "title": "Ella's law and legal limits",
-      "takeaway": "Ministers say they support Ella's law's aims but are focusing on continuous improvement and better measurement rather than new legislation.",
+      "title": "Targets, monitoring and Ella’s law",
+      "takeaway": "DEFRA wants to refocus targets on the most harmful pollutants and keep pushing improvement after local areas meet minimum legal limits.",
       "turns": [
         {
           "speaker": "Julia Buckley",
-          "text": "What consideration has been given to Ella's law's core principles in future legislation, and what barriers have you identified?"
+          "text": "On Ella's law (which wants everyone protected no matter where they live): how are you bringing its ideas into future law or policy?"
         },
         {
           "speaker": "Emma Hardy",
-          "text": "I fully support the ambition. I want to focus on what's most effective. Some targets focus on old pollutants like soot rather than modern ones. Also, once an area complies, it's like box ticked. I want a culture of continuous improvement, not static targets."
+          "text": "I support Ella's ambition. Practically, we're rethinking targets and how we measure pollutants so we focus on what's most harmful today, not just older measures. We also want a mindset of continuous improvement instead of 'you met the limit, job done.'"
         },
         {
           "speaker": "Julia Buckley",
-          "text": "How do we move beyond minimum compliance? We've fallen behind EU targets. What specific actions will look beyond that?"
+          "text": "So beyond just meeting a minimum standard, will you focus on the unequal exposure in deprived areas?"
         },
         {
           "speaker": "Bill Parish",
-          "text": "We've set a long-term PM2.5 reduction target of 10 micrograms by 2030, and a population exposure reduction target to cut exposure by 30% by 2030 against a 2018 baseline. That drives down exposure even where the limit is met."
+          "text": "Yes. For fine particles (PM2.5 — tiny particles that penetrate lungs) we set a national long-term target of 10 micrograms per cubic metre by 2030, matching EU levels, and a population exposure reduction target (PERT) to cut exposure by 30% from 2018 levels by 2030."
         },
         {
           "speaker": "Julia Buckley",
-          "text": "Is that 30% an average? Deprived urban areas have higher levels. Do you have targeted measures?"
+          "text": "Is the 30% an average or will you target deprived hotspots?"
         },
         {
           "speaker": "Bill Parish",
-          "text": "It's a national target, but we're putting in more PM2.5 monitors—65 new since 2024, expanding to about 197 by 2027. We've also worked with UKHSA on vulnerability maps to identify deprived communities disproportionately exposed."
+          "text": "PERT is national, but we're expanding monitoring in population hotspots. Since 2024 we've added 65 PM2.5 monitors and plan about 197 by end of 2027 to get finer local data. We're also piloting vulnerability maps with the UK Health Security Agency to show which deprived communities are worst affected so local action can be focused."
         },
         {
           "speaker": "Julia Buckley",
-          "text": "What funding will be available to those communities?"
+          "text": "Who pays for local action in deprived areas?"
         },
         {
           "speaker": "Emma Hardy",
-          "text": "That's probably one for MHCLG, as it's funding for local authorities. Apologies."
+          "text": "That mainly comes via local government funding (that's the Ministry of Housing, Communities and Local Government's area), so we work with them but they manage local finance."
         }
       ]
     },
     {
-      "title": "Nitrogen and ammonia",
-      "takeaway": "DEFRA has no plans for a national nitrogen strategy and is focusing on working with farmers to reduce ammonia through grants and planned permitting rather than farm closures.",
+      "title": "Nitrogen and farming ammonia",
+      "takeaway": "Ammonia from farming is the biggest nitrogen source; ministers favour support-plus-regulation, expanding permits and grants rather than wholesale buy-outs seen abroad.",
       "turns": [
         {
           "speaker": "Manuela Perteghella",
-          "text": "Nitrogen pollution damages health and nature. Will DEFRA commit to a comprehensive national nitrogen strategy, integrating air, water, climate and biodiversity?"
+          "text": "Nitrogen harms nature and health. Will DEFRA publish a national nitrogen strategy that joins air, water, climate and biodiversity?"
         },
         {
           "speaker": "Emma Hardy",
-          "text": "Nitrogen is complex and cuts across many areas. Rather than a stand-alone strategy, it's addressed through the environmental improvement plan, water White Paper and farming road map. Ammonia is the largest source and is very difficult to tackle."
+          "text": "Nitrogen spans many issues. We don't have a single new national strategy planned; instead we use existing plans (environmental improvement plan, farming roadmap, water work) and we’re watching approaches like Scotland's nitrogen balance sheet."
         },
         {
           "speaker": "Manuela Perteghella",
-          "text": "So no national nitrogen strategy at the moment?"
+          "text": "Are you working with DfT and the energy department to make sure approaches are coherent?"
         },
         {
           "speaker": "Emma Hardy",
-          "text": "We don't have plans to publish one, but we're looking at Scotland's nitrogen balance sheet."
-        },
-        {
-          "speaker": "Manuela Perteghella",
-          "text": "Are you working with other departments to ensure coherence?"
-        },
-        {
-          "speaker": "Emma Hardy",
-          "text": "Yes, we're working across government, but ammonia is a particular challenge."
-        },
-        {
-          "speaker": "Manuela Perteghella",
-          "text": "Are you drawing lessons from countries like the Netherlands and Denmark?"
+          "text": "Yes — we're coordinating across departments and with farmers, but ammonia is tricky and politically sensitive."
         },
         {
           "speaker": "Bill Parish",
-          "text": "Yes. Denmark and the Netherlands had to get brutal with farming, with compulsory buy-outs. We're proposing to work with the farming industry. The cattle sector is responsible for 46% of national ammonia emissions and is currently unregulated. We committed to consulting on bringing it into environmental permitting, supported by grants like the slurry infrastructure grant."
+          "text": "To be clear: some countries like the Netherlands and Denmark have used stronger actions, including paying farmers to stop, which has been politically hard. Our approach is to work with farmers, use grants and consider extending environmental permitting (a regulatory permission system) to sectors such as beef and dairy to cut ammonia."
         },
         {
           "speaker": "John Whitby",
-          "text": "How are you supporting farmers to adopt ammonia-reducing practices without undermining viability? Will you commit to strict, mandated regulations around fertiliser use and storage rather than voluntary measures?"
+          "text": "How are you supporting farmers to adopt ammonia-cutting practices without wrecking their businesses? Will rules on fertiliser use and storage be mandatory, not just voluntary?"
         },
         {
           "speaker": "Emma Hardy",
-          "text": "We're consulting on extending environmental permitting to beef and dairy. We recognise farming is under pressure. We've funded precision spreading and slurry management—£46.7 million through the farming equipment and technology fund, with £30 million for slurry, plus another £10 million in 2026."
-        },
-        {
-          "speaker": "John Whitby",
-          "text": "What have we learned from countries like the Netherlands?"
-        },
-        {
-          "speaker": "Emma Hardy",
-          "text": "We look at other countries. The Netherlands paid farmers to stop farming. We're not looking at that. We want to support a profitable farming sector while introducing permitting and inspections."
+          "text": "We're offering money and support: the Farming Equipment and Technology Fund had £46.7 million, with £30 million for equipment that helps slurry management to cut ammonia; we added another £10 million in 2026. We're consulting on bringing beef and dairy into permitting — that adds rules, but will be paired with grants and support so farms can adapt."
         },
         {
           "speaker": "Barry Gardiner",
-          "text": "You used the word 'courageous' about the Netherlands. Was that a euphemism for reckless?"
+          "text": "Countries like the Netherlands cut ammonia a lot through housing, covered stores and spreading tech, not just closures. Our reductions are only about 9% in 21 years versus much bigger cuts elsewhere. Are we doing enough and why has the UK sometimes resisted stronger international ammonia rules?"
         },
         {
           "speaker": "Emma Hardy",
-          "text": "It reminds me of 'Yes Minister'—when they call you courageous, they disagree. I won't criticise another sovereign country, but we have no plans to adopt that here."
-        }
-      ]
-    },
-    {
-      "title": "Air quality alerts and data",
-      "takeaway": "The new opt-in air quality alert system has low sign-ups, and there is disagreement over whether current bands mislead the public about illegal pollution levels.",
-      "turns": [
-        {
-          "speaker": "Barry Gardiner",
-          "text": "How many people had signed up to the new air quality alert scheme by the end of August?"
-        },
-        {
-          "speaker": "Emma Hardy",
-          "text": "I think it's about 2,500-and-something. I remember answering a written question."
-        },
-        {
-          "speaker": "Barry Gardiner",
-          "text": "The answer was 525. Why not push alerts out like heat waves or flood alerts, so people don't have to opt in?"
-        },
-        {
-          "speaker": "Emma Hardy",
-          "text": "It's brand new, launched on 30 July. It's similar to flood alerts—you opt in. We're also working through the Air Pollution Awareness Coalition to raise awareness. Research says people listen to professionals more than ministers."
-        },
-        {
-          "speaker": "Barry Gardiner",
-          "text": "I have your rainbow chart. All the nitrogen dioxide levels from 'moderate' to 'very high' are illegal in the UK. For PM2.5, even the third band of 'low' is illegal. We're telling people illegal air quality is 'low' or 'moderate'. Why not tell them it's illegal?"
+          "text": "We can do more on ammonia. We work with farmers, increase inspections via the Environment Agency, use grants and are preparing permitting proposals. We haven't adopted large-scale buy-outs like the Netherlands."
         },
         {
           "speaker": "Bill Parish",
-          "text": "Legal limits are based on long-term exposure. The daily air quality index is about short-term exposure and warning people of acute spikes. They're different devices. We aim to keep long-term exposure below limits."
-        },
-        {
-          "speaker": "Barry Gardiner",
-          "text": "The chart sets annual limits of 20 micrograms, WHO guidelines of 5, and calls 12–23 micrograms 'low'. It's a dog's breakfast. You're telling people illegal limits are acceptable."
+          "text": "I agree the AQ Expert Group shows technical measures work. We're looking to combine grants and a regulatory approach to make faster progress, especially given the cattle sector contributes about 46% of UK ammonia emissions."
         }
       ]
     },
     {
-      "title": "Ammonia targets and international negotiations",
-      "takeaway": "The UK has reduced ammonia by only 9% since 2005, far less than the Netherlands and Denmark, and is accused of watering down international rules.",
+      "title": "Public alerts and communication",
+      "takeaway": "A new opt-in air quality alert launched in July; ministers want wider public awareness but currently it relies on sign-ups and partner organisations to spread the word.",
       "turns": [
         {
           "speaker": "Barry Gardiner",
-          "text": "The Air Quality Expert Group highlighted that the Netherlands cut ammonia by 64% between 1990 and 2016, and Denmark by 40%, through measures like feed changes, low-emission stables and slurry technologies—not shutting farms. What you said earlier was misleading. Also, the UK is an outlier at UNECE seeking to water down regulations. Why?"
+          "text": "You launched a phone alert scheme in August — how many signed up by end of that month?"
         },
         {
           "speaker": "Emma Hardy",
-          "text": "I don't believe Bill said that about the Netherlands. We work closely with the Netherlands and learn from them. We wouldn't pay people to stop farming, but we are doing precision spreading and slurry management through grants."
+          "text": "I thought it was around 2,500, but the written answer shows 525 had signed up by that date — it's very new, launched 30 July."
+        },
+        {
+          "speaker": "Barry Gardiner",
+          "text": "Why is it opt-in only? Heat and flood warnings go out widely via the Met Office. People should be told when air reaches illegal levels, not shown a chart that calls illegal levels 'low'."
+        },
+        {
+          "speaker": "Emma Hardy",
+          "text": "The new alert is opt-in like flood alerts. We're also using the Air Pollution Awareness Coalition (APAC), which brings health groups and charities together, to improve public messaging. Bill explained that the daily air quality bands warn about short-term spikes, while legal limits are year-long averages — that causes confusion."
         },
         {
           "speaker": "Bill Parish",
-          "text": "I commented on what the Netherlands and Denmark are contemplating now, as they find further progress difficult. The Air Quality Expert Group is right that we can make progress with housing, precision spreading and slurry storage. That's exactly what we propose through environmental permitting."
-        },
-        {
-          "speaker": "Barry Gardiner",
-          "text": "Under the Gothenburg protocol and national emission ceilings, we were to reduce ammonia by 16% by 2030 compared with 2005. In 21 years we've managed only 9%. We could do a lot more, a lot more quickly."
-        },
-        {
-          "speaker": "Emma Hardy",
-          "text": "There is more to do. We have the farming equipment and technology fund and slurry infrastructure grant. We're looking at permitting. But I'm acutely aware of the difficult summer and winter farming has had. I prefer to work with industry and bring them along."
+          "text": "Yes: legal limit values are about long-term averages. The daily air quality index (DAQI) is for short-term spikes and health warnings on bad days; both are important but different things."
         }
       ]
     },
     {
-      "title": "Non-exhaust emissions and transport pollution",
-      "takeaway": "DFT is consulting on adopting Euro 7 to regulate brake and tyre particles for the first time, but binding standards are not yet in force.",
+      "title": "Transport, non-exhaust emissions and local measures",
+      "takeaway": "DfT backs the Euro 7 approach to regulate brake and tyre particles (non-exhaust) and supports electrification plus better public transport; local authorities decide low-emission zones, with Government funding support.",
       "turns": [
         {
           "speaker": "Barry Gardiner",
-          "text": "Non-exhaust emissions are now the dominant source of particulate matter from road transport. What action is being taken? When will you implement UN brake emissions regulations and align with Euro 7?"
+          "text": "Non-exhaust sources — brake, tyre and road wear — stay after electrification. How will you bring UN brake emissions rules into UK law and align with Euro 7?"
         },
         {
           "speaker": "Simon Lightwood",
-          "text": "We recently consulted on adopting Euro 7 in Great Britain, which will regulate brake and tyre wear particles for the first time. We'll publish the response shortly. We've also invested in a four-year research programme that completed in 2025."
-        },
-        {
-          "speaker": "Barry Gardiner",
-          "text": "When can we expect binding standards?"
-        },
-        {
-          "speaker": "Simon Lightwood",
-          "text": "We proposed in the consultation that new brake emission regulations will be introduced for all new cars and vans by 29 November 2027."
+          "text": "DfT consulted on adopting Euro 7, which for the first time would regulate brake and tyre wear particles. We supported research to back this and will publish our response soon. We propose new brake emission rules for new cars and vans from 29 November 2027."
         },
         {
           "speaker": "Sojan Joseph",
-          "text": "What assessment has been made of maritime emissions, and what steps are being taken to reduce health impacts in coastal communities?"
+          "text": "What about emissions from shipping near ports — are you assessing impacts on coastal communities and doing enough?"
         },
         {
           "speaker": "Simon Lightwood",
-          "text": "This isn't normally my area. The IMO regulates sulphur oxides, nitrogen oxides and particulate matter. The recent adoption of the North Atlantic Emission Control Area will extend the highest tier of controls to all UK waters from 2028."
+          "text": "We act domestically and internationally. The IMO (the UN body for shipping) sets limits; a new north Atlantic emission control area was adopted and will cover UK waters by 2028, giving the highest control level for shipping emissions."
         },
         {
           "speaker": "Jennifer Raynor",
-          "text": "The North Atlantic Emission Control Area has been adopted, and all UK waters will be covered by the most stringent air pollution targets."
-        },
-        {
-          "speaker": "Sojan Joseph",
-          "text": "Dover is one of our busiest ports. The Channel Tunnel runs at less than 50% capacity. Moving lorries to rail would reduce air pollution. Why isn't that being done?"
-        },
-        {
-          "speaker": "Simon Lightwood",
-          "text": "We're focused on increasing rail freight through Great British Railways. Jennifer?"
-        },
-        {
-          "speaker": "Jennifer Raynor",
-          "text": "We published the 'Net Zero Ports: Call for Evidence' in August, highlighting ports' role in reducing emissions, including shore power so ships can plug in rather than run engines."
-        },
-        {
-          "speaker": "Sojan Joseph",
-          "text": "What about the gap between the clean maritime plan's ambitions and progress?"
-        },
-        {
-          "speaker": "Jennifer Raynor",
-          "text": "The clean maritime plan was published in 2019. This Government published the maritime decarbonisation strategy in 2025, setting out our domestic and international approach."
+          "text": "We're also asking ports through a “Net Zero Ports: Call for Evidence” about shore power (plugging ships into electricity so engines don't run) and other steps ports can take — we try to help remove barriers for ports to adopt cleaner tech."
         },
         {
           "speaker": "Martin Rhodes",
-          "text": "How is DFT quantifying aviation's contribution to local air quality?"
+          "text": "How do you measure aviation’s impact on local communities?"
         },
         {
           "speaker": "Jennifer Raynor",
-          "text": "We publish economy-wide emissions statistics including aviation. Local areas monitor air quality and have action plans. Much airport pollution is surface access, so public transport and EVs help."
-        },
-        {
-          "speaker": "Martin Rhodes",
-          "text": "How do you measure the specific impact on communities near airports?"
-        },
-        {
-          "speaker": "Jennifer Raynor",
-          "text": "We might have to take that question away and write to the Committee."
-        }
-      ]
-    },
-    {
-      "title": "Traffic reduction and electric vehicles",
-      "takeaway": "The Government is investing in public transport and active travel and believes EV costs are falling, but refuses to intervene in the second-hand market and is agnostic on local clean air zones.",
-      "turns": [
-        {
-          "speaker": "Jonathan Davies",
-          "text": "Electrification alone won't remove all transport emissions. What steps are being taken to reduce traffic volumes in the most polluted areas?"
-        },
-        {
-          "speaker": "Simon Lightwood",
-          "text": "We're taking a whole-system approach through 'Better Connected'. We've maintained the £3 bus fare cap for 2026, reducing to £2 in 2027, free summer bus travel for children, frozen rail fares, and removing time limits for disabled travellers. We're investing £4.5 billion in active travel up to 2030 and aiming for 60% of children aged 5–16 to walk to school by 2035."
+          "text": "We publish economy-wide emissions stats. Local monitoring and air quality action plans pick up hotspots near airports; surface access (cars, buses to airports) is a big local part. We'll write with more detail on local aviation impacts."
         },
         {
           "speaker": "Jonathan Davies",
-          "text": "In rural areas buses are patchy. Electric cars may be a solution, but affordability is a barrier for many. What work is being done?"
+          "text": "Electrification won't eliminate all problems. What are you doing to reduce traffic volumes in the most polluted areas?"
         },
         {
           "speaker": "Simon Lightwood",
-          "text": "We recognise up-front costs are higher. EV prices are falling, the second-hand market is growing, and according to Autotrader, EVs were cheaper than petrol cars for the first time in April. Average price of a three-and-a-half-year-old EV is around £18,000. We're funding cross-pavement charging channels and have commissioned an independent review of public charging costs led by Philip New, reporting in autumn 2026."
+          "text": "We're improving public transport and active travel so people have real choices. Measures include the £3 bus cap until end of 2026 (then £2 in 2027), free summer bus travel for children, rail fare freeze, major active-travel investment, and support via the Bus Services Act and local transport funding."
         },
         {
           "speaker": "Jonathan Davies",
-          "text": "Will charging at council-provided points be cheaper? People without off-street parking can't get home charging benefits."
+          "text": "Rural places struggle with services; many need cars. How do you help those who can’t afford EVs?"
         },
         {
           "speaker": "Simon Lightwood",
-          "text": "Cross-pavement charging enables home charging for those without off-street parking. We're looking at narrowing the gap between public charging—sometimes ten times the cost—and home charging through Philip New's review. We've also added a rurality element to bus funding for the first time."
+          "text": "The second-hand EV market is growing and getting cheaper — Autotrader showed EVs cheaper than petrol on average in April. We fund cross-pavement charging for people without off-street parking and commissioned a review of public charging prices (Philip New) to narrow the higher costs of public charging."
         },
         {
           "speaker": "John Whitby",
-          "text": "Has consideration been given to incentives for the second-hand EV market?"
+          "text": "Any incentives for the second-hand EV market?"
         },
         {
           "speaker": "Simon Lightwood",
-          "text": "No, because the market is already responding—second-hand EVs are now cheaper than petrol cars. Lower running costs are driving adoption."
+          "text": "Right now the market is driving prices down; no specific second-hand grant was proposed."
         },
         {
           "speaker": "Chair",
-          "text": "The Mayor of London celebrates ULEZ's success, but other mayors shy away. Is the Government agnostic or encouraging more schemes?"
+          "text": "What’s the Government stance on London’s ULEZ (ultra low emission zone)? Should Government encourage mayors to take similar steps?"
         },
         {
           "speaker": "Simon Lightwood",
-          "text": "It's for local areas to decide. Local leaders understand their communities best."
+          "text": "Those decisions are for local leaders — we set national frameworks and provide funding. We are broadly agnostic, though we back local authorities with guidance and long-term transport funding and have provided £582 million specifically to support clean air zones where needed."
         },
         {
           "speaker": "Chair",
-          "text": "But 5% of vehicles cause 70% of exhaust pollution. Shouldn't you make it attractive for mayors to introduce schemes and help with messaging?"
+          "text": "Local leaders need certainty of national support. Will you press Treasury to consider how taxes and incentives affect EV uptake and local decisions?"
         },
         {
           "speaker": "Simon Lightwood",
-          "text": "Local authorities play a key role. There's £21 billion of local transport funding. Our guidance sets expectations on reducing air pollution, but local leaders should decide."
-        },
-        {
-          "speaker": "Jennifer Raynor",
-          "text": "Clean air zones have been introduced selectively where evidence shows they're the quickest way to reduce nitrogen dioxide. We've provided £582 million. In cities with them, nitrogen dioxide exceedances fell by 18% to 46% between 2014 and 2019."
-        },
-        {
-          "speaker": "Chair",
-          "text": "There's confused messaging from the Treasury—fuel duty frozen and a new pay-per-mile tax on EVs. Shouldn't the Government send clearer signals to drive the EV transition?"
-        },
-        {
-          "speaker": "Simon Lightwood",
-          "text": "EV sales remain strong. In May, over a quarter of new cars were EVs, up 34% on May 2025. We've committed £7.5 billion to 2035, including £2 billion for the electric car grant, £1 billion for vans and trucks, and £600 million for charging infrastructure."
-        },
-        {
-          "speaker": "Chair",
-          "text": "The fleet sector is positive, but the second-hand market is difficult. What representations have you made to the Treasury about continuing to encourage EV uptake while fuel duty is stagnant and a new EV tax is introduced?"
-        },
-        {
-          "speaker": "Simon Lightwood",
-          "text": "I've been in this role two weeks, so I'll pass to my colleague."
-        },
-        {
-          "speaker": "Jennifer Raynor",
-          "text": "There's a three-pronged approach: the ZEV mandate, the electric car grant, and charging infrastructure. Since EV drivers don't pay fuel duty, we're introducing a vehicle excise duty add-on of 3p per mile for electric cars—around half the fuel duty equivalent. Plug-in hybrids pay half that rate again."
-        },
-        {
-          "speaker": "Chair",
-          "text": "As the Chancellor considers the Budget, will you ensure he considers the impact of fuel duty and EV charges on sales? There are suggestions the ZEV mandate will be watered down."
-        },
-        {
-          "speaker": "Simon Lightwood",
-          "text": "Taxation is for the Treasury. We've consulted on the ZEV mandate, but the phase-out dates are not changing. EV sales are strong. I'm sure the Chancellor has heard."
-        },
-        {
-          "speaker": "Chair",
-          "text": "On plug-in hybrids, have you assessed how much they actually use electricity? Anecdotally, many operate mostly on fuel."
-        },
-        {
-          "speaker": "Simon Lightwood",
-          "text": "I'll come back to you in writing on that."
+          "text": "Taxation is for HMT, but we’ll continue to press the case. We’ve committed £7.5 billion to 2035 for EVs (car grants, van/truck funds and charging). We’ve also consulted on a ZEV mandate and are not changing phase-out dates."
         },
         {
           "speaker": "Barry Gardiner",
-          "text": "Wouldn't it be better to have a national framework so mayors know what support they'd get if they introduce clean air schemes, rather than leaving them uncertain?"
+          "text": "Local mayors resist schemes when they lack certainty on support. Can you give them a national framework so they know what help they'll get if they act?"
         },
         {
           "speaker": "Simon Lightwood",
-          "text": "I hear you. We're about devolution and empowering local leaders. We do set a national framework with flexibility. I'll take that away and write back."
+          "text": "I hear that and will write with more detail. We want devolved decision-making but with predictable funding so local leaders can act."
         },
         {
           "speaker": "Chair",
-          "text": "Finally, rather than being agnostic, the Government should lead on the health benefits and support mayors who choose to act, instead of leaving them swinging in the wind."
+          "text": "Final point: rather than just saying 'local decision', the Government should actively support mayors and explain the health benefits so the public demand action."
         },
         {
           "speaker": "Simon Lightwood",
-          "text": "I hear you, Chair. We're providing record funding to mayoral combined authorities—bus franchising in Greater Manchester has seen 14% year-on-year passenger growth. We're doing a lot to support mayors."
+          "text": "We fund mayors and mayoral combined authorities, and there are examples, like bus franchising in Greater Manchester, which increased ridership. We will keep supporting local leaders to reduce emissions."
         }
       ]
     }

@@ -2,9 +2,9 @@
   "schema_version": 1,
   "source_id": 18093,
   "source_sha256": "10c541603d160d779f7f00c5b5e0c49a483c74533b3fb0c7d67491cf0ca77bf8",
-  "title": "Why Rejoin UNIDO? A Conversation with Its Leaders",
-  "label": "15 Sep 2026 · UNIDO evidence",
-  "summary": "The International Agreements Committee questioned three senior UNIDO officials about why the UK should formally rejoin the UN industrial development agency. The witnesses described reforms that tripled funding and doubled project delivery, gave examples of UK-funded work on steel and cement decarbonisation, rice farming in Ghana, and green recovery in Ukraine, and argued that membership would give the UK a vote and oversight over an organisation it already funds heavily. Committee members pressed on whether the same results could be achieved by simply funding projects bilaterally, and whether reforms would outlast the current leader.",
+  "title": "Why rejoin UNIDO? Reforms, projects and the case for membership",
+  "label": "15 September 2026 · UNIDO evidence session",
+  "summary": "Witnesses from the United Nations Industrial Development Organization (UNIDO) explain the internal reforms they’ve made since the UK withdrew, give concrete examples of projects delivered with donor money (including UK support), and argue that rejoining gives the UK a voice in how UNIDO is run and helps scale practical industrial, energy and digital projects by connecting governments, private companies and finance.",
   "speakers": [
     {
       "label": "Chair",
@@ -13,28 +13,16 @@
       "kind": "chair"
     },
     {
-      "label": "Manuel Mattiat",
-      "name": "Manuel Mattiat",
-      "role": "Director and Chief of Cabinet, UNIDO",
-      "kind": "witness"
-    },
-    {
-      "label": "Rana Ghoneim",
-      "name": "Rana Ghoneim",
-      "role": "Director, Division of Energy and Climate Action, UNIDO",
-      "kind": "witness"
-    },
-    {
-      "label": "Jason Slater",
-      "name": "Jason Slater",
-      "role": "Director, Division of Digital Transformation and Artificial Intelligence, UNIDO",
-      "kind": "witness"
-    },
-    {
       "label": "Lord German",
       "name": "Lord German",
       "role": "Committee member",
       "kind": "member"
+    },
+    {
+      "label": "Manuel Mattiat",
+      "name": "Manuel Mattiat",
+      "role": "Director and Chief of Cabinet, Office of the Chief of Cabinet, UNIDO",
+      "kind": "witness"
     },
     {
       "label": "Baroness Verma",
@@ -43,10 +31,22 @@
       "kind": "member"
     },
     {
+      "label": "Rana Ghoneim",
+      "name": "Rana Ghoneim",
+      "role": "Director, Division of Energy and Climate Action, UNIDO",
+      "kind": "witness"
+    },
+    {
       "label": "Lord Hannay of Chiswick",
       "name": "Lord Hannay of Chiswick",
       "role": "Committee member",
       "kind": "member"
+    },
+    {
+      "label": "Jason Slater",
+      "name": "Jason Slater",
+      "role": "Director, Division of Digital Transformation and Artificial Intelligence, UNIDO",
+      "kind": "witness"
     },
     {
       "label": "Lord Stevenson of Balmacara",
@@ -75,236 +75,154 @@
   ],
   "chapters": [
     {
-      "title": "What changed after the UK left?",
-      "takeaway": "UNIDO says it has gotten much better at managing money and delivering projects since the UK quit, and that its core mission was never really the problem.",
+      "title": "Why we're here and what changed since the UK's withdrawal",
+      "takeaway": "UNIDO says it has reformed its internal systems and increased on-the-ground delivery since the UK left, and that the UK’s return would buy influence as well as funds.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "Welcome, everyone. Today we're looking at UNIDO, the UN's industrial development agency, and why the UK might rejoin it. We have three senior people from UNIDO here to explain."
+          "text": "We're here to hear why the UK is rejoining UNIDO and what has changed since you left. Lord German will start."
         },
         {
           "speaker": "Lord German",
-          "text": "This is a 'what's changed?' question. When the UK left, there were real worries about how well UNIDO was run. What have you actually done since then to fix those problems?"
+          "text": "What did UNIDO fix after the UK withdrew? What answers did you put in place for the UK's concerns at the time?"
         },
         {
           "speaker": "Manuel Mattiat",
-          "text": "That's the right question. I joined around the time the UK left, so I've seen it first-hand. The UK's complaints back then were fair and very clearly explained: the issue was never what we do, it was how efficiently we did it."
+          "text": "Thank you. UNIDO is the UN agency that helps countries build industry, add value to goods and connect them to markets. After the UK's withdrawal, we carried out big internal reforms: two restructurings, cuts in management layers (by not replacing retirees), and improvements in finance, procurement and HR."
         },
         {
           "speaker": "Manuel Mattiat",
-          "text": "About four years ago a new boss took over, a former German government minister who was actually quite sceptical of the UN and ran things like a businessperson. He did two big shake-ups of our headquarters."
-        },
-        {
-          "speaker": "Manuel Mattiat",
-          "text": "We looked hard at all our back-office work — finance, buying supplies, hiring — with outside business advisers, and cut out a whole layer of management. We didn't fire anyone; we just didn't replace people who retired."
-        },
-        {
-          "speaker": "Manuel Mattiat",
-          "text": "The results are striking. In four years we've tripled the money we bring in from partners, including the UK. The UK is now our second-biggest donor. And we've doubled the amount of actual project work we deliver, to about £400 million this year."
-        },
-        {
-          "speaker": "Manuel Mattiat",
-          "text": "One big change is that we've opened up to private business. We're not just charity; we can help UK companies get a foot in markets in Africa, Latin America and Asia that they couldn't easily reach before."
-        },
-        {
-          "speaker": "Manuel Mattiat",
-          "text": "Even the UK gave us a test project — we started with a few million pounds and it grew to about £140 million because it worked well. That shows the reforms are real."
+          "text": "Those reforms aimed to make us faster and more efficient. In four years we've tripled the money we raise and doubled delivery of technical projects. For the first time this year we expect about £400 million of delivery on the ground."
         }
       ]
     },
     {
-      "title": "Why is rural energy still so hard?",
-      "takeaway": "Energy investment is still concentrated in a few countries, and one committee member says UNIDO needs to focus more on small local businesses that can't get any power.",
+      "title": "How UNIDO changed its ways of working",
+      "takeaway": "They decentralised procurement, trimmed bureaucracy and opened up to private companies to speed up and scale projects.",
       "turns": [
         {
-          "speaker": "Baroness Verma",
-          "text": "I travel to developing countries a lot, and I just came back from the Democratic Republic of the Congo. Huge areas still have no electricity at all. You say you've reformed, but where is the money actually going, and how are you measuring whether it helps local businesses? I don't see it on the ground."
+          "speaker": "Manuel Mattiat",
+          "text": "We decentralised buying (so field teams can buy locally), improved results reporting, and used partners more. We also reached out to the private sector so companies can bring technology and know-how into new markets."
         },
-        {
-          "speaker": "Rana Ghoneim",
-          "text": "That's a fair frustration. Most energy investment goes to a handful of countries. The poorest countries and small islands are still badly short of money. We host global meetings to push for more finance, and we help countries draw up plans to attract investment."
-        },
-        {
-          "speaker": "Rana Ghoneim",
-          "text": "But our special angle is that energy is the backbone, and industry is the engine that turns it into development. We're working with West African countries, for example, to process their minerals instead of just exporting raw materials."
-        },
-        {
-          "speaker": "Baroness Verma",
-          "text": "The problem is that most of these countries depend on very small businesses, and they can't grow without any power. Sometimes you need to start with the small local businesses and work up, not focus on the big picture first."
-        }
-      ]
-    },
-    {
-      "title": "Reforming the whole UN family",
-      "takeaway": "UNIDO says it's already ahead of a UN-wide reform push, and is now looking at sharing back-office work with other agencies that do it better.",
-      "turns": [
         {
           "speaker": "Lord Hannay of Chiswick",
-          "text": "All UN agencies are under huge financial pressure right now. What is UNIDO doing as part of the Secretary-General's effort to shrink the UN's staff and programmes?"
+          "text": "The UN overall is cutting down. What role is UNIDO playing in the Secretary-General's UN-wide reform — called UN80 — to avoid duplication and shrink back-office costs?"
         },
         {
           "speaker": "Manuel Mattiat",
-          "text": "That effort is called UN80. Because of the UK's decision in 2012 and others, we'd already done a lot of this work before the current squeeze. So we were somewhat prepared."
-        },
-        {
-          "speaker": "Manuel Mattiat",
-          "text": "Our main job in the reform talks has been to be honest about who does what best. There's a lot of overlap between UN agencies. We've been mapping out which agency has the real advantage in each area, so we don't all duplicate each other."
-        },
-        {
-          "speaker": "Manuel Mattiat",
-          "text": "We're also asking whether we need our own HR and procurement departments when other agencies might do that faster and cheaper. We have the engineers and economists, but we don't have to be the best at payroll."
+          "text": "UN80 asks who does what best. We're saying: we focus on technical industrial work (engineers, economists, policy), and we should sometimes use other UN agencies for back-office tasks like procurement or payroll rather than doing everything ourselves."
         },
         {
           "speaker": "Jason Slater",
-          "text": "Here's a concrete example. We've partnered with the UN's space agency, UNOOSA. We call it Space4Industry. We use satellite data and AI to help protect industrial zones from climate risks and to improve early warning systems."
-        },
-        {
-          "speaker": "Jason Slater",
-          "text": "It's a good example of two agencies complementing each other instead of duplicating work."
+          "text": "A practical UN80 example: we teamed up with UNOOSA — the UN Office for Outer Space Affairs — on 'Space4Industry' to use satellite data and AI for industrial planning and climate early warnings. It shows agencies can combine strengths."
         }
       ]
     },
     {
-      "title": "What UK money actually does",
-      "takeaway": "UK-funded projects include global standards for greener steel and cement, a Brazil-UK innovation link, and a facility that helped Namibia start producing hydrogen.",
+      "title": "Concrete projects funded with UK and other money",
+      "takeaway": "They gave examples: UK-backed work on steel/cement carbon accounting, innovation links with Brazil, A2D pilots like Namibia hydrogen and Kenya biogas, plus tech tools for farmers in Ghana.",
       "turns": [
         {
           "speaker": "Lord Stevenson of Balmacara",
-          "text": "You mentioned you get money from the UK. Can you give us two or three concrete examples of what that money has actually done on the ground?"
+          "text": "Can you give two or three concrete examples of what UK money has actually paid for on the ground?"
         },
         {
           "speaker": "Rana Ghoneim",
-          "text": "Yes. First, we're working with the UK on global standards for counting carbon in steel and cement. That matters because those standards will shape global trade."
+          "text": "Yes. One: we’re working with UK expertise and industry on carbon accounting for steel and cement — that means creating consistent ways to measure emissions in those sectors so countries can trade and attract green investment."
         },
         {
           "speaker": "Rana Ghoneim",
-          "text": "Second, we're linking UK universities and small companies with Brazil to help it plan a greener steel and cement industry."
+          "text": "Two: linking the UK innovation ecosystem with Brazil to design industrial decarbonisation road maps and bring UK universities and companies into Brazilian projects."
         },
         {
           "speaker": "Rana Ghoneim",
-          "text": "Third, through a facility called Accelerate-to-Demonstrate, we've helped Namibia start its first hydrogen production programme. We've also helped with biogas from tea waste in Kenya. These bring UK technology and know-how to developing countries."
+          "text": "Three: our A2D (Accelerate-to-Demonstrate) facility — a rapid funding window — helps early-stage, ground-breaking pilots. With UK support we’ve backed things like Namibia’s first hydrogen production plan and biogas projects in Kenya’s tea industry."
+        },
+        {
+          "speaker": "Lord Boateng",
+          "text": "We need projects that help farmers and processing so local economies grow. Any practical examples of that?"
+        },
+        {
+          "speaker": "Jason Slater",
+          "text": "In Ghana — funded by Japan, not the UK — we deployed a simple phone-based tool that lets farmers scan and trace rice to find post-harvest losses. In six months losses fell from 20% to 13%. It shows tech plus local partners can make a quick difference."
         }
       ]
     },
     {
-      "title": "Can you scale up?",
-      "takeaway": "Committee members say the world needs proof that projects can grow from small pilots to large-scale change, and ask whether UNIDO can deliver that.",
+      "title": "Energy, industry and scaling — the practical challenge",
+      "takeaway": "UNIDO says energy must tie to industry (anchor customers) so mini-grids and investments are sustainable, and scaling needs private finance plus concessional loans.",
       "turns": [
         {
-          "speaker": "Lord Boateng",
-          "text": "For decades, UK taxpayers have funded food security and farming projects. Can you give a practical example of how UNIDO, perhaps with the Food and Agriculture Organization, has helped small farmers, especially in Africa? If not now, please write to us."
+          "speaker": "Baroness Verma",
+          "text": "I travel in Africa and still see huge areas without power. Where are investments heading and how do you measure that your work reaches people on the ground?"
         },
         {
-          "speaker": "Jason Slater",
-          "text": "I can give one from Ghana. About half of West Africa's rice is imported, and around 20% of what's grown locally is lost after harvest. We developed a tool that farmers can hold in their hand to scan rice and track where losses happen."
+          "speaker": "Rana Ghoneim",
+          "text": "Energy isn't just electricity: it's the basis for industry. We push 'industrial transformation investment plans' so energy projects have industrial customers — firms that create enough demand (anchor loads) to make mini-grids viable and attract private investors."
         },
         {
-          "speaker": "Jason Slater",
-          "text": "In six months we've cut losses from 20% to 13%. That project was funded by Japan, not the UK, but it shows what's possible and we want to copy it across West Africa."
+          "speaker": "Rana Ghoneim",
+          "text": "Scaling needs two things: preparing countries to absorb larger concessional loans and attracting private capital. We work on pipelines and bankable projects so bigger finance flows to least developed countries and islands."
         },
         {
           "speaker": "Baroness Verma",
-          "text": "Can I suggest that agronomists — people who really know the soil — are the greatest asset any community has? Your technology is helpful, but you should make sure they're part of the mix too."
-        },
-        {
-          "speaker": "Chair",
-          "text": "I believe private enterprise solves most of these problems, not the state. We already have a huge development office spending billions. What can you do that we can't do ourselves? That's the question we'll be asked."
-        },
-        {
-          "speaker": "Manuel Mattiat",
-          "text": "We have a network that others don't. Japan is giving us £200 million for Ukraine's recovery, for example. They know we have contacts with local governments, mayors, and experts on the ground that they can't reach alone."
-        },
-        {
-          "speaker": "Manuel Mattiat",
-          "text": "Italy gives us a lot too, partly because Italian coffee companies like Illy and Lavazza want independent proof that their supply chains are sustainable. We can provide that kind of trusted certification."
-        },
-        {
-          "speaker": "Chair",
-          "text": "But we already work through you. Why do we need to formally join? It sounds like we have a good arrangement as it is."
-        },
-        {
-          "speaker": "Manuel Mattiat",
-          "text": "Because right now you're one of our biggest funders but you don't have a vote. If you join, you get a seat on our governing boards and a say over how the money is spent. It's about accountability."
-        },
-        {
-          "speaker": "Manuel Mattiat",
-          "text": "The membership fee is tiny compared to what you already give voluntarily. It's almost a no-brainer to become a member and hold us to account from the inside."
+          "text": "The local-level point matters: small industries and agronomists can be key. Tech helps, but local crop and soil expertise must be in the mix."
         }
       ]
     },
     {
-      "title": "Why not just fund projects directly?",
-      "takeaway": "Some members remain sceptical that membership adds value beyond simply funding good projects, and witnesses argue that being inside gives the UK influence and oversight.",
+      "title": "How UNIDO complements bilateral aid and the case for membership",
+      "takeaway": "UNIDO argues membership gives the UK governance oversight and influence; being a big donor without membership limits political input on policy and budgets.",
       "turns": [
         {
-          "speaker": "Baroness Lawlor",
-          "text": "I've heard your reforms, but I'm not convinced joining is worth it. Why not just fund specific projects we care about and see the results, rather than join what could be a talking shop?"
-        },
-        {
-          "speaker": "Manuel Mattiat",
-          "text": "I spent years in the field in places like Chad and Madagascar. We built solar mini-grids, small hydropower systems, and trained former fighters for jobs. The work is very tangible — you can see the jobs and the change."
-        },
-        {
-          "speaker": "Manuel Mattiat",
-          "text": "The difference now is scale. A typical project used to be £2 million; now it can be £200 million because the private sector is involved. That's a completely different level of impact."
-        },
-        {
-          "speaker": "Jason Slater",
-          "text": "Take Ukraine. We're running a large green recovery programme funded by Japan. The UK's Foreign Office came to us because we have people on the ground in western Ukraine that they didn't. We can connect their work with Japan's and make it go further."
-        },
-        {
-          "speaker": "Baroness Lawlor",
-          "text": "But doesn't that prove you'd be better off just funding a project we both care about and seeing the results?"
-        },
-        {
-          "speaker": "Jason Slater",
-          "text": "No, because there's a next step. When a project ends, we need to bring in private investors to keep it going. That's why we set up a finance coalition at London Climate Action Week — to leverage private money for scale."
-        },
-        {
-          "speaker": "Lord Boateng",
-          "text": "The failure globally has been not scaling up. Everyone can point to good small projects. We need proof that agencies like yours can make things big. Otherwise we'll miss the Sustainable Development Goals."
-        },
-        {
-          "speaker": "Baroness Bonham-Carter of Yarnbury",
-          "text": "Can you convince the sceptics here what you mean by 'better to be inside'? That we're not just getting caught up in bureaucracy?"
-        },
-        {
           "speaker": "Chair",
-          "text": "Let me add another question. The current boss, Gerd Müller, sounds like he's done a great job. But what happens when he retires? Is this long-term? Please weave that in as you summarise."
+          "text": "We already channel a lot of UK aid through agencies and direct projects. What's UNIDO doing that we can't get by funding a UK-led project directly? Why rejoin?"
+        },
+        {
+          "speaker": "Manuel Mattiat",
+          "text": "Two big points. First, UNIDO opens doors in markets where bilaterals may not have reach: our offices, country teams and private-sector links help companies enter new places. Second, membership gives the UK a seat at the table: you can take part in the industrial development board and influence how money is spent and policy is made."
+        },
+        {
+          "speaker": "Baroness Lawlor",
+          "text": "I'm worried membership just makes you a talking shop. If the UK can fund projects it trusts, wouldn't that be better value?"
+        },
+        {
+          "speaker": "Jason Slater",
+          "text": "Funding projects works, but membership helps with the next step: attracting investors to scale. Membership also improves co-ordination — for example, combining funding from Japan or EU with UK programmes so a pilot can expand to national scale."
+        },
+        {
+          "speaker": "Manuel Mattiat",
+          "text": "Also, membership helps us involve UK technical experts in our research and standards work — think industrial policy, carbon standards — and it gives UK firms the UNIDO 'seal' when entering markets."
         }
       ]
     },
     {
-      "title": "The final pitch",
-      "takeaway": "UNIDO argues that membership gives the UK influence over an organisation it already funds, and that reforms are being embedded beyond any one leader.",
+      "title": "Sustainability of reforms and closing points",
+      "takeaway": "They say reforms are being institutionalised through partnerships, leadership training and new financing mechanisms, and believe UK membership helps lock in those changes.",
       "turns": [
         {
-          "speaker": "Manuel Mattiat",
-          "text": "It's about being part of the growth story. You have so much to offer — UK universities, consultancies, innovation. But other member states won't even let non-members bid for certain contracts."
+          "speaker": "Chair",
+          "text": "One last worry: these reforms look tied to the director-general. What if leadership changes and things slide back?"
         },
         {
           "speaker": "Manuel Mattiat",
-          "text": "We want the UK involved in our next reforms — better IT, better results tracking, better governance. You can't do that from outside. What comes after our current boss? I can't promise, but the trend is strong and being a member helps ensure it continues."
+          "text": "The DG has pushed reforms hard, but we've institutionalised many changes: new decentralised processes, financial footing and partnerships. We also recruit and train leaders so the reform isn't just one person's legacy."
         },
         {
           "speaker": "Jason Slater",
-          "text": "I've been at UNIDO longer than these two. I've seen the change under this Director-General. He's building a foundation that goes beyond his own term. We're embedding new ways of working with the private sector and new financial tools."
+          "text": "We're also building new financing approaches — finance coalitions, working with private capital and possibly funds inside UNIDO — to make programs sustainable beyond one leader's term."
         },
         {
           "speaker": "Rana Ghoneim",
-          "text": "On energy, the reason things don't scale is that rural demand is low. Industries provide the anchor load that makes a business case. We're helping countries prepare for bigger private and concessional finance."
-        },
-        {
-          "speaker": "Rana Ghoneim",
-          "text": "We're also training leaders inside the organisation so the reforms outlast any one person. There's a lot of enthusiasm to keep flying this flag."
+          "text": "On energy we focus on preparing bankable pipelines and institutions so private finance follows. That institutional work — not single pilots — is what will help scaling stick."
         },
         {
           "speaker": "Chair",
-          "text": "Thank you very much. That's been hugely helpful, and we appreciate your journey from Vienna. Safe travels home."
+          "text": "Thank you all. This has helped the committee understand both the practical projects and the governance reasons the UK is considering rejoining UNIDO. Safe journey home."
         },
         {
           "speaker": "Baroness Bonham-Carter of Yarnbury",
-          "text": "Please keep supporting Lavazza."
+          "text": "And please keep supporting Lavazza — it matters on the coffee supply-chain work!"
         }
       ]
     }

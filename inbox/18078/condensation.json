@@ -2,14 +2,14 @@
   "schema_version": 1,
   "source_id": 18078,
   "source_sha256": "680216eb92d5f4fd191b1617cbbca5d372e20e91078c1d0ee0093d0a33083aa5",
-  "title": "HS2 and Euston: Reset, Reality, and the Road Ahead",
-  "label": "14 Sep 2026 · HS2 and Euston",
-  "summary": "The Public Accounts Committee questioned Department for Transport and HS2 Ltd leaders about the HS2 programme's £87.7–102.7 billion cost, delays to 2040–43, the Euston reset, contract renegotiations, and land disposal. Witnesses defended the reset as a more realistic approach, while members pressed on governance, benefits, cancellation costs, and community impacts.",
+  "title": "HS2 reset, costs and Euston—what’s changed and what still worries MPs",
+  "label": "14 September 2026 · Delivering HS2 & Euston",
+  "summary": "The Department for Transport and HS2 Ltd told MPs how they’ve tried to stabilise the troubled HS2 project after big cost increases and delays. Witnesses described a reset of the programme, technical changes to reduce risk, ongoing contract renegotiations with major builders, plans for the Euston station area and how surplus land will be handled. They stressed there’s still substantial uncertainty about final costs and timing and that stronger governance and clearer baselines are being put in place.",
   "speakers": [
     {
       "label": "Chair",
       "name": "Sarah Olney",
-      "role": "Chair of the Committee",
+      "role": "Chair of the committee",
       "kind": "chair"
     },
     {
@@ -21,7 +21,7 @@
     {
       "label": "Dean Creamer",
       "name": "Dean Creamer",
-      "role": "Director General, Major Rail Projects, Department for Transport",
+      "role": "Director General, Major Rail Projects Group, Department for Transport",
       "kind": "witness"
     },
     {
@@ -33,498 +33,226 @@
     {
       "label": "Ruth Cadbury",
       "name": "Ruth Cadbury",
-      "role": "Member of Parliament",
+      "role": "Member of Parliament, Chair of the Transport Committee",
       "kind": "member"
     },
     {
       "label": "Rupert Lowe",
       "name": "Rupert Lowe",
-      "role": "Member of Parliament",
+      "role": "Member of Parliament, Public Accounts Committee",
       "kind": "member"
     },
     {
       "label": "Tristan Osborne",
       "name": "Tristan Osborne",
-      "role": "Member of Parliament",
+      "role": "Member of Parliament, Public Accounts Committee",
       "kind": "member"
     },
     {
       "label": "Matt Turmaine",
       "name": "Matt Turmaine",
-      "role": "Member of Parliament",
+      "role": "Member of Parliament, Public Accounts Committee",
       "kind": "member"
     }
   ],
   "chapters": [
     {
-      "title": "Opening Statements and Defence Savings",
-      "takeaway": "The session opened with introductions and a brief discussion on how the Department for Transport will find £700 million in savings for the defence investment plan.",
+      "title": "Why HS2 needed a 'reset'",
+      "takeaway": "MPs were told HS2 had big coordination and design problems, so the company and Department ran a reset to get a reliable plan.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "Welcome, everyone. Today we're looking at HS2 and Euston. Before we dive into HS2, Jo, can you tell us how the Department will deliver the £700 million in savings needed for the defence investment plan?"
+          "text": "The programme has ballooned in cost and slipped in schedule. Could you introduce yourselves and tell us what's changed since 2024?"
         },
         {
           "speaker": "Jo Shanmugalingam",
-          "text": "We're managing a 1% capital reduction across the spending review, and we've also committed to reduce roads funding by £700 million. The consultation on changing the road investment strategy closes today, and ministers will decide on any variations later in the autumn."
+          "text": "I'm Jo Shanmugalingam, the Department's top civil servant. The National Audit Office—an independent public spending watchdog—said HS2 'has not gone as planned'. We're accountable for that and have backed a thorough reset to get cost and schedule under control."
+        },
+        {
+          "speaker": "Mark Wild",
+          "text": "I'm Mark Wild, HS2's CEO. In 2024 the programme lacked a clear, reliable plan, designs weren't mature and contracts left most risk with HS2. We ran a five-step reset to find root causes and to put things back in sequence."
+        },
+        {
+          "speaker": "Dean Creamer",
+          "text": "I'm Dean Creamer, the Department's senior lead for major rail projects. Part of my job is to act as the programme sponsor and make sure the reset is joined up with Government oversight and commercial advice."
+        },
+        {
+          "speaker": "Mark Wild",
+          "text": "We looked at what went wrong: starting work too early with incomplete design, contracts that pushed risk onto HS2, and weak programme control. The reset fixed sequencing, found missing scope, and produced what we call the 'reference case'—a realistic plan for delivery."
         },
         {
           "speaker": "Chair",
-          "text": "What about the economic impact of cancelling or changing road schemes?"
+          "text": "You used the term 'reference case'. What's that in plain English?"
         },
         {
-          "speaker": "Jo Shanmugalingam",
-          "text": "Ministers protected road maintenance funding. The difficult choices were about enhancements. The analysis is in the consultation, and I can't add much beyond that."
+          "speaker": "Mark Wild",
+          "text": "It’s the practical version of the programme we think we can deliver: forward-leaning but built on things we can actually achieve, unlike the over-optimistic plans from earlier phases."
         }
       ]
     },
     {
-      "title": "HS2 Cost Estimates and the Reset",
-      "takeaway": "Witnesses defended the new £87.7–102.7 billion cost range as a realistic reset, acknowledging past failures but arguing that the programme is now on a more stable footing.",
+      "title": "Costs, ranges and the new baseline",
+      "takeaway": "They've published wide cost and schedule ranges, are building a new detailed baseline to measure progress, but uncertainty still remains.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "Now to HS2. Your latest estimate is up to £100 billion. How can you assure us it won't rise again?"
+          "text": "You now say completion could cost between £87.7bn and £102.7bn, and full services might not start until 2040–43. How can we be sure that won’t rise further?"
         },
         {
           "speaker": "Jo Shanmugalingam",
-          "text": "The NAO's statement that HS2 'has not gone as planned' is an understatement. But we've tackled root causes. The NAO recognised our work to stabilise cost, schedule, and governance."
+          "text": "We accept past failings. The NAO praised the reset work but warned not to rush exiting it. We're making sure the Department and HS2 have a stronger grip before we lock in the new plan."
         },
         {
           "speaker": "Mark Wild",
-          "text": "When I arrived in December 2024, the programme was uncoordinated, we didn't know where we were, and no figures could be relied on. We did a five-step reset. We found three systemic problems: starting too early without design, contracts that transferred all risk to HS2, and poor management. Now we have a reference case that's forward-leaning but realistic."
-        },
-        {
-          "speaker": "Mark Wild",
-          "text": "We're forming a new baseline, 8.0, to replace the discredited 7.1. We aim to have it by Christmas, or by April next year. Then we'll bind the supply chain into the plan, with 8.1, so there's a clear line of sight from this Committee to the frontline."
-        },
-        {
-          "speaker": "Chair",
-          "text": "Can you clarify 'backing off the supply chain'?"
-        },
-        {
-          "speaker": "Mark Wild",
-          "text": "It means getting agreement from our seven key contracts—four civils, two stations, and rolling stock—on the schedule and sequence. We may not conclude all commercial deals, but everyone must agree the plan is viable."
-        },
-        {
-          "speaker": "Chair",
-          "text": "How long will that take, and does the uncertainty threaten the spring timescale?"
-        },
-        {
-          "speaker": "Mark Wild",
-          "text": "I can't guarantee it because it involves counterparties and assurance. But we're on the right trajectory. Two contracts are already reset. We hope to align BBV and SCS in the next two or three months. The stations and rolling stock should be done by March."
+          "text": "We're forming 'baseline 8.0'—think of a baseline as the detailed schedule and budget we'll report against. If it isn't robust we'll keep working. It should be ready by Christmas, and if not we'll aim for April. That baseline will give MPs a clear line of sight into delivery."
         },
         {
           "speaker": "Dean Creamer",
-          "text": "We need a plan B if deals aren't done. There will be uncertainty to the end, but we'll manage it."
+          "text": "There will always be uncertainty: over 10 years remain and many risks can pop up. The ranges are meant to cover foreseeable uncertainties, but not extreme 'black swan' events like wars or hyperinflation."
+        },
+        {
+          "speaker": "Rupert Lowe",
+          "text": "If there's still big uncertainty, doesn't that leave a huge envelope where costs can climb? How confident can you be?"
         },
         {
           "speaker": "Mark Wild",
-          "text": "The ranges include no-deal scenarios. We're confident they cover all but extreme events."
-        },
-        {
-          "speaker": "Chair",
-          "text": "That's a very wide envelope."
-        },
-        {
-          "speaker": "Mark Wild",
-          "text": "Yes, but it reflects past over-optimism. We're tasked with getting to the lower end. The wide bookends recognise the real uncertainty."
-        },
-        {
-          "speaker": "Dean Creamer",
-          "text": "The ranges don't cover black swan events like hyperinflation or war. But they're robust for most things."
+          "text": "The ranges deliberately acknowledge uncertainty. I'm tasked with driving the programme to the lower end of the range and the contracts and incentives are being used to push everyone in that direction."
         }
       ]
     },
     {
-      "title": "Speed Reduction and Technical Derisking",
-      "takeaway": "Reducing train speed to 300–320 kph and removing automatic train operation will cut technical risk and cost without major benefit loss, aligning HS2 with proven European high-speed technology.",
+      "title": "Technical choices to reduce risk",
+      "takeaway": "They've cut top speed and dropped automatic train operation to make testing and commissioning simpler and safer.",
       "turns": [
         {
           "speaker": "Ruth Cadbury",
-          "text": "You've agreed to reduce speeds to 300 kph. How confident are you that this reduces risk and cost, and is there a downside?"
+          "text": "You reduced train speed to 300 kph and removed automatic train driving. Will that really lower cost and risk, and do passengers lose out?"
         },
         {
           "speaker": "Jo Shanmugalingam",
-          "text": "The Secretary of State asked Mark to look at speed to take out technical risk. For London to Birmingham, it's a three-minute difference, but still a 30-minute saving over conventional. Mark can explain the risk reduction."
+          "text": "Ministers asked for options that keep safety and benefits and get service running sooner and cheaper. The advice was that reducing technical novelty reduces testing time and cost."
         },
         {
           "speaker": "Mark Wild",
-          "text": "We don't want to be on the bleeding edge. This spec delivers 10 trains an hour and future-proofs 16. Reducing speed to 300–320 kph means we use the same technology and testing as France, Japan, Spain, and Italy. It converges with HS1 and derisks testing. Only China runs at 350 kph frequently, and they struggle to go beyond."
+          "text": "Lowering speed to about 300 kph uses the same proven tech anyone building high-speed rail in France or Spain would use, so testing is far simpler. And we removed 'automatic train operation'—where computers drive the train for you—because the necessary high-speed version doesn't exist in the real world at the level we'd need."
         },
         {
           "speaker": "Mark Wild",
-          "text": "We're also removing automatic train operation. That technology doesn't exist at the quality standard we need for high-speed. Taking it out means manual driving like HS1 or France. It removes huge testing effort. These changes derisk the project and help us aim for the earlier end of the ranges."
-        },
-        {
-          "speaker": "Ruth Cadbury",
-          "text": "Is there a loss of benefit for future passengers?"
-        },
-        {
-          "speaker": "Mark Wild",
-          "text": "The railway will meet the 10 trains an hour specification reliably. Future governments could modify for 16 trains an hour if they build more lines. Spending £2–3 billion and two years to future-proof now isn't worthwhile because technology may change anyway. This aligns us with the best European railways and Network Rail's digital signalling."
-        },
-        {
-          "speaker": "Jo Shanmugalingam",
-          "text": "We're avoiding a situation where a decade from now we'd have to explain why we spent billions but couldn't commission 360 kph."
+          "text": "Passengers lose only a few minutes—London to Birmingham becomes three minutes longer—but we get a big drop in technical risk and a better chance to open earlier at good quality."
         },
         {
           "speaker": "Dean Creamer",
-          "text": "We were authorised to try for two years then revert. Lessons from other projects say deal with complexity early. The benefit-cost ratio doesn't change much. It's about derisking and allowing ministers to decide."
+          "text": "This trade-off is about derisking commissioning. The department thinks the benefits-cost ratio won't be materially harmed but the programme is easier to deliver."
         }
       ]
     },
     {
-      "title": "Benefits and Capacity",
-      "takeaway": "Witnesses argued HS2's main benefit is capacity relief on the West Coast Main Line, not just speed, but members questioned demand assumptions and the logic of a slower line.",
+      "title": "Contracts, renegotiation and cancellation numbers",
+      "takeaway": "Early contract choices left HS2 carrying too much risk; some deals have been reset to add incentives, but renegotiations and any cancellation costs remain uncertain.",
       "turns": [
         {
           "speaker": "Rupert Lowe",
-          "text": "I'm relatively new, but I've followed HS2. You've done a good job on Crossrail, Mark, but we've spent up to £102 billion for a line to Birmingham that won't be complete until 2043. Technology like AI may reduce travel demand. What are the benefits for the taxpayer?"
+          "text": "Why were the original contracts—NEC3-style, cost-reimbursable arrangements—used? They seem to have left HS2 'hostage' to contractors."
         },
         {
-          "speaker": "Jo Shanmugalingam",
-          "text": "This is about capacity and connectivity on the West Coast Main Line. It's one of our most constrained corridors. HS2 will free up capacity for commuter services and improve reliability. Avanti's on-time performance was 57% in 2025-26. HS2 will more than double peak long-distance capacity from London to Birmingham."
-        },
-        {
-          "speaker": "Dean Creamer",
-          "text": "There'll be a 30-minute difference for London to Birmingham, 20 minutes quicker for other destinations, and 45% additional capacity. Plus regeneration: 49,000 jobs and 60,000 homes along the line."
+          "speaker": "Mark Wild",
+          "text": "NEC3 is a standard contract form (it's a common construction contract) but the real problem was starting with immature designs and asking suppliers to fix prices. Contractors couldn't carry that risk, so the risk flowed back to HS2 and became cost-reimbursable."
         },
         {
           "speaker": "Rupert Lowe",
-          "text": "What modelling have you done on demand? With AI and remote work, how do you know there'll be demand?"
+          "text": "Are your renegotiations real savings or just potential savings? How much of that £2bn upside is at risk?"
+        },
+        {
+          "speaker": "Mark Wild",
+          "text": "With two big civils contractors—EKFB and Align—we've settled the past on public money principles, fixed fees for future work and added incentives for early delivery. That reintroduces commercial tension and makes savings more real, but it's not a cure-all and uncertainty persists on the remaining main civils contracts."
         },
         {
           "speaker": "Dean Creamer",
-          "text": "Demand has largely recovered since Covid. We expect 1–2% growth per year. The BCR assumes £36 billion in benefits, but if demand is higher, benefits increase. We've taken a cautious approach and will publish sensitivity analysis next year."
+          "text": "We must be prepared in case some deals don’t get done; HS2 needs contingency plans so the programme can keep moving."
         },
         {
           "speaker": "Rupert Lowe",
-          "text": "I struggle to see the benefits of a slower line to Birmingham. Freight is mostly road-based, and making rail freight work would require more spending."
+          "text": "About the cost of cancelling the project: the Department used a method and applied a large 'optimism bias'—66% from the Treasury Green Book guidance. That looks subjective. Will you get independent verification of your cancellation-cost work?"
         },
         {
-          "speaker": "Ruth Cadbury",
-          "text": "There's very little capacity for more passenger trains on West Coast, and freight companies are desperate for paths. How much freight capacity will HS2 free up?"
-        },
-        {
-          "speaker": "Dean Creamer",
-          "text": "There's no number yet. Freight won't go on HS2. That balance will be for Great British Railways to decide through consultation."
+          "speaker": "Mark Wild",
+          "text": "I was asked to verify methodology. Given we lack exact designs for putting things back, using a percentage of what’s been spent to estimate remediation is a reasonable approach. The 66% is the top end of Green Book guidance for immaturity and felt prudent."
         },
         {
           "speaker": "Jo Shanmugalingam",
-          "text": "The duties on Great British Railways include supporting the rail freight market, which is part of the legislation in the Lords."
+          "text": "We chose a proportionate approach so the HS2 team could focus on delivery. But we will consider the Committee’s recommendation on independent verification and discuss it with Ministers."
         }
       ]
     },
     {
-      "title": "Contracts, Cancellation Costs, and Commercial Tension",
-      "takeaway": "Witnesses acknowledged that original contracts were flawed and difficult to renegotiate, but said new deals with EKFB and Align introduce cost control and delivery incentives; cancellation cost estimates were defended as conservative.",
-      "turns": [
-        {
-          "speaker": "Rupert Lowe",
-          "text": "As a contractor, am I right that the NEC3 cost-plus contracts were signed because the Government didn't know what it wanted, letting contractors benefit? And now they're hard to renegotiate?"
-        },
-        {
-          "speaker": "Mark Wild",
-          "text": "That's fair. Starting with immature design and asking the supply chain to fix a price was a root cause. At notice to proceed, there wasn't enough certainty for contractors to take risk, so it flowed back to HS2. The new risk process captures that. For the two civils we've reset, we've settled the past, fixed the fee to create tension, and added incentives for early delivery. We aim to do the same with SCS and BBV."
-        },
-        {
-          "speaker": "Rupert Lowe",
-          "text": "But once you sign a duff contract, you're a hostage to the contractor. The NAO mentions potential £2 billion savings. Are you sure you'll make them?"
-        },
-        {
-          "speaker": "Mark Wild",
-          "text": "These contracts aren't a panacea, but they reintroduce tension. The £2 billion is about avoiding future risk. The contractors want to work for UK plc and move on. The EKFB reset cut exclusions from several hundred to fewer than 20. They've moved 15 million cubic metres of earth this year against a target of 16 million. The reset is working, but it's not perfect."
-        },
-        {
-          "speaker": "Dean Creamer",
-          "text": "We need the contractors to care about our money and to get off the job quickly. The firms that have signed deals are performing better."
-        },
-        {
-          "speaker": "Rupert Lowe",
-          "text": "On cancellation costs, it looks like DFT and HS2 costed completion independently but not cancellation. Should that be independently verified?"
-        },
-        {
-          "speaker": "Jo Shanmugalingam",
-          "text": "We asked Mark to assess remediation versus cancellation proportionately. We wanted him focused on executing the programme, not distracted. Mark can explain the methodology."
-        },
-        {
-          "speaker": "Mark Wild",
-          "text": "The request was to verify methodology and range. We applied 35–55% of spent cost to complete, which felt prudent, plus 66% optimism bias per the Green Book. The law says I should replace every blade of grass, so it's conservative."
-        },
-        {
-          "speaker": "Rupert Lowe",
-          "text": "The Green Book says 6–66%. You took the maximum. It looks like you're making facts fit the story to avoid embarrassment."
-        },
-        {
-          "speaker": "Jo Shanmugalingam",
-          "text": "66% is the appropriate optimism bias for a programme of this immaturity. Given how costs have inflated historically, it's prudent."
-        },
-        {
-          "speaker": "Mark Wild",
-          "text": "Our contractual position isn't strong, and there's no organisation to handle claims from demobilising 30,000 people. The methodology is appropriate, perhaps conservative."
-        },
-        {
-          "speaker": "Rupert Lowe",
-          "text": "In 2023, cancellation was £11 billion; now it's £33–58 billion. I'd have cancelled. Why go ahead before renegotiating contracts? The nuclear option strengthens your hand."
-        },
-        {
-          "speaker": "Jo Shanmugalingam",
-          "text": "The decision to continue was made by the Government in 2023."
-        },
-        {
-          "speaker": "Mark Wild",
-          "text": "HS2 underestimated costs then, so I wouldn't rely on that £11 billion. We've spent £25 billion since. With 34,000 people and £25 million spent daily, the supply chain wouldn't see cancellation as credible. Resetting contracts is the right way. We have good deals with EKFB and Align and aim for SCS and BBV."
-        }
-      ]
-    },
-    {
-      "title": "Governance and Organisational Capability",
-      "takeaway": "Witnesses described new governance structures and a strengthened HS2 organisation, but acknowledged the need to maintain capability and avoid ineffective bureaucracy.",
-      "turns": [
-        {
-          "speaker": "Matt Turmaine",
-          "text": "The NAO says HS2 is now a mega-project with new assurance processes. Has that changed your governance approach?"
-        },
-        {
-          "speaker": "Jo Shanmugalingam",
-          "text": "Yes. We've removed duplicative layers and introduced integrated assurance. The new mega-project decision panel and ministerial taskforce have met seven times. I chair a new shareholder board with independent members. We're not complacent, but governance has improved."
-        },
-        {
-          "speaker": "Matt Turmaine",
-          "text": "How do you avoid replacing one ineffective system with another?"
-        },
-        {
-          "speaker": "Jo Shanmugalingam",
-          "text": "We keep it under review and learn lessons. We're reviewing the shareholder board. The proof is in the progress through reset. We'll continue to refine governance for each stage."
-        },
-        {
-          "speaker": "Dean Creamer",
-          "text": "We have a ministerial taskforce for strategic decisions, a shareholder board to keep us honest, and a performance board where Mark and I review progress monthly. Our teams meet weekly to work through issues. We can escalate as needed."
-        },
-        {
-          "speaker": "Jo Shanmugalingam",
-          "text": "The relationship between the Department and HS2 is now much stronger, as the NAO observed."
-        },
-        {
-          "speaker": "Ruth Cadbury",
-          "text": "Jo, what's the difference between a mega-project and critical national growth infrastructure?"
-        },
-        {
-          "speaker": "Jo Shanmugalingam",
-          "text": "I may need to write on that."
-        },
-        {
-          "speaker": "Dean Creamer",
-          "text": "Mega-projects get bespoke governance, a full funding envelope, flexibilities for capability, and regular reporting. The threshold is about £10 billion, and NISTA decides designations. Critical national growth infrastructure can be private and is a planning definition."
-        },
-        {
-          "speaker": "Matt Turmaine",
-          "text": "Mark, how will you address capability gaps?"
-        },
-        {
-          "speaker": "Mark Wild",
-          "text": "We've strengthened the board and executive team, added a chief commercial officer and chief programme director, and moved 300 roles from the corporate centre to the frontline. We're creating metrics for organisational health. We can't exit reset until we demonstrate the capability to deliver the baseline."
-        },
-        {
-          "speaker": "Matt Turmaine",
-          "text": "Can you recruit and retain the staff you need?"
-        },
-        {
-          "speaker": "Mark Wild",
-          "text": "Yes. We'll always have a flex between permanent and contract staff, but we have no constraints on recruiting the right people. We're attracting good senior talent."
-        },
-        {
-          "speaker": "Matt Turmaine",
-          "text": "Why wasn't the Crossrail approach used before?"
-        },
-        {
-          "speaker": "Mark Wild",
-          "text": "Some lessons were already applied. The key is transparency and one source of truth. Crossrail's integrated baseline had everything needed. We're ensuring fidelity in our new baseline. It's a balance, but we work on it daily."
-        },
-        {
-          "speaker": "Jo Shanmugalingam",
-          "text": "We'll report transparently through the six-monthly parliamentary report, due before the end of the year."
-        }
-      ]
-    },
-    {
-      "title": "Euston: Costs, Delivery Model, and Integration",
-      "takeaway": "Euston cost estimates are less mature, and a new delivery company will act as a guiding mind, but funding depends on a robust plan and private sector engagement.",
+      "title": "Euston station, governance and community impacts",
+      "takeaway": "Euston is being handled through an Euston Delivery Company with partners to get joined-up planning, but costs and funding routes still need detailed design and time.",
       "turns": [
         {
           "speaker": "Tristan Osborne",
-          "text": "The NAO says Euston could cost around £8 billion. Is that a mature estimate?"
+          "text": "Euston has four big pieces—new HS2 station, the existing station, local transport and property development. Is the current £8bn estimate mature?"
         },
         {
           "speaker": "Jo Shanmugalingam",
-          "text": "Euston cost estimates are less mature. We now have an agreed spatial plan and the Euston Delivery Company as a single guiding mind. We won't refine numbers until we have a detailed concept design. This programme has failed twice; we can't let that happen again."
+          "text": "No. Costs at Euston are less mature than phase 1. We've set up an Euston Delivery Company (EDC) to be the 'guiding mind'—one place to align HS2, Network Rail, Transport for London and local government."
         },
         {
           "speaker": "Dean Creamer",
-          "text": "James Stewart said get a delivery model and bring partners into the tent. The EDC board includes TfL, Network Rail, and HS2. We're appointing a chief executive now. Above that is a strategic board with ministers, the GLA, and Camden. Beneath is a delivery alliance for integration. Funding follows the plan."
+          "text": "EDC will oversee time, cost and benefits, bring partners into the tent, get a spatial plan and then move into concept design. Only once partners’ requirements and a concept are agreed will we refine the funding ask."
         },
         {
           "speaker": "Tristan Osborne",
-          "text": "What's the EDC headcount, and when will it be fully operational?"
+          "text": "Is the EDC fully staffed?"
         },
         {
           "speaker": "Dean Creamer",
-          "text": "About 30 posts now, established as a business unit. It'll become an arms-length body in autumn. The CEO will assess capability needs. We can second experts from TfL and Network Rail."
+          "text": "About 30 posts exist now. We're appointing a chief executive who will become its accounting officer, and we'll scale capability with secondments from partner bodies. We expect a fuller plan to be signed off next year before big spending."
         },
         {
-          "speaker": "Tristan Osborne",
-          "text": "Will the new CEO and chair have a clear timeframe to develop a plan?"
-        },
-        {
-          "speaker": "Dean Creamer",
-          "text": "Yes, but we won't set arbitrary dates. We want them to test the timeframe and give honest views. The next few years are planning. We need robust cost and schedule expectations before delivery."
-        },
-        {
-          "speaker": "Jo Shanmugalingam",
-          "text": "We're also focused on improving the current station experience for passengers now."
-        },
-        {
-          "speaker": "Tristan Osborne",
-          "text": "The redevelopment of Euston conventional station is listed as a major project. Is it a mega-project?"
-        },
-        {
-          "speaker": "Jo Shanmugalingam",
-          "text": "It's not designated separately; it's part of the HS2 mega-project. It benefits from the same flexibilities. We'll discuss with NISTA and Treasury if separate designation becomes useful."
+          "speaker": "Ruth Cadbury",
+          "text": "Local people near Euston have been badly affected. Who’s making sure walking routes, tube connections, buses, taxis and drop-offs are designed in from the start?"
         },
         {
           "speaker": "Dean Creamer",
-          "text": "It must not create competitive incentives with HS2. It's core to delivering Mark's ranges. We need the flexibilities without making it entirely separate."
+          "text": "That's a core EDC task. TfL, Network Rail and HS2 sit on the EDC board so operational needs—like bus interchanges or safe walking links—are considered in the concept design before decisions are signed off."
         },
         {
-          "speaker": "Tristan Osborne",
-          "text": "Are you learning from other projects on private finance?"
-        },
-        {
-          "speaker": "Dean Creamer",
-          "text": "Yes. We have external expertise, work with Treasury and NISTA, and had 70 market responses. Concerns include inflation and interface management. We'll only do a deal if it's right for the taxpayer."
+          "speaker": "Mark Wild",
+          "text": "We’re also working to reduce disruption—moving spoil by rail instead of lorry, opening skills and community hubs, and funding local mitigation—but communities like Drummond Street have suffered and need continued focus."
         }
       ]
     },
     {
-      "title": "Passenger Experience and Community Impact",
-      "takeaway": "Members pressed on integrating transport modes at Euston and mitigating disruption to local communities, with witnesses citing new co-ordination bodies and community funds.",
-      "turns": [
-        {
-          "speaker": "Ruth Cadbury",
-          "text": "Who is ensuring all transport choices—tube, rail, buses, bikes, taxis—are integrated into Euston's design from the start?"
-        },
-        {
-          "speaker": "Dean Creamer",
-          "text": "The EDC brings all dutyholders together. TfL has flagged taxi and bus interchange and issues like tapping in and out at Euston Square. We'll sign off concept design only when all partners' requirements are met. Ambition versus affordability will be managed."
-        },
-        {
-          "speaker": "Jo Shanmugalingam",
-          "text": "Andy Lord, the TfL commissioner, is personally engaged because Euston is central to London's transport system."
-        },
-        {
-          "speaker": "Ruth Cadbury",
-          "text": "What about links to St Pancras for HS1?"
-        },
-        {
-          "speaker": "Jo Shanmugalingam",
-          "text": "That's part of the flows work Dean described."
-        },
-        {
-          "speaker": "Ruth Cadbury",
-          "text": "What steps are you taking to reduce impact on residents and businesses around Euston?"
-        },
-        {
-          "speaker": "Dean Creamer",
-          "text": "The EDC will co-ordinate community engagement. HS2 has provided £2 million for mitigation, Camden £3.5 million. We've moved spoil by rail instead of road and will maintain community funds as long as needed."
-        },
-        {
-          "speaker": "Mark Wild",
-          "text": "Drummond Street is one of the most disrupted communities. We've worked hard to help—the Euston hub and skills centre are successes. Moving spoil by rail takes 50 lorries off the road daily. But we need to stay focused on their needs. It's top of our agenda."
-        }
-      ]
-    },
-    {
-      "title": "Land and Property Disposal",
-      "takeaway": "Witnesses outlined a forthcoming strategy for disposing of surplus land and properties, acknowledging delays but committing to a balanced approach that protects taxpayers and local markets.",
+      "title": "Surplus land and property returns",
+      "takeaway": "The Department is preparing to dispose of properties bought for cancelled parts of HS2, but will move carefully to protect local markets and taxpayers.",
       "turns": [
         {
           "speaker": "Rupert Lowe",
-          "text": "You've bought vast amounts of land and property. Why has it taken so long to return surplus land, and what's your strategy?"
+          "text": "You bought lots of land and houses. Why has returning unused land taken so long, and what’s the plan now?"
         },
         {
           "speaker": "Dean Creamer",
-          "text": "We have four property areas. The east Leeds leg has about 500 properties no longer needed; 300 have Crichel Down rules. An agent will provide a disposal strategy in autumn. We'll pilot soon and hope to have properties on the market this year. We must avoid flooding local markets and protect taxpayers."
+          "text": "There are different groups of land. On the eastern/Leeds leg we have about 500 properties no longer needed; 300 of those qualify for the Crichel Down rule (giving original owners a right to be offered land back). We’ve appointed an agent and expect a disposal strategy by October, with some sales or rentals starting this year."
         },
         {
           "speaker": "Rupert Lowe",
-          "text": "Why the delay? Is it just bureaucracy?"
+          "text": "Isn’t delaying sales risky—markets fall and empty land can harm communities?"
         },
         {
           "speaker": "Jo Shanmugalingam",
-          "text": "The picture is complicated by successive decisions—scaling back to phase 1 and the new commitment to build north from Birmingham to Manchester. We needed a strategy that supports communities and secures value."
-        },
-        {
-          "speaker": "Rupert Lowe",
-          "text": "We have a moral obligation to sort this out quickly."
-        },
-        {
-          "speaker": "Jo Shanmugalingam",
-          "text": "Absolutely."
-        },
-        {
-          "speaker": "Rupert Lowe",
-          "text": "What about land you're retaining? You can't leave it unmanaged—it creates weed banks and costs money."
+          "text": "We must balance speed with getting good value and avoid flooding local markets. Temporary possessions and remediation work are already under way; some temporary land works (filling boreholes etc.) will finish in the next 18 months."
         },
         {
           "speaker": "Dean Creamer",
-          "text": "We'll maintain properties, including listed ones. We rent out about 60% at market rates. Where possible, previous owners farm the land under lease. We have KPIs with HS2 on management and disposal, and ministers check regularly."
+          "text": "Where possible we'll rent properties to avoid waste, maintain listed buildings appropriately, and dispose of land in a managed way. Ministers and I monitor this closely."
         },
         {
           "speaker": "Rupert Lowe",
-          "text": "When will you start returning unwanted land?"
-        },
-        {
-          "speaker": "Mark Wild",
-          "text": "Temporary land on phase 2a is starting now—filling 450 boreholes, completed in 18 months. Permanent land requires decisions."
-        },
-        {
-          "speaker": "Rupert Lowe",
-          "text": "So it's in hand and not delayed?"
-        },
-        {
-          "speaker": "Mark Wild",
-          "text": "Yes, temporary land is under way."
-        },
-        {
-          "speaker": "Rupert Lowe",
-          "text": "Jo, will you commit to an independent review of cancellation costs?"
+          "text": "Will you commit to independent checks on cancellation-cost estimates and disposal plans?"
         },
         {
           "speaker": "Jo Shanmugalingam",
-          "text": "We made a proportionate assessment to keep Mark's team focused on delivery. We'll consider any Committee recommendation with ministers."
-        }
-      ]
-    },
-    {
-      "title": "Closing: Mega-Project Designation and Final Thoughts",
-      "takeaway": "Witnesses said they would keep Euston's mega-project designation under review and advocate for the best delivery conditions, as the session concluded.",
-      "turns": [
-        {
-          "speaker": "Tristan Osborne",
-          "text": "The NAO says Euston fits most characteristics of a mega-project. Will the Government designate it as one?"
-        },
-        {
-          "speaker": "Jo Shanmugalingam",
-          "text": "It's not in my gift. We'll keep it under review with Treasury and NISTA and advocate for whatever gives Euston and HS2 the best conditions for success."
-        },
-        {
-          "speaker": "Dean Creamer",
-          "text": "At the moment, Euston doesn't lack any flexibilities it would get as a mega-project."
-        },
-        {
-          "speaker": "Chair",
-          "text": "Thank you. That brings our session to an end. We appreciate your candour on a project with a troubled history. It's been useful to hear your update."
+          "text": "We’ll consider the Committee’s recommendation about independent verification. Our current approach was chosen as proportionate so HS2 could focus on delivery, but we’ll keep options under review."
         }
       ]
     }

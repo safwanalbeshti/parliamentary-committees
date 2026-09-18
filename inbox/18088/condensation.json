@@ -2,14 +2,14 @@
   "schema_version": 1,
   "source_id": 18088,
   "source_sha256": "1bdc5fc05cd4055b41c74fec35ef09cd2bb41ff113703ebab8270eb60601237f",
-  "title": "Heathrow Expansion: Local Concerns and Planning Policy",
-  "label": "15 September 2026 · Heathrow expansion scrutiny",
-  "summary": "The committee heard from local authority representatives and a planning expert about the draft Heathrow Expansion National Policy Statement. They criticised the public consultation as inadequate, raised concerns about environmental impacts, noise, local roads, and the new 'critical national growth infrastructure' designation that tilts the planning balance against local objections. The witnesses also discussed compensation, housing, and the challenges of having two competing promoters.",
+  "title": "Local authorities and planners on the draft Heathrow expansion policy",
+  "label": "15 September 2026 · Heathrow Expansion NPS evidence",
+  "summary": "Local council planners and a national planning adviser told the Transport Committee that the draft Heathrow Expansion National Policy Statement (HENPS) has weaknesses: the public consultation felt limited, environmental protections (especially for rivers and local biodiversity) are thin, a new legal label called \"critical national growth infrastructure\" risks trumping local harms, and the document leaves too much uncertain on roads, housing, noise insulation and who pays. They want clearer accountability, better local funding and stronger safeguards before any decision is taken.",
   "speakers": [
     {
       "label": "Chair",
       "name": "Ruth Cadbury",
-      "role": "Chair of the Transport Committee",
+      "role": "Chair of the committee",
       "kind": "chair"
     },
     {
@@ -37,364 +37,286 @@
       "kind": "witness"
     },
     {
-      "label": "Committee Member",
-      "name": "Committee Member",
-      "role": "Unnamed committee member asking questions",
+      "label": "Dr Arthur",
+      "name": "Dr Arthur",
+      "role": "Member of the Transport Committee (Dr Scott Arthur)",
+      "kind": "member"
+    },
+    {
+      "label": "Alex Mayer",
+      "name": "Alex Mayer",
+      "role": "Member of the Transport Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Steff Aquarone",
+      "name": "Steff Aquarone",
+      "role": "Member of the Transport Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Jacob Collier",
+      "name": "Jacob Collier",
+      "role": "Member of the Transport Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Daniel Francis",
+      "name": "Daniel Francis",
+      "role": "Member of the Transport Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Ashley Dalton",
+      "name": "Ashley Dalton",
+      "role": "Guest member from the Housing, Communities and Local Government Committee",
       "kind": "member"
     }
   ],
   "chapters": [
     {
-      "title": "Public Consultation: A Missed Opportunity",
-      "takeaway": "The draft Heathrow expansion consultation was seen as less effective than previous ones, with poor timing and insufficient engagement.",
+      "title": "Introductions and the public consultation",
+      "takeaway": "Witnesses said the 10-week consultation felt short and patchy; local councils had to step in to engage residents.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "Welcome. Let's start with the public consultation on the draft Heathrow expansion plan. How did it go?"
-        },
-        {
-          "speaker": "Anna Sutherland Bamber",
-          "text": "I thought it was effective. It followed the usual guidelines and was similar to other national policy statement consultations."
-        },
-        {
-          "speaker": "Ian Thynne",
-          "text": "I disagree. At Hillingdon, we found it wasn't up to scratch. The last consultation had independent oversight, many local sessions, and a million leaflets. This time, it was only 10 weeks over the summer, and we don't think they took our views on board. The local authority had to step in to get people engaged."
+          "text": "Welcome. Please introduce yourselves for the record, starting with Michael."
         },
         {
           "speaker": "Michael Coughlin",
-          "text": "We're in the middle. The public consultation was less comprehensive, but stakeholder engagement was stronger. The summer timing didn't help."
-        }
-      ]
-    },
-    {
-      "title": "Environmental Impacts and Biodiversity",
-      "takeaway": "Witnesses fear the draft plan overlooks wider environmental damage, especially to the Colne Valley, and lacks safeguards for biodiversity.",
-      "turns": [
-        {
-          "speaker": "Committee Member",
-          "text": "Does the draft plan do enough for wider environmental issues like biodiversity?"
-        },
-        {
-          "speaker": "Ian Thynne",
-          "text": "No. There's an obsession with the four tests—growth, carbon, air quality, and noise—and the wider environment gets ignored. The plan would put rivers under concrete, which has never been done before, and the policy is silent on that."
+          "text": "I'm Michael Coughlin, strategic adviser to the Heathrow Strategic Planning Group, a coalition of local councils around the airport."
         },
         {
           "speaker": "Mark Frost",
-          "text": "Biodiversity matters to our members. Culverting rivers will harm ecosystems. We want mitigations to come back to the local area, not just offset elsewhere. You can't take green space from people and say you're fixing it by investing in peat bogs in Cumbria."
-        },
-        {
-          "speaker": "Committee Member",
-          "text": "But you can't recreate a lost river elsewhere, can you?"
+          "text": "I'm Mark Frost, associate director for the same group. We represent nine local authorities including Hounslow and Ealing; Hounslow is the accountable borough."
         },
         {
           "speaker": "Ian Thynne",
-          "text": "Exactly. The plan puts biodiversity net gain in contrived places. It should be done holistically with local authorities, but the policy doesn't provide guardrails."
-        },
-        {
-          "speaker": "Mark Frost",
-          "text": "We need an overarching governance framework to hold the applicant accountable. Luton Airport provides a model, but the draft doesn't learn from it."
+          "text": "I'm Ian Thynne, head of environmental planning specialists at the London Borough of Hillingdon, the host authority."
         },
         {
           "speaker": "Anna Sutherland Bamber",
-          "text": "Biodiversity net gain is already a strict test. We shouldn't add more tests for this promoter; we need a consistent framework for all national infrastructure."
-        },
-        {
-          "speaker": "Ian Thynne",
-          "text": "This fundamentally changes everything. The Colne Valley ecosystem will be lost. The 'what if' question isn't addressed. We need something commensurate with the scale of the development."
-        }
-      ]
-    },
-    {
-      "title": "The Four Tests and the New 'Critical National Growth Infrastructure' Designation",
-      "takeaway": "Witnesses argue the four tests are inadequate, and the new designation 'critical national growth infrastructure' unfairly tips the planning balance in favour of expansion.",
-      "turns": [
-        {
-          "speaker": "Committee Member",
-          "text": "Are the four tests—growth, carbon, air quality, noise—the right ones?"
-        },
-        {
-          "speaker": "Michael Coughlin",
-          "text": "Broadly, but surface access could be a fifth test. Biodiversity might need more attention, but I'm not sure if it needs its own test."
-        },
-        {
-          "speaker": "Ian Thynne",
-          "text": "No. We want a fifth test for community impact. Terminal 5 didn't make local areas better off. A community test would ensure communities aren't left behind."
-        },
-        {
-          "speaker": "Anna Sutherland Bamber",
-          "text": "There are already 15 other material assessments. If we add a fifth, where do we stop? The four tests are the ones that face scrutiny."
-        },
-        {
-          "speaker": "Committee Member",
-          "text": "Can you fail the tests as drafted?"
-        },
-        {
-          "speaker": "Anna Sutherland Bamber",
-          "text": "I can't answer that."
-        },
-        {
-          "speaker": "Ian Thynne",
-          "text": "I can: there are no failure points. The designation 'critical national growth infrastructure' is the problem. It puts all benefits into a box that can never be outweighed. So you can pollute, make noise, miss climate targets—it's all allowed."
-        },
-        {
-          "speaker": "Mark Frost",
-          "text": "The tests are worded so you might not know you've failed until it's too late. The designation tilts the balance against communities. Affordability also runs through the policy, so mitigations could be dropped later."
-        },
-        {
-          "speaker": "Committee Member",
-          "text": "Anna, is this designation normal?"
-        },
-        {
-          "speaker": "Anna Sutherland Bamber",
-          "text": "The energy and water national policy statements have similar designations like 'critical national priority'. They're not exactly the same, but there's precedent."
-        },
-        {
-          "speaker": "Committee Member",
-          "text": "But 'critical national growth infrastructure' is a new term, isn't it?"
-        },
-        {
-          "speaker": "Anna Sutherland Bamber",
-          "text": "I'm not aware of it being used before with that title."
-        },
-        {
-          "speaker": "Ian Thynne",
-          "text": "It's unusual. Planning law requires balancing economic, environmental, and social impacts equally. This designation puts everything in one box, so it's not a fair assessment of harm versus benefit."
-        },
-        {
-          "speaker": "Mark Frost",
-          "text": "This infrastructure affects millions of people. We're sceptical about how it's used."
-        }
-      ]
-    },
-    {
-      "title": "Local Roads, Traffic, and Surface Access",
-      "takeaway": "The draft plan fails to address the impact of 60,000 extra daily vehicles on local roads, and witnesses call for a surface access test and better monitoring.",
-      "turns": [
-        {
-          "speaker": "Committee Member",
-          "text": "The plan predicts 60,000 extra vehicle journeys a day. Does it pay enough attention to local roads?"
-        },
-        {
-          "speaker": "Ian Thynne",
-          "text": "No. It's all looked at too high a level. If rail schemes aren't secured, problems hit local roads. We need managed growth: unlock growth only when targets are met."
-        },
-        {
-          "speaker": "Mark Frost",
-          "text": "People can't pick up kids from school in Cranford, Bedfont, or Poyle because of congestion. We need resilience planning and maintenance funding. A surface access test would cover wellbeing, not just air quality and carbon."
-        },
-        {
-          "speaker": "Ian Thynne",
-          "text": "We also have a massive housing target—25,000 homes in Hillingdon—on the same road network. It can't all fit."
-        },
-        {
-          "speaker": "Committee Member",
-          "text": "Are the public transport mode share targets ambitious enough?"
-        },
-        {
-          "speaker": "Mark Frost",
-          "text": "60,000 extra vehicles doesn't feel like success. The timings are key: getting to 129,999,999 passengers before a rail scheme is a difficult message."
-        },
-        {
-          "speaker": "Ian Thynne",
-          "text": "The targets should be evidence-based. What if they don't hit them? There's no consequence."
-        },
-        {
-          "speaker": "Committee Member",
-          "text": "Will there be local infrastructure improvements?"
-        },
-        {
-          "speaker": "Ian Thynne",
-          "text": "The intention is no net loss in capacity, but no future-proofing. Construction will be the biggest issue."
-        },
-        {
-          "speaker": "Mark Frost",
-          "text": "They plan cycle lanes and bus lanes, but off-network funding is unclear. How can a bus service work if bus lanes only start at the airport perimeter?"
-        }
-      ]
-    },
-    {
-      "title": "Noise Mitigation and Compensation",
-      "takeaway": "Existing noise insulation schemes are too slow and underfunded compared to Gatwick, and the compensation package for demolished homes is unclear and inadequate.",
-      "turns": [
-        {
-          "speaker": "Chair",
-          "text": "Let's move to noise. Ian, how effective are the current mitigation schemes?"
-        },
-        {
-          "speaker": "Ian Thynne",
-          "text": "We're not heavily impacted now, but expansion will exponentially increase noise. The quieter neighbourhood scheme is an improvement, but it's not properly regulated and doesn't prioritise the right properties."
-        },
-        {
-          "speaker": "Mark Frost",
-          "text": "The schemes don't go far or fast enough. Heathrow wanted to accelerate insulation, but the regulator said spending was fine. Under current funding, it would take over 100 years to insulate all properties. Gatwick offers £6,500 per property; Heathrow only £3,000, not index-linked."
+          "text": "I'm Anna Sutherland Bamber, representing the National Infrastructure Planning Association—professionals who work on big national planning projects."
         },
         {
           "speaker": "Chair",
-          "text": "What about schools and community buildings?"
+          "text": "The consultation ran for 10 weeks. How accessible and effective was it compared with past national infrastructure consultations?"
         },
         {
-          "speaker": "Mark Frost",
-          "text": "Less feedback there, but maintenance is a concern. New buildings will cost more due to insulation. The £3,000 figure isn't evidence-based; it's not in the sustainability appraisal."
-        },
-        {
-          "speaker": "Ian Thynne",
-          "text": "New noise surveys show people are annoyed at lower levels, but mitigation doesn't reach those levels. It leaves people exposed."
-        },
-        {
-          "speaker": "Chair",
-          "text": "The plan says no extra noise, but new communities will be exposed."
+          "speaker": "Anna Sutherland Bamber",
+          "text": "It was broadly in line with guidance and similar in form to other national policy consultations."
         },
         {
           "speaker": "Ian Thynne",
-          "text": "Yes, areas like Hayes will get noise for the first time, without mitigation."
-        },
-        {
-          "speaker": "Committee Member",
-          "text": "Did residents not expect expansion when they moved there?"
-        },
-        {
-          "speaker": "Ian Thynne",
-          "text": "Some lived there before expansion was proposed. People are fearful and angry, not surprised."
-        },
-        {
-          "speaker": "Mark Frost",
-          "text": "Flight paths are only indicative; people won't know until planes fly over. There's also fatigue."
+          "text": "I disagree. For Hillingdon it wasn't good enough. Past rounds had independent observers, lots of local sessions and leaflet drops. This time we weren't sure what the Department did to reach people."
         },
         {
           "speaker": "Michael Coughlin",
-          "text": "Impacts vary across communities. An environmentally managed growth programme would address those differences better."
+          "text": "We're between those views: stakeholder engagement felt stronger for organised groups, but public engagement was less extensive, and timing (a summer 10-week window) hurt reach."
         }
       ]
     },
     {
-      "title": "Impacts on Local Authorities and Compensation",
-      "takeaway": "The draft plan does not adequately address the extra burden on local authorities for services, housing, and infrastructure, and the compensation scheme is confusing and insufficient.",
+      "title": "Environment and biodiversity concerns",
+      "takeaway": "Councils worry HENPS focuses on a few tests and doesn't protect local rivers, habitats and social impacts; they want stronger local controls and accountable environmental governance.",
       "turns": [
         {
-          "speaker": "Committee Member",
-          "text": "How do the mechanisms for addressing impacts on local authorities compare with other national infrastructure projects?"
-        },
-        {
-          "speaker": "Anna Sutherland Bamber",
-          "text": "There's more detail here because it's project-specific. A new cost recovery system helps, but it's not in the national policy statement."
+          "speaker": "Dr Arthur",
+          "text": "Is the HENPS enough to deal with wider environmental issues—like rivers, water and local ecosystems—not just carbon and air quality?"
         },
         {
           "speaker": "Ian Thynne",
-          "text": "There's not enough attention on public health, policing, housing, and immigration burdens. We don't recoup enough to provide statutory services."
-        },
-        {
-          "speaker": "Michael Coughlin",
-          "text": "Cumulative impacts are ignored. Housing pressure from 20,000 workers and land take will exacerbate the housing crisis."
-        },
-        {
-          "speaker": "Committee Member",
-          "text": "Does the plan address increased demand for schools, healthcare, and housing?"
-        },
-        {
-          "speaker": "Michael Coughlin",
-          "text": "No, it does not."
-        },
-        {
-          "speaker": "Ian Thynne",
-          "text": "No, it does not."
-        },
-        {
-          "speaker": "Committee Member",
-          "text": "What about the compensation approach from 2018?"
-        },
-        {
-          "speaker": "Ian Thynne",
-          "text": "It's a massive loss: 700 properties, 1,000 people. The wider property offer zone is unclear; Heathrow won't buy all properties. We don't know how many will be left or entitled. It disrupts planning for schools and services."
-        },
-        {
-          "speaker": "Committee Member",
-          "text": "Do you know what replacement housing is needed?"
-        },
-        {
-          "speaker": "Ian Thynne",
-          "text": "We know we don't know. There will be more workers, hotels, and supply chains, meaning more housing need. We don't know phasing or where it will go. Place shaping needs to be strengthened."
-        },
-        {
-          "speaker": "Michael Coughlin",
-          "text": "We want growth benefits to be captured for disadvantaged communities. We got a paragraph in the plan about equitable growth, but delivery is key. We're looking at business rates to recoup some benefits."
-        },
-        {
-          "speaker": "Ian Thynne",
-          "text": "Business rates aren't intended for that. There needs to be a proper funding package up front."
+          "text": "No. There's an obsession with the four headline tests and the wider ecological and social impacts get lost. For example, putting rivers under concrete—'culverting'—through the Colne valley isn't properly addressed."
         },
         {
           "speaker": "Mark Frost",
-          "text": "The compensation chapter is confused: property compensation, noise insulation, and a £50 million-a-year scheme that's not indexed. A new compact between airport and communities is needed. Worker accommodation is positive but could go further."
+          "text": "Biodiversity matters a lot to our councils. There's a national idea called 'biodiversity net gain'—you must improve nature overall—but our worry is it could be met by creating habitats far away, not locally where communities lose green space."
+        },
+        {
+          "speaker": "Dr Arthur",
+          "text": "But you can't replace a local river with a distant wetland. What if the replacements fail?"
+        },
+        {
+          "speaker": "Mark Frost",
+          "text": "Exactly. The NPS is opaque on enforcement. We want an 'environmentally controlled growth' framework that holds whoever builds this to account, similar to lessons from other airport projects."
+        },
+        {
+          "speaker": "Michael Coughlin",
+          "text": "We need to measure both quantity and quality of habitat replacement, and to make promoters legally accountable for quality as well as area lost."
+        },
+        {
+          "speaker": "Anna Sutherland Bamber",
+          "text": "It's an evolving area. Net gain rules are new and promoters, councils and Natural England are still working out how to make them effective. The NPS gives more detail than past statements, but it's a developing field."
+        },
+        {
+          "speaker": "Ian Thynne",
+          "text": "For Hillingdon, this is a game-changer. The scale of the project should mean more rigorous, locally tailored protections; the NPS currently lacks sufficient 'guardrails'."
         }
       ]
     },
     {
-      "title": "Two Promoters and Legal Challenges",
-      "takeaway": "Having two competing promoters is unprecedented and risky, and the plan is likely to face legal challenges, adding uncertainty and delay.",
+      "title": "The four tests, a possible fifth, and a new legal label",
+      "takeaway": "Witnesses accept the headline tests but want either a 'community' test or stronger surface-access accountability; they warned strongly about a new label—'critical national growth infrastructure'—that may trump local harms.",
       "turns": [
         {
-          "speaker": "Committee Member",
-          "text": "Is there precedent for adopting a specific scheme as the basis for a national policy statement?"
-        },
-        {
-          "speaker": "Anna Sutherland Bamber",
-          "text": "Not that I'm aware of. Other sector statements are general, not project-specific."
-        },
-        {
-          "speaker": "Mark Frost",
-          "text": "No precedent. Dealing with two development consent orders is terrifying. The plan is silent on how promoters should work together. We need rules of engagement to avoid conflicting evidence."
-        },
-        {
-          "speaker": "Ian Thynne",
-          "text": "It's madness to have two promoters. It could mean one scheme for the price of two, and airlines won't like their money going to that. Residents might deal with two law firms and offers. It's ripe for legal challenge."
-        },
-        {
-          "speaker": "Committee Member",
-          "text": "Does the plan predetermine matters normally examined at the development consent order stage?"
-        },
-        {
-          "speaker": "Ian Thynne",
-          "text": "I hope not, but without predetermination, the examination could see two competing proposals. The easiest thing for the inspector might be to approve both and let the Secretary of State decide."
-        },
-        {
-          "speaker": "Anna Sutherland Bamber",
-          "text": "They'd be separate applications, possibly on different timescales. It'll be challenging for the Planning Inspectorate. The plan has ambiguity that needs resolving."
-        },
-        {
-          "speaker": "Ian Thynne",
-          "text": "Residents want certainty. They don't want a court battle between two developers. We must remove that risk."
-        },
-        {
-          "speaker": "Committee Member",
-          "text": "Anna, could the economic case be tested in court?"
-        },
-        {
-          "speaker": "Anna Sutherland Bamber",
-          "text": "It will likely be challenged. Big projects often are. The plan addresses some previous challenge areas but could go further."
-        },
-        {
-          "speaker": "Committee Member",
-          "text": "Any final thoughts?"
-        },
-        {
-          "speaker": "Ian Thynne",
-          "text": "The plan seems to result in a yes no matter what. Our communities deserve better than after the last expansion."
-        },
-        {
-          "speaker": "Mark Frost",
-          "text": "Affordability is a threat to mitigation. We could fight for years only to have it stripped out. Maybe the scheme is unacceptable, but at least it must be mitigated in full."
+          "speaker": "Alex Mayer",
+          "text": "Government has four tests—growth, carbon, air quality, noise. Are these the right tests?"
         },
         {
           "speaker": "Michael Coughlin",
-          "text": "There's a disjunction between vision and deliverability. Weak language like 'may' and 'seek to' gives local authorities little certainty."
+          "text": "Broadly yes, but they aren't complete. Surface access (roads and public transport delivery) might merit being an explicit test with clear accountability."
+        },
+        {
+          "speaker": "Ian Thynne",
+          "text": "We want a community test. Past expansions left local communities worse off. A community-focused test would force clear, enforceable plans to make locals better off."
         },
         {
           "speaker": "Anna Sutherland Bamber",
-          "text": "Most development consent orders face judicial review. It adds time and uncertainty. The process is being reformed, but challenges are common."
+          "text": "There are actually many more detailed assessments in the NPS. If you keep adding headline tests, you have to ask where you stop. Consistency across sectors matters."
+        },
+        {
+          "speaker": "Steff Aquarone",
+          "text": "The draft introduces a new phrase—'critical national growth infrastructure' (CNGI). Has that term existed before?"
+        },
+        {
+          "speaker": "Anna Sutherland Bamber",
+          "text": "Not under that exact name. Other sectors use similar ideas—energy has 'critical national priority'—but this exact term looks new here."
+        },
+        {
+          "speaker": "Steff Aquarone",
+          "text": "Is it normal to invent a new high-weighted planning label inside an NPS?"
+        },
+        {
+          "speaker": "Ian Thynne",
+          "text": "Unusual. The worry is CNGI creates a single big box of 'national benefit' that can't be outweighed by local harms. That tilts the planning balance so local impacts may never lead to refusal."
+        },
+        {
+          "speaker": "Mark Frost",
+          "text": "The CNGI label, without criteria or rationale, feels subjective. It could make it impossible to 'fail' the project even if serious harms emerge later."
+        },
+        {
+          "speaker": "Anna Sutherland Bamber",
+          "text": "The examining authority will still review the evidence during the development consent order (DCO) process—a DCO is the detailed, legally binding planning application for large projects—but the label will influence how they weigh things in their recommendation."
         },
         {
           "speaker": "Chair",
-          "text": "Thank you for your evidence. Please write to us if you want to expand on anything."
+          "text": "So the label may pre-weight the inspector's view before they examine the details?"
+        },
+        {
+          "speaker": "Ian Thynne",
+          "text": "Yes. In normal planning you balance economic, environmental and social impacts equally. This label risks removing that balance."
+        }
+      ]
+    },
+    {
+      "title": "Surface access, housing and local authority burdens",
+      "takeaway": "Councils say the NPS understates impacts on local roads, housing and public services; targets and timings for public transport and construction mitigation are vague, creating risks for residents and councils.",
+      "turns": [
+        {
+          "speaker": "Jacob Collier",
+          "text": "The promoters estimate an extra c.60,000 vehicle journeys a day. Does the NPS pay enough attention to local roads?"
+        },
+        {
+          "speaker": "Ian Thynne",
+          "text": "No. The NPS looks at high-level trunk roads but misses local roads. If public transport targets aren't met, all the extra cars hit small residential streets where people live."
+        },
+        {
+          "speaker": "Mark Frost",
+          "text": "Resilience is key. Daily incidents already clog the network. More vehicles increase delay and wear and tear; local authorities will face extra maintenance costs but the NPS doesn't force promoters to pay for that."
+        },
+        {
+          "speaker": "Jacob Collier",
+          "text": "Are the public transport mode-share targets achievable?"
+        },
+        {
+          "speaker": "Mark Frost",
+          "text": "Targets could be achievable if you spend enough on rail and bus, but the NPS leaves uncertain the timing: if rail comes late, roads will suffer in the meantime."
+        },
+        {
+          "speaker": "Ian Thynne",
+          "text": "And remember we must also deliver tens of thousands of new homes in the borough—those needs use the same roads and services, so everything is squeezed."
+        },
+        {
+          "speaker": "Ashley Dalton",
+          "text": "On local services—schools, healthcare, housing—does the NPS address the extra demand on councils?"
+        },
+        {
+          "speaker": "Michael Coughlin",
+          "text": "No. It underestimates cumulative impacts. There's pressure on housing from workers and displaced residents, and councils need clear funding to manage that."
+        },
+        {
+          "speaker": "Ashley Dalton",
+          "text": "What about compensation and compulsory purchase—the 2018 approach is being retained. Is that sufficient?"
+        },
+        {
+          "speaker": "Ian Thynne",
+          "text": "We face the loss of hundreds of properties and unclear eligibility for a wider property offer zone. That uncertainty wrecks local planning: how many school places? Which community buildings are lost and who pays to replace them?"
+        },
+        {
+          "speaker": "Mark Frost",
+          "text": "Compensation wording is confused: property buy-outs, noise insulation, and a '£50m-a-year' community fund are all mentioned but not clearly linked or updated for inflation. Governance is missing."
+        },
+        {
+          "speaker": "Michael Coughlin",
+          "text": "Councils want mechanisms to capture some airport growth benefits—business rates or bespoke funds—to invest locally in skills, housing and services. The NPS mentions this but it's not strong enough."
+        }
+      ]
+    },
+    {
+      "title": "Noise mitigation, delivery and legal risk",
+      "takeaway": "Current noise insulation schemes helped, but roll-out is slow and under-resourced; the NPS leaves too much conditional language, and they expect legal challenges which would delay things.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "How effective have existing noise schemes been, and will they cope with expansion?"
+        },
+        {
+          "speaker": "Ian Thynne",
+          "text": "They've helped but delivery is slow and not properly regulated. The scheme is delivered mainly by the airport on its terms, so prioritisation can be unclear."
+        },
+        {
+          "speaker": "Mark Frost",
+          "text": "Take-up has improved because Heathrow now funds 100% of some insulation, but regulator decisions cut back planned spend. Heathrow once proposed insulating homes faster; under current funding it could take 100+ years to reach everyone."
+        },
+        {
+          "speaker": "Chair",
+          "text": "There's a funding gap compared with Gatwick: Gatwick offers about £6,500 per property, Heathrow £3,000. Does that look right?"
+        },
+        {
+          "speaker": "Ian Thynne",
+          "text": "The £3,000 figure isn't properly justified in the draft policy. It barely buys anything and isn't indexed for inflation. Noise annoyance thresholds have changed but mitigation triggers haven't."
+        },
+        {
+          "speaker": "Mark Frost",
+          "text": "Plus new noise exposure will mean higher construction costs for new homes and community buildings. The NPS doesn't fully factor in those extra costs for local authorities."
+        },
+        {
+          "speaker": "Anna Sutherland Bamber",
+          "text": "On legal process: big national projects often face judicial review (a court challenge) after a decision. The NPS has tried to respond to past legal points, but more challenge is likely and that adds time and uncertainty."
+        },
+        {
+          "speaker": "Michael Coughlin",
+          "text": "The draft mixes a vision with vague delivery language—lots of 'may', 'should', 'seek to'—which makes it weak on what will actually be enforced. Councils need clear, accountable commitments."
+        },
+        {
+          "speaker": "Alex Mayer",
+          "text": "So, to close: is the draft NPS fit to be policy as it stands?"
+        },
+        {
+          "speaker": "Ian Thynne",
+          "text": "Not as it stands. It risks guaranteeing consent by using the CNGI label and leaves communities exposed. If it must proceed, councils need stronger, enforceable protections and proper funding up front."
+        },
+        {
+          "speaker": "Mark Frost",
+          "text": "And there must be assurance that affordability arguments won't be used later to remove critical mitigation. If mitigation is carved away for cost, communities will bear the harms."
+        },
+        {
+          "speaker": "Anna Sutherland Bamber",
+          "text": "Policy inconsistency across sectors is also an issue. The NPS has improved on some points but will still be scrutinised in courts and needs clearer definitions and delivery rules."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. If there's more you couldn't fit in today, please write in. The Committee will take these concerns—especially about CNGI, local funding and environmental safeguards—into account."
         }
       ]
     }

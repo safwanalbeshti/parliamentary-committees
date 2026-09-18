@@ -2,9 +2,9 @@
   "schema_version": 1,
   "source_id": 18089,
   "source_sha256": "373a11fd3c75a42efc55d6870a42bb2de0a7a05225910dbe607358dab1a7a1f9",
-  "title": "The Monarchy's Role in Keeping the Constitution on the Rails",
-  "label": "16 September 2026 · The King's private secretary",
-  "summary": "The Constitution Committee questioned Lord Young of Old Windsor, former principal private secretary to the sovereign, about how the monarchy works in practice. He described the weekly private meetings between the monarch and the Prime Minister, the monarch's rights to be consulted, encourage and warn, and the rare reserve powers. He argued that confidentiality is essential, that the system relies on good faith and trust, and that while no system is perfect, he cannot see a better one; he suggested updating the Cabinet Manual.",
+  "title": "The monarch’s quiet role: advice, reserve powers and why secrecy matters",
+  "label": "16 September 2026 · The UK’s constitutional safeguards",
+  "summary": "Former royal private secretary Lord Young explains how the monarch works behind the scenes: a private weekly meeting with the Prime Minister where the sovereign is 'consulted, encourages and warns', and how that confidentiality helps prevent crises. He describes rare situations where the monarch might use reserve powers, stresses limits on intervention when Parliament acts democratically, and urges better education and an updated Cabinet Manual to strengthen practical safeguards.",
   "speakers": [
     {
       "label": "Chair",
@@ -15,7 +15,7 @@
     {
       "label": "Lord Young of Old Windsor",
       "name": "Lord Young of Old Windsor",
-      "role": "Former Principal Private Secretary, The Royal Household",
+      "role": "former principal private secretary to the sovereign",
       "kind": "witness"
     },
     {
@@ -75,210 +75,176 @@
   ],
   "chapters": [
     {
-      "title": "The weekly audience: where the relationship lives",
-      "takeaway": "The core of the monarch's constitutional role is the private weekly meeting with the Prime Minister, where advice can be given freely because it stays confidential.",
+      "title": "The weekly audience and how the monarchy actually works",
+      "takeaway": "The monarch meets the Prime Minister privately each week to be 'consulted, to encourage and to warn' — a practice that keeps government steady.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "Welcome, Lord Young. You worked at the palace for a long time. How would you describe the monarch's role in everyday government today?"
+          "text": "Lord Young, welcome. To start: how would you describe the monarch’s role in today’s government?"
         },
         {
           "speaker": "Lord Young of Old Windsor",
-          "text": "I should declare I'm occasionally a paid consultant to the Royal Household. I worked for the late Queen for nearly 20 years and saw six Prime Ministers appointed—seven if you count Tony Blair's reappointment. The core of the relationship is the weekly audience with the PM. It was almost always at Buckingham Palace on a Wednesday after PMQs, usually 6.15 pm."
+          "text": "Thanks. From working in the Royal Household nearly 20 years, the core is the weekly private audience between the monarch and the Prime Minister — usually an hour after PMQs."
         },
         {
           "speaker": "Lord Young of Old Windsor",
-          "text": "I'd greet the PM, spend five or ten minutes alone, then they'd see the Queen for an hour. Meanwhile I'd spend the most useful constitutional hour of the week with the PM's principal private secretary—two sides of the golden triangle. My number one duty was to make sure there was never a gap between Head of State and Head of Government."
+          "text": "Before the meeting the Prime Minister talks briefly with the private secretary. The private secretary and I then meet the Prime Minister’s private secretary downstairs. We call it keeping a link between Head of State and Head of Government."
         },
         {
           "speaker": "Lord Young of Old Windsor",
-          "text": "The PM would come in walking a bit taller afterwards—who wouldn't want an hour a week with someone who won't put anything on X, won't gossip, won't write memoirs, and won't pursue a political view?"
+          "text": "That hour matters. The PM can speak freely, won’t get quoted on social media, and hears a long-term, non-partisan perspective. It steadies leaders and reduces rash moves."
         },
         {
-          "speaker": "Chair",
-          "text": "The privacy of that meeting is crucial."
+          "speaker": "Lord Burnett of Maldon",
+          "text": "So it’s practical, not ceremonial — it has real day-to-day impact?"
         },
         {
           "speaker": "Lord Young of Old Windsor",
-          "text": "Absolutely. There's a tension between modern demands for openness and the need for privacy. But if we're to have this system, privacy is essential. I dealt with Freedom of Information requests even though the Royal Household isn't officially subject to the Act. The principle is that policy formulation—the discussions—is protected, not just the final policy. Otherwise people can't speak candidly."
+          "text": "Exactly. It’s practical and confidential. The sovereign’s role in that meeting is to be consulted, to encourage and to warn — not to campaign or take sides."
         }
       ]
     },
     {
-      "title": "When the monarch might push back",
-      "takeaway": "The monarch has reserve powers for extreme situations, like picking a Prime Minister when it's unclear, but in practice the fear of them being used is a restraint.",
+      "title": "Why confidentiality is vital — and how it sits with public trust",
+      "takeaway": "Private conversations let leaders be candid; the monarchy builds public trust by acting consistently and representing long-term national interests.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "You stress privacy. Is that really essential?"
+        },
+        {
+          "speaker": "Lord Young of Old Windsor",
+          "text": "Absolutely. If those talks were public, ministers couldn’t speak candidly. The Freedom of Information idea of protecting 'formulation of policy' helps — draft thinking needs protection."
+        },
+        {
+          "speaker": "Baroness Hamwee",
+          "text": "But people want transparency. How do you build trust if the public can’t see these talks?"
+        },
+        {
+          "speaker": "Lord Young of Old Windsor",
+          "text": "It’s a paradox. You build trust by other visible acts: steady constitutional behaviour, representing the nation, meeting many communities over years. Consistent, non-partisan action over time reassures people."
+        },
+        {
+          "speaker": "Baroness Hamwee",
+          "text": "So visibility in public-facing roles balances confidentiality behind closed doors?"
+        },
+        {
+          "speaker": "Lord Young of Old Windsor",
+          "text": "Yes. The monarchy’s long-term perspective — thinking years ahead rather than today’s headlines — helps bridge that trust gap."
+        }
+      ]
+    },
+    {
+      "title": "When the monarch might act beyond advice — reserve powers",
+      "takeaway": "There are rare reserve powers the monarch could use in a crisis, for example if there’s uncertainty about who should be Prime Minister or an abuse like asking to prorogue Parliament to avoid losing power.",
       "turns": [
         {
           "speaker": "Lord Murphy of Torfaen",
-          "text": "That weekly hour is significant. But could the monarch ever act as a restraint beyond that hour?"
+          "text": "Could the monarch ever act as a stronger restraint — more than just giving warnings?"
         },
         {
           "speaker": "Lord Young of Old Windsor",
-          "text": "Yes. Our constitution isn't written down in one document; it's evolved through common law. The sovereign has the right to be consulted, encourage and warn. But the PM can say, 'Thank you, I've taken your counsel but I'm choosing to do something different.' That's the compact. However, there are reserve powers. For example, appointing a Prime Minister: usually on the outgoing PM's advice, but if it's not obvious who should be PM, the sovereign might take broader counsel. The private secretary would sound out the Cabinet Secretary and political leaders. Another example: if a government loses a no-confidence vote and the PM asks for a general election, the sovereign could theoretically decline. But if things work well, it should never get to that. The fear of the sovereign saying no is itself a restraint."
-        }
-      ]
-    },
-    {
-      "title": "Opacity, good faith, and a Covid near-miss",
-      "takeaway": "The unwritten nature of these powers allows flexibility; a real example from Covid showed how good faith and cooperation can handle a crisis.",
-      "turns": [
-        {
-          "speaker": "Lord Burnett of Maldon",
-          "text": "You said 'if things are working well'. But things might not always work well. Is it actually helpful that these reserve powers are a bit opaque and can develop in response to new situations?"
+          "text": "Yes, in theory. The constitution isn’t all written down; many parts are customs tested over time. Reserve powers exist, for instance over appointing a Prime Minister if it’s unclear who can command the House."
         },
         {
           "speaker": "Lord Young of Old Windsor",
-          "text": "Yes. The alternative would be a written constitution, but even then you can't spell out every eventuality. I have Boris Johnson's permission to mention an example. During Covid, when he was taken to hospital, there was a moment when it looked like he might need a ventilator. I got a call—I was at a bus shelter in the rain—saying the PM might not survive. We had no Deputy PM. The constitutional books didn't cover it."
-        },
-        {
-          "speaker": "Lord Young of Old Windsor",
-          "text": "We worked out that the Cabinet Secretary would summon the Cabinet and not let them leave until they'd decided who to recommend as PM, possibly for a temporary period. Through the usual channels, someone was even getting hold of Jeremy Corbyn's office, which signalled it would sign up to the plan. It never happened, but it showed how everyone coming together worked. That relies on senior advisers having a rapport built up over time, caring about this niche topic, and not being partisan."
+          "text": "Another example: the sovereign might refuse a request to prorogue (suspend) Parliament if it was being used to avoid losing power. But those are extreme, last‑resort steps."
         },
         {
           "speaker": "Lord Jones of Penybont",
-          "text": "What if a government loses a no-confidence vote but refuses to resign, and there's no alternative figure who can command a majority? What happens then?"
+          "text": "Imagine a Government loses a confidence vote but refuses to resign — deadlock. What then?"
         },
         {
           "speaker": "Lord Young of Old Windsor",
-          "text": "It depends on the personalities and political mood. In a system that had broken down that badly, the sovereign might want to exercise greater power. Whether it would go as far as dismissing a Prime Minister—a Gough Whitlam scenario—would depend on events, but the reserve power exists. The fear of that happening has been a restrainer on government behaviour."
+          "text": "It depends on personalities and how rotten the situation is. If the Government truly had no support and the Cabinet collapsed, the sovereign might have to act. But often the system — Cabinet, Parliament, courts — would sort it first."
+        },
+        {
+          "speaker": "Lord Burnett of Maldon",
+          "text": "Is ambiguity about these powers useful because it lets the system adapt?"
+        },
+        {
+          "speaker": "Lord Young of Old Windsor",
+          "text": "I think so. A rigid written rule can’t predict every crisis. The ambiguity allows experienced advisers to work things out in real time — but it relies on people acting in good faith."
+        },
+        {
+          "speaker": "Lord Burnett of Maldon",
+          "text": "You gave an example about Boris Johnson and Covid — what happened there?"
+        },
+        {
+          "speaker": "Lord Young of Old Windsor",
+          "text": "When the PM was seriously ill, we had no clear precedent for an in‑office, temporarily incapacitated Prime Minister in a crisis. Officials worked out a temporary plan: the Cabinet Secretary would convene Cabinet to recommend who to appoint briefly if needed. It was ad hoc but effective."
+        },
+        {
+          "speaker": "Lord Cryer",
+          "text": "Some point to Australia’s 1975 dismissal of Gough Whitlam. Could that happen here?"
+        },
+        {
+          "speaker": "Lord Young of Old Windsor",
+          "text": "Whitlam is a cautionary tale. The present Australian Governor‑General has said she can’t imagine repeating that now. In the UK, I find it hard to see it happening unless the whole government machinery collapsed — unpaid staff, no functioning Cabinet."
         }
       ]
     },
     {
-      "title": "Trust, transparency and the 'head of nation' role",
-      "takeaway": "The monarchy builds trust not through transparency but through long-term, non-partisan service as head of nation, which politicians can't do.",
-      "turns": [
-        {
-          "speaker": "Baroness Hamwee",
-          "text": "You've described the weekly audience. But today the public demands transparency. How do you encourage trust in the establishment when it's so dependent on confidentiality?"
-        },
-        {
-          "speaker": "Lord Young of Old Windsor",
-          "text": "It's a paradox: how can you have trust if you don't know what's going on? The advantage of our monarchy is that it's about the long term—the next year, five years, ten years—not tomorrow's headlines. It's about convening groups, recognising service, and representing the UK. Over time, that builds a feeling that the King or Queen is acting in the national interest, not partially. That's how you square the circle."
-        },
-        {
-          "speaker": "Baroness Hamwee",
-          "text": "So it's about visibility."
-        },
-        {
-          "speaker": "Lord Young of Old Windsor",
-          "text": "Yes, certainly."
-        }
-      ]
-    },
-    {
-      "title": "The King's past causes and the transition",
-      "takeaway": "The King's previous campaigning on issues like climate change hasn't led to an interventionist monarch, and the transition was smooth.",
-      "turns": [
-        {
-          "speaker": "Lord Griffiths of Burry Port",
-          "text": "The King spent decades championing causes like climate change and architecture. How is that managed now that he must be neutral?"
-        },
-        {
-          "speaker": "Lord Young of Old Windsor",
-          "text": "It's long been accepted that as heir you can pursue interests, but when you take the top job, those are put aside. The then Prince of Wales made that clear. Remember the drumbeat: 'He'll be an interventionist King, he'll reject bits of legislation.' None of that has happened. The transition was as smooth as could be hoped."
-        }
-      ]
-    },
-    {
-      "title": "Could the monarchy stop a press crackdown?",
-      "takeaway": "If a democratically elected government with a majority passed a law censoring the press, it would be very hard for the monarch or courts to overturn it.",
+      "title": "Limits of royal intervention and the role of advisers",
+      "takeaway": "The monarch can’t easily overturn laws a democratically elected Parliament has passed; private secretaries and other officials act as constitutional guardians.",
       "turns": [
         {
           "speaker": "Lord Bellamy",
-          "text": "Supposing a government introduced censorship of the press and wanted to close down newspapers and broadcasters. What's the monarchy's role? Some call it the ultimate backstop, others say it's a broken reed."
+          "text": "Suppose a Government legally imposes press censorship — where does the monarchy stand?"
         },
         {
           "speaker": "Lord Young of Old Windsor",
-          "text": "It would depend on factors. Was this a manifesto commitment? Did it pass both Houses? If a democratically elected government with a majority pursued a manifesto commitment and it became law, it would be very difficult for a sovereign, or indeed the courts, to overturn that."
+          "text": "If a democratically elected government passed such laws after winning an election on that platform, it would be very difficult for the sovereign to stop it. The monarchy isn’t a super‑parliamentary power in those circumstances."
+        },
+        {
+          "speaker": "Lord Beith",
+          "text": "Is the private secretary to the monarch a guardian of the constitution?"
+        },
+        {
+          "speaker": "Lord Young of Old Windsor",
+          "text": "Yes. That post is one of several constitutional guardians. Private secretaries, the Cabinet Secretary, senior civil servants and judges all help protect constitutional norms."
+        },
+        {
+          "speaker": "Baroness Laing of Elderslie",
+          "text": "Has that guardianship changed over time?"
+        },
+        {
+          "speaker": "Lord Young of Old Windsor",
+          "text": "Not really. Predecessors I spoke to from the 1950s onwards followed similar principles: try to anticipate problems and prevent crises before they become public."
         }
       ]
     },
     {
-      "title": "Guardians of the constitution",
-      "takeaway": "The principal private secretary is a guardian of the constitution, though the role hasn't changed much since the 1950s.",
-      "turns": [
-        {
-          "speaker": "Baroness Laing of Elderslie",
-          "text": "Who guards the constitution? Is the private secretary to the monarch a guardian?"
-        },
-        {
-          "speaker": "Lord Young of Old Windsor",
-          "text": "Yes, among many others. I see that as part of the role."
-        },
-        {
-          "speaker": "Baroness Laing of Elderslie",
-          "text": "Has that changed over time?"
-        },
-        {
-          "speaker": "Lord Young of Old Windsor",
-          "text": "No. I've spoken to many predecessors, and the principles are remarkably consistent back to the 1950s and 1960s."
-        },
-        {
-          "speaker": "Lord Beith",
-          "text": "Your predecessor Sir Alan Lascelles wrote an anonymous letter to The Times in 1950 setting out constitutional principles. Is that not evidence of a guardianship role?"
-        },
-        {
-          "speaker": "Lord Young of Old Windsor",
-          "text": "Yes. Part of the role is to work out what's on the other side of the mountain—to get ahead of potential constitutional difficulties. Though I'm not sure an anonymous letter to The Times would work today; it'd become a headline. Better to make someone else think it was their idea."
-        },
-        {
-          "speaker": "Lord Beith",
-          "text": "Should the public better understand prerogative powers—the powers the monarch exercises on ministerial advice?"
-        },
-        {
-          "speaker": "Lord Young of Old Windsor",
-          "text": "Both things can be true. It would do the country good to have greater understanding of our unique constitution at an earlier age. We don't really teach it in mainstream schooling."
-        }
-      ]
-    },
-    {
-      "title": "Conventions, crises, and the Cabinet Manual",
-      "takeaway": "Conventions evolve and are usually self-enforcing; Lord Young sees no better system but would like the Cabinet Manual updated.",
+      "title": "Practical safeguards and what could be improved",
+      "takeaway": "The system is resilient but not perfect: keep vigilance, update the Cabinet Manual, and teach people earlier about how the constitution actually works.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "You mentioned a PM not resigning after losing a confidence vote. Are conventions too lax? Is there a weakness?"
+          "text": "Do you think our constitutional safeguards are sufficient?"
         },
         {
           "speaker": "Lord Young of Old Windsor",
-          "text": "Conventions evolve. In that scenario, a PM who lost confidence and refused to go would probably have no Cabinet left. The whole thing would crumble. It's hard to see them lasting long."
-        },
-        {
-          "speaker": "Lord Cryer",
-          "text": "I should declare I'm married to the Attorney-General. You mentioned Gough Whitlam. In 1975, the Governor-General dismissed him. Could that happen here? Jeremy Corbyn ignored a massive no-confidence vote in his leadership. That worries me."
+          "text": "I don’t want to sound complacent. From my experience, I see no clearly better system than ours, but it depends on people acting in good faith. We should stay vigilant."
         },
         {
           "speaker": "Lord Young of Old Windsor",
-          "text": "Just because good practice has held doesn't mean it always will. The sovereign is the arbiter of last resort. But the current Governor-General of Australia said last year she couldn't see any Governor-General acting that way today, because the right to be consulted, encourage and warn is for the proper functioning of government, not for political judgments. I struggle to envisage a PM acting against convention but still supported by a working Cabinet. In the Whitlam case, the whole government had ground to a halt—people were worried about getting paid."
-        },
-        {
-          "speaker": "Lord Cryer",
-          "text": "So you're saying the safeguards are sufficient?"
-        },
-        {
-          "speaker": "Lord Young of Old Windsor",
-          "text": "I don't want to sound complacent. No system is perfect. But having seen it close up, I can't see a better one. That doesn't mean we shouldn't be vigilant. I'd like to see the Cabinet Manual updated—it's stuck in 2011. I'd also like every new PM to have the chance to review how it works. That would give me more comfort."
+          "text": "Two practical steps: update the Cabinet Manual so it reflects recent practice, and improve education so people understand our uncodified constitution earlier in life."
         },
         {
           "speaker": "Lord Jones of Penybont",
-          "text": "In the face of a determined government that fully controls Parliament, are there any constitutional safeguards that could withstand them?"
+          "text": "If a determined Government controls Parliament, are any safeguards left?"
         },
         {
           "speaker": "Lord Young of Old Windsor",
-          "text": "If it's a democratically elected government pursuing a manifesto commitment, with a majority in the Commons, and it passes the Lords, it's very difficult to argue against. It's harder if more voters voted for another party but the constituency system produced a different result. Ultimately, this is a parliamentary democracy. If a democratically elected Parliament pursues its manifesto, it's hard to judge that as constitutionally improper."
-        },
-        {
-          "speaker": "Lord Jones of Penybont",
-          "text": "Is that a no?"
-        },
-        {
-          "speaker": "Lord Young of Old Windsor",
-          "text": "It is what I answered."
+          "text": "If a majority Government legitimately passes laws, it’s hard to see constitutional bodies overturning that. The trouble is when democratic outcome and public perception diverge because of electoral quirks."
         },
         {
           "speaker": "Chair",
-          "text": "Thank you, Lord Young. That concludes this public session. We'll pause briefly before the next session with Lord Case."
+          "text": "Thank you, Lord Young. Any final point?"
+        },
+        {
+          "speaker": "Lord Young of Old Windsor",
+          "text": "Only that the system’s strengths are the human relationships, the careful, confidential advice and shared practices. Keep those strong, teach the basics, and refresh guidance documents like the Cabinet Manual."
         }
       ]
     }

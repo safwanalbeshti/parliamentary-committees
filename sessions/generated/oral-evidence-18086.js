@@ -6,12 +6,12 @@
 window.COMMITTEE_SESSIONS = window.COMMITTEE_SESSIONS || [];
 window.COMMITTEE_SESSIONS.push({
   "id": "oral-evidence-18086",
-  "label": "15 September 2026 · Nigel Mills, Sir Charles Walker, Baroness Thangam Debbonaire, Mr Nigel Evans",
+  "label": "15 September 2026 · Sir Charles Walker, Baroness Debbonaire, Nigel Mills, Mr Nigel Evans",
   "committee": "Administration Committee",
   "date": "15 September 2026",
   "sourceUrl": "https://committees.parliament.uk/oralevidence/18086/html/",
   "sourceLabel": "Official published transcript",
-  "summary": "The Administration Committee heard from four former MPs about their experiences of losing or leaving their seats at the 2024 general election. Witnesses praised the practical support they received but highlighted gaps, especially for staff, and offered suggestions such as clearer guidance, better disposal of equipment, and ongoing career support. They also firmly rejected the idea of returning as buddies for new MPs, stressing that departing MPs themselves need to move on and find work.",
+  "summary": "Former MPs who lost their seats said the practical support after the 2024 election — from the House staff and IPSA (the independent body that handles MPs’ pay, pensions and expenses) — was much better than in the past and largely did its job. But they warned leaving Parliament is often a traumatic, very public shock, and staff were less well supported: rules about notice and pay were unclear, email access and device disposal felt harsh, and more career retraining and emotional help are needed.",
   "room": {
     "image": "Energy Resilience/committee_room_4.png",
     "width": 2788,
@@ -62,7 +62,7 @@ window.COMMITTEE_SESSIONS.push({
   "cast": {
     "Chair": {
       "name": "Nick Smith",
-      "role": "Chair of the Committee",
+      "role": "Chair of the committee",
       "description": "",
       "kind": "chair",
       "seats": [
@@ -71,9 +71,9 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#315f72",
       "soft": "#d7edf0"
     },
-    "Nigel Mills": {
-      "name": "Nigel Mills",
-      "role": "Former MP for Amber Valley (2010–2024)",
+    "Sir Charles Walker": {
+      "name": "Sir Charles Walker",
+      "role": "Former MP for Broxbourne (2005–2024); former Chair of the Administration Committee",
       "description": "",
       "kind": "witness",
       "seats": [
@@ -82,9 +82,9 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#6f5c91",
       "soft": "#ebe2f5"
     },
-    "Sir Charles Walker": {
-      "name": "Sir Charles Walker",
-      "role": "Former MP for Broxbourne (2005–2024)",
+    "Baroness Debbonaire": {
+      "name": "Baroness Debbonaire",
+      "role": "Thangam Debbonaire, former MP for Bristol West (2015–2024)",
       "description": "",
       "kind": "witness",
       "seats": [
@@ -93,9 +93,9 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#4c7b5d",
       "soft": "#dff0dd"
     },
-    "Baroness Debbonaire": {
-      "name": "Baroness Thangam Debbonaire",
-      "role": "Former MP for Bristol West (2015–2024)",
+    "Nigel Mills": {
+      "name": "Nigel Mills",
+      "role": "Former MP for Amber Valley (2010–2024)",
       "description": "",
       "kind": "witness",
       "seats": [
@@ -106,7 +106,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Mr Nigel Evans": {
       "name": "Mr Nigel Evans",
-      "role": "Former MP for Ribble Valley (1992–2024)",
+      "role": "Former MP (served 32 years)",
       "description": "",
       "kind": "witness",
       "seats": [
@@ -117,7 +117,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Bambos Charalambous": {
       "name": "Bambos Charalambous",
-      "role": "Committee Member",
+      "role": "Member of the Administration Committee",
       "description": "",
       "kind": "member",
       "seats": [
@@ -128,7 +128,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Mary Glindon": {
       "name": "Mary Glindon",
-      "role": "Committee Member",
+      "role": "Member of the Administration Committee",
       "description": "",
       "kind": "member",
       "seats": [
@@ -139,7 +139,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Kirsteen Sullivan": {
       "name": "Kirsteen Sullivan",
-      "role": "Committee Member",
+      "role": "Member of the Administration Committee",
       "description": "",
       "kind": "member",
       "seats": [
@@ -150,7 +150,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Marie Goldman": {
       "name": "Marie Goldman",
-      "role": "Committee Member",
+      "role": "Member of the Administration Committee",
       "description": "",
       "kind": "member",
       "seats": [
@@ -161,7 +161,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Bob Blackman": {
       "name": "Bob Blackman",
-      "role": "Committee Member",
+      "role": "Member of the Administration Committee",
       "description": "",
       "kind": "member",
       "seats": [
@@ -171,6 +171,6 @@ window.COMMITTEE_SESSIONS.push({
       "soft": "#ebe2f5"
     }
   },
-  "transcript": "# General Election Planning\n\n## Introductions and expectations\n> The witnesses introduced themselves, and Sir Charles Walker gave a positive assessment of post-election support.\n\nChair: Welcome to this second session of our inquiry into general election planning. We're looking at how former MPs were supported when they left Parliament. Could you introduce yourselves?\nNigel Mills: I'm Nigel Mills; I was MP for Amber Valley from 2010 to 2024.\nSir Charles Walker: I'm Charles Walker, MP for Broxbourne from 2005 to 2024.\nBaroness Debbonaire: I'm Thangam Debbonaire, MP for Bristol West from 2015 to 2024.\nChair: Sir Charles, you chaired the previous Administration Committee when it worked on this. Did the support after the 2024 election live up to your expectations?\nSir Charles Walker: Yes, it did. I'd give it nine and a half out of ten. The House service and IPSA performed well, but we always need to improve.\n\n\n## Preparation and unexpected difficulties\n> Witnesses described how losing their seats was traumatic and that preparation was extremely difficult.\n\nBambos Charalambous: This is mainly for Nigel and Thangam. How well prepared were you for leaving, and what came as an unexpected difficulty?\nNigel Mills: I expected it—the polls were clear. But you can't really prepare; you can't apply for jobs during a campaign. I rushed to wind everything up in two months, but I'm not sure I'd recommend that.\nBaroness Debbonaire: Losing your job is a trauma, especially when it happens on TV in front of everyone. You fight to win, so you can't buff up your CV. I was a 58-year-old unemployed woman making my staff redundant. I did prepare by getting my staff CVs ready secretly, but personally, it was devastating.\nChair: Thank you. We're now joined by Sir Nigel Evans. Nigel, how well prepared were you?\nMr Nigel Evans: I was surprised to lose—my seat had been Tory forever. I hadn't planned. But the support was good; it wasn't the cliff edge it used to be. We had time to sort out offices and housing, and people talked us through pensions and redundancy. It wasn't as brutal as in the past.\n\n\n## Winding up and staff support\n> The winding-up period was rushed, and staff faced particular difficulties with redundancy and finding new jobs.\n\nMary Glindon: What was your experience of winding up? Were the deadlines realistic, and did you have support for your staff?\nBaroness Debbonaire: The three-month deadline helped. Your pass stops working within days, so you need to be quick. I had prepared my staff, so they got jobs fast. But emotional support is separate from practical help. I paid for private therapy, which made the careers coaching effective. I felt pressure to get staff off the payroll, though that might have been my mood.\nSir Charles Walker: You should plan for your last day on your first day. It's a vocation, not a career. Most people leave because they lose an election. The money runs out long before jobs appear. The House should provide ongoing career development and accredited qualifications. We need to be serious about preparing colleagues to leave.\nNigel Mills: The four-month period was confusing. Staff thought they'd get four months' pay, but it's a limit, not a target. I closed my office after two months and paid three. The redundancy process was odd—consultation meetings and letters burned weeks. Staff didn't get the CV and interview support that MPs got. Mine all got jobs, but it was harder for them.\nMr Nigel Evans: I felt guilty about my staff. Getting a P45 at 66 is different from at 36 with a mortgage. Staff don't get the same cushion. When 251 Tories lose, hundreds of staff chase few jobs. They deserve the same support as MPs. We should look after them.\nNigel Mills: Also, if staff fear losing their jobs, they may resign before an election, leaving MPs unable to work. A soft landing for staff benefits Parliament too.\n\n\n## Guidance and practical arrangements\n> Guidance was generally good but could be clearer on staff pay, casework, and equipment disposal.\n\nKirsteen Sullivan: How clear was the guidance from the House, IPSA, and parties about winding up?\nBaroness Debbonaire: The guidance was mostly good, but there were gaps. A clear toolkit for office managers on data destruction, recycling computers, and handling casework during Dissolution would help. Former constituents still contact me about case notes.\nSir Charles Walker: The guidance was useful. My only gripe was not being able to buy my old printer instead of it going to landfill. Outplacement support was excellent, though.\nBaroness Debbonaire: Disposal of kit was annoying. My iPad was taken in a humiliating way, and it just went to a skip. We should be able to buy it.\nNigel Mills: The guidance was very good, but the legal side for staff was tricky—notice periods, redundancy pay. A standard pack of letters would reduce errors. IT collection was a bit disorganised, but overall smooth.\nMr Nigel Evans: Richmond House was well organised, sympathetic. The only suggestion I have is to give ex-MPs a standard email like nigel.evans.exmp@parliament.uk so people can still reach us. Losing your parliamentary email is brutal.\n\n\n## Handover to incoming MPs\n> Casework handover was generally smooth, though some former MPs suggested improvements.\n\nMarie Goldman: On handing over to incoming MPs, did casework handover work well?\nMr Nigel Evans: I offered my successor everything she wanted. An ex-MP email would help if she needs to get in touch.\nNigel Mills: Most casework was done before polling day. We asked constituents for consent to pass on cases. It wasn't many, and it worked well, though it's not natural to be in touch with your replacement after losing.\nSir Charles Walker: I briefed my successor on a few long-running cases. Most constituents don't realise you cease to be an MP when an election is called. We triaged and asked them to contact the successor.\nBaroness Debbonaire: Incoming MPs should assume they start from scratch; any urgent casework will have been dealt with. We provided information on how to contact the new MP. Confidentiality guidance was good, though advice on disposing of confidential waste would have helped.\n\n\n## Balancing support and public perception\n> Witnesses argued that support for MPs and staff must be balanced against public perception but is necessary to attract good people.\n\nMarie Goldman: We need to balance what the public experiences when losing a job with what MPs and staff get. What about employing staff by the House for more security?\nMr Nigel Evans: Why should staff be treated differently? If we want the best, they should get the same support. They face the same sudden loss.\nNigel Mills: A good employer supports redundant staff into new jobs. If we don't, we won't attract the brightest to Parliament. Playing to the TaxPayers' Alliance lobby is dangerous. But we should be clear about what we mean on pay.\n\n\n## Rejecting the buddy idea\n> The witnesses firmly rejected the suggestion that former MPs should return as buddies for new MPs, stressing they need to move on and find work.\n\nMary Glindon: Would you be willing to return to support new MPs as a buddy?\nSir Charles Walker: Absolutely not. We've left; new MPs don't want us around. I did many things for free after leaving, but I need to earn a living. If you want better MPs, treat MPs better.\nNigel Mills: The last place I wanted to be was here. I emptied my office and left. I'd be no use to a new MP.\nBaroness Debbonaire: We were seen as contagious. New MPs should learn the job themselves—go on Bill Committees, ask Doorkeepers. Learn with humility; you will lose eventually. But we need to pay our bills. The answer is no.\n\n\n## Career transition and departing Members' area\n> Career coaching and emotional support were valuable but should be separate; the departing Members' area was well run but had a sombre atmosphere.\n\nBambos Charalambous: How prepared were you for work beyond Parliament? Did you use the career transition service, and how important was emotional support?\nBaroness Debbonaire: The career transition service was valuable—I thank Charles Walker. It helps translate our skills. I paid for private therapy separately, which made coaching work. I wish the service was offered to staff too.\nMarie Goldman: Did the departing Members' area work well for you?\nMr Nigel Evans: Yes. It was like speed dating—you move from one desk to another. Well organised.\nNigel Mills: It was excellent. Everything was there, sympathetic, well handled.\nBaroness Debbonaire: The location felt like a basement while new MPs went to bright rooms. But the service inside was excellent.\n\n\n## Staff outcomes and final thoughts\n> Most former staff found new jobs, but references and support could be improved; witnesses urged better treatment for staff.\n\nBob Blackman: Did your successor take on any of your staff, Sir Charles?\nSir Charles Walker: No. My staff had been with me for years, including my wife. There was no transfer.\nBob Blackman: Are you still in touch with ex-staff, and have they got new jobs?\nBaroness Debbonaire: Yes, with all of them. My constituency staff got jobs quickly because we prepared. Parliamentary staff found it harder. I'm a lifelong careers coach for them.\nSir Charles Walker: My staff got jobs. They have transferable skills and don't carry the baggage of having been an MP.\nNigel Mills: My staff all had jobs within three months. References were fiddly—IPSA gives basic ones, so I wrote letters on headed paper. It's an awkward situation.\nMr Nigel Evans: One left for the Navy before the election. The others were worried but all found jobs outside the House.\nChair: Thank you all for your valuable feedback. That concludes this session.\n",
+  "transcript": "# General Election Planning\n\n## Overall view: support improved but not perfect\n> House staff and IPSA largely delivered an improved package after 2024, but support still needs strengthening.\n\nChair: Welcome. We’re asking former MPs about how well the support after the 2024 election worked when people left Parliament. Could you introduce yourselves?\nNigel Mills: I’m Nigel Mills, MP for Amber Valley from 2010 to 2024.\nSir Charles Walker: Charles Walker here, Broxbourne MP 2005–2024. I chaired the previous Administration Committee work on leaving Parliament, called “Smoothing the cliff edge.”\nBaroness Debbonaire: Thangam Debbonaire, Bristol West 2015–2024.\nMr Nigel Evans: Mr Nigel Evans—former MP, served 32 years.\nSir Charles Walker: Short answer: the House service and IPSA did well after 2024. I can’t give 10/10 but I’d give about nine and a half out of 10.\n\n\n## The shock of losing: it’s public and traumatic\n> Leaving suddenly is often experienced as trauma, especially when it happens in public and when staff must be made redundant.\n\nBambos Charalambous: How prepared were you for leaving, and what surprised you?\nNigel Mills: I’d seen the polls and expected it, but you can’t prepare fully. You can’t look for jobs in an active campaign, so the reality hits hard on the day you lose.\nBaroness Debbonaire: Losing your job publicly is a form of trauma. You’re 58, unemployed on TV, and have to make staff redundant—there’s no real way to prepare for that public humiliation.\nMr Nigel Evans: I was genuinely surprised when my once-rock-solid seat fell. I’d never planned ahead. The practical help I was offered afterwards was, fortunately, good.\nSir Charles Walker: People should act as if their last day here might come even on their first day—this is a vocation with an expiry date for most, and the House should give better accredited retraining.\n\n\n## Staff, notice periods and redundancy: the weakest point\n> Staff were often less protected than MPs—guidance on notice, pay and help into new jobs was unclear and inconsistent.\n\nMary Glindon: How realistic were the deadlines for winding up and how were your staff supported?\nBaroness Debbonaire: A three-month winding-up period helped, but staff support was the main worry. My team planned secretly and found jobs quickly, but not everyone could, and the emotional impact was huge.\nNigel Mills: There was confusion about the four-month period people expected. Some staff assumed it meant four months’ pay—some MPs thought it was a cap, others a limit. That needs clarity.\nMr Nigel Evans: MPs got a cushion, staff didn’t. Many staff are young with mortgages and families; their position can be brutal. They should get the same protections as MPs.\nNigel Mills: The redundancy process felt odd: consultation meetings, a week’s notice, then an appointment a week later—it burns time and feels unhelpful when you already know there's no job.\nSir Charles Walker: If the House wants to be a serious employer it should fund ongoing professional development, with qualifications recognised by top universities or training bodies.\n\n\n## Practical problems: kit, email and handovers\n> Practical help mostly worked, but device disposal, loss of parliamentary email, and casework handover caused distress and inefficiency.\n\nKirsteen Sullivan: Was the guidance from the House, IPSA and parties clear on what to do during Dissolution and winding up?\nBaroness Debbonaire: Guidance was mostly good, but managers wanted a clear toolkit—how to destroy or keep data, recycle computers, and whether staff can finish casework during Dissolution.\nSir Charles Walker: I was upset to see old kit hauled off to a skip. Letting departing MPs buy useful kit or re-use it would avoid waste and avoid humiliating moments.\nMr Nigel Evans: Losing your parliamentary email is brutal. One simple idea: provide a standard ex-MP email address (like name.exmp@parliament.uk) so people know how to contact you afterwards.\nMarie Goldman: Did casework handover to incoming MPs work?\nNigel Mills: Most casework dries up during a campaign. We offered to transfer files where constituents consented, but there weren’t many outstanding cases.\nBaroness Debbonaire: Incoming winners often expect inherited urgent cases, but usually those are already handled. It’s sensible to assume new MPs will start from scratch unless there’s an exception.\nNigel Mills: One more practical point: references. IPSA will confirm employment dates, but if an employer wants more detail they email your personal address, which is awkward once your parliamentary email is gone.\n\n\n## Aftercare: careers support and emotional help\n> Career transition coaching and private therapy were very helpful; the House should consider offering more emotional support and accredited retraining, and extending career help to staff.\n\nBambos Charalambous: Would you use the careers transition service and how important was emotional support?\nBaroness Debbonaire: I used the careers service and it was invaluable for translating MP skills into jobs. I also paid for private therapy from February—therapy and careers coaching reinforced each other.\nSir Charles Walker: Outplacement and career coaching were useful. But we need accredited, serious retraining options and for MPs themselves to plan from day one for when they eventually leave.\nNigel Mills: Careers support should be offered to staff too. A good employer helps people into new roles; Parliament should be no different if it wants to recruit good staff.\nMr Nigel Evans: I still keep in touch with ex-staff. They deserve the same cushion and access to training as MPs if we want to attract top people to these jobs.\nBob Blackman: Would you come back to mentor new MPs?\nSir Charles Walker: No. New MPs don’t want defeated former MPs around. And many of us need paid work ourselves—most of us left and needed to find jobs, so unpaid mentoring isn’t realistic.\nBaroness Debbonaire: I agree. New MPs should learn the job directly, and retired MPs aren’t the right free resource—people need to be paid for their labour and time.\n\n\n## What to fix next\n> Keep the good bits (reception centre, careers coaching, clearer guidance), fix staff protections, clarify notice/pay rules, avoid wasteful disposal and provide email continuity and accredited retraining.\n\nChair: To finish: what practical fixes would you recommend most strongly?\nSir Charles Walker: Develop accredited professional training for MPs, publicly funded career development, and make sure outplacement continues.\nBaroness Debbonaire: Give clearer toolkits for office managers, better guidance on confidential waste, and make emotional support accessible—recommend private therapy to others who can afford it.\nNigel Mills: Clarify whether the four-month winding-up is a cap or a target, simplify redundancy paperwork and improve support for staff getting CVs and interview practice.\nMr Nigel Evans: Provide a straightforward ex-MP contact address so constituents and other organisations can still reach former MPs, and treat staff as equally deserving of cushioning.\nChair: Thank you all for clear, practical feedback. That concludes this session.\n",
   "inquiry": "General Election Planning"
 });

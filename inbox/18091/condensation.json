@@ -2,9 +2,9 @@
   "schema_version": 1,
   "source_id": 18091,
   "source_sha256": "0295f70426adf66dd7343e5b285493c8888a2b784fe810e0b54fea9d58b0493b",
-  "title": "Ofcom's Online Safety Act: Slow Progress and Missing Teeth?",
-  "label": "15 Sep 2026 · Online Safety Act implementation",
-  "summary": "Ofcom's online safety team gave evidence to the Communications and Digital Committee about how the Online Safety Act is being implemented. They explained that most duties are now in force but the full regime won't be operational until mid-2027. They admitted progress has been slower and less visible than hoped, with frustrations about enforcement, limited powers to force companies to use proactive technology, and a safe harbour that lets companies off the hook if they follow the codes. They called for targeted reforms to strengthen their ability to hold platforms to account.",
+  "title": "Ofcom on the Online Safety Act: progress, problems and what needs fixing",
+  "label": "15 September 2026 · Online Safety Act evidence session",
+  "summary": "Ofcom’s online-safety leaders told the committee which parts of the 2023 Online Safety Act are running, what still needs doing, and where the law and enforcement tools are causing headaches. They gave examples of progress—mainly around age checks and some big companies making commitments—but also explained why harms persist: legal limits in the law (a ‘safe harbour’ that can block tougher action), technical issues like VPNs, challenges enforcing penalties against foreign sites, the need for proactive scanning technology, and the strain from new government measures like the proposed under‑16s social-media ban. All three witnesses urged targeted legal fixes and clearer powers to make the regime work faster and more effectively.",
   "speakers": [
     {
       "label": "Chair",
@@ -13,9 +13,9 @@
       "kind": "chair"
     },
     {
-      "label": "Oliver Griffiths",
-      "name": "Oliver Griffiths",
-      "role": "Group Director, Online Safety, Ofcom",
+      "label": "Mark Bunting",
+      "name": "Mark Bunting",
+      "role": "Director, Online Safety Strategy Delivery, Ofcom",
       "kind": "witness"
     },
     {
@@ -25,478 +25,256 @@
       "kind": "witness"
     },
     {
-      "label": "Mark Bunting",
-      "name": "Mark Bunting",
-      "role": "Director, Online Safety Strategy Delivery, Ofcom",
+      "label": "Oliver Griffiths",
+      "name": "Oliver Griffiths",
+      "role": "Group Director, Online Safety, Ofcom",
       "kind": "witness"
     },
     {
       "label": "Baroness Caine of Kentish Town",
       "name": "Baroness Caine of Kentish Town",
-      "role": "Committee member",
+      "role": "Member of the committee",
       "kind": "member"
     },
     {
       "label": "Lord Storey",
       "name": "Lord Storey",
-      "role": "Committee member",
+      "role": "Member of the committee",
       "kind": "member"
     },
     {
       "label": "Viscount Colville of Culross",
       "name": "Viscount Colville of Culross",
-      "role": "Committee member",
+      "role": "Member of the committee",
       "kind": "member"
     },
     {
       "label": "Baroness Fleet",
       "name": "Baroness Fleet",
-      "role": "Committee member",
+      "role": "Member of the committee",
       "kind": "member"
     },
     {
       "label": "Baroness Elliott of Whitburn Bay",
       "name": "Baroness Elliott of Whitburn Bay",
-      "role": "Committee member",
+      "role": "Member of the committee",
       "kind": "member"
     },
     {
       "label": "Lord Kirkhope of Harrogate",
       "name": "Lord Kirkhope of Harrogate",
-      "role": "Committee member",
+      "role": "Member of the committee",
       "kind": "member"
     },
     {
       "label": "Lord Knight of Weymouth",
       "name": "Lord Knight of Weymouth",
-      "role": "Committee member",
+      "role": "Member of the committee",
       "kind": "member"
     },
     {
       "label": "Lord Tarassenko",
       "name": "Lord Tarassenko",
-      "role": "Committee member",
+      "role": "Member of the committee",
       "kind": "member"
     }
   ],
   "chapters": [
     {
-      "title": "Where the Act stands",
-      "takeaway": "Most online safety duties are now in force, but the final piece for the biggest platforms won't be finished until mid-2027.",
+      "title": "What’s in force and the timetable",
+      "takeaway": "Some duties from the 2023 Online Safety Act are already in force, the bulk of the rules for big services are due mid‑2027, and new government plans (like a social‑media ban for under‑16s) are adding work and need extra funding.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "Welcome. This is our second evidence session on the Online Safety Act. Ofcom is the UK's online safety regulator, so we're pleased to have you here. Could you introduce yourselves?"
+          "text": "Welcome. To start, can you say which parts of the Online Safety Act are live and what still needs doing?"
         },
         {
           "speaker": "Oliver Griffiths",
-          "text": "I'm Oliver Griffiths, group director for online safety at Ofcom."
+          "text": "Broadly, Ofcom is juggling three things: finishing implementation of the Act, making companies comply, and preparing for new duties the Government has proposed like the under‑16s social‑media ban."
+        },
+        {
+          "speaker": "Mark Bunting",
+          "text": "There are three main parts of the law: rules on illegal harms, rules to protect children from some legal but harmful content, and extra duties for big, 'categorised' services—those big platforms that get special rules."
+        },
+        {
+          "speaker": "Mark Bunting",
+          "text": "We brought the child-protection rules into force in early 2025. The categorised‑services duties were delayed by legal challenges, but we published the list of categorised services and a consultation is closing. We expect those duties to be in force around mid‑2027."
+        },
+        {
+          "speaker": "Oliver Griffiths",
+          "text": "The Government’s new plans—like the social‑media ban—mean extra work. We asked the Government for more money in July and are discussing funding and the order of tasks; without extra staff something will have to give."
+        }
+      ]
+    },
+    {
+      "title": "Have things actually got safer?",
+      "takeaway": "Ofcom says there are real changes—especially better age checks and fewer easy routes to porn for kids—but the overall effect on children’s lived experience is still early and mixed.",
+      "turns": [
+        {
+          "speaker": "Lord Storey",
+          "text": "Has the Act made children and adults safer online yet?"
+        },
+        {
+          "speaker": "Oliver Griffiths",
+          "text": "We’ve seen major change in some areas. In a recent business survey of 125 services, 76% had done a risk assessment, 44% said they’d made changes, and 59% said they’d substantially implemented requirements."
+        },
+        {
+          "speaker": "Oliver Griffiths",
+          "text": "Age checks are the clearest win: big services like Reddit, X and Discord added age gates, and among top porn sites there’s been a big jump in age checks—three‑quarters of the top 100 now either check age or block UK access."
+        },
+        {
+          "speaker": "Mark Bunting",
+          "text": "But some big platforms used by children still don’t have full ways to reliably tell who is a child. You can change one part of a system but you need the whole system to work to protect children properly."
+        },
+        {
+          "speaker": "Lord Storey",
+          "text": "The Children’s Commissioner said the Act made 'absolutely no difference'—do you accept that?"
+        },
+        {
+          "speaker": "Oliver Griffiths",
+          "text": "We share the frustration. The Act aims for big corporate culture change, which takes time. We’ve started that change, but it’s early days across many different types of services."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Has contact with the Children’s Commissioner’s panel of children shown any clear improvements in real life?"
+        },
+        {
+          "speaker": "Oliver Griffiths",
+          "text": "We’ve got some positive anecdotes and we run monitoring so we can measure real experience over time. But AI advances are also making some harms worse, so it’s complicated."
+        }
+      ]
+    },
+    {
+      "title": "Enforcement: what Ofcom can and can’t do",
+      "takeaway": "Ofcom has opened investigations and fined firms, but legal limits in the Act, foreign services with no UK assets, and court challenges make enforcement slow or hard in some cases.",
+      "turns": [
+        {
+          "speaker": "Baroness Elliott of Whitburn Bay",
+          "text": "People say you’re slow and reactive. Why is it hard to identify and tackle new harms quickly?"
+        },
+        {
+          "speaker": "Oliver Griffiths",
+          "text": "We can move fast when needed—we launched an investigation into Grok (an AI feature on X) within two weeks. But we operate in a very litigious environment: companies bring court challenges and appeals, which slows things down."
         },
         {
           "speaker": "Suzanne Cater",
-          "text": "I'm Suzanne Cater, director of enforcement at Ofcom, with primary responsibility for enforcing the Online Safety Act."
-        },
-        {
-          "speaker": "Mark Bunting",
-          "text": "I'm Mark Bunting, director of strategy delivery in Ofcom's online safety group, responsible for our overall strategic direction."
-        },
-        {
-          "speaker": "Chair",
-          "text": "The Act passed in 2023. Which parts are now in effect and what's still to come?"
-        },
-        {
-          "speaker": "Mark Bunting",
-          "text": "There are three main planks: duties on illegal harms, duties to protect children from certain legal material, and extra duties for categorised services — those are the biggest platforms. We prioritised getting the first two into force quickly. Those took about 18 months from passage. The children's codes came into force in early 2025."
-        },
-        {
-          "speaker": "Mark Bunting",
-          "text": "The third plank was delayed by a legal challenge from Wikimedia about how we categorise services. That finished last summer. We published the list of categorised services and consulted on their duties. That consultation is about to wrap up."
-        },
-        {
-          "speaker": "Mark Bunting",
-          "text": "The Act has also been amended, for example by the Crime and Policing Act, which added new priority offences like cyber stalking and serious health harm. We'll consult later this year on a 48-hour takedown duty for non-consensual intimate images."
-        },
-        {
-          "speaker": "Mark Bunting",
-          "text": "We expect the categorised services duties to be fully in force by around mid-2027. But the Government's new plans for a social media ban for under-16s and possible AI regulation are changing things, and we're in talks about what that means for our work and resources."
-        },
-        {
-          "speaker": "Chair",
-          "text": "So the full regime won't be operational until mid-2027?"
-        },
-        {
-          "speaker": "Mark Bunting",
-          "text": "Yes, that's our current programme, but it depends on ongoing discussions with Government about sequencing."
-        }
-      ]
-    },
-    {
-      "title": "Extra work and lessons learned",
-      "takeaway": "Ofcom was already fully stretched, and the new social media ban means more money and staff are needed to avoid delays.",
-      "turns": [
-        {
-          "speaker": "Chair",
-          "text": "What impact will the under-16 social media ban have on your timetable?"
-        },
-        {
-          "speaker": "Oliver Griffiths",
-          "text": "We were fully loaded before the ban was announced. We've moved staff onto it, but without extra funding something has to give. The Government committed in June to extra funding, and we submitted a detailed business plan in July. We're in talks about both funding and sequencing. We'll set out a revised roadmap by the end of the year. It's doable if it's resourced and sequenced right."
-        },
-        {
-          "speaker": "Chair",
-          "text": "What lessons have you learned from the first two phases?"
-        },
-        {
-          "speaker": "Mark Bunting",
-          "text": "One is about consultation. We published our first proposals very quickly after the Act passed, before we'd had much time to engage with industry or civil society. It was the right call to move fast, but we've learned to engage better. For example, our work on women and girls was much more collaborative with the women's sector and services."
-        },
-        {
-          "speaker": "Mark Bunting",
-          "text": "The second is the safe harbour in the Act. That's where companies are deemed compliant if they follow our codes of practice. It gives clarity, but it can also limit us: if a company ticks all the boxes in the code, we can't easily force them to do more about risks they've identified."
-        }
-      ]
-    },
-    {
-      "title": "Risk assessments and children's safety",
-      "takeaway": "Ofcom hasn't given the Children's Commissioner risk assessments because companies must consent, but it's willing to ask them if a formal request is made.",
-      "turns": [
-        {
-          "speaker": "Chair",
-          "text": "The Children's Commissioner told us she asked to see the risk assessments that online services must produce, and Ofcom wouldn't provide them. Can you explain?"
-        },
-        {
-          "speaker": "Oliver Griffiths",
-          "text": "We work closely with the Commissioner, who runs a children's panel for us. On this point, we haven't received a formal request. Under Section 393 of the Act, we need the company's consent before sharing with a third party. If she makes a formal request, we'll ask the companies if they're happy to share. That's the process we must follow."
-        },
-        {
-          "speaker": "Chair",
-          "text": "If she does make a formal request, you'll be prepared to let her see them?"
-        },
-        {
-          "speaker": "Oliver Griffiths",
-          "text": "We'll go to the companies and check they're happy, as the Act requires. Absolutely, we'll follow that process."
-        },
-        {
-          "speaker": "Baroness Caine of Kentish Town",
-          "text": "Was there an informal approach?"
-        },
-        {
-          "speaker": "Oliver Griffiths",
-          "text": "There have been discussions with the teams for months."
-        }
-      ]
-    },
-    {
-      "title": "Has the Act made people safer?",
-      "takeaway": "Ofcom says there's been real progress on age checks for porn and some big platforms, but overall the effect so far is underwhelming and culture change takes time.",
-      "turns": [
-        {
-          "speaker": "Lord Storey",
-          "text": "Has the Online Safety Act made children and adults in the UK safer online?"
-        },
-        {
-          "speaker": "Oliver Griffiths",
-          "text": "That's the fundamental question. We've seen big changes. Our survey of 125 companies found 76% had completed a risk assessment, 44% had made changes, and 59% felt they'd fully or substantively implemented the requirements. There are 100,000 services in scope."
-        },
-        {
-          "speaker": "Oliver Griffiths",
-          "text": "The most visible change is age assurance — that means checking someone's age before they can access certain content. Since July last year, big services like Reddit, X and Discord have put age gates in place. In the pornography sector, all top-10 services now have age gates, and three-quarters of the top 100 either have them or have blocked UK access. We've seen a 23-fold increase in age checks across 32 companies."
-        },
-        {
-          "speaker": "Oliver Griffiths",
-          "text": "Less visibly, some services have chosen to block UK access entirely when we contact them about their obligations. That happened with a prominent suicide forum and some file-sharing sites with child sexual abuse material."
-        },
-        {
-          "speaker": "Oliver Griffiths",
-          "text": "But we're less content with some big services most used by children. We secured commitments from X on hate and terror takedown times, and from Meta and Snap on grooming. Overall, our tracking shows we're underwhelmed by the effect so far. This is a one-way ratchet that will build up over time."
-        },
-        {
-          "speaker": "Lord Storey",
-          "text": "The Children's Commissioner said the Act has made 'absolutely no difference'. How do you respond?"
-        },
-        {
-          "speaker": "Oliver Griffiths",
-          "text": "We share the frustration. We're trying to change corporate cultures that have built up over decades. The Act drives change through risk assessments rather than taking down content, to change incentives for leaders. That takes time, especially across so many sectors. I came into this job to make life better, especially for children, but we're still early in the journey."
-        },
-        {
-          "speaker": "Mark Bunting",
-          "text": "We've seen steps along the road, but there's a long way to go. For example, some big firms have committed to making it harder for strangers to approach children, but we're not sure they have good enough ways of identifying who the children are. You can change one system but not the whole system."
-        },
-        {
-          "speaker": "Lord Storey",
-          "text": "Should society allow tech companies to operate if they can't guarantee children's safety?"
-        },
-        {
-          "speaker": "Oliver Griffiths",
-          "text": "The Act says there's no freedom to operate if you can't keep people safe. The duties are on the companies. Society doesn't accept the current situation."
-        },
-        {
-          "speaker": "Lord Storey",
-          "text": "Will there come a time when you say, 'We'll take you down, you can't operate in the UK'?"
-        },
-        {
-          "speaker": "Oliver Griffiths",
-          "text": "If we suspect a breach, we can launch an enforcement case. If they don't comply, we can apply to a court for a business disruption measure, which stops their access to the UK. That's not taking down the site globally — our reach only goes as far as the UK — but it's a powerful tool."
-        },
-        {
-          "speaker": "Chair",
-          "text": "Do you think children's real-life experience online has improved?"
-        },
-        {
-          "speaker": "Oliver Griffiths",
-          "text": "There's good anecdotal evidence things are moving in the right direction. We have a big monitoring and evaluation programme. But AI is supercharging harms like creating child sexual abuse material, so it's a mixed picture."
-        }
-      ]
-    },
-    {
-      "title": "Gaming and safe harbour",
-      "takeaway": "Gaming is a focus but not top priority; the safe harbour lets companies off the hook if they follow codes, and Ofcom wants a duty to mitigate all risks.",
-      "turns": [
-        {
-          "speaker": "Baroness Caine of Kentish Town",
-          "text": "What progress in gaming?"
-        },
-        {
-          "speaker": "Oliver Griffiths",
-          "text": "Some gaming services like Xbox and Steam have introduced age gates. It's important but not front and centre — we've prioritised social media and child protection."
-        },
-        {
-          "speaker": "Mark Bunting",
-          "text": "We focus on interactions between users. On Roblox, we've seen evidence of people who wish children harm. Our recommended controls on age verification and preventing adults approaching unknown children have been effective. But broader issues like violence and screen time aren't captured by the Act. Our engagement is narrow but focused where we can make a difference."
-        },
-        {
-          "speaker": "Viscount Colville of Culross",
-          "text": "You've said you want targeted reforms, including reviewing the safe harbour. Would you like to see it taken out?"
-        },
-        {
-          "speaker": "Mark Bunting",
-          "text": "It's complicated. The Act created two parallel frameworks: a risk-based duty and the codes with safe harbour. If companies do everything in our codes, they're deemed compliant even if risks remain. That's a tension. We can't enforce against them if they've ticked the boxes."
-        },
-        {
-          "speaker": "Mark Bunting",
-          "text": "The reason I can't give a straight answer is that the safe harbour gives legal certainty, which also helps us enforce. If we're not clear what companies must do, it's hard to win investigations. We'd be stronger with a duty to mitigate all risks, even beyond codes, but that would be harder to enforce and not a quick route to fines."
-        },
-        {
-          "speaker": "Viscount Colville of Culross",
-          "text": "Why difficult to enforce against companies that haven't mitigated?"
-        },
-        {
-          "speaker": "Mark Bunting",
-          "text": "Enforcement is easiest with a clear requirement, like age verification. A broad duty to do everything reasonable opens lengthy legal debates. That's the tension."
-        },
-        {
-          "speaker": "Viscount Colville of Culross",
-          "text": "Would a duty of care help — where providers must ensure new products don't harm users?"
-        },
-        {
-          "speaker": "Mark Bunting",
-          "text": "The word 'proportionate' isn't the problem; it's the safe harbour and codes. Schedule 4 says codes must contain clear and detailed steps, putting the onus on us to specify actions. We think that's an area Government might look at."
+          "text": "From enforcement, we’ve opened six focused enforcement programmes and 40 formal investigations covering over 100 services, and imposed £7 million in penalties so far."
         },
         {
           "speaker": "Suzanne Cater",
-          "text": "The codes must be accessible to a huge range of services. We have to balance clear rules with flexibility. A duty of care is an alternative, but you'd still need to define parameters carefully, especially for small services. The largest services often have sophisticated measures but not enough to address harm, and they argue they're within safe harbour, so we can't enforce further."
-        },
-        {
-          "speaker": "Chair",
-          "text": "What about safety by design, expecting platforms to be safe by design?"
-        },
-        {
-          "speaker": "Mark Bunting",
-          "text": "The Act is all about safety by design — we don't regulate content, we focus on how services are designed and governed. But the safe harbour limits it. Safety by design should put the onus on companies to identify what they need to do, not on us to spell it out."
-        }
-      ]
-    },
-    {
-      "title": "Enforcement and emerging harms",
-      "takeaway": "Ofcom says it's using its powers, but legal challenges and slow processes make it hard; it wants to do more but faces practical limits.",
-      "turns": [
-        {
-          "speaker": "Baroness Fleet",
-          "text": "You said many big companies are 'not yet doing enough'. The Molly Rose Foundation says teenagers' exposure to suicide, self-harm and eating disorder content has barely changed. What's stopping you going faster?"
-        },
-        {
-          "speaker": "Mark Bunting",
-          "text": "On proactive monitoring, companies can either wait for reports or use tools to detect harmful content before users see it. Some firms say they use automated tools, but we haven't seen data to assess effectiveness. We're consulting on requiring them more widely."
-        },
-        {
-          "speaker": "Mark Bunting",
-          "text": "The Act set high thresholds for requiring these tools due to privacy and free expression concerns. We're gathering evidence and will say more this autumn. It's not clear the Act forces companies to use them."
-        },
-        {
-          "speaker": "Baroness Fleet",
-          "text": "That seems like a fundamental flaw."
-        },
-        {
-          "speaker": "Mark Bunting",
-          "text": "It's not had much discussion. We must think carefully because scanning all material is intrusive. But the case is strong and we're working on proposals."
-        },
-        {
-          "speaker": "Baroness Elliott of Whitburn Bay",
-          "text": "Stakeholders say Ofcom is slow, reactive, not flexible. Why so sluggish?"
-        },
-        {
-          "speaker": "Oliver Griffiths",
-          "text": "When Grok on X emerged over Christmas, we launched an investigation within two weeks. We have 140 priority offences. We're in constant dialogue with Government and law enforcement. We can move quickly when needed — faster than international peers."
-        },
-        {
-          "speaker": "Baroness Elliott of Whitburn Bay",
-          "text": "Sir Jeremy Wright said the Act doesn't require you to know something will work before trying it. Are you too cautious?"
-        },
-        {
-          "speaker": "Oliver Griffiths",
-          "text": "We've published our risk appetites — on legal, we have an open risk appetite. But we operate in a highly litigious environment. Meta is running judicial reviews against us on fees, services are challenging our data collection, and four are appealing categorisation. If we run unnecessary risks, we'll get clobbered legally. We're learning as we go."
-        },
-        {
-          "speaker": "Baroness Elliott of Whitburn Bay",
-          "text": "Why do stakeholders perceive you as slow?"
-        },
-        {
-          "speaker": "Oliver Griffiths",
-          "text": "The Act is extraordinarily broad — over 100,000 services. We must focus to drive systemic change. Choosing means other areas get less focus. That's inevitable."
+          "text": "Practical limits bite: many offending services are small, based overseas with no UK assets, and sometimes won’t pay fines. Getting judgments recognised abroad is hard."
         },
         {
           "speaker": "Lord Kirkhope of Harrogate",
-          "text": "The perception is you don't use your teeth. Is it legal constraints or reluctance?"
+          "text": "So is the problem legal tools, or your willingness to use them?"
         },
         {
           "speaker": "Suzanne Cater",
-          "text": "I agree we must use our teeth. There's a perception problem. Enforcement is critical, especially for a sector never regulated before. We need to make leaders believe we'll act and impose meaningful penalties."
+          "text": "We are using our powers and are getting tougher—starting to use senior‑management liability tools and pushing business disruption measures (that’s a court order to block or stop a service in the UK). But those tools have practical limits."
         },
         {
           "speaker": "Suzanne Cater",
-          "text": "We are using our teeth. We've opened six enforcement programmes, 40 formal investigations covering 100 services. We imposed £7 million in penalties. We're shifting to bigger cases like X, Telegram, TikTok. We're starting to use senior management liability powers."
+          "text": "For example, if a forum withdraws from the UK, the law only applies while it operates in the UK, so court orders become harder to use."
         },
         {
-          "speaker": "Lord Kirkhope of Harrogate",
-          "text": "In the suicide forum case, you said you ran out of legal routes. Are your tools inadequate?"
-        },
-        {
-          "speaker": "Oliver Griffiths",
-          "text": "We've been the most active international regulator. But these things take time — EU, Australia, US all take 2-3 years. We want to be quicker, but we're at that stage. Business disruption measures have issues."
+          "speaker": "Chair",
+          "text": "How much of the £7 million in penalties has actually been paid?"
         },
         {
           "speaker": "Suzanne Cater",
-          "text": "Many services are small and overseas with no UK assets, making enforcement hard. Some haven't paid penalties. We're pursuing judgment debts, but overseas enforcement is limited. Business disruption requires ongoing non-compliance; if a service withdraws from the UK, we can't apply. If they comply but don't pay fines, we can't use it. That would be helpful."
+          "text": "Most has not been paid yet; we had a payment this week. I’ll follow up with exact figures for the committee."
         }
       ]
     },
     {
-      "title": "VPNs, fines and the Meta settlement",
-      "takeaway": "VPNs are a political decision; Ofcom doesn't keep fines; the US Meta settlement is instructive but doesn't mean Ofcom will seek huge sums.",
+      "title": "Gaps in the law and technical issues",
+      "takeaway": "Two big sticking points are the 'safe harbour' in the law that can limit enforcement and the narrow rules about using proactive scanning tech—plus issues like VPNs and cross‑jurisdiction enforcement.",
       "turns": [
         {
           "speaker": "Viscount Colville of Culross",
-          "text": "On the suicide forum, should the Act be amended to force companies to deal with VPNs?"
+          "text": "You’ve suggested the 'safe harbour' in the Act is a problem—what do you mean by that?"
         },
         {
-          "speaker": "Oliver Griffiths",
-          "text": "That's a political decision outside our remit. VPN use went up after age gates, but not massively. Australia said 8% of non-compliant children used VPNs. It could grow. Government is considering recommendations. We'll do what we're told."
-        },
-        {
-          "speaker": "Chair",
-          "text": "How much of the £7 million in fines has been collected?"
+          "speaker": "Mark Bunting",
+          "text": "The Act set codes of practice that, if companies follow them, mean they’re legally treated as compliant—this is the 'safe harbour' idea. The trouble is companies can follow the code yet still have risks that aren’t fixed, and then we have less scope to take enforcement."
         },
         {
           "speaker": "Suzanne Cater",
-          "text": "I don't have a figure, but I know we had another payment this week. The majority hasn't been paid. We'll follow up."
+          "text": "From enforcement, big platforms will argue they’ve met the code, even if harms continue. That limits our ability to push them to do more."
         },
         {
-          "speaker": "Oliver Griffiths",
-          "text": "Early fines were on smaller porn sites. As we move to bigger sites with UK assets, this will reduce."
-        },
-        {
-          "speaker": "Baroness Caine of Kentish Town",
-          "text": "Do you have enough resources? Could fines help?"
-        },
-        {
-          "speaker": "Oliver Griffiths",
-          "text": "Culture change is key. International regulation and US litigation will change incentives. CFOs provisioning for damages focuses minds. Data protection is a good analogy. Fines must accompany that. We don't keep fines — they go to the Treasury. We're funded by companies, not the public purse."
-        },
-        {
-          "speaker": "Lord Knight of Weymouth",
-          "text": "On VPNs, the Minister said providers must account for VPN use. Do you agree?"
+          "speaker": "Viscount Colville of Culross",
+          "text": "Would a duty of care—making companies legally responsible for preventing harm—be simpler to enforce?"
         },
         {
           "speaker": "Mark Bunting",
-          "text": "I don't think the Act requires preventing VPN use. We've acted against firms encouraging VPNs. But a ban on VPN access is a bigger debate."
+          "text": "A duty of care is an option, but it needs careful design. Broad duties can be hard to enforce because words like 'reasonable steps' lead to long legal fights about what was reasonable."
         },
         {
-          "speaker": "Lord Knight of Weymouth",
-          "text": "The Meta settlement in the US was eye-catching — $18 billion. Does that change your approach to fines?"
-        },
-        {
-          "speaker": "Oliver Griffiths",
-          "text": "It changes the game by bringing safety to executives' attention. Our penalties are capped at 10% of qualifying worldwide revenue. We have those numbers from the fees regime. We won't be swayed by $18 billion. And we don't keep fines — they go to the Treasury."
-        },
-        {
-          "speaker": "Lord Knight of Weymouth",
-          "text": "The settlement was about system design. Is that instructive?"
+          "speaker": "Baroness Fleet",
+          "text": "On suicide and self‑harm exposure, campaigners say little has changed. Why can’t you force platforms to use automated scanning tech to find and remove that content?"
         },
         {
           "speaker": "Mark Bunting",
-          "text": "Much of it aligns with our framework. But it went further on features like screen time and addictive effects, which the Act didn't cover."
-        },
-        {
-          "speaker": "Lord Knight of Weymouth",
-          "text": "Should it?"
-        },
-        {
-          "speaker": "Mark Bunting",
-          "text": "That's for Government and Parliament."
+          "text": "That’s called 'proactive tech'—scanning uploads before users see them. It’s powerful, but intrusive on privacy and speech. The Act lets us require it only if we can show it meets high standards of accuracy and intrusiveness."
         },
         {
           "speaker": "Oliver Griffiths",
-          "text": "The Government has made commitments on curfews and time limits. The Meta settlement is one company, for 5-10 years, not in perpetuity. I wouldn't be too tough on the Act."
+          "text": "We’re consulting on making more use of proactive tech. We think the case is strong for some harms, but the law makes the bar fairly high because of privacy and freedom‑of‑expression risks."
         },
         {
-          "speaker": "Lord Knight of Weymouth",
-          "text": "Could you apply the settlement's elements across all platforms?"
-        },
-        {
-          "speaker": "Oliver Griffiths",
-          "text": "Our powers are bound by the Act. We called out big companies for not policing minimum age. We don't have power to enforce that, but we encourage them to go further. If they commit in one jurisdiction, we'd like them to commit here."
-        },
-        {
-          "speaker": "Lord Knight of Weymouth",
-          "text": "Would going after recklessness, like health and safety law, be better?"
+          "speaker": "Viscount Colville of Culross",
+          "text": "What about VPNs—kids using virtual private networks to get round age checks? Should the law force platforms to block that?"
         },
         {
           "speaker": "Oliver Griffiths",
-          "text": "We're early days. There are dangers in throwing babies out with bathwater. Targeted interventions could improve it. The UK doesn't have the same civic litigation culture. The principle of putting the duty on companies is good. We're still early."
+          "text": "VPN use rose when age gates were introduced, but not to the extent that the law is being widely evaded. Banning VPNs would be a big political and technical move; it’s not for Ofcom to decide alone."
         }
       ]
     },
     {
-      "title": "What single change would help most",
-      "takeaway": "Each witness named one reform: a duty to mitigate all risks, better business disruption measures, and easier use of proactive technology.",
+      "title": "Practical fixes and final asks",
+      "takeaway": "Ofcom wants targeted legal fixes: more practical business‑disruption powers, clearer duty to tackle assessed risks (a kind of duty of care), and stronger ability to require proactive scanning tech—plus proper funding for new Government measures.",
       "turns": [
         {
-          "speaker": "Lord Tarassenko",
-          "text": "What single change to the Act would make the greatest difference?"
-        },
-        {
-          "speaker": "Mark Bunting",
-          "text": "A duty to address all identified risks, linked to duty of care. It needs careful thought, but it would give us more scope to engage big firms on the totality of their risk management."
-        },
-        {
-          "speaker": "Lord Tarassenko",
-          "text": "Have you looked at Australia's digital duty of care?"
-        },
-        {
-          "speaker": "Mark Bunting",
-          "text": "We'd need to think carefully about how it fits with the existing framework. It's not a quick fix."
-        },
-        {
-          "speaker": "Suzanne Cater",
-          "text": "I'd reform business disruption measures. They're our strongest enforcement tool but have practical challenges. Amendments to make them work better would make a big difference."
+          "speaker": "Baroness Caine of Kentish Town",
+          "text": "If culture change is slow, should you hit firms harder financially so it hurts and forces faster change?"
         },
         {
           "speaker": "Oliver Griffiths",
-          "text": "I'd make it easier to force companies to use proactive technology to control the content served to users. That's a narrow, specific change that would help a lot."
+          "text": "Yes—boardroom incentives matter. Big fines and litigation make safety rise up the executive agenda, like happened with data protection over time. But fines go to the Treasury; they don’t fund Ofcom."
+        },
+        {
+          "speaker": "Lord Knight of Weymouth",
+          "text": "The Meta US settlement focused on system design rather than single posts. Does that suggest the law should tackle system‑level features like how algorithms push content?"
+        },
+        {
+          "speaker": "Mark Bunting",
+          "text": "The settlement covered features like consumption volume and time spent, which the Act didn’t bring in. That’s a policy decision for Government and Parliament, but it’s relevant to harms we care about."
+        },
+        {
+          "speaker": "Lord Tarassenko",
+          "text": "Final quick round: one change each that would most help you?"
+        },
+        {
+          "speaker": "Mark Bunting",
+          "text": "I’d seek a way to make companies more clearly responsible for mitigating all the risks they identify—so we can require follow‑through beyond the codes."
+        },
+        {
+          "speaker": "Suzanne Cater",
+          "text": "Fix business disruption measures so they work in practice against services that withdraw or don’t pay fines—those are our strongest enforcement tools but practical problems stop us using them."
+        },
+        {
+          "speaker": "Oliver Griffiths",
+          "text": "Give us clearer power to require proactive scanning tech for certain harms, so we can stop content reaching users in the first place rather than only reacting afterwards."
         },
         {
           "speaker": "Chair",
-          "text": "Thank you. We've had useful discussions. We'll write to you for more detail on those points."
+          "text": "Thank you—all helpful. Please send the committee the exact fines‑paid figures, more detail on suggested legal tweaks, and anything else that helps Parliament decide on improvements."
+        },
+        {
+          "speaker": "Suzanne Cater",
+          "text": "We will. Thank you for the chance to explain the work and the limits we face."
         }
       ]
     }

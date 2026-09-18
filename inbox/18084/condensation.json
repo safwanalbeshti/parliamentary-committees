@@ -2,14 +2,14 @@
   "schema_version": 1,
   "source_id": 18084,
   "source_sha256": "9261fc8d3bcc5a2b423f2b1aa3a3b85d37507da7fd5c8e0a90c90ca3ac50962c",
-  "title": "New Minister, Same Challenges: Development Priorities Under Scrutiny",
-  "label": "15 September 2026 · Minister Kirsty McNeill's first appearance",
-  "summary": "In her first appearance before the International Development Committee, Minister Kirsty McNeill set out continuity with the previous approach—including the Africa strategy and a bias towards multilateral spending—alongside new emphases on a 'values-led' approach, five 'securities' (health, climate, food, human, economic) and a focus on women, girls and young people. She defended the decision to cut bilateral aid while protecting multilateral spending, argued that ODA is 'the right instrument for some things, not everything', and faced sustained questioning on the 0.7% target, cuts to the World Food Programme, Israel/Palestine policy, Ukraine, Sudan, and FCDO restructuring. Nick Dyer provided operational detail on restructures, ICAI, communities of expertise, and the Chelsea fund.",
+  "title": "Minister outlines direction for UK development: priorities, partnerships and hard choices",
+  "label": "15 September 2026 · Minister for International Development",
+  "summary": "The new Minister for International Development, Kirsty McNeill, and FCDO interim permanent secretary Nick Dyer set out their priorities: keep continuity in the Africa approach and recent allocation decisions, push a values-led focus on women, children and five cross-cutting ‘securities’ (health, climate, food, human and economic), and argue for multilateral engagement while pushing for reform. They defended recent allocation choices, discussed how development will be coordinated across government without a Cabinet seat, explained plans to support local organisations and civil society, and answered questions on urgent crises including Gaza, Ukraine, Sudan and Ebola.",
   "speakers": [
     {
       "label": "Chair",
       "name": "Sarah Champion",
-      "role": "Chair of the Committee",
+      "role": "Chair of the committee",
       "kind": "chair"
     },
     {
@@ -27,548 +27,262 @@
     {
       "label": "Noah Law",
       "name": "Noah Law",
-      "role": "Committee Member",
+      "role": "Member of Parliament and committee member",
       "kind": "member"
     },
     {
       "label": "James Naish",
       "name": "James Naish",
-      "role": "Committee Member",
+      "role": "Member of Parliament and committee member",
       "kind": "member"
     },
     {
       "label": "Janet Daby",
       "name": "Janet Daby",
-      "role": "Committee Member",
+      "role": "Member of Parliament and committee member",
       "kind": "member"
     },
     {
       "label": "Tracy Gilbert",
       "name": "Tracy Gilbert",
-      "role": "Committee Member",
+      "role": "Member of Parliament and committee member",
       "kind": "member"
     },
     {
       "label": "Dr Rushworth",
-      "name": "Dr Sam Rushworth",
-      "role": "Committee Member",
+      "name": "Dr Rushworth",
+      "role": "Member of Parliament and committee member",
       "kind": "member"
     },
     {
       "label": "Monica Harding",
       "name": "Monica Harding",
-      "role": "Committee Member",
+      "role": "Member of Parliament and committee member",
       "kind": "member"
     },
     {
       "label": "Brian Mathew",
       "name": "Brian Mathew",
-      "role": "Committee Member",
+      "role": "Member of Parliament and committee member",
       "kind": "member"
     },
     {
       "label": "David Taylor",
       "name": "David Taylor",
-      "role": "Committee Member",
+      "role": "Member of Parliament and committee member",
       "kind": "member"
     }
   ],
   "chapters": [
     {
-      "title": "Introductions and Continuity",
-      "takeaway": "The new Minister promised continuity on Africa, the four shifts and allocations, but flagged a new focus on values, five 'securities' and children.",
+      "title": "Minister's priorities and style",
+      "takeaway": "The Minister will continue existing strategies but emphasise a values-led agenda focused on five 'securities' and a stronger commitment to women, children and local leadership.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "Welcome, both. Minister, can you introduce yourself and Nick, and outline your vision and priorities for international development?"
+          "text": "Welcome to your first Committee session. Can you introduce yourselves?"
         },
         {
           "speaker": "Kirsty McNeill",
-          "text": "I am Kirsty McNeill, MP for Midlothian and Minister of State for Development and Africa. This is my first time here but it won't be my last. Helping to drive performance through transparency and accountability to you will be incredibly important to me."
+          "text": "I'm Kirsty McNeill, Minister for International Development and for Africa. I'm joined by Nick Dyer, the interim permanent secretary at the FCDO."
+        },
+        {
+          "speaker": "Kirsty McNeill",
+          "text": "My priorities: keep continuity with the previous Africa approach, back the four shifts the Department adopted—donor to investor, service delivery to systems support, grants to expertise, and international to local leadership—and add a values-led push focused on saving and changing lives."
+        },
+        {
+          "speaker": "Kirsty McNeill",
+          "text": "I'm emphasising five 'securities'—health, climate, food, human and economic security—and I want women, girls and young people to be central to everything we do."
+        },
+        {
+          "speaker": "Chair",
+          "text": "So continuity, plus those new emphases. Good. Nick, when will the new permanent secretary start?"
         },
         {
           "speaker": "Nick Dyer",
-          "text": "I am Nick Dyer, one of the two permanent secretaries at the FCDO. I'll remain interim until the new permanent secretary formally starts on 19 October."
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "There will be continuity on the Africa approach and on the four shifts: from donor to investor, service delivery to systems support, grants to expertise, and international interventions to local leadership."
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "Allocations are not up for being reopened. Inside them is a focus on multilaterals and what we can achieve working with others."
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "Three new flavours: first, being unapologetic about a values-led approach—saving and changing lives overseas in our partner countries is the core purpose."
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "Second, the five securities: health, climate, food, human and economic security. The security frame talks about mutual interests of north and south and brings the full capability of the FCDO to bear."
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "Third, renewed focus on who development is for: women and girls—beyond VAWG—and children and young people. I want that in every submission."
+          "text": "She formally starts on 19 October; I'm interim until then and will continue to focus a fair share of time on development."
         }
       ]
     },
     {
-      "title": "The Africa Approach",
-      "takeaway": "The Africa strategy is more honest and transactional, but still human-rights based and country-specific, not one-size-fits-all.",
+      "title": "What the 'Africa approach' means",
+      "takeaway": "The approach is pragmatic: honest government-to-government deals where needed, but also engagement with civil society and local leadership; Minister wants to speak out when governments fail parts of their population.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "I have never been entirely convinced by the Africa approach. It seemed to treat African nations as a homogenous lump. What does it mean to you?"
+          "text": "The previous 'Africa approach' felt very Government-to-Government and a bit generic. How will you steer it?"
         },
         {
           "speaker": "Kirsty McNeill",
-          "text": "Lord Collins did intensive consultations. Across government, private sector and civil society the message was: 'Just be brisk and businesslike. We don't mind transactional, we want deals in our mutual interest.'"
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "Other partners were more straightforward about what they wanted. Colleagues said, 'We don't mind if Britain is like that. Just be straightforward.'"
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "The Africa approach is more honest about the fact that we have foreign policy objectives across the continent as well as development ones."
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "But I come from a human rights-based approach. Brisk with Governments, yes, because they are the duty bearers—but equitable partnership means not taking a vow of silence when we think they are wrong."
+          "text": "That approach came from wide consultations across government, business and civil society in Africa: they want brisk, transactional deals when appropriate and clarity about what Britain wants. I'll keep equitable partnerships with Governments but insist we also call out failings when citizens are harmed."
         },
         {
           "speaker": "Noah Law",
-          "text": "To what extent have we seen success in that transactional, commercial approach?"
+          "text": "Are we seeing success from the more transactional, commercial elements of that approach?"
         },
         {
           "speaker": "Kirsty McNeill",
-          "text": "It's going relatively well. Nigeria and Ghana on growth is different from elsewhere where it's more security and critical minerals. In my bilateral conversations, African Ministers would say each relationship is specific to that country."
+          "text": "Yes. Work with Nigeria and Ghana looks different from security or minerals work elsewhere. African capitals I’ve spoken to say bilateral relations are tailored, not a one-size-fits-all 'continental' policy."
+        },
+        {
+          "speaker": "Chair",
+          "text": "And the most marginalised—how do they get a voice?"
+        },
+        {
+          "speaker": "Kirsty McNeill",
+          "text": "Through localisation—putting power and resources closer to communities—and a human-rights approach. I want development to be for the people directly affected, not only for governments or big organisations."
         }
       ]
     },
     {
-      "title": "Multilaterals vs Bilateral",
-      "takeaway": "The Minister has a strong bias towards scaled impact through multilaterals, but wants reform and better storytelling about results.",
+      "title": "Multilateral vs bilateral, and showing impact",
+      "takeaway": "The Government prefers scaled multilateral work but accepts reform and better public communication about impact; bilateral work shows attributed impact but has been cut to protect multilateral spending.",
       "turns": [
         {
           "speaker": "James Naish",
-          "text": "How do you tie that with backing multilaterals more than bilateral support?"
+          "text": "You favour multilateral scaled impact over bilateral attribution. How will you show concrete results to the public?"
         },
         {
           "speaker": "Kirsty McNeill",
-          "text": "Bilateral is good for attributed impact; multilaterals are good for scaled impact. Personally I have a strong bias towards scaled impact and am willing to trade off quite a lot of national attribution to get results for communities."
-        },
-        {
-          "speaker": "Noah Law",
-          "text": "Our report on the future of aid critiqued how transparent the attributed impact is to the public. Do you think our bilateral institutions are having the attributed impact you describe?"
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "The bias towards multilateralism is not uncritical. Three challenges: effectiveness—not uniformly delivered; representation—southern voice not where it should be; and transparency. The Foreign Secretary becoming World Bank governor was to drive that reform."
+          "text": "I bias towards scaled multilateral impact but am critical where multilaterals need reform on effectiveness and representation. We must tell clear impact stories—what our money actually did—rather than just how much we gave."
         },
         {
           "speaker": "Nick Dyer",
-          "text": "People accept our Gavi contribution because we can say it will immunise 109 million children. We don't do that enough with the World Bank. We talk about £1.98 billion—but we should talk about the 300 million people getting energy access and 80 million children educated. We talk too much about the money we put in."
+          "text": "Example: for Gavi we can say the UK's contribution helps immunise 109 million children. We should give that kind of tangible narrative about World Bank and others too."
         },
         {
           "speaker": "Noah Law",
-          "text": "Do we do that well enough for bilateral programming? Transparency around impact is often lacking."
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "We track programmes and can tell the stories. Ministers challenge us to lead with impact stories, not money commitments. We have to get much better at it."
+          "text": "But is transparency around bilateral impact good enough?"
         },
         {
           "speaker": "Kirsty McNeill",
-          "text": "Honestly, we just haven't had the level of ministerial confidence in telling the story about why aid works. I'm happy to be out there in the argument—there will be scepticism, but we should take it head on."
+          "text": "We haven’t always told the story confidently. I’ll be proactive about explaining what aid achieves and welcome this Committee's scrutiny."
+        },
+        {
+          "speaker": "Dr Rushworth",
+          "text": "Bilateral cuts hit development delivery—what's the likely diplomatic impact?"
+        },
+        {
+          "speaker": "Kirsty McNeill",
+          "text": "Early conversations suggest African partners want a wider relationship—security, trade, investment—not just aid. Our imputed multilateral spend helps keep the Africa proportion steady, but ODA isn't the only way to show commitment."
         }
       ]
     },
     {
-      "title": "Cabinet Seat and Cross-Government Working",
-      "takeaway": "The Minister is relaxed about not being in Cabinet, focusing instead on a reconstituted ODA board to drive policy coherence across Government.",
+      "title": "Government coordination, Cabinet access and EU/US relations",
+      "takeaway": "Although the Minister isn't in Cabinet, she plans a strong cross-government approach and will use the Foreign Secretary and new forums to press development priorities; relations with EU and US development counterparts are being rebuilt.",
       "turns": [
         {
           "speaker": "Janet Daby",
-          "text": "Baroness Chapman had a Cabinet seat. How can you carry out your role effectively without attending Cabinet?"
+          "text": "You aren't in Cabinet. Can you still get traction across government?"
         },
         {
           "speaker": "Kirsty McNeill",
-          "text": "I'm profoundly relaxed about that—I'm not motivated by the status. If a Cabinet seat is a mechanism for cross-Government conversations, as long as that can be secured another way, I'm relaxed."
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "We're looking at reconstituting the cross-Government ODA board so it still does the accounting function but operates much more as a policy-coherence-for-development board. Hold me to account on whether we deliver that."
-        },
-        {
-          "speaker": "Janet Daby",
-          "text": "In Cabinet you can speak directly to Secretaries of State and things move faster. How do you navigate those conversations?"
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "The Foreign Secretary sees development and climate as right at the heart of British foreign policy, not an adjunct. He'll be making the case in every Cabinet meeting and giving me licence to roam Whitehall."
-        }
-      ]
-    },
-    {
-      "title": "Europe, US and Trade",
-      "takeaway": "The UK is re-engaging with EU development partners for the first time since Brexit, while working around the US aid cuts through agile alliances.",
-      "turns": [
-        {
-          "speaker": "James Naish",
-          "text": "How are discussions with European allies progressing on development?"
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "Breaking news: I've been invited to the EU Development Ministers' meeting—the first time a British Development Minister has been invited since Brexit. I'll go in early October."
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "Last month I had the first development and humanitarian dialogue with the European Commission since Brexit. The first in 10 years. The relationship has been reset at official and ministerial levels."
+          "text": "Yes. A cross-Government ODA board can do the accounting and policy coherence work. The Foreign Secretary, who chairs Cabinet, is committed to development and will push it in Cabinet—I'm comfortable and will hold Whitehall to account."
         },
         {
           "speaker": "James Naish",
-          "text": "What technical work is being done to align with EU partners?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "We've identified two or three themes where working teams are coming together. The European Commission is going into its next financial perspectives next year, so there'll be a reset in how it interprets development policy."
+          "text": "Where are relations with the EU and US on development?"
         },
         {
           "speaker": "Kirsty McNeill",
-          "text": "I'd welcome your scrutiny on how we use our embassies in European capitals to talk about development. One benefit of having the Development Minister in the FCDO is the ability to pull on the whole network."
-        },
-        {
-          "speaker": "Monica Harding",
-          "text": "What conversations are you having with the US about their position on international development? USAID cuts were massive."
+          "text": "Good news: I've been invited to the EU Development Ministers' meeting—the first UK invite since Brexit—and Nick has restarted an official-level development dialogue with the European Commission."
         },
         {
           "speaker": "Nick Dyer",
-          "text": "We have dialogues on the Hill and through the G20 with the US Treasury. On development it's harder—many established entry points have disappeared. The key US official responsible for development was just moved. We look for entry points, and the G7 Development Ministers' meeting will include the current US counterpart."
-        },
-        {
-          "speaker": "Monica Harding",
-          "text": "State governors are interested in global health. Is that a partnership you might have?"
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "I can't say whether we are, but agile alliances mean we'd like to speak to all sorts of levels of government. Nick, do you have anything to add?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "At state level we've engaged on climate in the past. Whether on health, I'd have to check with the Department of Health."
+          "text": "On the US, channels shifted after their changes; we keep engaging through Hill contacts, G7 and G20 and look for entry points to align on development finance and humanitarian efforts."
         }
       ]
     },
     {
-      "title": "Public Communication and Civil Society",
-      "takeaway": "The real public scepticism is about whether aid works, not about moral purpose—so the Minister wants to make the effectiveness case and engage civil society on substance, not set-piece meetings.",
+      "title": "Delivery, localisation, NGOs and staff capacity",
+      "takeaway": "The FCDO plans to make tendering and programme rules easier for small local organisations, build 'communities of expertise' to give technical advice, protect staff morale during restructures, and be more purposeful about convening civil society and listening to people on the ground.",
       "turns": [
         {
-          "speaker": "Brian Mathew",
-          "text": "You've talked about the five securities, but WASH runs through every one. Our report raised concerns about Government engagement with the public on aid. What will your approach be?"
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "You're right to pick up on the relationship between food, water and energy security. I folded water and energy alongside food conceptually. I hope you forgive me for not calling them out directly."
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "On public communication: I've never met someone who says they don't care at all about people dying overseas. The scepticism is: 'Does this work? If it works and we can afford it, we should do more.' It's about effectiveness, not moral purpose."
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "You're right about water—25% of people don't have safely managed water. We shifted from direct service delivery to improving systems and leveraging finance. The Water Forward initiative aims for another 1 billion people to gain access, with the World Bank contributing 400 million."
-        },
-        {
           "speaker": "Dr Rushworth",
-          "text": "Bilateral aid has taken the big hit from protecting multilateral spend. What's the likely impact on bilateral relationships?"
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "Our proportion to Africa will be pretty steady because of imputed multilateral spend. But African capitals don't want the conversation to be about aid. I'm clear to African Ministers that I'm not the aid Minister."
-        },
-        {
-          "speaker": "Dr Rushworth",
-          "text": "Often a pound can be spent more effectively at grassroots, yet FCDO tendering excludes smaller charities. What are you doing?"
+          "text": "Smaller local groups are often shut out by FCDO rules. How will you fix procurement to get money to grassroots?"
         },
         {
           "speaker": "Nick Dyer",
-          "text": "We recognise that major reporting requirements make small organisations fall over. We're looking at making programme requirements more proportionate and doing due diligence once. For too long we've squeezed out small organisations just because of the way we do business."
-        },
-        {
-          "speaker": "Dr Rushworth",
-          "text": "How do you plan to engage with UK INGOs as intermediaries?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "We have a 10-year programme with Comic Relief looking at building local organisations. We have examples of engaging directly with local organisations rather than through third parties. This is a big question if you want to drive funding through local organisations—USAID tried and didn't fully succeed."
+          "text": "We're rethinking due diligence and reporting so requirements are proportionate to organisation size—one-off checks, simpler tendering, and drawing more on local partners instead of forcing small groups into onerous processes."
         },
         {
           "speaker": "Kirsty McNeill",
-          "text": "My approach to civil society is about real things—substantive conversations about where we agree, disagree, and what we can do together. I'm not in the business of set-piece, choreographed, lowest-common-denominator meetings."
+          "text": "I want substantive, expert engagement with civil society and to hear directly from women, children and young people on my country visits. Local voices must shape programs, not just London-based NGOs."
         },
         {
           "speaker": "Chair",
-          "text": "I hope you'd go further and talk to the actual individuals living the issue—like a fisherwoman who knows the solution. Do you have appetite to go more granular?"
+          "text": "How will you protect and stabilise the FCDO workforce after years of change?"
         },
         {
           "speaker": "Kirsty McNeill",
-          "text": "Forgive me—I was talking about UK civil society. I've asked that time with children and young people and women be programmed into each visit. In Ethiopia I visited a one-stop shop for survivors of sexual violence and met women on social protection who got business mentoring. Those experiences will stay with me."
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "Thirty years ago at ODA I co-designed projects with communities. As we scaled up to 0.7% we became a wholesaler, not a retailer. We don't have the resources to run projects directly. Micro-projects would need a lot of people on the ground—very expensive."
-        }
-      ]
-    },
-    {
-      "title": "Restructuring, ICAI and Communities of Expertise",
-      "takeaway": "The FCDO restructure is proceeding in phases; the Minister is confident ICAI can still scrutinise despite cuts, and communities of expertise are still being worked through.",
-      "turns": [
-        {
-          "speaker": "Chair",
-          "text": "What steps have you taken to ensure you have the skills in the team to deliver your vision?"
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "Colleagues have two questions: capability—I'm as satisfied as one can reasonably be that we've retained what we need; and culture—whether development is still valued. The new permanent secretary comes from a DFID background, and the Foreign Secretary has been clear about the priority he puts on development."
-        },
-        {
-          "speaker": "Chair",
-          "text": "How are you giving them stability after six years of turbulence?"
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "I've been explicit about telegraphing back what we're doing in my trips. Our colleagues toil in unbelievably difficult circumstances. I was humbled by the psychological resilience and physical courage required to operate in Mogadishu. Morale is partly my job."
-        },
-        {
-          "speaker": "Chair",
-          "text": "The London restructure is managed centrally but posts manage their own. How is the pipeline of skills being linked?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "The UK restructuring has been in advance of overseas. We launched the new structure last Monday. The overseas network is a second phase—we haven't finalised decisions. We need to ask whether we have the capability to deliver the shifts and whether it makes sense for a rotational workforce. Over 10 years, UK-based staff grew 40%, overseas didn't grow at all. That will balance better."
-        },
-        {
-          "speaker": "Chair",
-          "text": "What reassurance for East Kilbride staff?"
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "I'm going to be there at least once a quarter, hopefully more—I live in Scotland. I wanted to get there quickly to reassure them face to face that we're completely committed to them."
-        },
-        {
-          "speaker": "Chair",
-          "text": "ICAI got a 40% cut while King Charles Street got 25%. Can it still fulfil its legally mandated role?"
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "I believe it can. I met the chief commissioner last week. I differentiate between its legally mandated role and the wider transparency agenda. It won't be the only driver of our transparency and performance—I'm committed to scrutiny from as many sources as possible."
-        },
-        {
-          "speaker": "Chair",
-          "text": "Where are communities of expertise at? Each time we ask, the title changes."
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "This is about the shift from service delivery to system support—making world-class expertise available to countries on demand. It will take two to three years to build. We have nine communities of expertise, and some have been in existence for some time."
-        },
-        {
-          "speaker": "Chair",
-          "text": "Is it like a living library, research centre and signposting?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "There's not one standard model. We're struggling with whether to bring one brand and consistent approach to all of this. I wouldn't sit here saying it's all perfect. We know what we're doing, but bringing it into effect is tricky."
-        },
-        {
-          "speaker": "Chair",
-          "text": "What about the money—does the centre decide where it goes, or do posts?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "It's a mixed model. Some posts have their own resources; others rely on the centre. In one early model we gave money to countries, but a lot didn't want the transaction costs—they'd rather it was centralised and drawn down quickly."
-        }
-      ]
-    },
-    {
-      "title": "Ukraine, Chelsea Fund and Israel/Palestine",
-      "takeaway": "The Minister defended the Ukraine allocation, said the Chelsea fund proceeds must be released urgently, and argued the Israel policy shift keeps the two-state solution alive.",
-      "turns": [
-        {
-          "speaker": "James Naish",
-          "text": "How do you see the UK's ODA commitment to Ukraine evolving?"
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "I'm proud of it. It's a big allocation from a shrinking pot, so I dug into it with colleagues in Kyiv. The three-year allocation is about £240 million a year and will stay at that sort of level."
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "The really big sums are the $5 billion of guarantees for fiscal support. If you can't fund the fiscal side of the Government, that's war-losing. On the humanitarian side, the need is just as high as it has been. The war is still going on, so I expect that to continue."
-        },
-        {
-          "speaker": "Monica Harding",
-          "text": "What's the current position on releasing the Chelsea fund proceeds?"
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "We are 100% clear that the proceeds urgently need to be released. Mr Abramovich committed over four years ago. We created the OFSI licence in December. There cannot be further delays—we're urgently exploring further action, including preparing for a possible legal case."
-        },
-        {
-          "speaker": "David Taylor",
-          "text": "Many groups donate convoys of supplies to Ukraine. Joint work between FCDO and MOD would help with paperwork and delays. Could we pick that up again?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "We'll take that away and come back to you."
+          "text": "I’m visiting posts often, stressing continuity, and making staff feel valued publicly. We've kept crucial development capability and are rebuilding confidence with a new permanent secretary from a DFID background."
         },
         {
           "speaker": "Brian Mathew",
-          "text": "The Foreign Office shut the unit tracking potential law breaches by Israel—the IHL cell—and funding to the Centre for Information Resilience. How will you effect change if you're blind to what's going on?"
+          "text": "On water and WASH: are you prioritising it within food, climate and health?"
         },
         {
           "speaker": "Nick Dyer",
-          "text": "The IHL cell hasn't disappeared; the 21 staff are now working in the export control unit. The work continues. On the Centre for Information Resilience, we still have access to its reports, and we rely on open-source information, NGO reports and feedback on the ground."
-        },
-        {
-          "speaker": "Chair",
-          "text": "Do we have access to the historical data already collated?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "We certainly have access to the data already collated. I'll check on the other data and come back to you."
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "The Foreign Secretary has been clear about the significance of the policy change on settlements and the legality of the occupation. What remains unchanged is our humanitarian commitment to the Palestinian people. This change is to keep the prospect of a two-state solution alive."
-        },
-        {
-          "speaker": "Chair",
-          "text": "It's disappointing to hear it called a policy change. The ICJ ruling was two years ago. Our international credibility has been dented because we didn't follow the clear rules of law."
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "I wouldn't characterise it as a surprise to the Department. It's a significant shift in UK policy. You'll hear a lot more from the Foreign Secretary on this."
-        },
-        {
-          "speaker": "James Naish",
-          "text": "1.4 million people in Gaza face acute food insecurity, yet the UK cut funding to the World Food Programme by 78% since 2024. Why does that make sense?"
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "The interim executive director of WFP impressed on me that we face choices that are the stuff of nightmares—responding to emergencies versus investing in long-term resilience. I'd welcome your challenge on whether we're getting the balance right."
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "The issue in Gaza is not money; it is access. Averting famine cannot be a measure of success. We know why dual-use goods aren't getting in—it's the actions of the Israeli Government. We need more crossing points and Israel to live up to its commitments."
+          "text": "Yes—water is central. We shifted from direct delivery to system-level work and are leveraging MDBs like the World Bank, which has stepped up with large water commitments."
         }
       ]
     },
     {
-      "title": "Sudan, Ebola and Rapid Fire",
-      "takeaway": "The Minister promised more on Sudan, defended the Ebola response, and said women and girls remain central while children may get an explicit priority.",
+      "title": "Crisis responses: Gaza, Israel policy, Ukraine, Sudan and Ebola",
+      "takeaway": "The Minister defended recent policy shifts—stronger stance on settlements and continued humanitarian support—affirmed Ukraine and Sudan commitments, stressed access is the limiting factor in Gaza, and confirmed stepped-up Ebola support.",
       "turns": [
         {
-          "speaker": "Monica Harding",
-          "text": "Will there be a shift in how the Government approaches Sudan?"
+          "speaker": "Chair",
+          "text": "You announced a policy shift on Israel and settlements. How does that change FCDO action?"
         },
         {
           "speaker": "Kirsty McNeill",
-          "text": "Expect to hear more from us on Sudan in coming weeks and months. Both I and the Foreign Secretary have sought briefings from day one. We're going to strain every diplomatic sinew to get an enduring settlement."
-        },
-        {
-          "speaker": "James Naish",
-          "text": "How is the UK supporting efforts to contain Ebola?"
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "I announced extra funding two weeks ago. Africa CDC and the African Union said British money is fast and wise. We're disbursing fast while other donors haven't moved as quickly."
-        },
-        {
-          "speaker": "James Naish",
-          "text": "How is the vaccination programme developing?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "The first trial, including Oxford, has started. This is now the second largest Ebola outbreak ever. We've been playing catch-up. This is a marathon, not a sprint—it will go on for two years."
+          "text": "It’s a significant shift in line with international law concerns: we’ll press for adherence to law while continuing humanitarian support for Palestinians and keeping alive a two-state path so a Palestinian duty-bearer can emerge."
         },
         {
           "speaker": "Brian Mathew",
-          "text": "What priority are you placing on strengthening food systems and addressing malnutrition?"
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "A huge priority. Food security is the thing that keeps me awake most at night. Organisationally, food currently sits in humanitarian, but it needs to sit alongside climate, health, economic and human security. It's so cross-cutting."
-        },
-        {
-          "speaker": "Tracy Gilbert",
-          "text": "When will the National Action Plan on women, peace and security be published, and the monitoring framework?"
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "I can't give a date, but the fact that it's a refresh is a sign of how highly we prize it. We want to crack on and scale it rather than restarting. I'll get back to you."
-        },
-        {
-          "speaker": "Tracy Gilbert",
-          "text": "Will the FCDO collate data on how projects engage women and girls, people with disabilities, LGBT communities and other minorities?"
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "Yes, human rights and equalities will be ongoing. Minister Elmore leads on that. I give a very public undertaking: women and girls is central to everything. VAWG is the floor, not the ceiling. Hold me to account."
-        },
-        {
-          "speaker": "Dr Rushworth",
-          "text": "UNICEF found bilateral aid for child-focused programmes cut by 57% from 2019 to 2023. Will you make children an explicit priority of Government?"
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "I've received persuasive representations on mechanisms—like a special envoy for children. I won't pre-empt where we land, but I want to underscore my ambition. I'm taking advice on how to put children and young people at the heart. Maybe next time I can commit on the mechanism."
+          "text": "Some work tracking possible law breaches was reorganised—has that intelligence capability been lost?"
         },
         {
           "speaker": "Nick Dyer",
-          "text": "I don't actually recognise that number."
+          "text": "No. The International Humanitarian Law unit moved back into the export control unit; the staff remain and we still use open-source, NGO and other sources including the Centre for Information Resilience."
         },
         {
-          "speaker": "Chair",
-          "text": "On UN80, the Secretary-General proposed merging UN Women and UNFPA. What's your view?"
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "Minister Elmore holds the decision. We don't want to see the mandate of either organisation reopened—we stand four-square behind them. But we also think it's a progressive imperative to make the UN slimmer. We're balancing those. Minister Elmore will come back to you."
-        },
-        {
-          "speaker": "Noah Law",
-          "text": "Have the FCDO's strategic priorities on climate and nature changed under new leadership?"
+          "speaker": "James Naish",
+          "text": "Gaza faces acute hunger, yet UK funding to WFP fell sharply—how do you justify that?"
         },
         {
           "speaker": "Kirsty McNeill",
-          "text": "Substantively, no, but the level of primacy this agenda has in all our diplomacy has rocketed up."
-        },
-        {
-          "speaker": "Noah Law",
-          "text": "How will you deliver the UK's international climate finance commitments effectively?"
-        },
-        {
-          "speaker": "Kirsty McNeill",
-          "text": "It will be a huge feature of upcoming multilateral settings. The Foreign Secretary and I have a discussion tabled on financing tomorrow. He's happy to spend significant international political capital on it."
+          "text": "Our humanitarian commitment stands. That said, donors face awful choices between emergency relief and long-term resilience. Nick and I want the Committee’s challenge on whether we have the right balance."
         },
         {
           "speaker": "Nick Dyer",
-          "text": "We'll be tracking that £6 billion commitment over the next three years."
+          "text": "In Gaza the primary constraint is access, not just money. More crossing points and fewer restrictions on dual-use goods are needed to get food and rescue supplies in."
         },
         {
-          "speaker": "Noah Law",
-          "text": "What reforms of the multilaterals are you looking at to increase climate finance flows?"
+          "speaker": "James Naish",
+          "text": "What about Ukraine?"
         },
         {
           "speaker": "Kirsty McNeill",
-          "text": "We'll want to come back to you on that—it's going to be a huge part of our G20 agenda. Perhaps a chunky session on it."
+          "text": "We remain proud of our support: steady allocations are focused on humanitarian help, reconstruction planning and fiscal support—guarantees are critical to keep Ukraine functioning financially."
         },
         {
-          "speaker": "Chair",
-          "text": "We'll be publishing our report on international climate finance on Thursday. We hope it's a practical tool. Thank you both for being so generous with your time. We hope this is a regular occurrence."
+          "speaker": "Monica Harding",
+          "text": "Has the Chelsea/Roman Abramovich fund money been released?"
+        },
+        {
+          "speaker": "Kirsty McNeill",
+          "text": "We want those proceeds released urgently to help Ukraine. We created a licence to enable it and are exploring legal options if needed; we won’t delay getting the money to vulnerable people."
+        },
+        {
+          "speaker": "James Naish",
+          "text": "Ebola—what's the UK doing?"
+        },
+        {
+          "speaker": "Kirsty McNeill",
+          "text": "We announced extra funding, moved fast and coordinated with Africa CDC and AU; our money is being disbursed quickly into surveillance, response and vaccine trials where possible."
         }
       ]
     }

@@ -11,7 +11,7 @@ window.COMMITTEE_SESSIONS.push({
   "date": "9 September 2026",
   "sourceUrl": "https://committees.parliament.uk/oralevidence/18079/html/",
   "sourceLabel": "Official published transcript",
-  "summary": "The Environmental Audit Committee questioned Emma Pinchbeck and Dr Eoin Devane of the Climate Change Committee on the UK's progress in cutting emissions. The session covered delays in advising on Heathrow expansion, the demand for faster electrification, the role of electric vehicles and heat pumps, grid capacity, industrial decarbonisation, and land use and agriculture. The main conclusion was that while some sectors are doing well, the Government's plans risk missing the 2030 international commitment and rely too heavily on risky technologies like carbon capture and removals.",
+  "summary": "The Climate Change Committee (the CCC), an independent body that advises Parliament and audits progress on UK climate law, told MPs that the UK has made real progress on renewables and electric vehicles but faces risks on heat, industry, the grid, aviation and reliance on large-scale removals. The CCC defended a delayed publication of advice on Heathrow because of limited staff and busy statutory timetables, warned Ministers to speed up electrification and grid upgrades, urged cheaper electricity and clearer delivery plans for carbon removals and hydrogen, and flagged land-use and datacentre growth as emerging risks.",
   "room": {
     "image": "Energy Resilience/committee_room_4.png",
     "width": 2788,
@@ -62,7 +62,7 @@ window.COMMITTEE_SESSIONS.push({
   "cast": {
     "Chair": {
       "name": "Barry Gardiner",
-      "role": "Chair of the committee (standing in for Toby Perkins)",
+      "role": "Chair of the committee",
       "description": "",
       "kind": "chair",
       "seats": [
@@ -73,7 +73,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Emma Pinchbeck": {
       "name": "Emma Pinchbeck",
-      "role": "Chief Executive Officer, Climate Change Committee",
+      "role": "Chief Executive Officer, Climate Change Committee (independent adviser to Government and Parliament on UK climate law)",
       "description": "",
       "kind": "witness",
       "seats": [
@@ -95,7 +95,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Dr Roz Savage": {
       "name": "Dr Roz Savage",
-      "role": "Committee Member",
+      "role": "Member of the Environmental Audit Committee",
       "description": "",
       "kind": "member",
       "seats": [
@@ -106,7 +106,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Sojan Joseph": {
       "name": "Sojan Joseph",
-      "role": "Committee Member",
+      "role": "Member of the Environmental Audit Committee",
       "description": "",
       "kind": "member",
       "seats": [
@@ -117,7 +117,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Adrian Ramsay": {
       "name": "Adrian Ramsay",
-      "role": "Committee Member",
+      "role": "Member of the Environmental Audit Committee",
       "description": "",
       "kind": "member",
       "seats": [
@@ -128,7 +128,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Chris Hinchliff": {
       "name": "Chris Hinchliff",
-      "role": "Committee Member",
+      "role": "Member of the Environmental Audit Committee",
       "description": "",
       "kind": "member",
       "seats": [
@@ -139,7 +139,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Sammy Wilson": {
       "name": "Sammy Wilson",
-      "role": "Committee Member",
+      "role": "Member of the Environmental Audit Committee",
       "description": "",
       "kind": "member",
       "seats": [
@@ -150,7 +150,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Martin Rhodes": {
       "name": "Martin Rhodes",
-      "role": "Committee Member",
+      "role": "Member of the Environmental Audit Committee",
       "description": "",
       "kind": "member",
       "seats": [
@@ -161,7 +161,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Sarah Gibson": {
       "name": "Sarah Gibson",
-      "role": "Committee Member",
+      "role": "Member of the Environmental Audit Committee",
       "description": "",
       "kind": "member",
       "seats": [
@@ -172,7 +172,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Manuela Perteghella": {
       "name": "Manuela Perteghella",
-      "role": "Committee Member",
+      "role": "Member of the Environmental Audit Committee",
       "description": "",
       "kind": "member",
       "seats": [
@@ -183,7 +183,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Julia Buckley": {
       "name": "Julia Buckley",
-      "role": "Committee Member",
+      "role": "Member of the Environmental Audit Committee",
       "description": "",
       "kind": "member",
       "seats": [
@@ -194,7 +194,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Jonathan Davies": {
       "name": "Jonathan Davies",
-      "role": "Committee Member",
+      "role": "Member of the Environmental Audit Committee",
       "description": "",
       "kind": "member",
       "seats": [
@@ -205,7 +205,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "John Whitby": {
       "name": "John Whitby",
-      "role": "Committee Member",
+      "role": "Member of the Environmental Audit Committee",
       "description": "",
       "kind": "member",
       "seats": [
@@ -215,6 +215,6 @@ window.COMMITTEE_SESSIONS.push({
       "soft": "#f5e8c4"
     }
   },
-  "transcript": "# Progress on climate change mitigation\n\n## Heathrow Advice Delay\n> The CCC is late publishing its advice on Heathrow expansion, blaming limited resources and wanting to avoid party conference season.\n\nChair: Emma, your committee was asked last November for views on the airports national policy statement and Heathrow. Why did it take over six months to reply, and why won't the advice be published until after the consultation closes?\nEmma Pinchbeck: We're a small body and we had a new chair and statutory adaptation advice to publish. We're independent, so it's not our job to shape the consultation, but we did have working-level talks with officials. We'll publish in a couple of weeks.\nChair: But the public and Parliament won't see your views before the consultation closes. That undermines your role as the independent adviser to Parliament. How will you help us scrutinise the final policy before Parliament votes?\nEmma Pinchbeck: We'll provide the draft advice on publication and then be available to parliamentarians in formal sessions or informally. We're not planning extra modelling beyond that.\nDr Devane: Our advice next week will assess the draft and recommend changes. We don't have a statutory role on national policy statements; we were commissioned specifically for this.\nChair: I worry resource constraints are hampering your statutory role. Perhaps the Chair should write to the Department or Treasury about this.\n\n\n## Good News and Key Messages\n> The CCC highlights positive trends like EV uptake and renewables, but urges the new government to speed up electrification and make electricity cheaper.\n\nDr Roz Savage: With a new Prime Minister and new Secretaries of State, what are your key messages for staying on track with climate targets?\nEmma Pinchbeck: Good news first: EVs are booming—a quarter of new car sales are electric. Renewables hit records, and peatland restoration is up 24%. Emissions have halved since 2008. Households with an EV, heat pump, solar and a smart tariff save around £1,200 a year compared to fossil fuels. But we need more electrification. The government's plan risks missing the 2030 international commitment if they don't speed up.\nDr Roz Savage: What about nature and DEFRA?\nEmma Pinchbeck: Tree planting rates have fallen by 25%, largely due to a Scottish policy change. We need a big increase. But the land use framework and sustainable farming roadmap are positive steps.\n\n\n## Cutting Electricity Prices\n> The gap between electricity and gas prices remains too wide, and the VAT cut alone isn't enough to drive electrification.\n\nSojan Joseph: The PM cut VAT on electricity. What impact will that have?\nEmma Pinchbeck: It'll help a bit—Ofgem says bills would have been £45 higher without it. But the ratio of electricity to gas prices is still around 3.3 to 1. We need it below 3 to make efficient technologies pay off. Removing remaining levies would bring it to about 3 to 1. It's a start, but not enough.\nSojan Joseph: What about new North Sea drilling?\nEmma Pinchbeck: North Sea emissions aren't fully in our carbon budgets. Reserves are in steep decline anyway—production is expected to fall 93% by 2050. The basin needs a transition plan for jobs. The fastest way to cut bills is to electrify and reduce gas demand, not increase supply. Faster electrification could save £8 billion.\n\n\n## Technology vs Behaviour Change\n> The government's pathway relies more on technology and removals, which carries risks and needs better monitoring and contingency plans.\n\nAdrian Ramsay: The government's plan relies more on technology and less on behaviour change. What risks does that create?\nEmma Pinchbeck: About a third of their pathway involves household choices, but they go slower on EVs and heat pumps and predict higher aviation demand. They rely on removals for 17% of emissions cuts between 2031 and 2037. That's not unreasonable, but they need clear pathways, monitoring, and contingency plans if tech doesn't deliver.\nAdrian Ramsay: Do they adequately consider that delaying investment increases long-term costs?\nEmma Pinchbeck: No. If you can access these technologies today, you save money. Delaying prevents households from saving. Even with slower rollout, we found every £1 spent on net zero returns £2 to £4 in benefits. Going faster is better.\n\n\n## Datacentres and Grid Pressure\n> Massive datacentre demand could strain the grid, and on-site fossil fuel generation poses a risk to carbon budgets.\n\nChris Hinchliff: Datacentres are demanding huge amounts of electricity—some 80 GW of connections. Are you worried about crowding out renewable power for others?\nEmma Pinchbeck: We included National Grid's top estimate for datacentre demand in our modelling, plus headroom. So we've advised on an energy system of the right dimensions. But there are policy questions about where to locate them and how to bring them on. It's early days; we're keeping it under review.\nChris Hinchliff: Many datacentres are building on-site fossil fuel generation. Two planned sites could exceed ExxonMobil's UK emissions. Isn't that a huge risk to carbon budgets?\nEmma Pinchbeck: If significant fossil fuel build-out shows up in our inventory, we'll look at it for the eighth carbon budget. But decisions about planning and industrial strategy are for government. We'll hold them to account on emissions.\n\n\n## Electric Vehicles and Costs\n> The ZEV mandate is working but could be improved; weakening it would undermine the 2030 commitment and consumer savings.\n\nMartin Rhodes: If the ZEV mandate were weakened, would that undermine progress?\nDr Devane: Yes, seriously. EV transition is the biggest emissions reduction measure in the government's plan—about a fifth of cuts to 2030. Weakening it would make the 2030 NDC nearly impossible and send a troubling message. The mandate could be improved to stop over-rewarding plug-in hybrids, but it's working. Manufacturers met targets in 2024 and 2025.\nSammy Wilson: But the mandate is costing manufacturers billions in discounts and hurting the industry. How long can we sustain this?\nDr Devane: Manufacturers discount all cars, not just EVs. Competition is good for consumers. The EU also has EV targets, and over three-quarters of UK-made cars are exported. We need to produce EVs to compete.\nSammy Wilson: With vehicle excise duty on EVs, will they still be attractive?\nDr Devane: Yes. EVs are so much more efficient that even with a like-for-like fuel duty, you'd save on running costs. The proposed eVED is less than half the per-mile fuel duty, so savings remain.\n\n\n## Heat Pumps and Homes\n> Heat pump rollout is lagging, and the Warm Homes Plan needs longer-term funding and consumer protections to succeed.\n\nSarah Gibson: How can we ensure the Warm Homes Plan avoids botched installations and delivers for low-income homes?\nDr Devane: We need about 37% annual growth in heat pump installations, but last year growth was only 7%, down from 56%. The fall was driven by low-income installations through ECO. We're concerned about the lack of clarity on future funding. We need proper certification, consumer protections, and a simpler journey.\nSarah Gibson: Air-to-air heat pumps are cheaper. Should the government promote them more?\nDr Devane: Yes, they can also provide cooling. But there are no certified installers under the MCS for the grant yet—that needs to change soon. Once it does, people can get £2,500 grants, plus low-income support.\nSarah Gibson: What about making people aware of the lower costs?\nDr Devane: Public information campaigns are good. A third of householders are open to heat pumps, but only 2% have one. Friends and family are the best advisers, so more installations will build confidence.\n\n\n## Industry, Aviation, and Land Use\n> Industrial electricity prices remain high, SAF scale-up is slow, and land use policies need long-term funding to cut emissions.\n\nManuela Perteghella: UK industrial electricity prices are high. Is more action needed?\nEmma Pinchbeck: Yes. Supercharger discounts bring the ratio down to 2:1 for 500 companies, but others only get 3.1:1. We need more action and support for up-front capital costs. Scrapping the industrial transformation scheme was a mistake. We need a long-term industrial strategy.\nJulia Buckley: SAF is only 2.5% of aviation fuel. What should the government do to scale up?\nDr Devane: We need to stick to the mandate targets and set out a clear diversification strategy in the jet zero update. The SAF revenue certainty mechanism is positive; bringing it forward would help.\nJonathan Davies: Land use emissions have barely fallen. How can the frameworks help?\nEmma Pinchbeck: The land use framework and farming roadmap are good steps, with funding to 2030. But we need sustained incentives for tree planting and peatland restoration. Tree planting needs to more than double by 2030. Funding certainty beyond 2030 is missing.\n",
+  "transcript": "# Progress on climate change mitigation\n\n## Role, delayed advice and resourcing\n> The CCC says it must sometimes delay non-statutory advice because it is small and has heavy statutory duties, but MPs worried that delayed publication reduced Parliament’s chance to see independent views before consultations closed.\n\nChair: Emma, please remind us what the Climate Change Committee does.\nEmma Pinchbeck: We’re the CCC — an independent adviser and auditor to Parliament and the devolved Governments on the UK Climate Change Act, carbon budgets, and adaptation. Our job is to check Government progress and give independent advice.\nChair: You were asked by the Transport Secretary for advice on the airports policy statement last November but your chair replied only in June and publication was timed after the consultation closed — why?\nEmma Pinchbeck: We had to fit extra work into a year with big statutory deadlines (our required climate risk and progress reports). We’re a small body, so timing and staff limits meant we couldn’t publish earlier in the consultation window.\nChair: But that means Parliament and the public couldn’t see your independent view before the consultation closed. Isn’t that undermining your role to help Parliament hold Government to account?\nEmma Pinchbeck: I appreciate the concern. We tried to move the timetable, and we’ll give MPs briefings and appear before the Transport Committee. Legally some statutory advice can’t be shared until it’s final, and we’re restricted by capacity.\nChair: Should Parliament ask for better resourcing so you can respond faster?\nEmma Pinchbeck: We said we have resource limits. If the Committee wishes, the Chair can write to departments about ensuring the CCC has the capacity to deliver timely independent advice.\n\n\n## Headline progress and the priority: electrify faster\n> The UK has strong wins — renewables and EV take-up — but to meet targets the CCC says ministers should speed up electrification and make electricity cheaper so households and businesses save money by switching.\n\nDr Roz Savage: What would you tell the new Prime Minister and new ministers to prioritise this year?\nEmma Pinchbeck: Some good news: EV sales are booming — about 25% of new cars — renewable power auctions added 8.4 GW, and peatland restoration rose 24% year-on-year. But we need faster electrification: heat pumps, EVs and cheaper electricity.\nDr Roz Savage: Why cheaper electricity?\nEmma Pinchbeck: Households with an EV, a heat pump, solar and a smart tariff could save roughly £1,200 a year versus staying on gas and petrol. Cheaper electricity reduces people’s bills and makes the switch attractive.\nSojan Joseph: The Prime Minister cut VAT on electricity. How much does that help?\nEmma Pinchbeck: It helps a bit — Ofgem estimated the VAT cut was worth about £45 against otherwise higher bills — but the key metric is the price gap between electricity and gas. Right now electricity is about 3.3 times more expensive than gas; that gap must fall for fast electrification.\nAdrian Ramsay: The Government’s plan relies more on tech and removals than behaviour change. What risks does that create?\nEmma Pinchbeck: Relying heavily on unproven scale-up of removals or late tech means more risk — you need clear sector pathways, monitoring milestones and contingency plans if tech doesn’t deliver.\nAdrian Ramsay: Does delaying decarbonisation cost more?\nEmma Pinchbeck: Yes. Our analysis shows every £1 spent on net zero returns roughly £2–£4 in benefits. Slower rollout delays those savings and exposes people to volatile fossil-fuel prices.\n\n\n## Transport, EVs and consumers\n> The EV transition is working but fragile: stick to the zero-emission vehicle mandate, make charging cheaper and fairer, and help people who can’t charge at home.\n\nMartin Rhodes: If the ZEV mandate is weakened, would uptake fall and targets be missed?\nDr Devane: Yes. EVs are central to the Government’s pathway to 2030. Weakening the mandate risks failing the 2030 international pledge and undermining the UK’s delivery record.\nMartin Rhodes: Is the recent excise duty on EVs putting people off?\nDr Devane: We haven’t seen evidence yet. The planned EV excise is still much lower per mile than fuel duty, so running-cost savings mostly remain, especially if people can charge at home.\nMartin Rhodes: Is access to charging unequal around the country?\nDr Devane: Yes. London and Scotland lead; Northern Ireland lags. On-street low-power chargers grew slowest — but those are vital for people without driveways who charge overnight on cheap tariffs.\nSammy Wilson: Manufacturers have been heavily discounting to meet targets and face competition — is the mandate hurting UK industry and jobs?\nDr Devane: Manufacturers worldwide face disruption. Important point: the UK mandate applies to cars sold here, not just built here; UK factories mainly export. Other markets also require EVs, so long-term demand exists.\nSammy Wilson: If fuel-duty revenue falls, won’t the State face a hole—forcing recovery through higher EV taxes and making EVs less attractive?\nDr Devane: Possibly, but EVs still save running costs. Governments can manage revenues differently; they could phase in road pricing or higher excises later once the market is mature.\nEmma Pinchbeck: Let’s be blunt: people buy what’s cheapest overall. The policy task is to help manufacturers make affordable EVs and to ensure consumers can access savings — for example by expanding at-home and cheap public charging.\n\n\n## Buildings, heat pumps and practical barriers\n> Rapid heat-pump rollout needs cheaper electricity, up-front cost support, more trained installers, and consumer protections so households aren't left with botched installs.\n\nSarah Gibson: Warm Homes replaces ECO4. How do we avoid poor installs and make heat pumps affordable for low-income households?\nDr Devane: We need a well-designed scheme that bundles heat pumps with insulation, solar or batteries where needed, clear certification for installers, consumer protections and quick, standardised quotes.\nSarah Gibson: Air-to-air heat pumps are cheaper to install than air-to-water. Will including air-to-air help poorer households?\nDr Devane: Yes — the Government extended grants to include air-to-air, which can cut install costs significantly and also give cooling benefits. But certified installers under the microgeneration scheme still need to be ready.\nSarah Gibson: What about the timing — people replace boilers when they break. Can the market respond quickly?\nDr Devane: That’s a real risk. We need enough installers, simpler consumer journeys and homeowner advice so replacements happen smoothly and quickly when boilers fail.\nEmma Pinchbeck: Public buildings can lead by example. Right now there’s no dedicated public estate decarbonisation programme — investing in schools, hospitals and care homes would build market confidence and visibility.\n\n\n## Grid, datacentres, industry, hydrogen and carbon removals\n> The CCC flags pressure on grid connections, huge new datacentre demand, industry electrification hurdles, delayed hydrogen and slow carbon capture rollout — ministers must set clear delivery plans, monitoring and contingencies.\n\nChair: You warned we must speed up grid connections but also future-proof them. Could rushing to meet 2030 create more upgrades later?\nEmma Pinchbeck: You must do both. Build connections quickly but design for future demand, add storage, and use flexibility so you don't repeatedly upgrade lines — planning should combine networks and generation.\nChris Hinchliff: Datacentres are demanding huge connections — Ofgem recently flagged up to around 80 GW of connection requests — double our winter peak. Are you worried they’ll crowd out other users or run on fossil backup?\nEmma Pinchbeck: We used National Grid’s top estimates and included extra headroom in our modelling, so the scale is considered. But datacentres raise planning, water, and supply questions. If some sites run on on-site fossil generation while grid renewables are elsewhere, that poses a risk to meeting carbon budgets.\nChris Hinchliff: Could that fossil back-up blow our carbon budgets?\nEmma Pinchbeck: It could become material if many large sites rely on local fossil generation. We’re keeping this under review and will give fuller advice in future work.\nManuela Perteghella: Industry electricity prices are still high. Will discounts alone drive electrification?\nEmma Pinchbeck: Discounts help some firms, but you also need capital support for big equipment, long-term industrial strategies, grid access, and skills. Cheap electricity is necessary but not sufficient.\nManuela Perteghella: What about hydrogen and carbon capture — are we moving fast enough?\nEmma Pinchbeck: We’re concerned. No contracts were awarded from Hydrogen Allocation Round 2 yet; delays hurt investor confidence. CCUS has about 70 plants worldwide as examples, and the UK has some funding (~£9bn so far) — but Government needs clearer delivery plans and more funding to hit the heavy reliance they assume.\nJulia Buckley: On aviation, sustainable aviation fuel (SAF) is tiny — CCC reported 2.5% market share vs a target of 3.6% this year and 10% by 2030. What should Government do?\nDr Devane: Keep to the mandate, diversify SAF routes (move beyond first-generation HEFA), and accelerate revenue-support mechanisms so investors build plants sooner. If tech or feedstocks lag, demand management will be needed as a contingency.\nJulia Buckley: Are international offsets a big risk?\nDr Devane: Yes — the CCC wants strict criteria for any international credits used toward UK targets. For aviation we favour engineered removals that are permanent; cheap or low-quality credits risk undermining the whole plan.\nJonathan Davies: On land use: tree-planting rates have fallen and agriculture emissions haven’t budged much since 2008. Does the land use framework help?\nEmma Pinchbeck: The framework and farming roadmap are positive but don’t yet guarantee delivery: payments and incentives must be long-term. UK tree planting needs to grow from ~15,000 ha/year in 2024–25 to ~35,000 ha/year by 2030 — that’s a big ramp-up needing stable funding and clear schemes across the UK.\nJonathan Davies: Should Government set a formal pathway to reduce livestock numbers?\nEmma Pinchbeck: Our balanced pathway included some livestock change because shifting land use (trees, peat restoration) is part of a low-cost route to net zero. Governments can choose different mixes, but if livestock falls you must plan what to do with the land and support farmers through long-term incentives.\nChair: Finally, public understanding: should Government explain engineered removals better?\nDr Devane: The public needs to know practical things (EVs, heat pumps). But if the Government plans to spend large sums on engineered removals it must explain costs, timescales and, importantly, engage local communities where sites will be located.\n",
   "inquiry": "Progress on climate change mitigation"
 });
