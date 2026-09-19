@@ -59,43 +59,40 @@ Structural requirements (the JSON is checked automatically):
 
 Official metadata:
 
-- Parliament oral-evidence ID: 18091
-- Required source hash: `0295f70426adf66dd7343e5b285493c8888a2b784fe810e0b54fea9d58b0493b`
-- Committee: Communications and Digital Committee
-- Subject: The Online Safety Act: implementation and impact
-- Meeting date: 15 September 2026
-- Transcript status: uncorrected
-- Source: https://committees.parliament.uk/oralevidence/18091/html/
+- Parliament oral-evidence ID: 18073
+- Required source hash: `7708876a7591461bdfeab772f8bb761305065c2525451171383c75399f4f666f`
+- Committee: Housing, Communities and Local Government Committee
+- Subject: Modernising Elections
+- Meeting date: 9 September 2026
+- Transcript status: published
+- Source: https://committees.parliament.uk/oralevidence/18073/html/
 
 Witness metadata:
 
-- Name not supplied: Director, Online Safety Strategy Delivery, Ofcom
-- Name not supplied: Enforcement Director, Ofcom
-- Name not supplied: Group Director, Online Safety, Ofcom
+- No structured witness names were supplied by the API; use the transcript header.
 
 Speaker labels detected in the transcript:
 
-- The Chair
-- Oliver Griffiths
-- Suzanne Cater
-- Mark Bunting
-- Baroness Caine of Kentish Town
-- Lord Storey
-- Viscount Colville of Culross
-- Baroness Fleet
-- Baroness Elliott of Whitburn Bay
-- Lord Kirkhope of Harrogate
-- Lord Knight of Weymouth
-- Lord Tarassenko
+- II
+- Chair
+- Sandra Matthews
+- Robert Nicol
+- Mr Dillon
+- Mr Forster
+- Sarah Smith
+- Andrew Cooper
+- Dr Huebner
+- Helen Blachford
+- Leigh Middleton
 
 Return exactly this structure:
 
 {
   "schema_version": 1,
-  "source_id": 18091,
-  "source_sha256": "0295f70426adf66dd7343e5b285493c8888a2b784fe810e0b54fea9d58b0493b",
+  "source_id": 18073,
+  "source_sha256": "7708876a7591461bdfeab772f8bb761305065c2525451171383c75399f4f666f",
   "title": "A concise, engaging title",
-  "label": "15 September 2026 · A short picker label",
+  "label": "9 September 2026 · A short picker label",
   "summary": "One paragraph explaining what the hearing covered and its main conclusion.",
   "speakers": [
     {

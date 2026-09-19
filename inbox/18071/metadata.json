@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18071,
+  "activity_id": 38637,
+  "document_id": 304950,
+  "meeting_date": "2026-09-09",
+  "meeting_date_display": "9 September 2026",
+  "publication_date": "2026-09-14T08:23:36",
+  "title": "National Planning Policy Statement on Nuclear Fusion",
+  "committee": "Energy Security and Net Zero Committee",
+  "committees": [
+    {
+      "id": 664,
+      "name": "Energy Security and Net Zero Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9935,
+      "title": "National Planning Policy Statement on Nuclear Fusion",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Paul Methven",
+      "role": "CEO",
+      "organisation": "UK Fusion Energy Ltd, UKAEA Group"
+    },
+    {
+      "name": "Tris Denton",
+      "role": "UK Director",
+      "organisation": "Fusion Industry Association"
+    },
+    {
+      "name": "Jo Nettleton",
+      "role": "Chief Regulator",
+      "organisation": "Environment Agency"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Tris Denton",
+    "Paul Methven",
+    "Jo Nettleton",
+    "Sir Christopher Chope",
+    "Mike Reader",
+    "Melanie Onn",
+    "I completely accept the point",
+    "Wera Hobhouse",
+    "Michael Shanks",
+    "David Sandford",
+    "Claire Young"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18071/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18071",
+  "source_sha256": "a749c22e0ac83018cd2bdfa1d40e6cf71805f484e0721ee5dc02a74f45887caa",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

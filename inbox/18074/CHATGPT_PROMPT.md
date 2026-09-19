@@ -59,43 +59,51 @@ Structural requirements (the JSON is checked automatically):
 
 Official metadata:
 
-- Parliament oral-evidence ID: 18091
-- Required source hash: `0295f70426adf66dd7343e5b285493c8888a2b784fe810e0b54fea9d58b0493b`
-- Committee: Communications and Digital Committee
-- Subject: The Online Safety Act: implementation and impact
-- Meeting date: 15 September 2026
-- Transcript status: uncorrected
-- Source: https://committees.parliament.uk/oralevidence/18091/html/
+- Parliament oral-evidence ID: 18074
+- Required source hash: `7fd16196098f09cc1a8aab2ee1e59594694c6bb8989c86dc7d417534e8208423`
+- Committee: Public Accounts Committee
+- Subject: Devolving power in England
+- Meeting date: 7 September 2026
+- Transcript status: published
+- Source: https://committees.parliament.uk/oralevidence/18074/html/
 
 Witness metadata:
 
-- Name not supplied: Director, Online Safety Strategy Delivery, Ofcom
-- Name not supplied: Enforcement Director, Ofcom
-- Name not supplied: Group Director, Online Safety, Ofcom
+- No structured witness names were supplied by the API; use the transcript header.
 
 Speaker labels detected in the transcript:
 
-- The Chair
-- Oliver Griffiths
-- Suzanne Cater
-- Mark Bunting
-- Baroness Caine of Kentish Town
-- Lord Storey
-- Viscount Colville of Culross
-- Baroness Fleet
-- Baroness Elliott of Whitburn Bay
-- Lord Kirkhope of Harrogate
-- Lord Knight of Weymouth
-- Lord Tarassenko
+- II
+- Devolution in England
+- Chair
+- Steve Rotheram
+- Katherine Fairclough
+- Paul Bristow
+- Rob Bridge
+- Mr Betts
+- Anna Dixon
+- Matt Turmaine
+- Chris Kane
+- Sarah Olney
+- Tristan Osborne
+- Rupert Lowe
+- That is one of the challenges with mayors
+- Cat Little
+- James Bowler
+- Will Garton
+- Melissa Brown
+- Will Burgon
+- To give a couple of examples
+- Cat has talked about the immediate actions that we are taking
 
 Return exactly this structure:
 
 {
   "schema_version": 1,
-  "source_id": 18091,
-  "source_sha256": "0295f70426adf66dd7343e5b285493c8888a2b784fe810e0b54fea9d58b0493b",
+  "source_id": 18074,
+  "source_sha256": "7fd16196098f09cc1a8aab2ee1e59594694c6bb8989c86dc7d417534e8208423",
   "title": "A concise, engaging title",
-  "label": "15 September 2026 · A short picker label",
+  "label": "7 September 2026 · A short picker label",
   "summary": "One paragraph explaining what the hearing covered and its main conclusion.",
   "speakers": [
     {
