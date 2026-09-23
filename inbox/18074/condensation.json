@@ -1,0 +1,314 @@
+{
+  "schema_version": 1,
+  "source_id": 18074,
+  "source_sha256": "7fd16196098f09cc1a8aab2ee1e59594694c6bb8989c86dc7d417534e8208423",
+  "title": "Who gets the money, who checks it and who runs things: devolution simplified",
+  "label": "7 September 2026 · Devolving power in England",
+  "summary": "Mayors and combined authority chiefs told the committee that the Government’s new model—called ‘devolution by default’ in the Rewiring the State paper—gives places bigger multi-year, single pots of money and more freedom to move funds between priorities. They praised the certainty but warned that many areas still lack the skills, staff and legal freedoms to make the best use of it. Treasury and departmental officials explained plans for partial tax devolution (a local share of income tax, business rates retention and a possible overnight visitor levy), stronger local accountability (local accounting officers and local scrutiny committees), and a new Local Audit Office — but admitted there’s work to do on capacity, audit quality and clarity after today’s pause of some local government reorganisations.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Sir Geoffrey Clifton-Brown",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Mr Betts",
+      "name": "Mr Betts",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Anna Dixon",
+      "name": "Anna Dixon",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Sarah Olney",
+      "name": "Sarah Olney",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Matt Turmaine",
+      "name": "Matt Turmaine",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Tristan Osborne",
+      "name": "Tristan Osborne",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Chris Kane",
+      "name": "Chris Kane",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Rupert Lowe",
+      "name": "Rupert Lowe",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Steve Rotheram",
+      "name": "Steve Rotheram",
+      "role": "Metro Mayor, Liverpool City Region",
+      "kind": "witness"
+    },
+    {
+      "label": "Katherine Fairclough",
+      "name": "Katherine Fairclough",
+      "role": "Chief Executive, Liverpool City Region Combined Authority",
+      "kind": "witness"
+    },
+    {
+      "label": "Paul Bristow",
+      "name": "Paul Bristow",
+      "role": "Mayor, Cambridgeshire and Peterborough",
+      "kind": "witness"
+    },
+    {
+      "label": "Rob Bridge",
+      "name": "Rob Bridge",
+      "role": "Chief Executive, Cambridgeshire and Peterborough Combined Authority",
+      "kind": "witness"
+    },
+    {
+      "label": "Cat Little",
+      "name": "Cat Little",
+      "role": "Permanent Secretary, Cabinet Office",
+      "kind": "witness"
+    },
+    {
+      "label": "James Bowler",
+      "name": "James Bowler",
+      "role": "Permanent Secretary, HM Treasury",
+      "kind": "witness"
+    },
+    {
+      "label": "Will Burgon",
+      "name": "Will Burgon",
+      "role": "Director for Public Services, HM Treasury",
+      "kind": "witness"
+    },
+    {
+      "label": "Will Garton",
+      "name": "Will Garton",
+      "role": "Interim Permanent Secretary and Director General for Local Government, MHCLG",
+      "kind": "witness"
+    },
+    {
+      "label": "Melissa Brown",
+      "name": "Melissa Brown",
+      "role": "Deputy Director, English Devolution, MHCLG",
+      "kind": "witness"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What the new model actually is",
+      "takeaway": "Integrated settlements give combined authorities a single, multi-year pot of money and some freedom to move it between priorities, but they’re not a full handover of national powers.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We’re here to look at the Government’s plan from the ‘Rewiring the State’ paper: the aim is strategic authorities everywhere by 2028 and more money and powers for places. First, can you explain what an integrated settlement and a mayoral strategic authority are, in plain terms?"
+        },
+        {
+          "speaker": "Steve Rotheram",
+          "text": "An integrated settlement is a single pot of Government money for a region—multi‑year rather than year‑to‑year—which lets us plan transport, housing and skills together instead of separate short pots. A mayoral strategic authority is a combined body, usually with an elected mayor, that gets that money and responsibility for big local services."
+        },
+        {
+          "speaker": "Katherine Fairclough",
+          "text": "Quick add: the single pot lets us join up housing, transport and training, so projects fit together. It’s more flexibility and some certainty, but it doesn’t give us every power or every pound."
+        }
+      ]
+    },
+    {
+      "title": "How this helps places — and where it still falls short",
+      "takeaway": "Mayors say the single pot and three-year money let them plan and attract investors, but many important levers—skills budgets, welfare support, health—are still limited or ringfenced.",
+      "turns": [
+        {
+          "speaker": "Mr Betts",
+          "text": "Steve and Katherine, does having this single pot actually change how you run things day-to-day?"
+        },
+        {
+          "speaker": "Steve Rotheram",
+          "text": "Huge difference. Before, central departments told us exactly how to spend each grant. Now we can move money between themes and plan over years, so we can match skills training to new jobs and shape transport and housing together."
+        },
+        {
+          "speaker": "Paul Bristow",
+          "text": "But it’s still constrained. We’re told when and on what to spend big chunks—skills funding can’t be reallocated locally, and rural areas like ours struggle because the pots don’t reflect our problems."
+        },
+        {
+          "speaker": "Rob Bridge",
+          "text": "Becoming an established authority opens doors—extra funds for innovation, more influence on Jobcentre Plus and the affordable homes programme—but the actual amounts and which themes are covered still vary by place."
+        },
+        {
+          "speaker": "Anna Dixon",
+          "text": "What would a concrete change look like locally?"
+        },
+        {
+          "speaker": "Paul Bristow",
+          "text": "For me, fiscal devolution—that is, a share of local taxes—would let us borrow against long-term revenues to fund big transport projects, like mass rapid transit, instead of waiting years for central bids."
+        },
+        {
+          "speaker": "Katherine Fairclough",
+          "text": "And for us, bringing more services (like parts of welfare or other grants) into the integrated settlement would let us plan whole-person services rather than separated bits."
+        }
+      ]
+    },
+    {
+      "title": "Money, taxes and the fiscal road map",
+      "takeaway": "Ministers plan to assign a share of income tax, let areas keep more business rates growth, and allow new levies; the details and fairness rules will be set before 2028.",
+      "turns": [
+        {
+          "speaker": "Matt Turmaine",
+          "text": "Officials, what exactly is ‘fiscal devolution’ here—what taxes and when?"
+        },
+        {
+          "speaker": "James Bowler",
+          "text": "We’re looking at three main changes: (1) business rates retention, (2) assigning a share of income tax raised locally to that area (not control over rates or thresholds), and (3) possibly an overnight visitor levy (a small hotel tax). The Treasury will publish more on this near the Budget."
+        },
+        {
+          "speaker": "Mr Betts",
+          "text": "If some places raise far more than others, how will you decide what they keep and what’s redistributed?"
+        },
+        {
+          "speaker": "James Bowler",
+          "text": "We balance three choices: the assigned amount, how much fairness/redistribution goes in, and the growth incentive (how much places keep as they grow). We’ll set those rules publicly; it’s a technical but solvable design issue."
+        },
+        {
+          "speaker": "Paul Bristow",
+          "text": "Practically, for areas like mine, getting a stable revenue stream would let us borrow for big infrastructure. If we can’t borrow against our own income, projects stall."
+        },
+        {
+          "speaker": "Steve Rotheram",
+          "text": "And investors want certainty. Multi‑year deals and tax assignment make it easier to sell big projects to pension funds or the National Wealth Fund."
+        }
+      ]
+    },
+    {
+      "title": "Who watches the money — accountability and scrutiny",
+      "takeaway": "Officials want local chief executives to be ‘local accounting officers’ (the person legally responsible for how money is spent), backed by local scrutiny committees, audit and the NAO; mayors and MPs also face public scrutiny.",
+      "turns": [
+        {
+          "speaker": "Tristan Osborne",
+          "text": "Who will be the local accounting officer — a chief executive or someone else?"
+        },
+        {
+          "speaker": "Rob Bridge",
+          "text": "We think it should be the chief executive: similar to a permanent secretary in Whitehall, with personal responsibility for value for money and finances locally."
+        },
+        {
+          "speaker": "Katherine Fairclough",
+          "text": "Agreed. If you’re giving areas big sums, someone locally has to sign off that it’s being spent properly."
+        },
+        {
+          "speaker": "Sarah Olney",
+          "text": "But mayors don’t control everything. How do you avoid measuring outputs you can’t directly influence?"
+        },
+        {
+          "speaker": "Steve Rotheram",
+          "text": "Exactly. We need outcomes‑focused frameworks (measure the end result, not every input). We welcome transparency, but don’t expect us to be judged on services where we lack levers, like some health budgets."
+        },
+        {
+          "speaker": "Will Garton",
+          "text": "We’ll strengthen local scrutiny committees (a new legal model) so MPs and councillors can raise issues; they can include independent experts and call mayors and accounting officers to explain spend."
+        },
+        {
+          "speaker": "Will Burgon",
+          "text": "We’re also talking to the NAO about what support local scrutiny bodies need—this Committee benefits massively from NAO reports and officials; local committees will need similar help, tailored to scale."
+        },
+        {
+          "speaker": "Tristan Osborne",
+          "text": "What about the Local Audit Office? Local audits have been late and poor in recent years."
+        },
+        {
+          "speaker": "Will Garton",
+          "text": "We’ve re-established the Local Audit Office in law and appointed a chair; target is 100% of local audit opinions on time by 2027‑28. It’s a priority, but work remains to get quality auditors in place."
+        }
+      ]
+    },
+    {
+      "title": "Capacity, risk and what happens when things go wrong",
+      "takeaway": "Many newer authorities lack staff and systems; central secondments, training and more admin funding are planned — and Government still retains tools to intervene if an authority fails.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Staff levels vary hugely—from a few people in new authorities to nearly 1,000 in big ones. How will smaller places scale up quickly?"
+        },
+        {
+          "speaker": "Will Garton",
+          "text": "We’ll increase admin funding, second civil servants into places, expand training (National School of Government) and publish a blueprint for what a well-staffed MSA looks like. This is urgent work over the autumn."
+        },
+        {
+          "speaker": "Katherine Fairclough",
+          "text": "We’ve doubled our team as responsibilities grew. Not every place starts with strong transport or housing teams, so central support and shared services matter."
+        },
+        {
+          "speaker": "Rupert Lowe",
+          "text": "If you devolve power, how do you protect taxpayers? I worry about unaccountable regional ‘blobs’. Who intervenes if an MSA fails?"
+        },
+        {
+          "speaker": "Will Garton",
+          "text": "The best‑value regime and intervention ladder still exist: monitoring, notices, inspections and sending in commissioners if necessary. Departments can and will act if things go seriously wrong."
+        },
+        {
+          "speaker": "Cat Little",
+          "text": "And the centre is changing: No.10 North and the Cabinet Office are seconding expertise to places, helping with commercial, finance and data capacity so regions don’t have to invent everything themselves."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Two quick, practical asks: Capita remediation (problems running benefits services) and McCloud (pension case) — can you update us?"
+        },
+        {
+          "speaker": "Cat Little",
+          "text": "Capita: they claim they cleared the backlog by 1 Sept; we’re doing independent checks and will report to the House later this week and to the Committee in early October. McCloud: I’ll write to the Committee with an update."
+        }
+      ]
+    },
+    {
+      "title": "Today’s pause on some local reorganisation and next steps",
+      "takeaway": "Ministers paused or will review some local government reorganisation decisions to take more legal advice; elections scheduled for May will go ahead and a White Paper and fiscal road map are due this autumn.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "You announced a review today of some local government reorganisations. Will that delay the plan to have strategic authorities in place by end of 2028?"
+        },
+        {
+          "speaker": "Will Garton",
+          "text": "We paused decisions in four areas and are reviewing tranche 3. But the Secretary of State has been clear: elections due in May will go ahead on current boundaries, and the devolution timetable can still proceed in many places. We want a short, sharp review to give clarity quickly."
+        },
+        {
+          "speaker": "Chris Kane",
+          "text": "That pause has upset councils and people who spent time on plans. How will you reduce uncertainty?"
+        },
+        {
+          "speaker": "Will Garton",
+          "text": "We’re working rapidly to finish the review and to publish the White Paper in the autumn, plus a fiscal roadmap around the Budget. We understand the disruption and want to be clear as soon as possible."
+        },
+        {
+          "speaker": "Chair",
+          "text": "So the big ticket items: White Paper on implementation, fiscal roadmap before the tax changes in 2028, Local Audit Office fully operational early next year, and more support for capacity. Any final words?"
+        },
+        {
+          "speaker": "James Bowler",
+          "text": "This is a big relaunch of how the state works. We’ve already given places multi‑year and more flexible funding; the next step is carefully devolving tax and building accountability to match the extra freedom."
+        },
+        {
+          "speaker": "Steve Rotheram",
+          "text": "From elected mayors’ side: we want the freedom to deliver and the checks that mean taxpayers’ money is safe. We’re ready to be accountable, but we need the powers and the capacity to make change."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you to all witnesses. The Committee will publish a report after we’ve reflected on your evidence. Please keep us updated on Capita, McCloud and the White Paper timetable."
+        }
+      ]
+    }
+  ]
+}

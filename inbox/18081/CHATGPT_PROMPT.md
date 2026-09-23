@@ -9,6 +9,17 @@ condensed natural dialogue, so as to make sure that you are not misunderstanding
 what it was about. Make sure contractions are used (e.g. "isn't" instead of
 "is not"), and don't omit the speaker's name.
 
+Assume the reader has no background in politics, law, economics or this meeting's
+subject. Do not let any specialist term through unexplained: wherever the
+transcript uses jargon, an acronym, an institution's name, or a term with a
+special meaning (e.g. "statutory instrument", "interconnector", "Section 35
+order", "the usual channels"), either swap it for everyday words or have the
+speaker explain it naturally in passing the first time it appears — for example
+"Ofgem, the energy regulator, …" or "a statutory instrument — a law ministers
+can pass without a full vote in Parliament — …". Prefer concrete, everyday
+phrasing over abstract wording throughout. A typical citizen should be able to
+follow every line without looking anything up.
+
 Here is an example of what the dialogue should read like:
 
 > Deborah: That even something not officially labelled "critical national

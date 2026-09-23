@@ -1,0 +1,282 @@
+{
+  "schema_version": 1,
+  "source_id": 18072,
+  "source_sha256": "a749c22e0ac83018cd2bdfa1d40e6cf71805f484e0721ee5dc02a74f45887caa",
+  "title": "Fusion planning: what it is, how it differs from fission, and why England needs an NPS",
+  "label": "9 September 2026 · Fusion NPS evidence",
+  "summary": "MPs quizzed government and industry guests about the draft national planning policy on fusion power (EN‑8). Key points: fusion is treated differently from fission because its hazards and wastes are smaller and different; early and honest community engagement matters; regulators (the Environment Agency and the Health and Safety Executive) and insurance markets are involved; the new planning statement aims to give developers and investors clarity; the UK wants to keep its lead but faces international competition and has to sort skills, supply chains, grid connections and funding.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Bill Esterson",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Tris Denton",
+      "name": "Tris Denton",
+      "role": "UK Director, Fusion Industry Association (appeared as a witness in the session)",
+      "kind": "member"
+    },
+    {
+      "label": "Paul Methven",
+      "name": "Paul Methven",
+      "role": "CEO, UK Fusion Energy Ltd, UKAEA Group (appeared as a witness in the session)",
+      "kind": "member"
+    },
+    {
+      "label": "Jo Nettleton",
+      "name": "Jo Nettleton",
+      "role": "Chief Regulator, Environment Agency (appeared as a witness in the session)",
+      "kind": "member"
+    },
+    {
+      "label": "Sir Christopher Chope",
+      "name": "Sir Christopher Chope",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Mike Reader",
+      "name": "Mike Reader",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Melanie Onn",
+      "name": "Melanie Onn",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Wera Hobhouse",
+      "name": "Wera Hobhouse",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Claire Young",
+      "name": "Claire Young",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Michael Shanks",
+      "name": "Michael Shanks MP",
+      "role": "Minister for Energy, Department for Energy Security and Net Zero",
+      "kind": "witness"
+    },
+    {
+      "label": "David Sandford",
+      "name": "David Sandford",
+      "role": "Deputy Director, Department for Energy Security and Net Zero",
+      "kind": "witness"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What fusion is and how it differs from fission",
+      "takeaway": "Fusion is a different kind of 'nuclear' tech from fission: it makes little long‑lived waste and has a different safety profile, so planners and regulators treat it differently.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Let’s start simple: how is fusion different from the nuclear power people usually mean—fission?"
+        },
+        {
+          "speaker": "Paul Methven",
+          "text": "Fusion uses isotopes of hydrogen, not a chain reaction. The hazards are different: you can’t get the same sort of runaway criticality as in fission and the waste isn’t the same long‑lived stuff."
+        },
+        {
+          "speaker": "Jo Nettleton",
+          "text": "As the Environment Agency regulator, I’d add we treat it differently: we and the Health and Safety Executive (HSE — the safety regulator) focus on proportionate regulation for fusion’s specific hazards."
+        },
+        {
+          "speaker": "Tris Denton",
+          "text": "Industry agrees: fusion is zero carbon at the point of generating electricity, and the sector is developing different plant types than traditional reactors."
+        }
+      ]
+    },
+    {
+      "title": "Community engagement and choosing sites",
+      "takeaway": "Talk to people early and honestly; West Burton shows strong local support can grow even where there wasn't prior fission history.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "You picked West Burton as a STEP site. Was the local reaction good?"
+        },
+        {
+          "speaker": "Paul Methven",
+          "text": "Yes. West Burton had a history of big energy infrastructure so the community understood the idea of hosting national projects. Early and sustained consultation helped build trust."
+        },
+        {
+          "speaker": "Tris Denton",
+          "text": "When communities understand the difference between fusion and fission, they’re less worried. Clear planning rules help avoid confusion."
+        },
+        {
+          "speaker": "Sir Christopher Chope",
+          "text": "Is that engagement voluntary or will Government force sites on people?"
+        },
+        {
+          "speaker": "Paul Methven",
+          "text": "The aim is voluntary consent. Forcing sites early would be counterproductive; better to take communities on the journey so benefits are shared and complaints fall."
+        }
+      ]
+    },
+    {
+      "title": "Regulators, waste, tritium and insurance",
+      "takeaway": "Existing regulators (Environment Agency and HSE) will handle fusion’s environmental and safety rules; tritium and transport are covered by other established rules, but insurers and liability frameworks need work.",
+      "turns": [
+        {
+          "speaker": "Jo Nettleton",
+          "text": "We’re the environmental regulator; HSE handles safety. Fusion sits outside the Office for Nuclear Regulation’s fission remit because the physics differs. We’re building capability for novel wastes."
+        },
+        {
+          "speaker": "Mike Reader",
+          "text": "Is regulation simpler for fusion than for fission?"
+        },
+        {
+          "speaker": "Jo Nettleton",
+          "text": "The regulatory landscape is simpler because fusion doesn’t risk criticality and its waste profile is different. But the technology itself is complex and still evolving."
+        },
+        {
+          "speaker": "Mike Reader",
+          "text": "What about tritium — its fuel? Shouldn’t the NPS spell out rules on its storage and transport?"
+        },
+        {
+          "speaker": "Paul Methven",
+          "text": "You need a small imported initial charge of tritium, then plants aim to breed their own. Transport and storage are already covered by existing regulations; they don’t need a duplicate rule in the NPS."
+        },
+        {
+          "speaker": "Sir Christopher Chope",
+          "text": "Insurance concerns remain. Who pays if something radiological affects third parties?"
+        },
+        {
+          "speaker": "Paul Methven",
+          "text": "Developers usually pay. The Government is looking at how to structure liability to kickstart the market. The sector thinks fusion risks are insurable and bespoke fusion insurance funds have already appeared."
+        },
+        {
+          "speaker": "David Sandford",
+          "text": "The Department talks to insurers. We’re running an insurance panel at the summit to speed their understanding of fusion’s different risk profile."
+        }
+      ]
+    },
+    {
+      "title": "Why a separate national planning policy statement (NPS)?",
+      "takeaway": "The draft EN‑8 NPS for fusion gives clarity because fusion’s planning and hazard profile differ from fission, and investors want that certainty.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Do we need a new planning statement for fusion or could it be covered by existing ones?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "We think a separate NPS helps — fusion’s hazards and consenting needs are distinct from fission. The NPS signals to investors and planners what to expect."
+        },
+        {
+          "speaker": "Tris Denton",
+          "text": "Industry wants clarity. EN‑8 helps prevent fusion being conflated with fission and reassures communities and investors."
+        },
+        {
+          "speaker": "Claire Young",
+          "text": "If a project doesn’t meet national-size thresholds, can developers still ask for national treatment?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "Yes. Developers can ask for nationally significant infrastructure (NSIP) treatment even if the plant’s size is under thresholds, because some projects have national importance."
+        },
+        {
+          "speaker": "Claire Young",
+          "text": "Why 50 MW in England but 350 MW in Wales?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "That reflects devolution: Wales chose a different threshold in consultation with us. We respect devolved decisions."
+        }
+      ]
+    },
+    {
+      "title": "Jobs, labs, supply chains and international competition",
+      "takeaway": "The UK aims to turn its research lead into exports by supporting a national lab, encouraging private industry links, building supply chains and training workers — but other countries are investing heavily too.",
+      "turns": [
+        {
+          "speaker": "Wera Hobhouse",
+          "text": "Where should the UK focus — test reactors or clearing the way for private firms?"
+        },
+        {
+          "speaker": "Tris Denton",
+          "text": "Both. Government test labs like Culham are crucial; private companies need places to scale. The aim is private deployment built on public R&D."
+        },
+        {
+          "speaker": "Paul Methven",
+          "text": "STEP is government‑led to bridge the 'valley of death' and pull in suppliers—magnets, robotics, materials—so firms invest in UK skills and factories."
+        },
+        {
+          "speaker": "Melanie Onn",
+          "text": "What jobs will this make?"
+        },
+        {
+          "speaker": "Paul Methven",
+          "text": "For the STEP plant: perhaps 1,500 steady operators, construction peaks around 8,000 locally, and tens of thousands if the wider supply chain and business park grow."
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "We want that growth in many parts of the UK and stronger local supply chains than past programmes managed."
+        },
+        {
+          "speaker": "Mike Reader",
+          "text": "Is the UK still a leader — aren’t the US and China racing?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "We’re a world leader in science and want to keep it. We’ll work with partners internationally, but we must protect national security and our intellectual advantage."
+        },
+        {
+          "speaker": "David Sandford",
+          "text": "The UK’s whole‑plant integration skills — pulling subsystems together — are a real export strength, along with magnets, robotics and materials."
+        }
+      ]
+    },
+    {
+      "title": "Money, timing, grid and remaining risks",
+      "takeaway": "The Government has put in £2.5bn to 2040 to de‑risk fusion; first plant aim is around 2040 but times and prices remain uncertain — grid connections, skills, insurance and planning capacity still need sorting.",
+      "turns": [
+        {
+          "speaker": "Melanie Onn",
+          "text": "Is £2.5bn too little or too much?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "It’s the right amount to signal serious commitment and to unlock more private money. It’s meant to be catalytic, not the full industry cost."
+        },
+        {
+          "speaker": "Tris Denton",
+          "text": "Private firms target around 5–10 US cents per kWh for later plants — roughly £35–£75 per MWh — but that's nth‑of‑a‑kind, not first‑of‑a‑kind."
+        },
+        {
+          "speaker": "Paul Methven",
+          "text": "From the public programme side, our benchmark is to be broadly competitive with large civil nuclear as the industry commercialises."
+        },
+        {
+          "speaker": "Melanie Onn",
+          "text": "What about grid connections?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "Grid is a national issue. STEP benefits from being on an existing power station site with connections, but we’re working to fix bottlenecks nationwide."
+        },
+        {
+          "speaker": "Sir Christopher Chope",
+          "text": "One last point: Eskdalemuir seismic monitoring and wind farm siting — you extended a consultation. Are you updating old guidance there?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "We’ll work with the MoD and partners. Defence infrastructure takes precedence, but we’ll methodically consider new monitoring methods so onshore wind can progress where safe."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thanks — that wraps it up. The NPS aims to give clarity but the Committee will watch how regulators, insurers and communities respond as projects come forward."
+        }
+      ]
+    }
+  ]
+}

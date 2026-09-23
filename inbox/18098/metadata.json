@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18098,
+  "activity_id": 38757,
+  "document_id": 305730,
+  "meeting_date": "2026-09-15",
+  "meeting_date_display": "15 September 2026",
+  "publication_date": "2026-09-22T12:46:42",
+  "title": "‘Every Child Achieving and Thriving’ White Paper",
+  "committee": "Education Committee",
+  "committees": [
+    {
+      "id": 203,
+      "name": "Education Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9859,
+      "title": "‘Every Child Achieving and Thriving’ White Paper",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Geoff Barton",
+      "role": "Educationalist and former ASCL leader, Chair of the Oracy Commission and Trustee",
+      "organisation": "The Education Policy Institute (EPI)"
+    },
+    {
+      "name": "Dr Ian Thompson",
+      "role": "Co-Principal Investigator, Belonging in Education Research Network,",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Mr Sam Henson",
+      "role": "Deputy Chief Executive",
+      "organisation": "National Governance Association"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Mrs Brackenridge",
+    "Leora Cruddas",
+    "Councillor Oliver",
+    "Caroline Voaden",
+    "Jess Asato",
+    "Manuela Perteghella",
+    "Darren Paffey",
+    "Jodie Gosling",
+    "Peter Swallow",
+    "Geoff Barton",
+    "Dr Thompson",
+    "Sam Henson",
+    "I am a bit sceptical about what PISA might tell us, except for one thing",
+    "I come back to the accountability measures"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18098/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18098",
+  "source_sha256": "99ebef9c2315a06dbb39d13e0a5c61b33b84e1d1f1ad11d1720eb8f5d82d3205",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

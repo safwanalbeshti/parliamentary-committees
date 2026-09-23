@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18074,
+  "activity_id": 38601,
+  "document_id": 304998,
+  "meeting_date": "2026-09-07",
+  "meeting_date_display": "7 September 2026",
+  "publication_date": "2026-09-14T15:38:11",
+  "title": "Devolving power in England",
+  "committee": "Public Accounts Committee",
+  "committees": [
+    {
+      "id": 127,
+      "name": "Public Accounts Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9902,
+      "title": "Devolving power in England",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [],
+  "speaker_candidates": [
+    "II",
+    "Devolution in England",
+    "Chair",
+    "Steve Rotheram",
+    "Katherine Fairclough",
+    "Paul Bristow",
+    "Rob Bridge",
+    "Mr Betts",
+    "Anna Dixon",
+    "Matt Turmaine",
+    "Chris Kane",
+    "Sarah Olney",
+    "Tristan Osborne",
+    "Rupert Lowe",
+    "That is one of the challenges with mayors",
+    "Cat Little",
+    "James Bowler",
+    "Will Garton",
+    "Melissa Brown",
+    "Will Burgon",
+    "To give a couple of examples",
+    "Cat has talked about the immediate actions that we are taking"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18074/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18074",
+  "source_sha256": "7fd16196098f09cc1a8aab2ee1e59594694c6bb8989c86dc7d417534e8208423",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "approved",
+  "source_document_format": "Html"
+}

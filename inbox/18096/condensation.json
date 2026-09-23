@@ -1,0 +1,348 @@
+{
+  "schema_version": 1,
+  "source_id": 18096,
+  "source_sha256": "c40d304b76c10a5e58877d0dc1ea3819954acc9ec1e5eb31c3093a28666a8c66",
+  "title": "Home Secretary on Policing, Violence Against Women and Girls, and Migration",
+  "label": "15 September 2026 · Home Office update",
+  "summary": "The Home Secretary, Shabana Mahmood, answered MPs’ questions about large-scale police reform, leadership and morale in forces, specialist measures for violence against women and girls, and policy on regular and irregular migration. She explained the government’s direction, said independent reviews will guide changes, and defended recent law-enforcement work on Channel crossings while acknowledging pressures and the need for careful transitions.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Dame Karen Bradley",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Shabana Mahmood",
+      "name": "Rt Hon Shabana Mahmood MP",
+      "role": "Home Secretary, Home Office",
+      "kind": "witness"
+    },
+    {
+      "label": "Lewis Atkinson",
+      "name": "Lewis Atkinson",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Dr Prinsley",
+      "name": "Dr Peter Prinsley",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Mr Kohler",
+      "name": "Mr Paul Kohler",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Ben Maguire",
+      "name": "Ben Maguire",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Robbie Moore",
+      "name": "Robbie Moore",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Margaret Mullane",
+      "name": "Margaret Mullane",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Joani Reid",
+      "name": "Joani Reid",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Bell Ribeiro-Addy",
+      "name": "Bell Ribeiro-Addy",
+      "role": "Member of Parliament",
+      "kind": "member"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Why police reform is being pursued",
+      "takeaway": "The Home Secretary says 43 separate forces can't equally deliver very local policing plus high-quality specialist work, so reform aims for local policing areas, regional strategic forces and a single national police service.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We want to focus on policing, violence against women and girls, and migration. Home Secretary, let’s start with policing reform."
+        },
+        {
+          "speaker": "Lewis Atkinson",
+          "text": "You've said you want fewer, bigger forces. Has the new Prime Minister changed that plan?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "The overall case hasn't changed: 43 forces try to do very local work and national specialist work, which produces uneven standards. The plan is a three-tier model: local policing areas (the day-to-day neighbourhood officers), a smaller set of regional strategic forces for specialist investigations, and a national police service on top for leadership and national crime."
+        },
+        {
+          "speaker": "Lewis Atkinson",
+          "text": "You're reviewing boundaries with Lord Hogan-Howe. Will mayors’ areas decide force sizes?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "We’ve asked the independent reviewer, Lord Hogan-Howe, to retest his work against the Government’s devolution approach called “Rewiring the State” — that paper says align where possible with mayoral boundaries. It won't be one-size-fits-all; the reviewer will decide and report soon."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Will the committee be able to scrutinise the national police commissioner appointment?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "Yes. I want a commissioner-designate quickly after the Bill is introduced and I'll follow the normal pre-appointment scrutiny process with the Committee."
+        }
+      ]
+    },
+    {
+      "title": "Setting up a national police service and costs",
+      "takeaway": "A police reform Bill and delivery programme are under way; the Home Secretary says a national police service is funded and will be phased in carefully so operational capability isn’t harmed.",
+      "turns": [
+        {
+          "speaker": "Lewis Atkinson",
+          "text": "How will this new national police service work and when will it arrive?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "Work's underway: a delivery authority with police and the Home Office is planning the Bill and operational changes. About £340 million is needed to set it up — two thirds funded in this spending round, the rest expected later. Most operational changes should be ready by the end of this Parliament; capability transfers (like counter-terrorism and the National Crime Agency parts) will only happen when ready."
+        },
+        {
+          "speaker": "Dr Prinsley",
+          "text": "What happens to police and crime commissioners?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "We plan to abolish police and crime commissioners. Most PCC elections due in 2028 won't happen; governance will move to mayors where areas align, or to multi‑authority crime and policing boards where they don't."
+        },
+        {
+          "speaker": "Lewis Atkinson",
+          "text": "How will reform be funded?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "As I said, setup is broadly funded by the current spending review and anticipated next-round money; police reform is a funded programme, but long-term savings come from system consolidation."
+        }
+      ]
+    },
+    {
+      "title": "Leadership, morale and neighbourhood policing",
+      "takeaway": "Ministers accept problems in leadership, discipline and morale; they’re acting on reviews, funding wellbeing, creating national standards and aiming to strengthen local neighbourhood policing.",
+      "turns": [
+        {
+          "speaker": "Mr Kohler",
+          "text": "Reports say senior officers get far less leadership training than comparable military ranks. Are you going to invest more in police leadership?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "I agree there's a leadership gap. The Blunkett/Herbert review makes many recommendations; we'll respond in full in the autumn. Some changes are already being taken forward, including promotion reforms and a senior appointments panel to improve the pipeline."
+        },
+        {
+          "speaker": "Ben Maguire",
+          "text": "Suspensions cost taxpayers a lot—estimated £60m a year. People see suspended officers paid while local desks stay closed. How will you fix that?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "Suspensions are complex—people have rights to fair process—but the system is too slow and costly. We'll look at discipline and promotion together when we publish the leadership response, and want faster, fairer systems that remove those guilty and support the rest."
+        },
+        {
+          "speaker": "Margaret Mullane",
+          "text": "On neighbourhood policing: you pledged officers, but workforce size and abstractions (officers pulled from local beats) mean the public aren't seeing it. Is the plan working?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "We’re increasing neighbourhood police numbers: we expect 4,750 by March 2027 on the way to a 13,000 target. Abstraction is a real problem; we're working with police leaders to set national standards on acceptable abstraction and to protect local policing duties."
+        },
+        {
+          "speaker": "Ben Maguire",
+          "text": "What about tech and modern crime—fraud, cyber stuff? Small rural forces are stretched."
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "Fraud is the biggest crime type and often international. We have a funded fraud strategy (£250m) and a PoliceAI programme to speed evidence work. The national commissioner will lead system-wide tech and workforce strategies so every area benefits."
+        }
+      ]
+    },
+    {
+      "title": "Violence against women and girls — strategy and delivery",
+      "takeaway": "The government has a cross‑departmental strategy that’s jointly led by the Home Office and Ministry of Justice; specialist police teams and online measures are being rolled out, with further work on implementation.",
+      "turns": [
+        {
+          "speaker": "Joani Reid",
+          "text": "You split ministerial responsibilities across two departments. Does that slow delivery?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "No. The split actually helps because the problem crosses policing, courts, prevention and social services. A ministerial board meets monthly to coordinate across about 18 departments; we're working on implementation lessons the National Audit Office identified."
+        },
+        {
+          "speaker": "Joani Reid",
+          "text": "You aim to speed up roll-out of specialist rape and sexual offence teams. Is that realistic?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "Yes. About half of forces already have specialist teams and the National Centre for Violence Against Women and Girls and Public Protection (NCVPP) is doing a progress report on 1 October. Forces can choose from four models the NCVPP suggested; the aim is consistency and quality across forces."
+        },
+        {
+          "speaker": "Joani Reid",
+          "text": "Online abuse: you said more policy is needed. Any detail?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "We’re funding some undercover online policing already. The wider work—parity between online and offline offences, and the effects of AI and deepfakes—is being looked at by DCMS and cross-government reviews like Baroness Bertin’s; I’ll write to the Committee with timelines."
+        },
+        {
+          "speaker": "Joani Reid",
+          "text": "Are you sure victims will feel safe to come forward to the national grooming gangs inquiry?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "Trust matters hugely. The inquiry is intended to restore confidence. I’ll engage with the Committee on what more we can do to reassure victims and make sure the justice and protective services join up to support them."
+        }
+      ]
+    },
+    {
+      "title": "Migration — regular routes, settlement and family reunion",
+      "takeaway": "The Home Secretary outlined earned settlement plans that will change how permanent residence is granted, said family reunion rules are being reviewed to be fairer across different groups, and promised clearer timelines and transitional protections later in the year.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Before we move to irregular migration, your reflections on regular migration after a year in this job?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "Public concern is widespread and often ahead of politics. We’re trying to make the system fair and manageable. Policies like earned settlement (making indefinite residence 'earned' through contribution) and family‑reunification reform are part of that work."
+        },
+        {
+          "speaker": "Bell Ribeiro-Addy",
+          "text": "When will Lord Macdonald’s report on protest policing be published?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "It was delayed by the change of Government and talks. It will be published; I’ll write to the Committee with the date."
+        },
+        {
+          "speaker": "Bell Ribeiro-Addy",
+          "text": "Earned settlement: people who arrived in 2022 start qualifying in 2027. Will the new rules be in place by then?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "We’ll set out policy later this year. The rules that apply are the ones in force when you apply. We consulted widely and received more responses than expected, so detailed analysis has taken a bit longer, but we’ll give certainty before the first cohort needs to apply."
+        },
+        {
+          "speaker": "Bell Ribeiro-Addy",
+          "text": "Family reunion for refugees has been suspended while you review 30 different family routes. How long will that suspension last?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "I can’t give a firm date today. We want a single, coherent system rather than 30 different rules and we'll publish proposals after we’ve finished analysis. Courts have accepted governments reviewing these rules; I’m confident we can defend taking time to get it right."
+        },
+        {
+          "speaker": "Bell Ribeiro-Addy",
+          "text": "The Migration Advisory Committee suggested income thresholds between £21k and £28k; why did the Home Office set £29k?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "We inherited the £29,000 figure. The MAC’s work feeds into the overall family migration review; we’ll decide thresholds as part of the bigger reform and respond when we set policy."
+        },
+        {
+          "speaker": "Lewis Atkinson",
+          "text": "People already here say uncertainty hampers integration. Do you accept that?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "I hear the anxiety. We’re trying to balance fairness to existing residents and newcomers while giving certainty. The Home Office’s job is to set clear rules that encourage contribution and unlock public confidence so communities welcome newcomers."
+        },
+        {
+          "speaker": "Dr Prinsley",
+          "text": "What about a work-and-study protection route for refugees—how will that work in practice?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "Policy is being developed. The first cohort affected would be in autumn 2028; we’re designing technical details so people moving into work or study aren’t penalised if they change jobs, and we’ll publish the approach next year."
+        }
+      ]
+    },
+    {
+      "title": "Irregular migration: Channel crossings, deals with France and returns",
+      "takeaway": "Crossings have fallen but policing and multi-country disruption are needed; the Home Secretary defended the France deals and law enforcement work while acknowledging practical limits on scaling returns and the need for wider international cooperation.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Channel crossings are down. Is that because of our actions or changes in Europe?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "It's a mix. Crossings are down significantly this year and the summer, and we’ve made law‑enforcement gains with France, Belgium and other partners. But demand in Europe still exists and gangs adapt, so we must keep disrupting them from source to shore."
+        },
+        {
+          "speaker": "Margaret Mullane",
+          "text": "Are gangs moving tactics—bigger boats, different launch points—making things riskier?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "Yes, bigger boats are even more dangerous. Gangs adapt when law enforcement disrupts them. We’ve seized boats and equipment, carried out arrests, and signed a flexible three‑year French agreement (£662m) to fund what works — more French boots on the ground, maritime tactics and targeted policing."
+        },
+        {
+          "speaker": "Robbie Moore",
+          "text": "The one‑in, one‑out pilot with France: many arrivals, only a small number returned. Is it cost‑effective or a deterrent?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "The pilot showed the concept can work and has had some effect on people’s choices. It’s operationally hard to scale removals weekly because of capacity. For people returned so far, the rough cost per person was about £56,000; I’ll write with up-to-date figures and evaluations."
+        },
+        {
+          "speaker": "Ben Maguire",
+          "text": "Would European return deals or data-sharing help?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "We discuss data-sharing and returns with EU partners. The EU’s new migration pact is complex and not a silver bullet. We’ll keep exploring return hubs and bilateral deals where they can work."
+        },
+        {
+          "speaker": "Robbie Moore",
+          "text": "You offered up to £40,000 to failed asylum families to return voluntarily. Is anyone taking that up?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "Uptake so far is small; it’s a pilot to test what works behaviourally. I'll write to the Committee with numbers and a full assessment when the pilot completes."
+        },
+        {
+          "speaker": "Mr Kohler",
+          "text": "Many say detention and removals cause reports of injury when people are transferred. Are you aware and how do you respond?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "I was not aware of the specific accounts you mentioned. Any abusive or criminal conduct during transfers would be a serious matter. I’ll look into what’s been raised and ensure proper challenge if those claims are substantiated."
+        },
+        {
+          "speaker": "Mr Kohler",
+          "text": "On asylum accommodation: can you rip up inherited hotel contracts and get better local authority or NGO-led provision?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "We’re renegotiating procurement, pushing for value, and want a transition away from hotels to medium-sized sites plus dispersed housing. Breaking contracts isn’t simple without replacement capacity, but we’re exploring local-authority and other provider roles and will write on procurement details."
+        },
+        {
+          "speaker": "Joani Reid",
+          "text": "Scotland is bearing disproportionate pressure—Glasgow housing over 50% of asylum seekers there. Will you change dispersal so it’s fairer across local areas?"
+        },
+        {
+          "speaker": "Shabana Mahmood",
+          "text": "Yes, I recognise that imbalance and the problem where some councils don’t step up. As we open larger sites and renegotiate rates, I intend to reduce the pressure on places that are well above their fair share and spread accommodation more evenly."
+        },
+        {
+          "speaker": "Chair",
+          "text": "We’re out of time. Thank you, Home Secretary — we expect further letters on a few outstanding points and will invite you back before Christmas."
+        }
+      ]
+    }
+  ]
+}
