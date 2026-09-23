@@ -128,7 +128,8 @@ want to backfill older transcripts.
 ## Features
 
 - **Spotlight stage** — the room illustration with a moving spotlight and nameplate over
-  the current speaker. Real MPs and witnesses are mapped to the people in the picture.
+  the current speaker. Real committee members (MPs, peers, and others) and witnesses
+  are mapped to the people in the picture.
 - **Auto-play** — play/pause with reading-speed pacing and a speed picker. Space toggles
   play, ←/→ step, Home/End jump.
 - **Chapters** — defined inline in the transcript with `##` headings and `>` takeaways;
@@ -174,7 +175,7 @@ on the right people.
 - The dialogue is a paraphrased condensation of a public evidence session, not a
   verbatim record; the in-app About tab says so and links to the official source.
 - Witness names and roles come from the official transcript header. The seat
-  assignments for individual MPs are best-effort matches to the illustration.
+  assignments for individual members are best-effort matches to the illustration.
 - Automatically generated sessions use the reusable block-style room rather than
   Parliamentary video or photography.
 - Transcript and metadata reuse is attributed under the Open Parliament Licence v3.0;

@@ -15,15 +15,40 @@ const DEFAULT_DESIGN = {
 
 const KIND_LABELS = {
   chair: "Chair",
-  member: "MP",
   witness: "Witness",
 };
+
+// Committee members aren't always MPs — Lords committees are made up of peers.
+// Detect a peerage title on the name and label the nameplate accordingly;
+// anyone without one defaults to MP.
+const PEERAGE_TITLES = [
+  "Baroness",
+  "Viscountess",
+  "Viscount",
+  "Countess",
+  "Duchess",
+  "Marchioness",
+  "Marquess",
+  "Lord",
+  "Baron",
+  "Earl",
+  "Duke",
+];
+
+function memberKindLabel(name) {
+  const trimmed = String(name || "").trim();
+  const title = PEERAGE_TITLES.find((prefix) => trimmed.startsWith(`${prefix} `));
+  return title === "Baron" ? "Lord" : title || "MP";
+}
 
 const STORAGE_KEY = "committee-viewer-progress";
 const MENU_MODE_KEY = "committee-viewer-menu-mode";
 
 const el = {
   appMain: document.querySelector("main.app"),
+  homePage: document.querySelector("#homePage"),
+  homeBrowseLink: document.querySelector("#homeBrowseLink"),
+  homeLink: document.querySelector("#homeLink"),
   meetingMenu: document.querySelector("#meetingMenu"),
   blockGrid: document.querySelector("#blockGrid"),
   modeButtons: [...document.querySelectorAll(".mode-button")],
@@ -87,6 +112,8 @@ let openCommittee = null;
 init();
 
 function init() {
+  wireGlossaryTerms();
+
   if (!sessions.length) {
     el.sessionTitle.textContent = "No sessions found";
     el.bubbleSpeaker.textContent = "Error";
@@ -109,12 +136,30 @@ function init() {
 
   const fromHash = readHash();
 
-  // A deep link goes straight to its session; everyone else starts at the menu.
+  // A deep link goes straight to its session; a direct link to the browser
+  // opens that; everyone else starts at the home page.
   if (fromHash.sessionId && findSession(fromHash.sessionId)) {
     enterSession(fromHash.sessionId, fromHash.turn);
-  } else {
+  } else if (window.location.hash === "#browse") {
     showMenu();
+  } else {
+    showHome();
   }
+}
+
+/* ---------- glossary ---------- */
+
+// The definition itself is drawn by CSS from data-def, which a screen reader
+// never sees; repeat it in a hidden span and point the term at it.
+function wireGlossaryTerms() {
+  document.querySelectorAll(".gloss-term[data-def]").forEach((term, index) => {
+    const note = document.createElement("span");
+    note.className = "visually-hidden";
+    note.id = `gloss-def-${index}`;
+    note.textContent = term.dataset.def;
+    term.after(note);
+    term.setAttribute("aria-describedby", note.id);
+  });
 }
 
 /* ---------- meeting menu ---------- */
@@ -328,15 +373,26 @@ function setMenuMode(mode) {
   renderMenu();
 }
 
-function showMenu() {
+function showHome() {
   stopAutoplay();
-  el.meetingMenu.hidden = false;
+  el.homePage.hidden = false;
+  el.meetingMenu.hidden = true;
   el.appMain.hidden = true;
   document.title = "Parliamentary Committees, in Plain English";
   history.replaceState(null, "", window.location.pathname + window.location.search);
 }
 
+function showMenu() {
+  stopAutoplay();
+  el.homePage.hidden = true;
+  el.meetingMenu.hidden = false;
+  el.appMain.hidden = true;
+  document.title = "Browse sessions — Parliamentary Committees, in Plain English";
+  history.replaceState(null, "", window.location.pathname + window.location.search);
+}
+
 function enterSession(id, turn = null) {
+  el.homePage.hidden = true;
   el.meetingMenu.hidden = true;
   el.appMain.hidden = false;
   selectSession(id);
@@ -477,7 +533,8 @@ function setCurrent(nextIndex, options = {}) {
   el.bubbleText.scrollTop = 0;
 
   el.nameplateName.textContent = design.name;
-  el.nameplateKind.textContent = KIND_LABELS[design.kind] || "";
+  el.nameplateKind.textContent =
+    design.kind === "member" ? memberKindLabel(design.name) : KIND_LABELS[design.kind] || "";
   el.nameplate.style.setProperty("--speaker-soft", design.soft);
   el.spotlight.style.setProperty("--spot-color", design.color);
 
@@ -924,6 +981,14 @@ function populateSessionPicker() {
 
 function bindControls() {
   el.menuBtn.addEventListener("click", showMenu);
+  el.homeBrowseLink.addEventListener("click", (event) => {
+    event.preventDefault();
+    showMenu();
+  });
+  el.homeLink.addEventListener("click", (event) => {
+    event.preventDefault();
+    showHome();
+  });
 
   for (const button of el.modeButtons) {
     button.addEventListener("click", () => setMenuMode(button.dataset.mode));
