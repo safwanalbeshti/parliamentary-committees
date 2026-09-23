@@ -260,5 +260,91 @@
         }
       ]
     }
+  ],
+  "glossary": [
+    {
+      "term": "Heathrow Expansion National Policy Statement",
+      "definition": "A government policy document setting the rules and goals for Heathrow's expansion planning and decisions."
+    },
+    {
+      "term": "HENPS",
+      "definition": "Acronym for the Heathrow Expansion National Policy Statement."
+    },
+    {
+      "term": "Heathrow Southern Railway",
+      "definition": "A proposed privately financed new rail link to connect Heathrow with lines to the south and west."
+    },
+    {
+      "term": "National Highways",
+      "definition": "The government agency that manages and plans England's major motorways and trunk roads."
+    },
+    {
+      "term": "Heathrow Area Transport Forum",
+      "definition": "A local stakeholder group that brings together organisations to discuss transport issues around Heathrow."
+    },
+    {
+      "term": "TfL",
+      "definition": "Acronym for Transport for London, the public body running most transport services in London."
+    },
+    {
+      "term": "DfT",
+      "definition": "Acronym for the Department for Transport, the UK government department responsible for transport policy."
+    },
+    {
+      "term": "Network Rail",
+      "definition": "The public-sector company that owns and operates most of Britain's railway infrastructure."
+    },
+    {
+      "term": "staff mode-share target",
+      "definition": "A goal for what proportion of airport staff should travel by particular modes (e.g., public transport vs cars)."
+    },
+    {
+      "term": "staff travel plan",
+      "definition": "A package of measures employers use to reduce car travel and encourage public transport, cycling and walking by staff."
+    },
+    {
+      "term": "Hypothecating (ring‑fencing)",
+      "definition": "Setting aside specific income (like parking fees) so it can only be spent on a designated purpose, such as public transport."
+    },
+    {
+      "term": "Thames Tideway (the London sewer tunnel)",
+      "definition": "A major privately financed tunnel project in London used here as an example of funding and delivery approach."
+    },
+    {
+      "term": "private-finance ready",
+      "definition": "Describes a project prepared so private investors can fund it, typically with clear costs, risks and legal support."
+    },
+    {
+      "term": "'investable pathway'",
+      "definition": "A policy route or package of commitments intended to make a project attractive and safe enough for private investors."
+    },
+    {
+      "term": "promoters",
+      "definition": "Organisations proposing and seeking approval for major developments, like the airport expansion project backers."
+    },
+    {
+      "term": "Development Consent Order (DCO)",
+      "definition": "The special planning consent for nationally significant infrastructure projects that sets conditions and permissions."
+    },
+    {
+      "term": "strategic road network",
+      "definition": "The major motorways and trunk roads forming the primary national road network managed for long-distance and freight traffic."
+    },
+    {
+      "term": "M25",
+      "definition": "The orbital motorway that circles most of London, a key and often congested route in the area."
+    },
+    {
+      "term": "M4",
+      "definition": "A major motorway linking London with Wales, running past Heathrow and often used for airport access."
+    },
+    {
+      "term": "transport modelling licences",
+      "definition": "Software permissions used to run complex traffic and transport simulations that predict travel patterns and impacts."
+    },
+    {
+      "term": "support package",
+      "definition": "Government guarantees, commitments or arrangements offered to help make a large infrastructure project fundable and deliverable."
+    }
   ]
 }

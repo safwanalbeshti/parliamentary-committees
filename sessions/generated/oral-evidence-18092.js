@@ -194,5 +194,103 @@ window.COMMITTEE_SESSIONS.push({
     }
   },
   "transcript": "# Climate adaptation and emergency response\n\n## What happened this summer and the main lesson\n> This summer’s record wildfires have changed the baseline: government says current arrangements won’t be fit for the future and wants faster, joined-up action.\n\nChair: This has been a dreadful summer: record fires, homes lost and tens of thousands of acres gone. What have you learned?\nJenny Riddell-Carpenter: I’ve had a big fire in my constituency, so I know how real this is. We’ve had over 1,300 wildfires and our hot summer shows the risk is increasing. The headline is: what we have now won’t be fit for fires in 10 years’ time.\nBaroness Blake of Leeds: From the fire ministry view, the big lesson is that wildfires are moving to the edges of towns. Response was heroic, but we must work across government, local councils and communities on prevention, response and recovery.\nChair: So you accept we need to look again at land management, behaviour, and response—basically a step up in ambition?\nJenny Riddell-Carpenter: Yes. We’re scaling up in DEFRA now, building an action plan and preparing for next spring rather than waiting for a single new strategy document.\n\n\n## National coordination and the wildfire summit\n> Ministers agree wildfires are a UK-wide problem and plan a summit to pull together ministers, local reps and frontline people — but they haven’t finished invitations or fixed all timelines.\n\nChair: Is this a national issue needing UK-wide coordination?\nBaroness Blake of Leeds: Fires don’t respect borders. We need to work with devolved governments, share resources and learn from elsewhere. The Prime Minister’s wildfire summit in October should bring this together.\nPeter Lee: Officials are speaking regularly with Scotland, Wales and Northern Ireland. At official level cooperation is happening, though ministers haven’t yet all met face-to-face.\nHenry Tufnell: Are devolved governments rebuffing you? Some felt the summit plans were disjointed.\nPeter Lee: No rebuffs. We’ve been in Scotland for a week talking to their fire service. But a ministerial lead would speed political coordination.\nJosh Newbury: How will you make sure the summit includes local people like land managers and gamekeepers who actually fight fires on the ground?\nBaroness Blake of Leeds: That’s crucial. The summit must be about action and include local voices. I’ll make sure we don’t just have the professionals and policy people.\n\n\n## Aerial firefighting, drones and the military\n> Ministers admit the UK lacks a reliable national fleet of firefighting aircraft and are exploring national contracts, drones and military or private help before next season.\n\nSarah Bool: We don’t keep firefighting planes as a national fleet. Is relying on local buying of commercial planes enough?\nBaroness Blake of Leeds: Aerials are high on the summit agenda. Chiefs say planes help on flames but don’t always stop ground fires. We’re looking at sea water use too—there are trade-offs with the environment.\nPeter Lee: Fire services worked with commercial aerial providers this summer but 44 services competing for the same asset isn’t practical. We want a cost-effective, on-call national arrangement for next summer and we’re already talking to providers.\nSarah Bool: What about drones and heavy-lift drones?\nPeter Lee: Drones are already used for surveillance and there’s growing water-carrying tech. They’ll be part of longer-term solutions alongside helicopters and planes.\nSarah Bool: Could we use military helicopters like Chinooks?\nPeter Lee: The Ministry of Defence and RAF assets are in scope. Nothing’s off the table; we’re talking with military and private sectors, but operational guarantees are complex.\nChair: You say you want things ready by next summer—do you have deadlines?\nPeter Lee: We aim to be in a much better place by next wildfire season and aren’t waiting for the summit. But the exact procurement and deployment mechanisms still need to be finalised.\n\n\n## Land management, controlled burning and licensing debate\n> Ministers are split with land managers: DEFRA wants peatland re-wetting and stricter rules on controlled burning, while many farmers and gamekeepers say the current licensing process is too restrictive and slow.\n\nJosh Newbury: Other countries use landscape-scale management and seasonal controlled burns. Will the UK do more prevention through land management?\nJenny Riddell-Carpenter: We’ll learn from abroad but adapt to UK landscapes. Peatland restoration is a big priority because wetter moors burn less and give other benefits like carbon storage and water management.\nJosh Newbury: But critics say removing grazing and rewilding increased fuel on the hills. Is DEFRA rethinking that?\nJenny Riddell-Carpenter: Different landscapes need different management. Cutting and grazing can reduce fuel load in some places; peat restoration helps in others. Not every fire is caused by land-restoration.\nChair: The 2025 rules tightened where burning needs a licence. You’ve only issued two licences in a year—why so few?\nGabrielle Edwards: We expanded the area requiring licences (peat deeper than 30cm). We’ve seen only 24 licence applications; most were for training and the fire service advised training shouldn’t happen on deep peat because it's risky.\nHenry Tufnell: Land managers tell us the licensing is complex, slow, and impractical. Natural England’s evidence used to set the rules didn’t focus on wildfire risk. Isn’t that a problem?\nGabrielle Edwards: When we set the rules we consulted widely and considered wildfire risk, biodiversity and hydrology. We take fire service advice on each licence and will keep refining guidance if it helps more sensible applications come forward.\nChair: People on the ground say they won’t even apply under the current rules. Will you make the process more flexible before next season?\nGabrielle Edwards: We’re talking with the Country Land and Business Association and others this week to see if guidance or forms can be more practical ahead of the next season.\nMr Toby Perkins: Will the views of gamekeepers, farmers and volunteers be heard at the summit? They’re the ones risking their health to fight fires.\nBaroness Blake of Leeds: Yes. I’ll make sure local front-line voices are included. They must influence the practical outcomes.\n\n\n## Alerts, water supply and support for farmers\n> The emergency phone alert was judged useful but had technical and timing problems; water shortages hampered firefighting in places and ministers are looking at faster on-farm support and permissions for ponds and reservoirs.\n\nTerry Jermy: The emergency phone alert went to many people late—should it have been used earlier?\nBaroness Blake of Leeds: The fire service advised using it and Cobra—the emergency ministers’ committee—approved it. It raised public awareness, but we’ll learn on timing and language sequencing, especially in bilingual areas like Wales.\nPeter Lee: The Cabinet Office actually issues the alert tech-wise. Normally Cobra or a local resilience forum requests it. We’ll write more detail to the Committee if needed.\nSarah Dyke: Water was a problem in the New Forest and elsewhere. Should water companies be forced to keep firefighting pressure during droughts?\nJenny Riddell-Carpenter: Water resilience is vital. We ran drought working group calls this summer with water companies and farmers. Water firms have legal duties on emergency preparedness, but we’ll review whether more specific measures are needed for firefighting.\nPeter Lee: Fire services have other options: high-volume pumps, drawing from lakes or the sea, and tactics needing less water. But better local water planning with companies is essential.\nSarah Dyke: Farmers want fast permission to build ponds or reservoirs and faster abstraction licences. Will you speed that up?\nJenny Riddell-Carpenter: We’ve put £15m toward on-farm reservoirs and are looking at planning and abstraction barriers. We’re also exploring permitted development rights so farmers can act faster where it’s practical.\n\n\n## Planning, frontline wellbeing and the next steps\n> Planning can help reduce fire spread around new housing; ministers committed to better cross-government working, quicker reviews of the national risk picture, and attention to firefighter wellbeing.\n\nCharlie Dewhirst: How should planning handle development on urban edges so new homes don’t get burnt?\nPeter Lee: Simple, proportionate design measures help: fire breaks, green infrastructure and materials that slow fire spread give firefighters time to respond. It’s about balancing safety with development.\nBaroness Blake of Leeds: We want wildfire risk considered alongside flood and other risks in planning, and for local resilience forums to bring that expertise into place-shaping decisions.\nMr Toby Perkins: Is the Government’s national adaptation programme up to the job? The Climate Change Committee’s verdict was harsh.\nJenny Riddell-Carpenter: We accept the evidence and will be bolder in the next national adaptation plan. It’s due in 2028, but we’re not waiting—there are one-, two- and ten-year actions already under way.\nChair: You have to speed up. We’ll be back in touch. Final point: look after the people on the front line—firefighters and volunteers who’ve been through hell.\nBaroness Blake of Leeds: Agreed: firefighter health and wellbeing and community recovery are top priorities as we put new systems in place.\n",
-  "inquiry": "Climate adaptation and emergency response"
+  "inquiry": "Climate adaptation and emergency response",
+  "glossary": [
+    {
+      "term": "DEFRA",
+      "definition": "Department for Environment, Food and Rural Affairs, the UK government department responsible for environment, farming and rural policy."
+    },
+    {
+      "term": "devolved governments",
+      "definition": "The separate national governments for Scotland, Wales and Northern Ireland with powers distinct from the UK Parliament."
+    },
+    {
+      "term": "Prime Minister’s wildfire summit",
+      "definition": "A government meeting called by the Prime Minister to coordinate response and policy on wildfires across UK and stakeholders."
+    },
+    {
+      "term": "Aerials",
+      "definition": "Aircraft used in firefighting like water-bombing planes and helicopters deployed to tackle fires from the air."
+    },
+    {
+      "term": "Chinooks",
+      "definition": "A large military transport helicopter (CH‑47 Chinook) capable of heavy lifting and sometimes used in firefighting support."
+    },
+    {
+      "term": "Ministry of Defence",
+      "definition": "The UK government department responsible for the armed forces and national defence policy."
+    },
+    {
+      "term": "RAF",
+      "definition": "Royal Air Force, the United Kingdom's air force branch of the military."
+    },
+    {
+      "term": "Peatland restoration",
+      "definition": "Work to repair and re-wet peat soils and moorland so they store carbon and are less likely to burn."
+    },
+    {
+      "term": "peat deeper than 30cm",
+      "definition": "Land where the peat layer exceeds 30 centimetres; used here as the threshold for special rules or licences on burning."
+    },
+    {
+      "term": "rewilding",
+      "definition": "A conservation approach reducing human management so natural vegetation and wildlife recover, which can increase vegetation cover."
+    },
+    {
+      "term": "Natural England’s evidence",
+      "definition": "Information or advice provided by Natural England, the UK government body for nature conservation in England."
+    },
+    {
+      "term": "Country Land and Business Association",
+      "definition": "A UK membership organisation representing farmers, landowners and rural businesses."
+    },
+    {
+      "term": "Cobra—the emergency ministers’ committee",
+      "definition": "COBRA is the UK government committee where senior ministers and officials coordinate national responses to major emergencies."
+    },
+    {
+      "term": "local resilience forum",
+      "definition": "A local multi-agency partnership (fire, police, councils, health etc.) that plans and coordinates emergency response in an area."
+    },
+    {
+      "term": "Cabinet Office",
+      "definition": "A UK government department that supports the Prime Minister and coordinates the operation of government, including emergencies."
+    },
+    {
+      "term": "high-volume pumps",
+      "definition": "Very large pumps used to move large quantities of water quickly for firefighting or flood response."
+    },
+    {
+      "term": "abstraction licences",
+      "definition": "Permissions from the regulator to take water from rivers, lakes or groundwater for uses like irrigation or filling reservoirs."
+    },
+    {
+      "term": "permitted development rights",
+      "definition": "Planning rules that allow specified building or land works to proceed without a full planning application."
+    },
+    {
+      "term": "green infrastructure",
+      "definition": "Natural or semi-natural features like parks, trees and ponds planned into towns to provide environmental and flood benefits."
+    },
+    {
+      "term": "national adaptation programme",
+      "definition": "A government strategy setting actions to adapt the country to climate change risks such as heat, flooding and wildfires."
+    },
+    {
+      "term": "Climate Change Committee",
+      "definition": "An independent UK body that advises government on climate targets and assesses progress on adaptation and emissions."
+    },
+    {
+      "term": "national adaptation plan",
+      "definition": "A specific roadmap of measures and timescales the government will take to adapt to climate change impacts."
+    },
+    {
+      "term": "place-shaping decisions",
+      "definition": "Local planning and design choices about how land and communities are developed and managed."
+    },
+    {
+      "term": "on-farm reservoirs",
+      "definition": "Small reservoirs or ponds built on farms to store water for irrigation or emergency uses like firefighting."
+    }
+  ]
 });

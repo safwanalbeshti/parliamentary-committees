@@ -344,5 +344,107 @@
         }
       ]
     }
+  ],
+  "glossary": [
+    {
+      "term": "Home Secretary",
+      "definition": "The UK government minister responsible for policing, national security, immigration and domestic affairs."
+    },
+    {
+      "term": "the Bill",
+      "definition": "A proposed law presented to Parliament for debate, amendment and approval."
+    },
+    {
+      "term": "this Parliament",
+      "definition": "The current period of the UK Parliament between one general election and the next."
+    },
+    {
+      "term": "independent reviewer",
+      "definition": "A person appointed to examine a policy or plan and report back independently to government or Parliament."
+    },
+    {
+      "term": "Rewiring the State",
+      "definition": "A government paper proposing changes to how powers and services are devolved and aligned with local leaders."
+    },
+    {
+      "term": "mayoral boundaries",
+      "definition": "Geographic areas governed by directly elected metro or city mayors."
+    },
+    {
+      "term": "pre-appointment scrutiny process",
+      "definition": "A parliamentary committee review of a proposed senior public appointment before it is formally confirmed."
+    },
+    {
+      "term": "commissioner-designate",
+      "definition": "A person who has been chosen for a post but has not yet been formally appointed."
+    },
+    {
+      "term": "delivery authority",
+      "definition": "A temporary body set up to plan and manage the practical implementation of a large reform."
+    },
+    {
+      "term": "spending round",
+      "definition": "A short-term government budgeting exercise setting departmental funding for the coming years."
+    },
+    {
+      "term": "capability transfers",
+      "definition": "The moving of specific powers, teams or functions from one agency or organisation to another."
+    },
+    {
+      "term": "National Crime Agency",
+      "definition": "The UK national law-enforcement agency that tackles serious and organised crime across regions and borders."
+    },
+    {
+      "term": "police and crime commissioners",
+      "definition": "Elected local officials who set policing priorities and budgets for a police force area."
+    },
+    {
+      "term": "multi‑authority crime and policing boards",
+      "definition": "Joint oversight bodies where several local authorities work together to govern policing and crime strategy."
+    },
+    {
+      "term": "abstractions",
+      "definition": "When police officers are temporarily taken off local duties for other tasks, reducing frontline availability."
+    },
+    {
+      "term": "PoliceAI programme",
+      "definition": "A government programme to introduce artificial intelligence tools to speed evidence work and investigations."
+    },
+    {
+      "term": "National Audit Office",
+      "definition": "An independent body that audits UK public spending and reports findings to Parliament."
+    },
+    {
+      "term": "DCMS",
+      "definition": "The Department for Digital, Culture, Media and Sport, a UK government department handling those policy areas."
+    },
+    {
+      "term": "national grooming gangs inquiry",
+      "definition": "An official investigation into organised sexual exploitation and the systems that failed victims."
+    },
+    {
+      "term": "Migration Advisory Committee",
+      "definition": "An independent expert body that advises the UK government on migration, labour needs and policy impacts."
+    },
+    {
+      "term": "one‑in, one‑out pilot with France",
+      "definition": "A trial scheme testing whether returning some people to France for each arrival can deter irregular crossings."
+    },
+    {
+      "term": "EU’s new migration pact",
+      "definition": "A recent European Union policy framework aimed at reforming how member states handle migration and asylum."
+    },
+    {
+      "term": "return hubs",
+      "definition": "Facilities or arrangements abroad intended to process and facilitate the return of migrants to other countries."
+    },
+    {
+      "term": "removals",
+      "definition": "The formal deportation process by which people without legal right to stay are sent out of the country."
+    },
+    {
+      "term": "dispersal",
+      "definition": "The policy of spreading asylum seekers and accommodation across different areas to share housing burdens."
+    }
   ]
 }

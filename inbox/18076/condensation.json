@@ -278,5 +278,63 @@
         }
       ]
     }
+  ],
+  "glossary": [
+    {
+      "term": "ARIA",
+      "definition": "The UK Advanced Research and Invention Agency, a government body that funds high‑risk, high‑reward science and technology projects."
+    },
+    {
+      "term": "DARPA",
+      "definition": "The US Defense Advanced Research Projects Agency, a government agency that funds high‑risk research, often for defence applications."
+    },
+    {
+      "term": "BIST",
+      "definition": "The oversight body mentioned in the session that made the chair appointment decisions for ARIA."
+    },
+    {
+      "term": "creator",
+      "definition": "An ARIA-funded lead researcher or team responsible for running a project and often forming companies to develop results."
+    },
+    {
+      "term": "programme directors",
+      "definition": "Staff who design and run ARIA programmes, choose and monitor projects, and decide on funding actions."
+    },
+    {
+      "term": "prime contracts",
+      "definition": "Main contracts awarded directly by the funder to a company or organisation to deliver work or services."
+    },
+    {
+      "term": "subcontractors",
+      "definition": "Companies or individuals hired by the prime contractor to carry out parts of the contracted work."
+    },
+    {
+      "term": "red/amber/green checks",
+      "definition": "A simple traffic‑light system used to indicate project status or levels of risk and priority (red=problem, green=good)."
+    },
+    {
+      "term": "Baroness Willis of Summertown",
+      "definition": "A named member of the UK House of Lords who took part in this parliamentary committee session."
+    },
+    {
+      "term": "Lord Duncan of Springbank",
+      "definition": "A named member of the UK House of Lords who took part in this parliamentary committee session."
+    },
+    {
+      "term": "Chair",
+      "definition": "The person leading the committee session, responsible for guiding the discussion and managing speakers."
+    },
+    {
+      "term": "term‑limited",
+      "definition": "Describes a post that lasts only for a fixed period, after which the person must step down or be reappointed."
+    },
+    {
+      "term": "phased funding",
+      "definition": "Funding released in stages, where later payments depend on meeting agreed milestones or results."
+    },
+    {
+      "term": "technical evaluation teams",
+      "definition": "Groups of expert assessors who review and judge the technical quality and progress of research projects."
+    }
   ]
 }

@@ -290,5 +290,87 @@
         }
       ]
     }
+  ],
+  "glossary": [
+    {
+      "term": "Schools White Paper",
+      "definition": "A government policy document setting out proposed reforms and commitments for schools in England."
+    },
+    {
+      "term": "GCSE",
+      "definition": "General Certificate of Secondary Education: standard exams taken by most UK students around age 16."
+    },
+    {
+      "term": "technical awards at 16",
+      "definition": "Vocational or practical qualifications offered to 16-year-olds as alternatives to academic GCSEs."
+    },
+    {
+      "term": "further/ higher technical qualifications",
+      "definition": "Post-16 vocational qualifications at college (further) or higher education levels for specific occupations."
+    },
+    {
+      "term": "trusts",
+      "definition": "Short for academy trusts: organisations that run one or more state-funded schools under a single board."
+    },
+    {
+      "term": "trustees",
+      "definition": "People legally responsible for running a trust and making decisions about its schools and finances."
+    },
+    {
+      "term": "Inspection of whole trusts",
+      "definition": "Assessing and reporting on the performance of an entire academy trust, not just its individual schools."
+    },
+    {
+      "term": "local authorities",
+      "definition": "Local councils in the UK that deliver public services, including planning and funding school places."
+    },
+    {
+      "term": "academies",
+      "definition": "State-funded schools in England that operate independently of local authority control, often run by trusts."
+    },
+    {
+      "term": "maintained",
+      "definition": "A maintained school is state-funded and directly overseen and funded by the local authority."
+    },
+    {
+      "term": "place-planning",
+      "definition": "Local planning to ensure there are enough school places in the right locations for children in an area."
+    },
+    {
+      "term": "backstop powers",
+      "definition": "Fallback legal powers given to authorities to enforce actions or ensure provision when others refuse or fail to act."
+    },
+    {
+      "term": "SEND hubs",
+      "definition": "Local centres providing specialist support for pupils with Special Educational Needs and Disabilities (SEND)."
+    },
+    {
+      "term": "alternative provision",
+      "definition": "Education arranged outside mainstream schools for pupils who cannot attend due to exclusion, illness or other needs."
+    },
+    {
+      "term": "Progress 8",
+      "definition": "An English school performance measure showing pupil progress across eight GCSE subject areas between ages 11 and 16."
+    },
+    {
+      "term": "PISA tests",
+      "definition": "Programme for International Student Assessment: international tests comparing 15-year-olds' reading, maths and science skills."
+    },
+    {
+      "term": "federations",
+      "definition": "Formal partnerships where two or more schools share leadership or a single governing body to collaborate closely."
+    },
+    {
+      "term": "shrinking rolls",
+      "definition": "Falling pupil numbers enrolled at a school or across a local area."
+    },
+    {
+      "term": "fair access",
+      "definition": "Policies and arrangements to ensure children, especially vulnerable ones, get a school place quickly and equitably."
+    },
+    {
+      "term": "Whitehall",
+      "definition": "A common term for the UK central government departments and civil service based in London."
+    }
   ]
 }

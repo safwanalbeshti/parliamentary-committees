@@ -262,5 +262,67 @@
         }
       ]
     }
+  ],
+  "glossary": [
+    {
+      "term": "DHSC",
+      "definition": "The UK Department of Health and Social Care, the government department responsible for national health policy and NHS oversight."
+    },
+    {
+      "term": "PM2.5",
+      "definition": "Fine particulate matter with diameter 2.5 micrometres or less that can penetrate lungs and bloodstream and harm health."
+    },
+    {
+      "term": "WHO",
+      "definition": "The World Health Organization, the United Nations agency that issues international public‑health guidance and standards."
+    },
+    {
+      "term": "UKHSA",
+      "definition": "UK Health Security Agency, the national agency (successor to Public Health England) that protects the public from health threats and hazards."
+    },
+    {
+      "term": "Air Pollution Awareness Coalition",
+      "definition": "A DEFRA‑convened group of academics, health professionals and charities that coordinate public messaging on air pollution."
+    },
+    {
+      "term": "air-quality index",
+      "definition": "A daily numeric or colour-coded scale that shows local pollution levels and gives simple health advice for the public."
+    },
+    {
+      "term": "Ella’s law",
+      "definition": "A popular name for a proposed campaign law, inspired by a child named Ella, aiming to make clean air a legal right."
+    },
+    {
+      "term": "Clean Air (Human Rights) Bill",
+      "definition": "A proposed UK bill to recognise clean air as a legal right and require government action to protect air quality."
+    },
+    {
+      "term": "Royal colleges",
+      "definition": "UK professional medical bodies (e.g. Royal College of Physicians) that set standards, training and exams for doctors."
+    },
+    {
+      "term": "Cabinet Office",
+      "definition": "The UK government department that coordinates policy across departments and supports the Prime Minister and Cabinet."
+    },
+    {
+      "term": "Treasury",
+      "definition": "HM Treasury, the UK government department responsible for public spending, taxation and overall economic policy."
+    },
+    {
+      "term": "zone charges",
+      "definition": "Local fees levied on vehicles entering designated urban zones to reduce traffic and improve air quality."
+    },
+    {
+      "term": "statutory",
+      "definition": "A legal term meaning required, created or enforceable by law."
+    },
+    {
+      "term": "agricultural ammonia",
+      "definition": "Ammonia emissions from fertiliser and livestock that react in air to form fine particles harmful to health."
+    },
+    {
+      "term": "local authorities",
+      "definition": "Local councils in the UK that deliver services like planning, public health, education and local regulation."
+    }
   ]
 }

@@ -272,5 +272,67 @@
         }
       ]
     }
+  ],
+  "glossary": [
+    {
+      "term": "Powys County Council",
+      "definition": "The local government authority that provides public services for the county of Powys in Wales."
+    },
+    {
+      "term": "deputy returning officer",
+      "definition": "An official who helps the returning officer run and oversee an election in a local area."
+    },
+    {
+      "term": "electoral registration officer (ERO)",
+      "definition": "The official responsible for keeping the local electoral register and handling voter registrations."
+    },
+    {
+      "term": "depute convenor",
+      "definition": "A deputy chair or vice‑chair (Scottish usage) who helps lead a committee or board."
+    },
+    {
+      "term": "Scotland's Electoral Management Board",
+      "definition": "A body that coordinates and supports election administrators across Scotland."
+    },
+    {
+      "term": "Electoral Commission",
+      "definition": "The independent UK organisation that regulates and provides guidance on elections and voting."
+    },
+    {
+      "term": "automatic voter registration",
+      "definition": "A system that adds eligible citizens to the electoral register automatically using government records unless they opt out."
+    },
+    {
+      "term": "franchise",
+      "definition": "A formal term for the right to vote in elections."
+    },
+    {
+      "term": "postcode lottery",
+      "definition": "A UK phrase meaning services or outcomes vary unfairly depending on where someone lives."
+    },
+    {
+      "term": "statutory provision",
+      "definition": "A service or requirement that must be provided because it is set out in law."
+    },
+    {
+      "term": "CPD",
+      "definition": "Continuing Professional Development — ongoing training and education for professionals such as teachers."
+    },
+    {
+      "term": "Ofsted",
+      "definition": "The UK government agency that inspects and regulates schools and childcare (Office for Standards in Education)."
+    },
+    {
+      "term": "hustings",
+      "definition": "A public meeting where election candidates debate and answer questions before voters."
+    },
+    {
+      "term": "voter ID",
+      "definition": "Official proof of identity required at polling stations to be allowed to vote."
+    },
+    {
+      "term": "postal votes",
+      "definition": "Ballots that voters complete and send by post instead of voting in person at a polling station."
+    }
   ]
 }

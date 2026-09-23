@@ -172,5 +172,79 @@ window.COMMITTEE_SESSIONS.push({
     }
   },
   "transcript": "# General Election Planning\n\n## Overall view: support improved but not perfect\n> House staff and IPSA largely delivered an improved package after 2024, but support still needs strengthening.\n\nChair: Welcome. We’re asking former MPs about how well the support after the 2024 election worked when people left Parliament. Could you introduce yourselves?\nNigel Mills: I’m Nigel Mills, MP for Amber Valley from 2010 to 2024.\nSir Charles Walker: Charles Walker here, Broxbourne MP 2005–2024. I chaired the previous Administration Committee work on leaving Parliament, called “Smoothing the cliff edge.”\nBaroness Debbonaire: Thangam Debbonaire, Bristol West 2015–2024.\nMr Nigel Evans: Mr Nigel Evans—former MP, served 32 years.\nSir Charles Walker: Short answer: the House service and IPSA did well after 2024. I can’t give 10/10 but I’d give about nine and a half out of 10.\n\n\n## The shock of losing: it’s public and traumatic\n> Leaving suddenly is often experienced as trauma, especially when it happens in public and when staff must be made redundant.\n\nBambos Charalambous: How prepared were you for leaving, and what surprised you?\nNigel Mills: I’d seen the polls and expected it, but you can’t prepare fully. You can’t look for jobs in an active campaign, so the reality hits hard on the day you lose.\nBaroness Debbonaire: Losing your job publicly is a form of trauma. You’re 58, unemployed on TV, and have to make staff redundant—there’s no real way to prepare for that public humiliation.\nMr Nigel Evans: I was genuinely surprised when my once-rock-solid seat fell. I’d never planned ahead. The practical help I was offered afterwards was, fortunately, good.\nSir Charles Walker: People should act as if their last day here might come even on their first day—this is a vocation with an expiry date for most, and the House should give better accredited retraining.\n\n\n## Staff, notice periods and redundancy: the weakest point\n> Staff were often less protected than MPs—guidance on notice, pay and help into new jobs was unclear and inconsistent.\n\nMary Glindon: How realistic were the deadlines for winding up and how were your staff supported?\nBaroness Debbonaire: A three-month winding-up period helped, but staff support was the main worry. My team planned secretly and found jobs quickly, but not everyone could, and the emotional impact was huge.\nNigel Mills: There was confusion about the four-month period people expected. Some staff assumed it meant four months’ pay—some MPs thought it was a cap, others a limit. That needs clarity.\nMr Nigel Evans: MPs got a cushion, staff didn’t. Many staff are young with mortgages and families; their position can be brutal. They should get the same protections as MPs.\nNigel Mills: The redundancy process felt odd: consultation meetings, a week’s notice, then an appointment a week later—it burns time and feels unhelpful when you already know there's no job.\nSir Charles Walker: If the House wants to be a serious employer it should fund ongoing professional development, with qualifications recognised by top universities or training bodies.\n\n\n## Practical problems: kit, email and handovers\n> Practical help mostly worked, but device disposal, loss of parliamentary email, and casework handover caused distress and inefficiency.\n\nKirsteen Sullivan: Was the guidance from the House, IPSA and parties clear on what to do during Dissolution and winding up?\nBaroness Debbonaire: Guidance was mostly good, but managers wanted a clear toolkit—how to destroy or keep data, recycle computers, and whether staff can finish casework during Dissolution.\nSir Charles Walker: I was upset to see old kit hauled off to a skip. Letting departing MPs buy useful kit or re-use it would avoid waste and avoid humiliating moments.\nMr Nigel Evans: Losing your parliamentary email is brutal. One simple idea: provide a standard ex-MP email address (like name.exmp@parliament.uk) so people know how to contact you afterwards.\nMarie Goldman: Did casework handover to incoming MPs work?\nNigel Mills: Most casework dries up during a campaign. We offered to transfer files where constituents consented, but there weren’t many outstanding cases.\nBaroness Debbonaire: Incoming winners often expect inherited urgent cases, but usually those are already handled. It’s sensible to assume new MPs will start from scratch unless there’s an exception.\nNigel Mills: One more practical point: references. IPSA will confirm employment dates, but if an employer wants more detail they email your personal address, which is awkward once your parliamentary email is gone.\n\n\n## Aftercare: careers support and emotional help\n> Career transition coaching and private therapy were very helpful; the House should consider offering more emotional support and accredited retraining, and extending career help to staff.\n\nBambos Charalambous: Would you use the careers transition service and how important was emotional support?\nBaroness Debbonaire: I used the careers service and it was invaluable for translating MP skills into jobs. I also paid for private therapy from February—therapy and careers coaching reinforced each other.\nSir Charles Walker: Outplacement and career coaching were useful. But we need accredited, serious retraining options and for MPs themselves to plan from day one for when they eventually leave.\nNigel Mills: Careers support should be offered to staff too. A good employer helps people into new roles; Parliament should be no different if it wants to recruit good staff.\nMr Nigel Evans: I still keep in touch with ex-staff. They deserve the same cushion and access to training as MPs if we want to attract top people to these jobs.\nBob Blackman: Would you come back to mentor new MPs?\nSir Charles Walker: No. New MPs don’t want defeated former MPs around. And many of us need paid work ourselves—most of us left and needed to find jobs, so unpaid mentoring isn’t realistic.\nBaroness Debbonaire: I agree. New MPs should learn the job directly, and retired MPs aren’t the right free resource—people need to be paid for their labour and time.\n\n\n## What to fix next\n> Keep the good bits (reception centre, careers coaching, clearer guidance), fix staff protections, clarify notice/pay rules, avoid wasteful disposal and provide email continuity and accredited retraining.\n\nChair: To finish: what practical fixes would you recommend most strongly?\nSir Charles Walker: Develop accredited professional training for MPs, publicly funded career development, and make sure outplacement continues.\nBaroness Debbonaire: Give clearer toolkits for office managers, better guidance on confidential waste, and make emotional support accessible—recommend private therapy to others who can afford it.\nNigel Mills: Clarify whether the four-month winding-up is a cap or a target, simplify redundancy paperwork and improve support for staff getting CVs and interview practice.\nMr Nigel Evans: Provide a straightforward ex-MP contact address so constituents and other organisations can still reach former MPs, and treat staff as equally deserving of cushioning.\nChair: Thank you all for clear, practical feedback. That concludes this session.\n",
-  "inquiry": "General Election Planning"
+  "inquiry": "General Election Planning",
+  "glossary": [
+    {
+      "term": "Administration Committee",
+      "definition": "A Commons committee that oversees the services, staffing and accommodation that support Members of Parliament."
+    },
+    {
+      "term": "Smoothing the cliff edge.",
+      "definition": "Title of the Administration Committee's report on improving support for MPs when they leave Parliament."
+    },
+    {
+      "term": "House service",
+      "definition": "The staff and teams who run the day-to-day business and provide administrative support to MPs in the House of Commons."
+    },
+    {
+      "term": "IPSA",
+      "definition": "Independent Parliamentary Standards Authority, the body that sets MPs' pay and expenses rules and provides some services for MPs."
+    },
+    {
+      "term": "Dissolution",
+      "definition": "The formal ending of a Parliament before a general election, after which MPs cease to hold their seats until results are declared."
+    },
+    {
+      "term": "winding up",
+      "definition": "The process of closing down an MP's office and affairs after they leave Parliament or an election ends."
+    },
+    {
+      "term": "winding-up period",
+      "definition": "A defined short period after an election or dissolution given to close an MP's office, settle finances and handle administrative tasks."
+    },
+    {
+      "term": "redundancy process",
+      "definition": "The formal employment steps (consultation, notice and pay) used when staff are laid off because a role no longer exists."
+    },
+    {
+      "term": "consultation meetings",
+      "definition": "Meetings held with staff during redundancies to discuss the reasons, alternatives and next steps as part of the legal process."
+    },
+    {
+      "term": "outplacement",
+      "definition": "Support services for people who have lost jobs, offering CV help, coaching and job-search assistance to find new work."
+    },
+    {
+      "term": "casework",
+      "definition": "Individual problems, complaints or requests from constituents that an MP or their staff handle on behalf of voters."
+    },
+    {
+      "term": "casework handover",
+      "definition": "The transfer of ongoing constituent cases and files from a departing MP's office to the incoming MP or office."
+    },
+    {
+      "term": "incoming MPs",
+      "definition": "Candidates who won seats at the election and are starting their roles as the new Members of Parliament."
+    },
+    {
+      "term": "ex-MP email address",
+      "definition": "A proposed standard email account for former MPs to remain contactable after their official parliamentary email is removed."
+    },
+    {
+      "term": "parliamentary email",
+      "definition": "The official email account provided to MPs while in office, which is usually deactivated after they leave."
+    },
+    {
+      "term": "careers transition service",
+      "definition": "A service offering career advice, retraining and job-search help specifically aimed at MPs leaving Parliament."
+    },
+    {
+      "term": "skip",
+      "definition": "British term for a large outdoor rubbish container or dumpster used for disposing of bulky waste during clear-outs."
+    },
+    {
+      "term": "House",
+      "definition": "Short for the House of Commons, the elected chamber of the UK Parliament where Members of Parliament sit."
+    }
+  ]
 });

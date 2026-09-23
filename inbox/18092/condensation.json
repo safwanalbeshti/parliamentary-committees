@@ -308,5 +308,103 @@
         }
       ]
     }
+  ],
+  "glossary": [
+    {
+      "term": "DEFRA",
+      "definition": "Department for Environment, Food and Rural Affairs, the UK government department responsible for environment, farming and rural policy."
+    },
+    {
+      "term": "devolved governments",
+      "definition": "The separate national governments for Scotland, Wales and Northern Ireland with powers distinct from the UK Parliament."
+    },
+    {
+      "term": "Prime Minister’s wildfire summit",
+      "definition": "A government meeting called by the Prime Minister to coordinate response and policy on wildfires across UK and stakeholders."
+    },
+    {
+      "term": "Aerials",
+      "definition": "Aircraft used in firefighting like water-bombing planes and helicopters deployed to tackle fires from the air."
+    },
+    {
+      "term": "Chinooks",
+      "definition": "A large military transport helicopter (CH‑47 Chinook) capable of heavy lifting and sometimes used in firefighting support."
+    },
+    {
+      "term": "Ministry of Defence",
+      "definition": "The UK government department responsible for the armed forces and national defence policy."
+    },
+    {
+      "term": "RAF",
+      "definition": "Royal Air Force, the United Kingdom's air force branch of the military."
+    },
+    {
+      "term": "Peatland restoration",
+      "definition": "Work to repair and re-wet peat soils and moorland so they store carbon and are less likely to burn."
+    },
+    {
+      "term": "peat deeper than 30cm",
+      "definition": "Land where the peat layer exceeds 30 centimetres; used here as the threshold for special rules or licences on burning."
+    },
+    {
+      "term": "rewilding",
+      "definition": "A conservation approach reducing human management so natural vegetation and wildlife recover, which can increase vegetation cover."
+    },
+    {
+      "term": "Natural England’s evidence",
+      "definition": "Information or advice provided by Natural England, the UK government body for nature conservation in England."
+    },
+    {
+      "term": "Country Land and Business Association",
+      "definition": "A UK membership organisation representing farmers, landowners and rural businesses."
+    },
+    {
+      "term": "Cobra—the emergency ministers’ committee",
+      "definition": "COBRA is the UK government committee where senior ministers and officials coordinate national responses to major emergencies."
+    },
+    {
+      "term": "local resilience forum",
+      "definition": "A local multi-agency partnership (fire, police, councils, health etc.) that plans and coordinates emergency response in an area."
+    },
+    {
+      "term": "Cabinet Office",
+      "definition": "A UK government department that supports the Prime Minister and coordinates the operation of government, including emergencies."
+    },
+    {
+      "term": "high-volume pumps",
+      "definition": "Very large pumps used to move large quantities of water quickly for firefighting or flood response."
+    },
+    {
+      "term": "abstraction licences",
+      "definition": "Permissions from the regulator to take water from rivers, lakes or groundwater for uses like irrigation or filling reservoirs."
+    },
+    {
+      "term": "permitted development rights",
+      "definition": "Planning rules that allow specified building or land works to proceed without a full planning application."
+    },
+    {
+      "term": "green infrastructure",
+      "definition": "Natural or semi-natural features like parks, trees and ponds planned into towns to provide environmental and flood benefits."
+    },
+    {
+      "term": "national adaptation programme",
+      "definition": "A government strategy setting actions to adapt the country to climate change risks such as heat, flooding and wildfires."
+    },
+    {
+      "term": "Climate Change Committee",
+      "definition": "An independent UK body that advises government on climate targets and assesses progress on adaptation and emissions."
+    },
+    {
+      "term": "national adaptation plan",
+      "definition": "A specific roadmap of measures and timescales the government will take to adapt to climate change impacts."
+    },
+    {
+      "term": "place-shaping decisions",
+      "definition": "Local planning and design choices about how land and communities are developed and managed."
+    },
+    {
+      "term": "on-farm reservoirs",
+      "definition": "Small reservoirs or ponds built on farms to store water for irrigation or emergency uses like firefighting."
+    }
   ]
 }

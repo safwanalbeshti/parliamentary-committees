@@ -248,5 +248,103 @@
         }
       ]
     }
+  ],
+  "glossary": [
+    {
+      "term": "Royal Household",
+      "definition": "The organisation that supports the monarch in official duties and manages royal residences and staff."
+    },
+    {
+      "term": "private audience",
+      "definition": "A confidential one-on-one meeting, here the weekly private meeting between monarch and Prime Minister."
+    },
+    {
+      "term": "PMQs",
+      "definition": "Prime Minister's Questions: a weekly Commons session where MPs question the Prime Minister."
+    },
+    {
+      "term": "private secretary",
+      "definition": "A senior aide who manages a senior official’s diary, correspondence and briefings; here for the monarch or PM."
+    },
+    {
+      "term": "Head of State",
+      "definition": "The country's official, ceremonial leader (in the UK, the monarch) separate from the head of government."
+    },
+    {
+      "term": "Head of Government",
+      "definition": "The person who runs the government and sets policy (in the UK, the Prime Minister)."
+    },
+    {
+      "term": "Freedom of Information",
+      "definition": "Laws and rules that let the public request official information from government bodies."
+    },
+    {
+      "term": "'formulation of policy'",
+      "definition": "A Freedom of Information exemption protecting internal government thinking and draft plans from disclosure."
+    },
+    {
+      "term": "non-partisan perspective",
+      "definition": "A viewpoint not aligned with any political party, intended to be neutral and impartial."
+    },
+    {
+      "term": "Reserve powers",
+      "definition": "Unwritten constitutional powers the monarch (or representative) can use in exceptional crises."
+    },
+    {
+      "term": "appointing a Prime Minister",
+      "definition": "The formal act where the monarch names someone to be Prime Minister, usually the person who can command a majority."
+    },
+    {
+      "term": "command the House",
+      "definition": "To have the support of the majority of members in the House of Commons to govern effectively."
+    },
+    {
+      "term": "prorogue (suspend) Parliament",
+      "definition": "To suspend Parliament's sittings for a period, ending current business until it next meets."
+    },
+    {
+      "term": "confidence vote",
+      "definition": "A parliamentary vote that tests whether the government still has majority support; losing it can force resignation."
+    },
+    {
+      "term": "Cabinet",
+      "definition": "The group of senior government ministers who make collective decisions on policy and administration."
+    },
+    {
+      "term": "Cabinet Secretary",
+      "definition": "The most senior civil servant who coordinates the Cabinet office and advises the Prime Minister."
+    },
+    {
+      "term": "in‑office, temporarily incapacitated Prime Minister",
+      "definition": "A serving Prime Minister who is unable to perform duties temporarily due to illness or incapacity."
+    },
+    {
+      "term": "Governor‑General",
+      "definition": "The monarch's representative in a Commonwealth country who carries out constitutional duties there."
+    },
+    {
+      "term": "Gough Whitlam",
+      "definition": "Australian Prime Minister whose 1975 removal by the Governor‑General was a major constitutional crisis."
+    },
+    {
+      "term": "Australia’s 1975 dismissal of Gough Whitlam",
+      "definition": "The event when Australia’s Governor‑General dismissed PM Whitlam, unexpectedly ending his government."
+    },
+    {
+      "term": "constitutional guardians",
+      "definition": "Officials or institutions (like senior civil servants or judges) seen as protectors of constitutional norms."
+    },
+    {
+      "term": "Cabinet Manual",
+      "definition": "A government handbook setting out accepted rules and conventions about how ministers and departments should operate."
+    },
+    {
+      "term": "uncodified constitution",
+      "definition": "A system where constitutional rules come from statutes, conventions and precedent rather than a single written document."
+    },
+    {
+      "term": "PM",
+      "definition": "Abbreviation for Prime Minister, the head of the UK government."
+    }
   ]
 }

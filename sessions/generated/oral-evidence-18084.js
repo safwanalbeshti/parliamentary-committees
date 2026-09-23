@@ -183,5 +183,107 @@ window.COMMITTEE_SESSIONS.push({
     }
   },
   "transcript": "# The work of the Minister for International Development\n\n## Minister's priorities and style\n> The Minister will continue existing strategies but emphasise a values-led agenda focused on five 'securities' and a stronger commitment to women, children and local leadership.\n\nChair: Welcome to your first Committee session. Can you introduce yourselves?\nKirsty McNeill: I'm Kirsty McNeill, Minister for International Development and for Africa. I'm joined by Nick Dyer, the interim permanent secretary at the FCDO.\nKirsty McNeill: My priorities: keep continuity with the previous Africa approach, back the four shifts the Department adopted—donor to investor, service delivery to systems support, grants to expertise, and international to local leadership—and add a values-led push focused on saving and changing lives.\nKirsty McNeill: I'm emphasising five 'securities'—health, climate, food, human and economic security—and I want women, girls and young people to be central to everything we do.\nChair: So continuity, plus those new emphases. Good. Nick, when will the new permanent secretary start?\nNick Dyer: She formally starts on 19 October; I'm interim until then and will continue to focus a fair share of time on development.\n\n\n## What the 'Africa approach' means\n> The approach is pragmatic: honest government-to-government deals where needed, but also engagement with civil society and local leadership; Minister wants to speak out when governments fail parts of their population.\n\nChair: The previous 'Africa approach' felt very Government-to-Government and a bit generic. How will you steer it?\nKirsty McNeill: That approach came from wide consultations across government, business and civil society in Africa: they want brisk, transactional deals when appropriate and clarity about what Britain wants. I'll keep equitable partnerships with Governments but insist we also call out failings when citizens are harmed.\nNoah Law: Are we seeing success from the more transactional, commercial elements of that approach?\nKirsty McNeill: Yes. Work with Nigeria and Ghana looks different from security or minerals work elsewhere. African capitals I’ve spoken to say bilateral relations are tailored, not a one-size-fits-all 'continental' policy.\nChair: And the most marginalised—how do they get a voice?\nKirsty McNeill: Through localisation—putting power and resources closer to communities—and a human-rights approach. I want development to be for the people directly affected, not only for governments or big organisations.\n\n\n## Multilateral vs bilateral, and showing impact\n> The Government prefers scaled multilateral work but accepts reform and better public communication about impact; bilateral work shows attributed impact but has been cut to protect multilateral spending.\n\nJames Naish: You favour multilateral scaled impact over bilateral attribution. How will you show concrete results to the public?\nKirsty McNeill: I bias towards scaled multilateral impact but am critical where multilaterals need reform on effectiveness and representation. We must tell clear impact stories—what our money actually did—rather than just how much we gave.\nNick Dyer: Example: for Gavi we can say the UK's contribution helps immunise 109 million children. We should give that kind of tangible narrative about World Bank and others too.\nNoah Law: But is transparency around bilateral impact good enough?\nKirsty McNeill: We haven’t always told the story confidently. I’ll be proactive about explaining what aid achieves and welcome this Committee's scrutiny.\nDr Rushworth: Bilateral cuts hit development delivery—what's the likely diplomatic impact?\nKirsty McNeill: Early conversations suggest African partners want a wider relationship—security, trade, investment—not just aid. Our imputed multilateral spend helps keep the Africa proportion steady, but ODA isn't the only way to show commitment.\n\n\n## Government coordination, Cabinet access and EU/US relations\n> Although the Minister isn't in Cabinet, she plans a strong cross-government approach and will use the Foreign Secretary and new forums to press development priorities; relations with EU and US development counterparts are being rebuilt.\n\nJanet Daby: You aren't in Cabinet. Can you still get traction across government?\nKirsty McNeill: Yes. A cross-Government ODA board can do the accounting and policy coherence work. The Foreign Secretary, who chairs Cabinet, is committed to development and will push it in Cabinet—I'm comfortable and will hold Whitehall to account.\nJames Naish: Where are relations with the EU and US on development?\nKirsty McNeill: Good news: I've been invited to the EU Development Ministers' meeting—the first UK invite since Brexit—and Nick has restarted an official-level development dialogue with the European Commission.\nNick Dyer: On the US, channels shifted after their changes; we keep engaging through Hill contacts, G7 and G20 and look for entry points to align on development finance and humanitarian efforts.\n\n\n## Delivery, localisation, NGOs and staff capacity\n> The FCDO plans to make tendering and programme rules easier for small local organisations, build 'communities of expertise' to give technical advice, protect staff morale during restructures, and be more purposeful about convening civil society and listening to people on the ground.\n\nDr Rushworth: Smaller local groups are often shut out by FCDO rules. How will you fix procurement to get money to grassroots?\nNick Dyer: We're rethinking due diligence and reporting so requirements are proportionate to organisation size—one-off checks, simpler tendering, and drawing more on local partners instead of forcing small groups into onerous processes.\nKirsty McNeill: I want substantive, expert engagement with civil society and to hear directly from women, children and young people on my country visits. Local voices must shape programs, not just London-based NGOs.\nChair: How will you protect and stabilise the FCDO workforce after years of change?\nKirsty McNeill: I’m visiting posts often, stressing continuity, and making staff feel valued publicly. We've kept crucial development capability and are rebuilding confidence with a new permanent secretary from a DFID background.\nBrian Mathew: On water and WASH: are you prioritising it within food, climate and health?\nNick Dyer: Yes—water is central. We shifted from direct delivery to system-level work and are leveraging MDBs like the World Bank, which has stepped up with large water commitments.\n\n\n## Crisis responses: Gaza, Israel policy, Ukraine, Sudan and Ebola\n> The Minister defended recent policy shifts—stronger stance on settlements and continued humanitarian support—affirmed Ukraine and Sudan commitments, stressed access is the limiting factor in Gaza, and confirmed stepped-up Ebola support.\n\nChair: You announced a policy shift on Israel and settlements. How does that change FCDO action?\nKirsty McNeill: It’s a significant shift in line with international law concerns: we’ll press for adherence to law while continuing humanitarian support for Palestinians and keeping alive a two-state path so a Palestinian duty-bearer can emerge.\nBrian Mathew: Some work tracking possible law breaches was reorganised—has that intelligence capability been lost?\nNick Dyer: No. The International Humanitarian Law unit moved back into the export control unit; the staff remain and we still use open-source, NGO and other sources including the Centre for Information Resilience.\nJames Naish: Gaza faces acute hunger, yet UK funding to WFP fell sharply—how do you justify that?\nKirsty McNeill: Our humanitarian commitment stands. That said, donors face awful choices between emergency relief and long-term resilience. Nick and I want the Committee’s challenge on whether we have the right balance.\nNick Dyer: In Gaza the primary constraint is access, not just money. More crossing points and fewer restrictions on dual-use goods are needed to get food and rescue supplies in.\nJames Naish: What about Ukraine?\nKirsty McNeill: We remain proud of our support: steady allocations are focused on humanitarian help, reconstruction planning and fiscal support—guarantees are critical to keep Ukraine functioning financially.\nMonica Harding: Has the Chelsea/Roman Abramovich fund money been released?\nKirsty McNeill: We want those proceeds released urgently to help Ukraine. We created a licence to enable it and are exploring legal options if needed; we won’t delay getting the money to vulnerable people.\nJames Naish: Ebola—what's the UK doing?\nKirsty McNeill: We announced extra funding, moved fast and coordinated with Africa CDC and AU; our money is being disbursed quickly into surveillance, response and vaccine trials where possible.\n",
-  "inquiry": "The work of the Minister for International Development"
+  "inquiry": "The work of the Minister for International Development",
+  "glossary": [
+    {
+      "term": "FCDO",
+      "definition": "The Foreign, Commonwealth & Development Office, the UK government department handling foreign policy and international aid."
+    },
+    {
+      "term": "permanent secretary",
+      "definition": "The most senior civil servant in a government department who runs its day-to-day operations."
+    },
+    {
+      "term": "bilateral",
+      "definition": "A relationship, agreement, or action involving two countries or two parties."
+    },
+    {
+      "term": "multilateral",
+      "definition": "Involving three or more countries or organisations working together on an issue."
+    },
+    {
+      "term": "localisation",
+      "definition": "Shifting power and funding closer to local communities and organisations rather than centralised bodies."
+    },
+    {
+      "term": "attribution",
+      "definition": "Showing that a particular outcome was caused by a specific action or donor, not by others."
+    },
+    {
+      "term": "Gavi",
+      "definition": "A global vaccine alliance that helps fund and distribute vaccines in poor countries."
+    },
+    {
+      "term": "ODA",
+      "definition": "Official Development Assistance: government aid that counts toward international development spending targets."
+    },
+    {
+      "term": "Whitehall",
+      "definition": "A common term for the UK central government departments and the civil service in London."
+    },
+    {
+      "term": "Hill contacts",
+      "definition": "Contacts among lawmakers and staff on Capitol Hill in the US Congress."
+    },
+    {
+      "term": "due diligence",
+      "definition": "Checks and assessments done before funding or partnering to identify risks and compliance issues."
+    },
+    {
+      "term": "tendering",
+      "definition": "A formal procurement process where organisations invite and evaluate bids to supply goods or services."
+    },
+    {
+      "term": "DFID",
+      "definition": "Department for International Development, the former UK government department for aid, merged into the FCDO."
+    },
+    {
+      "term": "MDBs",
+      "definition": "Multilateral development banks, international institutions that fund development projects (e.g., the World Bank)."
+    },
+    {
+      "term": "Centre for Information Resilience",
+      "definition": "An organisation that researches and counters misinformation and harmful online information operations."
+    },
+    {
+      "term": "WFP",
+      "definition": "World Food Programme, the United Nations agency that provides food assistance in emergencies."
+    },
+    {
+      "term": "dual-use goods",
+      "definition": "Items or technologies that can be used for both civilian and military purposes."
+    },
+    {
+      "term": "imputed multilateral spend",
+      "definition": "Accounting method that credits a country with a share of the spending done by multilateral organisations it supports."
+    },
+    {
+      "term": "Africa CDC",
+      "definition": "Africa Centres for Disease Control and Prevention, the African Union agency for disease surveillance and response."
+    },
+    {
+      "term": "AU",
+      "definition": "African Union, the continental organisation of African countries that coordinates policy and cooperation."
+    },
+    {
+      "term": "export control unit",
+      "definition": "A government team that manages rules on exporting sensitive goods, technology, or services."
+    },
+    {
+      "term": "Chelsea/Roman Abramovich fund",
+      "definition": "Funds linked to Roman Abramovich and Chelsea football club assets designated to be used, in this context, for aid to Ukraine."
+    },
+    {
+      "term": "licence",
+      "definition": "Official permission, often from government, to do something normally restricted, such as use frozen assets."
+    },
+    {
+      "term": "International Humanitarian Law unit",
+      "definition": "A team that monitors and advises on compliance with the laws governing conduct in armed conflict."
+    },
+    {
+      "term": "duty-bearer",
+      "definition": "An actor, usually a government, that has the legal or moral obligation to respect and fulfil people's rights."
+    }
+  ]
 });

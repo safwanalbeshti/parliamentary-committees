@@ -268,5 +268,27 @@
         }
       ]
     }
+  ],
+  "glossary": [
+    {
+      "term": "ratification",
+      "definition": "The formal approval process by which a government or parliament gives official legal consent to a treaty or international agreement."
+    },
+    {
+      "term": "CPTPP",
+      "definition": "The Comprehensive and Progressive Agreement for Trans‑Pacific Partnership, a multilateral trade deal between Pacific‑rim countries covering tariffs and trade rules."
+    },
+    {
+      "term": "Cyber Resilience Act",
+      "definition": "An EU law proposal that sets mandatory cybersecurity safety rules for digital products and connected devices to reduce cyber risks."
+    },
+    {
+      "term": "OECD",
+      "definition": "The Organisation for Economic Co‑operation and Development, an intergovernmental group of mostly wealthy countries that sets economic and tax standards."
+    },
+    {
+      "term": "open register of beneficial ownership of companies",
+      "definition": "A public list that shows the real people who ultimately own or control companies to improve transparency and prevent money laundering."
+    }
   ]
 }

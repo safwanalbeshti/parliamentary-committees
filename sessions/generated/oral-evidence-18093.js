@@ -183,5 +183,83 @@ window.COMMITTEE_SESSIONS.push({
     }
   },
   "transcript": "# United Nations Industrial Development Organization\n\n## Why we're here and what changed since the UK's withdrawal\n> UNIDO says it has reformed its internal systems and increased on-the-ground delivery since the UK left, and that the UK’s return would buy influence as well as funds.\n\nChair: We're here to hear why the UK is rejoining UNIDO and what has changed since you left. Lord German will start.\nLord German: What did UNIDO fix after the UK withdrew? What answers did you put in place for the UK's concerns at the time?\nManuel Mattiat: Thank you. UNIDO is the UN agency that helps countries build industry, add value to goods and connect them to markets. After the UK's withdrawal, we carried out big internal reforms: two restructurings, cuts in management layers (by not replacing retirees), and improvements in finance, procurement and HR.\nManuel Mattiat: Those reforms aimed to make us faster and more efficient. In four years we've tripled the money we raise and doubled delivery of technical projects. For the first time this year we expect about £400 million of delivery on the ground.\n\n\n## How UNIDO changed its ways of working\n> They decentralised procurement, trimmed bureaucracy and opened up to private companies to speed up and scale projects.\n\nManuel Mattiat: We decentralised buying (so field teams can buy locally), improved results reporting, and used partners more. We also reached out to the private sector so companies can bring technology and know-how into new markets.\nLord Hannay of Chiswick: The UN overall is cutting down. What role is UNIDO playing in the Secretary-General's UN-wide reform — called UN80 — to avoid duplication and shrink back-office costs?\nManuel Mattiat: UN80 asks who does what best. We're saying: we focus on technical industrial work (engineers, economists, policy), and we should sometimes use other UN agencies for back-office tasks like procurement or payroll rather than doing everything ourselves.\nJason Slater: A practical UN80 example: we teamed up with UNOOSA — the UN Office for Outer Space Affairs — on 'Space4Industry' to use satellite data and AI for industrial planning and climate early warnings. It shows agencies can combine strengths.\n\n\n## Concrete projects funded with UK and other money\n> They gave examples: UK-backed work on steel/cement carbon accounting, innovation links with Brazil, A2D pilots like Namibia hydrogen and Kenya biogas, plus tech tools for farmers in Ghana.\n\nLord Stevenson of Balmacara: Can you give two or three concrete examples of what UK money has actually paid for on the ground?\nRana Ghoneim: Yes. One: we’re working with UK expertise and industry on carbon accounting for steel and cement — that means creating consistent ways to measure emissions in those sectors so countries can trade and attract green investment.\nRana Ghoneim: Two: linking the UK innovation ecosystem with Brazil to design industrial decarbonisation road maps and bring UK universities and companies into Brazilian projects.\nRana Ghoneim: Three: our A2D (Accelerate-to-Demonstrate) facility — a rapid funding window — helps early-stage, ground-breaking pilots. With UK support we’ve backed things like Namibia’s first hydrogen production plan and biogas projects in Kenya’s tea industry.\nLord Boateng: We need projects that help farmers and processing so local economies grow. Any practical examples of that?\nJason Slater: In Ghana — funded by Japan, not the UK — we deployed a simple phone-based tool that lets farmers scan and trace rice to find post-harvest losses. In six months losses fell from 20% to 13%. It shows tech plus local partners can make a quick difference.\n\n\n## Energy, industry and scaling — the practical challenge\n> UNIDO says energy must tie to industry (anchor customers) so mini-grids and investments are sustainable, and scaling needs private finance plus concessional loans.\n\nBaroness Verma: I travel in Africa and still see huge areas without power. Where are investments heading and how do you measure that your work reaches people on the ground?\nRana Ghoneim: Energy isn't just electricity: it's the basis for industry. We push 'industrial transformation investment plans' so energy projects have industrial customers — firms that create enough demand (anchor loads) to make mini-grids viable and attract private investors.\nRana Ghoneim: Scaling needs two things: preparing countries to absorb larger concessional loans and attracting private capital. We work on pipelines and bankable projects so bigger finance flows to least developed countries and islands.\nBaroness Verma: The local-level point matters: small industries and agronomists can be key. Tech helps, but local crop and soil expertise must be in the mix.\n\n\n## How UNIDO complements bilateral aid and the case for membership\n> UNIDO argues membership gives the UK governance oversight and influence; being a big donor without membership limits political input on policy and budgets.\n\nChair: We already channel a lot of UK aid through agencies and direct projects. What's UNIDO doing that we can't get by funding a UK-led project directly? Why rejoin?\nManuel Mattiat: Two big points. First, UNIDO opens doors in markets where bilaterals may not have reach: our offices, country teams and private-sector links help companies enter new places. Second, membership gives the UK a seat at the table: you can take part in the industrial development board and influence how money is spent and policy is made.\nBaroness Lawlor: I'm worried membership just makes you a talking shop. If the UK can fund projects it trusts, wouldn't that be better value?\nJason Slater: Funding projects works, but membership helps with the next step: attracting investors to scale. Membership also improves co-ordination — for example, combining funding from Japan or EU with UK programmes so a pilot can expand to national scale.\nManuel Mattiat: Also, membership helps us involve UK technical experts in our research and standards work — think industrial policy, carbon standards — and it gives UK firms the UNIDO 'seal' when entering markets.\n\n\n## Sustainability of reforms and closing points\n> They say reforms are being institutionalised through partnerships, leadership training and new financing mechanisms, and believe UK membership helps lock in those changes.\n\nChair: One last worry: these reforms look tied to the director-general. What if leadership changes and things slide back?\nManuel Mattiat: The DG has pushed reforms hard, but we've institutionalised many changes: new decentralised processes, financial footing and partnerships. We also recruit and train leaders so the reform isn't just one person's legacy.\nJason Slater: We're also building new financing approaches — finance coalitions, working with private capital and possibly funds inside UNIDO — to make programs sustainable beyond one leader's term.\nRana Ghoneim: On energy we focus on preparing bankable pipelines and institutions so private finance follows. That institutional work — not single pilots — is what will help scaling stick.\nChair: Thank you all. This has helped the committee understand both the practical projects and the governance reasons the UK is considering rejoining UNIDO. Safe journey home.\nBaroness Bonham-Carter of Yarnbury: And please keep supporting Lavazza — it matters on the coffee supply-chain work!\n",
-  "inquiry": "United Nations Industrial Development Organization"
+  "inquiry": "United Nations Industrial Development Organization",
+  "glossary": [
+    {
+      "term": "UN80",
+      "definition": "A UN-wide reform initiative by the Secretary-General to streamline agencies, cut duplication and reduce administrative costs across the UN system."
+    },
+    {
+      "term": "'Space4Industry'",
+      "definition": "A UNIDO–UNOOSA partnership using satellite data and AI to support industrial planning and climate early-warning systems."
+    },
+    {
+      "term": "concessional loans",
+      "definition": "Loans offered on more generous terms than market rates, such as lower interest or longer repayment, commonly provided by development lenders."
+    },
+    {
+      "term": "mini-grids",
+      "definition": "Small, local electricity networks that serve a community or cluster, often operating independently of the national grid."
+    },
+    {
+      "term": "bankable projects",
+      "definition": "Projects prepared and structured so they are financially attractive enough for commercial investors or banks to fund."
+    },
+    {
+      "term": "bankable pipelines",
+      "definition": "A sequence of well-prepared, fundable projects lined up to attract sustained investment."
+    },
+    {
+      "term": "finance coalitions",
+      "definition": "Groups of public and private funders who pool resources and coordinate financing for development programmes."
+    },
+    {
+      "term": "DG",
+      "definition": "Abbreviation for Director-General, the chief executive or head of an organisation like UNIDO."
+    },
+    {
+      "term": "bilaterals",
+      "definition": "Bilateral aid or programs: direct government-to-government funding or cooperation between two countries."
+    },
+    {
+      "term": "industrial development board",
+      "definition": "UNIDO's governing body of member states that sets policy, approves budgets and oversees the organisation's work."
+    },
+    {
+      "term": "procurement",
+      "definition": "The process organisations use to purchase goods, services or works, often involving formal rules and contracts."
+    },
+    {
+      "term": "HR",
+      "definition": "Abbreviation for Human Resources, the department that manages staff recruitment, pay, benefits and workplace policies."
+    },
+    {
+      "term": "post-harvest losses",
+      "definition": "Food or crop losses that occur after harvesting because of spoilage, pests, poor storage or transport."
+    },
+    {
+      "term": "back-office costs",
+      "definition": "Administrative support expenses (finance, payroll, IT, HR) that keep an organisation running but are not frontline services."
+    },
+    {
+      "term": "decentralised buying",
+      "definition": "Allowing regional or field teams to make local purchases instead of central headquarters handling all procurement."
+    },
+    {
+      "term": "UNIDO 'seal'",
+      "definition": "An informal endorsement or certification from UNIDO that can help a firm gain credibility when entering new markets."
+    },
+    {
+      "term": "Chair",
+      "definition": "The person who leads and manages a committee meeting or debate in Parliament."
+    },
+    {
+      "term": "Lord",
+      "definition": "A title for a member of the UK's House of Lords, the upper chamber of Parliament."
+    },
+    {
+      "term": "Baroness",
+      "definition": "A female member of the UK's House of Lords; the female equivalent of a Lord."
+    }
+  ]
 });

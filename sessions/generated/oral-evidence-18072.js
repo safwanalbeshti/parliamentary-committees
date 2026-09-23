@@ -183,5 +183,87 @@ window.COMMITTEE_SESSIONS.push({
     }
   },
   "transcript": "# National Planning Policy Statement on Nuclear Fusion\n\n## What fusion is and how it differs from fission\n> Fusion is a different kind of 'nuclear' tech from fission: it makes little long‑lived waste and has a different safety profile, so planners and regulators treat it differently.\n\nChair: Let’s start simple: how is fusion different from the nuclear power people usually mean—fission?\nPaul Methven: Fusion uses isotopes of hydrogen, not a chain reaction. The hazards are different: you can’t get the same sort of runaway criticality as in fission and the waste isn’t the same long‑lived stuff.\nJo Nettleton: As the Environment Agency regulator, I’d add we treat it differently: we and the Health and Safety Executive (HSE — the safety regulator) focus on proportionate regulation for fusion’s specific hazards.\nTris Denton: Industry agrees: fusion is zero carbon at the point of generating electricity, and the sector is developing different plant types than traditional reactors.\n\n\n## Community engagement and choosing sites\n> Talk to people early and honestly; West Burton shows strong local support can grow even where there wasn't prior fission history.\n\nChair: You picked West Burton as a STEP site. Was the local reaction good?\nPaul Methven: Yes. West Burton had a history of big energy infrastructure so the community understood the idea of hosting national projects. Early and sustained consultation helped build trust.\nTris Denton: When communities understand the difference between fusion and fission, they’re less worried. Clear planning rules help avoid confusion.\nSir Christopher Chope: Is that engagement voluntary or will Government force sites on people?\nPaul Methven: The aim is voluntary consent. Forcing sites early would be counterproductive; better to take communities on the journey so benefits are shared and complaints fall.\n\n\n## Regulators, waste, tritium and insurance\n> Existing regulators (Environment Agency and HSE) will handle fusion’s environmental and safety rules; tritium and transport are covered by other established rules, but insurers and liability frameworks need work.\n\nJo Nettleton: We’re the environmental regulator; HSE handles safety. Fusion sits outside the Office for Nuclear Regulation’s fission remit because the physics differs. We’re building capability for novel wastes.\nMike Reader: Is regulation simpler for fusion than for fission?\nJo Nettleton: The regulatory landscape is simpler because fusion doesn’t risk criticality and its waste profile is different. But the technology itself is complex and still evolving.\nMike Reader: What about tritium — its fuel? Shouldn’t the NPS spell out rules on its storage and transport?\nPaul Methven: You need a small imported initial charge of tritium, then plants aim to breed their own. Transport and storage are already covered by existing regulations; they don’t need a duplicate rule in the NPS.\nSir Christopher Chope: Insurance concerns remain. Who pays if something radiological affects third parties?\nPaul Methven: Developers usually pay. The Government is looking at how to structure liability to kickstart the market. The sector thinks fusion risks are insurable and bespoke fusion insurance funds have already appeared.\nDavid Sandford: The Department talks to insurers. We’re running an insurance panel at the summit to speed their understanding of fusion’s different risk profile.\n\n\n## Why a separate national planning policy statement (NPS)?\n> The draft EN‑8 NPS for fusion gives clarity because fusion’s planning and hazard profile differ from fission, and investors want that certainty.\n\nChair: Do we need a new planning statement for fusion or could it be covered by existing ones?\nMichael Shanks: We think a separate NPS helps — fusion’s hazards and consenting needs are distinct from fission. The NPS signals to investors and planners what to expect.\nTris Denton: Industry wants clarity. EN‑8 helps prevent fusion being conflated with fission and reassures communities and investors.\nClaire Young: If a project doesn’t meet national-size thresholds, can developers still ask for national treatment?\nMichael Shanks: Yes. Developers can ask for nationally significant infrastructure (NSIP) treatment even if the plant’s size is under thresholds, because some projects have national importance.\nClaire Young: Why 50 MW in England but 350 MW in Wales?\nMichael Shanks: That reflects devolution: Wales chose a different threshold in consultation with us. We respect devolved decisions.\n\n\n## Jobs, labs, supply chains and international competition\n> The UK aims to turn its research lead into exports by supporting a national lab, encouraging private industry links, building supply chains and training workers — but other countries are investing heavily too.\n\nWera Hobhouse: Where should the UK focus — test reactors or clearing the way for private firms?\nTris Denton: Both. Government test labs like Culham are crucial; private companies need places to scale. The aim is private deployment built on public R&D.\nPaul Methven: STEP is government‑led to bridge the 'valley of death' and pull in suppliers—magnets, robotics, materials—so firms invest in UK skills and factories.\nMelanie Onn: What jobs will this make?\nPaul Methven: For the STEP plant: perhaps 1,500 steady operators, construction peaks around 8,000 locally, and tens of thousands if the wider supply chain and business park grow.\nMichael Shanks: We want that growth in many parts of the UK and stronger local supply chains than past programmes managed.\nMike Reader: Is the UK still a leader — aren’t the US and China racing?\nMichael Shanks: We’re a world leader in science and want to keep it. We’ll work with partners internationally, but we must protect national security and our intellectual advantage.\nDavid Sandford: The UK’s whole‑plant integration skills — pulling subsystems together — are a real export strength, along with magnets, robotics and materials.\n\n\n## Money, timing, grid and remaining risks\n> The Government has put in £2.5bn to 2040 to de‑risk fusion; first plant aim is around 2040 but times and prices remain uncertain — grid connections, skills, insurance and planning capacity still need sorting.\n\nMelanie Onn: Is £2.5bn too little or too much?\nMichael Shanks: It’s the right amount to signal serious commitment and to unlock more private money. It’s meant to be catalytic, not the full industry cost.\nTris Denton: Private firms target around 5–10 US cents per kWh for later plants — roughly £35–£75 per MWh — but that's nth‑of‑a‑kind, not first‑of‑a‑kind.\nPaul Methven: From the public programme side, our benchmark is to be broadly competitive with large civil nuclear as the industry commercialises.\nMelanie Onn: What about grid connections?\nMichael Shanks: Grid is a national issue. STEP benefits from being on an existing power station site with connections, but we’re working to fix bottlenecks nationwide.\nSir Christopher Chope: One last point: Eskdalemuir seismic monitoring and wind farm siting — you extended a consultation. Are you updating old guidance there?\nMichael Shanks: We’ll work with the MoD and partners. Defence infrastructure takes precedence, but we’ll methodically consider new monitoring methods so onshore wind can progress where safe.\nChair: Thanks — that wraps it up. The NPS aims to give clarity but the Committee will watch how regulators, insurers and communities respond as projects come forward.\n",
-  "inquiry": "National Planning Policy Statement on Nuclear Fusion"
+  "inquiry": "National Planning Policy Statement on Nuclear Fusion",
+  "glossary": [
+    {
+      "term": "Health and Safety Executive (HSE — the safety regulator)",
+      "definition": "The UK government agency that enforces workplace and major-project health and safety law and regulates industrial safety risks."
+    },
+    {
+      "term": "Environment Agency regulator",
+      "definition": "England's public regulator that enforces environmental protection rules on pollution, waste, water and land use."
+    },
+    {
+      "term": "HSE",
+      "definition": "Abbreviation for the Health and Safety Executive, the UK body that enforces health and safety at work and on major sites."
+    },
+    {
+      "term": "Office for Nuclear Regulation’s fission remit",
+      "definition": "The ONR is the UK regulator for civil nuclear fission; this phrase means the part of its official responsibility covering fission plants."
+    },
+    {
+      "term": "NPS",
+      "definition": "Abbreviation for National Policy Statement, a government planning document that guides decisions on nationally important infrastructure projects."
+    },
+    {
+      "term": "STEP",
+      "definition": "A UK government programme to build a prototype fusion power plant (Spherical Tokamak for Energy Production) to demonstrate the technology."
+    },
+    {
+      "term": "West Burton",
+      "definition": "An existing UK power station site that was chosen as a potential location for the STEP fusion project."
+    },
+    {
+      "term": "criticality",
+      "definition": "A state in which a nuclear chain reaction becomes self-sustaining and can grow without additional input."
+    },
+    {
+      "term": "tritium",
+      "definition": "A radioactive isotope of hydrogen used as a fuel in some fusion reactions that requires careful storage and transport controls."
+    },
+    {
+      "term": "nationally significant infrastructure (NSIP)",
+      "definition": "Large projects (power stations, major roads, etc.) that are handled by national planning processes rather than by local authorities."
+    },
+    {
+      "term": "national-size thresholds",
+      "definition": "Size limits that determine whether a proposed project is considered nationally significant and subject to national planning rules."
+    },
+    {
+      "term": "devolution",
+      "definition": "The transfer of certain powers from the UK central government to the governments of Scotland, Wales or Northern Ireland."
+    },
+    {
+      "term": "Culham",
+      "definition": "The UK’s national fusion research centre, hosting experimental facilities where fusion science and technology are tested."
+    },
+    {
+      "term": "valley of death",
+      "definition": "The funding and development gap where promising research struggles to move from prototype to commercial deployment."
+    },
+    {
+      "term": "EN‑8",
+      "definition": "A specific named energy planning policy (an Energy National Policy Statement) referenced for planning and consenting decisions on energy projects."
+    },
+    {
+      "term": "national treatment",
+      "definition": "Treating a project as if it meets national-level planning criteria, even if it falls below formal size thresholds, so it gets national consideration."
+    },
+    {
+      "term": "nth‑of‑a‑kind",
+      "definition": "A later, standardised generation of a technology produced after the first, when costs and risks are lower through learning and scale."
+    },
+    {
+      "term": "first‑of‑a‑kind",
+      "definition": "The very first build of a new technology or plant, usually more expensive and riskier than later copies."
+    },
+    {
+      "term": "MoD",
+      "definition": "Abbreviation for the UK Ministry of Defence, the government department responsible for the armed forces and defence policy."
+    },
+    {
+      "term": "Eskdalemuir seismic monitoring",
+      "definition": "Seismic monitoring at Eskdalemuir, a UK station used to detect earthquakes and measure ground noise relevant to wind farm siting."
+    }
+  ]
 });

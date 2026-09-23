@@ -256,5 +256,87 @@
         }
       ]
     }
+  ],
+  "glossary": [
+    {
+      "term": "National Audit Office",
+      "definition": "An independent UK public spending watchdog that audits government departments and reports on value for money to Parliament."
+    },
+    {
+      "term": "HS2",
+      "definition": "The UK high‑speed rail programme and the public body delivering it, linking London with cities in the north."
+    },
+    {
+      "term": "MPs",
+      "definition": "Members of Parliament — elected representatives who sit in the House of Commons and hold the Government to account."
+    },
+    {
+      "term": "NEC3-style",
+      "definition": "Refers to NEC3, a standard form of construction contract used in the UK to allocate risk and manage building works."
+    },
+    {
+      "term": "cost-reimbursable",
+      "definition": "A contract type where the client pays a contractor’s allowable costs plus a fee, rather than a fixed total price."
+    },
+    {
+      "term": "civils contractors",
+      "definition": "Construction firms specialising in civil engineering works like earthworks, tunnels, bridges and large infrastructure."
+    },
+    {
+      "term": "EKFB",
+      "definition": "The name of one of the major civil‑engineering contractor consortia working on HS2."
+    },
+    {
+      "term": "Align",
+      "definition": "The name of another major civil‑engineering contractor consortium involved in HS2 works."
+    },
+    {
+      "term": "Treasury Green Book guidance",
+      "definition": "HM Treasury’s official guidance on appraising and evaluating public projects and spending decisions."
+    },
+    {
+      "term": "optimism bias",
+      "definition": "A built‑in allowance in project estimates to guard against the common tendency to underestimate costs and timescales."
+    },
+    {
+      "term": "Crichel Down rule",
+      "definition": "A UK rule giving previous landowners a right to be offered government surplus land back before it is sold more widely."
+    },
+    {
+      "term": "Euston Delivery Company (EDC)",
+      "definition": "A coordinating body set up to align HS2, Network Rail, TfL and local government on the Euston redevelopment."
+    },
+    {
+      "term": "Network Rail",
+      "definition": "The public body that owns, manages and maintains most of Britain’s railway infrastructure."
+    },
+    {
+      "term": "Transport for London (TfL)",
+      "definition": "The local government body responsible for most transport services across Greater London (Tube, buses, trams, etc.)."
+    },
+    {
+      "term": "accounting officer",
+      "definition": "A senior official personally accountable to Parliament for the regularity and propriety of how public funds are spent in their organisation."
+    },
+    {
+      "term": "secondments",
+      "definition": "Temporary loaning of staff from one organisation to work in another for a set period."
+    },
+    {
+      "term": "spoil",
+      "definition": "Soil, rock and other material excavated and removed from a construction site."
+    },
+    {
+      "term": "temporary possessions",
+      "definition": "Legal temporary rights to use land for construction works without permanently buying it."
+    },
+    {
+      "term": "public money principles",
+      "definition": "The rules and expectations that taxpayer funds are used properly, transparently and to achieve best value."
+    },
+    {
+      "term": "cancellation-cost estimates",
+      "definition": "Calculations of how much it would cost to stop and dismantle a project, including remediation, compensation and other closures."
+    }
   ]
 }

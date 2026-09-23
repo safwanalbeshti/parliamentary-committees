@@ -278,5 +278,59 @@
         }
       ]
     }
+  ],
+  "glossary": [
+    {
+      "term": "Online Safety Act",
+      "definition": "A UK law that sets rules and duties for online platforms to reduce illegal and harmful content and protect users, especially children."
+    },
+    {
+      "term": "Ofcom",
+      "definition": "The UK communications regulator that enforces media, telecoms and online-safety rules."
+    },
+    {
+      "term": "categorised services",
+      "definition": "Online platforms the Act labels as high‑risk and therefore subject to stronger, extra legal duties."
+    },
+    {
+      "term": "categorised‑services duties",
+      "definition": "The specific extra legal obligations the Act imposes on those high‑risk, 'categorised' platforms."
+    },
+    {
+      "term": "Children’s Commissioner",
+      "definition": "An independent public official who speaks up for children’s rights and advises government on child welfare issues."
+    },
+    {
+      "term": "Grok",
+      "definition": "An AI feature on X (the platform formerly called Twitter) used to generate or moderate content."
+    },
+    {
+      "term": "senior‑management liability tools",
+      "definition": "Legal measures that can hold company executives personally accountable for failures in company safety or compliance."
+    },
+    {
+      "term": "safe harbour",
+      "definition": "A legal protection that limits regulator action if a company follows a published code of practice."
+    },
+    {
+      "term": "duty of care",
+      "definition": "A legal obligation requiring companies to take reasonable steps to prevent harm to their users."
+    },
+    {
+      "term": "age gates",
+      "definition": "Systems that check or restrict access to online services based on a user’s age."
+    },
+    {
+      "term": "VPNs",
+      "definition": "Virtual private networks that hide a user’s real location or identity by routing traffic through other countries."
+    },
+    {
+      "term": "Treasury",
+      "definition": "The UK government department responsible for public finances and which receives fines paid by companies."
+    },
+    {
+      "term": "Meta US settlement",
+      "definition": "A legal agreement in the United States in which Meta (Facebook/Instagram) accepted changes targeting platform design rather than individual posts."
+    }
   ]
 }

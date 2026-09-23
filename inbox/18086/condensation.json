@@ -260,5 +260,79 @@
         }
       ]
     }
+  ],
+  "glossary": [
+    {
+      "term": "Administration Committee",
+      "definition": "A Commons committee that oversees the services, staffing and accommodation that support Members of Parliament."
+    },
+    {
+      "term": "Smoothing the cliff edge.",
+      "definition": "Title of the Administration Committee's report on improving support for MPs when they leave Parliament."
+    },
+    {
+      "term": "House service",
+      "definition": "The staff and teams who run the day-to-day business and provide administrative support to MPs in the House of Commons."
+    },
+    {
+      "term": "IPSA",
+      "definition": "Independent Parliamentary Standards Authority, the body that sets MPs' pay and expenses rules and provides some services for MPs."
+    },
+    {
+      "term": "Dissolution",
+      "definition": "The formal ending of a Parliament before a general election, after which MPs cease to hold their seats until results are declared."
+    },
+    {
+      "term": "winding up",
+      "definition": "The process of closing down an MP's office and affairs after they leave Parliament or an election ends."
+    },
+    {
+      "term": "winding-up period",
+      "definition": "A defined short period after an election or dissolution given to close an MP's office, settle finances and handle administrative tasks."
+    },
+    {
+      "term": "redundancy process",
+      "definition": "The formal employment steps (consultation, notice and pay) used when staff are laid off because a role no longer exists."
+    },
+    {
+      "term": "consultation meetings",
+      "definition": "Meetings held with staff during redundancies to discuss the reasons, alternatives and next steps as part of the legal process."
+    },
+    {
+      "term": "outplacement",
+      "definition": "Support services for people who have lost jobs, offering CV help, coaching and job-search assistance to find new work."
+    },
+    {
+      "term": "casework",
+      "definition": "Individual problems, complaints or requests from constituents that an MP or their staff handle on behalf of voters."
+    },
+    {
+      "term": "casework handover",
+      "definition": "The transfer of ongoing constituent cases and files from a departing MP's office to the incoming MP or office."
+    },
+    {
+      "term": "incoming MPs",
+      "definition": "Candidates who won seats at the election and are starting their roles as the new Members of Parliament."
+    },
+    {
+      "term": "ex-MP email address",
+      "definition": "A proposed standard email account for former MPs to remain contactable after their official parliamentary email is removed."
+    },
+    {
+      "term": "parliamentary email",
+      "definition": "The official email account provided to MPs while in office, which is usually deactivated after they leave."
+    },
+    {
+      "term": "careers transition service",
+      "definition": "A service offering career advice, retraining and job-search help specifically aimed at MPs leaving Parliament."
+    },
+    {
+      "term": "skip",
+      "definition": "British term for a large outdoor rubbish container or dumpster used for disposing of bulky waste during clear-outs."
+    },
+    {
+      "term": "House",
+      "definition": "Short for the House of Commons, the elected chamber of the UK Parliament where Members of Parliament sit."
+    }
   ]
 }

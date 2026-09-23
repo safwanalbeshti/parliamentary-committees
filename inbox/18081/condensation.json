@@ -314,5 +314,79 @@
         }
       ]
     }
+  ],
+  "glossary": [
+    {
+      "term": "DfT",
+      "definition": "The UK Department for Transport, the government department that makes and implements transport policy for roads, rail, buses and related services."
+    },
+    {
+      "term": "DEFRA",
+      "definition": "The UK Department for Environment, Food & Rural Affairs, responsible for environment, farming, food and rural policy."
+    },
+    {
+      "term": "UK Health Security Agency",
+      "definition": "A UK public agency that monitors and responds to public health threats and provides health protection advice."
+    },
+    {
+      "term": "Ministry of Housing, Communities and Local Government",
+      "definition": "The UK government department (responsible for local government and housing finance) that manages local authority funding and community policy."
+    },
+    {
+      "term": "AQ Expert Group",
+      "definition": "An expert advisory group that provides technical advice to government on air quality issues."
+    },
+    {
+      "term": "Environment Agency",
+      "definition": "England's public body that enforces environmental protection, pollution control and regulation."
+    },
+    {
+      "term": "Farming Equipment and Technology Fund",
+      "definition": "A government grant programme that helps farmers buy equipment and technology to reduce emissions and improve practices."
+    },
+    {
+      "term": "slurry management",
+      "definition": "Farm methods and equipment for storing and handling animal manure (liquid waste) to reduce emissions like ammonia."
+    },
+    {
+      "term": "Euro 7",
+      "definition": "A forthcoming European vehicle emissions standard proposing stricter pollutant limits, including for brake and tyre wear particles."
+    },
+    {
+      "term": "Net Zero Ports: Call for Evidence",
+      "definition": "A government consultation seeking input from ports and stakeholders on how ports can support net‑zero emissions goals."
+    },
+    {
+      "term": "emission control area",
+      "definition": "A designated sea zone where ships must meet stricter legally enforced limits on pollutants such as sulphur and nitrogen oxides."
+    },
+    {
+      "term": "Bus Services Act",
+      "definition": "UK legislation that gives local authorities new powers to improve and organise bus services, including franchising options."
+    },
+    {
+      "term": "bus franchising",
+      "definition": "A system where a local authority specifies bus routes and standards and contracts operators to run them, instead of a deregulated market."
+    },
+    {
+      "term": "mayoral combined authorities",
+      "definition": "Groups of neighboring local councils led by a directly elected mayor that coordinate regional services like transport and planning."
+    },
+    {
+      "term": "HMT",
+      "definition": "HM Treasury, the UK government department responsible for public finance, economic policy and taxation."
+    },
+    {
+      "term": "ZEV mandate",
+      "definition": "A regulatory requirement for vehicle manufacturers to sell an increasing percentage of zero‑emission vehicles (electric or hydrogen) over time."
+    },
+    {
+      "term": "call for evidence",
+      "definition": "A formal public consultation where government requests information, data and views to inform future policy or legislation."
+    },
+    {
+      "term": "Air quality action plans",
+      "definition": "Local authority plans that identify pollution hotspots and set out measures to reduce air pollution in those areas."
+    }
   ]
 }

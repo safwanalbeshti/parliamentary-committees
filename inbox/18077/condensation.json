@@ -306,5 +306,79 @@
         }
       ]
     }
+  ],
+  "glossary": [
+    {
+      "term": "BBC ALBA",
+      "definition": "A television channel broadcasting in Scottish Gaelic, run as a joint BBC and MG ALBA service for Gaelic speakers."
+    },
+    {
+      "term": "Holyrood",
+      "definition": "Informal name for the Scottish Parliament and its buildings in Edinburgh where MSPs sit and make laws."
+    },
+    {
+      "term": "‘fiduciary’ duties",
+      "definition": "Legal responsibilities to manage someone else's money or assets honestly and in their best interests."
+    },
+    {
+      "term": "NUJ",
+      "definition": "National Union of Journalists, the trade union representing journalists in the UK and Ireland."
+    },
+    {
+      "term": "STV",
+      "definition": "A Scottish commercial television broadcaster (originally Scottish Television) serving regional audiences in Scotland."
+    },
+    {
+      "term": "AI-assisted",
+      "definition": "Content or responses created or helped by artificial intelligence tools or automated text generators."
+    },
+    {
+      "term": "Save STV North",
+      "definition": "Name of a public campaign opposing STV’s proposed changes to its regional news service in northern Scotland."
+    },
+    {
+      "term": "Channel 3 provisions",
+      "definition": "Legal rules in UK broadcasting law applying to Channel 3 commercial TV services (the regional ITV network)."
+    },
+    {
+      "term": "operating licence",
+      "definition": "A formal permission from the regulator that sets conditions and obligations a TV or radio service must follow."
+    },
+    {
+      "term": "regional distinctiveness",
+      "definition": "A licence requirement that broadcasters provide content tailored to local areas, not identical across all regions."
+    },
+    {
+      "term": "consultation",
+      "definition": "A formal process where a regulator asks the public and stakeholders for views and evidence before deciding."
+    },
+    {
+      "term": "formal election period",
+      "definition": "The official pre-election period when public bodies restrict political announcements, often called 'purdah'."
+    },
+    {
+      "term": "public purposes",
+      "definition": "The specific goals the BBC must meet (like informing, educating and representing the UK’s nations and communities)."
+    },
+    {
+      "term": "Media Nations Scotland",
+      "definition": "Ofcom’s annual report that reviews media use, industry trends and broadcasting issues in Scotland."
+    },
+    {
+      "term": "linear coverage",
+      "definition": "Scheduled TV broadcasts watched at set times, as opposed to on-demand or online viewing."
+    },
+    {
+      "term": "statutory impact assessments",
+      "definition": "Legally required analyses of how a policy or decision will affect different groups and communities."
+    },
+    {
+      "term": "public service media",
+      "definition": "Media organisations with duties to provide news, education and cultural content for the public good (e.g., BBC, ITV)."
+    },
+    {
+      "term": "consultees",
+      "definition": "People or organisations invited to respond to a consultation and give evidence or views."
+    }
   ]
 }

@@ -242,5 +242,35 @@
         }
       ]
     }
+  ],
+  "glossary": [
+    {
+      "term": "Cabinet Secretary",
+      "definition": "The most senior UK civil servant who advises the Prime Minister, leads senior officials and helps run Cabinet business and government coordination."
+    },
+    {
+      "term": "Royal Household",
+      "definition": "The staff and organization that support the monarch in official duties, managing their schedule, residences and formal communications."
+    },
+    {
+      "term": "1950 'Senex' letter",
+      "definition": "An anonymous 1950 letter signed 'Senex' discussing when a monarch might refuse a Prime Minister, often cited in constitutional debates."
+    },
+    {
+      "term": "Lascelles principles",
+      "definition": "A set of ideas, from a 1950 memo by a royal private secretary, about the limited circumstances in which a monarch might refuse a Prime Minister's request."
+    },
+    {
+      "term": "Cabinet Manual",
+      "definition": "An official public guide setting out how the UK government and its ministers are expected to operate, and how constitutional conventions are applied."
+    },
+    {
+      "term": "conventions",
+      "definition": "Unwritten but accepted rules and practices that govern how the UK constitution operates, followed by tradition rather than law."
+    },
+    {
+      "term": "King's private secretary",
+      "definition": "The senior aide to the monarch who manages the King's official business, advice, correspondence and liaison with government."
+    }
   ]
 }

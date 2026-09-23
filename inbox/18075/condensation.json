@@ -296,5 +296,99 @@
         }
       ]
     }
+  ],
+  "glossary": [
+    {
+      "term": "OEP",
+      "definition": "The Office for Environmental Protection, an independent watchdog that monitors and enforces environmental law in England."
+    },
+    {
+      "term": "Defra",
+      "definition": "The UK government Department for Environment, Food & Rural Affairs, responsible for environmental and agricultural policy."
+    },
+    {
+      "term": "National Trust",
+      "definition": "A UK charity that protects and manages historic buildings, parks and natural places for public benefit."
+    },
+    {
+      "term": "Environment Agency",
+      "definition": "An English public body that regulates pollution, water quality, flood risk and waste to protect the environment."
+    },
+    {
+      "term": "Ofwat",
+      "definition": "The Water Services Regulation Authority, the economic regulator for water and sewerage companies in England and Wales."
+    },
+    {
+      "term": "Natural England",
+      "definition": "The UK government body advising on and managing England’s protected sites, species and habitat conservation."
+    },
+    {
+      "term": "information notices",
+      "definition": "Formal requests issued by a watchdog or regulator asking a public body to provide documents or data."
+    },
+    {
+      "term": "decision notice",
+      "definition": "A formal public statement of a regulator’s findings and any required actions after an investigation."
+    },
+    {
+      "term": "environmental review (like a judicial review)",
+      "definition": "A legal court process to examine whether an environmental decision or action by a public body was lawful."
+    },
+    {
+      "term": "judicial review",
+      "definition": "A court procedure where a judge reviews the lawfulness of a government or public authority decision."
+    },
+    {
+      "term": "EIP23",
+      "definition": "A named OEP publication or assessment labelled EIP23, referring to the 2023 Environmental Improvement Plan/material."
+    },
+    {
+      "term": "EIP25",
+      "definition": "A future OEP publication or report labelled EIP25, referring to a numbered Environmental Improvement Plan report."
+    },
+    {
+      "term": "water framework directive (WFD)",
+      "definition": "An EU-derived law setting objectives and standards to protect rivers, lakes, coastal and groundwater quality."
+    },
+    {
+      "term": "surface water drainage standards (SUDS)",
+      "definition": "Standards for Sustainable Drainage Systems designed to manage rainwater runoff to reduce flooding and pollution."
+    },
+    {
+      "term": "statutory consultees",
+      "definition": "Bodies that must legally be consulted by planning authorities on certain proposals, like water companies on drainage plans."
+    },
+    {
+      "term": "biodiversity net gain (BNG)",
+      "definition": "A planning policy requiring development to leave biodiversity in a better state than before construction."
+    },
+    {
+      "term": "brownfield sites",
+      "definition": "Previously developed land not currently in use, often targeted for redevelopment rather than building on greenfield land."
+    },
+    {
+      "term": "environmental delivery plans (EDPs)",
+      "definition": "Plans setting out how environmental commitments will be delivered, with actions, timescales and monitoring."
+    },
+    {
+      "term": "apex statutory target",
+      "definition": "The top-level legally binding environmental goal set in law, here referring to halting species decline."
+    },
+    {
+      "term": "circular economy",
+      "definition": "An economic approach that keeps materials in use and reduces waste by reuse, repair and recycling."
+    },
+    {
+      "term": "combined-sewage-outflows investigation",
+      "definition": "An inquiry into incidents where combined sewer systems discharge sewage and rainwater into rivers or the sea."
+    },
+    {
+      "term": "whistleblowers",
+      "definition": "People who report wrongdoing, illegal acts or failures inside an organization to authorities or the public."
+    },
+    {
+      "term": "sustainable farming incentive (SFI)",
+      "definition": "A government scheme that pays farmers to adopt environmentally friendly farming practices."
+    }
   ]
 }

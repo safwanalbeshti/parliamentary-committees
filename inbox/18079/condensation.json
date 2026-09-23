@@ -346,5 +346,103 @@
         }
       ]
     }
+  ],
+  "glossary": [
+    {
+      "term": "devolved Governments",
+      "definition": "The national administrations for Scotland, Wales and Northern Ireland that have powers separate from the UK Government."
+    },
+    {
+      "term": "statutory advice",
+      "definition": "Guidance that a public body is legally required to prepare or give under an Act of Parliament."
+    },
+    {
+      "term": "Transport Committee",
+      "definition": "A UK House of Commons select committee that examines the work and spending of the Department for Transport."
+    },
+    {
+      "term": "ZEV mandate",
+      "definition": "A regulatory requirement for carmakers to sell a set share of zero-emission vehicles (ZEVs) in a market."
+    },
+    {
+      "term": "EV",
+      "definition": "Electric vehicle: a car or van powered by electricity rather than petrol or diesel."
+    },
+    {
+      "term": "8.4 GW",
+      "definition": "8.4 gigawatts: a measure of electrical power capacity equal to 8.4 billion watts."
+    },
+    {
+      "term": "Ofgem",
+      "definition": "The Office of Gas and Electricity Markets, the UK regulator for energy markets and network companies."
+    },
+    {
+      "term": "excise duty",
+      "definition": "A tax charged on specific goods or activities, such as vehicle purchases or fuel use."
+    },
+    {
+      "term": "fuel duty",
+      "definition": "A tax levied per litre on petrol and diesel sold for road vehicles."
+    },
+    {
+      "term": "National Grid",
+      "definition": "The company that operates the UK's high-voltage electricity transmission system and balances supply and demand."
+    },
+    {
+      "term": "winter peak",
+      "definition": "The highest level of electricity demand typically experienced during the coldest winter period."
+    },
+    {
+      "term": "Datacentres",
+      "definition": "Large facilities that house computer servers and related equipment to store and process data."
+    },
+    {
+      "term": "public estate decarbonisation programme",
+      "definition": "A government initiative to reduce greenhouse gas emissions from public buildings like schools and hospitals."
+    },
+    {
+      "term": "on-street low-power chargers",
+      "definition": "Electric vehicle charging points installed on public streets that provide lower charging speeds."
+    },
+    {
+      "term": "microgeneration scheme",
+      "definition": "A government-backed registration or support scheme for small-scale renewable or low-carbon energy installations and installers."
+    },
+    {
+      "term": "ECO4",
+      "definition": "Phase 4 of the UK Energy Company Obligation, a government programme requiring energy firms to fund home energy efficiency measures."
+    },
+    {
+      "term": "Warm Homes",
+      "definition": "A UK government scheme mentioned as replacing ECO4, aimed at funding home heating and efficiency improvements."
+    },
+    {
+      "term": "air-to-air",
+      "definition": "A type of heat pump that transfers heat between outside air and indoor air for space heating or cooling."
+    },
+    {
+      "term": "air-to-water",
+      "definition": "A heat pump that extracts heat from outside air and transfers it to water for central heating or hot water systems."
+    },
+    {
+      "term": "Hydrogen Allocation Round 2",
+      "definition": "A specific UK funding or contract round for supporting hydrogen production projects (the dialogue refers to this auction round)."
+    },
+    {
+      "term": "CCUS",
+      "definition": "Carbon Capture, Utilisation and Storage: technologies to capture CO2 from sources or the air for storage or use."
+    },
+    {
+      "term": "HEFA",
+      "definition": "Hydroprocessed Esters and Fatty Acids: a first-generation route to make sustainable aviation fuel from fats and oils."
+    },
+    {
+      "term": "international offsets",
+      "definition": "Carbon credits bought from projects in other countries to compensate for domestic emissions."
+    },
+    {
+      "term": "engineered removals",
+      "definition": "Human-made methods to permanently remove carbon dioxide from the atmosphere and store it securely."
+    }
   ]
 }

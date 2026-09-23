@@ -278,5 +278,87 @@
         }
       ]
     }
+  ],
+  "glossary": [
+    {
+      "term": "Health and Safety Executive (HSE — the safety regulator)",
+      "definition": "The UK government agency that enforces workplace and major-project health and safety law and regulates industrial safety risks."
+    },
+    {
+      "term": "Environment Agency regulator",
+      "definition": "England's public regulator that enforces environmental protection rules on pollution, waste, water and land use."
+    },
+    {
+      "term": "HSE",
+      "definition": "Abbreviation for the Health and Safety Executive, the UK body that enforces health and safety at work and on major sites."
+    },
+    {
+      "term": "Office for Nuclear Regulation’s fission remit",
+      "definition": "The ONR is the UK regulator for civil nuclear fission; this phrase means the part of its official responsibility covering fission plants."
+    },
+    {
+      "term": "NPS",
+      "definition": "Abbreviation for National Policy Statement, a government planning document that guides decisions on nationally important infrastructure projects."
+    },
+    {
+      "term": "STEP",
+      "definition": "A UK government programme to build a prototype fusion power plant (Spherical Tokamak for Energy Production) to demonstrate the technology."
+    },
+    {
+      "term": "West Burton",
+      "definition": "An existing UK power station site that was chosen as a potential location for the STEP fusion project."
+    },
+    {
+      "term": "criticality",
+      "definition": "A state in which a nuclear chain reaction becomes self-sustaining and can grow without additional input."
+    },
+    {
+      "term": "tritium",
+      "definition": "A radioactive isotope of hydrogen used as a fuel in some fusion reactions that requires careful storage and transport controls."
+    },
+    {
+      "term": "nationally significant infrastructure (NSIP)",
+      "definition": "Large projects (power stations, major roads, etc.) that are handled by national planning processes rather than by local authorities."
+    },
+    {
+      "term": "national-size thresholds",
+      "definition": "Size limits that determine whether a proposed project is considered nationally significant and subject to national planning rules."
+    },
+    {
+      "term": "devolution",
+      "definition": "The transfer of certain powers from the UK central government to the governments of Scotland, Wales or Northern Ireland."
+    },
+    {
+      "term": "Culham",
+      "definition": "The UK’s national fusion research centre, hosting experimental facilities where fusion science and technology are tested."
+    },
+    {
+      "term": "valley of death",
+      "definition": "The funding and development gap where promising research struggles to move from prototype to commercial deployment."
+    },
+    {
+      "term": "EN‑8",
+      "definition": "A specific named energy planning policy (an Energy National Policy Statement) referenced for planning and consenting decisions on energy projects."
+    },
+    {
+      "term": "national treatment",
+      "definition": "Treating a project as if it meets national-level planning criteria, even if it falls below formal size thresholds, so it gets national consideration."
+    },
+    {
+      "term": "nth‑of‑a‑kind",
+      "definition": "A later, standardised generation of a technology produced after the first, when costs and risks are lower through learning and scale."
+    },
+    {
+      "term": "first‑of‑a‑kind",
+      "definition": "The very first build of a new technology or plant, usually more expensive and riskier than later copies."
+    },
+    {
+      "term": "MoD",
+      "definition": "Abbreviation for the UK Ministry of Defence, the government department responsible for the armed forces and defence policy."
+    },
+    {
+      "term": "Eskdalemuir seismic monitoring",
+      "definition": "Seismic monitoring at Eskdalemuir, a UK station used to detect earthquakes and measure ground noise relevant to wind farm siting."
+    }
   ]
 }

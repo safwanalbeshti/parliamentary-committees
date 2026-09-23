@@ -286,5 +286,107 @@
         }
       ]
     }
+  ],
+  "glossary": [
+    {
+      "term": "FCDO",
+      "definition": "The Foreign, Commonwealth & Development Office, the UK government department handling foreign policy and international aid."
+    },
+    {
+      "term": "permanent secretary",
+      "definition": "The most senior civil servant in a government department who runs its day-to-day operations."
+    },
+    {
+      "term": "bilateral",
+      "definition": "A relationship, agreement, or action involving two countries or two parties."
+    },
+    {
+      "term": "multilateral",
+      "definition": "Involving three or more countries or organisations working together on an issue."
+    },
+    {
+      "term": "localisation",
+      "definition": "Shifting power and funding closer to local communities and organisations rather than centralised bodies."
+    },
+    {
+      "term": "attribution",
+      "definition": "Showing that a particular outcome was caused by a specific action or donor, not by others."
+    },
+    {
+      "term": "Gavi",
+      "definition": "A global vaccine alliance that helps fund and distribute vaccines in poor countries."
+    },
+    {
+      "term": "ODA",
+      "definition": "Official Development Assistance: government aid that counts toward international development spending targets."
+    },
+    {
+      "term": "Whitehall",
+      "definition": "A common term for the UK central government departments and the civil service in London."
+    },
+    {
+      "term": "Hill contacts",
+      "definition": "Contacts among lawmakers and staff on Capitol Hill in the US Congress."
+    },
+    {
+      "term": "due diligence",
+      "definition": "Checks and assessments done before funding or partnering to identify risks and compliance issues."
+    },
+    {
+      "term": "tendering",
+      "definition": "A formal procurement process where organisations invite and evaluate bids to supply goods or services."
+    },
+    {
+      "term": "DFID",
+      "definition": "Department for International Development, the former UK government department for aid, merged into the FCDO."
+    },
+    {
+      "term": "MDBs",
+      "definition": "Multilateral development banks, international institutions that fund development projects (e.g., the World Bank)."
+    },
+    {
+      "term": "Centre for Information Resilience",
+      "definition": "An organisation that researches and counters misinformation and harmful online information operations."
+    },
+    {
+      "term": "WFP",
+      "definition": "World Food Programme, the United Nations agency that provides food assistance in emergencies."
+    },
+    {
+      "term": "dual-use goods",
+      "definition": "Items or technologies that can be used for both civilian and military purposes."
+    },
+    {
+      "term": "imputed multilateral spend",
+      "definition": "Accounting method that credits a country with a share of the spending done by multilateral organisations it supports."
+    },
+    {
+      "term": "Africa CDC",
+      "definition": "Africa Centres for Disease Control and Prevention, the African Union agency for disease surveillance and response."
+    },
+    {
+      "term": "AU",
+      "definition": "African Union, the continental organisation of African countries that coordinates policy and cooperation."
+    },
+    {
+      "term": "export control unit",
+      "definition": "A government team that manages rules on exporting sensitive goods, technology, or services."
+    },
+    {
+      "term": "Chelsea/Roman Abramovich fund",
+      "definition": "Funds linked to Roman Abramovich and Chelsea football club assets designated to be used, in this context, for aid to Ukraine."
+    },
+    {
+      "term": "licence",
+      "definition": "Official permission, often from government, to do something normally restricted, such as use frozen assets."
+    },
+    {
+      "term": "International Humanitarian Law unit",
+      "definition": "A team that monitors and advises on compliance with the laws governing conduct in armed conflict."
+    },
+    {
+      "term": "duty-bearer",
+      "definition": "An actor, usually a government, that has the legal or moral obligation to respect and fulfil people's rights."
+    }
   ]
 }

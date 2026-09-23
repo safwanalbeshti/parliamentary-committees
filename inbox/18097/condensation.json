@@ -332,5 +332,55 @@
         }
       ]
     }
+  ],
+  "glossary": [
+    {
+      "term": "The White Paper",
+      "definition": "A formal government policy document setting out proposals for new laws or reforms, used to start consultation and planning."
+    },
+    {
+      "term": "Local Government Association",
+      "definition": "A membership body that represents and supports local councils in England and Wales."
+    },
+    {
+      "term": "LGA",
+      "definition": "Abbreviation for the Local Government Association, the organisation representing local councils."
+    },
+    {
+      "term": "Multi-academy trusts",
+      "definition": "Groups that run several state schools together under a single charitable company and central management."
+    },
+    {
+      "term": "maintained schools",
+      "definition": "State-funded schools run by local authorities, not by academies or independent trusts."
+    },
+    {
+      "term": "devolution for skills",
+      "definition": "Transferring decision‑making and funding for training and skills from central government to local or regional bodies."
+    },
+    {
+      "term": "GCSEs",
+      "definition": "General Certificate of Secondary Education exams taken by most UK pupils around age 16 in various subjects."
+    },
+    {
+      "term": "PISA",
+      "definition": "An international set of tests (Programme for International Student Assessment) that compares 15‑year‑olds’ skills across countries."
+    },
+    {
+      "term": "academy-ise",
+      "definition": "To convert a maintained school into an academy, a state school run independently of the local council, often in a trust."
+    },
+    {
+      "term": "backstop powers",
+      "definition": "Emergency or fallback legal powers given to an authority so it can act if normal arrangements fail or are avoided."
+    },
+    {
+      "term": "Every Child Can",
+      "definition": "A government programme name mentioned in the session, aimed at supporting children's development and access to activities."
+    },
+    {
+      "term": "place agenda",
+      "definition": "A policy approach focused on solving problems and planning services based on local areas or communities rather than nationally."
+    }
   ]
 }
