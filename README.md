@@ -78,6 +78,14 @@ Condense packets that need it (requires `CONDENSE_API_KEY` in the environment;
 python3 scripts/parliament_pipeline.py condense
 ```
 
+Write a glossary for any condensation that lacks one. `condense` already asks for
+a glossary, so this is only needed to backfill sessions condensed before glossaries
+existed. It reads the finished dialogue only, so the condensed text is untouched:
+
+```sh
+python3 scripts/parliament_pipeline.py gloss
+```
+
 Limit a trial run to one API item without writing a packet:
 
 ```sh

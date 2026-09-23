@@ -282,5 +282,107 @@
         }
       ]
     }
+  ],
+  "glossary": [
+    {
+      "term": "West Burton",
+      "definition": "A large electricity generation site in England that hosts energy infrastructure and was proposed as a location for a fusion project."
+    },
+    {
+      "term": "non-statutory consultations",
+      "definition": "Public engagement exercises that developers run voluntarily to gather local views, not because the law requires them."
+    },
+    {
+      "term": "brownfield reuse",
+      "definition": "Redeveloping land that was previously used for industry or infrastructure instead of building on undeveloped green spaces."
+    },
+    {
+      "term": "Environment Agency",
+      "definition": "England's public body responsible for protecting the environment, regulating water, pollution and flood risk."
+    },
+    {
+      "term": "Health and Safety Executive",
+      "definition": "The UK regulator that enforces workplace health and safety law across industries."
+    },
+    {
+      "term": "HSE",
+      "definition": "Acronym for the Health and Safety Executive."
+    },
+    {
+      "term": "NPS",
+      "definition": "Acronym for National Policy Statement, a government planning document setting national rules for major infrastructure types."
+    },
+    {
+      "term": "national planning policy statement",
+      "definition": "A government document that sets planning policy and priorities for nationally important infrastructure projects."
+    },
+    {
+      "term": "EN‑8",
+      "definition": "The specific National Policy Statement referenced here that sets out planning policy for certain types of energy infrastructure, used to clarify fusion planning."
+    },
+    {
+      "term": "NSIP",
+      "definition": "Acronym for Nationally Significant Infrastructure Project, a major project that follows a special national planning regime."
+    },
+    {
+      "term": "Planning Inspectorate",
+      "definition": "The government agency that examines and decides on major planning applications, appeals and national infrastructure cases."
+    },
+    {
+      "term": "DESNZ",
+      "definition": "Department for Energy Security and Net Zero, the UK government department responsible for energy policy and net-zero goals."
+    },
+    {
+      "term": "EA",
+      "definition": "Acronym for the Environment Agency."
+    },
+    {
+      "term": "Culham",
+      "definition": "The Culham Centre for Fusion Energy, the UK's main fusion research site and national lab near Oxford."
+    },
+    {
+      "term": "'as low as reasonably practicable'",
+      "definition": "A legal safety standard meaning risks must be reduced until any further reduction would be grossly disproportionate to the benefit."
+    },
+    {
+      "term": "nth‑of‑a‑kind",
+      "definition": "An industry phrase meaning a mature, mass-produced version of a technology rather than the first prototype."
+    },
+    {
+      "term": "PPAs",
+      "definition": "Acronym for Power Purchase Agreements, long-term contracts where a buyer agrees to purchase electricity from a generator."
+    },
+    {
+      "term": "JET",
+      "definition": "Joint European Torus, a major experimental fusion reactor in the UK that has advanced fusion research."
+    },
+    {
+      "term": "tritium",
+      "definition": "A radioactive isotope of hydrogen used as a fuel in some types of fusion reactions."
+    },
+    {
+      "term": "tritium fuel cycle",
+      "definition": "The set of processes for producing, handling, supplying and recycling tritium for use in fusion reactors."
+    },
+    {
+      "term": "breeding blanket engineering",
+      "definition": "Engineering in fusion reactors that surrounds the core with material to produce (breed) tritium, often from lithium."
+    },
+    {
+      "term": "Lloyd’s syndicate",
+      "definition": "A group within Lloyd's of London insurance market that underwrites particular insurance risks collectively."
+    },
+    {
+      "term": "bespoke UK fusion insurance fund",
+      "definition": "A specially created UK insurance pool intended to cover fusion-related risks that standard insurance may not cover."
+    },
+    {
+      "term": "MoD",
+      "definition": "Acronym for the Ministry of Defence, the UK government department responsible for defence and the armed forces."
+    },
+    {
+      "term": "Eskdalemuir seismic monitoring",
+      "definition": "Seismic monitoring at Eskdalemuir in Scotland, a station used to detect earthquakes and other ground vibrations, including for defence monitoring."
+    }
   ]
 }

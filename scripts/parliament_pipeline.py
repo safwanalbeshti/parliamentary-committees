@@ -466,15 +466,21 @@ Return exactly this structure:
   "speakers": [
     {{
       "label": "Chair",
-      "name": "The chair's real name",
+      "name": "<the chair's actual name from the transcript>",
       "role": "Chair of the committee",
       "kind": "chair"
     }},
     {{
-      "label": "Witness Name",
-      "name": "Witness Name",
-      "role": "Their role and organisation",
+      "label": "<witness's actual name>",
+      "name": "<witness's actual name>",
+      "role": "<their role and organisation>",
       "kind": "witness"
+    }}
+  ],
+  "glossary": [
+    {{
+      "term": "<a term used in your dialogue that a layman would not know>",
+      "definition": "<one plain sentence explaining it, max 200 characters>"
     }}
   ],
   "chapters": [
@@ -490,6 +496,16 @@ Return exactly this structure:
     }}
   ]
 }}
+
+Every value written above in <angle brackets> is a description of what to write,
+not text to copy: replace it with the real thing from the transcript. Never emit a
+name containing the words "actual name" or "real name".
+
+The `glossary` lists terms that still appear in YOUR dialogue and that a general
+reader would not know — acronyms, institutions, and technical or parliamentary
+vocabulary (for example "UNIDO", "statutory instrument", "Ofgem"). Give 0–25
+entries, each defined in one plain sentence. Write the term exactly as it appears
+in your dialogue. Do not include everyday words.
 
 Allowed speaker kinds are `chair`, `member`, and `witness`. If you use the label
 `Committee Member` for speakers the transcript leaves unnamed, set both its label
@@ -694,6 +710,18 @@ def validate_packet(packet: Path) -> tuple[list[str], list[str], dict[str, Any] 
             continue
         label = require_string(speaker.get("label"), f"{prefix}.label", errors, 1, 80)
         name = require_string(speaker.get("name"), f"{prefix}.name", errors, 1, 100)
+        # Guard against the prompt's own placeholders, or a line of dialogue,
+        # being emitted as a speaker's name.
+        if name:
+            lowered_name = name.casefold()
+            if "<" in name or "real name" in lowered_name or "actual name" in lowered_name:
+                errors.append(
+                    f"{prefix}.name is a template placeholder, not a name: {name!r}."
+                )
+            elif len(name.split()) > 6:
+                errors.append(
+                    f"{prefix}.name looks like a sentence, not a name: {name!r}."
+                )
         require_string(speaker.get("role"), f"{prefix}.role", errors, 2, 240)
         if speaker.get("kind") not in {"chair", "member", "witness"}:
             errors.append(f"{prefix}.kind must be chair, member, or witness.")
@@ -732,6 +760,30 @@ def validate_packet(packet: Path) -> tuple[list[str], list[str], dict[str, Any] 
                     f"{speaker.get('name')!r} is an official witness but is "
                     "declared a member."
                 )
+
+    # The glossary is optional: sessions condensed before it existed simply fall
+    # back to the viewer's built-in parliamentary terms.
+    glossary = condensation.get("glossary")
+    if glossary is not None:
+        if not isinstance(glossary, list):
+            errors.append("glossary must be an array when present.")
+        elif len(glossary) > 25:
+            errors.append("glossary must contain no more than 25 entries.")
+        else:
+            seen_terms: set[str] = set()
+            for index, entry in enumerate(glossary):
+                entry_prefix = f"glossary[{index}]"
+                if not isinstance(entry, dict):
+                    errors.append(f"{entry_prefix} must be an object.")
+                    continue
+                term = require_string(entry.get("term"), f"{entry_prefix}.term", errors, 1, 80)
+                require_string(
+                    entry.get("definition"), f"{entry_prefix}.definition", errors, 15, 300
+                )
+                if term and term.casefold() in seen_terms:
+                    errors.append(f"{entry_prefix}.term {term!r} is duplicated.")
+                elif term:
+                    seen_terms.add(term.casefold())
 
     chapters = condensation.get("chapters")
     if not isinstance(chapters, list) or not chapters:
@@ -983,6 +1035,112 @@ def condense_command(args: argparse.Namespace) -> int:
     return 1 if failed and not condensed else 0
 
 
+GLOSSARY_PROMPT = """You are given the plain-English dialogue from a UK parliamentary
+committee session. List the terms in it that a general reader would not know:
+acronyms, institutions, and technical or parliamentary vocabulary.
+
+Rules:
+
+- Write each term exactly as it appears in the dialogue.
+- Define each in one plain sentence a layman understands (under 200 characters).
+- Skip everyday words, and anything the dialogue already explains in passing.
+- At most 25 entries. Fewer is fine; an empty list is fine.
+- Return raw JSON only, in this shape:
+  {"glossary": [{"term": "...", "definition": "..."}]}
+"""
+
+
+def dialogue_text(condensation: dict[str, Any]) -> str:
+    lines: list[str] = []
+    for chapter in condensation.get("chapters") or []:
+        for turn in chapter.get("turns") or []:
+            lines.append(f"{turn.get('speaker')}: {turn.get('text')}")
+    return "\n".join(lines)
+
+
+def needs_glossary(packet: Path) -> bool:
+    condensation = read_json(packet / "condensation.json", {})
+    return isinstance(condensation, dict) and not condensation.get("glossary")
+
+
+def gloss_command(args: argparse.Namespace) -> int:
+    """Add a glossary to condensations made before glossaries existed.
+
+    This reads only the finished dialogue, so the condensed text is untouched.
+    """
+    root = Path(args.root).resolve()
+    packets = (
+        [root / "inbox" / str(args.id)]
+        if args.id is not None
+        else [
+            packet
+            for packet in iter_packets(root)
+            if (packet / "condensation.json").exists() and needs_glossary(packet)
+        ]
+    )
+    if args.max_packets is not None:
+        packets = packets[: args.max_packets]
+    if args.dry_run:
+        for packet in packets:
+            print(f"Would write a glossary for {packet.name}")
+        print(f"{len(packets)} packet(s) need a glossary.")
+        return 0
+    if not packets:
+        print("Every condensation already has a glossary.")
+        return 0
+
+    api_key = os.environ.get("CONDENSE_API_KEY", "")
+    if not api_key:
+        raise PipelineError("Set the CONDENSE_API_KEY environment variable.")
+
+    written = 0
+    failed = 0
+    for packet in packets:
+        print(f"Glossing {packet.name} …", flush=True)
+        target = packet / "condensation.json"
+        condensation = read_json(target)
+        if not isinstance(condensation, dict):
+            failed += 1
+            print(f"  error: {target.name} is missing or invalid.", file=sys.stderr)
+            continue
+        try:
+            answer = chat_completion(
+                api_key,
+                [
+                    {"role": "system", "content": GLOSSARY_PROMPT},
+                    {"role": "user", "content": dialogue_text(condensation)},
+                ],
+            )
+            payload = extract_json_object(answer)
+        except PipelineError as exc:
+            if "CONDENSE_API_KEY" in str(exc) or "account balance" in str(exc):
+                raise
+            failed += 1
+            print(f"  error: {exc}", file=sys.stderr)
+            continue
+
+        entries = [
+            {"term": str(entry["term"]).strip(), "definition": str(entry["definition"]).strip()}
+            for entry in payload.get("glossary") or []
+            if isinstance(entry, dict) and entry.get("term") and entry.get("definition")
+        ][:25]
+
+        condensation["glossary"] = entries
+        write_json(target, condensation)
+
+        errors, _ = validate_packet(packet)[:2]
+        if errors:
+            failed += 1
+            for error in errors:
+                print(f"  error: {error}", file=sys.stderr)
+        else:
+            written += 1
+            print(f"  {len(entries)} term(s)")
+
+    print(f"{written} glossed, {failed} failed, {len(packets)} attempted.")
+    return 1 if failed and not written else 0
+
+
 def seat_for(kind: str, counters: dict[str, int]) -> str:
     if kind == "chair":
         return "chair"
@@ -1059,6 +1217,14 @@ def session_javascript(metadata: dict[str, Any], condensation: dict[str, Any]) -
     }
     if inquiry:
         session["inquiry"] = inquiry
+
+    glossary = [
+        {"term": str(entry["term"]).strip(), "definition": str(entry["definition"]).strip()}
+        for entry in condensation.get("glossary") or []
+        if isinstance(entry, dict) and entry.get("term") and entry.get("definition")
+    ]
+    if glossary:
+        session["glossary"] = glossary
     serialised = json.dumps(session, ensure_ascii=False, indent=2)
     return f"""/*
  * Generated from UK Parliament oral evidence {metadata['parliament_oral_evidence_id']}.
@@ -1327,6 +1493,15 @@ def parser() -> argparse.ArgumentParser:
     condense_parser.add_argument("--max-packets", type=int)
     condense_parser.add_argument("--dry-run", action="store_true")
     condense_parser.set_defaults(function=condense_command)
+
+    gloss_parser = commands.add_parser(
+        "gloss",
+        help="Write a glossary for condensations that lack one (dialogue only).",
+    )
+    gloss_parser.add_argument("--id", type=int)
+    gloss_parser.add_argument("--max-packets", type=int)
+    gloss_parser.add_argument("--dry-run", action="store_true")
+    gloss_parser.set_defaults(function=gloss_command)
 
     validate_parser = commands.add_parser(
         "validate", help="Validate one or all condensation files."
