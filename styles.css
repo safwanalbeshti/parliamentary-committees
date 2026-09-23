@@ -1066,13 +1066,13 @@ h1 {
   outline-offset: 2px;
 }
 
-.gloss-term::after {
-  content: attr(data-def);
-  position: absolute;
-  left: 50%;
-  bottom: calc(100% + 11px);
-  z-index: 30;
-  width: max-content;
+/* The tooltip lives on <body>, not inside the term: the speech bubble is a
+   scroll container, and an absolutely-positioned child would be clipped by it. */
+.gloss-tip {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 60;
   max-width: min(272px, 66vw);
   padding: 10px 12px;
   border-radius: var(--radius);
@@ -1082,40 +1082,36 @@ h1 {
   font-weight: 600;
   line-height: 1.46;
   text-align: left;
-  text-decoration: none;
-  white-space: normal;
   box-shadow: 0 18px 38px rgba(24, 32, 38, 0.34);
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(5px);
+  transition:
+    opacity 150ms ease,
+    transform 150ms ease;
 }
 
-.gloss-term::before {
+.gloss-tip.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.gloss-tip::after {
   content: "";
   position: absolute;
-  left: 50%;
-  bottom: calc(100% + 5px);
-  z-index: 30;
+  left: var(--arrow-x, 50%);
   border: 6px solid transparent;
+  transform: translateX(-50%);
+}
+
+.gloss-tip.is-above::after {
+  top: 100%;
   border-top-color: #182026;
 }
 
-.gloss-term::after,
-.gloss-term::before {
-  opacity: 0;
-  visibility: hidden;
-  pointer-events: none;
-  transform: translate(-50%, 5px);
-  transition:
-    opacity 150ms ease,
-    transform 150ms ease,
-    visibility 150ms;
-}
-
-.gloss-term:hover::after,
-.gloss-term:hover::before,
-.gloss-term:focus::after,
-.gloss-term:focus::before {
-  opacity: 1;
-  visibility: visible;
-  transform: translate(-50%, 0);
+.gloss-tip.is-below::after {
+  bottom: 100%;
+  border-bottom-color: #182026;
 }
 
 /* ---------- home page ---------- */

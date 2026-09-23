@@ -124,6 +124,7 @@ const BASE_GLOSSARY = {
 let glossLookup = new Map();
 let glossPattern = null;
 let glossIdCounter = 0;
+let glossTip = null;
 
 const el = {
   appMain: document.querySelector("main.app"),
@@ -246,6 +247,60 @@ function wireGlossaryTerms() {
     term.after(note);
     term.setAttribute("aria-describedby", note.id);
   });
+
+  // One shared tooltip on <body>, so a scrollable ancestor can never clip it.
+  glossTip = document.createElement("div");
+  glossTip.className = "gloss-tip";
+  glossTip.setAttribute("aria-hidden", "true");
+  document.body.append(glossTip);
+
+  document.addEventListener("pointerover", (event) => {
+    const term = event.target.closest?.(".gloss-term[data-def]");
+    if (term) showGlossTip(term);
+  });
+  document.addEventListener("pointerout", (event) => {
+    if (event.target.closest?.(".gloss-term[data-def]")) hideGlossTip();
+  });
+  document.addEventListener("focusin", (event) => {
+    const term = event.target.closest?.(".gloss-term[data-def]");
+    if (term) showGlossTip(term);
+    else hideGlossTip();
+  });
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") hideGlossTip();
+  });
+  // Capture phase so a scroll inside the bubble counts, not just the page.
+  window.addEventListener("scroll", hideGlossTip, true);
+  window.addEventListener("resize", hideGlossTip);
+}
+
+function showGlossTip(term) {
+  const definition = term.dataset.def;
+  if (!glossTip || !definition) return;
+
+  glossTip.textContent = definition;
+  const anchor = term.getBoundingClientRect();
+  const tip = glossTip.getBoundingClientRect();
+  const gap = 11;
+
+  const above = anchor.top - tip.height - gap > 4;
+  const top = above ? anchor.top - tip.height - gap : anchor.bottom + gap;
+  const centred = anchor.left + anchor.width / 2 - tip.width / 2;
+  const left = clamp(centred, 8, Math.max(8, window.innerWidth - tip.width - 8));
+
+  glossTip.style.top = `${Math.round(top)}px`;
+  glossTip.style.left = `${Math.round(left)}px`;
+  glossTip.style.setProperty(
+    "--arrow-x",
+    `${Math.round(anchor.left + anchor.width / 2 - left)}px`
+  );
+  glossTip.classList.toggle("is-above", above);
+  glossTip.classList.toggle("is-below", !above);
+  glossTip.classList.add("is-visible");
+}
+
+function hideGlossTip() {
+  if (glossTip) glossTip.classList.remove("is-visible");
 }
 
 function escapeRegExp(value) {
