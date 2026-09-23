@@ -183,5 +183,107 @@ window.COMMITTEE_SESSIONS.push({
     }
   },
   "transcript": "# National Planning Policy Statement on Nuclear Fusion\n\n## Local buy‑in and early community engagement\n> Early, open and sustained engagement with local communities—shown by West Burton—builds trust and improves projects.\n\nChair: We’ll start with communities: do fusion projects tend to go to places that already host nuclear?\nPaul Methven: Our West Burton site shows fusion can find support outside old fission sites. West Burton volunteered, it had a history of big energy infrastructure, and people welcomed STEP because it felt positive for jobs and the area.\nChair: What makes community engagement at West Burton work?\nPaul Methven: Early and sustained engagement. We ran non-statutory consultations so people could shape transport plans and other impacts. If developers listen, projects run smoother and cost less in the long run.\nSir Christopher Chope: When you say 'take people with you', is that voluntary or imposed by Government?\nPaul Methven: Ideally it’s voluntary—people want the development because of jobs and regeneration. In extremis the Government could impose things, but that risks opposition; so you avoid that by working with locals early.\n\n\n## Safety, environmental impacts and water\n> Fusion is zero carbon at the point of generation and has a different, generally lower, hazard and waste profile than fission—but water, construction impacts and some novel wastes still need careful regulation.\n\nSir Christopher Chope: How environmentally friendly is fusion compared with traditional nuclear?\nPaul Methven: Once running, fusion is zero carbon at the generator and likely lower environmental impact than large fission plants. Construction has normal infrastructure impacts, but we’re using brownfield reuse at West Burton to reduce them.\nJo Nettleton: Fusion can produce novel radioactive and hazardous wastes, but not the same very long-lived wastes as fission. The Environment Agency and the Health and Safety Executive will regulate proportionately and robustly.\nSir Christopher Chope: What about water usage? That’s a big local concern.\nJo Nettleton: At West Burton the water needs should be much less than a large fission plant and more like a coal-fired station—there’s a lot of local planning to make sure the cumulative water demand of the area is manageable.\nPaul Methven: Water is mainly for cooling and is returned warmer, not consumed in net; the NPS makes developers compute and manage water use as part of consents.\n\n\n## Why a separate planning statement (EN‑8)?\n> Fusion has a different safety and regulatory profile to fission, so the Government made a dedicated national planning statement to give clarity to developers and communities.\n\nChair: Why do we need another national planning policy statement just for fusion?\nMichael Shanks: Fusion and fission get conflated but they’re fundamentally different. EN‑8 separates fusion’s hazard profile and gives regulators, investors and communities clarity—developers need to know the planning route as projects near consent.\nDavid Sandford: It also helps attract private investment: companies choosing where to site need a clear, predictable consent route and regulatory picture.\nMike Reader: Won’t more NPS documents make planning more complex?\nMichael Shanks: We don’t want proliferation of statements. We’ll only make separate ones where a technology’s circumstances clearly differ; EN‑8 was judged to meet that test.\nClaire Young: If a fusion project is small, can it still ask to be treated as nationally significant?\nMichael Shanks: Yes. Developers can seek NSIP status if a site has nationally significant elements. The thresholds are set now—50 MW in England—so planners and the Planning Inspectorate need to be ready to handle such cases.\n\n\n## Regulation, inspectors and the role of agencies\n> Regulation for fusion is simpler than fission—mainly the Environment Agency and HSE—though skills, novel waste routes and regulator capacity must grow as the sector scales.\n\nJo Nettleton: For fusion we’re the environmental regulator and the HSE is the safety regulator. Fusion’s physics mean we don’t need the Office for Nuclear Regulation the way fission does. That makes the regulatory landscape simpler, though technical complexity remains.\nMike Reader: Won’t it get more complicated as projects scale up and more bodies become involved?\nJo Nettleton: We’ll need to build skills and capability as the tech develops. DESNZ funds the EA to grow its fusion regulatory expertise. We expect more engagement per site than Culham today, but it’s manageable.\nClaire Young: Will planning inspectors and local officers have the expertise to judge fusion consent applications?\nMichael Shanks: That’s why we’re publishing EN‑8 now—so the Planning Inspectorate and local authorities can upskill and recruit. The NPS gives the pathway they need to prepare.\nPaul Methven: Early regulator engagement reduces surprises. Developers must show designs meet legal tests like 'as low as reasonably practicable'—that’s part of the regulatory approval, not the planning consent alone.\n\n\n## Costs, timing and the commercial case\n> Commercial prices and exact timelines are still uncertain—industry targets low-cost nth‑of‑a‑kind power, the Government aims for a prototype by 2040, and both sectors say public support and market-making are vital.\n\nMelanie Onn: You say commercial delivery is close. What will fusion cost per megawatt-hour?\nTris Denton: Industry members talk about 5–10 US cents per kWh at nth‑of‑a‑kind—that’s roughly £35–£75/MWh—but that’s a private-sector target for later plants, not first-of-a-kind.\nPaul Methven: We don’t know exact prices yet. For the public-sector STEP programme the aim is to get to competitiveness versus large-scale civil nuclear and to enable export markets.\nMichael Shanks: Government won’t give a fixed price now; costs evolve with deployment. We’ve funded £2.5bn for R&D and want the first plant by 2040—cost, skills and market frameworks still need work.\nTris Denton: Private investment has flowed—a lot of private capital, PPAs with big tech—and companies are designing for competitive prices. Government funding mainly bridges early market failure to let private markets scale.\nMike Reader: Is fusion primarily an export opportunity or for UK energy supply?\nPaul Methven: Both. The UK can host plants to supply domestic industry and use STEP to create a global exportable technology, leveraging our JET experience, tritium expertise and robotics capability.\n\n\n## Jobs, skills, supply chain, insurance and unresolved liabilities\n> Fusion creates high‑skilled jobs and export chances, but skills, insurance and liability arrangements still need clarity; regulators, industry and Government are working on these gaps.\n\nWera Hobhouse: Where should the UK focus in the global supply chain?\nPaul Methven: Lead in whole‑plant integration, tritium fuel cycle, robotics, magnets and breeding blanket engineering—areas where Culham and UK labs are already strong.\nTris Denton: The UK has great universities, private firms and the national lab. Industry wants a stable pipeline so people build careers here instead of moving abroad.\nPaul Methven: Our STEP numbers: steady-state operation maybe ~1,500 jobs locally, construction peaking around 8,000, plus a wider supply-chain opportunity in the tens of thousands nationally if we capture it.\nSir Christopher Chope: Who’ll pay if a radiological incident affected third parties? Lloyd’s syndicate warned EN‑8 doesn’t fully cover site‑wide radioactive inventories.\nMichael Shanks: I haven’t read that submission specifically, but the NPS and existing regulations address radioactive storage and transport. Insurance conversations are ongoing; fusion’s risk profile is different from fission.\nDavid Sandford: Insurers are starting to engage. There’s already a bespoke UK fusion insurance fund launched and a panel at the summit. Developers must satisfy HSE safety assessments; insurance and regulatory regimes will evolve together.\nMike Reader: Tritium initially needs importing—should the NPS say more about it?\nPaul Methven: An initial tritium charge is imported, then plants breed tritium from lithium. Transportation and storage of radioactive materials are already regulated by other bodies, so the planning statement needn’t repeat that detail.\nChair: One last point: Eskdalemuir seismic monitoring and wind—minister, you extended consultation. Any update?\nMichael Shanks: We’ll balance onshore wind deployment with protecting vital seismic monitoring tied to defence. New monitoring tech may allow closer siting, but we’ll proceed methodically with MoD partners.\n",
-  "inquiry": "National Planning Policy Statement on Nuclear Fusion"
+  "inquiry": "National Planning Policy Statement on Nuclear Fusion",
+  "glossary": [
+    {
+      "term": "West Burton",
+      "definition": "A large electricity generation site in England that hosts energy infrastructure and was proposed as a location for a fusion project."
+    },
+    {
+      "term": "non-statutory consultations",
+      "definition": "Public engagement exercises that developers run voluntarily to gather local views, not because the law requires them."
+    },
+    {
+      "term": "brownfield reuse",
+      "definition": "Redeveloping land that was previously used for industry or infrastructure instead of building on undeveloped green spaces."
+    },
+    {
+      "term": "Environment Agency",
+      "definition": "England's public body responsible for protecting the environment, regulating water, pollution and flood risk."
+    },
+    {
+      "term": "Health and Safety Executive",
+      "definition": "The UK regulator that enforces workplace health and safety law across industries."
+    },
+    {
+      "term": "HSE",
+      "definition": "Acronym for the Health and Safety Executive."
+    },
+    {
+      "term": "NPS",
+      "definition": "Acronym for National Policy Statement, a government planning document setting national rules for major infrastructure types."
+    },
+    {
+      "term": "national planning policy statement",
+      "definition": "A government document that sets planning policy and priorities for nationally important infrastructure projects."
+    },
+    {
+      "term": "EN‑8",
+      "definition": "The specific National Policy Statement referenced here that sets out planning policy for certain types of energy infrastructure, used to clarify fusion planning."
+    },
+    {
+      "term": "NSIP",
+      "definition": "Acronym for Nationally Significant Infrastructure Project, a major project that follows a special national planning regime."
+    },
+    {
+      "term": "Planning Inspectorate",
+      "definition": "The government agency that examines and decides on major planning applications, appeals and national infrastructure cases."
+    },
+    {
+      "term": "DESNZ",
+      "definition": "Department for Energy Security and Net Zero, the UK government department responsible for energy policy and net-zero goals."
+    },
+    {
+      "term": "EA",
+      "definition": "Acronym for the Environment Agency."
+    },
+    {
+      "term": "Culham",
+      "definition": "The Culham Centre for Fusion Energy, the UK's main fusion research site and national lab near Oxford."
+    },
+    {
+      "term": "'as low as reasonably practicable'",
+      "definition": "A legal safety standard meaning risks must be reduced until any further reduction would be grossly disproportionate to the benefit."
+    },
+    {
+      "term": "nth‑of‑a‑kind",
+      "definition": "An industry phrase meaning a mature, mass-produced version of a technology rather than the first prototype."
+    },
+    {
+      "term": "PPAs",
+      "definition": "Acronym for Power Purchase Agreements, long-term contracts where a buyer agrees to purchase electricity from a generator."
+    },
+    {
+      "term": "JET",
+      "definition": "Joint European Torus, a major experimental fusion reactor in the UK that has advanced fusion research."
+    },
+    {
+      "term": "tritium",
+      "definition": "A radioactive isotope of hydrogen used as a fuel in some types of fusion reactions."
+    },
+    {
+      "term": "tritium fuel cycle",
+      "definition": "The set of processes for producing, handling, supplying and recycling tritium for use in fusion reactors."
+    },
+    {
+      "term": "breeding blanket engineering",
+      "definition": "Engineering in fusion reactors that surrounds the core with material to produce (breed) tritium, often from lithium."
+    },
+    {
+      "term": "Lloyd’s syndicate",
+      "definition": "A group within Lloyd's of London insurance market that underwrites particular insurance risks collectively."
+    },
+    {
+      "term": "bespoke UK fusion insurance fund",
+      "definition": "A specially created UK insurance pool intended to cover fusion-related risks that standard insurance may not cover."
+    },
+    {
+      "term": "MoD",
+      "definition": "Acronym for the Ministry of Defence, the UK government department responsible for defence and the armed forces."
+    },
+    {
+      "term": "Eskdalemuir seismic monitoring",
+      "definition": "Seismic monitoring at Eskdalemuir in Scotland, a station used to detect earthquakes and other ground vibrations, including for defence monitoring."
+    }
+  ]
 });

@@ -36,13 +36,94 @@ const PEERAGE_TITLES = [
 ];
 
 function memberKindLabel(name) {
-  const trimmed = String(name || "").trim();
-  const title = PEERAGE_TITLES.find((prefix) => trimmed.startsWith(`${prefix} `));
-  return title === "Baron" ? "Lord" : title || "MP";
+  // Peers are often styled "The Duke of Wellington" or "The Lord Bishop of
+  // Durham", so drop a leading "The" before looking for the title.
+  const trimmed = String(name || "")
+    .trim()
+    .replace(/^the\s+/i, "");
+  if (/^(?:lord\s+)?bishop\b/i.test(trimmed)) return "Bishop";
+  const title = PEERAGE_TITLES.find((prefix) =>
+    new RegExp(`^${prefix}\\b`, "i").test(trimmed)
+  );
+  if (!title) return "MP";
+  return title === "Baron" ? "Lord" : title;
 }
 
 const STORAGE_KEY = "committee-viewer-progress";
 const MENU_MODE_KEY = "committee-viewer-menu-mode";
+
+/*
+ * Terms a general reader is unlikely to know. Each session also carries its own
+ * glossary (written alongside its condensation, so new bodies and acronyms are
+ * covered automatically); this base list holds the parliamentary vocabulary that
+ * recurs across every committee.
+ */
+const BASE_GLOSSARY = {
+  "select committee":
+    "A cross-party group of MPs or peers that investigates a subject and questions ministers, officials and experts about it.",
+  "oral evidence":
+    "A public session where a committee questions witnesses face to face. The transcript is published afterwards.",
+  "written evidence":
+    "Submissions a committee invites in writing from organisations or members of the public.",
+  "statutory instrument":
+    "A detailed rule a minister can make using powers an existing Act already granted — it becomes law without a full new Act.",
+  "secondary legislation":
+    "Detailed rules made by ministers under powers an existing Act gave them, rather than by passing a new Act.",
+  "primary legislation":
+    "An Act of Parliament itself — law made by passing a Bill through both Houses.",
+  "royal assent":
+    "The final step where the monarch formally approves a Bill, turning it into an Act and so into law.",
+  "green paper":
+    "A government document floating early ideas on a policy and asking for views before anything is decided.",
+  "white paper":
+    "A government document setting out firm policy plans, usually just before a Bill is introduced.",
+  "permanent secretary":
+    "The most senior civil servant in a government department — the official who runs it day to day, not a politician.",
+  "accounting officer":
+    "The official personally answerable to Parliament for how a department spends its money.",
+  "civil servant":
+    "A politically neutral official who works for a government department regardless of which party is in power.",
+  quango:
+    "A body set up and funded by government to run something at arm's length from ministers.",
+  "arm's-length body":
+    "An organisation government funds and sets objectives for, but does not run directly day to day.",
+  regulator:
+    "A body with legal powers to set and enforce rules for an industry.",
+  scrutiny:
+    "Parliament examining the government's decisions, spending or draft laws in detail, and challenging them.",
+  backbencher:
+    "An MP who holds no government or opposition front-bench job, so speaks and votes independently of those teams.",
+  "devolved administration":
+    "The governments of Scotland, Wales and Northern Ireland, which control certain policies in their own nations.",
+  "barnett formula":
+    "The calculation deciding how much extra funding Scotland, Wales and Northern Ireland get when spending changes in England.",
+  "judicial review":
+    "A court case testing whether a public body followed the law when making a decision.",
+  procurement: "The process by which the public sector buys goods and services.",
+  "capital expenditure":
+    "Money spent on long-lasting things like buildings and equipment, as opposed to day-to-day running costs.",
+  "critical national infrastructure":
+    "The systems a country cannot function without — power, water, transport, health and telecoms.",
+  interconnector:
+    "An undersea or cross-border cable or pipeline that lets countries trade electricity or gas with each other.",
+  "net zero":
+    "Cutting greenhouse gas emissions to the point where any remaining amount is balanced by what is removed from the air.",
+  "carbon budget":
+    "A legally binding cap on the total greenhouse gases the UK may emit over a five-year period.",
+  ofgem: "The regulator for Britain's gas and electricity markets.",
+  ofcom: "The regulator for broadcasting, telecoms and online safety.",
+  ofwat: "The regulator for water and sewerage companies in England and Wales.",
+  defra:
+    "The Department for Environment, Food and Rural Affairs — the government department covering farming, water, waste and nature.",
+  fcdo:
+    "The Foreign, Commonwealth and Development Office — the department handling foreign policy and overseas aid.",
+  "national audit office":
+    "The independent body that audits government spending and reports to Parliament on whether it delivered value.",
+};
+
+let glossLookup = new Map();
+let glossPattern = null;
+let glossIdCounter = 0;
 
 const el = {
   appMain: document.querySelector("main.app"),
@@ -151,15 +232,87 @@ function init() {
 
 // The definition itself is drawn by CSS from data-def, which a screen reader
 // never sees; repeat it in a hidden span and point the term at it.
+function glossNote(definition) {
+  const note = document.createElement("span");
+  note.className = "visually-hidden";
+  note.id = `gloss-def-${glossIdCounter++}`;
+  note.textContent = definition;
+  return note;
+}
+
 function wireGlossaryTerms() {
-  document.querySelectorAll(".gloss-term[data-def]").forEach((term, index) => {
-    const note = document.createElement("span");
-    note.className = "visually-hidden";
-    note.id = `gloss-def-${index}`;
-    note.textContent = term.dataset.def;
+  document.querySelectorAll(".gloss-term[data-def]").forEach((term) => {
+    const note = glossNote(term.dataset.def);
     term.after(note);
     term.setAttribute("aria-describedby", note.id);
   });
+}
+
+function escapeRegExp(value) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+// The session's own glossary wins over the base list when both define a term.
+function buildGlossary() {
+  glossLookup = new Map();
+  for (const [term, definition] of Object.entries(BASE_GLOSSARY)) {
+    glossLookup.set(term.toLowerCase(), { term, definition });
+  }
+  for (const entry of (session && session.glossary) || []) {
+    if (entry && entry.term && entry.definition) {
+      glossLookup.set(String(entry.term).toLowerCase(), {
+        term: String(entry.term),
+        definition: String(entry.definition),
+      });
+    }
+  }
+
+  // Longest first, so "select committee" wins over a shorter overlapping term.
+  const terms = [...glossLookup.values()]
+    .map((entry) => entry.term)
+    .sort((a, b) => b.length - a.length)
+    .map(escapeRegExp);
+  glossPattern = terms.length ? new RegExp(`\\b(?:${terms.join("|")})\\b`, "gi") : null;
+}
+
+// Wrap the FIRST mention of each known term so a line never turns into a wall
+// of underlines. Built as nodes rather than markup so the text is never parsed.
+function glossify(text) {
+  const fragment = document.createDocumentFragment();
+  const line = String(text);
+  if (!glossPattern) {
+    fragment.append(line);
+    return fragment;
+  }
+
+  glossPattern.lastIndex = 0;
+  const seen = new Set();
+  let cursor = 0;
+  let match;
+
+  while ((match = glossPattern.exec(line)) !== null) {
+    const key = match[0].toLowerCase();
+    const entry = glossLookup.get(key);
+    if (!entry || seen.has(key)) continue;
+    seen.add(key);
+
+    if (match.index > cursor) fragment.append(line.slice(cursor, match.index));
+
+    const term = document.createElement("span");
+    term.className = "gloss-term";
+    term.tabIndex = 0;
+    term.textContent = match[0];
+    term.dataset.def = entry.definition;
+
+    const note = glossNote(entry.definition);
+    term.setAttribute("aria-describedby", note.id);
+
+    fragment.append(term, note);
+    cursor = match.index + match[0].length;
+  }
+
+  fragment.append(line.slice(cursor));
+  return fragment;
 }
 
 /* ---------- meeting menu ---------- */
@@ -421,6 +574,7 @@ function selectSession(id) {
   dialogue = parsed.dialogue;
   chapters = parsed.chapters;
   cast = buildCast();
+  buildGlossary();
 
   const room = session.room || {};
   if (room.image && el.roomImage.getAttribute("src") !== room.image) {
@@ -527,7 +681,7 @@ function setCurrent(nextIndex, options = {}) {
   const chapter = chapterForTurn(currentIndex);
 
   el.bubbleSpeaker.textContent = design.name;
-  el.bubbleText.textContent = entry.line;
+  el.bubbleText.replaceChildren(glossify(entry.line));
   el.bubbleCount.textContent = `${currentIndex + 1} of ${dialogue.length}`;
   el.speechBubble.style.setProperty("--speaker-soft", design.soft);
   el.bubbleText.scrollTop = 0;
