@@ -1276,7 +1276,16 @@ def seat_for(kind: str, counters: dict[str, int]) -> str:
 def session_javascript(metadata: dict[str, Any], condensation: dict[str, Any]) -> str:
     counters = {"chair": 0, "member": 0, "witness": 0}
     cast: dict[str, Any] = {}
-    for index, speaker in enumerate(condensation["speakers"]):
+    # A speaker who never actually speaks would sit in Who's who with nothing to
+    # jump to, so the cast only carries people who appear in the dialogue.
+    speaking = {
+        turn["speaker"]
+        for chapter in condensation["chapters"]
+        for turn in chapter["turns"]
+    }
+    for index, speaker in enumerate(
+        [item for item in condensation["speakers"] if item["label"] in speaking]
+    ):
         kind = speaker["kind"]
         color, soft = PALETTE[index % len(PALETTE)]
         cast[speaker["label"]] = {

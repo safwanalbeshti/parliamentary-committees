@@ -11,7 +11,7 @@ window.COMMITTEE_SESSIONS.push({
   "date": "16 September 2026",
   "sourceUrl": "https://committees.parliament.uk/oralevidence/18095/html/",
   "sourceLabel": "Official uncorrected transcript",
-  "summary": "Two experts explain the big governance problems around artificial intelligence (safety, security, standards, equity and preparedness), describe where international cooperation is already working and where it’s stuck, and set out how the UK can use its technical know‑how and diplomatic reach to help build practical, multi‑country solutions without reinventing global institutions.",
+  "summary": "Witnesses Sam Daws (University of Oxford) and Isabella Wilkinson (Chatham House) told the Lords committee that AI raises a wide range of shared, cross-border risks—safety failures, security threats, misuse, information harms and environmental impacts—and that current international responses are a fragmented patchwork of UN processes, regional rules, standards bodies and minilateral groups. They argued for practical steps: better testing and incident reporting, standards and evaluator networks, closer private-sector engagement with accountability, stronger UK diplomatic coordination, and targeted capacity building for the global south. A new global agency is possible but unlikely without a major incident; the short-term priority is to strengthen existing institutions and interoperability.",
   "room": {
     "image": "Energy Resilience/committee_room_4.png",
     "width": 2788,
@@ -73,7 +73,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Sam Daws": {
       "name": "Sam Daws",
-      "role": "Senior Adviser to the Martin AI Governance Initiative, University of Oxford; founding director of Multilateral AI; former senior civil servant",
+      "role": "Senior Adviser, Martin AI Governance Initiative, University of Oxford; founding director of Multilateral AI",
       "description": "",
       "kind": "witness",
       "seats": [
@@ -84,7 +84,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Isabella Wilkinson": {
       "name": "Isabella Wilkinson",
-      "role": "Senior Research Fellow, Digital Society Programme, Chatham House; doctoral student on AI security cooperation",
+      "role": "Senior Research Fellow, Digital Society Programme, Chatham House",
       "description": "",
       "kind": "witness",
       "seats": [
@@ -115,8 +115,8 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#287079",
       "soft": "#d9eeee"
     },
-    "Lord Grocott": {
-      "name": "Lord Grocott",
+    "Baroness Prashar": {
+      "name": "Baroness Prashar",
       "role": "Committee member",
       "description": "",
       "kind": "member",
@@ -126,8 +126,8 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#b17b2e",
       "soft": "#f5e8c4"
     },
-    "Baroness Prashar": {
-      "name": "Baroness Prashar",
+    "Lord Bruce of Bennachie": {
+      "name": "Lord Bruce of Bennachie",
       "role": "Committee member",
       "description": "",
       "kind": "member",
@@ -137,8 +137,8 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#8a5a78",
       "soft": "#f0e2ec"
     },
-    "Lord Bruce of Bennachie": {
-      "name": "Lord Bruce of Bennachie",
+    "Lord Lamont of Lerwick": {
+      "name": "Lord Lamont of Lerwick",
       "role": "Committee member",
       "description": "",
       "kind": "member",
@@ -148,8 +148,8 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#5c676d",
       "soft": "#e5e8e8"
     },
-    "Lord Lamont of Lerwick": {
-      "name": "Lord Lamont of Lerwick",
+    "Baroness Fraser of Craigmaddie": {
+      "name": "Baroness Fraser of Craigmaddie",
       "role": "Committee member",
       "description": "",
       "kind": "member",
@@ -159,8 +159,8 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#315f72",
       "soft": "#d7edf0"
     },
-    "Lord Alderdice": {
-      "name": "Lord Alderdice",
+    "Baroness Blackstone": {
+      "name": "Baroness Blackstone",
       "role": "Committee member",
       "description": "",
       "kind": "member",
@@ -170,8 +170,8 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#6f5c91",
       "soft": "#ebe2f5"
     },
-    "Baroness Fraser of Craigmaddie": {
-      "name": "Baroness Fraser of Craigmaddie",
+    "Lord De Mauley": {
+      "name": "Lord De Mauley",
       "role": "Committee member",
       "description": "",
       "kind": "member",
@@ -180,76 +180,42 @@ window.COMMITTEE_SESSIONS.push({
       ],
       "color": "#4c7b5d",
       "soft": "#dff0dd"
-    },
-    "Baroness Blackstone": {
-      "name": "Baroness Blackstone",
-      "role": "Committee member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member3"
-      ],
-      "color": "#9b543e",
-      "soft": "#f2e0d7"
-    },
-    "Lord De Mauley": {
-      "name": "Lord De Mauley",
-      "role": "Committee member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member4"
-      ],
-      "color": "#287079",
-      "soft": "#d9eeee"
     }
   },
-  "transcript": "# Multilateralism\n\n## What multilateral AI governance has to fix\n> AI governance must cover safety, international security, rules that work across countries, cultural fairness, information integrity, health benefits and environmental costs.\n\nChair: We want to know what the key governance issues are that multilateral bodies should focus on. Sam, would you start?\nSam Daws: There are several big ones. Safety — agreeing how to test, evaluate and share risks and respond to serious incidents.\nSam Daws: Security — from cyberattacks to AI helping biological threats or military use. Then regulatory interoperability so different countries' rules don't clash.\nSam Daws: Also cultural and language diversity so AI reflects people around the world; information integrity for election risks and disinformation; science and health opportunities; and environmental impacts from big data centres.\nIsabella Wilkinson: I’d group the problems three ways: shared cross‑border risks (malicious use, loss of control, systemic harms like discrimination), a lack of trusted information about AI’s risks, and poor preparedness — we lack a crisis toolbox for AI disruptions.\nIsabella Wilkinson: Put together, these create a gridlock in international action: many talks, little connected implementation across countries and organisations.\n\n\n## Where international work is already happening — and where it’s stuck\n> There are lots of dialogues — UN, G7, OECD, small groups and industry forums — with useful technical progress, but binding global rules are still missing and politics complicates cooperation.\n\nLord Ahmad of Wimbledon: We hear of UN, G7, OECD and others. How would you characterise the current state of play across countries and the appetite for international governance?\nIsabella Wilkinson: It’s a patchwork — many spaces for dialogue but little ‘connective tissue’ to make commitments actually happen. The UN convened 3,000 people recently, but it didn’t produce a binding deal.\nIsabella Wilkinson: There are successes: better reporting practices for AI incidents, growing transparency norms led by the G7 and OECD, and emerging scientific panels documenting risks.\nSam Daws: There’s a mix: universal UN talks, regional law‑based approaches like the EU AI Act, and lots of minilateral groups — the Bletchley process, G7, OECD joining broader partnerships, and China’s own groupings.\nSam Daws: But three deep problems cut across the whole AI stack: the dual‑use nature (civilian and military), companies protecting commercial secrets, and the technology’s opacity and rapid change.\nBaroness Crawley: So are the hardest issues technical, legal, or political? Where in the ‘stack’ is agreement least likely?\nSam Daws: All three matter. Technical standards can make progress. But military use, export controls, secrecy around datasets and model internals, and fast emergent behaviours — especially with agentic AI — make governance harder.\n\n\n## How worried should we be — and about what?\n> Apocalyptic headlines are unhelpful; the urgent risks are real — loss‑of‑control behaviours, AI‑enabled biological threats, cyber harms — and they need immediate practical measures.\n\nLord Grocott: Some say AI will wipe out humanity; others warn of ‘killer robots’. Should we be really worried, mildly worried, or is this academic?\nIsabella Wilkinson: Catastrophic language and Cold War arms‑race metaphors are unhelpful. They polarise and can become self‑fulfilling, pushing secrecy rather than cooperation.\nIsabella Wilkinson: Better to avoid catastrophic storytelling and focus on real problems: loss‑of‑control where systems act in unexpected ways, and concrete abuses in military and policing contexts.\nSam Daws: I’m worried but cautiously optimistic. The real scares are bio‑risks and misalignment or loss of control. There’s growing recognition across governments and companies that safety matters.\nChair: Why should we be optimistic — what makes AI different from chemical or biological threats where international control has been weak?\nSam Daws: There’s strong economic incentive for companies to keep public trust in AI. That gives leverage. Also, the UK can play a role on bio‑risks because of its life‑sciences expertise and networks — and there are proposals to strengthen the Biological Weapons Convention.\n\n\n## Private companies, the UK’s strengths, and how diplomacy fits in\n> Private firms are essential partners but must be accountable; the UK’s technical expertise and diplomatic reach are assets — if government teams work together and invest in capacity building and standards.\n\nBaroness Prashar: Does the UK have the capability to shape multilateral AI talks — and is the Government using it well?\nIsabella Wilkinson: Yes — the UK has three strengths: technical institutes (like the AI Security Institute), a diplomatic tradition that can convene (Bletchley was an example), and close partnerships, notably with the US.\nSam Daws: I agree. The UK’s history in science diplomacy shows we can pull together global buy‑in. But Whitehall needs to be joined up — foreign policy and science/tech teams must coordinate better than in the past.\nLord Bruce of Bennachie: We’ve cut aid and diplomatic posts — how should the UK use its overseas diplomatic capacity to help developing countries adopt safe, useful AI?\nSam Daws: Think beyond aid money: in‑kind expertise, partnerships with UN agencies, and national capacity building. Many countries can benefit from simpler, local models for health, education and agriculture.\nIsabella Wilkinson: The UK should use scenario‑based training — tabletop crisis drills with other countries — and push standards work so model testing and supply‑chain security become global norms.\nBaroness Fraser of Craigmaddie: But the private sector shapes much of this. How do we make sure the right companies join international standard processes, and that agreements lead to action?\nIsabella Wilkinson: The private sector must be in the room — you can’t govern frontier tech without it — but relationships must include accountability. Independent, third‑party evaluators who test models before release are a promising idea.\nSam Daws: Agreed, and we also need clear attribution in complex supply chains: who’s responsible if an open‑source model is modified and causes harm? We should track agent behaviour and have ways to roll back permissions.\n\n\n## How to move forward: pragmatic steps for the UK and the world\n> Don't start a brand‑new global agency now; instead bolster existing forums, push technical standards and evaluator networks, use the UK’s G20 and diplomatic reach, and engage China and other partners pragmatically.\n\nBaroness Blackstone: Should we create a new international organisation for AI or use existing ones?\nIsabella Wilkinson: Don’t reinvent the wheel. Strengthen and resource existing networks — for example, the international network of AI safety institutes — and improve how they share info and standardise testing.\nSam Daws: AI spans many areas, so existing UN agencies will each take on parts (health, labour, security). A single new body with enforcement powers would probably only emerge after a very big crisis.\nLord De Mauley: China’s World AI Cooperation Organization — how is it different and what does it mean for Western allies?\nSam Daws: China focuses on sovereignty, local adaptation and diffusion — offering low‑cost full‑stack solutions tuned to local languages and uses. The West should engage but also offer attractive alternatives aligned with democratic values.\nIsabella Wilkinson: The UK should push interoperability — linking Western, regional and Chinese forums where possible — and use the UN’s 'dialogue of dialogues' role as connective tissue.\nSam Daws: Concrete recommendations for the committee: back an independent evaluator ecosystem for model testing, prioritise biosecurity at the multilateral level, align where useful with the EU and stay close to the US on safety, while building regional offers for developing countries.\nChair: Thank you both — very clear. We’ll take these points back to the Government and press for joined‑up action.\n",
+  "transcript": "# Multilateralism\n\n## What multilateral AI governance needs to address\n> AI governance must cover safety, security, regulatory consistency, trust in information, inclusion, public-health opportunities and environmental effects.\n\nChair: We’ll focus on how multilateral institutions can manage AI. Sam, what are the key governance issues they need to address?\nSam Daws: Main issues are safety—agreeing how to evaluate advanced AI and share risk info; international security, from cyberattacks to militarised AI and AI-enabled biological threats; and regulatory interoperability between the EU, US, China and others.\nSam Daws: Also important are cultural and linguistic inclusion so AI reflects global needs; information integrity to limit AI-driven interference in elections; science and public health benefits; and environmental impacts from data centres.\nIsabella Wilkinson: I group governance problems into three linked types: shared risks (malicious misuse, loss of control, systemic risks like discrimination), lack of trusted information about AI impacts, and weak preparedness—no established crisis toolbox for AI-driven disruptions.\nChair: Thank you. That frames the scale: public safety, security, standards, trust and preparedness.\n\n\n## The current international picture: patchwork and pockets of progress\n> Global AI governance is a nascent, fragmented mix of UN dialogues, regional laws, standards bodies and minilaterals; there are some promising technical best practices but little binding global law.\n\nLord Ahmad of Wimbledon: There are many organisations—UN, G7, OECD, Council of Europe. Is there space for one model to prevail?\nIsabella Wilkinson: Right now it’s a global patchwork stuck in intense gridlock. There’s lots of discussion—UN dialogues and summits—but few binding outcomes and little 'connective tissue' to implementation.\nIsabella Wilkinson: Some successes exist at the technical level: better incident reporting, model transparency norms pushed by the G7 and OECD, and the UN’s recent scientific panel work. Those small technical agreements can scale if we learn from them.\nSam Daws: There are three levels: universal (UN resolutions and scientific panels), regional (EU’s law-heavy approach; other regions focus on data, language and local needs), and minilateral groups like the G7, Bletchley follow-ups and other coalitions. Private sector forums also matter.\nLord Lamont of Lerwick: Will we see convergence in small groups rather than a single global agreement?\nIsabella Wilkinson: Yes—expect convergence in smaller groupings and persistent global fragmentation. The goal should be better interoperability between those threads so harms don't slip through gaps.\n\n\n## Hard technical and political problems\n> Three core barriers are the dual-use nature of AI and geopolitics, companies’ commercial secrecy, and the technology’s opacity—made harder by new agentic behaviour.\n\nBaroness Crawley: Where are the hardest challenges—top-layer uses, technical layers, or human-rights questions?\nSam Daws: Three big, cross-cutting problems: geopolitical competition and AI’s dual-use nature; companies’ reluctance to reveal model internals for commercial reasons; and the technology itself—models are opaque and move fast.\nSam Daws: Agentic AI complicates things: models acting in the world can collude, deceive or behave unpredictably. Governance must cover pre-release testing and post-release life-cycle monitoring.\nBaroness Crawley: So we need testing, reporting and ways to control systems after deployment?\nIsabella Wilkinson: Exactly—testing helps but isn’t a silver bullet. We need independent evaluation, post-deployment monitoring, thresholds for intervention and the capacity to act when models cause harm.\nBaroness Fraser of Craigmaddie: But if a company says it was safe when released and harm comes from how users deploy it, who’s accountable?\nSam Daws: That’s an attribution problem. We need clarity across supply chains: who modified a model, who deployed it and where. Agent identification, tracking and staged permissioning are part of the technical fixes.\n\n\n## Private companies and standards: partnership with accountability\n> The private sector is central—frontier capabilities are mostly private—so governments must work with companies but insist on accountability, shared testing and clearer responsibilities.\n\nBaroness Fraser of Craigmaddie: Should private companies have a formal role in global governance, and how do we make sure action follows agreement?\nIsabella Wilkinson: Companies already shape governance—technical norms often start inside firms. Governments must accept that and bring companies in, but with reciprocity and enforcement: independent evaluators, access for testing and clear accountability.\nIsabella Wilkinson: There’s debate inside industry—some leaders back third-party evaluators; others oppose tighter rules. The UK can help incubate independent evaluator networks and trusted technical standards.\nSam Daws: Historically Western minilaterals and voluntary forums drove practice. We need to widen that to include Chinese firms and others so standards are interoperable globally, not just within western coalitions.\nBaroness Blackstone: Do we need a new global body to govern AI?\nIsabella Wilkinson: Avoid reinventing the wheel—strengthen and resource existing networks (technical forums, the UN dialogue, standards bodies). Create permanent secretariats or better mandates for what already works rather than a wholly new organisation today.\nSam Daws: A dedicated global agency is conceivable but unlikely without a major crisis that convinces states to cede power. Short term: push standards, evaluator networks, and better interoperability across existing bodies.\n\n\n## What the UK can and should do\n> The UK has technical expertise and diplomatic reach; it should coordinate government, back evaluator networks, lead capacity-building for other countries, strengthen standards work, and engage the private sector and China pragmatically.\n\nBaroness Prashar: Does the UK have what it takes to shape multilateral AI talks, and how should government make best use of it?\nIsabella Wilkinson: Yes. The UK’s strengths are technical expertise (AI Security Institute), diplomatic heritage (Bletchley summit minilateralism) and partnerships, especially with the US and Commonwealth. But Whitehall must be better joined-up and act quickly.\nSam Daws: The UK can combine science diplomacy and practical capacity building: help countries adopt safe, locally relevant AI, back UN agencies that work at national level, and offer expertise rather than just aid cheques.\nLord Bruce of Bennachie: So we should redeploy diplomatic effort overseas to help emerging economies adopt AI safely and reap productivity gains?\nIsabella Wilkinson: Yes—use scenario-based training and capacity-building for governments facing AI-driven disruption, and push standards work that helps countries test and secure models and supply chains.\nSam Daws: Practically, that means the UK should align with allies on regulation where useful, maintain access to US frontier models for testing, engage China where possible, and tailor offers by region—Central Asia, Africa, Latin America all need different support.\nLord De Mauley: How does China’s WAICO differ from western-led bodies and what does that mean for allies?\nSam Daws: China stresses sovereignty, diffusion, and full-stack support for local contexts. It offers low-cost, interoperable approaches that appeal to many countries; the West needs comparable offers and to seek interoperability, not just confrontation.\nChair: Any final practical recommendations for this committee to pass to government?\nIsabella Wilkinson: Two priorities: back an independent evaluator ecosystem (UK technical authority) and use UK diplomatic convening—via the G20 and other fora—to build minimum multilateral consensus on priority issues like biosecurity and standards.\nSam Daws: Echo that: focus on AI safety, security and AI for science; ensure joined-up UK engagement with US, EU and China where possible; and offer targeted capacity building to the global south using the UK’s technical and diplomatic assets.\nChair: Thank you both. That concludes our session—very helpful and practical evidence for our report.\n",
   "inquiry": "Multilateralism",
   "glossary": [
     {
-      "term": "UN",
-      "definition": "United Nations — the global organisation of states where countries meet and set international rules."
+      "term": "agentic AI",
+      "definition": "AI systems that can act on their own, take steps in the world and pursue goals without constant human direction."
     },
     {
-      "term": "G7",
-      "definition": "A group of seven wealthy democracies that coordinate on global economic and political issues."
-    },
-    {
-      "term": "OECD",
-      "definition": "Organisation for Economic Co-operation and Development — a club of mainly rich countries that makes policy guidance and standards."
-    },
-    {
-      "term": "EU AI Act",
-      "definition": "A new European Union law that sets rules for AI safety, transparency and reporting for companies operating in EU countries."
+      "term": "frontier models",
+      "definition": "The most advanced, high-capability AI models developed by large companies that push the technological limit."
     },
     {
       "term": "minilateral",
-      "definition": "A smaller group of countries working together on a specific issue, instead of everyone in the world."
+      "definition": "A small group of countries or organisations working together on a specific issue, rather than a universal body like the UN."
     },
     {
-      "term": "agentic AI",
-      "definition": "AI systems that can act on their own, take steps or run routines without a human pushing every button."
+      "term": "EU AI Act",
+      "definition": "The European Union’s risk-based law setting requirements for how AI systems are built, tested and used in the EU."
     },
     {
-      "term": "Frontier Model Forum",
-      "definition": "A private‑sector led group where big AI firms share safety practices for the most advanced AI systems."
+      "term": "kill switch",
+      "definition": "A technical way to stop or revoke an AI system’s actions if it behaves dangerously."
     },
     {
-      "term": "Bletchley summit",
-      "definition": "A UK-hosted summit (2023) that brought countries and firms together to talk about AI risk and safety."
+      "term": "open-source models",
+      "definition": "AI models whose code or weights are publicly available for others to use or modify."
     },
     {
-      "term": "open-source",
-      "definition": "Software whose code is shared publicly so others can use or change it."
+      "term": "WAICO",
+      "definition": "World AI Cooperation Organization, a China-launched multilateral forum discussed in evidence."
     },
     {
-      "term": "G20",
-      "definition": "A group of 20 major economies that coordinate on big global economic and political matters."
-    },
-    {
-      "term": "Biological Weapons Convention (BWC)",
-      "definition": "A treaty banning biological weapons; it currently has a small secretariat and limited inspection powers."
+      "term": "regulatory interoperability",
+      "definition": "Making sure different countries’ rules can work together without conflicting."
     }
   ]
 });
