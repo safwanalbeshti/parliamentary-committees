@@ -1593,6 +1593,9 @@ h1 {
 .type-chip-group {
   position: relative;
   grid-column: 1 / -1;
+  /* Pull the ring outwards by exactly its border + padding, so the chips inside
+     sit on the same margin as the chips outside it. */
+  margin-inline: -10px;
   padding: 9px;
   border: 1px dashed rgba(24, 32, 38, 0.34);
   border-radius: var(--radius);
