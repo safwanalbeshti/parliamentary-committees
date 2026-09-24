@@ -1288,10 +1288,9 @@ h1 {
 }
 
 .oral-evidence-text {
+  /* Inherits the list's size, weight and leading so it reads as one of the
+     bullets rather than a heading. */
   display: block;
-  font-size: 0.9rem;
-  font-weight: 800;
-  line-height: 1.46;
 }
 
 .oral-evidence-cue {
