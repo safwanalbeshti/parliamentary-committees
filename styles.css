@@ -1306,6 +1306,9 @@ h1 {
 .type-chips {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(212px, 1fr));
+  /* Dense so the wide Grand Committees group doesn't strand empty cells on the
+     row above it. */
+  grid-auto-flow: row dense;
   gap: 8px;
   margin: 0;
   padding: 0;
@@ -1585,19 +1588,25 @@ h1 {
 
 /* ---------- home page: grouped chips and the blinking cue ---------- */
 
+/* A dotted ring drawn around the three chips, with the label sitting on the
+   border like a fieldset legend, so they still read as chips in the grid. */
 .type-chip-group {
-  /* .type-chips is a grid, so span every column rather than sizing to content. */
+  position: relative;
   grid-column: 1 / -1;
-  padding: 10px 12px 12px;
-  border: 1px dashed rgba(24, 32, 38, 0.28);
+  padding: 9px;
+  border: 1px dashed rgba(24, 32, 38, 0.34);
   border-radius: var(--radius);
-  background: rgba(24, 32, 38, 0.035);
+  background: transparent;
 }
 
 .chip-group-label {
-  display: block;
-  margin-bottom: 8px;
-  font-size: 0.72rem;
+  position: absolute;
+  top: -7px;
+  left: 11px;
+  padding: 0 6px;
+  /* Masks the dashed line behind the text. */
+  background: var(--panel);
+  font-size: 0.64rem;
   font-weight: 800;
   letter-spacing: 0.07em;
   text-transform: uppercase;
