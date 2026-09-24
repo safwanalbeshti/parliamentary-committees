@@ -104,15 +104,21 @@ Return exactly this structure:
   "speakers": [
     {
       "label": "Chair",
-      "name": "The chair's real name",
+      "name": "<the chair's actual name from the transcript>",
       "role": "Chair of the committee",
       "kind": "chair"
     },
     {
-      "label": "Witness Name",
-      "name": "Witness Name",
-      "role": "Their role and organisation",
+      "label": "<witness's actual name>",
+      "name": "<witness's actual name>",
+      "role": "<their role and organisation>",
       "kind": "witness"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "<a term used in your dialogue that a layman would not know>",
+      "definition": "<one plain sentence explaining it, max 200 characters>"
     }
   ],
   "chapters": [
@@ -128,6 +134,16 @@ Return exactly this structure:
     }
   ]
 }
+
+Every value written above in <angle brackets> is a description of what to write,
+not text to copy: replace it with the real thing from the transcript. Never emit a
+name containing the words "actual name" or "real name".
+
+The `glossary` lists terms that still appear in YOUR dialogue and that a general
+reader would not know — acronyms, institutions, and technical or parliamentary
+vocabulary (for example "UNIDO", "statutory instrument", "Ofgem"). Give 0–25
+entries, each defined in one plain sentence. Write the term exactly as it appears
+in your dialogue. Do not include everyday words.
 
 Allowed speaker kinds are `chair`, `member`, and `witness`. If you use the label
 `Committee Member` for speakers the transcript leaves unnamed, set both its label
