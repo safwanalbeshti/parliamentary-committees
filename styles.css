@@ -1635,3 +1635,66 @@ h1 {
 .menu-button:hover {
   background: rgba(212, 154, 56, 0.15);
 }
+
+/* ---------- home page: grouped chips and the blinking cue ---------- */
+
+.type-chip-group {
+  /* .type-chips is a grid, so span every column rather than sizing to content. */
+  grid-column: 1 / -1;
+  padding: 10px 12px 12px;
+  border: 1px dashed rgba(24, 32, 38, 0.28);
+  border-radius: var(--radius);
+  background: rgba(24, 32, 38, 0.035);
+}
+
+.chip-group-label {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.type-chips-nested {
+  margin: 0;
+  padding: 0;
+}
+
+@keyframes cue-blink {
+  0%,
+  45% {
+    opacity: 1;
+  }
+  55%,
+  100% {
+    opacity: 0.15;
+  }
+}
+
+.oral-evidence-cue {
+  animation: cue-blink 1.05s steps(1, end) infinite;
+}
+
+/* A blinking label is a motion trigger for some readers. */
+@media (prefers-reduced-motion: reduce) {
+  .oral-evidence-cue {
+    animation: none;
+  }
+}
+
+/* ---------- who's who groups ---------- */
+
+.cast-group {
+  margin: 14px 0 6px;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.cast-group:first-child {
+  margin-top: 0;
+}

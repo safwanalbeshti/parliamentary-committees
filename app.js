@@ -162,11 +162,6 @@ const el = {
   chapterTakeaway: document.querySelector("#chapterTakeaway"),
   previousBtn: document.querySelector("#previousBtn"),
   nextBtn: document.querySelector("#nextBtn"),
-  playBtn: document.querySelector("#playBtn"),
-  playLabel: document.querySelector("#playLabel"),
-  iconPlay: document.querySelector("#playBtn .icon-play"),
-  iconPause: document.querySelector("#playBtn .icon-pause"),
-  speedSelect: document.querySelector("#speedSelect"),
   progressTrack: document.querySelector("#progressTrack"),
   progressFill: document.querySelector("#progressFill"),
   chapterTicks: document.querySelector("#chapterTicks"),
@@ -186,8 +181,6 @@ let dialogue = [];
 let chapters = [];
 let cast = new Map();
 let currentIndex = 0;
-let isPlaying = false;
-let playTimer = null;
 let menuMode = "inquiry";
 let openCommittee = null;
 
@@ -582,7 +575,6 @@ function setMenuMode(mode) {
 }
 
 function showHome() {
-  stopAutoplay();
   el.homePage.hidden = false;
   el.meetingMenu.hidden = true;
   el.appMain.hidden = true;
@@ -591,7 +583,6 @@ function showHome() {
 }
 
 function showMenu() {
-  stopAutoplay();
   el.homePage.hidden = true;
   el.meetingMenu.hidden = false;
   el.appMain.hidden = true;
@@ -622,7 +613,6 @@ function findSession(id) {
 /* ---------- session loading ---------- */
 
 function selectSession(id) {
-  stopAutoplay();
   session = findSession(id) || sessions[0];
 
   const parsed = parseTranscript(session.transcript);
@@ -650,7 +640,8 @@ function selectSession(id) {
   const sourceUrl = session.sourceUrl || "https://committees.parliament.uk/";
   el.sourceLink.href = sourceUrl;
   el.aboutSourceLink.href = sourceUrl;
-  if (session.sourceLabel) el.sourceLink.textContent = `${session.sourceLabel} ↗`;
+  // The link reads "here" in the sentence; the source's status goes in its tooltip.
+  if (session.sourceLabel) el.sourceLink.title = session.sourceLabel;
 
   populateSessionPicker();
   if (el.sessionPicker.value !== session.id) el.sessionPicker.value = session.id;
@@ -765,7 +756,6 @@ function setCurrent(nextIndex, options = {}) {
   popBubble(options.immediate);
   persistProgress();
 
-  if (isPlaying) scheduleAdvance();
 }
 
 function seatForTurn(design, turnIndex) {
@@ -997,7 +987,28 @@ function updateChapterSelection() {
 function renderCastList() {
   const fragment = document.createDocumentFragment();
 
-  for (const [speaker, design] of cast) {
+  // The chair sits with the committee; everyone else splits by kind.
+  const groups = [
+    ["Committee Members", [...cast].filter(([, d]) => d.kind !== "witness")],
+    ["Witnesses", [...cast].filter(([, d]) => d.kind === "witness")],
+  ];
+
+  for (const [heading, members] of groups) {
+    if (!members.length) continue;
+
+    const title = document.createElement("h3");
+    title.className = "cast-group";
+    title.textContent = heading;
+    fragment.append(title);
+
+    renderCastGroup(members, fragment);
+  }
+
+  el.castList.replaceChildren(fragment);
+}
+
+function renderCastGroup(members, fragment) {
+  for (const [speaker, design] of members) {
     const item = document.createElement("button");
     item.type = "button";
     item.className = "cast-item";
@@ -1038,8 +1049,6 @@ function renderCastList() {
     item.addEventListener("click", () => jumpToSpeaker(speaker));
     fragment.append(item);
   }
-
-  el.castList.replaceChildren(fragment);
 }
 
 function updateCastSelection(activeSpeaker) {
@@ -1077,56 +1086,6 @@ function renderChapterTicks() {
   });
 
   el.chapterTicks.replaceChildren(fragment);
-}
-
-/* ---------- autoplay ---------- */
-
-function togglePlay() {
-  if (isPlaying) {
-    stopAutoplay();
-    return;
-  }
-
-  isPlaying = true;
-  el.playLabel.textContent = "Pause";
-  el.playBtn.setAttribute("aria-label", "Pause");
-  el.iconPlay.hidden = true;
-  el.iconPause.hidden = false;
-
-  if (currentIndex >= dialogue.length - 1) {
-    setCurrent(0);
-  } else {
-    scheduleAdvance();
-  }
-}
-
-function stopAutoplay() {
-  isPlaying = false;
-  clearTimeout(playTimer);
-  playTimer = null;
-  if (el.playLabel) {
-    el.playLabel.textContent = "Play";
-    el.playBtn.setAttribute("aria-label", "Play");
-    el.iconPlay.hidden = false;
-    el.iconPause.hidden = true;
-  }
-}
-
-function scheduleAdvance() {
-  clearTimeout(playTimer);
-
-  const entry = dialogue[currentIndex];
-  const words = entry.line.split(/\s+/).length;
-  const speed = parseFloat(el.speedSelect.value) || 1;
-  const readingTime = clamp(1300 + words * 290, 3200, 15000) / speed;
-
-  playTimer = setTimeout(() => {
-    if (currentIndex >= dialogue.length - 1) {
-      stopAutoplay();
-    } else {
-      setCurrent(currentIndex + 1);
-    }
-  }, readingTime);
 }
 
 /* ---------- persistence and deep links ---------- */
@@ -1209,11 +1168,7 @@ function bindControls() {
 
   el.previousBtn.addEventListener("click", () => setCurrent(currentIndex - 1));
   el.nextBtn.addEventListener("click", () => setCurrent(currentIndex + 1));
-  el.playBtn.addEventListener("click", togglePlay);
 
-  el.speedSelect.addEventListener("change", () => {
-    if (isPlaying) scheduleAdvance();
-  });
 
   el.progressTrack.addEventListener("click", (event) => {
     const rect = el.progressTrack.getBoundingClientRect();
@@ -1229,9 +1184,6 @@ function bindControls() {
   window.addEventListener("resize", () => requestAnimationFrame(repositionOverlay));
   compactLayout.addEventListener("change", () => requestAnimationFrame(repositionOverlay));
 
-  document.addEventListener("visibilitychange", () => {
-    if (document.hidden && isPlaying) stopAutoplay();
-  });
 }
 
 function activateTab(name) {
@@ -1269,11 +1221,6 @@ function onKeydown(event) {
     case "End":
       event.preventDefault();
       setCurrent(dialogue.length - 1);
-      break;
-    case " ":
-      if (target instanceof Element && target.closest("button, a")) return;
-      event.preventDefault();
-      togglePlay();
       break;
     default:
       break;

@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Parliamentary Committees, in Plain English</title>
-    <link rel="stylesheet" href="styles.css?v=7" />
+    <link rel="stylesheet" href="styles.css?v=8" />
     <link rel="preload" as="image" href="Energy Resilience/committee_room_4.png" />
   </head>
   <body>
@@ -40,7 +40,7 @@
                 Holding public oral-evidence sessions (where they question ministers,
                 officials, experts, etc.)
               </span>
-              <span class="oral-evidence-cue">Browse these sessions →</span>
+              <span class="oral-evidence-cue">Click me</span>
             </a>
           </li>
           <li>
@@ -113,29 +113,34 @@
               >Committees to consider Bills on Report</span
             >
           </li>
-          <li class="type-chip">
-            <span
-              class="gloss-term"
-              tabindex="0"
-              data-def="All the MPs representing Scottish seats, meeting to debate matters specific to Scotland."
-              >Scottish Grand Committee</span
-            >
-          </li>
-          <li class="type-chip">
-            <span
-              class="gloss-term"
-              tabindex="0"
-              data-def="All the MPs representing Welsh seats, meeting to debate matters specific to Wales."
-              >Welsh Grand Committee</span
-            >
-          </li>
-          <li class="type-chip">
-            <span
-              class="gloss-term"
-              tabindex="0"
-              data-def="All the MPs representing Northern Irish seats, meeting to debate matters specific to Northern Ireland."
-              >Northern Ireland Grand Committee</span
-            >
+          <li class="type-chip-group">
+            <span class="chip-group-label">Commons Grand Committees</span>
+            <ul class="type-chips type-chips-nested">
+              <li class="type-chip">
+                <span
+                  class="gloss-term"
+                  tabindex="0"
+                  data-def="All the MPs representing Scottish seats, meeting to debate matters specific to Scotland."
+                  >Scottish Grand Committee</span
+                >
+              </li>
+              <li class="type-chip">
+                <span
+                  class="gloss-term"
+                  tabindex="0"
+                  data-def="All the MPs representing Welsh seats, meeting to debate matters specific to Wales."
+                  >Welsh Grand Committee</span
+                >
+              </li>
+              <li class="type-chip">
+                <span
+                  class="gloss-term"
+                  tabindex="0"
+                  data-def="All the MPs representing Northern Irish seats, meeting to debate matters specific to Northern Ireland."
+                  >Northern Ireland Grand Committee</span
+                >
+              </li>
+            </ul>
           </li>
           <li class="type-chip">
             <span
@@ -154,11 +159,6 @@
             >
           </li>
         </ul>
-
-        <p class="type-note">
-          The Scottish, Northern Irish, and Welsh Grand Committees are collectively
-          called the &ldquo;Commons Grand Committees&rdquo;.
-        </p>
       </article>
 
       <article class="committee-type committee-type-lords">
@@ -179,10 +179,6 @@
         </p>
       </article>
 
-      <p class="menu-footnote">
-        Condensed and paraphrased from official transcripts — not a verbatim record.
-        Contains Parliamentary information licensed under the Open Parliament Licence v3.0.
-      </p>
     </section>
 
     <section class="meeting-menu" id="meetingMenu" hidden aria-label="Choose a meeting">
@@ -225,11 +221,9 @@
             </p>
             <h1 id="sessionTitle">Loading session…</h1>
             <p class="provenance">
-              A plain-English retelling of a public evidence session — condensed and
-              paraphrased, not a verbatim record.
-              <a id="sourceLink" href="https://committees.parliament.uk/" target="_blank" rel="noopener">
-                Official transcript ↗
-              </a>
+              A plain-English retelling of a public evidence session whose official
+              transcript is
+              <a id="sourceLink" href="https://committees.parliament.uk/" target="_blank" rel="noopener">here</a>.
             </p>
           </div>
           <div class="header-side">
@@ -285,30 +279,10 @@
             <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 18l-6-6 6-6" /></svg>
             Prev
           </button>
-          <button class="control-button primary" id="playBtn" type="button" aria-label="Play">
-            <svg class="icon-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10.5-6.5z" /></svg>
-            <svg class="icon-pause" viewBox="0 0 24 24" aria-hidden="true" hidden>
-              <path d="M8 5.5v13M16 5.5v13" />
-            </svg>
-            <span id="playLabel">Play</span>
-          </button>
           <button class="control-button secondary" id="nextBtn" type="button" aria-label="Next speech">
             Next
             <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6l6 6-6 6" /></svg>
           </button>
-        </div>
-
-        <div class="dock-row">
-          <label class="speed-label">
-            Speed
-            <select id="speedSelect" aria-label="Auto-play speed">
-              <option value="0.75">Relaxed</option>
-              <option value="1" selected>Normal</option>
-              <option value="1.4">Brisk</option>
-              <option value="2">Fast</option>
-            </select>
-          </label>
-          <span class="keys-hint" aria-hidden="true">Space play · ← → step</span>
         </div>
 
         <div class="progress-track" id="progressTrack" aria-label="Session progress">
@@ -317,7 +291,7 @@
         </div>
 
         <nav class="tabs" role="tablist" aria-label="Reading aids">
-          <button class="tab-button" role="tab" id="tabBtn-dialogue" data-tab="dialogue" aria-selected="true" aria-controls="tab-dialogue">
+          <button class="tab-button" role="tab" id="tabBtn-dialogue" data-tab="dialogue" aria-selected="false" aria-controls="tab-dialogue">
             Dialogue
           </button>
           <button class="tab-button" role="tab" id="tabBtn-chapters" data-tab="chapters" aria-selected="false" aria-controls="tab-chapters">
@@ -326,12 +300,12 @@
           <button class="tab-button" role="tab" id="tabBtn-cast" data-tab="cast" aria-selected="false" aria-controls="tab-cast">
             Who’s who
           </button>
-          <button class="tab-button" role="tab" id="tabBtn-about" data-tab="about" aria-selected="false" aria-controls="tab-about">
+          <button class="tab-button" role="tab" id="tabBtn-about" data-tab="about" aria-selected="true" aria-controls="tab-about">
             About
           </button>
         </nav>
 
-        <section class="tab-panel" id="tab-dialogue" role="tabpanel" aria-labelledby="tabBtn-dialogue">
+        <section class="tab-panel" id="tab-dialogue" role="tabpanel" aria-labelledby="tabBtn-dialogue" hidden>
           <div id="dialogueRail" class="dialogue-rail"></div>
         </section>
 
@@ -344,7 +318,7 @@
           <div id="castList" class="cast-list"></div>
         </section>
 
-        <section class="tab-panel" id="tab-about" role="tabpanel" aria-labelledby="tabBtn-about" hidden>
+        <section class="tab-panel" id="tab-about" role="tabpanel" aria-labelledby="tabBtn-about">
           <div class="about-copy">
             <h3>This session in a nutshell</h3>
             <p id="aboutSummary"></p>
@@ -406,6 +380,6 @@
     <script src="sessions/generated/oral-evidence-18097.js?v=d850a664"></script>
     <script src="sessions/generated/oral-evidence-18098.js?v=84cde2b0"></script>
     <!-- GENERATED_SESSIONS_END -->
-    <script defer src="app.js?v=7"></script>
+    <script defer src="app.js?v=8"></script>
   </body>
 </html>
