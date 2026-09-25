@@ -1,0 +1,276 @@
+{
+  "schema_version": 1,
+  "source_id": 18100,
+  "source_sha256": "6e9e5b1654d63c077e710e377056250656ea3a1ba21f26e6f763fee2a915bba7",
+  "title": "After DSIT: who now leads UK science, research and AI?",
+  "label": "Machinery of government changes · DSIT abolition",
+  "summary": "The Committee examined the Government’s July decision to abolish the Department for Science, Innovation and Technology (DSIT) and reassign its responsibilities across other Departments. Witnesses—Dr Alicia Greated of the Campaign for Science and Engineering and Sir Paul Nurse of the Royal Society—said abolishing DSIT was a mistake because it risks fragmenting leadership on science and AI, disrupting civil service teams, and exposing research infrastructure and long-term discovery science to short-term pressures; they urged clearer, Cabinet-level leadership, stable multi-year funding, better oversight of national research capability (including UKRI decisions), careful procurement to support UK companies, and evaluation of major machinery-of-government changes.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Dame Chi Onwurah",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "George Freeman",
+      "name": "George Freeman",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Kit Malthouse",
+      "name": "Kit Malthouse",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Martin Wrigley",
+      "name": "Martin Wrigley",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Freddie van Mierlo",
+      "name": "Freddie van Mierlo",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Emily Darlington",
+      "name": "Emily Darlington",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Tom Collins",
+      "name": "Tom Collins",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Maya Ellis",
+      "name": "Maya Ellis",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Samantha Niblett",
+      "name": "Samantha Niblett",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Daniel Zeichner",
+      "name": "Daniel Zeichner",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Dr Alicia Greated",
+      "name": "Dr Alicia Greated",
+      "role": "Executive Director, Campaign for Science and Engineering",
+      "kind": "witness"
+    },
+    {
+      "label": "Sir Paul Nurse",
+      "name": "Sir Paul Nurse",
+      "role": "President, Royal Society",
+      "kind": "witness"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "DSIT",
+      "definition": "Department for Science, Innovation and Technology, created in 2023 and abolished in 2026."
+    },
+    {
+      "term": "BIST",
+      "definition": "Department for Business, Innovation, Science and Trade; one of the Departments taking on DSIT functions."
+    },
+    {
+      "term": "DCMS",
+      "definition": "Department for Digital, Culture, Media and Sport, now hosting some digital and regulatory functions."
+    },
+    {
+      "term": "Cabinet Office",
+      "definition": "The central UK Government department that supports the Prime Minister and coordinates across Departments."
+    },
+    {
+      "term": "AI taskforce",
+      "definition": "A new Cabinet Office group—chaired by Patrick Vallance—charged with co-ordinating parts of the Government’s AI work."
+    },
+    {
+      "term": "UKRI",
+      "definition": "United Kingdom Research and Innovation, the government body that allocates public R&D funding to research councils and facilities."
+    },
+    {
+      "term": "STFC",
+      "definition": "Science and Technology Facilities Council, a UKRI research council that funds national science facilities like Diamond and ISIS."
+    },
+    {
+      "term": "GDS",
+      "definition": "Government Digital Service, the unit responsible for building many UK public-sector digital services."
+    },
+    {
+      "term": "digital ID",
+      "definition": "A consistent way to identify people online for public services, which the Government has set aside."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Was abolishing DSIT the right move?",
+      "takeaway": "Both witnesses say abolishing DSIT was a mistake because it fragments leadership on science and risks deprioritising long-term research.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We’re looking at the Government’s decision to abolish DSIT and spread its work across other Departments. Was DSIT working and was its removal justified?"
+        },
+        {
+          "speaker": "Sir Paul Nurse",
+          "text": "I think it was a mistake. Science sits across everything—health, defence, energy—and having a single Department focused on it helped raise its profile across Government."
+        },
+        {
+          "speaker": "Dr Alicia Greated",
+          "text": "We saw some benefits from DSIT: it linked research to innovation and trade. Our members welcome closer ties to business, but they fear instability and short-term thinking will undermine basic research and long-range planning."
+        },
+        {
+          "speaker": "George Freeman",
+          "text": "You’ve both warned about loss of focus—what practical harm do you see if science becomes a smaller item inside a much larger Department?"
+        },
+        {
+          "speaker": "Sir Paul Nurse",
+          "text": "When science is a small line among many priorities, civil servants and Ministers naturally focus on urgent business issues. Long-term discovery research is easy to lose sight of."
+        }
+      ]
+    },
+    {
+      "title": "Disruption, costs and civil service morale",
+      "takeaway": "Reorganisations cause hidden costs and staff loss; witnesses urge stability so relationships and expertise survive.",
+      "turns": [
+        {
+          "speaker": "Daniel Zeichner",
+          "text": "How are civil servants reacting—relief or exasperation?"
+        },
+        {
+          "speaker": "Dr Alicia Greated",
+          "text": "Many are frustrated. Repeated reshuffles wear teams down, drive people out and destroy institutional memory; continuity of personnel matters a lot."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Are these changes expensive?"
+        },
+        {
+          "speaker": "Dr Alicia Greated",
+          "text": "They carry direct costs—previous estimates put typical reorganisation in the tens of millions—and bigger opportunity costs: time, disrupted projects and lost expertise."
+        },
+        {
+          "speaker": "Kit Malthouse",
+          "text": "Isn’t the timing catastrophic—science is entering a pivotal moment with AI and life sciences?"
+        },
+        {
+          "speaker": "Sir Paul Nurse",
+          "text": "It’s risky, but we shouldn’t despair. Good people can make imperfect structures work, but they need clear backing, resources and time."
+        }
+      ]
+    },
+    {
+      "title": "AI: who regulates and who builds policy?",
+      "takeaway": "AI responsibilities are scattered across Cabinet Office, BIST and DCMS—witnesses call for clear leadership, technical capability and a forcing mechanism to join up policy.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "AI work sits in different places: growth in BIST, the taskforce and institutes in Cabinet Office, regulation scattered elsewhere. Where should responsibility sit?"
+        },
+        {
+          "speaker": "Dr Alicia Greated",
+          "text": "The centre getting involved is sensible, but the responsibilities are fragmented. The important thing is to pick a coherent home or a clear mechanism to join the dots."
+        },
+        {
+          "speaker": "Sir Paul Nurse",
+          "text": "AI is part of science; keeping it close to research helps. If AI policy is split, we need a Cabinet-level backstop so Departments don’t talk past each other."
+        },
+        {
+          "speaker": "Tom Collins",
+          "text": "What would an effective forcing mechanism look like?"
+        },
+        {
+          "speaker": "Dr Alicia Greated",
+          "text": "Either a strong taskforce with technical and analytical staff, or a Cabinet committee that can arbitrate quickly and push Departments to act together."
+        },
+        {
+          "speaker": "Sir Paul Nurse",
+          "text": "It should be outcome-focused: who decides, and how will we measure fast-moving risks and adoption? That clarity matters more than labels."
+        }
+      ]
+    },
+    {
+      "title": "Funding, UKRI and national facilities",
+      "takeaway": "Witnesses warned that funding pressure and shifting oversight risk damaging national facilities and discovery research; they want transparency and long-term budgets.",
+      "turns": [
+        {
+          "speaker": "Freddie van Mierlo",
+          "text": "STFC cuts put facilities like Diamond and ISIS at risk. Should Ministers be checking how UKRI spends its money?"
+        },
+        {
+          "speaker": "Dr Alicia Greated",
+          "text": "Facilities are national assets with fixed costs; repeated cuts often translate into job losses and loss of capability. Decisions must be transparent and carefully analysed."
+        },
+        {
+          "speaker": "Sir Paul Nurse",
+          "text": "Inflation has eroded research budgets. We lack sufficient public R&D funding versus peer countries—losses are not just about priorities but about overall scale."
+        },
+        {
+          "speaker": "Martin Wrigley",
+          "text": "Where do you phone when a major facility needs more running money?"
+        },
+        {
+          "speaker": "Sir Paul Nurse",
+          "text": "There’s no single number to call. We need politicians and Treasury friends who understand science to keep long-term running costs funded—buildings need batteries, not just bricks."
+        }
+      ]
+    },
+    {
+      "title": "What to do next: leadership, procurement and regional strategy",
+      "takeaway": "Both witnesses urged clearer Cabinet-level science leadership, stable funding, better procurement for UK firms, oversight of national R&D capability, and careful evaluation of reorganisations.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Conclude with practical actions: three things the Secretary of State must do immediately for science."
+        },
+        {
+          "speaker": "Dr Alicia Greated",
+          "text": "1) Provide stability and a long-term R&D strategy; 2) oversee UK R&D capability and the funding pressures on universities and facilities; 3) publish a clear international R&D and trade strategy."
+        },
+        {
+          "speaker": "Sir Paul Nurse",
+          "text": "First, get science visible at Cabinet—either via a Cabinet Committee or a clearer central mechanism; second, protect discovery research while improving how we translate it; third, secure predictable multi-year funding for core facilities."
+        },
+        {
+          "speaker": "George Freeman",
+          "text": "On the innovation nation aim: how do we keep firms and investment here instead of losing them overseas?"
+        },
+        {
+          "speaker": "Dr Alicia Greated",
+          "text": "Be clear about UK strengths, align trade and inward investment plans to R&D clusters, and make procurement and early-stage public investment work better for startups."
+        },
+        {
+          "speaker": "Sir Paul Nurse",
+          "text": "Unlock long-term private investment—pension funds are a potential source—and be ruthless about cutting failing translation projects while funding the ecosystem that creates future firms."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Any final short recommendations for Parliament and this Committee?"
+        },
+        {
+          "speaker": "Dr Alicia Greated",
+          "text": "Scrutinise the new arrangements, press for transparent UKRI decisions and facility impact assessments, and push for policies that protect capability nationwide."
+        },
+        {
+          "speaker": "Sir Paul Nurse",
+          "text": "Insist on political prioritisation: ask Ministers for clear accountability for science and make sure the Treasury and Prime Minister understand the return on investing in research."
+        }
+      ]
+    }
+  ]
+}

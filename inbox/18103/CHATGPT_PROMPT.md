@@ -125,37 +125,32 @@ The JSON is checked automatically.
 
 ## Official metadata
 
-* Parliament oral-evidence ID: 18096
-* Required source hash: `c40d304b76c10a5e58877d0dc1ea3819954acc9ec1e5eb31c3093a28666a8c66`
-* Committee: Home Affairs Committee
-* Subject: The work of the Home Office
-* Meeting date: 15 September 2026
-* Transcript status: published
-* Source: https://committees.parliament.uk/oralevidence/18096/html/
+* Parliament oral-evidence ID: 18103
+* Required source hash: `b9ae0ecb486300a67e48dbf95451f7e8da777459916ffbd7076f686994ca983c`
+* Committee: Northern Ireland Scrutiny Committee
+* Subject: Article 2 of the Protocol/Windsor Framework
+* Meeting date: 17 September 2026
+* Transcript status: uncorrected
+* Source: https://committees.parliament.uk/oralevidence/18103/html/
 
 ## Witness metadata
 
-* Rt Hon Shabana Mahmood MP: Home Secretary, Home Office
+* Name not supplied: Leader of the Opposition in the Northern Ireland Assembly, Social Democratic and Labour Party (SDLP)
 
 ## Speaker labels detected in the transcript
 
 These are automatically detected and may contain errors. Use only labels that are
 clearly real speakers in the source transcript.
 
-* Witness
-* Chair
-* Shabana Mahmood
-* Lewis Atkinson
-* Dr Prinsley
-* Mr Kohler
-* Ben Maguire
-* The two things go hand in hand
-* Margaret Mullane
-* Robbie Moore
-* Joani Reid
-* Bell Ribeiro-Addy
-
-`The two things go hand in hand` is not a speaker and must be ignored.
+* The Chair
+* Matthew O'Toole
+* Lord Dodds of Duncairn
+* Baroness Foster of Aghadrumsee
+* Baroness Ludford
+* Matthew O’Toole
+* Baroness Ritchie of Downpatrick
+* Baroness Sanderson of Welton
+* Lord Elliott of Ballinamallard
 
 ## Output structure
 
@@ -163,10 +158,10 @@ Return exactly this structure:
 
 {
   "schema_version": 1,
-  "source_id": 18096,
-  "source_sha256": "c40d304b76c10a5e58877d0dc1ea3819954acc9ec1e5eb31c3093a28666a8c66",
+  "source_id": 18103,
+  "source_sha256": "b9ae0ecb486300a67e48dbf95451f7e8da777459916ffbd7076f686994ca983c",
   "title": "A concise, engaging title",
-  "label": "15 September 2026 · A short picker label",
+  "label": "17 September 2026 · A short picker label",
   "summary": "One paragraph explaining what the hearing covered and its main conclusion.",
   "speakers": [
     {

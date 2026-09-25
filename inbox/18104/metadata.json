@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18104,
+  "activity_id": 38770,
+  "document_id": 305804,
+  "meeting_date": "2026-09-17",
+  "meeting_date_display": "17 September 2026",
+  "publication_date": "2026-09-24T13:17:10",
+  "title": "Article 2 of the Protocol/Windsor Framework",
+  "committee": "Northern Ireland Scrutiny Committee",
+  "committees": [
+    {
+      "id": 769,
+      "name": "Northern Ireland Scrutiny Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9589,
+      "title": "Article 2 of the Protocol/Windsor Framework",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Leader",
+      "organisation": "Traditional Unionist Voice (TUV)"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Jim Allister",
+    "Lord Dodds of Duncairn",
+    "Baroness Foster of Aghadrumsee",
+    "Baroness Ludford",
+    "Baroness Ritchie of Downpatrick",
+    "Baroness Sanderson of Welton",
+    "Lord Elliott of Ballinamallard"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18104/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18104",
+  "source_sha256": "614baa50a49ae7bc2d4a78781c9bb7e4a7450fb5f21059392d1afd2ae5a5adb8",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

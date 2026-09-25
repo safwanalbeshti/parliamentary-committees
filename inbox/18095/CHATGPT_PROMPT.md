@@ -1,93 +1,166 @@
 # Condense this parliamentary evidence session
 
-You've been given the transcript of a parliamentary committee meeting. Come up with
-a condensed version that a layman can understand. Ideally, it consists of a much
-shorter (though not very short) dialogue in which things are explained in layman
-terms. The characters speak to each other in a casual way rather than an overly
-formal way. Think hard about what the conversation is about before producing this
-condensed natural dialogue, so as to make sure that you are not misunderstanding
-what it was about. Make sure contractions are used (e.g. "isn't" instead of
-"is not"), and don't omit the speaker's name.
+You've been given the transcript of a parliamentary committee meeting. Produce a
+condensed version that a general reader can understand easily.
 
-Assume the reader has no background in politics, law, economics or this meeting's
-subject. Do not let any specialist term through unexplained: wherever the
-transcript uses jargon, an acronym, an institution's name, or a term with a
-special meaning (e.g. "statutory instrument", "interconnector", "Section 35
-order", "the usual channels"), either swap it for everyday words or have the
-speaker explain it naturally in passing the first time it appears — for example
-"Ofgem, the energy regulator, …" or "a statutory instrument — a law ministers
-can pass without a full vote in Parliament — …". Prefer concrete, everyday
-phrasing over abstract wording throughout. A typical citizen should be able to
-follow every line without looking anything up.
+The goal is not to condense as aggressively as possible. Preserve enough detail for
+the reader to understand the substance of the discussion, the reasoning behind
+important claims, and meaningful disagreements.
 
-Here is an example of what the dialogue should read like:
+Present the result mainly as a shorter, natural dialogue between the people who took
+part. Use natural spoken English rather than formal parliamentary language. The
+dialogue should feel conversational and readable, but don't make serious speakers
+sound artificially chatty or informal.
 
-> Deborah: That even something not officially labelled "critical national
-> infrastructure" can still cause huge disruption. That one fire affected Heathrow,
-> transport, hospitals, GP surgeries, data centres, and more.
->
-> Chair: So energy is connected to everything else.
->
-> Deborah: Exactly. Energy underpins transport, health, telecoms, defence, and
-> daily life. We need better maps of how all these systems depend on each other.
->
-> Committee Member: What about extreme weather?
+Think carefully about what the discussion means before rewriting it. Use contractions
+naturally, such as "isn't" instead of "is not".
 
-Accuracy requirements:
+## Writing for a lay reader
 
-- Preserve who said what. Never transfer a claim from one witness to another.
-- Do not invent facts, motives, consensus, quotations or speaker identities.
-- Keep meaningful challenges and disagreements instead of smoothing them away.
-- Keep every named speaker's real name exactly as the transcript gives it. Never
-  replace a named committee member with a generic label such as `Committee
-  Member`. Use `Committee Member` only for a speaker the transcript itself
-  leaves unnamed, and never merge different witnesses.
-- Use `Chair` for the chair when that makes the dialogue easier to follow.
-- The people listed under "Witness metadata" below are the only witnesses: give
-  exactly them kind `witness`. Every other speaker is the chair (kind `chair`)
-  or a committee member (kind `member`). A committee member is never a witness.
+Assume the reader has no background in politics, law, economics, science, technology,
+or the meeting's subject.
 
-Structural requirements (the JSON is checked automatically):
+For every line, ask: could an ordinary reader with no specialist knowledge explain
+back what this sentence actually means? If not, rewrite it more concretely.
 
-- Give the session 2–8 short chapters, each with a one-sentence takeaway.
-- Aim for roughly 20–80 dialogue turns, depending on the source length. Never
-  exceed 100 turns; condense harder instead.
-- Keep every turn under 700 characters. Split a long answer into several
-  consecutive turns by the same speaker rather than writing one long turn.
-- Use only speaker labels declared in the `speakers` array.
-- Return raw JSON only: no Markdown fence, introduction or commentary.
+Follow these rules:
 
-Official metadata:
+* Replace unnecessary jargon with the everyday idea it represents. Do not merely
+  replace one piece of jargon with slightly simpler jargon.
+  Example:
+  `regulatory interoperability`
+  -> `making sure different countries' rules can work together without conflicting`
+* Keep specialist terms when knowing the term itself is useful. If you retain an
+  unfamiliar technical, legal, political, economic, or parliamentary term, add it to
+  the glossary.
+* Briefly identify unfamiliar institutions where that helps immediate understanding.
+  Example:
+  `Ofgem, the energy regulator, ...`
+* Remove specialist metaphors and state their literal meaning instead.
+  Example:
+  `there's little connective tissue between these initiatives`
+  -> `there's very little coordination between these different initiatives`
+  Do the same with phrases such as `the AI stack`, `joined-up government`, or
+  `move the dial` when their meaning would not be obvious to a general reader.
+* Avoid jargon-heavy strings of abstract nouns. Rewrite them around people,
+  organisations, actions, or concrete outcomes.
+  Example:
+  `an independent evaluator ecosystem for model testing`
+  -> `independent organisations that test AI models`
+* When someone proposes a technical, legal, economic, or institutional measure,
+  explain what people would actually do.
+  Example:
+  `tabletop crisis exercises`
+  -> make clear that officials would practise responding together to a simulated
+  crisis.
+* Prefer concrete wording about who does what, what changes, and why it matters.
+  Avoid vague phrases such as `drive implementation`, `strengthen frameworks`, or
+  `enable coordination` unless the dialogue makes clear what those actions mean in
+  practice.
+* Do not over-explain ordinary concepts. The result should remain natural rather than
+  becoming a textbook.
 
-- Parliament oral-evidence ID: 18095
-- Required source hash: `bf69cb60ff2943672d8b0818c641ae58c72701418fd1767df1dc10c0b6775464`
-- Committee: International Relations and Defence Committee
-- Subject: Multilateralism
-- Meeting date: 16 September 2026
-- Transcript status: uncorrected
-- Source: https://committees.parliament.uk/oralevidence/18095/html/
+## Condensation and accuracy
 
-Witness metadata:
+The condensed version should feel like a readable conversation rather than meeting
+minutes.
 
-- Isabella Wilkinson: Senior Research Fellow, Digital Society Programme, Chatham House
-- Sam Daws: Senior Advisor to the Martin AI Governance Initiative, University of Oxford
+Committee questions may be shortened substantially if their main purpose is simply to
+introduce the next issue. Witness answers may be reorganised slightly for clarity,
+but:
 
-Speaker labels detected in the transcript:
+* Preserve who said what. Never transfer or combine claims between speakers.
+* Preserve the speaker's actual position and level of certainty.
+* Never turn speculation or qualified claims into stronger factual claims.
+* Do not invent facts, motives, consensus, quotations, recommendations, or identities.
+* Preserve disagreements, challenges, uncertainty, and qualifications whenever they
+  materially affect the meaning.
+* Do not simplify away important distinctions between genuinely different ideas.
+* Keep the main reasoning, evidence, examples, and concrete proposals needed to
+  understand the discussion.
 
-- The Chair
-- Sam Daws
-- Isabella Wilkinson
-- Lord Ahmad of Wimbledon
-- Baroness Crawley
-- Lord Grocott
-- Baroness Prashar
-- Lord Bruce of Bennachie
-- Lord Lamont of Lerwick
-- Lord Alderdice
-- Baroness Fraser of Craigmaddie
-- Baroness Blackstone
-- My one guidance for the committee in considering it is
-- Lord De Mauley
+You may remove:
+
+* greetings and thanks;
+* procedural remarks with no substantive content;
+* verbal filler;
+* repeated versions of the same point;
+* long question preambles that do not affect the answer;
+* tangents that add little to understanding;
+* repeated examples when one strong example is enough.
+
+Do not remove useful explanation merely to make the transcript shorter.
+
+## Speaker rules
+
+* Keep every named speaker's real name exactly as the transcript gives it.
+* Never replace a named committee member with `Committee Member`.
+* Use `Committee Member` only if the transcript genuinely leaves a speaker unnamed.
+* Never merge different speakers.
+* Use `Chair` for the chair when that makes the dialogue easier to follow.
+* The people listed under `Witness metadata` below are the only witnesses and must
+  have kind `witness`.
+* Every other valid speaker is either the chair (`chair`) or a committee member
+  (`member`).
+* A committee member is never a witness.
+* Use only genuine speakers from the transcript. Ignore automatically detected labels
+  that are clearly fragments of spoken prose.
+
+## Structural requirements
+
+The JSON is checked automatically.
+
+* Give the session 2-8 short chapters.
+* Give each chapter a one-sentence takeaway.
+* Aim for roughly 20-80 dialogue turns depending on the source length.
+* Keep every turn under 700 characters.
+* Split a long answer into several consecutive turns by the same speaker rather than
+  writing one very long turn.
+* Use only speaker labels declared in the `speakers` array.
+* Include every speaker who appears in the condensed dialogue in the `speakers` array.
+* Do not include speakers who never appear in the condensed dialogue unless required
+  by the schema.
+* Return only valid raw JSON matching the schema below, with no Markdown fence or
+  surrounding text.
+
+## Official metadata
+
+* Parliament oral-evidence ID: 18095
+* Required source hash: `bf69cb60ff2943672d8b0818c641ae58c72701418fd1767df1dc10c0b6775464`
+* Committee: International Relations and Defence Committee
+* Subject: Multilateralism
+* Meeting date: 16 September 2026
+* Transcript status: uncorrected
+* Source: https://committees.parliament.uk/oralevidence/18095/html/
+
+## Witness metadata
+
+* Isabella Wilkinson: Senior Research Fellow, Digital Society Programme, Chatham House
+* Sam Daws: Senior Advisor to the Martin AI Governance Initiative, University of Oxford
+
+## Speaker labels detected in the transcript
+
+These are automatically detected and may contain errors. Use only labels that are
+clearly real speakers in the source transcript.
+
+* The Chair
+* Sam Daws
+* Isabella Wilkinson
+* Lord Ahmad of Wimbledon
+* Baroness Crawley
+* Lord Grocott
+* Baroness Prashar
+* Lord Bruce of Bennachie
+* Lord Lamont of Lerwick
+* Lord Alderdice
+* Baroness Fraser of Craigmaddie
+* Baroness Blackstone
+* My one guidance for the committee in considering it is
+* Lord De Mauley
+
+`My one guidance for the committee in considering it is` is not a speaker and must be ignored.
+
+## Output structure
 
 Return exactly this structure:
 
@@ -114,8 +187,8 @@ Return exactly this structure:
   ],
   "glossary": [
     {
-      "term": "<a term used in your dialogue that a layman would not know>",
-      "definition": "<one plain sentence explaining it, max 200 characters>"
+      "term": "<a specialist term that still appears in your dialogue>",
+      "definition": "<one plain-English sentence explaining it, max 200 characters>"
     }
   ],
   "chapters": [
@@ -132,17 +205,57 @@ Return exactly this structure:
   ]
 }
 
-Every value written above in <angle brackets> is a description of what to write,
-not text to copy: replace it with the real thing from the transcript. Never emit a
-name containing the words "actual name" or "real name".
+Replace every `<...>` placeholder with source-derived content. Never output the
+placeholder text itself.
 
-The `glossary` lists terms that still appear in YOUR dialogue and that a general
-reader would not know — acronyms, institutions, and technical or parliamentary
-vocabulary (for example "UNIDO", "statutory instrument", "Ofgem"). Give 0–25
-entries, each defined in one plain sentence. Write the term exactly as it appears
-in your dialogue. Do not include everyday words.
+## Glossary rules
 
-Allowed speaker kinds are `chair`, `member`, and `witness`. If you use the label
-`Committee Member` for speakers the transcript leaves unnamed, set both its label
-and name to `Committee Member`, give it kind `member`, and explain in its role that
-it stands in for unnamed questioners.
+The `glossary` contains unfamiliar specialist terms that still appear in your
+condensed dialogue. Use it for things such as:
+
+* technical vocabulary;
+* parliamentary or legal terms;
+* economic or policy terms;
+* acronyms;
+* unfamiliar institutions;
+* named regulatory systems.
+
+Rules:
+
+* Give 0-25 glossary entries.
+* Include only terms that actually appear in the condensed dialogue.
+* Write each term exactly as it appears in the dialogue.
+* List each term once; never repeat a term.
+* Give one plain-English sentence per definition.
+* Keep each definition under 200 characters.
+* Do not include ordinary everyday words.
+* If jargon can be replaced cleanly without losing useful meaning, replace it.
+* Keep a specialist term when knowing the term itself is useful to the reader, then
+  explain it in the glossary.
+* Do not use the glossary as an excuse to leave unnecessarily obscure writing in the
+  dialogue.
+
+Examples of terms that may belong in the glossary include:
+
+* UNIDO
+* statutory instrument
+* Ofgem
+* interoperability
+* full-stack
+* capacity building
+* agentic AI
+
+## Speaker kinds
+
+Allowed speaker kinds are:
+
+* `chair`
+* `member`
+* `witness`
+
+If you use `Committee Member` for a speaker whom the transcript genuinely leaves
+unnamed:
+
+* set both `label` and `name` to `Committee Member`;
+* give them kind `member`;
+* explain in `role` that the label represents an unnamed committee questioner.

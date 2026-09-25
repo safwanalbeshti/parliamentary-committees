@@ -1,0 +1,246 @@
+{
+  "schema_version": 1,
+  "source_id": 18103,
+  "source_sha256": "b9ae0ecb486300a67e48dbf95451f7e8da777459916ffbd7076f686994ca983c",
+  "title": "Article 2 and rights protection after Brexit: politics, law and the Dillon judgment",
+  "label": "17 September 2026 · Article 2 of the protocol/Windsor Framework",
+  "summary": "Matthew O’Toole, SDLP Leader of the Opposition in the Northern Ireland Assembly, told the committee that Article 2 of the Windsor Framework was negotiated to protect rights in Northern Ireland after Brexit, but its practical effect remains unclear—especially after the Supreme Court’s Dillon judgment. He argued rights protections are still needed because Northern Ireland’s politics often fails to deliver legislation, urged clarity and commitment from the UK Government, and called for repeal or reform of the legacy Act to restore victims’ trust.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Carlile of Berriew",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Lord Dodds of Duncairn",
+      "name": "Lord Dodds of Duncairn",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Foster of Aghadrumsee",
+      "name": "Baroness Foster of Aghadrumsee",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Ludford",
+      "name": "Baroness Ludford",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Ritchie of Downpatrick",
+      "name": "Baroness Ritchie of Downpatrick",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Sanderson of Welton",
+      "name": "Baroness Sanderson of Welton",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Elliott of Ballinamallard",
+      "name": "Lord Elliott of Ballinamallard",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Matthew O’Toole",
+      "name": "Matthew O’Toole",
+      "role": "Leader of the Opposition, Social Democratic and Labour Party (SDLP); MLA for Belfast South",
+      "kind": "witness"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Article 2",
+      "definition": "The non‑diminution of rights clause in the Windsor Framework meant to protect rights in Northern Ireland after Brexit."
+    },
+    {
+      "term": "Windsor Framework",
+      "definition": "A UK–EU agreement that adjusts legal arrangements for Northern Ireland after Brexit, replacing earlier protocol parts."
+    },
+    {
+      "term": "Good Friday Agreement",
+      "definition": "The 1998 peace agreement that set up Northern Ireland's political settlement and rights protections."
+    },
+    {
+      "term": "Dillon case",
+      "definition": "A Supreme Court case testing the meaning and reach of Article 2 and related human rights protections."
+    },
+    {
+      "term": "Stormont brake",
+      "definition": "A mechanism allowing Northern Ireland institutions to object to certain EU‑derived rules under the Windsor Framework."
+    },
+    {
+      "term": "legacy Act",
+      "definition": "UK legislation on how to handle Troubles‑era cases, criticised for denying judicial routes for some victims."
+    },
+    {
+      "term": "Human Rights Commission",
+      "definition": "Northern Ireland's statutory body that monitors and promotes human rights locally."
+    },
+    {
+      "term": "Equality Commission",
+      "definition": "Northern Ireland's statutory body that enforces equality law and monitors compliance."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Why Article 2 was negotiated",
+      "takeaway": "Article 2 was included to protect the rights set out in the Good Friday Agreement after the UK left the EU.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Please introduce yourself briefly and tell us why Article 2 was put into the Windsor Framework and what its political significance has been."
+        },
+        {
+          "speaker": "Matthew O’Toole",
+          "text": "I'm Matthew O’Toole, SDLP Leader of the Opposition in the Assembly and MLA for Belfast South."
+        },
+        {
+          "speaker": "Matthew O’Toole",
+          "text": "Article 2 was negotiated to protect the Good Friday Agreement's rights after Brexit removed the shared EU context that had underpinned UK‑Ireland relations."
+        },
+        {
+          "speaker": "Matthew O’Toole",
+          "text": "Those rights are broad and linked to other laws—European Convention rights, the Human Rights Act and some ECJ decisions—so the EU and UK sought a guarantee against losing them."
+        },
+        {
+          "speaker": "Lord Dodds of Duncairn",
+          "text": "Some argue Article 2 itself diminishes the Belfast Agreement because parts were imposed without cross‑community consent and Northern institutions have no say over many laws. How do you respond?"
+        },
+        {
+          "speaker": "Matthew O’Toole",
+          "text": "Brexit destabilised the whole settlement. Article 2 tries to protect rights in that new context, but I accept people worry about who now makes certain rules for our economy."
+        },
+        {
+          "speaker": "Matthew O’Toole",
+          "text": "There are safeguards from the Windsor negotiations—the Stormont brake and a Democratic Scrutiny Committee—though critics see them as imperfect."
+        }
+      ]
+    },
+    {
+      "title": "The Dillon judgment and legal uncertainty",
+      "takeaway": "The Dillon Supreme Court decision left key questions about how far Article 2 protects rights, and this worries victims and rights bodies.",
+      "turns": [
+        {
+          "speaker": "Baroness Foster of Aghadrumsee",
+          "text": "What is the SDLP's view of the Dillon judgment?"
+        },
+        {
+          "speaker": "Matthew O’Toole",
+          "text": "We accept the court's authority, but we're concerned. The case involved victims denied judicial routes by the legacy Act, so its outcome matters a lot to people who've suffered."
+        },
+        {
+          "speaker": "Matthew O’Toole",
+          "text": "The judgment used language—saying rights were there to 'end sectarian conflict'—which many, including the Human Rights Commission, find too narrow and simplistic."
+        },
+        {
+          "speaker": "Baroness Foster of Aghadrumsee",
+          "text": "Governments can change how they interpret treaties. The UK could issue a new explanation of Article 2. Is that legally acceptable?"
+        },
+        {
+          "speaker": "Matthew O’Toole",
+          "text": "Governments do change policy, but international commitments and treaty words need stability—especially for fundamental rights in Northern Ireland."
+        },
+        {
+          "speaker": "Chair",
+          "text": "So you distinguish between ordinary legislation a new government can change and treaty obligations that should have more permanence?"
+        },
+        {
+          "speaker": "Matthew O’Toole",
+          "text": "Yes. If rights shift with every political cycle, trust erodes. That matters here because trust in successive UK Governments has declined since Brexit."
+        },
+        {
+          "speaker": "Baroness Foster of Aghadrumsee",
+          "text": "We heard a UUP witness say it wouldn't have backed the GFA if Article 2 had existed then. Your view?"
+        },
+        {
+          "speaker": "Matthew O’Toole",
+          "text": "That's an odd counterfactual—it's hard to imagine thinking in 1998 that the UK would leave the EU and later sign the clauses we now have."
+        }
+      ]
+    },
+    {
+      "title": "Clarity, courts and everyday understanding",
+      "takeaway": "Dillon left ambiguity about who can rely on Article 2; ordinary people often don't know these legal details but sense rights are under pressure.",
+      "turns": [
+        {
+          "speaker": "Baroness Ludford",
+          "text": "Did Dillon clarify where Article 2 still applies? Could Article 2 have been a 'standstill' instead of a dynamic, ongoing alignment?"
+        },
+        {
+          "speaker": "Matthew O’Toole",
+          "text": "Dillon didn't resolve many questions. The judgment distinguished some specific protections from broader derived rights, leaving uncertainty over justiciability."
+        },
+        {
+          "speaker": "Matthew O’Toole",
+          "text": "A standstill approach might be politically easier, but dynamic alignment can be sensible if politics and institutions reliably track rights—Northern Ireland's politics often don't."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Courts or legislatures—what's your view about who should create enforceable rights?"
+        },
+        {
+          "speaker": "Matthew O’Toole",
+          "text": "Ideally elected bodies legislate, but our Assembly has repeatedly failed to deliver some rights. That makes judicial recourse more important here than in many places."
+        },
+        {
+          "speaker": "Baroness Sanderson of Welton",
+          "text": "Do people here understand Article 2 and how to use it?"
+        },
+        {
+          "speaker": "Matthew O’Toole",
+          "text": "No. Most people know the Good Friday Agreement contains rights, but not Article 2's legal detail. They do sense a backsliding of rights after Brexit and recent UK legislation."
+        },
+        {
+          "speaker": "Baroness Ritchie of Downpatrick",
+          "text": "Overall, has Article 2 succeeded in protecting rights since the UK left the EU?"
+        },
+        {
+          "speaker": "Matthew O’Toole",
+          "text": "We support Article 2 in principle but it's early to judge. Dillon is concerning; we need robust protections until some other mechanism can replace them."
+        },
+        {
+          "speaker": "Matthew O’Toole",
+          "text": "The Human Rights and Equality Commissions need to be alert and empowered; their statutory roles are welcome and important."
+        }
+      ]
+    },
+    {
+      "title": "What Governments should do next",
+      "takeaway": "The SDLP wants the legacy Act fixed, clearer UK commitments to Article 2, and stronger local legislation and leadership to protect rights.",
+      "turns": [
+        {
+          "speaker": "Lord Elliott of Ballinamallard",
+          "text": "In light of Dillon, what must the UK Government and the Northern Ireland Executive do to meet Article 2 commitments, and how can victims be helped?"
+        },
+        {
+          "speaker": "Matthew O’Toole",
+          "text": "First, repeal or properly reform the legacy Act so it's human‑rights‑compliant and restores victims' access to justice where appropriate."
+        },
+        {
+          "speaker": "Matthew O’Toole",
+          "text": "The Executive should legislate where there are agreed gaps—for instance on racial equality—and show local leadership instead of leaving everything to courts or Westminster."
+        },
+        {
+          "speaker": "Matthew O’Toole",
+          "text": "The UK Government must be explicit, in word and deed, about non‑diminution of rights, and avoid actions—like leaving the ECHR—that would undermine the settlement."
+        },
+        {
+          "speaker": "Matthew O’Toole",
+          "text": "Rebuilding victims' confidence means legal routes that are compliant with international obligations and political willingness to listen and act."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. We'll return the transcript for your corrections, and the public session is concluded."
+        }
+      ]
+    }
+  ]
+}

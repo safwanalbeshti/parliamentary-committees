@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "source_id": 18102,
+  "source_sha256": "3b00da099f6a0a50404a9f2027ae97d679432f12f4937f407f592c00984a4b4d",
+  "title": "Why Article 2 worries unionists: sovereignty, rights and the Windsor Framework",
+  "label": "17 September 2026 · Stormont evidence session",
+  "summary": "Jon Burrows, leader of the Ulster Unionist Party, told the Northern Ireland Scrutiny Committee that Article 2 of the Protocol/Windsor Framework undermines the Belfast/Good Friday Agreement by allowing EU-based law or obligations to be applied in Northern Ireland without Westminster consent. He welcomed the Supreme Court’s Dillon judgment for narrowing Article 2’s reach but argued it still threatens parliamentary sovereignty and needs UK legislation to stop laws being disapplied. He also raised concerns about the Republic of Ireland’s co-operation on legacy matters, the political consequences of the “Irish Sea border”, and the limits of relying on EU-derived guarantees rather than domestic human-rights mechanisms.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Carlile of Berriew",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Jon Burrows",
+      "name": "Jon Burrows MLA",
+      "role": "Leader, Ulster Unionist Party",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Dodds of Duncairn",
+      "name": "Lord Dodds of Duncairn",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Foster of Aghadrumsee",
+      "name": "Baroness Foster of Aghadrumsee",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Ludford",
+      "name": "Baroness Ludford",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Ritchie of Downpatrick",
+      "name": "Baroness Ritchie of Downpatrick",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Sanderson of Welton",
+      "name": "Baroness Sanderson of Welton",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Elliott of Ballinamallard",
+      "name": "Lord Elliott of Ballinamallard",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Article 2",
+      "definition": "A clause in the Protocol/Windsor Framework about keeping certain EU-derived rights and standards in Northern Ireland after Brexit."
+    },
+    {
+      "term": "Windsor Framework",
+      "definition": "The UK–EU agreement (2023) that altered parts of the Northern Ireland Protocol to manage post‑Brexit arrangements."
+    },
+    {
+      "term": "Belfast/Good Friday Agreement",
+      "definition": "1998 peace agreement that set the constitutional principle that Northern Ireland stays in the UK unless a majority votes otherwise."
+    },
+    {
+      "term": "Dillon case",
+      "definition": "A UK Supreme Court case that narrowed how Article 2 can be used to disapply UK laws in Northern Ireland."
+    },
+    {
+      "term": "ECHR",
+      "definition": "European Convention on Human Rights, an international treaty the UK has incorporated into domestic law via the Human Rights Act."
+    },
+    {
+      "term": "Human Rights Act",
+      "definition": "UK law that incorporates the ECHR into domestic courts, allowing rights to be enforced in UK courts."
+    },
+    {
+      "term": "Irish Sea border",
+      "definition": "The practical and legal separation between Great Britain and Northern Ireland created by post‑Brexit arrangements for goods and rules."
+    },
+    {
+      "term": "RSEO",
+      "definition": "Rights, Safeguards and Equality of Opportunity — the part of the Belfast Agreement that deals with human-rights protections."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Opening: who is speaking and why Article 2 matters",
+      "takeaway": "Jon Burrows says Article 2 threatens Northern Ireland’s place in the UK by allowing EU rules to affect Northern Ireland without Westminster or local consent.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We're here at Stormont for our inquiry into Article 2 of the Protocol/Windsor Framework. Could you introduce yourself for the record?"
+        },
+        {
+          "speaker": "Jon Burrows",
+          "text": "I'm Jon Burrows, leader of the Ulster Unionist Party. I was involved in politics around the time of the Belfast agreement and I see rights protection as central, but I think Article 2 has become a tool that undermines UK sovereignty here."
+        },
+        {
+          "speaker": "Lord Dodds of Duncairn",
+          "text": "You’ve been critical of Article 2. How does it sit with the Belfast/Good Friday Agreement?"
+        },
+        {
+          "speaker": "Jon Burrows",
+          "text": "At its core the Belfast agreement rests on consent—Northern Ireland stays in the UK unless a majority decide otherwise. Article 2 lets EU laws apply in Northern Ireland and be treated differently from the rest of the UK, and that, I believe, upends that consent principle."
+        }
+      ]
+    },
+    {
+      "title": "Why Article 2 threatens sovereignty and why Dillon did not end the problem",
+      "takeaway": "The Supreme Court’s Dillon judgment limited Article 2 but did not remove its ability to disapply laws, so Burrows wants UK legislation to block that mechanism.",
+      "turns": [
+        {
+          "speaker": "Baroness Foster of Aghadrumsee",
+          "text": "You mentioned the Dillon case: did it fix the problem?"
+        },
+        {
+          "speaker": "Jon Burrows",
+          "text": "I welcomed Dillon. It narrowed how Article 2 can be used, but it didn't eliminate the risk. The principle remains: a UK law could be disapplied in Northern Ireland if a court finds Article 2 applies. That still threatens parliamentary sovereignty."
+        },
+        {
+          "speaker": "Baroness Foster of Aghadrumsee",
+          "text": "Do you call Article 2 anti‑democratic?"
+        },
+        {
+          "speaker": "Jon Burrows",
+          "text": "Yes. If Parliament passes a law and a judge later rules it doesn't apply in Northern Ireland because of Article 2, that cuts across democratic decision‑making."
+        },
+        {
+          "speaker": "Baroness Ludford",
+          "text": "If Dillon narrowed the scope, is there anything short of primary legislation that could constrain Article 2?"
+        },
+        {
+          "speaker": "Jon Burrows",
+          "text": "People suggest explanations or understandings, but this is a litigable provision. Only clear UK primary legislation creating a firewall—so EU law can't apply here without Westminster or Stormont authorising it—will give certainty."
+        },
+        {
+          "speaker": "Lord Elliott of Ballinamallard",
+          "text": "How should future legislation reflect Article 2 principles?"
+        },
+        {
+          "speaker": "Jon Burrows",
+          "text": "Our regular equality and human‑rights screening of laws should be maintained and made explicit: if Westminster decides a law complies with human‑rights obligations, that decision shouldn't be reopenable under Article 2."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Would adding a similar certification to Bills—about how they comply with Article 2 or human‑rights obligations—help?"
+        },
+        {
+          "speaker": "Jon Burrows",
+          "text": "It might help in practice. It's worth considering alongside primary legislation to secure that parliamentary decisions can't be undermined later by Article 2 litigation."
+        }
+      ]
+    },
+    {
+      "title": "Alternatives for protecting rights and the role of existing bodies",
+      "takeaway": "Burrows argues Northern Ireland already has strong domestic rights protections (Human Rights Act, equality bodies) and that Article 2 is not necessary to secure them.",
+      "turns": [
+        {
+          "speaker": "Baroness Ritchie of Downpatrick",
+          "text": "If not Article 2, how are the RSEO rights in the Belfast agreement protected?"
+        },
+        {
+          "speaker": "Jon Burrows",
+          "text": "Those rights are enforceable through the Human Rights Act and domestic courts, plus bodies like the Equality Commission and the Northern Ireland Human Rights Commission. Article 2 did not need to be added to preserve them."
+        },
+        {
+          "speaker": "Baroness Ritchie of Downpatrick",
+          "text": "Would a Bill of Rights replace Article 2?"
+        },
+        {
+          "speaker": "Jon Burrows",
+          "text": "A Bill of Rights is one option—UK‑wide or Northern Ireland specific—but I think the existing ECHR protections in domestic law are already strong. The issue is the constitutional gap Article 2 creates, not a lack of rights."
+        },
+        {
+          "speaker": "Lord Dodds of Duncairn",
+          "text": "Do equality and human‑rights bodies have cross‑community confidence?"
+        },
+        {
+          "speaker": "Jon Burrows",
+          "text": "They do important work, but there’s a unionist perception that some bodies tilt towards nationalist or left‑wing priorities. That perception matters politically and affects trust in how rights are enforced."
+        },
+        {
+          "speaker": "Baroness Sanderson of Welton",
+          "text": "Do ordinary people know or care about Article 2?"
+        },
+        {
+          "speaker": "Jon Burrows",
+          "text": "Most people wouldn't know the legal term, but unionists sense something wrong: the Irish Sea border, risk of laws being applied from outside their vote, and cases like Dillon create deep unease."
+        }
+      ]
+    },
+    {
+      "title": "Politics and risks: Dublin, legacy issues, and hypotheticals about the ECHR",
+      "takeaway": "Burrows warned that failures by the Irish Government on legacy cases and the perception of an Irish Sea border threaten stability; he’s wary of the UK leaving the ECHR because it could make things worse.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "You criticised the Irish Government's record on extradition and legacy. How does that feed into Article 2 concerns?"
+        },
+        {
+          "speaker": "Jon Burrows",
+          "text": "They've taken an interstate case against the UK on legacy but refuse to extradite many suspects and haven't cooperated with investigators. Yet the UK Government often yield to Irish pressure in negotiations, which weakens our position here."
+        },
+        {
+          "speaker": "Baroness Ludford",
+          "text": "You said the dynamic element of Article 2 is the problem. Are there specific EU laws you'd fear coming through?"
+        },
+        {
+          "speaker": "Jon Burrows",
+          "text": "It’s the principle of dynamic alignment I object to, not only particular laws. Any future EU directives could be applied here without Westminster or local consent, and that’s the constitutional issue."
+        },
+        {
+          "speaker": "Baroness Foster of Aghadrumsee",
+          "text": "If the UK left the ECHR, would Article 2 then be needed as a rights guarantor?"
+        },
+        {
+          "speaker": "Jon Burrows",
+          "text": "Possibly, but I’d be wary. Leaving the ECHR would open new political and legal battles, and I worry Northern Ireland could be disadvantaged as other arrangements are sought to manage our position."
+        },
+        {
+          "speaker": "Baroness Ritchie of Downpatrick",
+          "text": "If there were no ECHR, Article 2 or a Bill of Rights, how would everyone’s rights be protected?"
+        },
+        {
+          "speaker": "Jon Burrows",
+          "text": "The substance of rights matters more than the label. A well‑drafted domestic Bill of Rights could replicate ECHR protections, but in practice the challenge would be political: could Stormont agree it? Would unionists trust it? Those questions matter."
+        },
+        {
+          "speaker": "Lord Dodds of Duncairn",
+          "text": "What political risk do you see if these issues aren’t addressed?"
+        },
+        {
+          "speaker": "Jon Burrows",
+          "text": "If the Stormont institutions collapse under pressure about the protocol or the Irish Sea border, direct rule and more influence for Dublin could follow. That would be deeply destabilising and could permanently damage Northern Ireland’s place in the UK."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you—your evidence is clear. We'll send the transcript for corrections."
+        },
+        {
+          "speaker": "Jon Burrows",
+          "text": "Thank you. My view is that the Windsor Framework's Article 2 must be addressed by UK legislation so parliamentary sovereignty and the Belfast agreement's consent principle are protected."
+        }
+      ]
+    }
+  ]
+}

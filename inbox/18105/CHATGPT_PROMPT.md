@@ -125,37 +125,31 @@ The JSON is checked automatically.
 
 ## Official metadata
 
-* Parliament oral-evidence ID: 18096
-* Required source hash: `c40d304b76c10a5e58877d0dc1ea3819954acc9ec1e5eb31c3093a28666a8c66`
-* Committee: Home Affairs Committee
-* Subject: The work of the Home Office
-* Meeting date: 15 September 2026
-* Transcript status: published
-* Source: https://committees.parliament.uk/oralevidence/18096/html/
+* Parliament oral-evidence ID: 18105
+* Required source hash: `e2b236716163a977f1f1e4dff627c5cd4f7f016cdeb73f46fa71a886288c5dd9`
+* Committee: Northern Ireland Scrutiny Committee
+* Subject: Article 2 of the Protocol/Windsor Framework
+* Meeting date: 17 September 2026
+* Transcript status: uncorrected
+* Source: https://committees.parliament.uk/oralevidence/18105/html/
 
 ## Witness metadata
 
-* Rt Hon Shabana Mahmood MP: Home Secretary, Home Office
+* Name not supplied: Leader, Democratic Unionist Party (DUP)
 
 ## Speaker labels detected in the transcript
 
 These are automatically detected and may contain errors. Use only labels that are
 clearly real speakers in the source transcript.
 
-* Witness
-* Chair
-* Shabana Mahmood
-* Lewis Atkinson
-* Dr Prinsley
-* Mr Kohler
-* Ben Maguire
-* The two things go hand in hand
-* Margaret Mullane
-* Robbie Moore
-* Joani Reid
-* Bell Ribeiro-Addy
-
-`The two things go hand in hand` is not a speaker and must be ignored.
+* The Chair
+* Gavin Robinson
+* Lord Dodds of Duncairn
+* Baroness Foster of Aghadrumsee
+* Baroness Ludford
+* Baroness Sanderson of Welton
+* Baroness Ritchie of Downpatrick
+* Lord Elliott of Ballinamallard
 
 ## Output structure
 
@@ -163,10 +157,10 @@ Return exactly this structure:
 
 {
   "schema_version": 1,
-  "source_id": 18096,
-  "source_sha256": "c40d304b76c10a5e58877d0dc1ea3819954acc9ec1e5eb31c3093a28666a8c66",
+  "source_id": 18105,
+  "source_sha256": "e2b236716163a977f1f1e4dff627c5cd4f7f016cdeb73f46fa71a886288c5dd9",
   "title": "A concise, engaging title",
-  "label": "15 September 2026 · A short picker label",
+  "label": "17 September 2026 · A short picker label",
   "summary": "One paragraph explaining what the hearing covered and its main conclusion.",
   "speakers": [
     {

@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18102,
+  "activity_id": 38768,
+  "document_id": 305802,
+  "meeting_date": "2026-09-17",
+  "meeting_date_display": "17 September 2026",
+  "publication_date": "2026-09-24T13:14:45",
+  "title": "Article 2 of the Protocol/Windsor Framework",
+  "committee": "Northern Ireland Scrutiny Committee",
+  "committees": [
+    {
+      "id": 769,
+      "name": "Northern Ireland Scrutiny Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9589,
+      "title": "Article 2 of the Protocol/Windsor Framework",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Leader",
+      "organisation": "Ulster Unionist Party"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Jon Burrows",
+    "Lord Dodds of Duncairn",
+    "Baroness Foster of Aghadrumsee",
+    "Baroness Ludford",
+    "Unfortunately, people have taken a view on this",
+    "Baroness Ritchie of Downpatrick",
+    "Baroness Sanderson of Welton",
+    "Lord Elliott of Ballinamallard",
+    "Baroness Ritchie",
+    "Lord Dodds"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18102/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18102",
+  "source_sha256": "3b00da099f6a0a50404a9f2027ae97d679432f12f4937f407f592c00984a4b4d",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

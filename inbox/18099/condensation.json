@@ -1,0 +1,308 @@
+{
+  "schema_version": 1,
+  "source_id": 18099,
+  "source_sha256": "6e9e5b1654d63c077e710e377056250656ea3a1ba21f26e6f763fee2a915bba7",
+  "title": "What the abolition of DSIT means for science, AI and government delivery",
+  "label": "Machinery of government changes · DSIT abolition",
+  "summary": "The Committee examined the July decision to abolish the Department for Science, Innovation and Technology (DSIT). Witnesses agreed the change risked fragmentation, disruption and lost momentum for science, AI and digital delivery. They urged clearer accountability for AI regulation, stronger central ‘forcing’ mechanisms to knit policies together, protection for basic research and facilities, procurement reform to favour UK start-ups, and independent evaluation of machinery-of-government decisions.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Dame Chi Onwurah",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Dr Simon Kaye",
+      "name": "Dr Simon Kaye",
+      "role": "Director of Policy and Research, Re:State",
+      "kind": "witness"
+    },
+    {
+      "label": "Alex Thomas",
+      "name": "Alex Thomas",
+      "role": "Executive Director, Institute for Government",
+      "kind": "witness"
+    },
+    {
+      "label": "Sir Paul Nurse",
+      "name": "Sir Paul Nurse",
+      "role": "President, Royal Society",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Alicia Greated",
+      "name": "Dr Alicia Greated",
+      "role": "Executive Director, Campaign for Science and Engineering (CaSE)",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Laura Gilbert",
+      "name": "Dr Laura Gilbert",
+      "role": "Senior Director of AI, Tony Blair Institute",
+      "kind": "witness"
+    },
+    {
+      "label": "Dom Hallas",
+      "name": "Dom Hallas",
+      "role": "Executive Director, Startup Coalition",
+      "kind": "witness"
+    },
+    {
+      "label": "Daniel Zeichner",
+      "name": "Daniel Zeichner",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Samantha Niblett",
+      "name": "Samantha Niblett",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Kit Malthouse",
+      "name": "Kit Malthouse",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "George Freeman",
+      "name": "George Freeman",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Freddie van Mierlo",
+      "name": "Freddie van Mierlo",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Tom Collins",
+      "name": "Tom Collins",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Emily Darlington",
+      "name": "Emily Darlington",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Maya Ellis",
+      "name": "Maya Ellis",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Martin Wrigley",
+      "name": "Martin Wrigley",
+      "role": "Member of Parliament",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "DSIT",
+      "definition": "Department for Science, Innovation and Technology, created in 2023 and abolished in 2026."
+    },
+    {
+      "term": "BIST",
+      "definition": "Department for Business, Innovation, Science and Trade, which absorbed some DSIT responsibilities."
+    },
+    {
+      "term": "DCMS",
+      "definition": "Department for Digital, Culture, Media and Sport, now hosting some digital and regulatory roles."
+    },
+    {
+      "term": "Cabinet Office",
+      "definition": "The central government department supporting the Prime Minister and co‑ordinating across Whitehall."
+    },
+    {
+      "term": "AI taskforce",
+      "definition": "A Cabinet Office taskforce, chaired by Sir Patrick Vallance, set up to co‑ordinate AI policy."
+    },
+    {
+      "term": "UKRI",
+      "definition": "UK Research and Innovation, the body which funds research councils and distributes research budgets."
+    },
+    {
+      "term": "STFC",
+      "definition": "Science and Technology Facilities Council, funds large national research facilities like Diamond Light Source."
+    },
+    {
+      "term": "GDS",
+      "definition": "Government Digital Service, responsible for digital delivery inside Government."
+    },
+    {
+      "term": "Procurement",
+      "definition": "How government buys goods and services, including IT and tech contracts."
+    },
+    {
+      "term": "Digital ID",
+      "definition": "A system to reliably identify public sector users online; the Government paused work on it."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Was abolishing DSIT the right move?",
+      "takeaway": "Most witnesses thought getting rid of DSIT was a mistake because it fragmented science, technology and innovation policy, though a few welcomed locating AI closer to the centre.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We opened by asking whether DSIT had been effective and whether its abolition was justified."
+        },
+        {
+          "speaker": "Alex Thomas",
+          "text": "The Institute for Government did not campaign for DSIT to be abolished; on balance we think getting rid of it was a mistake—machinery changes are disruptive and should be very well justified."
+        },
+        {
+          "speaker": "Dr Simon Kaye",
+          "text": "DSIT had built relationships with the science and tech community and was becoming effective; I worry about the opportunity costs of constant reshuffles but recognise the Government may have reasons for shifting AI closer to No. 10."
+        },
+        {
+          "speaker": "George Freeman",
+          "text": "As a former Minister, I said DSIT felt at times like an 'AI Department' and questioned whether wet labs and regional science clusters were getting enough attention."
+        },
+        {
+          "speaker": "Sir Paul Nurse",
+          "text": "I called the abolition a big mistake: science should be central across Government, not squeezed into a general business department."
+        }
+      ]
+    },
+    {
+      "title": "Disruption, costs and civil‑service morale",
+      "takeaway": "Machinery-of-government moves cost money, distract staff, hurt morale and take years to show benefits; civil servants often bear the hidden costs.",
+      "turns": [
+        {
+          "speaker": "Daniel Zeichner",
+          "text": "How have civil servants reacted—are they pleased or fed up?"
+        },
+        {
+          "speaker": "Alex Thomas",
+          "text": "Most are fed up. Reorganisations are disruptive behind the scenes: IT, HR, turf battles. We estimated a typical MoG change cost about £15m in 2019—roughly £20m today—plus opportunity costs."
+        },
+        {
+          "speaker": "Dr Simon Kaye",
+          "text": "People value continuity. If personnel and relationships stay stable, structures can be made to work; but constantly shifting 'deckchairs' damages momentum."
+        },
+        {
+          "speaker": "Dr Laura Gilbert",
+          "text": "From delivery teams' experience, sudden moves make staff feel fungible; top talent leaves and rebuilding technical capability takes months to years."
+        }
+      ]
+    },
+    {
+      "title": "Who owns AI policy and regulation?",
+      "takeaway": "AI responsibilities are scattered across Departments; witnesses urged a clear home or a strong central forcing mechanism with technical and analytical capacity.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "AI policy is now split—BIST, Cabinet Office, DCMS—with no clear place for regulation. Where should regulation sit?"
+        },
+        {
+          "speaker": "Dr Simon Kaye",
+          "text": "The Government seems to be balancing opportunity and risk by pushing AI closer to the centre and national security; the AI Security Institute was intended to be central to this."
+        },
+        {
+          "speaker": "Alex Thomas",
+          "text": "Fragmentation risks confusion. The important thing is clarity: let AI sit somewhere coherent, or have a forcing mechanism from the centre—Cabinet committee or taskforce—that can make binding choices."
+        },
+        {
+          "speaker": "Tom Collins",
+          "text": "You suggested a forcing mechanism; what would that look like in practice?"
+        },
+        {
+          "speaker": "Alex Thomas",
+          "text": "A Cabinet committee or a properly resourced taskforce with authority from No.10, not just a grouping of interested Ministers, so decisions aren't left unresolved between departments."
+        },
+        {
+          "speaker": "Dr Laura Gilbert",
+          "text": "If there is a taskforce, it must include technical and analytical capability—people who build and evaluate systems—so it can both regulate and advise on adoption properly."
+        },
+        {
+          "speaker": "Dom Hallas",
+          "text": "The taskforce should stay sharp and agile: focus on a few critical, fast-moving issues and be resourced to act quickly, rather than trying to be a new ministry in disguise."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Members stressed the Committee's role in pulling threads across departments if Whitehall becomes more diffuse."
+        }
+      ]
+    },
+    {
+      "title": "Research funding, UKRI and the STFC crisis",
+      "takeaway": "Witnesses warned that moving research policy into a large business department risks sidelining basic research; STFC facility cuts and budget erosion from inflation need transparent explanations.",
+      "turns": [
+        {
+          "speaker": "Freddie van Mierlo",
+          "text": "STFC cuts threaten major national facilities—should the Government revisit those decisions?"
+        },
+        {
+          "speaker": "Dr Alicia Greated",
+          "text": "CaSE members fear narrowing of the research base. Facilities have fixed costs and repeated cuts risk losing people and even operations; decisions must be transparent."
+        },
+        {
+          "speaker": "Sir Paul Nurse",
+          "text": "Science is an ecosystem: discovery (curiosity‑driven), translation and application all matter. We have to protect discovery research even when focusing on economic growth."
+        },
+        {
+          "speaker": "Kit Malthouse",
+          "text": "Is it realistic to expect a busy Business Secretary to prioritise science or will it be drowned by other political fires?"
+        },
+        {
+          "speaker": "Sir Paul Nurse",
+          "text": "Good people and political friends in Treasury and No.10 help; structures matter less than whether leaders treat science as a priority and protect long‑term budgets."
+        },
+        {
+          "speaker": "George Freeman",
+          "text": "Treasury control of budgets increases after reshuffles; we need better models for funding infrastructure—capital plus sustainable revenue—and public/private approaches."
+        },
+        {
+          "speaker": "Dr Alicia Greated",
+          "text": "We need a clear international R&D strategy, oversight of R&D capability across the UK, and long-term stability so universities and institutes can plan."
+        }
+      ]
+    },
+    {
+      "title": "Delivery, procurement and regional innovation",
+      "takeaway": "To turn science into commercial success, Government must fix procurement, support startups, strengthen local clusters, and evaluate structural changes rather than reshuffle by impulse.",
+      "turns": [
+        {
+          "speaker": "Martin Wrigley",
+          "text": "How can Government be 'Britain's best customer' so start-ups win anchor contracts?"
+        },
+        {
+          "speaker": "Dom Hallas",
+          "text": "Procurement culture favours big incumbents. Fixes: better pre‑market engagement, easier direct awards for small contracts, and social‑value rules calibrated so they don't punish tech productivity."
+        },
+        {
+          "speaker": "Dr Laura Gilbert",
+          "text": "Programs like the Sovereign AI Fund and NSSIF can direct early investment and link it to procurement, but procurement rules must be reworked and evaluated for real outcomes."
+        },
+        {
+          "speaker": "Maya Ellis",
+          "text": "What about regional clusters and devolution—how will the changes affect local innovation in places without big mayors?"
+        },
+        {
+          "speaker": "Dom Hallas",
+          "text": "Bundling research funding and business finance in BIST could help bridge grant-to-private finance gaps outside London, but delivery will depend on joined-up action with local bodies."
+        },
+        {
+          "speaker": "Dr Laura Gilbert",
+          "text": "Digital transformation needs shared learning and open‑source delivery so local authorities can reuse systems rather than each reinventing the wheel."
+        },
+        {
+          "speaker": "Alex Thomas",
+          "text": "One practical recommendation: independently evaluate machinery‑of‑government changes—costs, benefits, disruption—so future decisions are evidence‑based, not instinctive."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Committee members pressed for clarity on where digital infrastructure and GDS now sit and for ensuring political attention and funding follow strategic priorities."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18101,
+  "activity_id": 38784,
+  "document_id": 305798,
+  "meeting_date": "",
+  "meeting_date_display": "",
+  "publication_date": "2026-09-24T10:41:48",
+  "title": "Machinery of government changes",
+  "committee": "Science and Technology Committee",
+  "committees": [
+    {
+      "id": 135,
+      "name": "Science and Technology Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9978,
+      "title": "Machinery of government changes",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Dr Laura Gilbert",
+      "role": "Senior Director of AI",
+      "organisation": "Tony Blair Institute"
+    },
+    {
+      "name": "Dom Hallas",
+      "role": "Executive Director",
+      "organisation": "Startup Coalition"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "III",
+    "Chair",
+    "I will start by asking you a very simple question",
+    "Alex Thomas",
+    "Dr Simon Kaye",
+    "Daniel Zeichner",
+    "Samantha Niblett",
+    "Kit Malthouse",
+    "Tom Collins",
+    "Emily Darlington",
+    "Freddie van Mierlo",
+    "George Freeman",
+    "Sir Paul Nurse",
+    "Dr Alicia Greated",
+    "Martin Wrigley",
+    "Maya Ellis",
+    "Dr Laura Gilbert",
+    "The same applies in the policy space",
+    "Dom Hallas",
+    "As the founder of Labour"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18101/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18101",
+  "source_sha256": "6e9e5b1654d63c077e710e377056250656ea3a1ba21f26e6f763fee2a915bba7",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

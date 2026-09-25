@@ -125,37 +125,48 @@ The JSON is checked automatically.
 
 ## Official metadata
 
-* Parliament oral-evidence ID: 18096
-* Required source hash: `c40d304b76c10a5e58877d0dc1ea3819954acc9ec1e5eb31c3093a28666a8c66`
-* Committee: Home Affairs Committee
-* Subject: The work of the Home Office
-* Meeting date: 15 September 2026
+* Parliament oral-evidence ID: 18099
+* Required source hash: `6e9e5b1654d63c077e710e377056250656ea3a1ba21f26e6f763fee2a915bba7`
+* Committee: Science and Technology Committee
+* Subject: Machinery of government changes
+* Meeting date: 
 * Transcript status: published
-* Source: https://committees.parliament.uk/oralevidence/18096/html/
+* Source: https://committees.parliament.uk/oralevidence/18099/html/
 
 ## Witness metadata
 
-* Rt Hon Shabana Mahmood MP: Home Secretary, Home Office
+* Dr Simon Kaye: Director of Policy and Research, Re:State
+* Alex Thomas: Executive Director, Institute for Government
 
 ## Speaker labels detected in the transcript
 
 These are automatically detected and may contain errors. Use only labels that are
 clearly real speakers in the source transcript.
 
-* Witness
+* II
+* III
 * Chair
-* Shabana Mahmood
-* Lewis Atkinson
-* Dr Prinsley
-* Mr Kohler
-* Ben Maguire
-* The two things go hand in hand
-* Margaret Mullane
-* Robbie Moore
-* Joani Reid
-* Bell Ribeiro-Addy
+* I will start by asking you a very simple question
+* Alex Thomas
+* Dr Simon Kaye
+* Daniel Zeichner
+* Samantha Niblett
+* Kit Malthouse
+* Tom Collins
+* Emily Darlington
+* Freddie van Mierlo
+* George Freeman
+* Sir Paul Nurse
+* Dr Alicia Greated
+* Martin Wrigley
+* Maya Ellis
+* Dr Laura Gilbert
+* The same applies in the policy space
+* Dom Hallas
+* As the founder of Labour
 
-`The two things go hand in hand` is not a speaker and must be ignored.
+`I will start by asking you a very simple question` is not a speaker and must be ignored.
+`The same applies in the policy space` is not a speaker and must be ignored.
 
 ## Output structure
 
@@ -163,10 +174,10 @@ Return exactly this structure:
 
 {
   "schema_version": 1,
-  "source_id": 18096,
-  "source_sha256": "c40d304b76c10a5e58877d0dc1ea3819954acc9ec1e5eb31c3093a28666a8c66",
+  "source_id": 18099,
+  "source_sha256": "6e9e5b1654d63c077e710e377056250656ea3a1ba21f26e6f763fee2a915bba7",
   "title": "A concise, engaging title",
-  "label": "15 September 2026 · A short picker label",
+  "label": " · A short picker label",
   "summary": "One paragraph explaining what the hearing covered and its main conclusion.",
   "speakers": [
     {
