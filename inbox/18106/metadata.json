@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18106,
+  "activity_id": 38750,
+  "document_id": 306442,
+  "meeting_date": "2026-09-16",
+  "meeting_date_display": "16 September 2026",
+  "publication_date": "2026-10-08T10:40:51",
+  "title": "Dunkelflaute and the risks of electricity intermittency",
+  "committee": "Environment and Climate Change Committee",
+  "committees": [
+    {
+      "id": 515,
+      "name": "Environment and Climate Change Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9956,
+      "title": "Dunkelflaute and the risks of electricity intermittency",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Jon Saltmarsh",
+      "role": "Chief Technology Officer",
+      "organisation": "Energy Systems Catapult"
+    },
+    {
+      "name": "Professor Keith Bell",
+      "role": "Electronic and Electrical Engineering",
+      "organisation": "University of Strathclyde"
+    },
+    {
+      "name": "Dr Emily Wallace",
+      "role": "Fellow in Weather and Climate Extremes and Impact",
+      "organisation": "Met Office"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Jon Saltmarsh",
+    "Professor Keith Bell",
+    "Dr Emily Wallace",
+    "Baroness McIntosh of Pickering",
+    "Earl Russell",
+    "Lord Jay of Ewelme",
+    "Lord Krebs",
+    "Lord Trees",
+    "Lord Redwood",
+    "Baroness Whitaker",
+    "Lord Rooker",
+    "There are a few things and we have to see how effective they are"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18106/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18106",
+  "source_sha256": "2b83f78891c7e2b96891a7bf392be8d6a797e92b28b3513b68e7d61818220f53",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

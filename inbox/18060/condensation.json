@@ -1,0 +1,304 @@
+{
+  "schema_version": 1,
+  "source_id": 18060,
+  "source_sha256": "861173c1101e4c39963476ab4890fd8756af87a92df0877afefd96d9dc7a4681",
+  "title": "Fixing decades of poor defence housing: buy-back, repair plans and lessons",
+  "label": "10 September 2026 · Armed forces housing and Annington Homes",
+  "summary": "The Committee questioned senior Ministry of Defence officials about the 1996 sale of military family homes, the MOD’s 2019–24 work to re-negotiate and repurchase much of the estate from Annington Homes, and the plans to repair and run the homes through a new Defence Housing Service backed by a £9.2bn 10-year fund. Witnesses defended the buy-back as good value, described a decade-long repair and reshaping programme, accepted the 1996 deal was poor, and set out steps to build the skills, governance and partnerships needed — while the Committee pushed for faster progress, clearer short-term spending figures, and stronger safeguards before future asset sales.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Sir Geoffrey Clifton-Brown",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Jeremy Pocklington",
+      "name": "Jeremy Pocklington",
+      "role": "Permanent Secretary, Ministry of Defence",
+      "kind": "witness"
+    },
+    {
+      "label": "Rupert Pearce",
+      "name": "Rupert Pearce",
+      "role": "National Armaments Director, Ministry of Defence",
+      "kind": "witness"
+    },
+    {
+      "label": "Mike Green",
+      "name": "Mike Green",
+      "role": "Chief Executive, Defence Infrastructure Organisation (DIO)",
+      "kind": "witness"
+    },
+    {
+      "label": "Aneen Blackmore",
+      "name": "Aneen Blackmore",
+      "role": "Director General Finance, Ministry of Defence",
+      "kind": "witness"
+    },
+    {
+      "label": "David Brewer",
+      "name": "David Brewer",
+      "role": "Chief Operating Officer, Defence Infrastructure Organisation",
+      "kind": "witness"
+    },
+    {
+      "label": "Tristan Osborne",
+      "name": "Tristan Osborne",
+      "role": "Member of the Public Accounts Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Chris Kane",
+      "name": "Chris Kane",
+      "role": "Member of the Public Accounts Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Matt Turmaine",
+      "name": "Matt Turmaine",
+      "role": "Member of the Public Accounts Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Rupert Lowe",
+      "name": "Rupert Lowe",
+      "role": "Member of the Public Accounts Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Blake Stephenson",
+      "name": "Blake Stephenson",
+      "role": "Member of the Public Accounts Committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "IFRS 16",
+      "definition": "An international accounting rule that requires many leases to appear on a company's balance sheet, changing how leasing deals affect public finances."
+    },
+    {
+      "term": "Defence Housing Service",
+      "definition": "A new arm's-length public organisation the MOD will set up to own, manage and improve military family housing."
+    },
+    {
+      "term": "service family accommodation (SFA)",
+      "definition": "Homes the MOD provides for armed forces personnel and their families."
+    },
+    {
+      "term": "DIP",
+      "definition": "Defence Investment Plan, the MOD’s multi-year plan that sets investment priorities and funding."
+    },
+    {
+      "term": "enfranchisement",
+      "definition": "A legal process to buy the freehold or end a lease; used by the MOD in court to strengthen its position with Annington."
+    },
+    {
+      "term": "NDPB",
+      "definition": "Non-departmental public body — a public organisation that operates at arm's length from ministers and civil servants."
+    },
+    {
+      "term": "section 106",
+      "definition": "A planning agreement that can require developers to build or fund affordable housing as part of new developments."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Overview and the buy-back",
+      "takeaway": "Officials say the 1996 sale was a mistake, but the 2019–24 work to reclaim homes was a strong, value-for-money outcome.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Today we’re examining the 1996 sale of about 55,000 military homes to Annington and the MOD’s recent buy-back of 36,000 homes for £6bn."
+        },
+        {
+          "speaker": "Jeremy Pocklington",
+          "text": "The 1996 deal was not one we would do today. The repurchase we completed by 2024 is, by contrast, a good deal and a real success for the Department."
+        },
+        {
+          "speaker": "Tristan Osborne",
+          "text": "How did the original contract become so bad that it left taxpayers with big losses and service families in poor homes?"
+        },
+        {
+          "speaker": "Jeremy Pocklington",
+          "text": "It was a sale-and-leaseback shaped by the priorities of the time. The public‑sector advisory and appraisal systems we have now didn’t exist then, and incentives in that deal were wrong."
+        },
+        {
+          "speaker": "Chris Kane",
+          "text": "We need to be confident those mistakes won’t recur. Have you learned the specific lessons from the 1996 deal?"
+        },
+        {
+          "speaker": "Jeremy Pocklington",
+          "text": "Yes: understand asset value, model uncertainty, check hidden assumptions and involve external experts early. We’ve changed how we assess large transactions."
+        }
+      ]
+    },
+    {
+      "title": "Why it took so long to fix the deal",
+      "takeaway": "Officials say legal cases, rent renegotiation and new accounting rules were needed to create the leverage to buy back the homes.",
+      "turns": [
+        {
+          "speaker": "Chris Kane",
+          "text": "Why did it take from 1996 until about 2019 to make serious progress?"
+        },
+        {
+          "speaker": "Mike Green",
+          "text": "You need two sides to negotiate. Before 2019 we lacked commercial leverage. Court wins on enfranchisement, a rent renegotiation and IFRS 16 changed the position and let Annington come to the table."
+        },
+        {
+          "speaker": "David Brewer",
+          "text": "The contract’s drafting made potential losses grow fast over time. The steps from 2019 created the conditions where a buy-back was deliverable and saved taxpayers money versus earlier options."
+        },
+        {
+          "speaker": "Tristan Osborne",
+          "text": "Was the MOD aware earlier that the deal was damaging?"
+        },
+        {
+          "speaker": "Mike Green",
+          "text": "NAO reports flagged problems earlier, but the combination of legal, accounting and negotiation changes was needed before a realistic buy-back was possible."
+        }
+      ]
+    },
+    {
+      "title": "Current condition of the homes and repair plans",
+      "takeaway": "The estate needs major work: widespread old construction, high reactive repairs, and many homes below modern energy standards; a 10-year improvement programme is planned.",
+      "turns": [
+        {
+          "speaker": "Matt Turmaine",
+          "text": "The Report shows poor maintenance and satisfaction. How are you fixing the negligent approach to upkeep?"
+        },
+        {
+          "speaker": "Jeremy Pocklington",
+          "text": "It’s a priority. We created the Defence Housing Service to improve standards and are already seeing satisfaction rise and complaints fall sharply."
+        },
+        {
+          "speaker": "Mike Green",
+          "text": "When I joined in 2022 we had serious issues like damp and mould. We've fixed the worst cases and compliance problems, but the stock was under‑insulated and under‑maintained for decades."
+        },
+        {
+          "speaker": "David Brewer",
+          "text": "Most houses were built mid‑20th century and over half are below an EPC D rating. We do about 250,000 reactive repairs a year—disruption to families—and need long‑term work."
+        },
+        {
+          "speaker": "Matt Turmaine",
+          "text": "You plan a 10‑year programme. When will families see better homes?"
+        },
+        {
+          "speaker": "David Brewer",
+          "text": "Improvements will be progressive. We’ll double the current run rate of substantial refurbishments and lift standards for the 10–15,000 moves we do each year, but full estate renewal is a multi‑year task."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Ten years seems too slow if recruitment and retention rely on decent housing. Can you move faster?"
+        },
+        {
+          "speaker": "Mike Green",
+          "text": "We prioritise the worst properties first and are improving services now. But fixing decades of neglect properly needs time, money and industry capacity."
+        }
+      ]
+    },
+    {
+      "title": "Money, timing and transparency",
+      "takeaway": "The MOD has a £9.2bn, 10‑year refurbishment commitment; officials defended reprofiling into later years and promised clearer short‑term spending figures.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Aneen, is the £9.2bn conditional on the buy-back? How much will be spent in this Parliament?"
+        },
+        {
+          "speaker": "Aneen Blackmore",
+          "text": "£9.2bn is the 10‑year commitment protected through the DIP. We had to reprofile about £0.8bn out of the current parliamentary period. Over the next four years we plan £2.7bn for service family accommodation."
+        },
+        {
+          "speaker": "Chair",
+          "text": "You must provide precise figures for this financial year across all defence housing lines."
+        },
+        {
+          "speaker": "Jeremy Pocklington",
+          "text": "You asked recently; we will write with a full breakdown and the figures you requested, including single living accommodation and SFA."
+        },
+        {
+          "speaker": "Rupert Pearce",
+          "text": "Separately, part of the plan is to free up land and build homes for the wider market — up to 100,000 over time — but that is distinct from the SFA programme."
+        },
+        {
+          "speaker": "Rupert Lowe",
+          "text": "Will any of those homes be used for asylum accommodation or similar pressures?"
+        },
+        {
+          "speaker": "Rupert Pearce",
+          "text": "No — the intention is to deliver homes for military use or for the open market, not as part of asylum housing policy."
+        }
+      ]
+    },
+    {
+      "title": "Governance, skills and market approach",
+      "takeaway": "The MOD will set up the Defence Housing Service as an arm’s‑length body, build commercial and development skills, rely on partnerships with private builders, and keep UKGI support.",
+      "turns": [
+        {
+          "speaker": "Blake Stephenson",
+          "text": "Do you currently have the skills to run development, regeneration and housing services?"
+        },
+        {
+          "speaker": "Jeremy Pocklington",
+          "text": "We are building that capacity through the Defence Housing Service: appointing a chair, recruiting non‑execs and hiring commercial, construction and housing experts now."
+        },
+        {
+          "speaker": "Mike Green",
+          "text": "DIO has strong operational housing experience—we’re one of the UK’s largest housing providers—but we need to add development skills for major regeneration work."
+        },
+        {
+          "speaker": "Blake Stephenson",
+          "text": "How will the new body be funded and allowed to use sales receipts or borrowing?"
+        },
+        {
+          "speaker": "Jeremy Pocklington",
+          "text": "The Defence Housing Service will be an NDPB. Receipts from sales are available to MOD under the overall agreement; the legislation allows borrowing in principle, but there are no plans for it to borrow to fund core military housing without Treasury agreement."
+        },
+        {
+          "speaker": "Chris Kane",
+          "text": "Will you compete with private developers or partner with them?"
+        },
+        {
+          "speaker": "David Brewer",
+          "text": "We don’t intend to compete. Our approach is partnership: joint ventures, use of section 106, and leveraging builders’ buying power for refurbishment materials."
+        },
+        {
+          "speaker": "Blake Stephenson",
+          "text": "Did UK Government Investments (UKGI) help?"
+        },
+        {
+          "speaker": "Mike Green",
+          "text": "Yes—UKGI were essential. They gave detailed financial advice and confidence on the negotiating band. We integrated advisers into a single team rather than outsourcing everything."
+        }
+      ]
+    },
+    {
+      "title": "Lessons and final points",
+      "takeaway": "Witnesses accept the 1996 deal was a strategic error; they argue the buy-back and the Defence Housing Service offer a chance to fix housing if ministers back funding, publish clearer short‑term plans, and sustain oversight.",
+      "turns": [
+        {
+          "speaker": "Rupert Lowe",
+          "text": "The NAO says taxpayers were about £14.5bn worse off by 2024 because of the 1996 sale. How do we avoid repeating that kind of mistake?"
+        },
+        {
+          "speaker": "Jeremy Pocklington",
+          "text": "Avoid deals that prioritise short-term returns over long-term stewardship, model uncertainty properly, align incentives, and bring in expert scrutiny early."
+        },
+        {
+          "speaker": "Chair",
+          "text": "We welcome the buy-back, but press you to speed up improvements, publish specific spending this year, and ensure the new service delivers for families quickly."
+        },
+        {
+          "speaker": "David Brewer",
+          "text": "We will publish the Defence Housing Service plan in year one of operation, set priorities to attack the worst homes first, and be more transparent about performance."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you all. We will produce a Report with recommendations; please respond to our follow‑up requests promptly."
+        }
+      ]
+    }
+  ]
+}

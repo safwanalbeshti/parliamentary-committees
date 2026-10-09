@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18060,
+  "activity_id": 38605,
+  "document_id": 306431,
+  "meeting_date": "2026-09-10",
+  "meeting_date_display": "10 September 2026",
+  "publication_date": "2026-10-08T09:47:12",
+  "title": "Armed forces housing and Annington Homes",
+  "committee": "Public Accounts Committee",
+  "committees": [
+    {
+      "id": 127,
+      "name": "Public Accounts Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9765,
+      "title": "Armed forces housing and Annington Homes",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Jeremy Pocklington CB",
+      "role": "Permanent Secretary",
+      "organisation": "Ministry of Defence"
+    },
+    {
+      "name": "Mike Green",
+      "role": "Chief Executive",
+      "organisation": "Defence Infrastructure Organisation"
+    },
+    {
+      "name": "Rupert Pearce",
+      "role": "National Armaments Director (NAD)",
+      "organisation": "Ministry of Defence"
+    },
+    {
+      "name": "Aneen Blackmore",
+      "role": "Director General Finance",
+      "organisation": "Ministry of Defence"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chief Operating Officer",
+      "organisation": "Defence Infrastructure Organisation"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Jeremy Pocklington",
+    "Rupert Pearce",
+    "Mike Green",
+    "Aneen Blackmore",
+    "David Brewer",
+    "Tristan Osborne",
+    "Chris Kane",
+    "Matt Turmaine",
+    "I am in error",
+    "Rupert Lowe",
+    "Blake Stephenson"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18060/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18060",
+  "source_sha256": "861173c1101e4c39963476ab4890fd8756af87a92df0877afefd96d9dc7a4681",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}
