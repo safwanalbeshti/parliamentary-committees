@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18107,
+  "activity_id": 38881,
+  "document_id": 306774,
+  "meeting_date": "2026-10-12",
+  "meeting_date_display": "12 October 2026",
+  "publication_date": "2026-10-13T09:17:32",
+  "title": "Resilience of the UK's food supply to disruptions",
+  "committee": "Public Accounts Committee",
+  "committees": [
+    {
+      "id": 127,
+      "name": "Public Accounts Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9904,
+      "title": "Resilience of the UK's food supply to disruptions",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Corporate Affairs Director",
+      "organisation": "British Retail Consortium"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director of Sustainability and Growth",
+      "organisation": "Food and Drink Federation"
+    },
+    {
+      "name": "Harry Metcalfe",
+      "role": "Owner",
+      "organisation": "Harry's Farm"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Jim Bligh",
+    "Harry Metcalfe",
+    "Balwinder Dhoot",
+    "Rupert Lowe",
+    "I will just drag this point out",
+    "Rachel Gilmour",
+    "Matt Turmaine",
+    "The other question is",
+    "Mr Betts",
+    "Professor Ward",
+    "Professor Lang",
+    "The real problem is what Neil was alluding to",
+    "The second point is the way we think about our national agricultural resource",
+    "That goes back to that core thing that I think we both raised",
+    "It is always a challenge with DEFRA. It was interesting",
+    "It is a big question, but Neil is right"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18107/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18107",
+  "source_sha256": "0b4ab63ae8db690373193e67f5e05f6722c434897f7a98511256ad4fb806595f",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

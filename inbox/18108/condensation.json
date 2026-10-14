@@ -1,0 +1,340 @@
+{
+  "schema_version": 1,
+  "source_id": 18108,
+  "source_sha256": "275b6ca7ac8bf73b4d501b38a720a1e798e2e4de63fec57762a6955cf2dc3371",
+  "title": "Crime, Licensing and the High Street: Enforcement, landlords and revival",
+  "label": "13 October 2026 · Revitalising High Streets",
+  "summary": "Witnesses told the Committee that public fear about high-street decline is driven by very visible, often organised, crime—illicit tobacco, dodgy shops and tax-avoiding 'phoenix' businesses—that survives because enforcement is underpowered and fragmented. They urged quicker closure powers, a stronger licensing regime for vapes and tobacco, more resources for trading standards and HMRC, clearer duties for landlords, and local place-based action to revive town centres. The panel debated vaping and gambling regulation, and the limits of business rates reform.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Ms Abena Oppong-Asare",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Lord Bichard",
+      "name": "Michael Bichard",
+      "role": "Chair, National Trading Standards",
+      "kind": "witness"
+    },
+    {
+      "label": "Sue Nelson",
+      "name": "Sue Nelson",
+      "role": "Director of Policy and Stakeholders, Institute of Licensing",
+      "kind": "witness"
+    },
+    {
+      "label": "Josh Nicholson",
+      "name": "Josh Nicholson",
+      "role": "Head of Programme (Housing and Communities), Centre for Social Justice",
+      "kind": "witness"
+    },
+    {
+      "label": "Jim Waterson",
+      "name": "Jim Waterson",
+      "role": "Editor, London Centric",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Murphy",
+      "name": "Dr Marina Murphy",
+      "role": "Director, UK Vaping Industry Association",
+      "kind": "witness"
+    },
+    {
+      "label": "Nindi Dhanjal",
+      "name": "Nindi Dhanjal",
+      "role": "Representative, Gambling Business Group",
+      "kind": "witness"
+    },
+    {
+      "label": "Andrew Goodacre",
+      "name": "Andrew Goodacre",
+      "role": "CEO, British Independent Retailers Association",
+      "kind": "witness"
+    },
+    {
+      "label": "Andrew Cooper",
+      "name": "Andrew Cooper",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Chris Curtis",
+      "name": "Chris Curtis",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Ashley Dalton",
+      "name": "Ashley Dalton",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Mr Mohindra",
+      "name": "Mr Gagan Mohindra",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Sarah Smith",
+      "name": "Sarah Smith",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lewis Cocking",
+      "name": "Lewis Cocking",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Mr Forster",
+      "name": "Mr Will Forster",
+      "role": "Member of the committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "closure order",
+      "definition": "A legal power to shut a premises temporarily or longer because of crime or disorder linked to that site."
+    },
+    {
+      "term": "trading standards",
+      "definition": "Local authority teams that enforce consumer protection laws, including illicit goods and age-restricted sales."
+    },
+    {
+      "term": "phoenixing",
+      "definition": "Deliberately closing a business, abandoning debts, then restarting the same trade under a new company to avoid liabilities."
+    },
+    {
+      "term": "HMRC",
+      "definition": "Her Majesty’s Revenue and Customs, the UK tax authority responsible for collecting taxes and tackling tax fraud."
+    },
+    {
+      "term": "Bibob Act",
+      "definition": "A Dutch law that screens business applicants for links to organised crime before granting permits."
+    },
+    {
+      "term": "business rates",
+      "definition": "A property tax on non-domestic premises, a major cost for shops and small businesses."
+    },
+    {
+      "term": "Pride in Place",
+      "definition": "A UK government initiative to support local people and boards to revive town centres and neighbourhoods."
+    },
+    {
+      "term": "licensing",
+      "definition": "Formal permission from local authorities to run certain kinds of businesses, often with conditions and reviews."
+    },
+    {
+      "term": "sui generis",
+      "definition": "A planning term meaning 'of its own kind'; certain uses (e.g., some betting shops) need a bespoke planning application."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Perception and reality of decline",
+      "takeaway": "People see crime everywhere on high streets; witnesses say visible 'volume' offences and illicit trade are real and damage trust.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Josh, how well does public perception of high-street decline match reality?"
+        },
+        {
+          "speaker": "Josh Nicholson",
+          "text": "Polls show 79% of adults worry about high streets; nearly 9 in 10 cite crime or antisocial behaviour. Some overall crime fell historically, but visible low-level and shop-linked crime has been rising."
+        },
+        {
+          "speaker": "Josh Nicholson",
+          "text": "We found many 'criminal high street businesses'—illicit tobacco raids rose by around 1,000 year-on-year in FOIs we reviewed—and most shops keep trading after raids: only about 8% are closed."
+        },
+        {
+          "speaker": "Chair",
+          "text": "So people feel there's no consequence for crime. Would stronger council powers help?"
+        },
+        {
+          "speaker": "Josh Nicholson",
+          "text": "Yes—planning changes help, but you also need enforcement: faster closure powers, better licensing for tobacco and vapes, and tougher penalties for landlords who ignore criminal activity."
+        },
+        {
+          "speaker": "Lord Bichard",
+          "text": "It isn’t just low-level crime—there are links to organised crime, child exploitation and money laundering. Public awareness should reflect that buying illicit goods funds serious crimes."
+        }
+      ]
+    },
+    {
+      "title": "Stronger closure, licensing and enforcement",
+      "takeaway": "Witnesses pushed for instant closure powers, tobacco/vape licensing, and better-resourced, coordinated enforcement.",
+      "turns": [
+        {
+          "speaker": "Josh Nicholson",
+          "text": "We recommend an instant closure order for shops involved in crime—useable by police and trading standards without first going to magistrates, with an appeal route."
+        },
+        {
+          "speaker": "Josh Nicholson",
+          "text": "We also want regulated licensing for tobacco and vape sellers so trading standards can enforce breaches more easily, and quicker consultations on those rules."
+        },
+        {
+          "speaker": "Sue Nelson",
+          "text": "Licensing modeled on the alcohol regime would help: personal and premises licences, a national database and review powers let authorities suspend or revoke licences for crime."
+        },
+        {
+          "speaker": "Lord Bichard",
+          "text": "Closure orders were framed for antisocial behaviour, not organised crime. They often require showing disorder; we need to reform that and give county councils powers too."
+        },
+        {
+          "speaker": "Mr Mohindra",
+          "text": "You mentioned funding for trading standards—how much more do they need and who should lead enforcement?"
+        },
+        {
+          "speaker": "Lord Bichard",
+          "text": "I won’t quote a tidy figure, but trading standards have been starved of staff; some councils had none last year. The answer is more serious investment plus local multi-agency action—no single national fix."
+        }
+      ]
+    },
+    {
+      "title": "Phoenixing, landlords and HMRC",
+      "takeaway": "Tax evasion and 'phoenix' companies let dodgy shops afford high rents; landlords often take the highest bidder and HMRC lacks capacity.",
+      "turns": [
+        {
+          "speaker": "Andrew Cooper",
+          "text": "Jim, your reporting looked at 'phoenixing'—is money laundering the issue?"
+        },
+        {
+          "speaker": "Jim Waterson",
+          "text": "We expected laundering but repeatedly found tax evasion and deliberate company churn. If you avoid VAT, PAYE and corporation tax, your shop looks far more profitable and can afford higher rents."
+        },
+        {
+          "speaker": "Jim Waterson",
+          "text": "Many directors are vulnerable people or students acting as fronts. Landlords just take the highest rent bidder; they rarely check deeper."
+        },
+        {
+          "speaker": "Jim Waterson",
+          "text": "Operators fear HMRC more than trading standards—HMRC can probe up the chain—but HMRC is underfunded and short-staffed after years of austerity."
+        },
+        {
+          "speaker": "Lord Bichard",
+          "text": "Fragmentation is the problem: more than 100 bodies touch organised crime. We need better local intelligence sharing; national bodies must support, not replace, local teams."
+        }
+      ]
+    },
+    {
+      "title": "Local place-based solutions",
+      "takeaway": "Local civic action and devolved, joined-up work—plus capacity building for councils—have succeeded in reviving some high streets.",
+      "turns": [
+        {
+          "speaker": "Ashley Dalton",
+          "text": "Can local Pride in Place or neighbourhood boards make a difference?"
+        },
+        {
+          "speaker": "Josh Nicholson",
+          "text": "Yes. Charities like Back on the Map (Sunderland) and Giroscope (Hull) bought or managed local units, worked with landlords and reopened shops. Local charities and neighbourhood boards can drive renewal if given power and funds."
+        },
+        {
+          "speaker": "Lord Bichard",
+          "text": "Devolution matters. Places that share intelligence and devolve decisions do better. But some councils resist passing on power; success varies by area."
+        },
+        {
+          "speaker": "Josh Nicholson",
+          "text": "We also suggested using high-street rental auctions creatively—if a premises is closed for crime, the local authority could use auctions and vet new operators to prevent rogue tenants."
+        }
+      ]
+    },
+    {
+      "title": "Vaping and betting: regulation, marketing and children",
+      "takeaway": "Specialist vape shops argue they aid smoking cessation and want strict licensing and big fines for offenders; gambling firms point to planning and licensing rules but face concerns about clustering in deprived areas.",
+      "turns": [
+        {
+          "speaker": "Mr Forster",
+          "text": "Constituents complain about more vape, barber and betting shops. Are these just unwanted or do they serve a public need?"
+        },
+        {
+          "speaker": "Dr Murphy",
+          "text": "Specialist vape shops support quitting—10% of adults vape and vapes are the most used quit aid. But we must distinguish specialist stores from general shops that merely sell vapes alongside other goods."
+        },
+        {
+          "speaker": "Dr Murphy",
+          "text": "We back licensing that sets a high bar, enforces age checks and safety, and imposes meaningful fines—current fines are tiny; compliant businesses would welcome tougher, clearer rules."
+        },
+        {
+          "speaker": "Sarah Smith",
+          "text": "How often do vape shops actually age-gate and provide trained cessation advice in practice?"
+        },
+        {
+          "speaker": "Dr Murphy",
+          "text": "Specialist chains typically do; but trading-standards mystery shopping found about 23% of shops failed age verification. That’s why licensing plus properly resourced enforcement matters."
+        },
+        {
+          "speaker": "Chris Curtis",
+          "text": "On marketing: even if shops are compliant, bright ads draw people—many new vapers never smoked. Should we limit marketing on the high street?"
+        },
+        {
+          "speaker": "Dr Murphy",
+          "text": "Visibility isn't the same as access. I accept controls on display are reasonable, but enforcement of age-sales is more important; ringfenced fees from licensing could fund trading standards checks."
+        },
+        {
+          "speaker": "Chris Curtis",
+          "text": "Nindi, betting shops are regulated—do councils have tools to stop clustering in deprived areas?"
+        },
+        {
+          "speaker": "Nindi Dhanjal",
+          "text": "Local authorities already use planning and licensing. Betting and adult gaming are often sui generis so need specific planning permission; councils can include policies to resist clustering or sites near schools."
+        },
+        {
+          "speaker": "Ashley Dalton",
+          "text": "Why are betting shops more common in poorer areas?"
+        },
+        {
+          "speaker": "Nindi Dhanjal",
+          "text": "Operators look at demand and footfall. We also must complete a local area risk assessment with mitigation measures; the decision is commercial, but councils can and do control locations through plans."
+        }
+      ]
+    },
+    {
+      "title": "Business rates, landlords and wider incentives",
+      "takeaway": "High costs, business rates and landlords’ behaviour shape who can afford high-street units; witnesses urged tax enforcement, landlord due diligence, and targeted relief not simplistic rate cuts.",
+      "turns": [
+        {
+          "speaker": "Andrew Cooper",
+          "text": "Andrew, how have recent business-rates changes affected high streets?"
+        },
+        {
+          "speaker": "Andrew Goodacre",
+          "text": "Many independents have been hit: big retail parks sometimes gain relief while small high-street shops face rises. Example: one supermarket will pay £70,000 less in rates while nearby independents pay more."
+        },
+        {
+          "speaker": "Andrew Goodacre",
+          "text": "High-street rents rose about 12% versus retail parks at 4%; that squeezes small businesses. Reform needs to be practical: relief, support for start-ups, and tackling online VAT and low-value duty avoidance."
+        },
+        {
+          "speaker": "Chris Curtis",
+          "text": "Economists say cutting rates risks landlords capturing relief via higher rents. Would that blunt the benefit?"
+        },
+        {
+          "speaker": "Andrew Goodacre",
+          "text": "Some will leak into rents, but higher relief in 2024 correlated with fewer closures. It’s not a single fix: also address employment costs, energy, and supply-chain inflation that hurt small traders."
+        },
+        {
+          "speaker": "Sarah Smith",
+          "text": "Any final policy ideas to reduce the incentive for illicit trade?"
+        },
+        {
+          "speaker": "Jim Waterson",
+          "text": "Enforce existing laws properly—focus on tax enforcement and HMRC capacity. Use Al Capone-style tactics: pursue the money, resource investigators to get up the chain, and hold landlords to account for due diligence."
+        },
+        {
+          "speaker": "Lord Bichard",
+          "text": "Also look at ports and borders: much illicit stock arrives through weak checks. Prevention at borders plus stronger closure orders, licensing and local intelligence will together make the high street safer."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you all. The session emphasised enforcement, licensing and local action as central to reviving high streets—and that many problems survive because the incentives and resourcing remain mismatched."
+        }
+      ]
+    }
+  ]
+}

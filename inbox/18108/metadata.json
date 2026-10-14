@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18108,
+  "activity_id": 38934,
+  "document_id": 306908,
+  "meeting_date": "2026-10-13",
+  "meeting_date_display": "13 October 2026",
+  "publication_date": "2026-10-13T16:05:28",
+  "title": "Revitalising High Streets",
+  "committee": "Housing, Communities and Local Government Committee",
+  "committees": [
+    {
+      "id": 17,
+      "name": "Housing, Communities and Local Government Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9923,
+      "title": "Revitalising High Streets",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Sue Nelson",
+    "Josh Nicholson",
+    "Lord Bichard",
+    "Jim Waterson",
+    "Mr Mohindra",
+    "Ashley Dalton",
+    "Sarah Smith",
+    "Andrew Cooper",
+    "Chris Curtis",
+    "Lewis Cocking",
+    "Mr Forster",
+    "Andrew Goodacre",
+    "Dr Murphy",
+    "Nindi Dhanjal"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18108/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18108",
+  "source_sha256": "275b6ca7ac8bf73b4d501b38a720a1e798e2e4de63fec57762a6955cf2dc3371",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}
