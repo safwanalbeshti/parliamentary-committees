@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "source_id": 18112,
+  "source_sha256": "54a68961ab6e6049ee04704ece28a7be798e84a9a005c4095fcde7c9db129efd",
+  "title": "MPs push for debates on cancer research, illegal e-bikes, and the Jarrow Crusade",
+  "label": "13 October 2026 · Backbench Business Committee",
+  "summary": "MPs sought Chamber debates on three issues: speeding up UK cancer research and clinical trials; tackling illegal e-bikes and conversion kits that cause crime, fires and undercut legal markets; and marking the 90th anniversary of the Jarrow Crusade to discuss work, regional inequality and Parliament’s role. The committee agreed to pursue dates, warned scheduling pressures, and invited flexibility about Westminster Hall as an earlier option.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Bob Blackman",
+      "role": "Chair of the Backbench Business Committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Dr Arthur",
+      "name": "Scott Arthur",
+      "role": "MP and proposer of debates on cancer research and e-bikes",
+      "kind": "witness"
+    },
+    {
+      "label": "Clive Jones",
+      "name": "Clive Jones",
+      "role": "MP and supporter of the cancer research debate",
+      "kind": "witness"
+    },
+    {
+      "label": "Ms Minns",
+      "name": "Julie Minns",
+      "role": "MP and co-proposer of the illegal e-bikes debate",
+      "kind": "witness"
+    },
+    {
+      "label": "Olivia Bailey",
+      "name": "Olivia Bailey",
+      "role": "Presenter on behalf of Kate Osborne (MP for Jarrow) for the Jarrow Crusade debate",
+      "kind": "witness"
+    },
+    {
+      "label": "Mary Glindon",
+      "name": "Mary Glindon",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Mr Dillon",
+      "name": "Mr Lee Dillon",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Martin Vickers",
+      "name": "Martin Vickers",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "national cancer plan",
+      "definition": "The Government's recent plan setting targets and actions to improve cancer outcomes across the UK."
+    },
+    {
+      "term": "Westminster Hall",
+      "definition": "A secondary debating chamber in Parliament used for longer, less formal debates than the main Chamber."
+    },
+    {
+      "term": "conversion kit",
+      "definition": "Parts added to a bicycle to turn it into a faster, illegal electric bike that can exceed legal speed limits."
+    },
+    {
+      "term": "Motor Insurers' Bureau",
+      "definition": "The UK body that compensates victims of accidents caused by uninsured or untraced drivers."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Pushing for a debate on cancer research",
+      "takeaway": "MPs want a Chamber debate to press the Government to speed up clinical trials, protect research investment, and meet survival targets.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Our first application is from Scott Arthur for a Chamber debate on the future of cancer research in the UK; I declare my support for Cancer Research UK and chair the all‑party group on smoking and health."
+        },
+        {
+          "speaker": "Dr Arthur",
+          "text": "This debate should push the Government and spotlight both health and economic benefits of faster cancer research—trials are delayed and promising treatments reach patients slowly."
+        },
+        {
+          "speaker": "Dr Arthur",
+          "text": "A constituent, a clinician who won £70 million to research glioblastoma, says the work would have started a year earlier in the US because of UK delays—an example of the problem."
+        },
+        {
+          "speaker": "Dr Arthur",
+          "text": "Universities want about £500 million for science infrastructure; industry warned that intellectual property might end up overseas if doing the work abroad is more attractive."
+        },
+        {
+          "speaker": "Dr Arthur",
+          "text": "This is grassroots: MPs supporting the debate did so after constituents affected by cancer raised the issue, not because we pushed them to sign."
+        },
+        {
+          "speaker": "Clive Jones",
+          "text": "Cancer affects one in two of us and remains the leading cause of death; survival rates improved since the 1970s but progress is slowing and the UK could be doing more."
+        },
+        {
+          "speaker": "Clive Jones",
+          "text": "The Government's national cancer plan aims for three‑in‑four five‑year survival by 2035, but to reach it we must improve research and treatments—hence the debate."
+        },
+        {
+          "speaker": "Mary Glindon",
+          "text": "My late husband benefited from being on a trial; trials make a real difference to patients."
+        },
+        {
+          "speaker": "Chair",
+          "text": "November includes awareness months for some cancers, which could make timing useful, though scheduling in the Chamber is tight because of the Budget and a short recess."
+        }
+      ]
+    },
+    {
+      "title": "Illegal e-bikes, conversion kits and public safety",
+      "takeaway": "MPs want a national debate about illegal e-bikes and kits because of crime, speeding, fires, and damage to legitimate businesses.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Next is Dr Arthur's second application on the impact of illegal e-bikes and conversion kits on communities."
+        },
+        {
+          "speaker": "Dr Arthur",
+          "text": "This is a big local issue—police and constituents raise it constantly. Legal e-bikes are great, but illegal ones and conversion kits cause disruption and danger."
+        },
+        {
+          "speaker": "Dr Arthur",
+          "text": "The London Fire Brigade told me they see a battery fire every two days and even confiscated bikes catch fire in depots; emergency services are concerned by government inaction."
+        },
+        {
+          "speaker": "Ms Minns",
+          "text": "The issue affects all constituencies and the legal market. Only 9% of bikes sold in the UK are e-bikes, versus much higher rates in Germany and the Netherlands—illegal sales may be a factor."
+        },
+        {
+          "speaker": "Ms Minns",
+          "text": "Illegal kits undercut legitimate businesses and have hit low‑powered moped sales; why buy a licensed, insured moped when an illegal kit gives the same speed?"
+        },
+        {
+          "speaker": "Ms Minns",
+          "text": "If an e‑bike is illegal, it's treated as a motor vehicle—so the Motor Insurers' Bureau has seen a 73% increase in claims where people were injured by illegal e‑bikes."
+        },
+        {
+          "speaker": "Ms Minns",
+          "text": "China has banned the sale of these kits; much of the illegal stock comes from abroad. With the Tour de France coming to parts of the UK next year, it's timely to act."
+        },
+        {
+          "speaker": "Mr Dillon",
+          "text": "I had a lithium battery fire in my constituency that closed the Paddington line. Would you take a Westminster Hall debate sooner if Chamber time wasn't available?"
+        },
+        {
+          "speaker": "Ms Minns",
+          "text": "We prefer the Chamber because it's a national issue, but if Westminster Hall gets an earlier slot we'd be happy to take it to press the Government for action."
+        },
+        {
+          "speaker": "Chair",
+          "text": "A Westminster Hall debate is more likely to come sooner; Clerks will be in touch about scheduling."
+        }
+      ]
+    },
+    {
+      "title": "Commemorating the Jarrow Crusade",
+      "takeaway": "A debate to mark the 90th anniversary of the Jarrow March would reflect on unemployment, the dignity of work, and regional inequality.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "The final application is for a debate on the legacy of the Jarrow Crusade, 90 years since the 1936 march; Olivia Bailey is presenting for Kate Osborne."
+        },
+        {
+          "speaker": "Olivia Bailey",
+          "text": "Kate Osborne wants Parliament to mark the march when 200 men walked nearly 300 miles to protest unemployment and industrial decline, and to reflect on its national significance."
+        },
+        {
+          "speaker": "Olivia Bailey",
+          "text": "Its legacy ties to dignity of work, regional inequality, and how Parliament hears industrial communities—an anniversary that matters beyond Jarrow itself."
+        },
+        {
+          "speaker": "Martin Vickers",
+          "text": "The application names the Department for Business, Innovation, Science and Trade to respond; last time the Department for Work and Pensions did. Any reason for the change?"
+        },
+        {
+          "speaker": "Olivia Bailey",
+          "text": "I'm not sure; perhaps it's linked to recent workers' rights legislation and the Employment Rights Act 2025, which may make DBIST appropriate."
+        },
+        {
+          "speaker": "Chair",
+          "text": "We can offer 22 October as the debate date to match Kate's request; Olivia, can you confirm quickly if that's acceptable?"
+        },
+        {
+          "speaker": "Olivia Bailey",
+          "text": "I can provisionally accept and will check Kate's diary immediately; if she can't make it, I offered to lead the debate instead so it wouldn't slip until November."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. Clerks will contact you formally about timing and any follow‑up correspondence."
+        }
+      ]
+    },
+    {
+      "title": "Committee process and next steps",
+      "takeaway": "The Committee encouraged flexibility on timing, warned of limited Chamber slots, and said Clerks would confirm dates.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We have limited Chamber time because of the Budget and other business; we will try to find suitable Chamber slots but may offer Westminster Hall sooner."
+        },
+        {
+          "speaker": "Dr Arthur",
+          "text": "Timely debates would help hold the Government to account and push for concrete steps on trials, imports, and safety—constituents expect action."
+        },
+        {
+          "speaker": "Clive Jones",
+          "text": "Cross‑party support exists for the cancer debate and the e‑bike debate; I hope that shows broad parliamentary interest."
+        },
+        {
+          "speaker": "Chair",
+          "text": "That concludes public proceedings. The Committee will now consider the applications in private and allocate time accordingly."
+        }
+      ]
+    }
+  ]
+}

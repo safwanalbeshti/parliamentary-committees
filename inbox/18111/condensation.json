@@ -1,0 +1,336 @@
+{
+  "schema_version": 1,
+  "source_id": 18111,
+  "source_sha256": "4b87bb02fd6033e524bcca3d8510fc9501ac75eba6a63e973fff96c704d8831c",
+  "title": "Defence priorities, spending and reform: first hearing with the new Defence Secretary",
+  "label": "13 October 2026 · First Defence Committee hearing with the new Secretary of State",
+  "summary": "The new Defence Secretary, Wes Streeting, with Permanent Secretary Jeremy Pocklington and Air Marshal Tim Jones, set out priorities: deter and, if necessary, fight to win; strengthen capability, industry and alliances; and move from strategy to delivery. The Committee probed immediate reforms, procurement delays, the Defence Investment Plan (DIP) funding and timing toward 3% of GDP by 2030, buying British, the National Armaments Director reforms, hybrid Navy plans, personnel housing and culture in the armed forces, and support for Ukraine. The Secretary emphasised cautious optimism about future funding while resisting specific pre-Budget commitments and pledged better value-for-money focus, industry support and tougher action on misconduct.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Mr Tanmanjeet Singh Dhesi",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Wes Streeting",
+      "name": "Rt Hon Wes Streeting MP",
+      "role": "Secretary of State, Ministry of Defence",
+      "kind": "witness"
+    },
+    {
+      "label": "Jeremy Pocklington",
+      "name": "Jeremy Pocklington CB",
+      "role": "Permanent Secretary, Ministry of Defence",
+      "kind": "witness"
+    },
+    {
+      "label": "Air Marshal Tim Jones",
+      "name": "Air Marshal Tim Jones CBE",
+      "role": "Deputy Chief of the Defence Staff (Force Development), Ministry of Defence",
+      "kind": "witness"
+    },
+    {
+      "label": "Mike Martin",
+      "name": "Mike Martin",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Derek Twigg",
+      "name": "Derek Twigg",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Lincoln Jopp",
+      "name": "Lincoln Jopp",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Jesse Norman",
+      "name": "Jesse Norman",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Fred Thomas",
+      "name": "Fred Thomas",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Alex Baker",
+      "name": "Alex Baker",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Ian Roome",
+      "name": "Ian Roome",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Michelle Scrogham",
+      "name": "Michelle Scrogham",
+      "role": "Committee Member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "DIP",
+      "definition": "Defence Investment Plan: the MOD’s multi-year plan for spending and capability investments."
+    },
+    {
+      "term": "SDR",
+      "definition": "Strategic Defence Review: Government assessment of threats and high-level defence choices."
+    },
+    {
+      "term": "NAD",
+      "definition": "National Armaments Director/group: new MOD body to speed procurement and engage industry."
+    },
+    {
+      "term": "DNE",
+      "definition": "Defence Nuclear Enterprise: MOD organisation responsible for the UK's nuclear deterrent and its supporting industry."
+    },
+    {
+      "term": "UDCG",
+      "definition": "Ukraine Defence Contact Group: the international forum coordinating military support to Ukraine."
+    },
+    {
+      "term": "DSRB",
+      "definition": "Defence, Security and Resilience Bank: proposed UK-backed bank to finance defence industry growth."
+    },
+    {
+      "term": "MDM",
+      "definition": "Multilateral Defence Mechanism: allied grouping for joint defence procurement and finance discussions."
+    },
+    {
+      "term": "Type 45",
+      "definition": "Royal Navy anti-air warfare destroyer class due to start retiring in the mid-2030s."
+    },
+    {
+      "term": "Hybrid Navy",
+      "definition": "MOD concept combining crewed ships and more autonomous or uncrewed systems to cut costs and increase flexibility."
+    },
+    {
+      "term": "AFC Harrogate",
+      "definition": "Armed Forces' initial training centre for young recruits (Army Foundation College Harrogate)."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Threats, priorities and initial direction",
+      "takeaway": "The Secretary frames the priority as deterrence and being ready to fight and win, with focus on capability, industry and alliances.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We welcome the new Defence Secretary. You’ve been in post nearly three months—what are the main challenges you see?"
+        },
+        {
+          "speaker": "Wes Streeting",
+          "text": "The threat environment is the most dangerous since the cold war. My priorities are simple: deter, and if deterrence fails, fight and win—by strengthening capability, the defence industrial base and our alliances."
+        },
+        {
+          "speaker": "Wes Streeting",
+          "text": "I’ve inherited reform work and the strategic reviews. My job now is to shift from strategy into delivery while insisting on value for money and modern procurement."
+        },
+        {
+          "speaker": "Lincoln Jopp",
+          "text": "Do you see part of your role as driving a national conversation so the public understands trade-offs for higher defence spending?"
+        },
+        {
+          "speaker": "Wes Streeting",
+          "text": "Yes—explain the threat without alarm, show how defence investment also supports jobs and growth, and sustain public backing for necessary choices."
+        }
+      ]
+    },
+    {
+      "title": "Funding, the DIP and the 3% debate",
+      "takeaway": "The Secretary is confident more money will come but refuses to make pre-Budget spending commitments; members pressed for a firm route to 3% of GDP by 2030.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "You emphasised value for money. Any immediate cuts or savings you've made?"
+        },
+        {
+          "speaker": "Wes Streeting",
+          "text": "I’ve enforced spending discipline to bring this year’s finances on track, paused some activity to balance the books, and backed reforms such as the NAD. I’ll prioritise getting the best return on public money."
+        },
+        {
+          "speaker": "Derek Twigg",
+          "text": "Is the DIP funding insufficient, as John Healey said? Will you resign if the second part of the DIP isn’t fully funded?"
+        },
+        {
+          "speaker": "Wes Streeting",
+          "text": "I support the direction set by the DIP and feel confident the Chancellor and PM are committed to more funding. I won’t pre-empt the spending review; my role is to make the best case for resources."
+        },
+        {
+          "speaker": "Derek Twigg",
+          "text": "So there’s no present commitment to reach 3% by 2030—only confidence?"
+        },
+        {
+          "speaker": "Wes Streeting",
+          "text": "We have a clear upward trajectory—2.3% to 2.7% next year—and public commitments that more will come at the Budget and spending review. I’m confident but won’t set out firm control totals ahead of fiscal events."
+        },
+        {
+          "speaker": "Jeremy Pocklington",
+          "text": "To be clear, the settlement changed after John Healey; additional resource was given before the DIP finalised, including a £500m modernisation fund and more RDEL for readiness."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Members say the threat is urgent—do you accept waiting up to a year for the spending review is sufficient?"
+        },
+        {
+          "speaker": "Wes Streeting",
+          "text": "We can’t let planning cycles stop delivery. We have the resources for this year, the Budget will set next year, and we must deliver now while making the case for more."
+        }
+      ]
+    },
+    {
+      "title": "Procurement reform, industry and 'buying British'",
+      "takeaway": "MOD is trying to speed procurement through the NAD, balance buying British with value, and improve support for SMEs and exports.",
+      "turns": [
+        {
+          "speaker": "Mike Martin",
+          "text": "You said you want faster delivery. What will you change in procurement timescales?"
+        },
+        {
+          "speaker": "Wes Streeting",
+          "text": "The NAD is reducing timelines: major platforms from ~6 to under 5 years so far; sensors from 3 to 1 year; aim for off-the-shelf in months. We will push further but want realistic targets."
+        },
+        {
+          "speaker": "Jeremy Pocklington",
+          "text": "We’re segmenting procurement: treat low-cost kit differently from ships and planes, clarify accountabilities, and use problem statements from the services to drive industry innovation."
+        },
+        {
+          "speaker": "Fred Thomas",
+          "text": "What does 'buying British' mean practically? Are postal addresses enough?"
+        },
+        {
+          "speaker": "Wes Streeting",
+          "text": "Legally an address suffices but that's not our goal. We will measure impact—jobs, IP, ownership—and update social value rules so 'buy British' rewards real domestic benefits."
+        },
+        {
+          "speaker": "Alex Baker",
+          "text": "SMEs like Evolve Dynamics were asked to scale up then frozen after the DIP. That destroys companies. Will you look into cases like that?"
+        },
+        {
+          "speaker": "Wes Streeting",
+          "text": "Yes—I agree that switching programmes mid-build is a bad way to partner with SMEs. Please send details; we must be a better customer and support exports and scaling."
+        },
+        {
+          "speaker": "Jesse Norman",
+          "text": "Can we learn from rapid procurement models like Kindred and roll them out for munitions, drones and other fast-moving tech?"
+        },
+        {
+          "speaker": "Jeremy Pocklington",
+          "text": "UK Defence Innovation will have a ringfenced £400m budget to procure quickly at the edge of innovation, with experienced staff to replicate Kindred-style speed where appropriate."
+        },
+        {
+          "speaker": "Wes Streeting",
+          "text": "We’ll hold a defence investment summit on 1 December to create an investible order book and attract patient capital to scale promising firms."
+        }
+      ]
+    },
+    {
+      "title": "Programs, capability gaps and support to allies",
+      "takeaway": "The MOD is investing in a 'hybrid Navy', replacing Type 45s by the 2030s with a mix of crewed and uncrewed systems, and is accelerating support to Ukraine though short-term needs remain.",
+      "turns": [
+        {
+          "speaker": "Jesse Norman",
+          "text": "Timing for the Type 45 replacement?"
+        },
+        {
+          "speaker": "Air Marshal Tim Jones",
+          "text": "Type 45s start to leave service around 2035. We’re investing in a hybrid Navy concept to bring new capabilities in the 2030s rather than extending the Type 45s."
+        },
+        {
+          "speaker": "Jesse Norman",
+          "text": "How much is allocated to start that work?"
+        },
+        {
+          "speaker": "Air Marshal Tim Jones",
+          "text": "About £1.5bn in this Parliament to initiate hybrid Navy projects and stand up the project team; that’s a start not the whole programme budget."
+        },
+        {
+          "speaker": "Mike Martin",
+          "text": "Is that a risk—could capability dip before replacements arrive?"
+        },
+        {
+          "speaker": "Air Marshal Tim Jones",
+          "text": "We have time to deliver, and new uncrewed tech is arriving faster now; we’re already close to contract for an uncrewed surface vessel to be in the water next year."
+        },
+        {
+          "speaker": "Derek Twigg",
+          "text": "On Ukraine: can we provide more Patriot missiles or alternatives ahead of winter?"
+        },
+        {
+          "speaker": "Wes Streeting",
+          "text": "We pledged £100m to PURL to support Patriot and other air-defence deliveries and are working internationally to accelerate supplies and local production where possible. More is needed."
+        },
+        {
+          "speaker": "Derek Twigg",
+          "text": "So can we make a significant difference in the next months?"
+        },
+        {
+          "speaker": "Wes Streeting",
+          "text": "We can and will do more, but allies have fiscal and risk constraints. The Ukraine Defence Contact Group is a forcing mechanism to mobilise additional contributions before winter."
+        }
+      ]
+    },
+    {
+      "title": "Personnel, housing, culture and legal issues",
+      "takeaway": "The MOD accepts housing and cultural problems need fixing; ministers pledged more action, independent scrutiny and better support for veterans while balancing legal obligations.",
+      "turns": [
+        {
+          "speaker": "Ian Roome",
+          "text": "You confirmed the DIP rephased some defence housing spend—do personnel suffer?"
+        },
+        {
+          "speaker": "Wes Streeting",
+          "text": "The previous Secretary made that decision and housing spend is rephased; it will improve year-on-year. I’m uncomfortable with delays and want to accelerate refurbishments and return homes to public ownership."
+        },
+        {
+          "speaker": "Ian Roome",
+          "text": "Personnel are core capability—please prioritise housing."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Sexism and sexual violence reports at AFC Harrogate alarm the Committee. Is the Armed Forces Commissioner’s investigation enough or is independent public inquiry needed?"
+        },
+        {
+          "speaker": "Wes Streeting",
+          "text": "We’ve commissioned a whole-force safeguarding review with subject experts and I want external scrutiny. I’ll set out plans shortly; victims must be able to come forward and be supported."
+        },
+        {
+          "speaker": "Michelle Scrogham",
+          "text": "Do leaders bear responsibility for culture? We saw worrying signs at Harrogate."
+        },
+        {
+          "speaker": "Wes Streeting",
+          "text": "Culture is set from the top. We need consistent standards and will hold leaders to account—decorations do not excuse misconduct."
+        },
+        {
+          "speaker": "Lincoln Jopp",
+          "text": "On Northern Ireland Bill issues, will inquests like Loughgall automatically restart despite the Bill’s 'essential' test?"
+        },
+        {
+          "speaker": "Wes Streeting",
+          "text": "Treaty and legal obligations mean those inquests proceed. My priority was protections for veterans—limiting unnecessary repeat inquiries, allowing anonymity and handling evidence sensitively—while respecting obligations to victims."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you—final comments?"
+        },
+        {
+          "speaker": "Wes Streeting",
+          "text": "I appreciate the Committee’s scrutiny. I’ll keep pressing for delivery on the DIP, better procurement, industrial growth, improved personnel support and tougher action on misconduct. I look forward to continued engagement."
+        }
+      ]
+    }
+  ]
+}

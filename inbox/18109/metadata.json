@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18109,
+  "activity_id": 38867,
+  "document_id": 306963,
+  "meeting_date": "2026-10-13",
+  "meeting_date_display": "13 October 2026",
+  "publication_date": "2026-10-14T10:02:24",
+  "title": "Joint session with the German Foreign Affairs Committee",
+  "committee": "Foreign Affairs Committee",
+  "committees": [
+    {
+      "id": 78,
+      "name": "Foreign Affairs Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10000,
+      "title": "Joint session with the German Foreign Affairs Committee",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Jürgen Hardt",
+      "role": "Member of the Committee on Foreign Affairs",
+      "organisation": "German Bundestag"
+    },
+    {
+      "name": "Stephan Mayer",
+      "role": "Member of the Committee on Foreign Affairs",
+      "organisation": "German Bundestag"
+    },
+    {
+      "name": "Stefan Keuter",
+      "role": "Member of the Committee on Foreign Affairs",
+      "organisation": "German Bundestag"
+    },
+    {
+      "name": "Lea Reisner",
+      "role": "Member of the Committee on Foreign Affairs",
+      "organisation": "German Bundestag"
+    },
+    {
+      "name": "Armin Laschet",
+      "role": "Chair of the Committee on Foreign Affairs",
+      "organisation": "German Bundestag"
+    },
+    {
+      "name": "Adis Ahmetović",
+      "role": "Member of the Committee on Foreign Affairs",
+      "organisation": "German Bundestag"
+    },
+    {
+      "name": "Awet Tesfaiesus",
+      "role": "Member of the Committee on Foreign Affairs",
+      "organisation": "German Bundestag"
+    }
+  ],
+  "speaker_candidates": [
+    "German Foreign Affairs Committee Members present",
+    "Chair",
+    "Armin Laschet",
+    "Fleur Anderson",
+    "Awet Tesfaieses",
+    "Jürgen Hardt",
+    "I have now learned that we have a new procedure on that",
+    "Stephan Mayer",
+    "Stefan Keuter",
+    "Edward Morello",
+    "Adis Ahmetovic",
+    "I want to be clear",
+    "Dan Carden",
+    "Aphra Brandreth",
+    "Lea Reisner",
+    "There is no avoiding it",
+    "Alex Ballinger"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18109/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18109",
+  "source_sha256": "a9373feb9d35ece8e3569761466558c428b2ecebea8257bf7c407a3f322b8750",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

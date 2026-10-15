@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18111,
+  "activity_id": 38914,
+  "document_id": 307022,
+  "meeting_date": "2026-10-13",
+  "meeting_date_display": "13 October 2026",
+  "publication_date": "2026-10-14T12:27:31",
+  "title": "The work of the Secretary of State for Defence",
+  "committee": "Defence Committee",
+  "committees": [
+    {
+      "id": 24,
+      "name": "Defence Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9165,
+      "title": "The work of the Secretary of State for Defence",
+      "type": "Regular evidence sessions"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Permanent Secretary",
+      "organisation": "Ministry of Defence"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Deputy Chief of the Defence Staff (Force Development)",
+      "organisation": "Ministry of Defence"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Secretary of State",
+      "organisation": "Ministry of Defence"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Wes Streeting",
+    "Mike Martin",
+    "Derek Twigg",
+    "Jeremy Pocklington",
+    "Lincoln Jopp",
+    "Jesse Norman",
+    "Fred Thomas",
+    "Our starting point as the MOD is really good",
+    "We have a general problem across the economy",
+    "Alex Baker",
+    "Ian Roome",
+    "Air Marshal Tim Jones",
+    "Michelle Scrogham"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18111/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18111",
+  "source_sha256": "4b87bb02fd6033e524bcca3d8510fc9501ac75eba6a63e973fff96c704d8831c",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}
