@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "source_id": 18115,
+  "source_sha256": "d3c13df355c38f6a74c1223bb31dacf9584bf4d237eb696ae92b353f02669687",
+  "title": "Climate risk, offsets and accountability in the Heathrow expansion debate",
+  "label": "13 October 2026 · Heathrow expansion evidence",
+  "summary": "The Climate Change Committee’s aviation experts told the Transport Committee that the draft Heathrow Expansion National Policy Statement (HENPS) must be clearer about how the expansion would meet the UK’s legally binding net zero target. They urged that the HENPS test must cover 2050 and the full scope of expansion, that aviation should pay for the emissions it creates (via sustainable aviation fuels and engineered removals), and that non-CO2 warming effects must be assessed. They warned current policies are insufficient and called for a strengthened government Jet Zero strategy, contingency measures and ongoing checks before any Development Consent Order (DCO) is granted.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Ruth Cadbury",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Professor Forster",
+      "name": "Professor Piers Forster CBE",
+      "role": "Member, Climate Change Committee",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Richardson",
+      "name": "Dr James Richardson",
+      "role": "Chief Analyst, Climate Change Committee",
+      "kind": "witness"
+    },
+    {
+      "label": "Alex Mayer",
+      "name": "Alex Mayer",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Dr Arthur",
+      "name": "Dr Scott Arthur",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Jacob Collier",
+      "name": "Jacob Collier",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Chris Hinchliff",
+      "name": "Chris Hinchliff",
+      "role": "Environmental Audit Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Daniel Francis",
+      "name": "Daniel Francis",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "material impact",
+      "definition": "Whether a project would meaningfully change the UK's ability to meet legal climate targets."
+    },
+    {
+      "term": "net zero",
+      "definition": "A balance where remaining greenhouse gas emissions are removed so the total warming effect is zero."
+    },
+    {
+      "term": "carbon budget",
+      "definition": "A legally set limit on the total greenhouse gases the UK can emit over a five-year period."
+    },
+    {
+      "term": "DCO",
+      "definition": "Development Consent Order — the planning permission route for nationally significant infrastructure projects."
+    },
+    {
+      "term": "SAF",
+      "definition": "Sustainable aviation fuel — lower-carbon fuels for aircraft, including future 'power-to-liquid' types."
+    },
+    {
+      "term": "engineered removals",
+      "definition": "Deliberate removal of CO2 from the atmosphere, for example by carbon capture and storage."
+    },
+    {
+      "term": "non-CO2",
+      "definition": "Climate effects from aviation other than CO2, such as contrails and nitrogen-oxide impacts."
+    },
+    {
+      "term": "jet zero strategy",
+      "definition": "The Government's plan for how aviation will reach net zero by 2050."
+    },
+    {
+      "term": "contrails",
+      "definition": "Cloud trails formed by aircraft that can warm the atmosphere, contributing to non-CO2 climate effects."
+    },
+    {
+      "term": "north Atlantic corridor",
+      "definition": "The flight path between the UK and North America where contrails commonly form and matter most for warming."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What the climate test must cover",
+      "takeaway": "The test in the draft HENPS must be explicit: it should judge Heathrow expansion against carbon budgets, the 2050 net zero target, and the airport’s full eventual emissions.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "To start, please introduce yourselves and tell us how you would define “material impact” in the draft climate test."
+        },
+        {
+          "speaker": "Professor Forster",
+          "text": "I'm a Climate Change Committee member and one of its aviation champions; my work is on aviation's climate effects."
+        },
+        {
+          "speaker": "Dr Richardson",
+          "text": "I'm the Committee's chief analyst. On 'material impact', courts may ultimately interpret the phrase, but our view is clear."
+        },
+        {
+          "speaker": "Dr Richardson",
+          "text": "You must judge Heathrow’s effect on the UK’s carbon budgets and on the 2050 net zero target, and include the airport when it's fully expanded."
+        },
+        {
+          "speaker": "Dr Richardson",
+          "text": "You can't avoid responsibility just because the peak emissions happen after 2050; any additional emissions need an equivalent reduction elsewhere."
+        },
+        {
+          "speaker": "Alex Mayer",
+          "text": "Should 'material impact' be a quantitative threshold or a qualitative judgement?"
+        },
+        {
+          "speaker": "Dr Richardson",
+          "text": "It will partly be a judgement in the round. A single fixed number risks gaming the models; better to require a clear explanation of net zero compliance."
+        }
+      ]
+    },
+    {
+      "title": "Does the draft test work as written?",
+      "takeaway": "As drafted it fails to require alignment with 2050 net zero and the airport’s full emissions—without fixing that, the test is ineffective.",
+      "turns": [
+        {
+          "speaker": "Alex Mayer",
+          "text": "Your advice doesn't give a specific emissions ceiling that would make expansion unviable. Should there be a high-end threshold?"
+        },
+        {
+          "speaker": "Dr Richardson",
+          "text": "Since net zero is an absolute, any additional emissions must be countered—through SAF, removals or both—so the focus should be on how to get back to zero."
+        },
+        {
+          "speaker": "Alex Mayer",
+          "text": "Some witnesses say the current test can't fail anyone. Do you agree?"
+        },
+        {
+          "speaker": "Dr Richardson",
+          "text": "If you adopt our changes—include 2050, include full expansion—then the test could stop a project. As it stands, it effectively isn't a real test."
+        },
+        {
+          "speaker": "Alex Mayer",
+          "text": "If those changes aren't made, should the whole NPS be rejected?"
+        },
+        {
+          "speaker": "Dr Richardson",
+          "text": "A test that omits the net zero target is no test. Government policy needs to make the path to net zero explicit before a DCO is granted."
+        }
+      ]
+    },
+    {
+      "title": "Offsets, SAF and who pays",
+      "takeaway": "Aviation can't rely on other sectors to compensate; the industry must bear the cost of cuts and removals, but current SAF and removals are not yet in place.",
+      "turns": [
+        {
+          "speaker": "Dr Arthur",
+          "text": "You say we can't rely on carbon savings elsewhere in the economy to offset Heathrow's additional emissions. Why not?"
+        },
+        {
+          "speaker": "Professor Forster",
+          "text": "Other sectors will be mostly decarbonised by 2050, and many remaining emissions are methane from agriculture—not a substitute for CO2 reductions."
+        },
+        {
+          "speaker": "Dr Arthur",
+          "text": "So are you saying the trade is only between direct aviation cuts (like SAF) and engineered removals?"
+        },
+        {
+          "speaker": "Professor Forster",
+          "text": "Yes. Either aviation reduces its own CO2, or society scales up removals. Our advice is that aviation should pay for those removals."
+        },
+        {
+          "speaker": "Dr Arthur",
+          "text": "Can we be confident SAF and removals will be available and affordable by the time needed?"
+        },
+        {
+          "speaker": "Professor Forster",
+          "text": "Not yet. Current production of the next-generation SAF and of removals is essentially zero. Government policy and investment must start now to scale them up."
+        },
+        {
+          "speaker": "Jacob Collier",
+          "text": "How much extra removals would Heathrow expansion require?"
+        },
+        {
+          "speaker": "Professor Forster",
+          "text": "About 4.5 million tonnes a year extra for Heathrow's expansion; our net zero pathway assumes roughly 36 million tonnes of removals in total."
+        },
+        {
+          "speaker": "Chris Hinchliff",
+          "text": "You recommend the industry must abate 100% of its emissions before a DCO. What mechanism and timetable do you expect?"
+        },
+        {
+          "speaker": "Dr Richardson",
+          "text": "Key moment is the revised jet zero strategy due next year. Mechanisms could include emissions trading, a stronger SAF mandate, or a removals mandate—what matters is add-up to 100% by 2050."
+        },
+        {
+          "speaker": "Chris Hinchliff",
+          "text": "If aviation pays, won't flight costs rise so much that demand collapses and the expansion is pointless?"
+        },
+        {
+          "speaker": "Dr Richardson",
+          "text": "Pricing carbon will raise costs and reduce demand growth. Our modelling shows demand growth would be lower than the Government's forecasts—21% vs 64%—and a return flight could add about £150 by 2050, phased in."
+        },
+        {
+          "speaker": "Professor Forster",
+          "text": "Putting the cost on flyers is fairer: most people don't fly, and aviation should bear the cost of the pollution it creates."
+        }
+      ]
+    },
+    {
+      "title": "Who carries the risk and what extra safeguards are needed",
+      "takeaway": "Developers should bear the commercial risk of expansion; Government must set a credible Jet Zero pathway, include contingency measures, and require ongoing checking if consent is granted.",
+      "turns": [
+        {
+          "speaker": "Chris Hinchliff",
+          "text": "If Heathrow expands and aviation overshoots the trajectory, what contingency measures should exist?"
+        },
+        {
+          "speaker": "Dr Richardson",
+          "text": "Government needs a clear Jet Zero plan and policies that lock in the abatement route. Contingencies could be stronger regulation, mandates for removals, or tighter SAF obligations."
+        },
+        {
+          "speaker": "Daniel Francis",
+          "text": "Should Heathrow face ongoing climate performance checks if it gets consent?"
+        },
+        {
+          "speaker": "Professor Forster",
+          "text": "Yes. The Jet Zero strategy should set the government-wide pathway; delivery must be checked regularly and the DCO decision tied to that credible pathway."
+        },
+        {
+          "speaker": "Dr Richardson",
+          "text": "The risk of demand not materialising should sit with developers, not taxpayers. Developers need to know the policy pathway before investing."
+        }
+      ]
+    },
+    {
+      "title": "Non-CO2 effects and urgency",
+      "takeaway": "Non-CO2 warming (like contrails) can and should be included quantitatively; the Committee sees aviation as off-track and calls for stronger, sooner action.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We disagree with DFT about whether non-CO2 effects can be quantified. Can they?"
+        },
+        {
+          "speaker": "Professor Forster",
+          "text": "Yes. There's uncertainty, but enough evidence exists to quantify these effects rather than ignore them. They can change the overall climate impact estimate."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Do you have a practical approach?"
+        },
+        {
+          "speaker": "Professor Forster",
+          "text": "In our Seventh Carbon Budget work we proposed that non-CO2 warming should contribute no additional warming after 2050—one way to set a clear limit."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Should the decision be paused until Government and the Committee agree a method?"
+        },
+        {
+          "speaker": "Professor Forster",
+          "text": "More work is needed. But if Heathrow were approved it could run trials to reduce non-CO2 effects, for example on the north Atlantic corridor where contrails are important."
+        },
+        {
+          "speaker": "Chris Hinchliff",
+          "text": "Given recent climate signs and the WMO's updated timings, are we in an emergency and should stronger measures apply now?"
+        },
+        {
+          "speaker": "Professor Forster",
+          "text": "Aviation is not on track for the Sixth Carbon Budget. We need immediate additional policies and prepared contingencies; industry must start paying for carbon now."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Finally, is the climate test principally for the project promoter or for government policy?"
+        },
+        {
+          "speaker": "Dr Richardson",
+          "text": "Both, but mainly it's about government policy. The Government must set the aviation-wide pathway; promoters can then address the parts they control, like airside emissions and supporting SAF."
+        }
+      ]
+    }
+  ]
+}

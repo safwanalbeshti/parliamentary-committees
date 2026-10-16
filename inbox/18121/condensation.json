@@ -1,0 +1,272 @@
+{
+  "schema_version": 1,
+  "source_id": 18121,
+  "source_sha256": "3769641633e22cc1c77f96ac146fc8866a6184fda68aa992f972f2a59932a289",
+  "title": "Can the UK protect its food supply? DEFRA answers over SFI, cyber risk and local readiness",
+  "label": "15 October 2026 · Food supply resilience",
+  "summary": "DEFRA officials told the Public Accounts Committee that Britain’s food system is broadly resilient but faces growing chronic and catastrophic risks — especially climate, cyber and power outages. MPs pressed DEFRA over a chaotic Sustainable Farming Incentive (SFI) application window, farmer frustration, and weak local planning. DEFRA described work underway: a new cross‑sector “food readiness” group, improved plans and metrics, cyber work with the National Cyber Security Centre, and local resilience engagement — with timelines into 2027–28 and continued disagreements about past handling and money.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Sir Geoffrey Clifton-Brown",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Paul Kissack",
+      "name": "Paul Kissack",
+      "role": "Permanent Secretary, Department for Environment, Food and Rural Affairs",
+      "kind": "witness"
+    },
+    {
+      "label": "Emily Miles",
+      "name": "Emily Miles",
+      "role": "Director General for Food, Farming and Biosecurity, DEFRA",
+      "kind": "witness"
+    },
+    {
+      "label": "Helen Dallas",
+      "name": "Helen Dallas",
+      "role": "Interim Deputy Director, Food Preparedness and Response, DEFRA",
+      "kind": "witness"
+    },
+    {
+      "label": "Mr Betts",
+      "name": "Mr Clive Betts",
+      "role": "Member of Parliament, Public Accounts Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Rupert Lowe",
+      "name": "Rupert Lowe",
+      "role": "Member of Parliament, Public Accounts Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Rachel Gilmour",
+      "name": "Rachel Gilmour",
+      "role": "Member of Parliament, Public Accounts Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Sarah Hall",
+      "name": "Sarah Hall",
+      "role": "Member of Parliament, Public Accounts Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Anna Dixon",
+      "name": "Anna Dixon",
+      "role": "Member of Parliament, Public Accounts Committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "SFI",
+      "definition": "Sustainable Farming Incentive — a DEFRA scheme paying farmers to adopt environmentally beneficial farming actions."
+    },
+    {
+      "term": "ELMs",
+      "definition": "Environmental Land Management schemes — longer-term payments to farmers for environmental and resilience actions."
+    },
+    {
+      "term": "LRF",
+      "definition": "Local Resilience Forum — a local multi-agency body that coordinates planning and response to emergencies."
+    },
+    {
+      "term": "NAO",
+      "definition": "National Audit Office — independent body that reviews public spending and produced the report discussed."
+    },
+    {
+      "term": "CNI",
+      "definition": "Critical national infrastructure — essential systems and assets (like food, energy) whose failure would harm the public."
+    },
+    {
+      "term": "Civil Contingencies Act",
+      "definition": "UK law giving Government emergency powers in extreme crises when normal arrangements are insufficient."
+    },
+    {
+      "term": "RPA",
+      "definition": "Rural Payments Agency — the agency that administers DEFRA farm payments such as SFI."
+    },
+    {
+      "term": "PAS 96",
+      "definition": "Guidance called 'Food Defence' giving practical steps for businesses to protect against deliberate attacks."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Big picture: resilience, risks and government role",
+      "takeaway": "DEFRA says the UK food system is robust—mainly due to the private sector—but growing climate, cyber and catastrophic risks need better shared planning.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Today we’re examining how DEFRA organises to protect the food supply, how it prepares for big disruptions, and how it engages with industry and local responders."
+        },
+        {
+          "speaker": "Paul Kissack",
+          "text": "I’m Paul Kissack, DEFRA permanent secretary. I think the UK’s food system is one of the most resilient globally, largely because the private sector runs a sophisticated supply chain."
+        },
+        {
+          "speaker": "Paul Kissack",
+          "text": "That said, farmers face severe pressures—drought, input cost spikes and international shocks—and we must back domestic production while supporting environmental resilience."
+        },
+        {
+          "speaker": "Chair",
+          "text": "You had warning from 2023 and recent shocks like fertiliser price rises and a new fertiliser tax; MPs say DEFRA seems behind events. How will you be better prepared?"
+        },
+        {
+          "speaker": "Paul Kissack",
+          "text": "We accept the NAO’s analysis. We’re building a programme of work: publishing metrics for the 10 'Good Food Cycle' outcomes soon and using existing reports like the statutory Food Security Report."
+        },
+        {
+          "speaker": "Mr Betts",
+          "text": "Is DEFRA engaging enough with businesses after the intense covid-era co‑ordination, which has since waned?"
+        },
+        {
+          "speaker": "Paul Kissack",
+          "text": "We had a large covid forum. It is stand-by now. We’ve set up a new cross-sector 'food readiness group' to bring retailers, logistics, the cold chain, LRFs and charities together to build shared plans."
+        },
+        {
+          "speaker": "Paul Kissack",
+          "text": "We’re focused on household preparedness, getting food to the vulnerable, and recovery after events such as a national power outage."
+        },
+        {
+          "speaker": "Rachel Gilmour",
+          "text": "Do you have tangible targets and metrics yet?"
+        },
+        {
+          "speaker": "Paul Kissack",
+          "text": "We track many indicators and will publish metrics for the 'Good Food Cycle' outcomes early next year; there is no single perfect metric for resilience."
+        }
+      ]
+    },
+    {
+      "title": "SFI chaos and farming concerns",
+      "takeaway": "MPs strongly criticised SFI’s short application window and poor administration; DEFRA defended some choices but acknowledged anger and will learn lessons for SFI27.",
+      "turns": [
+        {
+          "speaker": "Rupert Lowe",
+          "text": "Many farmers missed out when you opened and shut an SFI application window in less than a day. That’s not good management for a long‑term industry."
+        },
+        {
+          "speaker": "Paul Kissack",
+          "text": "I recognise the anger. Demand for SFI surged; we faced far more applications than budget. We increased the pot by about 40% in the run‑up, capped payments to spread funds, and ran an initial small‑farmer window."
+        },
+        {
+          "speaker": "Rupert Lowe",
+          "text": "When is the next SFI window and what about the farmers who must decide whether to plough up environmental work?"
+        },
+        {
+          "speaker": "Paul Kissack",
+          "text": "The next round is SFI27, due next year. Meanwhile 20,000 farmers secured three‑year contracts from SFI26—nearly £1 billion over three years—but we know that SFI26 window 2 caused huge frustration."
+        },
+        {
+          "speaker": "Rupert Lowe",
+          "text": "You underspent budgets in prior years. Farmers feel you have weakened their prospects; when will DEFRA accept responsibility?"
+        },
+        {
+          "speaker": "Paul Kissack",
+          "text": "I’m accountable for administration, not tax policy. We must manage the budget Parliament gives us; Ministers decide resource allocation. I’ll write to the Committee on underspend figures."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Many farmers are despairing and unsure if the next generation will farm. DEFRA must recognise that and reassure people."
+        },
+        {
+          "speaker": "Paul Kissack",
+          "text": "We are hearing that message at every visit to farms. We’re investing in productivity and environmental measures to support longer‑term profitable farming."
+        }
+      ]
+    },
+    {
+      "title": "Planning, local readiness and exercises",
+      "takeaway": "DEFRA admits gaps in shared operational plans with industry and in local preparedness; it plans a codified national plan, external assurance, and stronger LRF engagement by 2027.",
+      "turns": [
+        {
+          "speaker": "Mr Betts",
+          "text": "The NAO said businesses weren’t involved in testing plans. Will your plan include industry in exercises?"
+        },
+        {
+          "speaker": "Helen Dallas",
+          "text": "Yes. We’ve done seven exercises in recent years, including cyber exercises that invited retailers. We’ll run desk‑based and practical exercises with industry and LRFs and use external assurance to test plans."
+        },
+        {
+          "speaker": "Sarah Hall",
+          "text": "LRFs vary in capacity and historically haven’t planned for food; what practical steps are you taking with MHCLG to strengthen local capability?"
+        },
+        {
+          "speaker": "Helen Dallas",
+          "text": "We’re setting up a specific forum with MHCLG and will provide clearer guidance on roles. We recognise capacity limits and will harness community networks and charities as well as LRFs."
+        },
+        {
+          "speaker": "Anna Dixon",
+          "text": "How will you identify vulnerable people quickly in a crisis? Can you use DWP/NHS data rather than reinventing lists?"
+        },
+        {
+          "speaker": "Paul Kissack",
+          "text": "Vulnerability changes by scenario. We’ll map who’s at risk for each type of event and will use DWP, DHSC and charities where possible; we’ll add data sharing and clarity to the programme."
+        },
+        {
+          "speaker": "Rachel Gilmour",
+          "text": "When will the national plan be published?"
+        },
+        {
+          "speaker": "Paul Kissack",
+          "text": "We aim to publish a plan by the end of next year, though some aspects may take longer; asset mapping into the Cabinet Office critical‑asset database is planned through to March 2028."
+        },
+        {
+          "speaker": "Helen Dallas",
+          "text": "We will also get independent external assurance of the plan and continue constant review through exercises and real incidents."
+        }
+      ]
+    },
+    {
+      "title": "Cyber, assets, stockpiles and next steps",
+      "takeaway": "DEFRA is prioritising cyber-security, identifying critical food assets for the national database, and has considered but not adopted national food stockpiles because of value‑for‑money judgments.",
+      "turns": [
+        {
+          "speaker": "Rachel Gilmour",
+          "text": "France saw fridges hacked. How prepared is DEFRA for cyber threats to the food chain?"
+        },
+        {
+          "speaker": "Paul Kissack",
+          "text": "Cyber is a top risk. Food is highly connected and very dispersed, so protecting tens of thousands of firms is hard. We’ve remediated over 200 of roughly 300 vulnerable legacy applications and work with the NCSC."
+        },
+        {
+          "speaker": "Helen Dallas",
+          "text": "We used the NCSC’s cyber assessment framework with retailers, promoted PAS 96 guidance for SMEs, and maintain close ties with the Centre to step up during incidents."
+        },
+        {
+          "speaker": "Mr Betts",
+          "text": "Do you plan national food stockpiles?"
+        },
+        {
+          "speaker": "Paul Kissack",
+          "text": "We considered stockpiles. There’s no in‑principle objection, but Ministers judge value for money. For now, the private sector’s flexibility and market substitutes generally give better resilience for the UK’s circumstances."
+        },
+        {
+          "speaker": "Chair",
+          "text": "You can use the Civil Contingencies Act as a backstop in extreme circumstances?"
+        },
+        {
+          "speaker": "Paul Kissack",
+          "text": "Yes; in a truly catastrophic event that Act provides the legislative framework, but we want clearer, proportional plans before resorting to that."
+        },
+        {
+          "speaker": "Rachel Gilmour",
+          "text": "What are the next public commitments we can hold you to?"
+        },
+        {
+          "speaker": "Paul Kissack",
+          "text": "Publish metrics for the 'Good Food Cycle' early next year; develop and publish the food resilience plan aim­ing for end‑2027; finish critical‑asset mapping by March 2028; continue cyber and local readiness work."
+        },
+        {
+          "speaker": "Chair",
+          "text": "We’ll return to check progress. DEFRA must hear farmers’ despair and reassure them about profitability and future farming."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18114,
+  "activity_id": 38858,
+  "document_id": 307170,
+  "meeting_date": "2026-10-13",
+  "meeting_date_display": "13 October 2026",
+  "publication_date": "2026-10-15T10:58:58",
+  "title": "Scrutiny of the draft Heathrow Expansion National Policy Statement",
+  "committee": "Transport Committee",
+  "committees": [
+    {
+      "id": 153,
+      "name": "Transport Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9865,
+      "title": "Scrutiny of the draft Heathrow Expansion National Policy Statement",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Chairman",
+      "organisation": "Longford Residents Association"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Member",
+      "organisation": "Molesey Residents Association"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Member",
+      "organisation": "Putney Society"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Executive Director",
+      "organisation": "Back Heathrow"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Member",
+      "organisation": "Colne Valley Regional Park Trust"
+    }
+  ],
+  "speaker_candidates": [
+    "Environmental Audit Committee member present",
+    "Chair",
+    "Parmjit Dhanda",
+    "Mike Fawcett",
+    "Christian Hughes",
+    "Deborah Petty",
+    "Stewart Pomeroy",
+    "Daniel Francis",
+    "Steff Aquarone",
+    "Jacob Collier",
+    "Chris Hinchliff",
+    "Alex Mayer"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18114/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18114",
+  "source_sha256": "0121c0d0f4327c4e9f679685b3d640b9fc390a6d6531ac02bca43bb4a67921eb",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

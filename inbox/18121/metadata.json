@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18121,
+  "activity_id": 38883,
+  "document_id": 307222,
+  "meeting_date": "2026-10-15",
+  "meeting_date_display": "15 October 2026",
+  "publication_date": "2026-10-15T14:36:02",
+  "title": "Resilience of the UK's food supply to disruptions",
+  "committee": "Public Accounts Committee",
+  "committees": [
+    {
+      "id": 127,
+      "name": "Public Accounts Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9904,
+      "title": "Resilience of the UK's food supply to disruptions",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Permanent Secretary",
+      "organisation": "Department for Environment, Food and Rural Affairs"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director General for Food, Farming and Biosecurity",
+      "organisation": "Department for Environment, Food and Rural Affairs"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Interim Deputy Director, Food Preparedness and Response",
+      "organisation": "Department for Environment, Food and Rural Affairs"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Paul Kissack",
+    "Emily Miles",
+    "Helen Dallas",
+    "Rachel Gilmour",
+    "Rupert Lowe",
+    "Mr Betts",
+    "Sarah Hall",
+    "Anna Dixon"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18121/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18121",
+  "source_sha256": "3769641633e22cc1c77f96ac146fc8866a6184fda68aa992f972f2a59932a289",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

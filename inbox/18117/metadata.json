@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18117,
+  "activity_id": 38950,
+  "document_id": 307185,
+  "meeting_date": "2026-10-14",
+  "meeting_date_display": "14 October 2026",
+  "publication_date": "2026-10-15T11:48:43",
+  "title": "Scrutiny of the draft Heathrow Expansion National Policy Statement",
+  "committee": "Transport Committee",
+  "committees": [
+    {
+      "id": 153,
+      "name": "Transport Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9865,
+      "title": "Scrutiny of the draft Heathrow Expansion National Policy Statement",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Chief Executive",
+      "organisation": "Heathrow Airport Limited"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chief Development Officer",
+      "organisation": "Heathrow Airport Limited"
+    }
+  ],
+  "speaker_candidates": [
+    "Transport Committee members present",
+    "Environmental Audit Committee member present",
+    "II",
+    "Chair",
+    "Thomas Woldbye",
+    "Helen Elsby",
+    "Dr Arthur",
+    "Alex Mayer",
+    "Steff Aquarone",
+    "Daniel Francis"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18117/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18117",
+  "source_sha256": "972693cf7aab6c2c51e01661a6937f210e7a3deb6fa22a7b9e00c4beab608a18",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

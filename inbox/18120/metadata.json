@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18120,
+  "activity_id": 38670,
+  "document_id": 307219,
+  "meeting_date": "2026-10-13",
+  "meeting_date_display": "13 October 2026",
+  "publication_date": "2026-10-15T14:32:07",
+  "title": "Tourism",
+  "committee": "Digital, Culture, Media and Sport Committee",
+  "committees": [
+    {
+      "id": 378,
+      "name": "Digital, Culture, Media and Sport Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9732,
+      "title": "Tourism",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Alex Polizzi",
+      "role": "",
+      "organisation": ""
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chief Executive",
+      "organisation": "Chester Zoo"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Chris Haslam",
+    "Vicky Philpott",
+    "Mr Bayo Alaba",
+    "Jeff Smith",
+    "Dr Rupa Huq",
+    "Nigel Huddleston",
+    "Jamie Christon",
+    "Alex Polizzi"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18120/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18120",
+  "source_sha256": "2a3f1dc582b69aca69e62c9d0b518d74794a2d5807705753a3f16902390c9518",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18113,
+  "activity_id": 38926,
+  "document_id": 307155,
+  "meeting_date": "2026-10-12",
+  "meeting_date_display": "12 October 2026",
+  "publication_date": "2026-10-15T10:15:02",
+  "title": "United Nations Industrial Development Organization",
+  "committee": "International Agreements Committee",
+  "committees": [
+    {
+      "id": 448,
+      "name": "International Agreements Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9992,
+      "title": "United Nations Industrial Development Organization",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Andrew Mitchell",
+      "role": "Former Secretary of State for International Development",
+      "organisation": "Department for International Development"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Sir Andrew Mitchell",
+    "Baroness Anelay of St Johns",
+    "Baroness Lawlor",
+    "Lord Hannay of Chiswick",
+    "Lord Stevenson of Balmacara"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18113/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18113",
+  "source_sha256": "b944cf98adde25a46b516108e448326a2c725acd5b70019c27d1367e6cd93717",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

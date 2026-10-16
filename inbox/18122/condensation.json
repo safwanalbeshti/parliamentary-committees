@@ -1,0 +1,274 @@
+{
+  "schema_version": 1,
+  "source_id": 18122,
+  "source_sha256": "62438fb05441b0e90ce7d4d168ba7dda2a552260df2c08a9d77f9a1cb94e173e",
+  "title": "Is cutting VAT the answer for Northern Ireland tourism?",
+  "label": "14 October 2026 · Taxation of hospitality & tourism",
+  "summary": "The Committee heard from Dr Joanne Stuart (Northern Ireland Tourism Alliance) and Aidan Lyons (Grant Thornton) about pressures on NI hospitality and tourism. Visitor numbers are growing but spend and nights are not; businesses face a mix of higher operating costs—wages, employer NIC, energy and business rates—while VAT in NI is higher than in the Republic. Witnesses agreed VAT is an important contributory factor but not the only problem, and that any VAT cut would need to be long-term, simple to administer and evaluated carefully alongside measures on APD, ETA and business support.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Tonia Antoniazzi",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Simon Hoare",
+      "name": "Simon Hoare",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Adam Jogee",
+      "name": "Adam Jogee",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Mr Kohler",
+      "name": "Mr Paul Kohler",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Katrina Murray",
+      "name": "Katrina Murray",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Mike Kane",
+      "name": "Mike Kane",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Gavin Robinson",
+      "name": "Gavin Robinson",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Dr Joanne Stuart",
+      "name": "Dr Joanne Stuart",
+      "role": "Chief Executive Officer, Northern Ireland Tourism Alliance",
+      "kind": "witness"
+    },
+    {
+      "label": "Aidan Lyons",
+      "name": "Aidan Lyons",
+      "role": "Director, Indirect Tax, Grant Thornton Northern Ireland",
+      "kind": "witness"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "VAT",
+      "definition": "Value Added Tax: a sales tax added to goods and services that the consumer pays."
+    },
+    {
+      "term": "NIC",
+      "definition": "National Insurance Contributions employers pay as part of staff costs."
+    },
+    {
+      "term": "ETA",
+      "definition": "Electronic Travel Authorisation, a visa-lite system charging around £20 per visitor for entry clearance."
+    },
+    {
+      "term": "APD",
+      "definition": "Air Passenger Duty charged on flights from UK airports; it raises ticket costs."
+    },
+    {
+      "term": "Business rates",
+      "definition": "Local property tax on business premises paid by firms, set by devolved authorities."
+    },
+    {
+      "term": "Tourism NI",
+      "definition": "Tourism Northern Ireland, the public agency responsible for tourism promotion in Northern Ireland."
+    },
+    {
+      "term": "ITOA",
+      "definition": "Inbound Tourism Operators Association of Ireland, which organises tour itineraries to the island."
+    },
+    {
+      "term": "ALVA",
+      "definition": "Association of Leading Visitor Attractions, a UK body representing major attractions."
+    },
+    {
+      "term": "NISRA",
+      "definition": "Northern Ireland Statistics and Research Agency, which provides official statistics."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Current health of the sector",
+      "takeaway": "Visits are rising but visitor spend and nights are not growing enough; businesses face tight profits and high costs.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "How would you assess the financial health of the hospitality sector in Northern Ireland?"
+        },
+        {
+          "speaker": "Dr Joanne Stuart",
+          "text": "Visits are growing—Tourism NI's 2025 figures show more trips—but spend and length of stay haven’t increased proportionately. Many firms, especially small and medium ones, are doing about the same as last year or a bit better, but margins are squeezed."
+        },
+        {
+          "speaker": "Dr Joanne Stuart",
+          "text": "Major pressures are higher wages, employer NIC increases, food inflation, business rates and energy—these reduced cash reserves after covid and limited businesses' capacity to invest or price competitively."
+        },
+        {
+          "speaker": "Aidan Lyons",
+          "text": "From a VAT perspective, the UK standard rate is 20%. That extra tax on the consumer can affect price. But VAT is only one element alongside utilities, wages and other costs."
+        }
+      ]
+    },
+    {
+      "title": "How Northern Ireland compares with the Republic",
+      "takeaway": "VAT and some operating costs are lower in the Republic, which can make the island of Ireland competitive against Northern Ireland overall.",
+      "turns": [
+        {
+          "speaker": "Adam Jogee",
+          "text": "Can you summarise the cost differences between NI and the Republic of Ireland?"
+        },
+        {
+          "speaker": "Dr Joanne Stuart",
+          "text": "VAT is higher here; Ireland has reduced rates—13.5% and 9% for hospitality. Employer costs including NIC and pensions cost roughly £1,800 more per employee in NI versus the Republic in earlier comparisons."
+        },
+        {
+          "speaker": "Dr Joanne Stuart",
+          "text": "Business energy prices in NI were about 9–14% higher in some bands, and domestic travel taxes like APD and the new ETA add costs to trips to Northern Ireland that don't apply if visitors stay only in the Republic."
+        },
+        {
+          "speaker": "Aidan Lyons",
+          "text": "Ireland’s standard VAT rate is 23% but it has lower tourism/hospitality rates. Those lower rates are a deliberate strategy to support the sector and attract tourists."
+        },
+        {
+          "speaker": "Mr Kohler",
+          "text": "Are consumers actually paying more for things—say a pint or hotel—in the south than the north? If not, does the VAT argument hold up?"
+        },
+        {
+          "speaker": "Dr Joanne Stuart",
+          "text": "Tourists and operators look at the whole-trip cost, not just a pint. When you add VAT, ETA, APD and transport, the total trip to NI can be more expensive than a comparable trip in the Republic; that’s the sector’s concern."
+        }
+      ]
+    },
+    {
+      "title": "Lessons from temporary VAT cuts",
+      "takeaway": "Short-term VAT pilots create admin costs and are hard to evaluate; long-term, simple, well-designed changes are preferable.",
+      "turns": [
+        {
+          "speaker": "Simon Hoare",
+          "text": "What was the industry experience of the Great British summer savings scheme—the short-term VAT cut?"
+        },
+        {
+          "speaker": "Dr Joanne Stuart",
+          "text": "Implementation was rushed. Businesses spent time and money re-pricing, managing refunds and IT changes. ALVA’s UK survey found firms passed savings to customers but saw little extra business beyond normal summer demand."
+        },
+        {
+          "speaker": "Aidan Lyons",
+          "text": "From a VAT systems angle, short pilots force two system changes: at the start and at the end. Larger firms cope better; small firms struggle. Any change needs clear guidance and a lead-in period."
+        },
+        {
+          "speaker": "Simon Hoare",
+          "text": "Would a permanent or long-term VAT reduction be more effective than a short summer scheme?"
+        },
+        {
+          "speaker": "Dr Joanne Stuart",
+          "text": "Yes. You need sustained change—three to five years—to see effects on investment, jobs and prices. Businesses need certainty to plan."
+        },
+        {
+          "speaker": "Aidan Lyons",
+          "text": "Economically measurable impacts are much clearer over longer periods. A brief sample period is rarely enough to tell if policy is working."
+        }
+      ]
+    },
+    {
+      "title": "Who benefits and what would savings buy?",
+      "takeaway": "A VAT cut would help VAT-registered firms and could be used partly to reduce customer prices and partly to stabilise margins, invest and hire—but usage will vary by business.",
+      "turns": [
+        {
+          "speaker": "Mike Kane",
+          "text": "Roughly how many hospitality businesses in NI would benefit from a VAT cut?"
+        },
+        {
+          "speaker": "Dr Joanne Stuart",
+          "text": "About 6,000 tourism and hospitality businesses in NI are VAT-registered; there are perhaps 7,500–8,000 businesses in the wider sector. Those 6,000 would see direct VAT effects."
+        },
+        {
+          "speaker": "Mike Kane",
+          "text": "What about the VAT registration threshold?"
+        },
+        {
+          "speaker": "Aidan Lyons",
+          "text": "The UK threshold is £90,000 a year; Ireland’s is lower. Being VAT-registered means charging VAT on sales but reclaiming VAT on costs—so registration matters for margins."
+        },
+        {
+          "speaker": "Gavin Robinson",
+          "text": "If VAT is cut, would the money go to customers or businesses?"
+        },
+        {
+          "speaker": "Dr Joanne Stuart",
+          "text": "Businesses say they'd use a blend: some savings passed to customers as lower prices, some retained to shore up margins, invest, raise wages or hire—what happens will vary by business."
+        },
+        {
+          "speaker": "Aidan Lyons",
+          "text": "Empirically, pass-through varies by country, sector and the size of the cut. Clear government objectives matter: do you want consumer relief, business resilience, or both?"
+        },
+        {
+          "speaker": "Gavin Robinson",
+          "text": "Should a cut be blanket or targeted?"
+        },
+        {
+          "speaker": "Aidan Lyons",
+          "text": "Targeting increases complexity. Any carve-outs—say, excluding chains—would be hard to design and enforce; simpler, clearer scopes work better for VAT."
+        }
+      ]
+    },
+    {
+      "title": "Other barriers: ETA, APD and the final verdict",
+      "takeaway": "ETA and APD add costs and friction; VAT helps but is not a silver bullet—policy should be joined up and evaluated over time.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Has ETA or APD caused lost business or itinerary changes?"
+        },
+        {
+          "speaker": "Dr Joanne Stuart",
+          "text": "Yes. ITOA and members report tour operators dropping or shortening NI stops because ETA adds £20 per person and extra admin—especially harmful for short visits or older tour groups."
+        },
+        {
+          "speaker": "Gavin Robinson",
+          "text": "Can the Home Office exempt group operators from ETA?"
+        },
+        {
+          "speaker": "Dr Joanne Stuart",
+          "text": "The Home Office wants economic evidence. It’s hard to quantify lost trips—people often don't start the trip at all—but operators give concrete examples of itinerary changes."
+        },
+        {
+          "speaker": "Mike Kane",
+          "text": "Could APD waivers for new routes help places like Derry/Londonderry?"
+        },
+        {
+          "speaker": "Dr Joanne Stuart",
+          "text": "Yes—APD holidays for new routes would lower ticket costs and encourage airline service development."
+        },
+        {
+          "speaker": "Chair",
+          "text": "So is VAT the problem?"
+        },
+        {
+          "speaker": "Dr Joanne Stuart",
+          "text": "Not the only problem, but a significant one. It's part of a package—VAT, ETA, APD, business rates and higher operating costs together matter."
+        },
+        {
+          "speaker": "Aidan Lyons",
+          "text": "Concur: VAT is a contributory factor. A well-designed, long-term VAT change could help, but it must be simple, have a proper lead-in and be evaluated alongside other measures."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you—those are the practical points the Committee will take forward."
+        }
+      ]
+    }
+  ]
+}

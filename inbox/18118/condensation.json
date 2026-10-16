@@ -1,0 +1,306 @@
+{
+  "schema_version": 1,
+  "source_id": 18118,
+  "source_sha256": "c7c6100ba5b8e1de0c705fee243978ba2490b8c95cd498edad04d196f7235665",
+  "title": "FCA before the Treasury Committee: whistleblowing, AI, market integrity and regulatory strain",
+  "label": "13 October 2026 · FCA scrutiny",
+  "summary": "The Financial Conduct Authority (FCA) updated the Treasury Committee on several topics: an internal board-led review of the FCA’s handling of a whistleblower death, how the regulator is adopting AI and testing suppliers, rising market-integrity risks, efforts to reduce firms’ reporting burdens, consumer protection in insurance and advice, and operational concerns about recent legislative changes (notably the Financial Ombudsman Service referral clause). The FCA defended its use of internal review, described measured steps on AI and supplier procurement, warned of resource pressure from new legal duties, and asked for clearer, faster cross‑government support on complex tech and enforcement issues.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Dame Meg Hillier",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Nikhil Rathi",
+      "name": "Nikhil Rathi",
+      "role": "Chief Executive Officer, Financial Conduct Authority",
+      "kind": "witness"
+    },
+    {
+      "label": "Jessica Rusu",
+      "name": "Jessica Rusu",
+      "role": "Chief Data, Information & Intelligence Officer, Financial Conduct Authority",
+      "kind": "witness"
+    },
+    {
+      "label": "Johan Sekora",
+      "name": "Johan Sekora",
+      "role": "Chief Operating Officer, Financial Conduct Authority",
+      "kind": "witness"
+    },
+    {
+      "label": "John Glen",
+      "name": "John Glen",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Dame Harriett Baldwin",
+      "name": "Dame Harriett Baldwin",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Bobby Dean",
+      "name": "Bobby Dean",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Jim Dickson",
+      "name": "Jim Dickson",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Ms Minns",
+      "name": "Ms Julie Minns",
+      "role": "Committee Member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "whistleblowing",
+      "definition": "When someone inside an organisation reports wrongdoing to the regulator or other authorities."
+    },
+    {
+      "term": "agentic AI",
+      "definition": "AI systems that can act or make decisions on behalf of users, not just give answers."
+    },
+    {
+      "term": "supercharged sandbox",
+      "definition": "A secure test environment the FCA runs so firms can trial AI products with safeguards."
+    },
+    {
+      "term": "critical third parties regime",
+      "definition": "Rules designating major tech/cloud firms (eg AWS, Google Cloud) whose failures could threaten finance."
+    },
+    {
+      "term": "consumer duty",
+      "definition": "An FCA rule requiring firms to deliver good outcomes for consumers, including vulnerable people."
+    },
+    {
+      "term": "regulatory referencing",
+      "definition": "Information employers must give about an employee’s fitness and conduct when they move jobs."
+    },
+    {
+      "term": "Financial Ombudsman Service (FOS)",
+      "definition": "The independent service that settles disputes between consumers and financial firms."
+    },
+    {
+      "term": "regulatory perimeter",
+      "definition": "The legal line that defines which activities fall under FCA rules."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Whistleblowing review and board oversight",
+      "takeaway": "The FCA appointed a new non-executive director to review how it dealt with a whistleblower’s case; the board-led review will be public but may have redactions for sensitive material.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "You appointed Lea Paterson, a newly joined non-exec, to review your handling of whistleblower Simon Andriesz after his death—why choose an internal board member rather than an outside reviewer?"
+        },
+        {
+          "speaker": "Nikhil Rathi",
+          "text": "This is a very sad case. The board is independent of the executive and asked for the review. Lea joined on 1 October, has relevant experience and will examine how we communicated with Mr Andriesz. The board can access outside help if needed."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Will staff have to give full, truthful evidence? Will the review be published and can the Committee see an unredacted version?"
+        },
+        {
+          "speaker": "Nikhil Rathi",
+          "text": "Yes, staff must cooperate. The board intends to publish the findings—aiming for early 2027—but some redactions are likely because whistleblowing often involves very sensitive personal information. The board will decide publication details and may recommend further independent work."
+        },
+        {
+          "speaker": "Chair",
+          "text": "You handle about 1,300 whistleblowing reports a year—how many lead to action?"
+        },
+        {
+          "speaker": "Nikhil Rathi",
+          "text": "Roughly 40% prompt supervisory action and about 50% inform wider work. But some allegations simply fall outside our remit or lack the evidence needed for regulatory or criminal action."
+        }
+      ]
+    },
+    {
+      "title": "AI, suppliers and the Palantir proof of concept",
+      "takeaway": "The FCA is building in-house AI capability, ran a Palantir proof of concept without giving the firm a permanent procurement lock-in, and emphasises data control and security while warning that full assurance on agentic AI is not yet available.",
+      "turns": [
+        {
+          "speaker": "John Glen",
+          "text": "You excluded Palantir earlier. What did the proof of concept show about Palantir, vendor lock-in and your ability to keep operational control and IP?"
+        },
+        {
+          "speaker": "Nikhil Rathi",
+          "text": "We’re investing heavily in data and tech to tackle serious market-integrity and financial‑crime risks. Joining data, internally and cross‑border, is essential—so we tested options. Jessica will give the specifics."
+        },
+        {
+          "speaker": "Jessica Rusu",
+          "text": "The proof of concept is finished. Throughout, the FCA remained the data controller and kept encryption keys. If we proceed to buy an intelligence platform we’ll run an open procurement; Palantir has no guaranteed lock‑in."
+        },
+        {
+          "speaker": "Bobby Dean",
+          "text": "Agentic AI changes behavior over time. How do you avoid losing control when models update and act differently from expectations?"
+        },
+        {
+          "speaker": "Jessica Rusu",
+          "text": "That’s a live area. Industry is developing KYA—'know your agent'—continuous assurance harnesses, consent controls and revocation mechanisms. Our AI lab is testing agentic payment and compliance use cases under guardrails."
+        },
+        {
+          "speaker": "Bobby Dean",
+          "text": "Are you confident you can ‘know’ those agents, given examples of models evading sandboxes?"
+        },
+        {
+          "speaker": "Nikhil Rathi",
+          "text": "Not yet. We lack full assurance, especially about interacting swarms of agents. That’s why global standards and the AI Safety Institute matter—risks are cross‑border and move quickly."
+        },
+        {
+          "speaker": "Bobby Dean",
+          "text": "Tell us about your supercharged sandbox and AI live testing—are results coming fast enough?"
+        },
+        {
+          "speaker": "Jessica Rusu",
+          "text": "We’ve had a 50% rise in sandbox applications, ran two cohorts, and do on-site AI live testing. These are real engineering exercises; proper testing takes months. We’ll publish our lessons learned shortly."
+        }
+      ]
+    },
+    {
+      "title": "Market integrity, insider trading and the regulator’s tools",
+      "takeaway": "The FCA sees rising abnormal share movements and speculative leaks; it has been prosecuting insider trading but says global market structures and cross‑border trading make enforcement harder and call for better system-wide coordination.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Abnormal share movements and unusual volumes ahead of announcements are up—should the FCA be tougher on insider trading?"
+        },
+        {
+          "speaker": "Nikhil Rathi",
+          "text": "We’re concerned. Our calculation method changed and shows higher levels, but speculation, leaks and cross‑border 24/7 markets complicate enforcement. We’re taking record prosecutions and working with partners like the Takeover Panel and police."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Do many whistleblowing reports relate to insider trading?"
+        },
+        {
+          "speaker": "Nikhil Rathi",
+          "text": "I don’t have that breakdown to hand but we publish quarterly figures and will check. Much insider trading involves organised, cross‑border actors and is operationally demanding to investigate."
+        },
+        {
+          "speaker": "John Glen",
+          "text": "On powers: do you need new statutory tools to tackle AI‑enabled risks, or should you use current powers fully?"
+        },
+        {
+          "speaker": "Nikhil Rathi",
+          "text": "We’re still evolving our view. We must exhaust existing powers first—but frontier AI and national security could prompt perimeter changes. This is a societal choice for Parliament: where to draw the regulatory line across sectors."
+        }
+      ]
+    },
+    {
+      "title": "Firms’ burden, digital engagement and consumer protection",
+      "takeaway": "The FCA has cut many ad hoc data requests and launched a single digital portal, but balance is needed between reducing firms’ burden and keeping data to protect consumers; consumer duty and insurance concerns remain priorities.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "You cut 3,000 ad hoc requests and estimate firm savings around £27m—how do you target the highest‑cost requests?"
+        },
+        {
+          "speaker": "Jessica Rusu",
+          "text": "We vet each collection and try to get third‑party sources instead of burdening firms. We increased response windows to eight weeks and set up 32 data‑sharing links that save firms about £1m. We can supply cost ranges if helpful."
+        },
+        {
+          "speaker": "John Glen",
+          "text": "You promised a single digital interface—where is My FCA?"
+        },
+        {
+          "speaker": "Jessica Rusu",
+          "text": "My FCA launched in March 2025 as one front door for returns and ad hoc collections. Firms like it; we extended operating hours and decommissioned returns to reduce burden. More improvements are coming."
+        },
+        {
+          "speaker": "Dame Harriett Baldwin",
+          "text": "Financial advice has become unaffordable for many. You opened a targeted support gateway—is that working?"
+        },
+        {
+          "speaker": "Nikhil Rathi",
+          "text": "We’ve authorised over 10 targeted‑support firms, including large banks re‑entering advice. They could reach millions once they scale. The trade‑off is aggregate improved access versus bespoke suitability for every person."
+        },
+        {
+          "speaker": "Dame Harriett Baldwin",
+          "text": "Are you keeping up with people using AI for DIY financial planning?"
+        },
+        {
+          "speaker": "Nikhil Rathi",
+          "text": "We’re testing those models in our innovation services and await provisional licensing in the Bill. Whether AI advice falls in scope depends on whether it gives personalised, transactional recommendations—Parliament must decide that perimeter."
+        },
+        {
+          "speaker": "Dame Harriett Baldwin",
+          "text": "On insurance: are firms reducing cover, using AI in pricing and charging high finance rates for instalments?"
+        },
+        {
+          "speaker": "Nikhil Rathi",
+          "text": "We’re active: consumer‑duty enforcement, claims reviews, targeted interventions. We steered away from a blanket cap on premium finance because of unintended effects but forced some firms to cut costs and remediate customers. Six enforcement probes are open in insurance."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Digital‑only processes can exclude vulnerable customers—is this on your radar?"
+        },
+        {
+          "speaker": "Nikhil Rathi",
+          "text": "Yes. Vulnerability is central to consumer duty. Firms must offer suitable channels; digital acquisition requires digital exit options too. We watch sludge practices that make cancellation hard."
+        }
+      ]
+    },
+    {
+      "title": "Operational strain, recent legislation and non‑financial misconduct",
+      "takeaway": "The FCA warned that a late legislative change forcing the Ombudsman to refer cases to the FCA ('must' vs 'may') could overwhelm resources; it also described better reporting on non‑financial misconduct (including regulatory referencing) but said culture change requires more than rules.",
+      "turns": [
+        {
+          "speaker": "Bobby Dean",
+          "text": "You’re worried the Bill’s FOS clause now says the Ombudsman 'must' refer certain cases to the FCA. What are the operational consequences?"
+        },
+        {
+          "speaker": "Nikhil Rathi",
+          "text": "We support the reforms overall but the late change from 'may' to 'must' risks a large surge of referrals—estimates vary 1,000–3,000 extra cases—and could swamp our automated processes, force resource diversion and slow action on higher risks."
+        },
+        {
+          "speaker": "Johan Sekora",
+          "text": "Introducing a high‑volume manual process runs counter to our automation and efficiency drive. We’d need extra capacity that would otherwise go to tackling major integrity risks."
+        },
+        {
+          "speaker": "Bobby Dean",
+          "text": "Was 'may' ever the expectation and did late lobbying cause the switch?"
+        },
+        {
+          "speaker": "Nikhil Rathi",
+          "text": "We understood 'may' and briefed accordingly. I won’t speculate about lobbying, but the operational testing of the change was limited and Treasury seems reluctant to revert; we’ve offered alternative drafting to limit unintended effects."
+        },
+        {
+          "speaker": "Ms Minns",
+          "text": "On non‑financial misconduct, how many whistleblower disclosures this year relate to sexism, harassment or bullying?"
+        },
+        {
+          "speaker": "Nikhil Rathi",
+          "text": "I don’t have a precise count ready; such disclosures are sensitive and often one or two a month reach us, which we examine carefully. Regulatory referencing (new from 1 Sept) now helps stop people with known issues moving around without disclosure."
+        },
+        {
+          "speaker": "Ms Minns",
+          "text": "Will FCA rules and guidance change culture, or do employers need to do more?"
+        },
+        {
+          "speaker": "Nikhil Rathi",
+          "text": "Rules help but won’t fix culture alone. We’ve extended guidance beyond banking, taken prohibitions, and want firms to handle whistleblowing and misconduct robustly—leadership and employment regulators also matter."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Finally, on your relationship with Treasury: does the system have enough operational and technical expertise to legislate quickly and sensibly?"
+        },
+        {
+          "speaker": "Nikhil Rathi",
+          "text": "We work productively with Treasury, but the system needs better operational execution and shared technical expertise across departments. Many decisions add procedural layers that slow outcomes and increase judicial and resource burdens."
+        }
+      ]
+    }
+  ]
+}

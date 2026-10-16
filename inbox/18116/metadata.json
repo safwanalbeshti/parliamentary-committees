@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18116,
+  "activity_id": 38946,
+  "document_id": 307184,
+  "meeting_date": "2026-10-14",
+  "meeting_date_display": "14 October 2026",
+  "publication_date": "2026-10-15T11:47:11",
+  "title": "Scrutiny of the draft Heathrow Expansion National Policy Statement",
+  "committee": "Transport Committee",
+  "committees": [
+    {
+      "id": 153,
+      "name": "Transport Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9865,
+      "title": "Scrutiny of the draft Heathrow Expansion National Policy Statement",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Chairman",
+      "organisation": "Heathrow West Limited (HWL)"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chief Executive",
+      "organisation": "Heathrow West Limited (HWL)"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director, Transport and Infrastructure",
+      "organisation": "Stantec UK"
+    }
+  ],
+  "speaker_candidates": [
+    "Transport Committee members present",
+    "Environmental Audit Committee member present",
+    "Chair",
+    "Surinder Arora",
+    "Carlton Brown",
+    "Scott Witchalls",
+    "Chris Hinchliff",
+    "Dr Arthur",
+    "Jacob Collier",
+    "Daniel Francis",
+    "Alex Mayer",
+    "Steff Aquarone"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18116/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18116",
+  "source_sha256": "a9a5909bee35ad8c5768f1235bd7da63be82a07eefdafc082c5deb6dc11665ba",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}
