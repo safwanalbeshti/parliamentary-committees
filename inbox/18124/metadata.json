@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18124,
+  "activity_id": 38840,
+  "document_id": 307264,
+  "meeting_date": "2026-10-13",
+  "meeting_date_display": "13 October 2026",
+  "publication_date": "2026-10-16T08:59:25",
+  "title": "Inquiry into the recommendations of the Infected Blood Inquiry (Stage 1)",
+  "committee": "Public Administration and Constitutional Affairs Committee",
+  "committees": [
+    {
+      "id": 327,
+      "name": "Public Administration and Constitutional Affairs Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9497,
+      "title": "Inquiry into the recommendations of the Infected Blood Inquiry (Stage 1)",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Cindy Butts",
+      "role": "",
+      "organisation": ""
+    }
+  ],
+  "speaker_candidates": [
+    "Justice Committee member present",
+    "Witness",
+    "Chair",
+    "Cindy Butts",
+    "As you all know, the complicated processes begin to kick in from there",
+    "John Lamont",
+    "Sarah Russell",
+    "Charlotte Cane",
+    "Another gap is around support for carers",
+    "Richard Baker",
+    "Lauren Edwards",
+    "Sam Carling",
+    "The other question is",
+    "Peter Lamb",
+    "Luke Taylor"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18124/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18124",
+  "source_sha256": "e3cae73f879f0cb9149be7fa2c20f223256ffa18da41e352b24008be1005981a",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

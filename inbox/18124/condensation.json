@@ -1,0 +1,294 @@
+{
+  "schema_version": 1,
+  "source_id": 18124,
+  "source_sha256": "e3cae73f879f0cb9149be7fa2c20f223256ffa18da41e352b24008be1005981a",
+  "title": "The Independent Public Advocate: scope, limits and what needs fixing",
+  "label": "13 October 2026 · IPA evidence session",
+  "summary": "Cindy Butts, the first Independent Public Advocate (IPA) for England and Wales, told the Committee how her role works in practice, described urgent gaps in staffing, resourcing and legal access, explained limits on her powers when ‘stood down’ by the Secretary of State, and argued for a national body to track and enforce implementation of inquiry recommendations. She supports stronger transparency around decisions to hold inquiries and better coordination between the IPA and other accountability reforms.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Simon Hoare",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Cindy Butts",
+      "name": "Cindy Butts",
+      "role": "Independent Public Advocate for England and Wales",
+      "kind": "witness"
+    },
+    {
+      "label": "John Lamont",
+      "name": "John Lamont",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Sarah Russell",
+      "name": "Sarah Russell",
+      "role": "Committee Member (Justice Committee member present)",
+      "kind": "member"
+    },
+    {
+      "label": "Charlotte Cane",
+      "name": "Charlotte Cane",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Richard Baker",
+      "name": "Richard Baker",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Lauren Edwards",
+      "name": "Lauren Edwards",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Sam Carling",
+      "name": "Sam Carling",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Peter Lamb",
+      "name": "Peter Lamb",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Luke Taylor",
+      "name": "Luke Taylor",
+      "role": "Committee Member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Independent Public Advocate (IPA)",
+      "definition": "A statutory official who advocates for victims, survivors and bereaved people after major incidents and highlights systemic failings to Government."
+    },
+    {
+      "term": "Inquest",
+      "definition": "A legal fact-finding hearing, led by a coroner, into the cause and circumstances of a death."
+    },
+    {
+      "term": "Public inquiry / statutory inquiry",
+      "definition": "A formal government-led investigation with legal powers to gather evidence; a statutory inquiry follows rules set out in law."
+    },
+    {
+      "term": "Core participant",
+      "definition": "A formal status in an inquiry giving rights to access evidence and participate in hearings."
+    },
+    {
+      "term": "Duty of candour",
+      "definition": "A legal or policy obligation for public bodies to be open and honest about failings and share relevant information."
+    },
+    {
+      "term": "Public Office (Accountability) Bill",
+      "definition": "A bill referenced in the session that includes measures on official accountability, including a duty of candour."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What the IPA actually does",
+      "takeaway": "The IPA is meant to be an independent, visible advocate for victims, helping them access support and navigate inquests and inquiries while flagging systemic failings to Ministers.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Cindy, you've been the first IPA for almost a year. In plain terms, what have you been doing?"
+        },
+        {
+          "speaker": "Cindy Butts",
+          "text": "Four days after starting I was deployed to the Heaton Park synagogue attack. My job is to be an independent, visible advocate for victims, survivors and bereaved people: check they have support, help them navigate inquests, reviews and inquiries, make sure they can play a meaningful role, and report systemic gaps to Ministers."
+        },
+        {
+          "speaker": "Chair",
+          "text": "So you signpost services, press service providers, and spot system-wide problems for Government?"
+        },
+        {
+          "speaker": "Cindy Butts",
+          "text": "Yes. I'm not a service provider — I hold others to account and push for systemic learning where victims' needs are not being met."
+        }
+      ]
+    },
+    {
+      "title": "Independence, structure and resourcing",
+      "takeaway": "The IPA is independent in intent, but the office is tiny, relies on MOJ support, is only two days a week on paper, and needs more staff and secure independence to do the job well.",
+      "turns": [
+        {
+          "speaker": "John Lamont",
+          "text": "You're deployed only for 'major incidents' as defined by the Secretary of State. Does that limit your help?"
+        },
+        {
+          "speaker": "Cindy Butts",
+          "text": "Partly. I support deployed cases but also listen to legacy campaigners. The law's limits matter, but listening to those outside formal deployment tells us about system failings."
+        },
+        {
+          "speaker": "Sarah Russell",
+          "text": "You work officially two days a week and have three staff; is that enough?"
+        },
+        {
+          "speaker": "Cindy Butts",
+          "text": "No. I go full-time when deployed, but the part-time design cuts out many candidates and undermines readiness. We lack a separate office, own finance staff and scale-up capacity. I’ve put in a business case for more resources."
+        },
+        {
+          "speaker": "Sarah Russell",
+          "text": "And the Children's Commissioner has 28 staff — that comparison matters?"
+        },
+        {
+          "speaker": "Cindy Butts",
+          "text": "Yes. More staff would let us dig into systemic policy issues and be resilient. Right now, the civil service sometimes holds the pen, which weakens perceived independence."
+        },
+        {
+          "speaker": "Chair",
+          "text": "You rely on MOJ systems; that bureaucratic dependency slows you when needs are immediate?"
+        },
+        {
+          "speaker": "Cindy Butts",
+          "text": "Exactly. The bureaucracy and approvals slow urgent action, which is damaging in trauma situations."
+        }
+      ]
+    },
+    {
+      "title": "Standing up, standing down and accountability",
+      "takeaway": "The Secretary of State decides deployments and standing-down; the IPA can advise and report to Parliament, but there’s no independent appeal—more transparency and a clearer process are needed.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "If the Secretary of State wants you stood down but you disagree, can you appeal?"
+        },
+        {
+          "speaker": "Cindy Butts",
+          "text": "Statutory guidance says the Secretary of State decides in consultation with me. There's no higher appeal, but I can report to Parliament and produce discretionary reports. What’s missing is a transparent process where reasons for standing up or down are public."
+        },
+        {
+          "speaker": "Charlotte Cane",
+          "text": "You said people remain affected long after stand-down. How should that be handled?"
+        },
+        {
+          "speaker": "Cindy Butts",
+          "text": "We need hybrid thinking: standing down shouldn't cut survivors off. Needs can appear years later; someone ought to pick up long-term support and follow-up on gaps identified at the time."
+        },
+        {
+          "speaker": "Chair",
+          "text": "You plan a roundtable in November to clarify the IPA's role in inquiries?"
+        },
+        {
+          "speaker": "Cindy Butts",
+          "text": "Yes — with academics, practitioners and people with lived experience to work out how the IPA should participate in statutory and non‑statutory inquiries and what status is appropriate."
+        }
+      ]
+    },
+    {
+      "title": "Inquiries, legal status and practical limits",
+      "takeaway": "The IPA can be a core participant in inquests automatically but not automatically in inquiries; core participant status brings heavy document work and may need more staff and careful decisions about the IPA's role.",
+      "turns": [
+        {
+          "speaker": "Charlotte Cane",
+          "text": "Was the IPA involved in the decision to hold a public inquiry into Heaton Park?"
+        },
+        {
+          "speaker": "Cindy Butts",
+          "text": "That decision followed disclosures to the coroner and the Chief Coroner's judgment; my counsel and I were involved in disclosure and made submissions about pros and cons, including closed evidence and absence of juries in inquiries."
+        },
+        {
+          "speaker": "Charlotte Cane",
+          "text": "Will you automatically be a core participant in that inquiry?"
+        },
+        {
+          "speaker": "Cindy Butts",
+          "text": "No. The law makes me an interested person in inquests, but not automatically a core participant in inquiries. Core participant status means handling huge volumes of disclosure and effectively servicing the inquiry, which I can only do with more staff. I'm still exploring the right status."
+        },
+        {
+          "speaker": "John Lamont",
+          "text": "How do you advise families which route—coroner, inquiry, review—best suits their needs?"
+        },
+        {
+          "speaker": "Cindy Butts",
+          "text": "I help them clarify what questions they need answered, then explain the pros and cons of each forum. Victims are not a single voice; my job is to represent that range and push for coherent views where possible."
+        }
+      ]
+    },
+    {
+      "title": "Gaps in support, legal aid and follow-up on recommendations",
+      "takeaway": "There are practical gaps: organisations like a synagogue can't access legal aid easily, carers lack benefits support after attacks, and inquiry recommendations too often sit unimplemented — so Cindy supports a separate national oversight mechanism.",
+      "turns": [
+        {
+          "speaker": "Charlotte Cane",
+          "text": "What gaps did you spot at Heaton Park?"
+        },
+        {
+          "speaker": "Cindy Butts",
+          "text": "People felt overwhelmed by agencies. The synagogue, as an interested party, couldn't access legal aid because it's an organisation. There is also no consistent support route for people who suddenly become carers after an attack."
+        },
+        {
+          "speaker": "Sam Carling",
+          "text": "You favour a national oversight mechanism (NOM) to track inquiry recommendations. Why a separate body?"
+        },
+        {
+          "speaker": "Cindy Butts",
+          "text": "Reports often cost a lot but recommendations aren't implemented; families end up policing progress. A statutory, independent body with expertise and a single accountable lead would keep recommendations live and drive change."
+        },
+        {
+          "speaker": "Sam Carling",
+          "text": "Should the IPA do that NOM role?"
+        },
+        {
+          "speaker": "Cindy Butts",
+          "text": "No. That would dilute the IPA's advocacy role. We should work closely with any NOM and feed in victims' experiences, but the oversight job needs dedicated capacity and independence."
+        },
+        {
+          "speaker": "Peter Lamb",
+          "text": "How should Government improve implementation of recommendations?"
+        },
+        {
+          "speaker": "Cindy Butts",
+          "text": "Be clearer, faster and more transparent: publish which recommendations are accepted or rejected with reasons, set realistic timescales, and provide a public tracker with accountability rather than letting things languish."
+        }
+      ]
+    },
+    {
+      "title": "Wider legal and devolution issues",
+      "takeaway": "Cindy supports the Hillsborough law and duty of candour but worries the IPA wasn't linked into the Public Office (Accountability) Bill; she will expand coverage understanding differences in Wales and work with Scottish counterparts.",
+      "turns": [
+        {
+          "speaker": "Richard Baker",
+          "text": "You're the IPA for England and Wales; how will you engage with devolved systems?"
+        },
+        {
+          "speaker": "Cindy Butts",
+          "text": "I need to understand Welsh structures and will recruit advocates who know Wales. I will visit Scotland and can work with Scottish bodies, but my statutory remit is England and Wales."
+        },
+        {
+          "speaker": "Luke Taylor",
+          "text": "How important is Hillsborough law in changing defensive institutional cultures?"
+        },
+        {
+          "speaker": "Cindy Butts",
+          "text": "Very important: it pushes truth-telling and legal parity between families and the state. But the law alone won't change culture; leadership and values matter. I'm concerned the IPA isn't mentioned in the Public Office (Accountability) Bill — that should be fixed so duty of candour and the IPA work together."
+        },
+        {
+          "speaker": "Chair",
+          "text": "We will consider writing to the Bill Minister about that omission."
+        },
+        {
+          "speaker": "Cindy Butts",
+          "text": "Please do. There's cross-party interest already; aligning the Victims Act that created my role with accountability reforms would strengthen both."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you, Cindy — for your candour and for taking a difficult, under‑resourced role."
+        },
+        {
+          "speaker": "Cindy Butts",
+          "text": "Thank you. I will report back on the roundtable and keep working to strengthen victims' voices and system learning."
+        }
+      ]
+    }
+  ]
+}

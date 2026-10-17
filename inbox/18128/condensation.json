@@ -1,0 +1,276 @@
+{
+  "schema_version": 1,
+  "source_id": 18128,
+  "source_sha256": "ce75efe842ae48917bd77135789e328d5b9df581ef080fbda8638d8f374bf541",
+  "title": "Who really runs government — and how to fix it",
+  "label": "14 October 2026 · Constitutional safeguards",
+  "summary": "Dominic Cummings told the Constitution Committee that Britain’s problems come from three linked failures: a talent drain from public life, the collapse of real ministerial responsibility, and a Cabinet Office that now controls policy and appointments. He argued the system repels skilled people, shields officials from political accountability, and prevents quick action in crises; his remedies include open senior appointments, giving the Prime Minister clear authority to manage Permanent Secretaries, and restoring direct political responsibility rather than relying on unelected officials to \"guard\" the constitution.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Strathclyde",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Dominic Cummings",
+      "name": "Dominic Cummings",
+      "role": "Former Chief Adviser to the Prime Minister, Cabinet Office",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Cryer",
+      "name": "Lord Cryer",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Laing of Elderslie",
+      "name": "Baroness Laing of Elderslie",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Griffiths of Burry Port",
+      "name": "Lord Griffiths of Burry Port",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Bellamy",
+      "name": "Lord Bellamy",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Burnett of Maldon",
+      "name": "Lord Burnett of Maldon",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Hamwee",
+      "name": "Baroness Hamwee",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Jones of Penybont",
+      "name": "Lord Jones of Penybont",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Waldegrave of North Hill",
+      "name": "Lord Waldegrave of North Hill",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Bichard",
+      "name": "Lord Bichard",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Beith",
+      "name": "Lord Beith",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Murphy of Torfaen",
+      "name": "Lord Murphy of Torfaen",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "ministerial responsibility",
+      "definition": "The long-standing idea that a minister is politically responsible in Parliament for their department's actions and decisions."
+    },
+    {
+      "term": "Cabinet Office",
+      "definition": "The Whitehall department that supports the Prime Minister and Cabinet and coordinates government policy."
+    },
+    {
+      "term": "Northcote-Trevelyan",
+      "definition": "A 19th-century reform that created the meritocratic Civil Service recruitment system in Britain."
+    },
+    {
+      "term": "Permanent Secretary",
+      "definition": "The most senior civil servant in a government department, responsible for running it day to day."
+    },
+    {
+      "term": "Private Office",
+      "definition": "A minister or PM's close team of advisers and staff, often younger and more operational than the wider Civil Service."
+    },
+    {
+      "term": "ECHR",
+      "definition": "European Convention on Human Rights — an international human-rights treaty incorporated into UK law by the Human Rights Act."
+    },
+    {
+      "term": "Human Rights Act",
+      "definition": "UK law that gives ECHR rights effect in UK courts and limits what government can do without changing primary legislation."
+    },
+    {
+      "term": "prorogation",
+      "definition": "The formal suspension of Parliament between sessions; a constitutional power that can raise legal issues if used controversially."
+    },
+    {
+      "term": "National Security Secretariat",
+      "definition": "A part of the Cabinet Office that coordinates national security and intelligence priorities, often out of sight of ministers."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Three core weaknesses",
+      "takeaway": "Cummings says the UK’s problems are (1) talented people leaving public life, (2) the collapse of real ministerial responsibility, and (3) the Cabinet Office’s takeover of policy and appointments.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Dominic, what are the biggest weaknesses in how the UK is governed?"
+        },
+        {
+          "speaker": "Dominic Cummings",
+          "text": "Three linked problems. First, elite talent now goes to tech, finance and private research, not public life. Second, ministerial responsibility—the idea that ministers truly run departments—has become a 'fake charade'. Third, the Cabinet Office now controls policy and appointments, which it was never meant to do."
+        },
+        {
+          "speaker": "Lord Cryer",
+          "text": "Is the constitution under serious threat because of those weaknesses?"
+        },
+        {
+          "speaker": "Dominic Cummings",
+          "text": "Yes. There’s a collapse of trust in parties, Parliament, media and the Civil Service. Foreign adversaries matter, but our biggest problems are internal: procurement failures, legal blockages, officials hiding problems instead of Ministers facing responsibility."
+        },
+        {
+          "speaker": "Baroness Laing of Elderslie",
+          "text": "Do too many arm’s-length bodies and quangos obstruct Ministers trying to act?"
+        },
+        {
+          "speaker": "Dominic Cummings",
+          "text": "Yes. Creating independent agencies in the 1980s made responsibility opaque. Ministers have been disempowered and often don’t want real responsibility either—so the system is happy to keep decisions hidden."
+        }
+      ]
+    },
+    {
+      "title": "Who really holds power?",
+      "takeaway": "Power increasingly sits in Whitehall—Cabinet Office, senior officials and private secretariats—not in open Cabinet or Parliament, and that hides who decides what.",
+      "turns": [
+        {
+          "speaker": "Lord Burnett of Maldon",
+          "text": "Where does real power lie now—Whitehall, No. 10, the Cabinet Secretary, private offices?"
+        },
+        {
+          "speaker": "Dominic Cummings",
+          "text": "Cabinet has become Potemkin theatre. The real decisions happen nearby in the Cabinet Office or taskforces. The Cabinet Secretary and National Security Secretariat now run many policy and intelligence processes with minimal ministerial oversight."
+        },
+        {
+          "speaker": "Lord Burnett of Maldon",
+          "text": "You haven't mentioned Parliament in that account."
+        },
+        {
+          "speaker": "Dominic Cummings",
+          "text": "Parliamentary scrutiny is weak. Select Committees rarely force real change; material is labelled 'classified' and ministers are bypassed. Only the Prime Minister can usually break the gridlock, but PMs often don't want to."
+        },
+        {
+          "speaker": "Baroness Hamwee",
+          "text": "When officials decide what to tell the Prime Minister after a security event, is that malign or incompetent?"
+        },
+        {
+          "speaker": "Dominic Cummings",
+          "text": "Often it’s institutional self-protection and political caution. Officials avoid exposing political weaknesses, so ministers aren’t given full choices—examples include how human-rights law affects decisions on released prisoners and counter-terrorism."
+        },
+        {
+          "speaker": "Lord Waldegrave of North Hill",
+          "text": "Where are the guardrails to stop corruption if you shift power back to ministers?"
+        },
+        {
+          "speaker": "Dominic Cummings",
+          "text": "The most effective guardrail is real political responsibility to Parliament. Historically, ministers were accountable, investigated and sometimes jailed for corruption. The current systems don't stop corruption; they change how influence operates."
+        }
+      ]
+    },
+    {
+      "title": "Talent, pipelines and practical fixes",
+      "takeaway": "Cummings proposes making senior appointments 'open by default', giving PMs real performance power over Permanent Secretaries, and appointing 'directly responsible individuals' for priority projects.",
+      "turns": [
+        {
+          "speaker": "Lord Bellamy",
+          "text": "If we want to improve things step by step, what are the first practical reforms?"
+        },
+        {
+          "speaker": "Dominic Cummings",
+          "text": "Two big moves that would be immediate: change Civil Service appointments from 'closed by default' to 'open by default' and make the Prime Minister central to managing Permanent Secretaries’ performance. These don't require tearing up the constitution but need PM will."
+        },
+        {
+          "speaker": "Lord Jones of Penybont",
+          "text": "How do you fix the talent pipeline so young, able officials don't leave?"
+        },
+        {
+          "speaker": "Dominic Cummings",
+          "text": "People come if jobs are real, give responsibility and authority, and can achieve outcomes. In 2020 we attracted exceptional people because the crisis made work meaningful and the PM backed them. That only sticks if the PM enforces change and creates real roles."
+        },
+        {
+          "speaker": "Lord Jones of Penybont",
+          "text": "You spoke about 'hire and fire' across the Civil Service. Won't that harm job security?"
+        },
+        {
+          "speaker": "Dominic Cummings",
+          "text": "You also get roles that can't be done elsewhere. Many will accept lower pay for the chance to solve unique problems—AI in government is an example. Key is responsibility and the power to hire competent teams."
+        },
+        {
+          "speaker": "Lord Murphy of Torfaen",
+          "text": "You mentioned a purge at the Department for Education. How did that actually happen?"
+        },
+        {
+          "speaker": "Dominic Cummings",
+          "text": "A Secretary of State couldn't dismiss senior officials alone; the PM had to press the Cabinet Secretary. Change at senior levels needs PM authority combined with willing official leadership or the status quo reasserts itself."
+        }
+      ]
+    },
+    {
+      "title": "Role of the Civil Service and legal constraints",
+      "takeaway": "Cummings warns against treating the Civil Service as unelected 'guardians' of the constitution; Parliament and ministers must reclaim responsibility, and some policy limits (eg ECHR) need primary-law change to be altered.",
+      "turns": [
+        {
+          "speaker": "Lord Bichard",
+          "text": "Should the Civil Service protect the constitution or execute political decisions?"
+        },
+        {
+          "speaker": "Dominic Cummings",
+          "text": "It’s dangerous to make unelected officials the platonic guardians of the constitution. That fuels public distrust and alienation. The duty to safeguard democratic norms lies with Parliament and ministers, not a covert official class."
+        },
+        {
+          "speaker": "Lord Beith",
+          "text": "But ministerial responsibility can be weak in practice. Can that alone check the Executive's power?"
+        },
+        {
+          "speaker": "Dominic Cummings",
+          "text": "Historically it worked because responsibility was real: ministers hired, fired and were held to account. If you restore genuine political accountability, you restore a stronger check than hiding power inside unaccountable officials."
+        },
+        {
+          "speaker": "Lord Jones of Penybont",
+          "text": "You said the Human Rights Act / ECHR prevents stopping small boats. Can you be specific?"
+        },
+        {
+          "speaker": "Dominic Cummings",
+          "text": "All serious lawyers agreed we needed primary-law changes to the Human Rights Act to stop small-boat crossings. Officials can propose workarounds, but ministers have frequently avoided the political cost of the necessary legal changes."
+        },
+        {
+          "speaker": "Baroness Laing of Elderslie",
+          "text": "Should anything be codified to secure the changes you want?"
+        },
+        {
+          "speaker": "Dominic Cummings",
+          "text": "Mostly you need to remove or reform rules that block responsibility: repeal some Civil Service legislation, change appointment defaults and restore practical ministerial authority. Think in the direction of how Pitt would have run things—real responsibility, not more black boxes."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you, Dominic. We’ve ranged widely and will use this evidence in our report."
+        }
+      ]
+    }
+  ]
+}

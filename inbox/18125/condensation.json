@@ -1,0 +1,302 @@
+{
+  "schema_version": 1,
+  "source_id": 18125,
+  "source_sha256": "a21ff2b010a93dde90761d6c17b78a2437e13ba042ad34b8f5340d86a05ef0f9",
+  "title": "How UK research and university partnerships serve development — and what’s at risk",
+  "label": "13 October 2026 · Higher education & research partnerships",
+  "summary": "Witnesses from UK universities and research organisations described how long-term, locally led research partnerships, scholarships and networks have produced practical policy and development results, while warning that recent cuts to ODA-funded programmes, visa restrictions and moves to rely on private finance risk undermining capacity, trust and UK influence. They urged multi-year funding, locally owned agendas, protection for scholarship routes and care when substituting private finance for public funding.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Sarah Champion",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Professor Baggs",
+      "name": "Professor Liz Baggs",
+      "role": "Vice-Principal for Research and Innovation, University of Edinburgh; Commissioner, Commonwealth Scholarship Commission",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Martin",
+      "name": "Professor Adrian Martin",
+      "role": "Professor of Environment and Development, School of Global Development, University of East Anglia",
+      "kind": "witness"
+    },
+    {
+      "label": "Jonathan Leape",
+      "name": "Jonathan Leape",
+      "role": "Executive Director, International Growth Centre, London School of Economics",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Joshi",
+      "name": "Professor Anuradha Joshi",
+      "role": "Director, Institute of Development Studies, University of Sussex",
+      "kind": "witness"
+    },
+    {
+      "label": "Harry Anderson",
+      "name": "Harry Anderson",
+      "role": "Deputy Director for Policy and Global Engagement, Universities UK International",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Sam Rushworth",
+      "name": "Dr Sam Rushworth",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "David Mundell",
+      "name": "David Mundell",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Tracy Gilbert",
+      "name": "Tracy Gilbert",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Monica Harding",
+      "name": "Monica Harding",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Brian Mathew",
+      "name": "Brian Mathew",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "James Naish",
+      "name": "James Naish",
+      "role": "Member of the committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "ODA",
+      "definition": "Official Development Assistance: public money spent by governments on international development."
+    },
+    {
+      "term": "GCRF",
+      "definition": "Global Challenges Research Fund: a UK-funded programme (2016–2021) that supported research partnerships tackling global development problems."
+    },
+    {
+      "term": "Commonwealth Scholarship Commission",
+      "definition": "A UK-funded scheme that offers study and research scholarships to talented people from Commonwealth countries."
+    },
+    {
+      "term": "Chevening",
+      "definition": "A UK government scholarship programme for future leaders to study in the UK."
+    },
+    {
+      "term": "AMR",
+      "definition": "Antimicrobial resistance: when antibiotics and other drugs stop working against infections."
+    },
+    {
+      "term": "TNE",
+      "definition": "Transnational education: UK universities delivering degrees or teaching outside the UK, e.g., branch campuses or validated programmes."
+    },
+    {
+      "term": "SPHEIR",
+      "definition": "Strategic Partnerships for Higher Education Innovation and Reform: an FCDO-funded programme that supported higher education reform in partner countries."
+    },
+    {
+      "term": "BII",
+      "definition": "British International Investment: the UK’s development finance institution that invests to support economic growth overseas."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Why UK research partnerships matter",
+      "takeaway": "Long-term, locally led university partnerships, networks and scholarships produce policy-ready knowledge, build local capacity and generate UK influence.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We want to understand how UK universities and research partnerships add value to development and whether recent government changes are putting that value at risk."
+        },
+        {
+          "speaker": "Professor Martin",
+          "text": "My work links environmental problems with local livelihoods. UK universities convene expertise and help create solutions—like fairer conservation approaches—by funding early-stage, interdisciplinary work."
+        },
+        {
+          "speaker": "Professor Baggs",
+          "text": "The University of Edinburgh focuses on global impact. Through the Commonwealth Scholarship Commission we bring talented people for masters and PhDs, who often return to influential roles at home."
+        },
+        {
+          "speaker": "Jonathan Leape",
+          "text": "The International Growth Centre places economists in-country to co-design research with finance ministries. That trust lets us help reform systems like property tax, commodity markets and labour information over many years."
+        },
+        {
+          "speaker": "Dr Sam Rushworth",
+          "text": "Wasn’t the Global Challenges Research Fund (GCRF) important here? What should a successor programme learn from it?"
+        },
+        {
+          "speaker": "Professor Baggs",
+          "text": "GCRF enabled equitable partnerships, capacity building and interdisciplinary work. But stopping funding suddenly created instability and harmed staff and infrastructure. Any successor should be multi-year, locally led and offer a range of grant sizes."
+        },
+        {
+          "speaker": "Professor Martin",
+          "text": "ODA often acts as a catalyst: it funds novel methods, early-stage proof of concept and convening. That role is hard to replace with other money."
+        }
+      ]
+    },
+    {
+      "title": "What these partnerships actually deliver",
+      "takeaway": "They produce usable tools and institutions—insuring farmers, building tax systems, commodity exchanges and mediators for peace—when partners trust and co-own the work.",
+      "turns": [
+        {
+          "speaker": "Professor Martin",
+          "text": "An example: agricultural index insurance in Uganda started with research partnerships and is now protecting nearly a million farmers. That started as research-led proof of concept."
+        },
+        {
+          "speaker": "Jonathan Leape",
+          "text": "In Sierra Leone we co-designed a property tax over eight years that doubled city revenue and can multiply further. These institutional changes take time and sustained relationships."
+        },
+        {
+          "speaker": "Professor Baggs",
+          "text": "Commonwealth scholars also create networks and soft power. For every £1 invested in scholars, we see a reported £1.60 return to the UK economy—plus long-term influence when alumni take leadership roles."
+        },
+        {
+          "speaker": "Brian Mathew",
+          "text": "Can research partnerships replace larger ODA programmes lost to cuts?"
+        },
+        {
+          "speaker": "Professor Martin",
+          "text": "Research partnerships can do a lot, but without ODA’s catalytic public funding you lose the leverage and the capacity-building element that makes partnerships effective."
+        },
+        {
+          "speaker": "Jonathan Leape",
+          "text": "Short-term or London-driven funding loses local agenda setting, trust and the incentive for governments to invest institutionally. You don’t get the same scalable outcomes."
+        }
+      ]
+    },
+    {
+      "title": "Scholarships, visas and global health networks under strain",
+      "takeaway": "Cuts to scholarship and health programmes and visa restrictions damage UK credibility, reduce capacity in partner countries and weaken shared defences against global risks like AMR.",
+      "turns": [
+        {
+          "speaker": "David Mundell",
+          "text": "Do Commonwealth scholarships mostly keep people in their countries or do many leave after training?"
+        },
+        {
+          "speaker": "Professor Baggs",
+          "text": "We select applicants likely to have impact at home and track alumni via embassies. Many do return to influential roles; I can share evaluation reports showing impacts and multiplier effects."
+        },
+        {
+          "speaker": "Monica Harding",
+          "text": "What about the Fleming Fund for antimicrobial resistance (AMR)? It’s ending—what does that mean?"
+        },
+        {
+          "speaker": "Professor Baggs",
+          "text": "The Fleming Fund supported surveillance networks in east and southern Africa. Cutting it risks breaking data flows, clinician–policy links and the UK’s reputation as a reliable partner on a global health threat."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Were Ministers right to say the project was time-limited and can close?"
+        },
+        {
+          "speaker": "Professor Baggs",
+          "text": "The research may be done, but implementation and surveillance must continue. AMR remains a live, growing threat; stopping networks now is short-sighted."
+        },
+        {
+          "speaker": "Dr Sam Rushworth",
+          "text": "How do visa brakes affect scholarship routes?"
+        },
+        {
+          "speaker": "Professor Joshi",
+          "text": "Significantly. IDS had 24 funded scholars last year, now seven. Students from Afghanistan, Myanmar and Sudan face bans; vetted scholars have been denied travel, undermining development goals and UK soft power."
+        },
+        {
+          "speaker": "Harry Anderson",
+          "text": "The visa brake cuts the UK off as a trusted partner. Some charities and universities are trying distance-learning or remote options, but it is not the same as in-country networks and face-to-face training."
+        }
+      ]
+    },
+    {
+      "title": "Private finance, TNE, research security and recommendations",
+      "takeaway": "Private capital and transnational education can help but won’t replace public funding for public goods; the sector needs long-term funding, locally led agendas, quality focus and care on research security.",
+      "turns": [
+        {
+          "speaker": "Tracy Gilbert",
+          "text": "The Government wants private investment to fill ODA gaps. What are the risks where returns are uncertain?"
+        },
+        {
+          "speaker": "Jonathan Leape",
+          "text": "Private capital is vital for growth, but Governments need capability to regulate and enforce social returns. Private firms chase profit; public funding covers non-monetisable values and equity concerns."
+        },
+        {
+          "speaker": "Professor Baggs",
+          "text": "Private money can narrow priorities, leaving fields like mental health, AMR or marginalised communities underfunded. It’s complementary but not a replacement for ODA."
+        },
+        {
+          "speaker": "Professor Joshi",
+          "text": "Transnational education (TNE) offers a major opportunity: quality UK programmes delivered in-country build local capacity and reduce brain drain, if aligned with local development needs."
+        },
+        {
+          "speaker": "Harry Anderson",
+          "text": "TNE is growing fast—about 700,000 students study for UK degrees overseas. Governments often invite UK universities to help build local systems; quality assurance is vital so UK reputation stays strong."
+        },
+        {
+          "speaker": "James Naish",
+          "text": "Could communities of expertise replace research partnerships?"
+        },
+        {
+          "speaker": "Jonathan Leape",
+          "text": "They can help, but there’s a real risk they become short-term consultancy. We must preserve long-term, independent, critical research that can challenge policy and help redesign systems."
+        },
+        {
+          "speaker": "James Naish",
+          "text": "Universities face security risks in overseas partnerships. How are you managing that?"
+        },
+        {
+          "speaker": "Harry Anderson",
+          "text": "Universities take research security seriously. We work with Government on guidance and reporting routes for academic interference, and have strengthened due diligence and campus-level processes."
+        },
+        {
+          "speaker": "Chair",
+          "text": "If I could have one line from each of you: are you hearing from Government and can you influence policy?"
+        },
+        {
+          "speaker": "Professor Martin",
+          "text": "Not as well as we’d like—there’s more work to do linking our research to local and UK policy-makers."
+        },
+        {
+          "speaker": "Professor Baggs",
+          "text": "The Commonwealth Scholarship Commission has a route into FCDO, but universities need a stronger, clearer link to government."
+        },
+        {
+          "speaker": "Jonathan Leape",
+          "text": "We have some access—especially to the new research analysis teams—but the best era was when DFID was standalone; recent reshuffles have interrupted some conversations."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Any final recommendations?"
+        },
+        {
+          "speaker": "Professor Joshi",
+          "text": "Fund long-term, locally led partnerships; link TNE with research and local priorities; and support capacity-building programmes that multiply impact after initial inputs."
+        },
+        {
+          "speaker": "Harry Anderson",
+          "text": "Treat universities as critical development infrastructure: give long-term funding certainty, protect quality and coordinate across departments so education, trade and development objectives align."
+        },
+        {
+          "speaker": "Professor Baggs",
+          "text": "Avoid sudden cuts. Honour multi-year commitments, protect scholarship routes and sustain global health surveillance networks like those for AMR."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you all. We’ll follow up on research security, visa exemptions for vetted scholars and requests for the evaluations and reports you mentioned."
+        }
+      ]
+    }
+  ]
+}

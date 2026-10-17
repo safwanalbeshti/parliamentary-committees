@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18128,
+  "activity_id": 38948,
+  "document_id": 307346,
+  "meeting_date": "2026-10-14",
+  "meeting_date_display": "14 October 2026",
+  "publication_date": "2026-10-16T16:55:53",
+  "title": "The UK’s constitutional safeguards",
+  "committee": "Constitution Committee",
+  "committees": [
+    {
+      "id": 172,
+      "name": "Constitution Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9861,
+      "title": "The UK’s constitutional safeguards",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Dominic Cummings",
+      "role": "Former Chief Adviser to the Prime Minister",
+      "organisation": "Cabinet Office"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Dominic Cummings",
+    "Lord Cryer",
+    "Baroness Laing of Elderslie",
+    "There is an expression in Moscow",
+    "Lord Griffiths of Burry Port",
+    "Lord Bellamy",
+    "Lord Burnett of Maldon",
+    "Baroness Hamwee",
+    "Lord Jones of Penybont",
+    "There is a concept in the private sector that some of you will know",
+    "Lord Waldegrave of North Hill",
+    "Lord Bichard",
+    "The second question is",
+    "Lord Beith",
+    "The short answer is yes",
+    "Lord Murphy of Torfaen"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18128/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18128",
+  "source_sha256": "ce75efe842ae48917bd77135789e328d5b9df581ef080fbda8638d8f374bf541",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

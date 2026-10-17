@@ -1,0 +1,328 @@
+{
+  "schema_version": 1,
+  "source_id": 18123,
+  "source_sha256": "52e98c0ca00893bdb03bf7ff407eb37e138b642e776cb30cce49b642433c0939",
+  "title": "Rural crime: how organised criminals exploit the countryside",
+  "label": "13 October 2026 · Rural crime and organised crime",
+  "summary": "Witnesses described rural crime as diverse, often organised, and badly measured. Farmers and rural communities face theft, wildlife crime, drug-related intimidation and waste crime. Problems include poor statistics, inconsistent policing, weak intelligence sharing and under-resourcing of specialist units. Panellists urged better training, sustained funding, stronger industry partnerships, targeted technology and careful design of any police reforms so rural needs aren’t lost.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Dame Karen Bradley",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Dr Kate Tudor",
+      "name": "Dr Kate Tudor",
+      "role": "Associate Professor in Criminology, Department of Sociology, Durham University",
+      "kind": "witness"
+    },
+    {
+      "label": "Robyn Munt",
+      "name": "Robyn Munt",
+      "role": "Vice President, National Farmers’ Union; farmer on Isle of Wight and Worcestershire",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Smith",
+      "name": "Dr Kreseda Smith",
+      "role": "Associate Professor of Rural Criminology and Social Science, Harper Adams University",
+      "kind": "witness"
+    },
+    {
+      "label": "Ben Maguire",
+      "name": "Ben Maguire",
+      "role": "Member of Parliament (questioner)",
+      "kind": "member"
+    },
+    {
+      "label": "Dr Prinsley",
+      "name": "Dr Peter Prinsley",
+      "role": "Member of Parliament (questioner)",
+      "kind": "member"
+    },
+    {
+      "label": "Bell Ribeiro-Addy",
+      "name": "Bell Ribeiro-Addy",
+      "role": "Member of Parliament (questioner)",
+      "kind": "member"
+    },
+    {
+      "label": "Robbie Moore",
+      "name": "Robbie Moore",
+      "role": "Member of Parliament (questioner)",
+      "kind": "member"
+    },
+    {
+      "label": "David Allen",
+      "name": "David Allen",
+      "role": "Police, Fire and Crime Commissioner for Cumbria; APCC Joint Lead for Serious and Organised Crime",
+      "kind": "witness"
+    },
+    {
+      "label": "Donna Jones",
+      "name": "Donna Jones",
+      "role": "Police and Crime Commissioner for Hampshire and the Isle of Wight",
+      "kind": "witness"
+    },
+    {
+      "label": "Andrew Huddleston",
+      "name": "Andrew Huddleston",
+      "role": "Head of the National Rural Crime Unit; NPCC Tactical Lead for Rural Crime",
+      "kind": "witness"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "NFU Mutual",
+      "definition": "A large insurer whose claims data is commonly used to estimate rural crime losses."
+    },
+    {
+      "term": "National Rural Crime Unit",
+      "definition": "A small national police unit focused on rural crime coordination and best practice."
+    },
+    {
+      "term": "ROCU",
+      "definition": "Regional Organised Crime Unit—specialist regional teams that support forces on complex organised crime."
+    },
+    {
+      "term": "county lines",
+      "definition": "Drug-dealing networks that move drugs and exploit people across areas; their tactics have changed recently."
+    },
+    {
+      "term": "MoRiLE",
+      "definition": "A policing risk score (Management of Risk in Law Enforcement) used to prioritise ROCU work."
+    },
+    {
+      "term": "ANPR",
+      "definition": "Automatic Number Plate Recognition cameras, used to trace vehicles."
+    },
+    {
+      "term": "Equipment Theft (Prevention) Act",
+      "definition": "Law intended to improve security and marking of plant and quad bikes to reduce theft."
+    },
+    {
+      "term": "ARIS fund",
+      "definition": "Asset Recovery Incentivisation Scheme—a fund returning seized criminal assets to local policing projects."
+    },
+    {
+      "term": "clear, hold, build",
+      "definition": "A policing model: clear an area of organised crime, hold it to prevent return, and build community services."
+    },
+    {
+      "term": "National Police Service",
+      "definition": "Proposed central body in the police reform White Paper to coordinate national functions and serious crime."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "How big is rural crime, and what does it include?",
+      "takeaway": "Rural crime is broad, often organised, and badly measured – insurance figures are only the visible tip.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We’re focusing on rural crime today—how organised criminality affects farms and villages."
+        },
+        {
+          "speaker": "Robyn Munt",
+          "text": "Farmers see theft, waste crime, hare coursing and intimidation; all disrupt farms, homes and food production."
+        },
+        {
+          "speaker": "Dr Kate Tudor",
+          "text": "We don’t have reliable national statistics. Rural offences aren’t separated out in police data, so debates rely on NFU Mutual claims."
+        },
+        {
+          "speaker": "Dr Smith",
+          "text": "NFU Mutual figures show one part—insured theft—but rural serious and organised crime also includes modern slavery, food fraud, agrochemical counterfeiting and cybercrime."
+        },
+        {
+          "speaker": "Ben Maguire",
+          "text": "Constituents say they stop reporting because cases aren’t followed up. That reduces recorded crime and hides the scale of the problem."
+        },
+        {
+          "speaker": "Dr Kate Tudor",
+          "text": "Many rural offenders meet definitions of organised crime groups, but because they aren’t mapped as OCGs, the national picture misses them."
+        },
+        {
+          "speaker": "Robyn Munt",
+          "text": "Reporting depends on trust with local police; where that relationship is poor, crimes go unreported and impacts—like childcare or crop timing—are greater."
+        },
+        {
+          "speaker": "Dr Smith",
+          "text": "My rough estimates put potential insurance-relevant losses far higher than single-company figures; we’re looking at much bigger hidden costs."
+        }
+      ]
+    },
+    {
+      "title": "Policing on the ground: neighbourhood teams, tech and training",
+      "takeaway": "Good local policing and technology help, but capability varies wildly between forces and needs stable funding and training.",
+      "turns": [
+        {
+          "speaker": "Dr Prinsley",
+          "text": "Are named neighbourhood officers and local stations useful in rural areas, like fire stations?"
+        },
+        {
+          "speaker": "Dr Kate Tudor",
+          "text": "Named officers help if they’re competent in rural crime. Symbolic stations matter less than investigative capacity and specialist skills."
+        },
+        {
+          "speaker": "Donna Jones",
+          "text": "In Hampshire I reintroduced named local bobbies and reopened front counters; visible presence and local bobbies reduced crime in some towns by about 19%."
+        },
+        {
+          "speaker": "David Allen",
+          "text": "We invested 44% more in neighbourhood policing staff in Cumbria; working with local groups and WhatsApp alerts reduced quad-bike thefts by nearly half."
+        },
+        {
+          "speaker": "Robyn Munt",
+          "text": "Technology—drones, deployable CCTV and ANPR—works well when funded and maintained, but many forces rely on short-lived grants."
+        },
+        {
+          "speaker": "Dr Smith",
+          "text": "Neighbourhood policing builds trust and intelligence. In my surveys, rural confidence in police can be dramatically lower than urban figures."
+        },
+        {
+          "speaker": "Andrew Huddleston",
+          "text": "Training is key: not every officer must be an expert, but they must know where to go for specialist rural knowledge. Our National Rural Crime Unit helps train officers nationally."
+        },
+        {
+          "speaker": "Ben Maguire",
+          "text": "Is there best practice to spread nationally?"
+        },
+        {
+          "speaker": "Dr Kate Tudor",
+          "text": "Yes: dedicated rural coordinators in each force, better intelligence collation and institutionalised rural training would help—but they need funding."
+        },
+        {
+          "speaker": "Robbie Moore",
+          "text": "How well do ROCUs support rural cases?"
+        },
+        {
+          "speaker": "Dr Kate Tudor",
+          "text": "ROCU support happens, but ROCUs focus on highest threat/harm. Many rural organised groups fall between local capacity and ROCU thresholds, so they slip through."
+        },
+        {
+          "speaker": "Dr Smith",
+          "text": "That gap means regional work only reaches the most extreme rural cases, leaving persistent organised groups unaddressed."
+        }
+      ]
+    },
+    {
+      "title": "County lines, wildlife crime and industry partnerships",
+      "takeaway": "County lines and organised groups now use rural spaces for a wide range of crimes; industry partnerships are essential to respond.",
+      "turns": [
+        {
+          "speaker": "Bell Ribeiro-Addy",
+          "text": "How do county lines operate in rural areas now?"
+        },
+        {
+          "speaker": "Dr Kate Tudor",
+          "text": "County lines have shortened their routes and adapted: nominals from those networks commit wildlife crimes—poaching, hare coursing—that bring violence and intimidation to rural communities."
+        },
+        {
+          "speaker": "Robyn Munt",
+          "text": "Once groups find a soft spot they return. Members report repeated assaults and day-time trespass affecting crops, livestock and access."
+        },
+        {
+          "speaker": "Dr Smith",
+          "text": "Rural areas can also host drug production—abandoned barns become low-visibility sites for labs—and reports and evaluations have under-recognised rural roles."
+        },
+        {
+          "speaker": "Andrew Huddleston",
+          "text": "Organised crime groups target rural areas because they can move high-value kit and hide it quickly. We saw national GPS thefts and plant thefts run across many forces; rural teams and industry funding were key to catching offenders."
+        },
+        {
+          "speaker": "Ben Maguire",
+          "text": "Partnerships—like Operation Scorpion—help cross borders. How important are industry partnerships?"
+        },
+        {
+          "speaker": "Andrew Huddleston",
+          "text": "Crucial. The NFU, Construction Equipment Association and insurers fund training, intelligence sharing and the National Rural Crime Unit’s co-ordination role."
+        },
+        {
+          "speaker": "Robbie Moore",
+          "text": "What about the Equipment Theft (Prevention) Act—why hasn’t it reduced thefts yet?"
+        },
+        {
+          "speaker": "Andrew Huddleston",
+          "text": "Implementation and manufacturer adoption take time. The Act’s measures—like better marking and immobilisation—need rollout and enforcement to deter organised thefts of tractors and quad bikes."
+        },
+        {
+          "speaker": "Dr Smith",
+          "text": "We must also be careful around licensed cannabis sites; if not secured they can be infiltrated, so licensing must include strong protections."
+        }
+      ]
+    },
+    {
+      "title": "Policy, funding and police reform: practical asks",
+      "takeaway": "Panellists want stable funding, better intelligence sharing, targeted legislation and careful design of police reform so rural needs aren’t neglected.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "How do you prioritise rural crime among competing urban threats?"
+        },
+        {
+          "speaker": "Donna Jones",
+          "text": "PCCs set local priorities. I funded a rural crime taskforce, mobile CCTV, drones and named local officers. That needed local investment to change focus."
+        },
+        {
+          "speaker": "David Allen",
+          "text": "PCCs can convene partners. In Cumbria we use the ARIS fund—seized assets—to buy kit and support community prevention; prevention reduces later demand on policing."
+        },
+        {
+          "speaker": "Andrew Huddleston",
+          "text": "Ask: strengthen the Equipment Theft Act roll-out, push for search powers and support national co-ordination so ROCUs, NCA and rural teams can act together."
+        },
+        {
+          "speaker": "Dr Kate Tudor",
+          "text": "Police reform could help if it builds rural needs into the national operating model, but large mergers risk drawing resources to high-demand urban areas if not carefully designed."
+        },
+        {
+          "speaker": "Donna Jones",
+          "text": "I’m not against reform, but very concerned by proposals to cut forces to a handful. Bigger isn’t automatically better for rural coverage or local accountability."
+        },
+        {
+          "speaker": "David Allen",
+          "text": "Do the middle bit well: centralise IT and specialist functions, keep local accountability, and evolve rather than revolutionise boundaries."
+        },
+        {
+          "speaker": "Robyn Munt",
+          "text": "Farmers need consistent responses: better recording of rural crime, trained staff in control rooms and visible outcomes to rebuild reporting and trust."
+        },
+        {
+          "speaker": "Dr Smith",
+          "text": "Government should rural-proof reform and policies; currently rural crime is mentioned little in national planning documents despite clear harms."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Final point: what one practical change would you suggest now?"
+        },
+        {
+          "speaker": "Andrew Huddleston",
+          "text": "Mandate rural crime coordinators in every force, backed by funded regional intelligence channels, to stop criminals exploiting information gaps."
+        },
+        {
+          "speaker": "Donna Jones",
+          "text": "Invest in deployable tech and local named officers so communities see prevention and feel safe."
+        },
+        {
+          "speaker": "David Allen",
+          "text": "Use seized funds and local convening power to boost prevention programmes and restore neighbourhood policing where it works."
+        },
+        {
+          "speaker": "Dr Kate Tudor",
+          "text": "Improve how rural crime is recorded and shared nationally so policy and ROCU decisions match reality."
+        },
+        {
+          "speaker": "Robyn Munt",
+          "text": "Make sure industry partnerships continue and government funds the core policing roles, not just short-term grants."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you all. We’ll take these recommendations forward in the inquiry."
+        }
+      ]
+    }
+  ]
+}
