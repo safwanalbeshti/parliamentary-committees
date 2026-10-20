@@ -1,0 +1,266 @@
+{
+  "schema_version": 1,
+  "source_id": 18129,
+  "source_sha256": "8b4a5ff497dab8e9ac7d15eadf47436dc478f39ff7a2035e19e8a8e8f9d5c15d",
+  "title": "Child Maintenance Service: calculation, contact and support",
+  "label": "14 October 2026 · Child Maintenance Service",
+  "summary": "Witnesses and MPs examined how the Child Maintenance Service (CMS) supports parents, how its calculation formula and online-focused delivery create unfair or unaffordable outcomes, how CMS decisions clash with family courts and can worsen domestic abuse, and what practical fixes—local face‑to‑face help, clearer court‑CMS information, and reform to the calculation and benefits interactions—could help.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Debbie Abrahams",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Dr Samantha Callan OBE",
+      "name": "Dr Samantha Callan OBE",
+      "role": "Director and Founder, Family Hubs Network",
+      "kind": "witness"
+    },
+    {
+      "label": "Elisabeth Cooper",
+      "name": "Elisabeth Cooper",
+      "role": "Barrister, St John’s Buildings Chambers",
+      "kind": "witness"
+    },
+    {
+      "label": "Michelle Counley",
+      "name": "Michelle Counley",
+      "role": "Senior Consultant, NACSA",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Christine Davies",
+      "name": "Dr Christine Davies",
+      "role": "formerly Senior Lecturer in Applied Mathematics, Royal Holloway",
+      "kind": "witness"
+    },
+    {
+      "label": "Mari Haapanen",
+      "name": "Mari Haapanen",
+      "role": "Project Researcher, Sociology, University of Turku",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Donald Hirsch",
+      "name": "Professor Donald Hirsch",
+      "role": "Emeritus Professor of Social Policy, Loughborough University",
+      "kind": "witness"
+    },
+    {
+      "label": "Rushanara Ali",
+      "name": "Rushanara Ali",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Patrick Hurley",
+      "name": "Patrick Hurley",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "John Milne",
+      "name": "John Milne",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Liz Twist",
+      "name": "Liz Twist",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "collect and pay",
+      "definition": "A CMS service where the Government deducts maintenance from the payer and sends it to the recipient, charging a fee."
+    },
+    {
+      "term": "direct pay",
+      "definition": "When the paying parent transfers maintenance directly to the receiving parent without CMS collecting it."
+    },
+    {
+      "term": "family-based arrangement (FBA)",
+      "definition": "An agreement privately made between parents about maintenance, without CMS enforcement."
+    },
+    {
+      "term": "tribunal",
+      "definition": "A legal body that hears appeals or disputes about CMS decisions."
+    },
+    {
+      "term": "Financial Remedies Court",
+      "definition": "The court that deals with financial settlements between separating couples, such as property division and spousal support."
+    },
+    {
+      "term": "family hubs",
+      "definition": "Local, community-based centres that provide early help and support for families, including separation advice."
+    },
+    {
+      "term": "MARAC",
+      "definition": "Multi-Agency Risk Assessment Conference—a coordinated meeting of agencies to protect individuals at high risk of domestic abuse."
+    },
+    {
+      "term": "shared care",
+      "definition": "A childcare arrangement where children spend significant time living with both parents."
+    },
+    {
+      "term": "Universal Credit",
+      "definition": "The UK means-tested benefit that replaces several earlier benefits and is paid to eligible people on low incomes."
+    },
+    {
+      "term": "work allowance",
+      "definition": "An amount of earnings that Universal Credit claimants can keep before their benefit starts to be reduced."
+    },
+    {
+      "term": "guaranteed child maintenance",
+      "definition": "A state payment which some countries provide when the obligated parent cannot or does not pay maintenance."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "How parents actually access the Child Maintenance Service",
+      "takeaway": "CMS is mainly online and phone-based, provides calculators and information, but lacks sustained, personalised support and struggles with complex incomes.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "To start: what support does CMS give parents to set up agreements—both private (family‑based) and statutory?"
+        },
+        {
+          "speaker": "Dr Samantha Callan OBE",
+          "text": "The 2012 system encouraged family‑based arrangements and gives online tools and phone lines, but almost everything is digital and there's little help to sustain agreements as lives change."
+        },
+        {
+          "speaker": "Elisabeth Cooper",
+          "text": "There is an online calculator that many use first, but it's simplistic and misses complex income—dividends, rental income or directors’ loans often aren't counted in the initial calculation."
+        },
+        {
+          "speaker": "Michelle Counley",
+          "text": "CMS is administrative, not advisory. Removing the helpline lost a human touch; decisions feel hostile and rigid, which can antagonise parents from the first contact."
+        },
+        {
+          "speaker": "Dr Samantha Callan OBE",
+          "text": "There are trauma‑informed training efforts, but online forms are mechanical. Parents need early, face‑to‑face help so small problems don't become big ones."
+        }
+      ]
+    },
+    {
+      "title": "Errors and unfairness in the calculation",
+      "takeaway": "The formula and outdated thresholds produce demands many payers cannot afford and leave big arrears; tricky incomes create frequent under‑ or over‑payments.",
+      "turns": [
+        {
+          "speaker": "Dr Christine Davies",
+          "text": "The current formula is not fit for purpose: it takes a percentage of one parent's income using thresholds set decades ago, producing unaffordable amounts for low earners."
+        },
+        {
+          "speaker": "Dr Christine Davies",
+          "text": "Because thresholds were fixed in 1998, people who should pay a small flat amount can be assessed hundreds of pounds a month—far beyond their means."
+        },
+        {
+          "speaker": "Elisabeth Cooper",
+          "text": "Unearned income examples—dividends, rental income, shareholders’ loans—aren't clearly handled by the online system; parents can get absurdly low or misleading assessments."
+        },
+        {
+          "speaker": "Dr Christine Davies",
+          "text": "The result is rising arrears: NAO highlighted big figures—CMS arrears were hundreds of millions and continue to rise, much of which cannot realistically be repaid."
+        },
+        {
+          "speaker": "Professor Donald Hirsch",
+          "text": "Shared‑care discounts are structurally too small: the formula doesn't reflect real costs like providing a proper home for children who stay overnight."
+        }
+      ]
+    },
+    {
+      "title": "Conflicts between CMS and the family courts",
+      "takeaway": "CMS decisions and court orders can clash; CMS jurisdiction can overturn court‑ordered maintenance after 12 months, creating legal and financial uncertainty.",
+      "turns": [
+        {
+          "speaker": "Elisabeth Cooper",
+          "text": "Courts make final capital and maintenance decisions based on current assumptions, but CMS can review or displace an order after 12 months—causing uncertainty for housing and finances."
+        },
+        {
+          "speaker": "Elisabeth Cooper",
+          "text": "Practitioners use 'Christmas orders' and other tactics because CMS can later discharge a court order; appeals to tribunals also take years, compounding the problem."
+        },
+        {
+          "speaker": "Michelle Counley",
+          "text": "Jurisdiction is badly misunderstood: we've seen people become liable under both CMS and court orders, and CMS has no discretion to apply common‑sense reconciliations."
+        },
+        {
+          "speaker": "Elisabeth Cooper",
+          "text": "A practical fix would be a CMS information statement for courts: assessment, effective date, basis of income, shared‑care assumptions and pending reviews to help judges decide."
+        },
+        {
+          "speaker": "Dr Samantha Callan OBE",
+          "text": "This legal‑administrative overlap is sometimes used as part of coercive tactics—multiple forums (court, CMS, tribunals) can be deployed to harass the other parent."
+        }
+      ]
+    },
+    {
+      "title": "Mediation, family hubs and safeguarding",
+      "takeaway": "Mediation and local, face‑to‑face family hubs can reduce conflict and spot abuse, but vouchers and online-only CMS services are insufficient safeguards.",
+      "turns": [
+        {
+          "speaker": "Michelle Counley",
+          "text": "Mediation can help, but CMS treats parents as separate customers and can't distinguish those who can't pay from those who won't; initial language is often threatening, which hurts trust."
+        },
+        {
+          "speaker": "Dr Samantha Callan OBE",
+          "text": "Mediation vouchers help but £500 covers at most a session or two; what we need is community‑based pre‑mediation assessment in family hubs so people get early, face‑to‑face advice."
+        },
+        {
+          "speaker": "Dr Samantha Callan OBE",
+          "text": "Family hubs can spot coercive control and domestic abuse better than phone triage; specialist CMS caseworkers exist, but staff should be embedded locally and trained more broadly."
+        },
+        {
+          "speaker": "Liz Twist",
+          "text": "Would embedding CMS staff in multi‑agency settings like MARACs and hubs help spot misuse of the system and give a fuller picture?"
+        },
+        {
+          "speaker": "Elisabeth Cooper",
+          "text": "Yes. Human contact helps explain calculations and evidence, and it would make it harder for a parent to weaponise CMS rules without challenge."
+        }
+      ]
+    },
+    {
+      "title": "International comparisons and reform suggestions",
+      "takeaway": "Other countries—Australia, Nordic states—use both parents' incomes, guaranteed payments, or local pre‑action dispute work; the UK needs better data, joined‑up policy and different calculation options.",
+      "turns": [
+        {
+          "speaker": "Mari Haapanen",
+          "text": "In Finland maintenance is guided case‑by‑case, both parents' incomes are considered and there is guaranteed child maintenance the state pays if the obligated parent cannot."
+        },
+        {
+          "speaker": "Dr Christine Davies",
+          "text": "Australia divides child costs by age and parents’ incomes and requires a pre‑action dispute resolution step before court—this gives clarity and local support before litigation."
+        },
+        {
+          "speaker": "Professor Donald Hirsch",
+          "text": "We should recognise fixed costs of hosting children—decent housing, equipment, activities—and consider a flat‑rate element alongside proportional payments to protect low‑income parents."
+        },
+        {
+          "speaker": "Dr Christine Davies",
+          "text": "A core change would be a self‑support allowance: like a personal allowance, payers keep enough to live on, and maintenance applies above that so contributions are affordable."
+        },
+        {
+          "speaker": "John Milne",
+          "text": "On data and review design: what should a good review measure and how do we avoid repeating poor consultations?"
+        },
+        {
+          "speaker": "Dr Christine Davies",
+          "text": "Success indicators must be affordability, fairness and lower arrears; the review should use CMS administrative data, model interactions with Universal Credit, and test household outcomes."
+        },
+        {
+          "speaker": "Professor Donald Hirsch",
+          "text": "We also need new surveys that capture shared‑care households, not just households as a single unit, because current data hide children who split time between homes."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you—all panel members have made clear the main fixes: more local human support, clearer court‑CMS information, a rethink of the formula and better data on shared care and poverty."
+        }
+      ]
+    }
+  ]
+}

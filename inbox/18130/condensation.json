@@ -1,0 +1,310 @@
+{
+  "schema_version": 1,
+  "source_id": 18130,
+  "source_sha256": "484c48043ea39290bafa08ff7754494ceadd7e8bed0ab1fde852e2d21bb87900",
+  "title": "Breaking In: Why women still struggle to get non-playing roles in sport",
+  "label": "14 October 2026 · Routes into sport for girls and women",
+  "summary": "The committee questioned sports journalists and industry figures about how young women get into non-playing sports roles. Witnesses said opportunities have grown with the rise of women’s sport and digital media, but legacy structures, a lack of data, insecure freelance work, social media abuse, and assumptions that women only cover women’s sport still block many careers. Panelists described local initiatives, mentorship and industry action as helpful, and called for better tracking, employer protections and targeted support.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Olivia Bailey",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Rachel Taylor",
+      "name": "Rachel Taylor",
+      "role": "Member of the Women and Equalities Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Nadia Whittome",
+      "name": "Nadia Whittome",
+      "role": "Member of the Women and Equalities Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Christine Jardine",
+      "name": "Christine Jardine",
+      "role": "Member of the Women and Equalities Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Kim Leadbeater",
+      "name": "Kim Leadbeater",
+      "role": "Member of the Women and Equalities Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Richard Quigley",
+      "name": "Richard Quigley",
+      "role": "Member of the Women and Equalities Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Rosie Duffield",
+      "name": "Rosie Duffield",
+      "role": "Member of the Women and Equalities Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Flo Lloyd-Hughes",
+      "name": "Flo Lloyd-Hughes",
+      "role": "Football broadcaster; Founder, The Cutback",
+      "kind": "witness"
+    },
+    {
+      "label": "Natalie Pirks",
+      "name": "Natalie Pirks",
+      "role": "Broadcaster and former BBC Sport correspondent",
+      "kind": "witness"
+    },
+    {
+      "label": "Fiona Tomas",
+      "name": "Fiona Tomas",
+      "role": "Women’s sport reporter, The Telegraph",
+      "kind": "witness"
+    },
+    {
+      "label": "Ashley Broadley",
+      "name": "Ashley Broadley",
+      "role": "Chair, Sports Journalists’ Association; Head of Sport, Press Association",
+      "kind": "witness"
+    },
+    {
+      "label": "Leon Mann",
+      "name": "Leon Mann",
+      "role": "Founder, Black Collective of Media in Sport (BCOMS)",
+      "kind": "witness"
+    },
+    {
+      "label": "Barbara Slater",
+      "name": "Barbara Slater",
+      "role": "Former Director, BBC Sport",
+      "kind": "witness"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "legacy media",
+      "definition": "Traditional newspapers, TV and radio organisations, as distinct from digital-only outlets."
+    },
+    {
+      "term": "press box",
+      "definition": "The area at a sports ground where journalists sit to report a match or event."
+    },
+    {
+      "term": "WSL",
+      "definition": "Women's Super League, the top tier of women’s club football in England."
+    },
+    {
+      "term": "Women’s Sport Trust",
+      "definition": "An organisation that researches and campaigns on the visibility of women’s sport."
+    },
+    {
+      "term": "WIF (Women in Football)",
+      "definition": "A networking organisation that supports women working in football."
+    },
+    {
+      "term": "BCOMS",
+      "definition": "Black Collective of Media in Sport, a group supporting Black people in sports media."
+    },
+    {
+      "term": "SJA",
+      "definition": "Sports Journalists’ Association, a UK body that supports sports journalists and runs awards."
+    },
+    {
+      "term": "The Hundred",
+      "definition": "A professional short-format cricket competition in England and Wales."
+    },
+    {
+      "term": "freelancer / self-employed",
+      "definition": "Someone who works contract-by-contract rather than as a permanent employee, with fewer workplace protections."
+    },
+    {
+      "term": "listed events legislation",
+      "definition": "Rules that require certain major sports events to be available on free-to-air TV."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "How easy is it to get in?",
+      "takeaway": "Digital routes have opened opportunities, but traditional media remain male-dominated and offer few clear routes for young women.",
+      "turns": [
+        {
+          "speaker": "Rachel Taylor",
+          "text": "Flo, how accessible is sports media for young women now?"
+        },
+        {
+          "speaker": "Flo Lloyd-Hughes",
+          "text": "It depends. Digital content creation has created ways in, but legacy media—newspapers and big broadcasters—are still older, male-dominated and offer weak routes in for young women."
+        },
+        {
+          "speaker": "Fiona Tomas",
+          "text": "I agree. There are more women covering women’s sport, and some dedicated roles exist, but breaking into print or broadcast is harder now because jobs are fewer and AI and social media have changed what journalism looks like."
+        },
+        {
+          "speaker": "Natalie Pirks",
+          "text": "When I started two decades ago I was often one of one in a press box. There are more women now, which is positive, but traditional paths—study, local paper, climb up—are shrinking."
+        }
+      ]
+    },
+    {
+      "title": "Does more interest in women’s sport mean more jobs for women?",
+      "takeaway": "High-profile events boost roles and visibility, but that doesn't automatically widen career opportunities across the industry.",
+      "turns": [
+        {
+          "speaker": "Rachel Taylor",
+          "text": "Has the viewing rise in women’s sport changed routes in?"
+        },
+        {
+          "speaker": "Fiona Tomas",
+          "text": "Major events create spikes in coverage and new roles, especially in women’s football. But most weeks the back pages remain dominated by men’s sport."
+        },
+        {
+          "speaker": "Flo Lloyd-Hughes",
+          "text": "Since the 2022 Euros we've seen national correspondents for women’s football become common. Still, women often get pigeonholed into women’s sport, and commercial decisions can cut coverage quickly."
+        },
+        {
+          "speaker": "Natalie Pirks",
+          "text": "Also, putting only your woman on a women’s story can limit how editors treat it—big stories should attract senior editors regardless of gender."
+        }
+      ]
+    },
+    {
+      "title": "Networks, mentors and who gets seen",
+      "takeaway": "Mentoring and male allies matter, but recruitment culture, a lack of role models in senior editorial jobs and weak data hamper progress.",
+      "turns": [
+        {
+          "speaker": "Rachel Taylor",
+          "text": "How important are mentors and networks, and are there enough?"
+        },
+        {
+          "speaker": "Natalie Pirks",
+          "text": "They’re vital. Groups like Women in Football are invaluable. Male allies matter, too. But newsroom culture—WhatsApp groups, informal networks—can still exclude women."
+        },
+        {
+          "speaker": "Ashley Broadley",
+          "text": "We track who enters the industry via awards and membership. Right now our SJA membership and shortlists show women at roughly 10–12% in some areas. Recognition matters for visibility."
+        },
+        {
+          "speaker": "Leon Mann",
+          "text": "We lack industry-wide data. BCOMS runs academies and masterclasses to create pathways—25 places north, 25 south—because opportunity, not lack of talent, is the block."
+        },
+        {
+          "speaker": "Barbara Slater",
+          "text": "Role models help. When broadcasters invest in women athletes and presenters, that credibility opens doors; but you need deliberate recruitment and support, not luck."
+        }
+      ]
+    },
+    {
+      "title": "Abuse, self-censorship and safety online",
+      "takeaway": "Online abuse is a major deterrent; women self-censor, employers struggle to protect staff, and witnesses called for stronger platform regulation.",
+      "turns": [
+        {
+          "speaker": "Nadia Whittome",
+          "text": "How far does gender bias and online abuse shape women’s careers?"
+        },
+        {
+          "speaker": "Flo Lloyd-Hughes",
+          "text": "It’s huge. Abuse is gendered and often racialised; it forces women to change how they use social media and consider risks before taking public roles."
+        },
+        {
+          "speaker": "Natalie Pirks",
+          "text": "I didn't face as much because I worked in news without an opinion voice for years. But once you give opinions, the pile-ons come. That would put many young people off."
+        },
+        {
+          "speaker": "Fiona Tomas",
+          "text": "I avoid comment sections because they’re misogynistic; many journalists must build a public brand now, which increases exposure to abuse."
+        },
+        {
+          "speaker": "Ashley Broadley",
+          "text": "Ultimately the social platforms must be held to account; if someone defames a person in print there are remedies — the online space often feels lawless."
+        },
+        {
+          "speaker": "Leon Mann",
+          "text": "BCOMS sees co-ordinated pile-ons and believes regulation—like identity checks or stronger moderation—deserves investigation, balanced with safety concerns."
+        }
+      ]
+    },
+    {
+      "title": "Work conditions: freelancing, maternity and career length",
+      "takeaway": "The industry's freelance, insecure structure plus travel and caregiving expectations make careers especially hard for women and parents.",
+      "turns": [
+        {
+          "speaker": "Richard Quigley",
+          "text": "Does insecure freelance work and lack of typical workplace protections prevent women entering and staying?"
+        },
+        {
+          "speaker": "Natalie Pirks",
+          "text": "I was lucky to have supportive employers for maternity. Many today are freelance and would be worried. Freelance work offers flexibility but not protection."
+        },
+        {
+          "speaker": "Flo Lloyd-Hughes",
+          "text": "Freelancing hits maternity and sickness hard—if you don't work, you don't get paid. Women are often seen as less mobile because of caregiving, which limits opportunities."
+        },
+        {
+          "speaker": "Fiona Tomas",
+          "text": "Women find it harder to rebuild careers after having children because the job demands travel and irregular hours. Many move freelance for balance but lose security."
+        }
+      ]
+    },
+    {
+      "title": "Data, apprenticeships and practical solutions",
+      "takeaway": "Panels want coordinated industry data, more apprenticeships and funded pathways, plus employer actions to shortlist and protect women.",
+      "turns": [
+        {
+          "speaker": "Richard Quigley",
+          "text": "What can Government or employers do to encourage women into non-playing roles? Are apprenticeships useful?"
+        },
+        {
+          "speaker": "Leon Mann",
+          "text": "We need clear data and a plan. BCOMS’s academy got commercial placements—south cohort 100% into paid work, north 70%—because intentional programmes work. We need to scale that."
+        },
+        {
+          "speaker": "Ashley Broadley",
+          "text": "SJA found adverts and shortlists often discourage women. We changed judging panels and run an academy; representation on shortlists helps but funding is needed to sustain action."
+        },
+        {
+          "speaker": "Barbara Slater",
+          "text": "Apprenticeships and targeted interventions can help. Listed-events protections and proportionate tax or broadcast incentives for women’s sport might also stimulate investment and exposure."
+        },
+        {
+          "speaker": "Kim Leadbeater",
+          "text": "Are women visible in senior decision-making? Does that affect recruitment?"
+        },
+        {
+          "speaker": "Barbara Slater",
+          "text": "Yes—women in senior roles matter hugely. Where I led BBC Sport we reached 40% by planning. Collaboration across organisations, and allyship, makes a real difference."
+        }
+      ]
+    },
+    {
+      "title": "What advice would you give a young woman starting out?",
+      "takeaway": "Be resilient, build networks and expect it to be tough—but also seek mentors and recognition; industry action can make opportunities fairer.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "One last hard question: what single thing would help a young woman now trying for a sports journalism career?"
+        },
+        {
+          "speaker": "Flo Lloyd-Hughes",
+          "text": "Recognition. Women are often not acknowledged for work; awards, commissioning and peer recognition keep people in the game."
+        },
+        {
+          "speaker": "Fiona Tomas",
+          "text": "Don’t let your gender hold you back. Ask the tough, relevant questions and be unapologetically yourself—good journalism opens doors."
+        },
+        {
+          "speaker": "Natalie Pirks",
+          "text": "It’s not for the meek, but it’s getting better. Expect challenges, build a network, and get comfortable with the fact it will take effort and some tough resilience."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you all—your evidence described clear problems and practical steps: better data, funded pathways, employer protections and action on online abuse."
+        }
+      ]
+    }
+  ]
+}

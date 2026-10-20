@@ -1,0 +1,336 @@
+{
+  "schema_version": 1,
+  "source_id": 18136,
+  "source_sha256": "6e621f6ec4de23d24f0f21f21f18e295a114d081065cf7b7c1672fec73130087",
+  "title": "Fixing the wait: a needs-first plan for children’s mental health",
+  "label": "14 October 2026 · Children and Young People’s Mental Health",
+  "summary": "Professors Peter Fonagy and Gillian Baird—chair and vice‑chair of the Independent Review into Mental Health Conditions, ADHD and Autism—gave evidence to the Health & Social Care and Education Committees. They argued for a major shift from diagnosis‑first to needs‑first care, earlier support and integrated local services across health, education and welfare. They warned about the harms of long waits, explained drivers of rising need, called for better data and regulation of private assessments, and urged investment in school‑based teams and neighbourhood hubs.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Layla Moran",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Professor Fonagy",
+      "name": "Professor Peter Fonagy",
+      "role": "Chair, Independent Review into Mental Health Conditions, ADHD and Autism",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Baird",
+      "name": "Professor Gillian Baird",
+      "role": "Vice-Chair, Independent Review into Mental Health Conditions, ADHD and Autism",
+      "kind": "witness"
+    },
+    {
+      "label": "Peter Swallow",
+      "name": "Peter Swallow",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Caroline Voaden",
+      "name": "Caroline Voaden",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Gregory Stafford",
+      "name": "Gregory Stafford",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Josh Fenton-Glynn",
+      "name": "Josh Fenton-Glynn",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Jen Craft",
+      "name": "Jen Craft",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Joe Robertson",
+      "name": "Joe Robertson",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Darren Paffey",
+      "name": "Darren Paffey",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Jodie Gosling",
+      "name": "Jodie Gosling",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Sureena Brackenridge",
+      "name": "Sureena Brackenridge",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Helen Hayes",
+      "name": "Helen Hayes",
+      "role": "Chair, Education Committee / Member of the committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "CAMHS",
+      "definition": "Child and Adolescent Mental Health Services, specialist NHS mental health care for children and young people."
+    },
+    {
+      "term": "EHCP",
+      "definition": "Education, Health and Care Plan: a legal plan in England describing a child’s special educational needs and support."
+    },
+    {
+      "term": "ICB",
+      "definition": "Integrated Care Board: local NHS body responsible for planning and funding health services."
+    },
+    {
+      "term": "NICE",
+      "definition": "National Institute for Health and Care Excellence, which issues evidence‑based clinical guidance in England."
+    },
+    {
+      "term": "Right to Choose",
+      "definition": "A policy allowing families to pay for private assessment when NHS waits are long, while keeping NHS care options."
+    },
+    {
+      "term": "PDA",
+      "definition": "Pathological Demand Avoidance: a contested clinical profile of demand‑avoidant behaviour that some clinicians link to autism."
+    },
+    {
+      "term": "SEND",
+      "definition": "Special Educational Needs and Disabilities, the education system term for children needing extra support."
+    },
+    {
+      "term": "PIP / DLA",
+      "definition": "Welfare payments (Personal Independence Payment / Disability Living Allowance) that some families get for disability-related costs."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Purpose and expertise",
+      "takeaway": "The reviewers explained their backgrounds and why they were asked to run the independent review.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Professor Fonagy and Professor Baird, welcome. To start: why you were chosen for the review and your relevant experience?"
+        },
+        {
+          "speaker": "Professor Fonagy",
+          "text": "I'm a clinical psychologist with four decades in child mental health and have advised NHS England since 2011. That experience made me a natural choice to chair the review."
+        },
+        {
+          "speaker": "Professor Baird",
+          "text": "I'm a paediatrician specialising in neurodisability, previously a consultant at Guy's and St Thomas'. I co‑chaired the review and have worked on guidelines and research relevant to ADHD, autism and related conditions."
+        }
+      ]
+    },
+    {
+      "title": "A needs‑first model: top recommendations",
+      "takeaway": "They want a system that responds to a child's needs immediately, integrates assessments, focuses on prevention, and strengthens specialist care.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Briefly, what are your top recommendations and which are easiest to implement?"
+        },
+        {
+          "speaker": "Professor Fonagy",
+          "text": "We propose a shift from a diagnosis‑first system to a needs‑first system: identify and support needs as soon as a child presents, then prioritise diagnostic work if required."
+        },
+        {
+          "speaker": "Professor Fonagy",
+          "text": "We also want stronger prevention, public‑health approaches to wellbeing, and integrated assessments because neurodevelopmental and mental health problems often co‑occur."
+        },
+        {
+          "speaker": "Professor Baird",
+          "text": "Integration is crucial. Right now, separate pathways force multiple assessments and long waits. Better integration will reduce duplication and speed support."
+        },
+        {
+          "speaker": "Chair",
+          "text": "You stress that specialist services must be protected, not downgraded."
+        },
+        {
+          "speaker": "Professor Fonagy",
+          "text": "Exactly. Specialist assessment and treatment remain essential; the system just needs to start by addressing need immediately."
+        }
+      ]
+    },
+    {
+      "title": "Why need is rising: social drivers",
+      "takeaway": "Reviewers reject the 'snowflake' idea and point to increased stress, less social support, social media and covid impacts as real drivers.",
+      "turns": [
+        {
+          "speaker": "Peter Swallow",
+          "text": "Some say today's young people are just less resilient. You reject that—why?"
+        },
+        {
+          "speaker": "Professor Fonagy",
+          "text": "Calling them 'snowflakes' is insulting. Evidence shows more stress—financial insecurity, relentless social comparisons on social media, educational pressure—and less local youth provision since 2011."
+        },
+        {
+          "speaker": "Caroline Voaden",
+          "text": "How much do factors like social media and sleep each contribute? Where should government focus?"
+        },
+        {
+          "speaker": "Professor Fonagy",
+          "text": "They interact, so it's hard to quantify. But social media often displaces protective activities—sleep, exercise, face‑to‑face friendships. Policy should restore protective environments and encourage good habits."
+        },
+        {
+          "speaker": "Caroline Voaden",
+          "text": "Would delaying smartphone ownership help?"
+        },
+        {
+          "speaker": "Professor Fonagy",
+          "text": "Social norms matter more than bans. Practical parental guidance and creating alternatives—outdoor education, clubs—will be far more effective."
+        }
+      ]
+    },
+    {
+      "title": "Diagnosis, misdiagnosis and the data gap",
+      "takeaway": "They found no evidence of large‑scale overdiagnosis but warned of misdiagnosis, data gaps since 2017, and the risks of long waits.",
+      "turns": [
+        {
+          "speaker": "Gregory Stafford",
+          "text": "If environment changes, could someone predisposed to ADHD not become disabled by it? Is it a continuum?"
+        },
+        {
+          "speaker": "Professor Fonagy",
+          "text": "Yes—it’s a continuum. ADHD is about attention regulation interacting with environment. Stressful settings make traits more disabling; early support can change outcomes."
+        },
+        {
+          "speaker": "Joe Robertson",
+          "text": "Your report gives a 1.2% autism population prevalence but >4% diagnosed. Isn't that overdiagnosis?"
+        },
+        {
+          "speaker": "Professor Baird",
+          "text": "We found no evidence of widespread overdiagnosis. Two points: we lack a recent population prevalence study in England (last comprehensive data is from 2017), and diagnostic understanding and thresholds have changed. So administrative diagnosis rates may not reflect 'overdiagnosis' of people with no problems."
+        },
+        {
+          "speaker": "Professor Fonagy",
+          "text": "Overdiagnosis implies there is nothing wrong with people given labels. We see misdiagnosis and changing prevalence signals, but not proof that many people are wrongly labelled and have no need."
+        },
+        {
+          "speaker": "Chair",
+          "text": "What must government do now to fill the evidence gap?"
+        },
+        {
+          "speaker": "Professor Baird",
+          "text": "Commission regular, up‑to‑date population prevalence studies and fund routine data collection so we can track change and evaluate reforms."
+        }
+      ]
+    },
+    {
+      "title": "Services, schools and parents",
+      "takeaway": "They recommended integrated local neighbourhood hubs, better‑resourced school mental health teams, shared language between health and education, and regulating private assessments.",
+      "turns": [
+        {
+          "speaker": "Josh Fenton-Glynn",
+          "text": "Parents seek private assessments because waits are so long. Does your model make that irrelevant?"
+        },
+        {
+          "speaker": "Professor Fonagy",
+          "text": "We don't recommend abolishing Right to Choose but prioritising NHS needs‑based support would reduce the incentive for expensive private assessments that don't always lead to follow‑up support."
+        },
+        {
+          "speaker": "Josh Fenton-Glynn",
+          "text": "Should private providers be regulated?"
+        },
+        {
+          "speaker": "Professor Fonagy",
+          "text": "Yes. Assessments that NHS pays for should be quality‑regulated—NICE standards and CQC oversight—so assessment equals useful next steps, not just a label."
+        },
+        {
+          "speaker": "Darren Paffey",
+          "text": "If we move to support‑first, what does that support look like?"
+        },
+        {
+          "speaker": "Professor Baird",
+          "text": "It must be evidence‑based, often psychosocial approaches, delivered earlier in school and community settings, and backed by NICE guidance. It can't be piecemeal or token online courses."
+        },
+        {
+          "speaker": "Jodie Gosling",
+          "text": "Could needs‑first weaken access to statutory entitlements?"
+        },
+        {
+          "speaker": "Professor Baird",
+          "text": "Safeguards are necessary: integrated local services, clear prioritisation for complexity and risk, and parental confidence-building so diagnosis doesn't become the only route to support."
+        },
+        {
+          "speaker": "Sureena Brackenridge",
+          "text": "What role should schools play in early identification?"
+        },
+        {
+          "speaker": "Professor Fonagy",
+          "text": "Schools are vital: young people rate family, friends and school as top supports. Mental health support teams should be empowered to cover the 'missing middle'—children who need more than basic support but less than specialist CAMHS."
+        },
+        {
+          "speaker": "Professor Baird",
+          "text": "We back neighbourhood hubs co‑locating health, education and family support, and local commissioning that brings health into planning and action at school level."
+        },
+        {
+          "speaker": "Jen Craft",
+          "text": "Would placing a legal duty on ICBs to deliver aspects of EHCP help?"
+        },
+        {
+          "speaker": "Professor Fonagy",
+          "text": "Yes. Health needs to be at the table and accountable—commissioning for outcomes like participation, not merely processes or diagnoses."
+        }
+      ]
+    },
+    {
+      "title": "Workforce, digital tools and the single priority",
+      "takeaway": "They urged better training for school‑team clinicians, cautious use of digital/AI (clinician remains central), and their single top ask: join up services around children's needs.",
+      "turns": [
+        {
+          "speaker": "Helen Hayes",
+          "text": "Mental health support teams need higher expertise. What workforce changes do you recommend?"
+        },
+        {
+          "speaker": "Professor Fonagy",
+          "text": "Train teams in proven therapies—CBT, trauma and eating‑disorder interventions—and boost capacity to treat the 'missing middle' rather than only mild cases."
+        },
+        {
+          "speaker": "Professor Baird",
+          "text": "Co‑location and integrated commissioning would let teams access specialist advice quickly and stop families being pushed between services."
+        },
+        {
+          "speaker": "Chair",
+          "text": "You mention digital assessments and AI; can you point to practical examples?"
+        },
+        {
+          "speaker": "Professor Fonagy",
+          "text": "Digital tools can give parents better information and help triage need. But: AI should describe and clinicians decide. There are pilot examples in parts of south London and Scotland, but national scale‑up needs careful testing and standards."
+        },
+        {
+          "speaker": "Professor Baird",
+          "text": "Digital must be integrated with local services so advice leads to accessible help—not just signposting to commercial sites."
+        },
+        {
+          "speaker": "Chair",
+          "text": "If you had to pick one recommendation for these Committees to press, what would it be?"
+        },
+        {
+          "speaker": "Professor Fonagy",
+          "text": "Bring services together around children's and families' needs—integrated neighbourhood hubs, shared language, joint commissioning and enough resources to respond early."
+        },
+        {
+          "speaker": "Professor Baird",
+          "text": "I completely agree."
+        }
+      ]
+    }
+  ]
+}

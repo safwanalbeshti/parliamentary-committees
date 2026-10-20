@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18131,
+  "activity_id": 38920,
+  "document_id": 307409,
+  "meeting_date": "2026-10-14",
+  "meeting_date_display": "14 October 2026",
+  "publication_date": "2026-10-19T10:13:07",
+  "title": "Budget 2026",
+  "committee": "Treasury Committee",
+  "committees": [
+    {
+      "id": 158,
+      "name": "Treasury Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10011,
+      "title": "Budget 2026",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Lord O'Neill of Gatley",
+      "role": "Economist and former Commercial Secretary to the Treasury",
+      "organisation": "HM Treasury"
+    },
+    {
+      "name": "Dr Peder Beck-Friis",
+      "role": "Senior Vice President and economist",
+      "organisation": "PIMCO"
+    },
+    {
+      "name": "Professor Anna Valero",
+      "role": "Former Adviser to Rt Hon Rachel Reeves as Chancellor and Director of the Growth Programme",
+      "organisation": "Centre for Economic Performance (CEP) at London School of Economics and Political Science (LSE)"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Lord O’Neill",
+    "John Glen",
+    "Dr Beck-Friis",
+    "Professor Valero",
+    "Bobby Dean",
+    "Chris Coghlan",
+    "Ms Minns",
+    "Dame Siobhain McDonagh",
+    "Dame Harriett Baldwin",
+    "Catherine West"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18131/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18131",
+  "source_sha256": "a85d76d9096b083c74d8e11853280c2a29774e385fc5c63c20d396091a740ca2",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

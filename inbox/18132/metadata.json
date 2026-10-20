@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18132,
+  "activity_id": 38861,
+  "document_id": 307414,
+  "meeting_date": "2026-10-13",
+  "meeting_date_display": "13 October 2026",
+  "publication_date": "2026-10-19T10:46:45",
+  "title": "The Online Safety Act: implementation and impact",
+  "committee": "Communications and Digital Committee",
+  "committees": [
+    {
+      "id": 170,
+      "name": "Communications and Digital Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9955,
+      "title": "The Online Safety Act: implementation and impact",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Chief Executive Officer",
+      "organisation": "Molly Rose Foundation"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Policy and Research Director",
+      "organisation": "Internet Matters"
+    },
+    {
+      "name": "Professor Sonia Livingstone",
+      "role": "Professor of Social Psychology",
+      "organisation": "London School of Economics & Political Science"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Professor Sonia Livingstone",
+    "Andy Burrows",
+    "Katie Freeman-Tayler",
+    "Lord Storey",
+    "At the Molly Rose Foundation, we always had a very simple yardstick for the Act",
+    "Lord Kirkhope of Harrogate",
+    "Lord Tarassenko",
+    "Baroness Elliott of Whitburn Bay",
+    "Baroness Owen of Alderley Edge",
+    "Baroness Caine of Kentish Town",
+    "Secondly, I will mention something that has not really come up yet"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18132/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18132",
+  "source_sha256": "8076d70d1018057b1340de0b6e409de22a1cc2c77e6568357ad8448dc43ef554",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

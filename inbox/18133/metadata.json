@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18133,
+  "activity_id": 38929,
+  "document_id": 307420,
+  "meeting_date": "2026-10-13",
+  "meeting_date_display": "13 October 2026",
+  "publication_date": "2026-10-19T11:16:56",
+  "title": "AI adoption, safety and governance",
+  "committee": "Business, Innovation, Science and Trade Committee",
+  "committees": [
+    {
+      "id": 365,
+      "name": "Business, Innovation, Science and Trade Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10013,
+      "title": "AI adoption, safety and governance",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Executive Director",
+      "organisation": "AI Futures Project"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Technical Staff",
+      "organisation": "Theorem"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Co-Founder and Chief Scientist",
+      "organisation": "Guidelight AI Standards"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Co-Founder and Chief Scientist",
+      "organisation": "Resolution"
+    }
+  ],
+  "speaker_candidates": [
+    "Business, Innovation, Science and Trade Committee members present",
+    "Joint Committee on Human Rights member present",
+    "Science and Technology Committee member present",
+    "Chair",
+    "Daniel Kokotajlo",
+    "Steven Adler",
+    "Geoffrey Irving",
+    "Aengus Lynch",
+    "Dan Aldridge",
+    "Chris Bloore",
+    "Leigh Ingham",
+    "Martin Wrigley",
+    "Mr Reynolds",
+    "Sarah Edwards",
+    "Antonia Bance",
+    "Alex Sobel",
+    "Charlie Maynard"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18133/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18133",
+  "source_sha256": "443a12b4bdf5d2adc7e973683b7e2be84eceba4e6635c73bb1b6669c6262fc33",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

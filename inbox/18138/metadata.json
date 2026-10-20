@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18138,
+  "activity_id": 38900,
+  "document_id": 307437,
+  "meeting_date": "2026-10-15",
+  "meeting_date_display": "15 October 2026",
+  "publication_date": "2026-10-19T13:04:43",
+  "title": "Draft Finance Bill 2026–27",
+  "committee": "Finance Bill Sub-Committee",
+  "committees": [
+    {
+      "id": 230,
+      "name": "Finance Bill Sub-Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10007,
+      "title": "Draft Finance Bill 2026–27",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Sandy Bhogal",
+      "role": "Co-Chair",
+      "organisation": "The Law Society of England and Wales"
+    },
+    {
+      "name": "Reuben Duffy",
+      "role": "Policy Executive",
+      "organisation": "The Law Society of Scotland"
+    },
+    {
+      "name": "Margaret Curran",
+      "role": "Technical Officer",
+      "organisation": "Chartered Institute of Taxation (CIOT)"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Sandy Bhogal",
+    "Margaret Curran",
+    "Reuben Duffy",
+    "Lord Carrington of Fulham",
+    "Lord Leigh of Hurley",
+    "Baroness Wheatcroft",
+    "I would reiterate my earlier point"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18138/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18138",
+  "source_sha256": "4a7fe025fefbfb45a82af3289917a481d4c9fce9dd573a0123dbd323cada0871",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

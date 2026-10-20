@@ -126,7 +126,7 @@ The JSON is checked automatically.
 ## Official metadata
 
 * Parliament oral-evidence ID: 18107
-* Required source hash: `0b4ab63ae8db690373193e67f5e05f6722c434897f7a98511256ad4fb806595f`
+* Required source hash: `4c6c23ea54865f1f785b9596dd0550c437627b4b8ea0a9dc01d0f3c124395a59`
 * Committee: Public Accounts Committee
 * Subject: Resilience of the UK's food supply to disruptions
 * Meeting date: 12 October 2026
@@ -177,7 +177,7 @@ Return exactly this structure:
 {
   "schema_version": 1,
   "source_id": 18107,
-  "source_sha256": "0b4ab63ae8db690373193e67f5e05f6722c434897f7a98511256ad4fb806595f",
+  "source_sha256": "4c6c23ea54865f1f785b9596dd0550c437627b4b8ea0a9dc01d0f3c124395a59",
   "title": "A concise, engaging title",
   "label": "12 October 2026 · A short picker label",
   "summary": "One paragraph explaining what the hearing covered and its main conclusion.",

@@ -1,0 +1,288 @@
+{
+  "schema_version": 1,
+  "source_id": 18138,
+  "source_sha256": "4a7fe025fefbfb45a82af3289917a481d4c9fce9dd573a0123dbd323cada0871",
+  "title": "Corrections, CCNs and recklessness: legal advisers question new enforcement tools",
+  "label": "15 October 2026 · Draft Finance Bill 2026–27",
+  "summary": "Law and tax specialists gave evidence on proposed new rules obliging taxpayers to correct return errors, the introduction of Customer Correction Notices (CCNs) and a criminal offence for reckless incorrect statements. The Law Society of England and Wales was sceptical about new powers, the Chartered Institute of Taxation supported a statutory duty to correct provided guidance and limits are clear, and the Law Society of Scotland backed the aim but asked for clearer definitions and safeguards. All witnesses stressed better guidance, targeted use, thresholds and resourcing for HMRC, and warned against vague criminalisation of 'recklessness'.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Newby",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Sandy Bhogal",
+      "name": "Sandy Bhogal",
+      "role": "Co-Chair, Tax Law Committee, Law Society of England and Wales",
+      "kind": "witness"
+    },
+    {
+      "label": "Margaret Curran",
+      "name": "Margaret Curran",
+      "role": "Technical Officer, Chartered Institute of Taxation (CIOT)",
+      "kind": "witness"
+    },
+    {
+      "label": "Reuben Duffy",
+      "name": "Reuben Duffy",
+      "role": "Policy Executive, Law Society of Scotland",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Carrington of Fulham",
+      "name": "Lord Carrington of Fulham",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Leigh of Hurley",
+      "name": "Lord Leigh of Hurley",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Wheatcroft",
+      "name": "Baroness Wheatcroft",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "CCN",
+      "definition": "Customer Correction Notice — a proposed HMRC notice telling a taxpayer HMRC thinks they've made a return error and asking them to correct it."
+    },
+    {
+      "term": "TMA",
+      "definition": "Taxes Management Act — UK law that sets out procedures for tax collection and penalties."
+    },
+    {
+      "term": "tax gap",
+      "definition": "The difference between the tax that should be collected and what is actually collected."
+    },
+    {
+      "term": "self-assessment",
+      "definition": "The system where taxpayers calculate and report their own tax liabilities to HMRC."
+    },
+    {
+      "term": "de minimis",
+      "definition": "A threshold below which HMRC may decide not to take action because the amount is trivial."
+    },
+    {
+      "term": "PAYE",
+      "definition": "Pay As You Earn — tax collected from employees' pay by employers for income tax and National Insurance."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Why a legal duty to correct?",
+      "takeaway": "Witnesses disagree on whether a new statutory duty to correct return errors is needed.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "The Bill would make it a statutory duty for taxpayers to correct errors. Is that necessary and does HMRC currently lack powers to pursue uncorrected errors?"
+        },
+        {
+          "speaker": "Sandy Bhogal",
+          "text": "The Law Society of England and Wales is sceptical. There isn't currently a standalone duty, but penalties already exist for failing to correct: careless or deliberate behaviour can trigger higher penalties."
+        },
+        {
+          "speaker": "Sandy Bhogal",
+          "text": "We have self-assessment: taxpayers must take reasonable steps pre-filing. Adding a new post-filing policing duty risks extra burden and may not prove more effective than existing powers."
+        },
+        {
+          "speaker": "Margaret Curran",
+          "text": "CIOT disagrees. We support a statutory duty because it encourages voluntary corrections and could reduce the tax gap—errors and failure to take reasonable care account for large amounts."
+        },
+        {
+          "speaker": "Margaret Curran",
+          "text": "It would also back up professional rules that advisers already have to encourage clients to correct errors, helping advisers in difficult client conversations."
+        },
+        {
+          "speaker": "Reuben Duffy",
+          "text": "The Law Society of Scotland supports the policy aim but wants clearer definitions—especially 'reasonable steps' and 'becomes aware'—so taxpayers and advisers know exactly what to do."
+        }
+      ]
+    },
+    {
+      "title": "What 'reasonable steps' and 'becomes aware' mean in practice",
+      "takeaway": "All witnesses say HMRC must publish clear, practical guidance and timelines to make the duty workable.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "How should HMRC define 'reasonable steps'—examples, deadlines?"
+        },
+        {
+          "speaker": "Reuben Duffy",
+          "text": "Guidance should include clear timelines—how quickly someone must act after becoming aware. We can provide more detailed examples after consulting our tax law sub-committee."
+        },
+        {
+          "speaker": "Margaret Curran",
+          "text": "HMRC needs comprehensive, example-driven guidance, including tricky situations like changes in guidance or court decisions that alter tax positions."
+        },
+        {
+          "speaker": "Margaret Curran",
+          "text": "Agents will be easier to reach; the real problem is people without advisers. HMRC must explain how it will notify them and what they should do if they get a CCN."
+        },
+        {
+          "speaker": "Sandy Bhogal",
+          "text": "If a statutory duty is introduced, powers must be tightly defined; the consultation suggests HMRC's threshold is 'reason to suspect', which seems too low for triggering penalties."
+        },
+        {
+          "speaker": "Sandy Bhogal",
+          "text": "If the aim is to reduce the tax gap, consider simplifying the tax code in areas where errors cluster, especially for small businesses, rather than only expanding enforcement."
+        }
+      ]
+    },
+    {
+      "title": "Customer Correction Notices (CCNs): helpful prompt or fishing expedition?",
+      "takeaway": "CCNs could help taxpayers correct clear omissions if tightly limited and well explained; otherwise they risk unnecessary cost and panic.",
+      "turns": [
+        {
+          "speaker": "Lord Carrington of Fulham",
+          "text": "Many taxpayers don't have advisers. Will CCNs just be another HMRC 'go fishing' exercise comparing years and demanding explanations?"
+        },
+        {
+          "speaker": "Margaret Curran",
+          "text": "CCNs should be used only when HMRC is fairly certain of a clear, simple error—eg an omitted source of PAYE income. If used broadly they'll create unnecessary work and costs."
+        },
+        {
+          "speaker": "Lord Carrington of Fulham",
+          "text": "If HMRC sends vague prompts, taxpayers will pay advisers to defend themselves even when innocent."
+        },
+        {
+          "speaker": "Margaret Curran",
+          "text": "We want CCNs to say exactly what HMRC thinks is wrong and how to reply, and we want a process to say 'no error' or to correct it without disproportionately high adviser fees."
+        },
+        {
+          "speaker": "Lord Leigh of Hurley",
+          "text": "Will CCNs specifically name the omitted item, unlike present 'nudge' letters?"
+        },
+        {
+          "speaker": "Margaret Curran",
+          "text": "We advocate specificity. A named source helps taxpayers know what to check; otherwise CCNs could lead to partial, piecemeal disclosures and more risk for taxpayers."
+        },
+        {
+          "speaker": "Reuben Duffy",
+          "text": "HMRC should exercise discretion, considering the size of the tax loss, whether it's a first-time or repeat error, and whether professional advice was obtained."
+        },
+        {
+          "speaker": "Baroness Wheatcroft",
+          "text": "Could CCNs cause panic among ordinary taxpayers who might not open letters from HMRC? Should HMRC tier its responses by tax significance?"
+        },
+        {
+          "speaker": "Margaret Curran",
+          "text": "Yes—there should be a de minimis threshold so HMRC doesn't chase trivial amounts and the notices should be targeted at obvious mistakes, not complex legal questions."
+        }
+      ]
+    },
+    {
+      "title": "Impact on small businesses, executors and advisers",
+      "takeaway": "Experts warn CCNs and the duty could unfairly burden small businesses, executors and advisers unless safeguards and clear adviser roles are set out.",
+      "turns": [
+        {
+          "speaker": "Lord Carrington of Fulham",
+          "text": "Small businesses often get 'cheap and cheerful' advice. How will they cope if CCNs force costly professional involvement?"
+        },
+        {
+          "speaker": "Margaret Curran",
+          "text": "Some taxpayers will need advice when prompted; but HMRC must avoid high-volume, vague prompts that push people into disproportionate costs."
+        },
+        {
+          "speaker": "Lord Leigh of Hurley",
+          "text": "What about executors who pay inheritance tax but don't hold the asset information—what safeguards protect them?"
+        },
+        {
+          "speaker": "Margaret Curran",
+          "text": "That's a gap. Legislation focuses on correcting errors but not on people who genuinely cannot access required information. That needs addressing."
+        },
+        {
+          "speaker": "Reuben Duffy",
+          "text": "From the solicitor-adviser angle: what happens if an adviser tells a client there's an error and the client refuses to correct it? Will that be misconduct? We need clarity given new adviser registration rules."
+        },
+        {
+          "speaker": "Sandy Bhogal",
+          "text": "Rules must recognise different situations. If taxpayers have taken reasonable care and used advisers, they shouldn't be pushed into criminalisation or higher penalties unfairly."
+        },
+        {
+          "speaker": "Chair",
+          "text": "How should HMRC inform the public?"
+        },
+        {
+          "speaker": "Margaret Curran",
+          "text": "Comprehensive guidance, worked examples, and targeted communications—agents first, but public channels too: tax code letters, social media, videos. Resource must back awareness."
+        }
+      ]
+    },
+    {
+      "title": "Criminal offence for 'reckless' untrue statements",
+      "takeaway": "All witnesses oppose or are cautious about a new criminal recklessness offence because 'reckless' is undefined, overlaps existing penalties, and risks chilling voluntary disclosure.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Is a criminal offence for reckless untrue statements necessary given existing civil and criminal sanctions?"
+        },
+        {
+          "speaker": "Sandy Bhogal",
+          "text": "The Law Society of England and Wales has serious concerns. 'Recklessness' is legally vague, especially in tax where many positions are complex; criminal liability requires clarity."
+        },
+        {
+          "speaker": "Sandy Bhogal",
+          "text": "This could harm voluntary disclosure—people might avoid correcting errors for fear of criminal exposure—and courts haven't developed firm tests for recklessness in tax."
+        },
+        {
+          "speaker": "Margaret Curran",
+          "text": "CIOT does not support it as drafted. The boundary between careless and reckless is blurred; HMRC's consultation examples muddied the issue and give no clear evidential case for introducing the offence."
+        },
+        {
+          "speaker": "Reuben Duffy",
+          "text": "Law Society of Scotland has no firm position yet but flags practical issues: in Scotland the Crown Office is the public prosecutor and the drafting should reflect prosecutorial realities."
+        },
+        {
+          "speaker": "Lord Leigh of Hurley",
+          "text": "Could this be aimed at areas like R&D tax credits, where advisers weren't always qualified and large sums were claimed?"
+        },
+        {
+          "speaker": "Margaret Curran",
+          "text": "Possibly. Recklessness is an easier threshold to prove than dishonesty, so HMRC might see it as useful in problem areas—but without evidence, that's speculative."
+        },
+        {
+          "speaker": "Baroness Wheatcroft",
+          "text": "Would taking professional advice be a defence against recklessness?"
+        },
+        {
+          "speaker": "Margaret Curran",
+          "text": "Yes, proving you took appropriate advice from a qualified professional would help a defence, but taxpayers may struggle to judge adviser qualifications."
+        },
+        {
+          "speaker": "Sandy Bhogal",
+          "text": "If a criminal offence is to be introduced, Parliament needs rigorous justification, a much clearer definition of recklessness and careful limits on HMRC discretion."
+        }
+      ]
+    },
+    {
+      "title": "Conclusions and immediate recommendations",
+      "takeaway": "Experts call for clearer drafting, targeted use, thresholds, public guidance and proper resourcing rather than broad new powers.",
+      "turns": [
+        {
+          "speaker": "Margaret Curran",
+          "text": "If Government proceeds: clarify which taxes are affected (schedule 24/Finance Act 2007 changes affect most taxes), publish precise guidance, set de minimis thresholds and narrow CCN use to obvious errors."
+        },
+        {
+          "speaker": "Reuben Duffy",
+          "text": "Give clear definitions of 'reasonable steps' and 'becomes aware', spell out adviser obligations, and ensure coordination where devolved taxes (eg in Scotland) are handled separately."
+        },
+        {
+          "speaker": "Sandy Bhogal",
+          "text": "Before adding new powers, consider whether HMRC already has sufficient powers and whether simplification of tax rules would be a more effective way to reduce the tax gap."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. Your evidence highlights the need for clearer drafting, tighter thresholds, public-facing guidance and proper resourcing—points we will follow up with later witnesses and the Minister."
+        }
+      ]
+    }
+  ]
+}

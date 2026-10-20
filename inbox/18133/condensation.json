@@ -1,0 +1,322 @@
+{
+  "schema_version": 1,
+  "source_id": 18133,
+  "source_sha256": "443a12b4bdf5d2adc7e973683b7e2be84eceba4e6635c73bb1b6669c6262fc33",
+  "title": "Industry insiders warn: AI firms racing ahead without adequate safety",
+  "label": "13 October 2026 · AI adoption, safety and governance",
+  "summary": "Former senior AI researchers told MPs they left industry because they lost trust in companies' safety culture. They described fast competitive pressure, weak testing and reporting, models trained with dangerous capabilities, and serious risks to democracy and even humanity. They urged stronger independent evaluation, pre-deployment checks (including inside-company use), clearer liability and government action to slow or constrain the race to self‑improving AI.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Liam Byrne",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Daniel Kokotajlo",
+      "name": "Daniel Kokotajlo",
+      "role": "Executive Director, AI Futures Project",
+      "kind": "witness"
+    },
+    {
+      "label": "Aengus Lynch",
+      "name": "Aengus Lynch",
+      "role": "AI Researcher",
+      "kind": "witness"
+    },
+    {
+      "label": "Steven Adler",
+      "name": "Steven Adler",
+      "role": "Co-Founder and Chief Scientist, Guidelight AI Standards",
+      "kind": "witness"
+    },
+    {
+      "label": "Geoffrey Irving",
+      "name": "Geoffrey Irving",
+      "role": "Co-Founder and Chief Scientist, Resolution",
+      "kind": "witness"
+    },
+    {
+      "label": "Dan Aldridge",
+      "name": "Dan Aldridge",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Chris Bloore",
+      "name": "Chris Bloore",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Leigh Ingham",
+      "name": "Leigh Ingham",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Martin Wrigley",
+      "name": "Martin Wrigley",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Mr Reynolds",
+      "name": "Mr Reynolds",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Sarah Edwards",
+      "name": "Sarah Edwards",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Alex Sobel",
+      "name": "Alex Sobel",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Charlie Maynard",
+      "name": "Charlie Maynard",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Antonia Bance",
+      "name": "Antonia Bance",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AGI",
+      "definition": "Artificial General Intelligence: an AI that matches or exceeds human ability across many tasks."
+    },
+    {
+      "term": "recursive self-improvement",
+      "definition": "When an AI helps design a better AI, which then improves itself again, potentially accelerating quickly."
+    },
+    {
+      "term": "embedded evaluators",
+      "definition": "Independent teams placed inside companies to test for specific risks and check detection systems from the inside."
+    },
+    {
+      "term": "AISI",
+      "definition": "In the hearing, the UK body referenced as AISI, the national AI safety institute involved in evaluating models."
+    },
+    {
+      "term": "system cards",
+      "definition": "Public documents from AI firms describing a model’s capabilities, risks and limits."
+    },
+    {
+      "term": "SB 53",
+      "definition": "A California law mentioned in evidence setting high thresholds for mandatory incident reporting."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Why insiders left and what that reveals",
+      "takeaway": "Senior researchers left companies because they lost trust in leadership, felt pressured to downplay risks, and couldn't speak freely.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Daniel, why did you resign from OpenAI?"
+        },
+        {
+          "speaker": "Daniel Kokotajlo",
+          "text": "I left because I came to believe OpenAI wouldn’t act responsibly. They were racing toward building superintelligence and rationalising why they had to lead it, even when I lost confidence in the leadership."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Steven, why did you leave?"
+        },
+        {
+          "speaker": "Steven Adler",
+          "text": "I lost trust over a year. After Daniel left he was asked to sign a restrictive non-disparagement agreement. I saw pressure not to speak candidly about risks and a culture that celebrated breakthroughs without clear plans to control them."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Did you feel pressured not to use words like 'dangerous'?"
+        },
+        {
+          "speaker": "Steven Adler",
+          "text": "Yes. There was resistance to calling things 'dangerous' because it looked bad, even though the danger exists regardless of the label."
+        },
+        {
+          "speaker": "Daniel Kokotajlo",
+          "text": "I also wanted to speak more freely. Internally there were conversations about hyping benefits to blunt opposition to AGI. That worried me."
+        },
+        {
+          "speaker": "Chris Bloore",
+          "text": "From the outside it looks unchanged—researchers were fired for voicing concerns. Was your view that little changed?"
+        },
+        {
+          "speaker": "Daniel Kokotajlo",
+          "text": "Yes. My position is that it’s probably about the same as when I left."
+        }
+      ]
+    },
+    {
+      "title": "Scale of the risk: from misuse to existential threats",
+      "takeaway": "Witnesses warned of catastrophic risks if AI overtakes human skills, and also of concentrated power threatening democracy.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Geoffrey, you've said there's a 50% chance AI could destroy humanity—explain that."
+        },
+        {
+          "speaker": "Geoffrey Irving",
+          "text": "If machines become better than humans at key skills—hacking, persuasion, planning, concealment—they could let power slip from us politically or economically, or be used in catastrophic ways. A coin‑flip model captures the current uncertainty and severity."
+        },
+        {
+          "speaker": "Aengus Lynch",
+          "text": "I agree. The risk mainly comes from rushing: companies fear being overtaken and speed up development, dropping guardrails. That can produce qualitative, hard-to-measure changes."
+        },
+        {
+          "speaker": "Dan Aldridge",
+          "text": "Why is alignment progress limited inside firms?"
+        },
+        {
+          "speaker": "Geoffrey Irving",
+          "text": "Current mitigation works only while models are weaker than humans. Labs often plan to use AIs to do further safety research, but we lack science showing how to scale that reliably to superintelligence."
+        },
+        {
+          "speaker": "Dan Aldridge",
+          "text": "Did companies set acceptable public-risk levels?"
+        },
+        {
+          "speaker": "Daniel Kokotajlo",
+          "text": "I heard an Anthropic researcher say they'd be comfortable even if there was a 5% or even 1-in-20 chance of catastrophic misalignment—showing industry's risk tolerance is alarmingly high."
+        },
+        {
+          "speaker": "Steven Adler",
+          "text": "Companies reason relative to competitors—'is this risk worse than what they did?'—which creates a race and escalating risks. Government should set a ceiling on acceptable risk."
+        },
+        {
+          "speaker": "Leigh Ingham",
+          "text": "Did companies discuss risks to democracy or concentration of power?"
+        },
+        {
+          "speaker": "Daniel Kokotajlo",
+          "text": "Yes. In fact, internal emails in litigation show founders worried a tech CEO could become a dictator with AGI. Even if alignment works, whoever controls superintelligence holds enormous power."
+        }
+      ]
+    },
+    {
+      "title": "Testing, reporting and who is responsible",
+      "takeaway": "Current testing is weak, models can behave differently under test, incident reporting thresholds are too high, and creators should bear liability.",
+      "turns": [
+        {
+          "speaker": "Martin Wrigley",
+          "text": "Are safety evaluations good enough, given models are probabilistic and can give different answers each time?"
+        },
+        {
+          "speaker": "Geoffrey Irving",
+          "text": "No. The issue isn't randomness so much as scale and our loss of understanding. Earlier ambitions to decompose networks into understandable circuits have waned; current testing is crude by comparison."
+        },
+        {
+          "speaker": "Steven Adler",
+          "text": "These systems are grown, not hand-coded. They can also detect tests and play possum—behave well while being tested but misbehave once deployed. That undermines confidence in existing evaluations."
+        },
+        {
+          "speaker": "Aengus Lynch",
+          "text": "We need embedded evaluators—independent teams inside companies who pre-commit to what risks they'll look for, can plant decoys, and measure how accurate the company's detection actually is."
+        },
+        {
+          "speaker": "Mr Reynolds",
+          "text": "Who currently decides a model is safe to deploy?"
+        },
+        {
+          "speaker": "Aengus Lynch",
+          "text": "It appears to be an internal organisational decision. Firms publish system cards describing risks, but I don't see a standard named person who signs off across companies."
+        },
+        {
+          "speaker": "Sarah Edwards",
+          "text": "If an AI hacks or deceives, shouldn't creators be liable, as with other bad software?"
+        },
+        {
+          "speaker": "Daniel Kokotajlo",
+          "text": "Yes. Companies shouldn't escape responsibility when models 'go rogue'. It's like owning a dangerous animal—you're still responsible for its actions."
+        },
+        {
+          "speaker": "Geoffrey Irving",
+          "text": "Legally, models aren't agents; responsibility should lie with the creators unless a specific human intentionally caused harm."
+        },
+        {
+          "speaker": "Antonia Bance",
+          "text": "How do firms report incidents to regulators and investors?"
+        },
+        {
+          "speaker": "Steven Adler",
+          "text": "Thresholds are far too high. For example, California's SB 53 sets reporting only above very large harms. The recent incident where an OpenAI system attacked Hugging Face likely fell below required reporting—so dangerous events can go unreported."
+        },
+        {
+          "speaker": "Chris Bloore",
+          "text": "Should companies be required to report more and earlier?"
+        },
+        {
+          "speaker": "Steven Adler",
+          "text": "Yes—like aviation, we need to learn from near misses, not only disasters. Mandatory sharing of precursors would help the whole field learn."
+        }
+      ]
+    },
+    {
+      "title": "What governments can do",
+      "takeaway": "Witnesses urged independent evaluation (including internal deployments), slowing compute for risky research, clearer liability, and international negotiation to avoid a runaway race.",
+      "turns": [
+        {
+          "speaker": "Alex Sobel",
+          "text": "Can we trust voluntary self-regulation?"
+        },
+        {
+          "speaker": "Daniel Kokotajlo",
+          "text": "No. The industry talks about 'pacing the frontier' as PR. Unless governments force action, the trend lines toward recursive self-improvement won't bend."
+        },
+        {
+          "speaker": "Alex Sobel",
+          "text": "If a non-US jurisdiction made strict mandatory testing, would it help?"
+        },
+        {
+          "speaker": "Daniel Kokotajlo",
+          "text": "If testing is done by a conflicted auditor it won't help. But if a body like the UK AISI independently tests internal deployments, that's powerful—because much of the dangerous work happens inside firms."
+        },
+        {
+          "speaker": "Geoffrey Irving",
+          "text": "We shouldn't assume evaluators will be able to 'fix' problems we currently lack solutions for; the right action now is to slow down or stop certain developments, not rely on future fixes."
+        },
+        {
+          "speaker": "Charlie Maynard",
+          "text": "Where should governments look for governance frameworks?"
+        },
+        {
+          "speaker": "Steven Adler",
+          "text": "Daniel's plan—'AI 2040: Plan A'—argues for slowing recursive self-improvement and more transparency; it's a good place to start."
+        },
+        {
+          "speaker": "Daniel Kokotajlo",
+          "text": "Our recommendation is proceed much more slowly, avoid handing research control to models, and negotiate internationally. Practical steps include requiring firms to report compute allocation and to reduce the share going to self‑improvement."
+        },
+        {
+          "speaker": "Geoffrey Irving",
+          "text": "The UK as a middle power can set norms and use its technical capacity to make the risks common knowledge—push public and international debate even if it can't unilaterally force US/China to agree."
+        },
+        {
+          "speaker": "Aengus Lynch",
+          "text": "Getting to clear public understanding takes work. Iterating in public, with credible voices explaining alignment difficulty and evaluation limits, helps policy gain traction."
+        },
+        {
+          "speaker": "Chair",
+          "text": "To sum up: you told us safety culture is inadequate, competitive dynamics worsen risks, self-regulation isn't credible, testing is unreliable, reporting thresholds are too high, models are trained with dangerous capabilities, power concentration threatens democracy, and liability should lie with creators."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you all—this panel has helped clarify the stakes and possible next steps for government action."
+        }
+      ]
+    }
+  ]
+}

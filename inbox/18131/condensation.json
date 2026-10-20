@@ -1,0 +1,328 @@
+{
+  "schema_version": 1,
+  "source_id": 18131,
+  "source_sha256": "a85d76d9096b083c74d8e11853280c2a29774e385fc5c63c20d396091a740ca2",
+  "title": "Budget 2026: growth, gilt markets and choices for the Chancellor",
+  "label": "14 October 2026 · Budget 2026 evidence session",
+  "summary": "Economists told the Treasury Committee that UK growth has been more resilient than expected, driven partly by global investment and AI, and that recent productivity data revisions are cautiously encouraging. They warned markets care most about near-term deficits and credible fiscal discipline, not headline 'headroom' figures; they urged protecting public investment and R&D, warned against ill‑timed tax rises (especially cap gains alignment), and urged clearer independent assessment of long-term infrastructure spending and stronger local capacity for devolution.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Dame Meg Hillier",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Lord O’Neill",
+      "name": "Lord O’Neill of Gatley",
+      "role": "Economist and former Commercial Secretary to the Treasury, HM Treasury",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Beck-Friis",
+      "name": "Dr Peder Beck-Friis",
+      "role": "Senior Vice President and economist, PIMCO",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Valero",
+      "name": "Professor Anna Valero",
+      "role": "Director, Growth Programme, Centre for Economic Performance (LSE); former adviser to the Chancellor",
+      "kind": "witness"
+    },
+    {
+      "label": "John Glen",
+      "name": "John Glen",
+      "role": "Member of Parliament and committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Bobby Dean",
+      "name": "Bobby Dean",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Chris Coghlan",
+      "name": "Chris Coghlan",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Ms Minns",
+      "name": "Ms Julie Minns",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Dame Siobhain McDonagh",
+      "name": "Dame Siobhain McDonagh",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Dame Harriett Baldwin",
+      "name": "Dame Harriett Baldwin",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Catherine West",
+      "name": "Catherine West",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "gilts",
+      "definition": "UK government bonds; their yields show how much investors demand to lend to the government."
+    },
+    {
+      "term": "OBR",
+      "definition": "Office for Budget Responsibility, the UK's independent budget forecaster."
+    },
+    {
+      "term": "CGT",
+      "definition": "Capital Gains Tax, the tax on profits when someone sells an asset."
+    },
+    {
+      "term": "capex",
+      "definition": "Capital expenditure—companies' spending on equipment, buildings and other long-term assets."
+    },
+    {
+      "term": "GVA per worker",
+      "definition": "Gross value added per worker, a measure of output produced per employee (a productivity measure)."
+    },
+    {
+      "term": "devolution",
+      "definition": "Shifting powers, funding or responsibilities from central government to regional or local bodies."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "How the economy looks now",
+      "takeaway": "The UK has been unexpectedly resilient this year, but forecasters differ and uncertainty is high.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We're hearing evidence ahead of the Budget on 28 October. Let's start with the state of the UK economy and the impact of global events like the Iran war."
+        },
+        {
+          "speaker": "Dr Beck-Friis",
+          "text": "The UK's resilience has surprised us, but it's part of a global upswing—strong growth and investment in the US, Asia and Europe. Global drivers, not UK-only factors, explain much of it."
+        },
+        {
+          "speaker": "Dr Beck-Friis",
+          "text": "Two big influences are an investment (capex) boom and higher equity and asset prices. That supports spending even with higher interest rates, but risks are large and outlooks uncertain."
+        },
+        {
+          "speaker": "John Glen",
+          "text": "The IMF trimmed UK 2027 growth but the OBR is more optimistic—what's your view for next year?"
+        },
+        {
+          "speaker": "Dr Beck-Friis",
+          "text": "Our baseline is slightly above 1%—not the 1.6% the OBR forecast. Trend growth in the UK looks closer to 1%."
+        },
+        {
+          "speaker": "Lord O’Neill",
+          "text": "Recent quarters show growth above 2% in H1 2026. People doubt it because growth disappointed for years, but productivity appears to have improved recently too."
+        },
+        {
+          "speaker": "Professor Valero",
+          "text": "The UK has performed well within the G7 this year. We must be cautious, but recent data revisions and a pickup in GVA per worker suggest encouraging signs."
+        }
+      ]
+    },
+    {
+      "title": "Gilts, inflation and what markets care about",
+      "takeaway": "Markets focus on near-term deficits and the Bank of England's policy path more than headline fiscal 'headroom'.",
+      "turns": [
+        {
+          "speaker": "John Glen",
+          "text": "Gilt yields are high—why? Is it UK fiscal policy or global factors?"
+        },
+        {
+          "speaker": "Dr Beck-Friis",
+          "text": "Mostly global factors: energy shocks and a global capex boom. UK short-term yields are high because markets expect the Bank of England to raise rates; fiscal credibility adds maybe ~20 basis points."
+        },
+        {
+          "speaker": "Lord O’Neill",
+          "text": "From my checks, UK gilts haven't been hit more than other G7 bonds over the past year. Inflation outlook and expected Bank rate path matter most."
+        },
+        {
+          "speaker": "Bobby Dean",
+          "text": "If the Government uses the fiscal buffer now, will bond markets tolerate it?"
+        },
+        {
+          "speaker": "Dr Beck-Friis",
+          "text": "Markets won't obsess over a small change in headroom. They look at near-term deficits and gilt issuance. Shrinking the deficit toward the low‑to‑mid 3% range next year would reassure markets."
+        },
+        {
+          "speaker": "Dame Harriett Baldwin",
+          "text": "Is there a market price for specific headroom levels?"
+        },
+        {
+          "speaker": "Dr Beck-Friis",
+          "text": "No market instrument for 'headroom' itself—sell-side expectations are £10–£20 billion."
+        }
+      ]
+    },
+    {
+      "title": "Productivity: data revisions and drivers",
+      "takeaway": "Recent statistical revisions lift measured UK productivity; the pickup may be partly real and linked to investment and other changes.",
+      "turns": [
+        {
+          "speaker": "Professor Valero",
+          "text": "Two big data changes improved our picture: better measurement of workers using PAYE data and new hours measures. GVA per worker and per hour look better than previously reported."
+        },
+        {
+          "speaker": "Professor Valero",
+          "text": "Between 2024 Q3 and 2026 Q2, GVA per worker rose 2.8%, annualised ~1.6%—close to pre-crisis per‑worker trends. The long-term slowdown since the financial crisis is smaller than we thought."
+        },
+        {
+          "speaker": "John Glen",
+          "text": "So we restated 15–18 years of productivity history because of a new method?"
+        },
+        {
+          "speaker": "Professor Valero",
+          "text": "Yes—it's a measurement issue. That doesn't mean the UK's productivity problems are solved, but it's a better starting point."
+        },
+        {
+          "speaker": "Lord O’Neill",
+          "text": "There's also a thought that labour-cost shocks—like employer national insurance rises—may have nudged firms to use labour more efficiently, helping measured productivity."
+        },
+        {
+          "speaker": "Chris Coghlan",
+          "text": "Could another downturn limit policy room to respond?"
+        },
+        {
+          "speaker": "Dr Beck-Friis",
+          "text": "High debt reduces fiscal room. Expect the Bank of England to do more counter-cyclical work if the next downturn hits, because Governments have less space."
+        }
+      ]
+    },
+    {
+      "title": "Fiscal choices: headroom, taxes and borrowing for investment",
+      "takeaway": "Protect public investment and R&D, avoid ill-timed tax rises, and establish stronger independent scrutiny for big investments.",
+      "turns": [
+        {
+          "speaker": "John Glen",
+          "text": "Should the Chancellor raise CGT or tax banks more to balance the books?"
+        },
+        {
+          "speaker": "Lord O’Neill",
+          "text": "I would be cautious about raising CGT or undermining venture capital incentives—taxing risky investment like income. If numbers are needed, modest bank tax changes are less harmful than CGT alignment."
+        },
+        {
+          "speaker": "Professor Valero",
+          "text": "Avoid measures that raise business costs and damage investment. Public investment is the key margin for growth—protect and increase it."
+        },
+        {
+          "speaker": "Chris Coghlan",
+          "text": "Could the Government credibly borrow more for infrastructure or R&D?"
+        },
+        {
+          "speaker": "Dr Beck-Friis",
+          "text": "Borrowing more to invest would likely raise yields unless markets see immediate near-term fiscal improvement. The market cares first about the headline deficit and issuance."
+        },
+        {
+          "speaker": "Lord O’Neill",
+          "text": "I don't advocate breaking the rules, but we need an independent 'OBR for infrastructure' to assess project returns and multipliers so markets and the public can trust borrowing for investment."
+        },
+        {
+          "speaker": "Professor Valero",
+          "text": "Public finance institutions (British Business Bank, National Wealth Fund) could scale up, but we need evidence-based assessment to show borrowing is justified and truly additional."
+        },
+        {
+          "speaker": "Bobby Dean",
+          "text": "Would ring‑fenced bonds for infrastructure help?"
+        },
+        {
+          "speaker": "Lord O’Neill",
+          "text": "Possible, but what we really need is stronger independent scrutiny and clearer incentives—like nudging pensions toward UK investment—to unlock private capital."
+        }
+      ]
+    },
+    {
+      "title": "Industrial strategy, R&D and regional growth",
+      "takeaway": "Targeted industrial strategy and more public R&D are vital; devolved powers must be matched with local capacity and accountability.",
+      "turns": [
+        {
+          "speaker": "Bobby Dean",
+          "text": "Does an active industrial strategy pick winners unfairly, or is it justified?"
+        },
+        {
+          "speaker": "Professor Valero",
+          "text": "Modern industrial strategy isn't just subsidies; it targets sectors where the UK has strengths and where public action removes barriers—skills, regulation, places and supply‑chain resilience."
+        },
+        {
+          "speaker": "Chris Coghlan",
+          "text": "Should we borrow for R&D and aim to be top of the G7?"
+        },
+        {
+          "speaker": "Professor Valero",
+          "text": "R&D delivers high returns. We can't match every country's scale, but we should protect and target public R&D, especially applied R&D that feeds growth and leverages our strengths."
+        },
+        {
+          "speaker": "Lord O’Neill",
+          "text": "Public investment boards and finance arms should show more appetite and ambition. The public institutions should be tools to back real growth projects."
+        },
+        {
+          "speaker": "Ms Minns",
+          "text": "You criticised 'growth in every postcode'—how should Government pick places to back?"
+        },
+        {
+          "speaker": "Professor Valero",
+          "text": "Use multiple data sources to identify real regional strengths and clusters, complement national evidence with local insight, then prioritise places where policy can remove clear barriers."
+        },
+        {
+          "speaker": "Lord O’Neill",
+          "text": "Be selective. Reward places that show capacity and momentum, and tie money to accountability—devolution without capability or oversight will fail."
+        }
+      ]
+    },
+    {
+      "title": "Devolution, accountability and what the Chancellor should do",
+      "takeaway": "Sequence devolution to places with capacity, protect capital spending and send a clear signal of fiscal discipline; devolve adult skills to advanced mayoralties.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "On devolution: would markets worry if mayors got tax shares without strong accountability?"
+        },
+        {
+          "speaker": "Dr Beck-Friis",
+          "text": "Markets focus on national fiscals; they wouldn't micro-manage local accountability. But from a governance view, having accountability and capacity matters for outcomes."
+        },
+        {
+          "speaker": "Lord O’Neill",
+          "text": "In principle, sharing income tax with mayors can work, but not overnight. Start with places that have the capacity and be strict about responsibilities and measurement."
+        },
+        {
+          "speaker": "Professor Valero",
+          "text": "Sequence devolving powers to places with evidence-based plans and local capacity. Pair national institutions (UKRI, National Wealth Fund) with local partners for checks and scale."
+        },
+        {
+          "speaker": "Dame Harriett Baldwin",
+          "text": "Quick question—what mistakes did the previous Chancellor make?"
+        },
+        {
+          "speaker": "Professor Valero",
+          "text": "Welfare reform proved politically hard to deliver quickly; some tax rises are growth-damaging, but securing a sustainable fiscal position also matters for long-run growth."
+        },
+        {
+          "speaker": "Dr Beck-Friis",
+          "text": "From markets' eyes, avoid inflationary tax hikes and show near-term deficit reduction; that keeps gilt yields lower and preserves policy room."
+        },
+        {
+          "speaker": "Lord O’Neill",
+          "text": "For me, the Chancellor should prioritise devolution with capacity-building, protect public investment, and avoid hasty tax measures that dent business confidence—especially CGT alignment."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you all. The Committee will publish this transcript and use these points in our Budget work."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18130,
+  "activity_id": 38706,
+  "document_id": 307410,
+  "meeting_date": "2026-10-14",
+  "meeting_date_display": "14 October 2026",
+  "publication_date": "2026-10-19T10:21:12",
+  "title": "Beyond participation: Routes into sport for girls and women",
+  "committee": "Women and Equalities Committee",
+  "committees": [
+    {
+      "id": 328,
+      "name": "Women and Equalities Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9719,
+      "title": "Beyond participation: Routes into sport for girls and women",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Flo Lloyd-Hughes",
+      "role": "",
+      "organisation": ""
+    },
+    {
+      "name": "Natalie Pirks",
+      "role": "",
+      "organisation": ""
+    },
+    {
+      "name": "Fiona Tomas",
+      "role": "",
+      "organisation": ""
+    },
+    {
+      "name": "Ashley Broadley",
+      "role": "",
+      "organisation": ""
+    },
+    {
+      "name": "Leon Mann",
+      "role": "",
+      "organisation": ""
+    },
+    {
+      "name": "Barbara Slater",
+      "role": "",
+      "organisation": ""
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Rachel Taylor",
+    "Flo Lloyd-Hughes",
+    "Fiona Tomas",
+    "Natalie Pirks",
+    "Going back to what you were saying, there is a saying in news",
+    "Nadia Whittome",
+    "Christine Jardine",
+    "Richard Quigley",
+    "Kim Leadbeater",
+    "Rosie Duffield",
+    "Ashley Broadley",
+    "Barbara Slater",
+    "Leon Mann",
+    "Very quickly, on to Leon’s point about collaboration"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18130/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18130",
+  "source_sha256": "484c48043ea39290bafa08ff7754494ceadd7e8bed0ab1fde852e2d21bb87900",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

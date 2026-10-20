@@ -1,0 +1,326 @@
+{
+  "schema_version": 1,
+  "source_id": 18137,
+  "source_sha256": "eaec73be9a33c771cae967ce95424c019a1409cde08233de3def27fa1af540f9",
+  "title": "Molecules, Caverns and Cold Calm Days: How hydrogen, biomethane and CCS can help manage Dunkelflaute",
+  "label": "14 October 2026 · Dunkelflaute and electricity intermittency",
+  "summary": "Witnesses from Hydrogen UK, Energy UK and the Oxford Institute for Energy Studies explained that no single technology will solve multi-day low-wind, low-sun events (Dunkelflaute). The committee heard that molecular storage (hydrogen, biomethane and gas with carbon capture) can provide the long-duration energy reserves batteries cannot, but deploying these at scale requires years of lead time, clear government strategy, market signals and co‑ordinated investment across production, transport and storage.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Baroness Sheehan",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Brett Ryan",
+      "name": "Brett Ryan",
+      "role": "Policy Director, Hydrogen UK",
+      "kind": "witness"
+    },
+    {
+      "label": "Kisha Couchman",
+      "name": "Kisha Couchman",
+      "role": "Deputy Director for Policy, Energy UK",
+      "kind": "witness"
+    },
+    {
+      "label": "Martin Lambert",
+      "name": "Martin Lambert",
+      "role": "Senior Research Fellow, Oxford Institute for Energy Studies",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Ashcombe",
+      "name": "Lord Ashcombe",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Jay of Ewelme",
+      "name": "Lord Jay of Ewelme",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Krebs",
+      "name": "Lord Krebs",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Lennie",
+      "name": "Lord Lennie",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Whitaker",
+      "name": "Baroness Whitaker",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness McIntosh of Pickering",
+      "name": "Baroness McIntosh of Pickering",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Earl Russell",
+      "name": "Earl Russell",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Trees",
+      "name": "Lord Trees",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Redwood",
+      "name": "Lord Redwood",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Dunkelflaute",
+      "definition": "A weather period with very low wind and low solar output, causing electricity shortages."
+    },
+    {
+      "term": "dispatchable generation",
+      "definition": "Power sources (like gas or hydrogen turbines) you can turn on to meet demand when renewables are low."
+    },
+    {
+      "term": "electrolyser",
+      "definition": "A machine that uses electricity to split water into hydrogen and oxygen (for green hydrogen)."
+    },
+    {
+      "term": "salt cavern",
+      "definition": "A large underground hollow in salt rock used to store gases such as hydrogen."
+    },
+    {
+      "term": "biomethane",
+      "definition": "Methane made from organic waste (eg farm or sewage waste) cleaned to the same standard as natural gas."
+    },
+    {
+      "term": "CCS",
+      "definition": "Carbon capture and storage: technology to capture CO₂ from fossil fuel use and store it underground."
+    },
+    {
+      "term": "BECCS",
+      "definition": "Bioenergy with CCS: burning biomass for energy and capturing the CO₂, which can give net negative emissions."
+    },
+    {
+      "term": "capacity market",
+      "definition": "A market that pays generators to be available to supply electricity when needed for system security."
+    },
+    {
+      "term": "cap and floor",
+      "definition": "A regulatory model that guarantees a minimum and maximum revenue to encourage long-duration storage investment."
+    },
+    {
+      "term": "NESO",
+      "definition": "National Electricity System Operator, the body planning GB electricity system scenarios and adequacy."
+    },
+    {
+      "term": "CCC",
+      "definition": "Committee on Climate Change, the UK's independent climate adviser."
+    },
+    {
+      "term": "HAR1",
+      "definition": "Hydrogen Allocation Round 1: government competition that awarded early electrolytic hydrogen production contracts."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Why a portfolio of solutions matters",
+      "takeaway": "Dunkelflaute events vary in length and severity, so the grid needs a mix of solutions—short-term batteries and long-term molecular storage like hydrogen, biomethane and abated gas—to keep power reliable and low-carbon.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We’re looking at how hydrogen, biomethane and gas with carbon capture can help when wind and sun are low—so-called Dunkelflaute. Please explain the broad options."
+        },
+        {
+          "speaker": "Kisha Couchman",
+          "text": "There’s no single fix. We need batteries, pumped storage, interconnectors, demand flexibility and long‑duration molecular stores for days or weeks. Natural gas today gives stored chemical energy and dispatchable power; we need low‑carbon alternatives to replace it."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Can you explain dispatchable generation?"
+        },
+        {
+          "speaker": "Kisha Couchman",
+          "text": "It means you burn a fuel—like gas—to create electricity when you need it on demand, as opposed to intermittent wind or solar."
+        },
+        {
+          "speaker": "Martin Lambert",
+          "text": "Batteries are great but impractical for many‑day events because of energy density. Molecular storage holds far more energy per volume, so hydrogen, biomethane and abated gas are essential parts of a resilient portfolio."
+        },
+        {
+          "speaker": "Brett Ryan",
+          "text": "Hydrogen can absorb surplus renewables via electrolysers, be stored in geological formations, then be converted back to power when renewables are low, linking production, transport and storage into one chain."
+        },
+        {
+          "speaker": "Chair",
+          "text": "So the message is clear: keep a mix of technologies and create market incentives so investors build the pieces."
+        }
+      ]
+    },
+    {
+      "title": "Hydrogen production, storage types and timescales",
+      "takeaway": "Hydrogen can be stored in salt caverns or other geological sites, but building storage and the rest of the hydrogen chain takes many years; timelines and quantities planned today vary widely.",
+      "turns": [
+        {
+          "speaker": "Lord Ashcombe",
+          "text": "Do we have enough hydrogen storage now for a multi‑day Dunkelflaute, and can we repurpose existing gas storage?"
+        },
+        {
+          "speaker": "Brett Ryan",
+          "text": "Today we have only small salt caverns in the UK (roughly 25 GWh), used historically by industry. Technical potential studies cite up to 1,000 TWh underground, but site limits mean practical, deliverable volumes are much smaller; the CCC and NESO models point to single‑digit terawatt‑hour needs by mid‑century."
+        },
+        {
+          "speaker": "Martin Lambert",
+          "text": "Salt caverns are proven for hydrogen and are plentiful in the UK; depleted gas fields are more complex and may mix gases, requiring treatment. Converting pipelines to hydrogen is possible but needs investment because of materials and seals."
+        },
+        {
+          "speaker": "Brett Ryan",
+          "text": "Repurposing the Rough field is being explored by Centrica, and projects internationally show salt caverns of 150 GWh each can work. But topside equipment—compressors, seals—must be changed or upgraded."
+        },
+        {
+          "speaker": "Chair",
+          "text": "How long to develop a salt cavern?"
+        },
+        {
+          "speaker": "Kisha Couchman",
+          "text": "About six to ten years from decision to operation, and once made they last decades. That’s why decisions are urgent: a 2035 or 2040 need means starting now."
+        },
+        {
+          "speaker": "Brett Ryan",
+          "text": "Cavern sizes vary. One study used 20–50 GWh per cavern; a facility with multiple caverns can reach a few hundred GWh. Surface high‑pressure tanks are possible but can’t yet match cavern scale."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Please send the committee references and the modelling assumptions you rely on—especially on cavern sizes and timelines."
+        }
+      ]
+    },
+    {
+      "title": "Biomethane, CCS and the role of abated gas",
+      "takeaway": "Biomethane and gas with carbon capture fill different roles: biomethane is a near‑term drop‑in for gas infrastructure but has sustainable supply limits, while CCS can abate emissions but needs successful large projects and higher carbon prices to scale.",
+      "turns": [
+        {
+          "speaker": "Lord Trees",
+          "text": "Can biomethane come from animal waste as well as crop residues?"
+        },
+        {
+          "speaker": "Martin Lambert",
+          "text": "Yes. Biogas sources include farm waste, landfill and sewage; that biogas can be upgraded to biomethane. Some feedstocks are co‑products of food production; you must avoid converting food land into energy crops."
+        },
+        {
+          "speaker": "Baroness McIntosh of Pickering",
+          "text": "How decarbonised is hydrogen or gas with CCS really—won’t they still emit CO₂ and cost more?"
+        },
+        {
+          "speaker": "Martin Lambert",
+          "text": "Blue hydrogen (from gas with CCS) reduces much CO₂ but not all—some residual emissions remain. CCS can capture the bulk of emissions, but it’s technically and commercially demanding and adds cost."
+        },
+        {
+          "speaker": "Kisha Couchman",
+          "text": "Biomethane is chemically similar to natural gas and can use existing pipes, so it’s nearer term. Studies suggest the UK could scale biomethane, but there are limits—land, sustainability and feedstock availability."
+        },
+        {
+          "speaker": "Lord Lennie",
+          "text": "CCS seems always stuck between promise and slow delivery—what are the barriers?"
+        },
+        {
+          "speaker": "Kisha Couchman",
+          "text": "Barriers are capital intensity, the need to build capture, CO₂ transport pipelines and offshore stores together, permitting and business models. Track‑1 clusters are moving to construction, but commercial decisions remain hard."
+        },
+        {
+          "speaker": "Martin Lambert",
+          "text": "Geology matters. Norway’s Sleipner worked because the storage geology is right; some projects elsewhere ran into issues injecting into aquifers. Also, CCS investors need a much higher carbon price than today to be comfortable."
+        }
+      ]
+    },
+    {
+      "title": "Costs, efficiency and market signals",
+      "takeaway": "Keeping and upgrading gas plants is cheaper short term; hydrogen and CCS need whole‑system valuation and stable market signals—contracts, carbon pricing and targeted models—to attract investment.",
+      "turns": [
+        {
+          "speaker": "Lord Jay of Ewelme",
+          "text": "What about costs: extend existing gas, build new gas, or invest in hydrogen and biomethane?"
+        },
+        {
+          "speaker": "Kisha Couchman",
+          "text": "Extending a CCGT life costs about £140m for five years, repowering about £900m, and a new 1,700 MW CCGT roughly £1–1.5bn. Extending life is cheaper and quicker, but you need clear signals so owners know whether to invest."
+        },
+        {
+          "speaker": "Lord Redwood",
+          "text": "What’s the round‑trip efficiency if you make electricity → hydrogen → electricity again?"
+        },
+        {
+          "speaker": "Martin Lambert",
+          "text": "Electrolysis is roughly 70–75% efficiency; modern combined cycle turbines convert hydrogen to electricity at about 55–60%. Multiply those and overall you’re under about 40% round‑trip efficiency—so it’s less efficient than direct generation."
+        },
+        {
+          "speaker": "Brett Ryan",
+          "text": "That inefficiency matters, but total system cost matters more. Studies find that combining renewables, hydrogen storage and abated gas can give the lowest whole‑system cost and resilience for multi‑day events."
+        },
+        {
+          "speaker": "Earl Russell",
+          "text": "How should markets value these services so investors build long‑duration storage?"
+        },
+        {
+          "speaker": "Martin Lambert",
+          "text": "Investors need revenue certainty. Options include contracts for difference, carbon contracts for difference, or other long‑term arrangements. The right design matters—avoid government picking winners, but give clear, investable signals."
+        },
+        {
+          "speaker": "Kisha Couchman",
+          "text": "The capacity market must evolve to value infrequently‑used insurance‑style assets. Government has considered strategic reserve models, but we’re not at the point of taking gas out of the market yet because it still provides a third of generation."
+        }
+      ]
+    },
+    {
+      "title": "International supply, networks and the hydrogen strategy",
+      "takeaway": "The UK should prioritise domestic hydrogen and biomethane production for security; cross‑border hydrogen links may help but are immature. Industry needs a clear UK hydrogen strategy and faster allocation of production, transport and storage business models.",
+      "turns": [
+        {
+          "speaker": "Baroness Whitaker",
+          "text": "How exposed are these options to international supply issues? Should we expect hydrogen imports?"
+        },
+        {
+          "speaker": "Brett Ryan",
+          "text": "Domestic hydrogen from excess renewables reduces import dependence. International supply chains for equipment and some projects are vulnerable, but imports of hydrogen in sufficient volumes are currently unreliable—few export projects are committed."
+        },
+        {
+          "speaker": "Kisha Couchman",
+          "text": "IEA work shows under 8% of announced hydrogen export capacity is operational or fully committed. We shouldn’t replace gas import dependence with hydrogen import dependence; domestic production should be the priority."
+        },
+        {
+          "speaker": "Lord Krebs",
+          "text": "Why do estimates of required hydrogen storage vary so widely?"
+        },
+        {
+          "speaker": "Kisha Couchman",
+          "text": "Different models use different assumptions on electrification, batteries, biomethane, interconnectors and how much hydrogen industry will use. We usually reference CCC and NESO scenarios, which are more modest than some older high‑hydrogen studies."
+        },
+        {
+          "speaker": "Martin Lambert",
+          "text": "Also the government’s own actions matter—targets and how fast electrolyser capacity scales. DESNZ set 10 GW by 2030 but current allocations are tiny; without rollout, storage needs and production won’t match higher estimates."
+        },
+        {
+          "speaker": "Brett Ryan",
+          "text": "Industry needs the hydrogen strategy, faster HAR2 decisions, and clear transport & storage business models. Those pieces—production, pipes and storage plus hydrogen‑to‑power contracts—must be co‑ordinated for projects to move."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. Please send the committee the references on Project Union, NESO projections and the studies you cited. Members will send follow‑up questions in writing."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18134,
+  "activity_id": 38939,
+  "document_id": 307422,
+  "meeting_date": "2026-10-13",
+  "meeting_date_display": "13 October 2026",
+  "publication_date": "2026-10-19T11:18:17",
+  "title": "AI adoption, safety and governance",
+  "committee": "Business, Innovation, Science and Trade Committee",
+  "committees": [
+    {
+      "id": 365,
+      "name": "Business, Innovation, Science and Trade Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10013,
+      "title": "AI adoption, safety and governance",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Head of Europe, Middle East and Africa Policy",
+      "organisation": "Anthropic"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Vice-President and Head of Europe, Middle East and Africa Policy",
+      "organisation": "OpenAI"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Senior Director",
+      "organisation": "Google DeepMind"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Vice President, Global Policy",
+      "organisation": "Meta"
+    }
+  ],
+  "speaker_candidates": [
+    "Business, Innovation, Science and Trade Committee members present",
+    "Joint Committee on Human Rights member present",
+    "Science and Technology Committee member present",
+    "Chair",
+    "Tom Duff Gordon",
+    "Lord Booth-Smith",
+    "Owen Larter",
+    "Rob Sherman",
+    "Alex Sobel",
+    "Leigh Ingham",
+    "Dan Aldridge",
+    "Chris Bloore",
+    "Mr Reynolds",
+    "Sarah Edwards",
+    "Charlie Maynard",
+    "Antonia Bance",
+    "Alison Griffiths"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18134/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18134",
+  "source_sha256": "745bcc8a7c46b4b7043a90f7fe6afd3e5ae062a05d490ce3ea088fe30c18a97b",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

@@ -1,0 +1,467 @@
+Oral evidence - 14 Oct 2026
+
+Environment and Climate Change Committee
+
+Uncorrected oral evidence: Dunkelflaute and the risks of electricity intermittency
+
+Wednesday 14 October 2026
+
+10 am
+
+Members present: Baroness Sheehan (The Chair); Lord Ashcombe; Baroness Coffey; Lord Jay of Ewelme; Lord Krebs; Lord Lennie; Baroness McIntosh of Pickering; Baroness Rafferty; Lord Redwood; Lord Rooker; Earl Russell; Lord Trees; Baroness Whitaker.
+
+Evidence Session No. 2 Heard in Public Questions 22 - 30
+
+Witnesses
+
+Brett Ryan, Policy Director, Hydrogen UK; Kisha Couchman, Deputy Director for Policy, Energy UK; Martin Lambert, Senior Research Fellow, Oxford Institute for Energy Studies.
+
+USE OF THE TRANSCRIPT
+
+This is an uncorrected transcript of evidence taken in public and webcast on www.parliamentlive.tv.
+
+Any public use of, or reference to, the contents should make clear that neither Members nor witnesses have had the opportunity to correct the record. If in doubt as to the propriety of using the transcript, please contact the Clerk of the Committee.
+
+Members and witnesses are asked to send corrections to the Clerk of the Committee within 14 days of receipt.
+
+27
+
+Examination of witnesses
+
+Brett Ryan, Kisha Couchman and Martin Lambert.
+
+Q22 The Chair: Good morning and welcome to the Lords Committee on the Environment and Climate Change. Today is the second session of our inquiry into the impact of Dunkelflaute weather events and the challenges they present to the Government’s ambition to deliver the Clean Power Action Plan by 2030.
+
+Before we start, I remind everyone that the session is webcast live and that a transcript will be taken and made public. Witnesses will have an opportunity to review the transcript and, if necessary, make very minor amendments. Members are reminded that they should declare any relevant interests the first time they speak and this of course applies equally to all witnesses. I will take the opportunity here to say that I am a director of Peers for the Planet.
+
+On to today’s business: we are very grateful to our panel of expert witnesses for making the time to be with us today. Before we proceed any further, I will ask each of our witnesses to introduce themselves. We will start with Martin Lambert.
+
+Martin Lambert: I spent much of my career, 30 years or more, working for Shell, mainly in the natural gas and liquefied natural gas, LNG, business. I retired from Shell nine years ago and I do consultancy in the gas area. Today I am representing the Oxford Institute for Energy Studies, where I am a senior research fellow. I set up the hydrogen programme about five years ago.
+
+Kisha Couchman: Good morning, everyone. I am from Energy UK, which is the trade body for the sector. We represent the breadth of the energy sector in the UK, from power generation through to networks, and also the retail supply part of the business.
+
+Brett Ryan: Good morning. I am the policy director for Hydrogen UK, which is the largest trade association representing the smallest and largest companies looking to deliver hydrogen within the UK. We cover hydrogen production, transport and storage infrastructure and all the various end use applications. Probably very importantly for today’s session, our members are either leading or active in the vast majority of projects that are run through the Government’s various support schemes.
+
+Q23 The Chair: Thank you. You are very warmly welcome today. The purpose of today’s session is to understand low-carbon molecular storage technologies, namely hydrogen, biomethane and gas storage with carbon capture and storage. I will start by asking each of you to give your perspective of molecular storage technologies and their potential to help mitigate the risk of intermittency during a Dunkelflaute event as the grid decarbonises. Who would like to start?
+
+Kisha Couchman: I am happy to start. First, it is important to recognise that there is not a single solution to a Dunkelflaute. They will range in duration, so it is important for us to have a portfolio of flexible technologies to be able to respond to the system requirements. The UK is already developing a range of technologies. We have batteries, pump storage and interconnectors. We are developing consumer-led flexibility, which is how we shift consumption on the demand side. Ofgem has also just announced its cap and floor regime, which will bring forward investment for long-duration energy storage projects. That will be quite fundamental to how we deal with periods of low wind going forward.
+
+However, in a prolonged period of low output, it is not just the number of gigawatts that you have installed on your system that will be important, but the number of terawatt hours or gigawatt hours that can sustain the system for a multi-day or multi-week period. That is where molecular storage is particularly useful. Today we have natural gas, which provides a significant source of stored chemical energy and it is also dispatchable generation. The challenge for us is to find the low-carbon alternatives to that source that we use today.
+
+The Chair: Can you say what dispatchable generation is?
+
+Kisha Couchman: Of course. Dispatchable generation is where you burn a fuel to generate electricity. Today that is predominantly natural gas and there are gas-fired generation power stations.
+
+The Chair: It is immediate generation?
+
+Kisha Couchman: Yes. Hydrogen, as you mentioned, is one of the options that we are looking at as an alternative to burning gas, because hydrogen can be produced during periods where there is excess or surplus renewable electricity. We have the benefit of a very large offshore wind fleet, so we have the opportunity to harness some of that renewable electricity to produce hydrogen. That can be stored in very large quantities and transported to a hydrogen-fired power station, which can then generate electricity. That is one option.
+
+We have natural gas with CCS and that is where you attach carbon capture technology to capture carbon emissions. That is particularly useful because it has the benefit of lowering carbon emissions and it also has useful applications in the industrial sector.
+
+The third option is biomethane, which offers a complementary role and potentially a more near-term option, because it is chemically very similar to natural gas. You can use the existing gas infrastructure without major modifications. The industry is quite confident that that can be scaled up in relatively short order, subject to gas quality checks and sustainable food stocks.
+
+The thing to underscore is that it requires a range of different solutions. There will not be a silver bullet. The core objective is trying to build a resilient portfolio and ensuring that we have the market frameworks and the policy frameworks to bring forward the investment that is required to value each of the technologies that will have a different role in the system.
+
+The Chair: Each technology has a role and it depends on incentives to bring those technologies to markets.
+
+Kisha Couchman: Exactly.
+
+The Chair: I will ask you a little bit about the sources of biomethane. You said that it has great potential. Of course it is methane like natural gas, fossil gas, so modification to the existing infrastructure will be minimal, but where does the biomethane come from?
+
+Kisha Couchman: It tends to come from agricultural sources predominantly. I would be happy to follow up in writing with some more specific details on the sources of sustainable food stocks and biomethane.
+
+The Chair: Is it land that we currently grow food on?
+
+Kisha Couchman: Yes.
+
+The Chair: I just wanted to be clear about biomethane, the scaled-up production of biomethane. Martin, you wanted to come in.
+
+Martin Lambert: Yes. I can complement what Kisha has said. I fully agree on the portfolio approach, with a range of different options available, because there is no one single answer. That is definitely a key takeaway.
+
+Molecular storage is essential for covering Dunkelflaute because the energy density of molecular storage is so much more. Batteries can do so much, but if you tried to cover a 10-day Dunkelflaute with batteries, you would need to cover a large chunk of the country with batteries to be able to do that. That is clearly not practical or sensible. Kisha has outlined the three types of molecular storage pretty well, but I will add a couple of points. We store a fair bit of natural gas today, but a key point for natural gas is that it flows as well as being stored. What I mean is that we get natural gas from Norway. We can import it as LNG, then we store some in the Rough gas field offshore of north-east England and we store gas in LNG terminals. There is a buffer, but the storage is just a buffer to smooth out the flows that we are bringing in from elsewhere.
+
+Biomethane and hydrogen both need to be manufactured, so you have a different approach. You manufacture the product and then you can use it.
+
+The Chair: You manufacture it and store it?
+
+Martin Lambert: Indeed. To answer your question on biomethane, just to be clear for everyone, you start with stuff called biogas. On a farm, you effectively anaerobically digest biowaste and you produce a mix of methane and CO2 called biogas. To make biomethane, you separate the methane and the CO2 and that gives you grid-quality biomethane that you can then inject, with certain constraints, into the grid. You are right that there is a limitation on it, but various studies that we and others have done show that probably you could—currently we produce pretty small amounts of biomethane—increase it to about 10% of current natural gas consumption. That would still be sustainable because when you produce food you produce waste as well, but if you produce too much, you are right, you start to affect agricultural land and so there are constraints. We could do more with biomethane but there are limits on how far it can go.
+
+To finish off, hydrogen has to be manufactured. There are two types of hydrogen, loosely called blue and green. You can make blue hydrogen by taking natural gas, using carbon capture and storage, and then you make hydrogen that can be stored. Green hydrogen is when you have renewable power, you can put it into a thing called an electrolyser and you can make hydrogen that way by breaking water down into hydrogen and oxygen. The problem with making hydrogen, storing it and making it back to electricity again is the round-trip efficiency. If you put in electricity, you make it into hydrogen, you store it, then make it back into electricity again, that is quite low round-trip efficiency. You can make it when you have very cheap electricity, surplus wind you do not need, but if you make too much of it, it becomes quite inefficient, hence the need for a portfolio approach. I will stop there and let you follow up.
+
+The Chair: Can you explain when you make too much of it and it becomes inefficient?
+
+Martin Lambert: Yes. On a very windy, sunny day in the future energy system, it is quite likely that the instantaneous wind and solar production will be more than the normal demand for electricity because we have built lots of wind farms, lots of solar farms and there will be more potential production than we need.
+
+The Chair: There is free energy available for electrolysis.
+
+Martin Lambert: At that point you can use the effectively free electricity for making electrolysis. A complex modelling question that is quite hard to answer is how many hours a year you will be in that position, and that depends on many factors. When you have free electricity to make use of the available wind power, making green hydrogen and storing it is a good thing to do, but then you have to add the cost of the electrolyser, which may not run for that many hours, and that affects the economics as well.
+
+The Chair: The economics of electrolysers could be of interest. I would be very grateful if you could send us further information on that. Many thanks.
+
+Brett Ryan: I will pick up on some of the points on hydrogen, but first I want to echo Kisha and Martin’s points. We need a portfolio approach to ensure resilience in the future energy system. When we talk about hydrogen’s role in the ability to mitigate the impacts of a Dunkelflaute, it needs several components linked together to make that happen. Of course the first is the storage element itself. When we are talking about the scale that we need to be delivering sustained power generation over the days, weeks and months that we are talking about for a Dunkelflaute scenario, you are really looking at—
+
+The Chair: Months? I think we have heard that two weeks is the longest possible, or 11 days. It is the first time I have heard of Dunkelflaute events of months.
+
+Brett Ryan: I was talking about the ability of the hydrogen storage system to be able to provide that power. Technically you can do it over weeks and months, whether or not the Dunkelflaute weather event itself persists.
+
+The Chair: Sorry, I misunderstood you there.
+
+Brett Ryan: We are looking at large-scale geological formations, depleted oil and gas fields, salt caverns and limed rock caverns. They are all technically feasible and some are already being used for hydrogen storage. Martin has pointed out that you need hydrogen production upstream of that to create those molecules in the first place. The UK has a twin-frac approach, as it is called at the moment, following electrolytic production and CCS-enabled production.
+
+The Chair: Could you go through those again?
+
+Brett Ryan: Yes, sorry. Electrolytic production is commonly called green hydrogen, which uses electricity to split water into hydrogen and oxygen. There are a number of different pathways for CCS-enabled production, but effectively they are using a fossil fuel as a feedstock to split out the hydrogen and carbon. Once you have produced it, you then need to transport it to the geological formations, because they are in fixed locations. You cannot just put them where it is handy, so you will pipe the hydrogen to the storage facility.
+
+When the Dunkelflaute conditions arrive and you have low renewable output, but still have high electricity demand in the system, you withdraw the hydrogen molecules and run them through a hydrogen-to-power unit—in the industry we shorten it to HTP—that can range in size and technology. You can have fuel cells, gas engines or combined heat and power units, all the way up to grid-scale combined-scale gas turbines. They can be from tens to hundreds of megawatts in generation capacity. Once you have all of those elements combined, that allows hydrogen in molecular storage and low-carbon dispatchable technology to help mitigate the Dunkelflaute.
+
+Hydrogen has the unique advantage of solving a problem at both ends. You are taking the excess renewable generation from the clean power buildout and absorbing some of the excess generation capacity, converting it into hydrogen, storing it for when you need it later and bringing it back online when the renewable output is low but your electricity demand is still high.
+
+The Chair: Excellent, thank you. Lord Ashcombe, your question.
+
+Q24 Lord Ashcombe: Good morning. I think this leads on from what you were saying, Brett. Does the UK have sufficient hydrogen storage to meet the energy demand in a multi-day, multi-week Dunkelflaute, bearing in mind that we have information here that people seem to think the amounts are fairly different? Secondly, I believe that in a Dunkelflaute, very often we are not going to have the interconnectors producing what they will because it is highly likely it will happen in northern Europe at the same time.
+
+Brett Ryan: There are various numbers in the public domain on the technical potential for hydrogen storage capacity within geological formations. There are all sorts of characteristics of the individual geological formations that will decide whether it is technically or economically feasible to develop a site into storage. The specific references will be in our written submission. A number of reports put the technical potential as 1,000 terawatt hours of storage capacity within those geological formations, but once you start looking at the site characteristics—access; whether or not you would get a planning consent on those sites; whether the formation has the technical integrity to store hydrogen in great volumes over long durations—of course that number comes down.
+
+What the system needs is still up in the air at the moment. There are various models out there. The CCC’s seventh carbon budget says that the system requires in the order of nine terawatt hours of hydrogen storage by 2050. NESO’s future energy scenarios have a similar figure by 2050. There is a strong expectation that of the 1,000 kilowatt hours of potential storage we can feasibly deliver around 10 terawatt hours technically and commercially.
+
+Lord Ashcombe: Thank you. I should have declared that I work for an insurance broker that does a lot of work with hydrogen.
+
+So “What do we have today?” is my first question. The next is: how easy is it and is it realistically possible to repurpose natural gas storage for hydrogen? I know you can do it for biomethane.
+
+Brett Ryan: We have very little today. Some small salt caverns have been used on Teesside since the 1970s. They have about 25 gigawatt hours of storage capacity, but one thing to note is that because they have been used to support the chemical industry, they have not been subject to the vast injection and withdrawal rates that we would expect for supporting the power sector. The cavern itself is proving its technical integrity and ability to store hydrogen over long durations, but it has not gone through the same injection and withdrawal rates that we would expect for future use.
+
+That being said, the technology is being proven elsewhere at the moment. One of our members is supporting the ACES Delta project in America. They have two salt caverns storing hydrogen, each one with about 150 gigawatt hours of capacity, and they are using it to feed grid-scale gas turbines. They are blending the hydrogen with natural gas at about 30%. They are proving the technical ability to store hydrogen in salt caverns and withdraw it for the power sector. Sorry, forgive me, what was the second half of the question?
+
+Lord Ashcombe: The repurposing.
+
+Brett Ryan: Absolutely, it is technically feasible, and there are two aspects to it. One is converting a cavern, the subsurface itself. That is absolutely technically feasible. Similarly, you have to address the topside equipment. You will have compressors and gas-conditioning equipment, things like seals on your pipework. They are all very well-known and all technically possible. It comes down to the commercial frameworks to be able to do that economically.
+
+Lord Ashcombe: Would we be able to use the Rough field? The biggest one we have is the Rough.
+
+Brett Ryan: You are right. Rough, the offshore gas field, is bigger than most of the caverns that we are looking to use onshore. Centrica absolutely has a plan to be able to repurpose that for storing hydrogen, as long as it has the right investment signals and certainty that will be required. It is doing a lot of technical feasibility work to ensure that that is possible.
+
+Martin Lambert: I can add a couple of points on that. It is important to distinguish between hydrogen storage in salt caverns and hydrogen storage in depleted hydrocarbon fields. Storage in salt caverns has been proven for years. ICI did it, when ICI still existed, in Teesside. Hydrogen storage in salt caverns is an absolutely proven technology and there is no issue with doing that. The other comment on salt caverns is that in the UK we are very blessed with lots of structures. We have several existing and we have a lot of potential for more salt caverns in the UK.
+
+Lord Ashcombe: They would need developing?
+
+Martin Lambert: Some of the current salt caverns have been used for hydrogen in the past. Many of them are being used for storing methane today, but they could be relatively easily converted back to storing hydrogen. I do not have a figure on how much they could store, but they could be converted.
+
+Storing hydrogen in depleted hydrocarbon fields is a quite different proposition altogether. There is some testing being done in Austria. RAG Austria is doing some tests for that at the moment, but if you think about it, the issue is that you put the expensive hydrogen you have produced in a hydrocarbon field and you are not quite sure what will come back out again. From conversations with the people in Austria, they get back some hydrogen but it is mixed, so it needs to be treated when it comes out again. To be honest, given we are so blessed with salt structures in the UK, I think we should explore that fully first and give converting hydrocarbon fields a second order priority.
+
+Lord Ashcombe: Bearing in mind we have heard about moving stored carbon from A to B, how easy is it to move the hydrogen from A to B? Do we have a network that does that to get it to the right places? We know that we have a problem with getting power around the grid at the moment.
+
+Martin Lambert: You can move hydrogen in pipelines. That has been done for ages. There are existing hydrogen pipelines, fairly small scale, but hydrogen pipelines exist in the US and north-west Europe—Belgium, the Netherlands, northern Germany. The harder bit is you cannot automatically convert a natural gas pipeline to hydrogen. You can eventually convert it normally, but it depends on the metal used in making the pipeline, the seals and the valves, so it requires a fair bit of expenditure to upgrade a former gas pipeline to make it suitable for hydrogen. National Gas has Project Union, which is doing quite a lot of work on looking at what would be required to convert the pipelines for hydrogen. It could be done but it is not an overnight switch. You need to put in some investment to make the transition.
+
+Brett Ryan: The Government have set up the developing hydrogen transport and storage business models with the intention that they will be rolled out together as a network. There was a commitment with the first regional hydrogen transport and storage network that the allocation would launch later this year and ideally would target commercial operations by 31 December 2033. That is due to the long lead times for such major infrastructure. There are plans to do that, but unfortunately the industry has seen a bit of a slowdown in the development of those business models and the launch of that first allocation. That is a key thing for our members, because we have members developing plans in various parts of the country with different options for what the first regional network could be, but it brings together the storage and the transportation by pipeline, which deserves to get a mention.
+
+Kisha Couchman: I agree with what the others have said. One thing to add is that repurposing gas salt caverns for hydrogen, while technically possible, would be economically challenging and would need to be done case by case. Our members have suggested that it would probably make more sense to develop the salt caverns specifically for hydrogen rather than trying to repurpose. That is also because you need to plan whether you need the gas in the cavern for system resilience. If it is still useful in the system, that needs to be co-ordinated before we start to repurpose it for something else.
+
+The other thing is just to reiterate the point about the entire hydrogen value chain. It is very difficult to develop storage without a clear view of having sufficient volumes of hydrogen production, and producers also need the confidence that there will be demand. That needs to be done in co-ordination with developing the hydrogen-fired power stations that will ultimately produce or use the hydrogen to generate electricity. There are lots of different things and it ends up in a sort of chicken-and-egg situation. The business models that Brett mentioned are key to this and are what is required for the development in order to allow that investment to come forward.
+
+Lord Ashcombe: If I may, I have one final question. If we need to make new salt caverns, and the washing process is not a short process to open them up, how long is that going to take to get to a sufficient volume, whatever I mean by that?
+
+Kisha Couchman: It takes roughly six to 10 years to develop a hydrogen salt cavern, so the lead times are very long and those investment decisions need to be made as soon as possible. We would suggest that we make those decisions ahead of need. There are obviously various useful indications about the range of hydrogen that we could have on the system. NESO’s future energy scenario pathway, which was published last year, suggests three terawatt hours by 2035.
+
+The Chair: How many, sorry?
+
+Kisha Couchman: Three terawatt hours by 2035. The Climate Change Committee’s balanced pathway is three terawatt hours by 2040, so there is a slight difference in those two scenarios. I guess the key thing—because they are not policy targets, just scenarios—is how we turn those scenarios into investable frameworks in order to facilitate the investment that is needed, because 2035 is not that far away. If it takes 10 years to develop, we need to be making those decisions now.
+
+Lord Ashcombe: That was going to be my final point, thank you.
+
+Lord Krebs: My question follows directly from what you were just saying, Kisha, about both the timescale and the scale of hydrogen storage that might be needed. I wonder whether either you or maybe Brett can shed a bit of light on this, because the National Grid says we need between 12 and 51 terawatt hours of hydrogen by 2050. The Royal Society concluded we need between 60 and 100 terawatt hours by 2050. The National Infrastructure Commission says we need 25 terawatt hours by 2040 and, as you have just said, the CCC says we need three terawatt hours by 2040, so it is pretty confusing. There are orders of magnitude of difference.
+
+Given what you have just told us about the timescale to develop this, if we are thinking comfortably that three terawatt hours is what we need by 2040, but actually the number is 10 times that, we are going to be completely off-track. Can you explain why we get these vastly different estimates of how much is needed? Either Kisha or Brett.
+
+Kisha Couchman: I am happy to go first. From an industry perspective, we tend to use the Climate Change Committee and the NESO scenarios as our main barometers of how much is likely to be required. What is also very important—back to the portfolio point—is that the amount of hydrogen that we are going to need on the system will very much be dictated by the future generation mix. It does also depend on the extent to which we have managed to scale batteries, long-duration energy storage, pumped storage, biomethane and interconnectors, because that will all have implications for the amount of hydrogen that we need on the system. We would tend to err on the slightly more modest end.
+
+That is one of the things we have been calling on the Government to do: set out their view on how they see the role of hydrogen in the future system, being very clear about where it adds most value in the system and where the end uses are likely to be, because it depends on how much of it will be used by industry or other sectors, and the extent to which we have electrified across the economy. It is worth taking that sort of whole-systems view.
+
+Brett Ryan: To build on what Kisha is saying, you are absolutely right. Some of the studies that you mentioned there, with some of the targets, are possibly a little bit outdated. Some of the thinking about how far electrification can go will have changed. Some of the thinking around which sectors hydrogen could and should be used in have also changed. That has a big impact on the volume or the capacity of hydrogen storage that the system will require. To Kisha’s point, some of the models that are out there from the Climate Change Committee—and even within NESO’s future energy scenarios modelling—are pessimistic, shall we say, around the role that hydrogen will play. They certainly show a non-zero requirement for hydrogen storage.
+
+When you look at the trajectory that is needed and the long development times to be able to get these projects off the ground, even the first allocation the Government are planning to do for the hydrogen storage business model does not set a specific target. It just has a minimum criterion of 50 gigawatt hours of storage capacity, which would come online in 2033. To get from 2033 at 50 gigawatt hours—it may be more, but if they just go the minimum—anywhere close to three terawatt hours by 2050 is a huge curve.
+
+The Chair: This is an interesting avenue of inquiry. We would be very grateful for further information about the underlying assumptions and robustness of the targets for hydrogen storage that the Government are working to.
+
+I will move on in short order to Lord Jay’s question, but can I just probe a little bit further about salt caverns? I think it is very important that we understand the challenges there. Once salt caverns are created—there is a six to 10-year lead time, I understand—how long do they last?
+
+Kisha Couchman: A very long time. I do not have the exact number, but I think they have a very long operating life.
+
+The Chair: We could store very large volumes of hydrogen in there. Are they in the right positions geographically, the locations, to work with existing transmission infrastructure?
+
+Martin Lambert: Once they are created, they can last pretty much indefinitely because they are in the geology and so do not wear out. I mentioned the existing ones that ICI created. I am guessing slightly, but it might be 40 years ago they were created and they are still going strong.
+
+The Chair: How many do we need? How many salt caverns do we need to supply infinite amounts of hydrogen?
+
+Brett Ryan: To give you some context, each cavern will be different and will have a different capacity. It is down to the physical size of that cavern itself; it is down to the pressures that it can withstand in terms of being able to compress and inject the hydrogen into it. I think there was a study earlier this year that we will reference in our written submissions, which assumes an individual cavern’s storage capacity of in the region of 20 to 50 gigawatt hours per cavern. Now, each facility may have multiple caverns to make up an individual facility. If we look at SSE’s planned Aldbrough hydrogen storage project, that first cavern is in the order of 20 gigawatt hours of storage capacity, but there are nine caverns within that development that could take that total storage capacity to in the order of 300 gigawatt hours.
+
+The Chair: Thank you. Again, any further information on salt caverns and how they can help us meet this challenge would be much appreciated. Before we move on again, I am very interested in specialist tanks and storage vessels for hydrogen. Are they expensive and how big can we make them? Where would they fit into that chain that we need to deliver a sensible hydrogen strategy?
+
+Brett Ryan: Are you talking about pressurised storage containers? Okay. Apologies, I do not have the numbers off the top of my head here, but it is not expected they would give the scale that is needed that we are talking about for supporting and mitigating a Dunkelflaute event. I am aware of one developer that is looking to try to deploy effectively high-pressure storage cylinders buried below the surface, but that is still to be proven at the commercial scale.
+
+The Chair: They would be useful for delivering hydrogen to areas where energy was—
+
+Brett Ryan: Where there are no geological formations.
+
+The Chair: Yes.
+
+Brett Ryan: Absolutely, that is a possibility.
+
+The Chair: We must move on. Please do write to us if there is something that the committee needs to hear about. I am going to move on to Lord Jay’s question.
+
+Q25 Lord Jay of Ewelme: Thank you very much. I want to turn the attention back to gas, if I may. Existing gas plants in the UK are ageing and many, as I understand it, are due to reach the end of life in the early 2030s. However, gas is expected to remain on the grid until the 2040s or thereabouts, even at a rather lower scale than at present. This is a question about costs. Could you say anything about the cost of retaining and upgrading existing gas-fired power stations, or indeed of building new ones? Most important is how those costs compare with the cost of other potential solutions, such as developing hydrogen storage and hydrogen to power or indeed of using biomethane. Who would like to go first on that?
+
+Kisha Couchman: I am happy to go first. It is very important that we plan for the capacity that the system requires, rather than assuming that the current gas fleet will remain in operation through the 2030s or that it will retire ahead of that time. DESNZ, the Department for Energy Security and Net Zero, did a piece of analysis that was published earlier this year, which recognised that much of the fleet could potentially continue to remain in operation throughout the 2030s. However, what is key is that owners and operators of those assets need to have early visibility of what is actually required and how much of that capacity needs to be retained so that they can make investment decisions about whether to invest in maintaining, upgrading, extending the life or repowering those assets. There are also substantial lead times for those decisions as well, so those decisions need to be made urgently.
+
+The Chair: What sort of lead times are we talking about?
+
+Kisha Couchman: There are significant supply chain constraints currently for certain parts, including turbines and transformers, and there are some estimates of around seven years to wait for those parts. Again, these are decisions that need to be made with some urgency.
+
+On cost, I think extending the life of the current fleet is generally seen to be the lower-cost option, rather than building new gas generation. Just to give you some ballpark figures, it is thought that it would cost around £140 million to extend the life of a CCGT by about five years. To repower a site is about £900 million, and that is where you replace many of the existing key parts of the equipment. A new CCGT, which is about 1,700 megawatts, would be somewhere in the realm of £1 billion to £1.5 billion, so significantly more expensive.
+
+Both will have advantages. Extending the life of a current gas-fired plant would be quicker and cheaper, particularly where there is already a gas connection, gas infrastructure and operating arrangements. The benefits of a new build would obviously be modern equipment that would run more efficiently and would have a longer operational life, but that needs to be assessed plant by plant. Fundamentally, all the options require significant up-front capital costs, and given supply chain constraints internationally, those decisions would need to be made as soon as possible.
+
+Ultimately, there needs to be a clear transition plan from the Government. That is certainly one of the things we have been asking for: that they set out how much capacity they anticipate will be required, based on the pace and scale of development of those low-carbon alternatives that will be coming through to replace our current dependence on gas for electricity generation.
+
+Lord Jay of Ewelme: What about the cost of alternatives? That is very helpful, what you said about the cost of extending the life of existing plants and the difference between extending the life and building new ones. That is very clear. Can you give any sense of how that would compare with other solutions?
+
+Kisha Couchman: Yes. At the power station level, the turbines that are used for gas power stations and hydrogen power stations are broadly similar. I think they are expected to be at a similar price point, although there is an expectation that there could be a modest cost premium for a turbine that operates 100% hydrogen-ready. It will also be subject to reliability and efficiency standards and so on, which may mean a slight increase in cost. However, I think the non-fuel operating and maintenance costs are broadly the same. I think the biggest difference is the fact that the hydrogen value chain is where you need to consider the total system costs, because it requires production in sufficient volumes. It requires storage—those salt caverns that we talked about—so you need to take into consideration that cost. It requires transporting and that transport and storage network also needs to be accounted for. It is the entire value chain that needs to be considered when you are comparing those costs.
+
+Lord Jay of Ewelme: Any other views?
+
+Brett Ryan: I will come in very quickly. To put some data on it, Baringa did some analysis on behalf of DESNZ around hydrogen-to-power costs, and it put that premium for new-build 100% hydrogen turbines at less than 10%. We can provide that data point within the evidence. Similarly, with some of the new-build plants that are built hydrogen-ready, you are looking at approximately 5% of your total capex to be able to retrofit later down the line to be able to handle hydrogen.
+
+To Kisha’s point, you have to take account of the upstream infrastructure as well, the hydrogen production and the transport and storage infrastructure. With the T&S infrastructure, some of those costs will be borne by other users of the system as well. The power sector will not be the only user of that infrastructure. You will have heavy industry and other e-fuels producers using the system for capital cost recovery.
+
+On the hydrogen production aspect, one of the things that we have been working with DESNZ on very much recently is improving hydrogen producers’ ability to access low-cost renewable power when the system is operating with excess generation. It is not something that the market allows for at the moment in the business models, so we are looking to improve that so that you can materially bring down the cost of hydrogen that will be used to generate power further down the line.
+
+Martin Lambert: Just to add to Kisha’s point, keeping existing natural gas-fired generation going through the 2030s is certainly going to be the lowest-cost option. There will clearly be some carbon emissions when it is running, but we are not yet at the net-zero target. Through 2030 to 2040, natural gas has to be the lowest-cost way of keeping it going, and it is probably the only realistic option in that timescale. Estimates I have seen suggest that perhaps around 35 gigawatts of gas-fired capacity will be required through the 2030s, and for that gas is the only option.
+
+In terms of costs, I have some numbers. With the current, rather high cost of gas after the war in the Strait of Hormuz issue, we are currently looking at gas prices of about £65 per megawatt hour. If you go back a year, it was more like £35 per megawatt hour.
+
+Lord Jay of Ewelme: We hope it will go back.
+
+Martin Lambert: Hopefully. If we can sort out the Strait of Hormuz crisis, then in fact it could go even lower, because, looking at the global gas market, there is a glut of natural gas coming. The US is building LNG export very rapidly, so there are expectations that gas prices on the world market will go quite low. In the medium term, we think gas prices will be low, assuming the Strait of Hormuz gets sorted.
+
+The Chair: Indeed. In that economic scenario, are you building in the cost of carbon capture and storage and abated gas? Because we are looking here at low-carbon solutions to meet the clean power action plan of 2030. Projecting ahead from where we are today, assuming no changes, is not really what we are after. What we are looking for is the alternatives and the production of abated gas as a transition fuel.
+
+Martin Lambert: Well, exactly. We are on a transition pathway, but it takes time to scale up the alternatives, so I think just on the cost and scale of things—
+
+The Chair: Time is of the essence—six to 10 years if we are going to scale up some basic hydrogen infrastructure and put in place market incentives.
+
+Martin Lambert: Hydrogen storage we could do, but we also need to scale up hydrogen production. The Government have a target of 10 gigawatts of electrolysed capacity by 2030. That is clearly not going to happen. If you are very lucky, it might get to 1 gigawatt. The first hydrogen allocation round, which has gone through, awarded 125 megawatts. The second round, which seems to have gone into limbo, would be taking it up to 1 gigawatt. It is rather small compared with the 10-gigawatt target. Scaling up hydrogen production is a real challenge and will take time, which is why I said that through the 2030s there is no realistic option apart from gas.
+
+In parallel, you can do two things. You can scale up biomethane production, which will lower the carbon footprint of the methane that you use, and you can scale up CCS. On that transition pathway, you want to go as fast as you can with all of those routes, so scale up biomethane, scale up CCS, but as an insurance policy, do not throw away the gas power plants yet.
+
+Lord Redwood: I accept that there would be low efficiency if you used electricity to create hydrogen and then burned the hydrogen in the power station to create electricity. Can you just give a number on how much loss there would be from the original electrical power, and how does that compare with the inefficiencies of burning direct gas in a conventional gas power station?
+
+Martin Lambert: If you start with renewable power, turning it into hydrogen has an efficiency of about 75%, and then putting it into a combined cycle gas turbine is probably about 55% or 60%. Overall, if you multiply those two together, you are a bit below 40% efficiency, roughly.
+
+Brett Ryan: There is absolutely no getting away from the physics of that; there is a limitation. What I would say is that it is very important where you draw the boundary for measuring efficiency and system cost. There are a number of studies out there—again, we will reference those in our written submission—that show that the integration of hydrogen long-duration storage and dispatchable power generation alongside renewable generation and gas delivers the lowest total system cost. Yes, there is an efficiency point, but the total system efficiency and cost is the important factor, particularly for these Dunkelflaute events, where you do not have other options available to you.
+
+Q26 Baroness Whitaker: Our molecular storage options have quite a lot of international ramifications, so how vulnerable are they to international supply issues? Who would like to begin?
+
+Brett Ryan: I am happy to go first. As I mentioned earlier, the trump card for hydrogen as a molecular storage option is that you are using domestically produced renewable electricity to produce that hydrogen in the first place, so it is reducing your exposure to some of those international markets for gas and power.
+
+Baroness Whitaker: We do not do that enough yet.
+
+Brett Ryan: Not at the moment, no. The renewable generation buildout is happening. I am glad you asked that now. At the moment we are curtailing a lot of the renewable generation because we do not have either the demand or the transmission infrastructure to be able to handle that excess generation capacity. If we start rolling out electrolysers in strategic locations to be able to absorb that, we can start maximising the use of our renewable generation assets. As some of NESO’s modelling has pointed to, curtailment could reach 10% of total renewable generation by the mid-2030s, so something in the order of 35 to 40 terawatt hours per year. A lot of that could go into electrolytic hydrogen production that could be transported and stored and used again later.
+
+In terms of the physical assets, so the hydrogen to power, the turbines and the compressors, of course the UK is still exposed to international supply chain pressures. Kisha has already given some indication that there is competition within that market already, even within traditional gas turbine and gas equipment, and we are expecting to see that also for hydrogen equipment.
+
+Baroness Whitaker: On that, how high would you rate grid insufficiency? Is that one of the priorities?
+
+Brett Ryan: In terms of electricity grid insufficiency?
+
+Baroness Whitaker: Yes.
+
+Brett Ryan: It is very high.
+
+Baroness Whitaker: Very high?
+
+Brett Ryan: It is obviously one of the key priorities for NESO, DESNZ and Ofgem at the moment. Another positive for the use of hydrogen is that you can move more energy cheaply via hydrogen pipelines than the equivalent energy capacity through power cables. I think it was a study by Martin’s organisation—and it is backed up by a similar study done by academics in the United States—that for a given energy output, you can move it more cheaply via pipeline than you can via electricity wires, so it can help alleviate some of that cost and pressure.
+
+Baroness Whitaker: Could you give us a reference to the American work?
+
+Brett Ryan: We absolutely will.
+
+Baroness Whitaker: Thank you very much. Do you have anything to add?
+
+Kisha Couchman: Yes. I do not think we should assume that hydrogen imports will be reliable in the sufficient volumes that we would probably need if we were to assume that it would be a significant part of the future system. Very few countries are currently producing sufficient quantities where there is a buoyant export market. There was some work published by the International Energy Agency this year that found that less than 8% of announced hydrogen export volumes had reached operation or committed investment, so it is worth just bearing that in mind.
+
+I would just reiterate the point that Brett made, which is that we have the opportunity to produce hydrogen domestically, so before thinking about which countries we might want to consider as a reliable source of supply, we should absolutely think about exploiting our own domestic production abilities first and try to get as much value out of the current renewable generation fleet that we have available to us. So, yes, I am underscoring the point about resilient portfolios and not wanting to replace our current import dependency on gas with an import dependency on hydrogen.
+
+Baroness Whitaker: That is good. Could we have the IEA reference too, please?
+
+Kisha Couchman: Yes, of course.
+
+Baroness Whitaker: Do you have anything to add?
+
+Martin Lambert: I will add a couple of things. Natural gas is a globally traded commodity. Even with the Hormuz crisis this year, there is still a lot of gas flowing around the world and there will continue to be, so in terms of security, natural gas provides that security, but with the caveat of needing to add on carbon capture and storage. In terms of domestic production, biomethane is a good source of secure domestic production based on local production from farms in the UK, so that is worth looking at as well.
+
+On hydrogen, I have a couple of points to add. One is that transporting hydrogen over long distances is challenging and expensive. I said before that pipelines have been proven at a fairly small scale. Transporting hydrogen by ship has been tried, but that is very difficult. It is perhaps worth noting that in the UK, we already produce about 13 terawatt hours of hydrogen. It is all high-carbon hydrogen, so in refineries and petrochemical plants, but we do produce a lot of hydrogen and it is nearly all used pretty much adjacent to where it is produced. There is an evolution that could happen to migrate from current high-carbon hydrogen to lower-carbon hydrogen and that is something that could also kick-start the industry in some way. On hydrogen, we are talking about it for Dunkelflaute today, but there is a wider angle on looking at it from an entire energy system perspective.
+
+The Chair: May I interject here on that point about hydrogen interconnectors? Purpose-built hydrogen interconnectors, how robust are they and resilient to the historic issues around transporting hydrogen in older infrastructure such as gas pipes? Are they much more resilient and robust if they are purpose-built to deliver hydrogen?
+
+Martin Lambert: I am not sure I understand the question.
+
+The Chair: The pipework—and we are talking about interconnectors, intercontinental interconnectors—is it up to the job? We hear quite a lot about the way hydrogen can escape, the way hydrogen can cause brittleness in some of existing pipework. Is that an issue in purpose-built interconnectors transporting hydrogen?
+
+Martin Lambert: There are not any long-distance interconnectors today. There are cross-border hydrogen pipelines between Belgium, the Netherlands and Germany, but they are fairly small-scale. Technically they are robust. Politically they are exposed, I guess, to terrorist acts against them, so there is that security sense. Perhaps the bigger question is whether they are commercially and economically justifiable. That is still an open question, I think. The answer may well be that you are better off making hydrogen and using it locally. I do not see a global network of interconnectors like there is for gas currently.
+
+Baroness Whitaker: I have one supplementary. If nevertheless we do have to import some—and I quite take the point that it is better if we do not have to—there is something, we are told, called the European Hydrogen Backbone, a collaborative initiative by 33 energy infrastructure operators which want to sort out a hydrogen infrastructure throughout Europe. Is that any use or is there anywhere else? We are also told about eastern Europe as a source of hydrogen. Is there any point in looking at that?
+
+Brett Ryan: I believe there are certain feasibility studies that have been carried out on whether the UK or GB should and could connect to the European Hydrogen Backbone. Some of those projects have applied for funding through what is called the IPCEI.
+
+Baroness Whitaker: Please could you send us the reference to that. Thank you very much.
+
+Brett Ryan: Yes. Those are projects of common interest within the EU. It very much depends on where the expected production and demand of hydrogen will fall as to where those cross-border—particularly interconnectors from UK to Europe—pipelines would arrive. Of course, Europe has some pretty ambitious targets for hydrogen consumption in order to be able to wean itself off Russian gas. We could be producing more hydrogen than we need domestically, with the opportunity to sell into Europe, rather than the other way around, using Europe as a source for input.
+
+Baroness Whitaker: That sounds nice. Okay, thank you very much.
+
+The Chair: Thank you. Just before we finish this section, can I ask that you send us some further information on Project Union, as well as the NESO projection that a new 1.4-gigawatt interconnector with Germany will be in place by 2030? I have a reference for that: it is the Resource Adequacy in the 2030s report. Thank you. Lord Lennie.
+
+Q27 Lord Lennie: Thanks. Carbon capture and storage technology is part of the Government’s solution for the decarbonisation pathway to 2050. What progress has been made to date? Are there barriers to deployment? If so, what are they? The researchers have found that technological immaturity, high capital intensity and historical policy inconsistency in Governments are features of CCUS. It seems to me it is always in its infancy rather than at any point of maturity.
+
+Kisha Couchman: Yes, you are right. CCUS has moved from the policy development stage into the early construction phase. The Government’s initial programme is supporting two track 1 clusters. There is the East Coast Cluster in Teesside, and then there is the HyNet cluster in the north-east. That is currently backed by £21.7 billion worth of funding over a 25-year period. Construction has started on those projects and they are expected to be in operation in 2030, I think, but I can come back and confirm those numbers for you. That includes the associated transport and storage infrastructure that is also required to enable that.
+
+Some of the barriers are quite similar to what we have heard in hydrogen, where there is a need for supporting and enabling infrastructure in order for these projects to be in operation. The power station is only one part of the project. You can build the power station with the carbon capture technology on it, but you also need to build the CO₂ transport network to transport that captured CO₂ out into the depleted North Sea oil and gas field. That requires permits, commercial arrangements, and so on. It also needs to demonstrate reliability at scale, which it has not done in the UK in the power sector so far, so we need to take account of that. There are two other projects that the Government are considering or are the process of developing: the Acorn project in Scotland and Viking in the Humber.
+
+Things are moving in the right direction, but that is not to say that those projects have reached financial investment decisions. There is still a lot of negotiation and, as you have mentioned, these are very capital-intensive projects that also require a lot of co-ordination. Those are the key barriers that we see. I think the key priority for us is to turn this from what is a first-of-a-kind technology for us in the UK into something that is scalable, and to move it from that nascent market into something that is slightly more mature, which requires less government de-risking to enable that private sector capital to come forward.
+
+Brett Ryan: I will build on that a little bit. One thing to remember is that with the CCS projects, they are at a huge scale. If we compare, EET Hydrogen’s HPP1 project within HyNet is looking to develop in the order of 300 megawatts of hydrogen production from that one facility. As Martin mentioned, the total capacity that has been approved through HAR1 for electrolytic hydrogen is only 125 megawatts, so it is at a very different scale in terms of being able to get a single project. As Kisha mentioned, co-ordinated execution is needed. You have the capture project itself, then you have the CO₂ pipelines, you have the stores and you have the commercial contracts that all have to hang off each other and be delivered in parallel. There is progress, but it is a difficult task, for sure.
+
+Martin Lambert: Carbon capture and storage, as I say, is essential for reaching our net-zero target so we need to make it work if we are going to achieve net zero, but it does need to scale up a lot. The UK track 1 projects are a great step forward for doing that because we need to try it out: does it work as expected? Much of the technology is proven. Capturing carbon is fine, we know that works well, but if you look around the world at where it is been tried, Norway has been successfully storing carbon in the Sleipner and Snøhvit fields for a very long time—a great success. In Australia, by contrast, the environmental permit for the Gorgon project there said for its environmental permit that it would capture 4 million tonnes of CO₂ per year and inject it. It has had loads of technical issues on the storage side, and I think at best it stores about 1.5 million tonnes a year. With CCS, we need to make it work. Technically it should be okay, but it is not without its challenges.
+
+In order to make it work—and we have not talked much about the carbon price today—for a CCS project in the UK, it needs a carbon price around £150 to £200 per tonne of CO₂. The last time I looked, the current market carbon price is about £60 or £70 a tonne, so we need to raise the carbon price and incentivise more CCS projects.
+
+Lord Lennie: What causes the difference between the Norwegian success and the Australian lack of success?
+
+Martin Lambert: I think it is geology. If you are injecting CO₂ into a known disused hydrocarbon field, the geology is understood and you can inject it and you understand how it will work. In the Gorgon case, they inject it into an aquifer; that is, where there is water stored under the ground. They intended that the water would get displaced as they pumped CO₂ in, but the reality was that the pressure built up. They had to drill some additional wells to relieve the pressure and let the water out, and it gets very technical.
+
+Lord Lennie: Do we have geology on our side?
+
+Martin Lambert: Geology is the short answer, I think.
+
+Lord Lennie: We have that on our side.
+
+Martin Lambert: I think so. I do not know enough about the particular projects, but we have a lot of disused hydrocarbon fields. We should be okay, but we need to scale it up.
+
+Lord Lennie: Your colleagues are nodding.
+
+Q28 Baroness McIntosh of Pickering: Good morning and welcome. I remind the committee I have small interests in my portfolio in National Grid, BP and Shell.
+
+The purpose of the inquiry is to look at alternatives where the wind does not blow and the sun does not shine, but which are low-carbon. In an earlier answer, Mr Lambert, you alluded to the fact that there will be carbon emissions from the conversion of hydrogen. How decarbonising, potentially, is this?
+
+Martin Lambert: Yes. I spoke about blue hydrogen. Current hydrogen production in the UK is done largely in refineries and petrochemical works from fossil fuels, and that emits carbon, as a rough number, at 10 tonnes of carbon per tonne of hydrogen that you produce. However, with the so-called blue hydrogen, you can capture most of, not all, the CO₂ that you emit in making hydrogen. You can capture that carbon and you can then, with CCS, store it, so there are ways to mitigate that. In general with CCS, even direct use of CCS in power generation, it is important to note that CCS can capture a large majority of the CO₂ but not all of it. There will always be some residual carbon emissions, which, if we are to achieve net zero, would need to be mitigated in some other way with carbon removals or something.
+
+Baroness McIntosh of Pickering: But you are using more energy to do that.
+
+Martin Lambert: Correct.
+
+Baroness McIntosh of Pickering: There is a cost.
+
+Martin Lambert: Yes, decarbonising is not going to be cheap.
+
+Baroness McIntosh of Pickering: I would like to refer to the 2023 report to Parliament from the Climate Change Committee, which stated that 12 to 20 gigawatts of low-carbon dispatchable capacity will be needed to replace unabated gas by 2035. It recommended that the Government should develop a portfolio-based strategy that includes hydrogen and gas with CCS. But then the Royal Society’s report on large-scale electricity storage, published in September 2023, expressed reservations about the use of gas with carbon capture and storage and went on to say that it would lead to unacceptable emissions of CO₂ and methane and also to higher costs.
+
+Do you see hydrogen to power being able to compete with gas with CCS, abated gas, as the decarbonised dispatchable power source for 2040 and beyond or could both technologies play different roles? Shall I start with you, Mr Ryan?
+
+Brett Ryan: I am happy to start. They will play different roles. We already mentioned at the start the portfolio of options that are needed to be able to provide true resilience across the different timescales of how long you need that dispatchable power on the system. Even some recent modelling by the UK Energy Research Centre, which came out only in the last couple of months—it will be in our written submission—shows that you need both technologies: power CCS and hydrogen to power. The point where hydrogen to power comes in is that 100 hours-plus duration of generation. I think that is where they have started to coin the term “ultra-long-duration energy storage”.
+
+Kisha mentioned earlier the Ofgem cap and floor long-duration energy storage. That maxed out at about 22 hours of generation duration. The work by the UKERC is looking at 100 hours-plus. It is taking it into days, weeks and longer, so it is not an either/or in terms of these technologies. The gas CCS will run at higher load factors, whereas it is expected that hydrogen to power over 12 months will be running at single-figure or low-teens in terms of the load figure across the year.
+
+Kisha Couchman: Yes, I would agree. It is worth also consulting the most recent Climate Change Committee’s seventh carbon budget and its balanced pathway, which includes 15 gigawatts of low-carbon dispatchable power by 2040. That is a combination of gas with CCS and hydrogen to power. I would agree that these technologies are not competing, that they are definitely serving different purposes and system requirements.
+
+The really important thing is that there needs to be a clear plan from the Government on how they intend to facilitate the investment in these technologies and how we are going to bring them on to the system. The key challenge is that without that clarity, there is a risk that we are not able to invest in the current gas fleet, which is providing much of that system support at the moment, in terms of both security of supply and system operability. We would end up either prematurely retiring the gas plants that we have or investing in gas, further unabated gas, without a clear pathway of how that gas fleet decarbonises. I would say that it is not an either/or choice. Again, we support a portfolio of technologies that will each have different characteristics and system requirements, but the key thing is we need a really clear transition plan of how we get to that point.
+
+Baroness McIntosh of Pickering: One last question on that point. It cannot be the case that householders or taxpayers take the risk. By what means can you see that this will be commercially viable?
+
+Kisha Couchman: There is certainly a question in here on what market mechanisms should look like to facilitate that investment.
+
+The Chair: We are coming on to that.
+
+Kisha Couchman: I am happy to answer that.
+
+The Chair: Thank you. Earl Russell, your question.
+
+Q29 Earl Russell: Good morning. Thank you for your evidence. I think everybody agrees that we need long-term and ultra-long-term energy storage as part of our energy mix and that is regardless of the Dunkelflaute. However, my question is about market mechanisms and what can be done to help improve them to support these emerging technologies and the particular issues. You have all talked about the need for market certainty in terms of investment and obviously these are new technologies, they are high-risk.
+
+There are obviously different problems between long-term and ultra-long-term storage. In June we had an announcement of 7.6 gigawatts for LDS and the cap and floor mechanism. I think Energy UK has been critical to limitations of cap and floor. As we move to ultra-long-term storage, those problems compound. What more can and should we be doing to help improve the market mechanisms for investment to bring these technologies to fruition? Kisha, perhaps you would like to start.
+
+Kisha Couchman: Yes, I can kick off us off. It is important that markets are able to adequately value the services that these assets provide, even if they are running infrequently. For the low-carbon alternatives such as hydrogen to power and power CCUS, the expectation is that they are not going to be providing a significant amount of power generation. They are going to be used in those Dunkelflaute periods where there is low renewable output. The capacity market, which is the primary mechanism through which we procure capacity for security of supply, is a key part of that framework.
+
+The Government did consider something like a strategic reserve under their review of electricity market arrangements programme, and that involved considering whether to take gas capacity out of the electricity market and contracting it on a long-term basis to provide system back-up. We would be very cautious about taking gas generators out of the market because of the fact that we still rely on them so heavily for security of supply currently. They still provide over a third of our electricity in the system, so we are not at that point of considering something like a strategic reserve.
+
+The other thing to consider, though, is electricity capacity and gas storage being two very different things when you are thinking about strategic reserves. For example, a power station can provide electricity for as long as there is fuel available. We have already said that the UK benefits from quite a diverse supply of gas around the world, but declining domestic gas means that we should be stress-testing how resilient the system is in more extreme scenarios. There is potentially a case to be made about whether the Government could look at what market mechanisms should be shaped in order to support strategic energy infrastructure that is used infrequently but which provides insurance in those periods where it is highly valuable during an extended period of system stress.
+
+This is something that the Government are looking at currently in their gas systems transition work. They published a consultation last year, which we responded to and suggested that they should look at making a targeted intervention where the market does not currently value that sort of insurance that it provides. They published an interim response over the summer, which suggested that they were looking at this, and we look forward to the full response.
+
+Martin Lambert: The easy answer is that to encourage investment you need to give investors enough revenue confidence to make the investment. There are different ways that policy can do that. There are a couple of examples relevant to this. We talked before about the European Hydrogen Backbone. The only part of that that progressed anywhere is in Germany, where they are building the Kernnetz, their core network, which is backed by the German federal Government. There are arguments about whether it is worth doing or not and it is quite expensive for government to do.
+
+The trade-off clearly is the extent to which government backs it directly and funds it or whether you pass it on consumers, but you need to find a way to give investors confidence. In the UK, with contracts for difference for renewable power, we have achieved that fairly well. Again, I am not pushing biomethane too strongly, but if you wanted to encourage more biomethane, that would be where another contract for difference approach could work, because right now the current support scheme is ending and there is no confidence in what will proceed.
+
+Similarly, for uncertain carbon pricing, Germany has introduced a carbon contract for difference. That gives revenue certainty. That could work quite well as well. Thinking of ways you give revenue certainty is the answer, but there are many ways to skin that cat.
+
+Earl Russell: Are you confident that contracts for difference are capable of helping to meet the challenges of picking technologies and investing in ultra-long-duration energy storage or are there particular problems there that need other market mechanisms? I guess the other side to that is: are the Government doing enough in terms of the actual market system they are providing for the ultimate development of ultra-long-term energy or is there more thinking the Government need to do in that space?
+
+Martin Lambert: I think it depends on the design of the contract for difference and the auction. There is always a danger in government trying to pick winners, so it needs to be a market mechanism whereby the industry and technology can then choose the answer. That is not quite an accurate answer your question.
+
+Earl Russell: No, but I understand that complex relationship between markets, government, subsidy and technology.
+
+Martin Lambert: Also unknown technology, so finding a mechanism that can promote development of technology, but we do not try to pick winners when the technology might evolve. That is something that needs further work.
+
+Earl Russell: It is a complex dance. From Hydrogen UK, I do not know whether you want to comment on long-duration and ultra-long-term market mechanisms and where hydrogen fits into that financial sort of relationship.
+
+Brett Ryan: I would echo the point that Kisha made right at the start of this question. It is about being able to adequately value the service that that storage is providing. As I mentioned earlier, the power sector is but one use of the hydrogen storage. Those storage developers will have options to be using hydrogen to be stored for other sectors such as industry, so there has to be a market mechanism that values not just the megawatt generation capacity and the duration that it can do, but the availability, the guarantee that it will be there when it is needed and not used for anything else. There still needs to be further work on defining exactly how that happens within the support mechanisms.
+
+Earl Russell: This is an ongoing and evolving space between technology, industry, Government and financial mechanisms. Kisha, going back to your point on the RAV on gas, when I saw that proposal, that was also about dispatchable power and gas. The unit price is the dispatchable power, so that is technology, but it is also the market mechanisms and transcending price from that unit that sets dispatchable power, I guess. That is two slightly different arguments coming together.
+
+Kisha Couchman: Yes. There is dispatchable power and then there is energy storable fuels. Our perspective is that we are not at that place where we can credibly consider taking gas generation or dispatchable power out of the electricity market because it plays such a fundamental role currently, given that it produces over a third of our electricity generation today. When we get to a point in the 2030s where we have a clearer view of the of the pace and deployment of low-carbon alternatives and how much that has come to market and a clear review of the decarbonisation pathways for gas generators, then we can have that conversation. However, I think the capacity market remains a very efficient use and plays an important role.
+
+Earl Russell: They would be quite complex market changes. I guess they would take some time to prepare, if we chose to go down that route.
+
+Kisha Couchman: We know that the Government are currently considering reforms to the capacity market, so we would be very keen to understand what they have in mind.
+
+The Chair: Thank you. We are at 11.29 am and we have one further question. I just want to ask our panellists whether they are okay to stay with us a little bit over time. Thank you very much. Lord Trees, your question.
+
+Q30 Lord Trees: Thank you very much. This session is about molecular storage, hydrogen, natural gas and biomethane. We have said very little about biomethane. I will come to hydrogen strategy in a minute, but, Martin, you have mentioned biomethane several times in a relatively positive way. That would be derived from crops, right, but is there a potential at scale from capturing from animals? We have millions of cows in Britain and they are housed all winter. I know work is going on in some places about that. Is that at all a feasible contribution to the issue of storage?
+
+Martin Lambert: Yes. Biogas becomes biomethane. Landfill gas is one source of it. Farm waste, agricultural waste, is another. Sewage in the broader sense, so whether it be human sewage or animal waste, is also a source. All of that can be put into the digester and can produce biogas, so it does come from a range of different sources.
+
+Lord Trees: What about capturing from live animals in houses? Most dairy cattle are put in houses all winter.
+
+Martin Lambert: I am not sure, to be honest. I will check on that and get back to you with a written answer, but I think that may be too dilute to make it significant at scale. Like everything in the energy system, getting things to enough scale is a key challenge. We can do more in biomethane in the UK and keep it sustainable. A question for government is indeed what policy there should be to promote biomethane, but without getting it too much, so you get beyond that sustainable level. There is more we can do in that space.
+
+Lord Trees: In growing crops, we would deprive us of food, so there are trade-offs.
+
+Martin Lambert: No, because it should be biowaste. You grow the crops for crops. You grow sweetcorn, for example. You eat the sweetcorn, but the green stuff that goes around it you do not want, so you can put that into a digester, so it is a waste that comes along with growing crops. What you want to avoid is repurposing land that otherwise would grow food, for growing energy crops. That is not the idea.
+
+The Chair: Can I just interject here, Lord Trees? I will come back to you. In terms of low-carbon biomethane sources, we need BECCS alongside that. How well developed is bioenergy and carbon capture storage?
+
+Martin Lambert: BECCS is different. BECCS is you grow the bioenergy—
+
+The Chair: It is methane you are burning. You will still generate carbon dioxide. You need to capture and store that carbon dioxide. How do you do that?
+
+Martin Lambert: If you do that, you get negative emissions. BECCS is a way to get negative emissions, because with biomethane, the carbon in it is “good carbon”, I would call it, because it has been captured more recently.
+
+Lord Trees: Finally, the hydrogen strategy: the Government have suggested that they are going to produce one in due course. Do we know when that is and what do you expect from a hydrogen strategy?
+
+Martin Lambert: Do you want to go first?
+
+Kisha Couchman: I want to very quickly say, just on the biomethane point, that we are also very positive about biomethane, and we think that it does also have the potential to scale. There was a report by the Green Gas Group, which has some estimates of biomethane producing around 120 terawatt hours per year by 2050. That is a high-end estimate, but we think it is worth exploring. I will hand over to you on hydrogen and then I will come back.
+
+Brett Ryan: When do we think the strategy will be released? We would love for it to be a surprise announcement this afternoon, but we carry on waiting. There are a few things here. Our members have been waiting quite patiently on a number of funding and allocation updates that can happen without the strategy itself. Importantly, the second allocation of the electrolytic hydrogen production projects has been stalled since early last year. Those projects need to go through to what we call the invitation to offer stage, so that the developers and the investors know that there is still confidence that the UK and the Government are still serious about hydrogen. Similarly with the transport and storage, that first regional network, there was a £500 million commitment that came through in the last spending review in the industrial strategy. That is great, but we need to see that actually launch, and then a timeline and plan for when future networks will be allocated.
+
+As we talked about today, most of the salt caverns that we are going to be relying on for ultra-long-duration energy storage are located near clusters, so there is a regional network buildout required to go with it, a credible pathway for production projects beyond those current HAR1 and HAR2 allocations and, importantly, the launch of the hydrogen to power business model. As I said earlier, you need production, infrastructure and the power generation for this all to work. Those are the absolute minimums we would need to see from a strategy or announcements beforehand.
+
+Kisha Couchman: Yes, I think I would agree with that. I would add what I mentioned earlier around clarifying the role of hydrogen and setting out where government thinks that it adds the most value so that we can understand where it fits in the broader picture of that portfolio of flexible technology. Resolving some of the outstanding market questions, particularly around how hydrogen might play in the capacity market, is crucial for investors to understand what routes to market look like.
+
+Martin Lambert: Yes, the question of when it is coming—it would be good if DESNZ gave us some indication of what its thinking is, because it was expected earlier this year. It has been very silent and we do not understand why. Similarly, with hydrogen allocation round 2, there was a shortlisting done—if I remember rightly—in April 2025, so well over a year ago. We would expect that to have been confirmed this year. Again, there has been radio silence from DESNZ and we are not quite sure why. Perhaps you should ask it.
+
+On the other thing you mentioned, in 2026 there was going to be a decision about the role of hydrogen in home heating. I think it is pretty widely recognised, unless Brett refutes me, that hydrogen home heating is not going to happen because of the inefficiency issue. Heat pumps for home heating, or district heating, are clearly the route to go but not hydrogen heating. Similarly, electric cars have come a long way since 2021, so EVs for transport, not hydrogen for transport, that has to be the answer. However, for aviation and maritime, there is a clear role for e-fuels derived from low-carbon hydrogen. I think the new strategy needs to be clear where the priorities are and what the pathway is to get there. Having that would be a real help to investors and moving everything forward.
+
+Lord Trees: That is very helpful, thank you.
+
+The Chair: Thank you. We are at 11.37 am. There are several colleagues who are bursting to ask further questions. I want to give them a chance, but we have run out of time in this forum. If those colleagues could please email their questions to Lily and Alastair, we will make sure that the panel has an opportunity to address them. I apologise to colleagues, but I think that is probably the fairest way to proceed.
+
+Thank you very much to our expert panel. It has been fascinating to hear your perspectives. I remind you that the written evidence that you have already committed to send to us would be very much appreciated. If you could bear with us and answer further questions from colleagues, that would be much appreciated also. With that, I bring today’s public session to a close and the committee will now move into private session.
