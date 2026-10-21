@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18144,
+  "activity_id": 38529,
+  "document_id": 307644,
+  "meeting_date": "2026-10-14",
+  "meeting_date_display": "14 October 2026",
+  "publication_date": "2026-10-20T14:43:36",
+  "title": "Children’s social care",
+  "committee": "Public Services Committee",
+  "committees": [
+    {
+      "id": 430,
+      "name": "Public Services Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10001,
+      "title": "Children’s social care",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Director for Children's Social Care: System and Strategy",
+      "organisation": "Department for Education"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director of Children's Social Care: Help, Protection and Social Work",
+      "organisation": "Department for Education"
+    }
+  ],
+  "speaker_candidates": [
+    "Helen Waite OBE, Director, Children's Social Care",
+    "The Chair",
+    "Shazia Hussain",
+    "Helen Waite",
+    "Lord Johnson of Marylebone",
+    "Baroness Shawcross-Wolfson",
+    "Baroness Watkins of Tavistock",
+    "We are also going to be rolling out Staying Close, which we legislated for",
+    "Baroness Redfern",
+    "Lord Mohammed of Tinsley",
+    "Baroness Nichols of Selby",
+    "Baroness Hollins",
+    "Baroness Pidgeon",
+    "We are conscious of the fragility of the market as well",
+    "Lord Barber of Chittlehampton",
+    "The only other thing to say on foster care is this"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18144/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18144",
+  "source_sha256": "966441deca8da89f6db35777897ad65acb67551e08ac0d941157e281735d9103",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

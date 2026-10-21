@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18143,
+  "activity_id": 38738,
+  "document_id": 307635,
+  "meeting_date": "2026-10-14",
+  "meeting_date_display": "14 October 2026",
+  "publication_date": "2026-10-20T13:30:31",
+  "title": "Multilateralism",
+  "committee": "International Relations and Defence Committee",
+  "committees": [
+    {
+      "id": 360,
+      "name": "International Relations and Defence Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9772,
+      "title": "Multilateralism",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "President",
+      "organisation": "Eurasia Group"
+    },
+    {
+      "name": "Aalok Mehta",
+      "role": "Director, Wadhwani AI Center",
+      "organisation": "Center for Strategic and International Studies (CSIS)"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Ian Bremmer",
+    "Aalok Mehta",
+    "Baroness Blackstone",
+    "Baroness Crawley",
+    "Lord Lamont of Lerwick",
+    "Lord Ahmad of Wimbledon",
+    "Lord Grocott",
+    "He has a very specific, hands-off view of artificial intelligence",
+    "Lord Alderdice",
+    "Lord De Mauley",
+    "Lord Bruce of Bennachie",
+    "Baroness Prashar"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18143/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18143",
+  "source_sha256": "62290567743de48dc548ad6ff4ad0eb70dba4bec9e1ea8bb4b4b1ff7ab737afc",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

@@ -1,0 +1,290 @@
+{
+  "schema_version": 1,
+  "source_id": 18142,
+  "source_sha256": "81073b883ed025cea46103dbb48fae6f1bc4ff202afb32d36f8e48fe3eaec120",
+  "title": "Who controls digital ID? What DCMS is doing next",
+  "label": "19 October 2026 · Digital ID evidence session",
+  "summary": "The Department for Digital, Culture, Media and Sport (DCMS) has taken on digital identity responsibilities after recent government changes; the national digital ID programme has been closed, but work continues on the building blocks—gov.uk One Login, a government digital wallet and a trust framework—to make digital identity usable, private and inclusive. Witnesses set out definitions, current projects, costs and benefits, and how they plan to manage security, interoperability and digital exclusion, while committee members pressed on trust, metadata, timelines and standards.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Sir Geoffrey Clifton-Brown",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Susannah Storey",
+      "name": "Susannah Storey",
+      "role": "Permanent Secretary, Department for Digital, Culture, Media and Sport",
+      "kind": "witness"
+    },
+    {
+      "label": "Christine Bellamy",
+      "name": "Christine Bellamy",
+      "role": "Interim Director General, Digital Products, Government Digital Service, DCMS",
+      "kind": "witness"
+    },
+    {
+      "label": "Rod Latham",
+      "name": "Rod Latham",
+      "role": "Director, Cyber and Digital Identity, DCMS",
+      "kind": "witness"
+    },
+    {
+      "label": "Philippa Rouse",
+      "name": "Philippa Rouse",
+      "role": "Former Digital Identity Programme Director, Cabinet Office; Director for gov.uk Connect, GDS",
+      "kind": "witness"
+    },
+    {
+      "label": "Natalie Jones",
+      "name": "Natalie Jones",
+      "role": "Director for One Login and verified credentials; SRO for the OneLogin Programme, DCMS",
+      "kind": "witness"
+    },
+    {
+      "label": "Dame Chi Onwurah",
+      "name": "Dame Chi Onwurah",
+      "role": "Science and Technology Committee member present",
+      "kind": "member"
+    },
+    {
+      "label": "Sarah Olney",
+      "name": "Sarah Olney",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Matt Turmaine",
+      "name": "Matt Turmaine",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Sarah Green",
+      "name": "Sarah Green",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Rupert Lowe",
+      "name": "Rupert Lowe",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Tristan Osborne",
+      "name": "Tristan Osborne",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Mr Betts",
+      "name": "Mr Betts",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "One Login",
+      "definition": "gov.uk's single government login that lets a user verify their identity once and reuse it across services."
+    },
+    {
+      "term": "Digital wallet",
+      "definition": "An app on a phone that holds 'verified credentials'—digital versions of documents like driving licences or veteran cards."
+    },
+    {
+      "term": "Trust framework",
+      "definition": "A set of rules and standards that organisations must meet to be certified to provide or rely on digital identity services."
+    },
+    {
+      "term": "Verified credentials",
+      "definition": "Digitally-signed claims (for example ‘over 18’ or a driving licence) that can be checked electronically and revoked when out of date."
+    },
+    {
+      "term": "Tokenisation",
+      "definition": "A security method that replaces a single persistent identifier with short-lived tokens to reduce privacy risk."
+    },
+    {
+      "term": "Data Act",
+      "definition": "UK law that gives duties to government on data sharing and underpins parts of the digital identity regime."
+    },
+    {
+      "term": "UK Accreditation Service",
+      "definition": "The national body that accredits conformity-assessment organisations which in turn certify identity providers."
+    },
+    {
+      "term": "Government Digital Service (GDS)",
+      "definition": "The team inside DCMS that builds and runs key online government services."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Who now runs digital policy and AI?",
+      "takeaway": "DCMS now holds much of the digital and identity remit after government restructuring, while AI sits with a Prime Minister’s Office taskforce.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "You all introduced yourselves earlier; let’s start with the big picture: who is responsible now for digital policy and where does AI sit?"
+        },
+        {
+          "speaker": "Susannah Storey",
+          "text": "After the summer machinery change, DCMS took telecoms, cyber, tech, digital policy and GDS. AI strategy and the Minister for AI sit in the Office for the Prime Minister and Cabinet taskforce, led by Kanishka Narayan."
+        },
+        {
+          "speaker": "Chair",
+          "text": "How will DCMS work across Whitehall on digital? Who’s the government chief digital officer now?"
+        },
+        {
+          "speaker": "Susannah Storey",
+          "text": "I stepped into the head-of-profession role for digital, and we operate with five deputy heads—DGs from GDS, HMRC, DWP and MoJ—meeting as a digital executive committee to coordinate standards and risk."
+        },
+        {
+          "speaker": "Chair",
+          "text": "You also have targets for digital skills and board-level digital leaders—are Departments delivering them?"
+        },
+        {
+          "speaker": "Susannah Storey",
+          "text": "Departments are working on it. The PM set a 10% digitally trained civil service target by 2030; we’re around 5.5% today and publishing a digital workforce plan to improve that and board-level coverage by end of 2026."
+        }
+      ]
+    },
+    {
+      "title": "What do we mean by 'digital identity' and what exists now?",
+      "takeaway": "Digital identity means proving who you are digitally; the national ID programme is closed, but One Login, a gov.uk wallet and a trust framework remain the core components.",
+      "turns": [
+        {
+          "speaker": "Dame Chi Onwurah",
+          "text": "Before we go further, define ‘digital identity’ and explain how it differs from One Login."
+        },
+        {
+          "speaker": "Christine Bellamy",
+          "text": "Digital identity is how people prove things about themselves safely and digitally. One Login is the government’s single login that lets you access many services after one verification."
+        },
+        {
+          "speaker": "Susannah Storey",
+          "text": "The national digital ID programme that proposed a single state product was closed in July, but DCMS is now shaping policy on wallets, credentials and the trust framework."
+        },
+        {
+          "speaker": "Christine Bellamy",
+          "text": "We see four pillars: One Login (logins), digital credentials and wallets (digital documents like licences), better joined-up services across Departments, and an inclusion programme for those without passports or driving licences."
+        },
+        {
+          "speaker": "Philippa Rouse",
+          "text": "My role is building the capability in GDS to help services share data safely, define when consent is needed, and apply consistent standards across government services."
+        }
+      ]
+    },
+    {
+      "title": "Security, privacy and trust concerns",
+      "takeaway": "Ministers and officials emphasise privacy-by-design, data minimisation and independent accreditation, but MPs pressed on metadata, ownership and public trust.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Trust is critical: how will you convince the public given high-profile hacks and scepticism?"
+        },
+        {
+          "speaker": "Natalie Jones",
+          "text": "One Login stores the minimum data needed, splits data across places so there is no single big target, uses tokenisation and privacy-enhancing design, and won’t track what you do inside a service."
+        },
+        {
+          "speaker": "Mr Betts",
+          "text": "Estonia lets people see who accessed their records. Will we offer that transparency?"
+        },
+        {
+          "speaker": "Christine Bellamy",
+          "text": "We are studying international models. Transparency and user control—letting people see access logs—are being considered as the strategy is finalised."
+        },
+        {
+          "speaker": "Rupert Lowe",
+          "text": "People distrust government; convenience alone won’t win them over. How do you stop this becoming more state power over citizens?"
+        },
+        {
+          "speaker": "Rod Latham",
+          "text": "The trust framework sets the rules for operators, requires accreditation by independent bodies and is designed so users can see who is certified; security, privacy and inclusion are core requirements."
+        },
+        {
+          "speaker": "Dame Chi Onwurah",
+          "text": "What about metadata—logs of who applied for what and when—will that be stored, who owns it and who can access it?"
+        },
+        {
+          "speaker": "Philippa Rouse",
+          "text": "The plan is not to centralise all personal data. We aim to enable secure, auditable sharing between systems without creating big pooled databases that become targets."
+        }
+      ]
+    },
+    {
+      "title": "Costs, benefits and timelines",
+      "takeaway": "One Login is an existing, measurable programme with significant net benefits; wider strategy and new builds have no firm publication date yet and will depend on ministerial decisions.",
+      "turns": [
+        {
+          "speaker": "Matt Turmaine",
+          "text": "What do we know about costs and benefits—are these projects good value for money?"
+        },
+        {
+          "speaker": "Natalie Jones",
+          "text": "One Login is on the major projects portfolio. From April 2022 to Aug 2026 we estimate £752m net benefits so far; the business case projects £2.83bn net benefits to March 2028 against costs of £702.94m to that point."
+        },
+        {
+          "speaker": "Susannah Storey",
+          "text": "For future projects we’ll cost once Ministers have made policy decisions; scaling One Login and the wallet reduces build cost because the foundation exists."
+        },
+        {
+          "speaker": "Tristan Osborne",
+          "text": "When will you publish a full digital ID strategy?"
+        },
+        {
+          "speaker": "Susannah Storey",
+          "text": "We are actively working with Ministers and the NAO’s recommendations, but there is no firm publication date to give today."
+        },
+        {
+          "speaker": "Natalie Jones",
+          "text": "On practical timing: One Login has 264 services onboard and we expect to cover the central services universe in roughly 18–24 months; the digital driving licence is the next wallet priority and a sandbox opened last week for industry testing."
+        },
+        {
+          "speaker": "Mr Betts",
+          "text": "Will the wallet be interoperable with the EU?"
+        },
+        {
+          "speaker": "Rod Latham",
+          "text": "Technically we use the same standards as the EU wallet, so there’s no fundamental barrier, but interoperability needs agreement on governance, privacy and trust and will take time."
+        }
+      ]
+    },
+    {
+      "title": "Practical uses, inclusion and next steps",
+      "takeaway": "Officials say digital credentials reduce fraud and friction for common tasks (age checks, DBS, right to work), but insist alternative non-digital routes must remain and inclusion must be pursued actively.",
+      "turns": [
+        {
+          "speaker": "Sarah Olney",
+          "text": "Where will digital identity add value to services people already use?"
+        },
+        {
+          "speaker": "Christine Bellamy",
+          "text": "It helps people who lack photo ID, cuts repeated form-filling, speeds decisions across departments, and lets users disclose only what’s needed—eg ‘over 18’—instead of full personal details."
+        },
+        {
+          "speaker": "Natalie Jones",
+          "text": "Digital credentials are harder to fake, can be programmatically verified, and can be revoked when they expire—veterans can download their credential minutes after applying rather than waiting for a card."
+        },
+        {
+          "speaker": "Rod Latham",
+          "text": "We’re focusing on use cases where digital checks bring clear benefits: age-restricted sales, right-to-work, property and some anti-fraud contexts, while keeping alternative non-digital routes."
+        },
+        {
+          "speaker": "Christine Bellamy",
+          "text": "On exclusion: 9% lack photo ID; DCMS’s broader estimate of people who face digital barriers is about 20%. We provide help routes—post office, web alternatives, call centre support and special guidance for helpers."
+        },
+        {
+          "speaker": "Natalie Jones",
+          "text": "One Login requires services to keep an alternative channel before going live. We run call-centre support, casework for stuck users, and options for people without phones like web checks and assisted in-person verification."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you—this Committee will want an update on the strategy, timelines, and the annual data on digital capability and standards you promised to provide; we will also scrutinise trust, metadata and inclusion closely."
+        }
+      ]
+    }
+  ]
+}

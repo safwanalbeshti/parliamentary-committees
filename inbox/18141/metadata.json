@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18141,
+  "activity_id": 39166,
+  "document_id": 307580,
+  "meeting_date": "2026-10-15",
+  "meeting_date_display": "15 October 2026",
+  "publication_date": "2026-10-20T10:49:23",
+  "title": "Draft Finance Bill 2026–27",
+  "committee": "Finance Bill Sub-Committee",
+  "committees": [
+    {
+      "id": 230,
+      "name": "Finance Bill Sub-Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10007,
+      "title": "Draft Finance Bill 2026–27",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Adam Craggs",
+      "role": "Partner",
+      "organisation": "RPC"
+    },
+    {
+      "name": "Antonia Stokes",
+      "role": "Senior Manager",
+      "organisation": "Low Incomes Tax Reform Group (LITRG)"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "I will ask Antonia the question that, when Adam appears, I will also ask him",
+    "Antonia Stokes",
+    "Lord Carrington of Fulham",
+    "Baroness Wheatcroft",
+    "Lord Leigh of Hurley",
+    "There is a huge tax gap",
+    "Adam Craggs"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18141/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18141",
+  "source_sha256": "0e6fcaf9c953729393cf63d2b126997e4e21c0bf4319b1041ef1239ca67ce22b",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

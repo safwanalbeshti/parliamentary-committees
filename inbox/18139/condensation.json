@@ -1,0 +1,312 @@
+{
+  "schema_version": 1,
+  "source_id": 18139,
+  "source_sha256": "c2d0cfff6cd30b0c0ef000ce2e3433c53aa7c44ba7f0ee7d9ce8306b8e7a4dec",
+  "title": "DESNZ on Clean Power, grid bottlenecks, bills and resilience",
+  "label": "14 October 2026 · DESNZ scrutiny",
+  "summary": "The Secretary of State and Permanent Secretary outlined progress towards the Clean Power 2030 target, acknowledged serious grid and delivery bottlenecks, and emphasised affordability, system reform and security. They defended existing tools like Contracts for Difference, set out the aim of a new Great British Grid public operator to accelerate network build‑out, committed to supporting home‑upgrade and heat technology rollout, and said nuclear and storage decisions are being progressed while they review regulation and resilience, including cyber and physical threats.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Bill Esterson",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Miatta Fahnbulleh",
+      "name": "Miatta Fahnbulleh",
+      "role": "Secretary of State, Department for Energy Security and Net Zero",
+      "kind": "witness"
+    },
+    {
+      "label": "Jonathan Brearley",
+      "name": "Jonathan Brearley",
+      "role": "Permanent Secretary, Department for Energy Security and Net Zero",
+      "kind": "witness"
+    },
+    {
+      "label": "Melanie Onn",
+      "name": "Melanie Onn",
+      "role": "Member of the Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Sir Christopher Chope",
+      "name": "Sir Christopher Chope",
+      "role": "Member of the Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Wera Hobhouse",
+      "name": "Wera Hobhouse",
+      "role": "Member of the Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lizzi Collinge",
+      "name": "Lizzi Collinge",
+      "role": "Member of the Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Mike Reader",
+      "name": "Mike Reader",
+      "role": "Member of the Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Claire Young",
+      "name": "Claire Young",
+      "role": "Member of the Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Torcuil Crichton",
+      "name": "Torcuil Crichton",
+      "role": "Member of the Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Graeme Downie",
+      "name": "Graeme Downie",
+      "role": "Member of the Committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Clean Power 2030",
+      "definition": "A UK government target to increase government-backed low‑carbon electricity capacity by 2030."
+    },
+    {
+      "term": "CfD",
+      "definition": "Contracts for Difference: a government scheme that guarantees a set price to low‑carbon generators to encourage investment."
+    },
+    {
+      "term": "Ofgem",
+      "definition": "The UK energy regulator responsible for enforcing market rules and setting network incentives."
+    },
+    {
+      "term": "NESO",
+      "definition": "National Electricity System Operator, responsible for running and planning the electricity system in Great Britain."
+    },
+    {
+      "term": "cap and floor",
+      "definition": "A regulatory mechanism that limits revenue risks for major energy infrastructure projects by setting upper and lower revenue bands."
+    },
+    {
+      "term": "CCUS",
+      "definition": "Carbon capture, utilisation and storage: technology to capture CO2 from industry or power generation and store it underground."
+    },
+    {
+      "term": "Warm Homes Plan",
+      "definition": "A government programme to upgrade households' energy efficiency and lift people out of fuel poverty."
+    },
+    {
+      "term": "Boiler Upgrade Scheme",
+      "definition": "A grants programme to encourage households to replace fossil-fuel heating with low‑carbon alternatives."
+    },
+    {
+      "term": "Advanced Nuclear Framework",
+      "definition": "A government framework to streamline approvals and support for new nuclear technologies."
+    },
+    {
+      "term": "GB Grid",
+      "definition": "A proposed public-sector body to speed up electricity transmission planning and build‑out."
+    },
+    {
+      "term": "Office for Nuclear Regulation (ONR)",
+      "definition": "The independent regulator that enforces nuclear safety and security in Great Britain."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Progress on Clean Power 2030",
+      "takeaway": "Ministers say the UK has unlocked large clean power investment and made progress but delivery faces network and planning bottlenecks.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "How well are we doing on the Clean Power 2030 target?"
+        },
+        {
+          "speaker": "Miatta Fahnbulleh",
+          "text": "The target has built momentum. We've unlocked around £100bn of investment, consented capacity for over 20 million homes, and renewables supplied the system two-thirds of the time last year. Progress is real, but more work is needed."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Developers tell us projects are blocked by grid gates: solar‑plus‑storage get stuck because they sit in different queue stages. Does the system need an overhaul?"
+        },
+        {
+          "speaker": "Miatta Fahnbulleh",
+          "text": "Parts of the system share the same ambition but struggle because of historic underinvestment in networks. We reordered queues, launched Great British Grid to accelerate build‑out, and are working with operators on workforce and practical barriers."
+        },
+        {
+          "speaker": "Jonathan Brearley",
+          "text": "Ofgem, NESO and DESNZ want the same outcome. The issue is scale and complexity: planning resource, grid queue ordering and execution need to speed up. We're stabilising connections but it's a big job."
+        }
+      ]
+    },
+    {
+      "title": "Regulator independence vs policy delivery",
+      "takeaway": "Government recognises tensions between regulator independence and delivering strategic policy, especially for cost‑effective long‑duration storage.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Some allege Ofgem favours up‑front cost over lifetime value, excluding longer‑term solutions. Does that conflict with ministers' policy?"
+        },
+        {
+          "speaker": "Miatta Fahnbulleh",
+          "text": "We hear those frustrations and want change. We back innovation and schemes that support long‑duration storage; where companies challenge outcomes, Ofgem has consulted and will respond."
+        },
+        {
+          "speaker": "Jonathan Brearley",
+          "text": "Regulator independence means Ofgem implements policy. Government is firming up policy statements so the regulator and industry know what to deliver; some high‑CAPEX, long‑benefit projects have already passed mind‑to decisions."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Are you committed to using CfDs for solar?"
+        },
+        {
+          "speaker": "Miatta Fahnbulleh",
+          "text": "CfDs have been effective in unlocking investment. We'll keep using them where they make sense while balancing incentives against consumer costs."
+        }
+      ]
+    },
+    {
+      "title": "Affordability and decoupling from gas",
+      "takeaway": "Ministers say home‑grown clean power is essential to reduce exposure to volatile global gas prices, but system reform and network build‑out are also needed.",
+      "turns": [
+        {
+          "speaker": "Melanie Onn",
+          "text": "With UK prices among the highest in Europe, what is the plan to bring energy costs down?"
+        },
+        {
+          "speaker": "Miatta Fahnbulleh",
+          "text": "Affordability is the top priority. Short‑term relief includes VAT removal and targeted support, but long‑term we must deploy home‑grown clean energy, reform market structure, and invest in critical infrastructure and fair cost allocation."
+        },
+        {
+          "speaker": "Melanie Onn",
+          "text": "If grid build‑out lags, can we decouple electricity prices from international gas?"
+        },
+        {
+          "speaker": "Miatta Fahnbulleh",
+          "text": "Decoupling is under way: more renewables on the system reduces gas influence and CfDs fix renewable prices. But network constraints remain and must be tackled so renewables can connect and displace gas."
+        },
+        {
+          "speaker": "Melanie Onn",
+          "text": "Is Government funding for networks sufficient?"
+        },
+        {
+          "speaker": "Miatta Fahnbulleh",
+          "text": "We are funding key parts and using recovery mechanisms, but industry flags workforce and practical constraints more than lack of funding. We will work in step with industry to resolve those barriers."
+        }
+      ]
+    },
+    {
+      "title": "Warm Homes, heat technologies and local delivery",
+      "takeaway": "Government will keep funding warm homes programmes and widen technology support, but delivery needs local capability and clearer standards.",
+      "turns": [
+        {
+          "speaker": "Wera Hobhouse",
+          "text": "You are adding heat batteries. Why are other proven options like electric boilers excluded from grants and standards?"
+        },
+        {
+          "speaker": "Miatta Fahnbulleh",
+          "text": "We judge technologies by ease of adoption, emissions impact and need for subsidy. The Boiler Upgrade Scheme has broadened over time; we're open to reviewing other technologies and will look into the company you mentioned."
+        },
+        {
+          "speaker": "Jonathan Brearley",
+          "text": "We work closely with BSI on standards. Criteria exist to ensure public money is used properly, but we're ready to adjust as technology changes and invite innovators to engage with the innovation team."
+        },
+        {
+          "speaker": "Lizzi Collinge",
+          "text": "Warm Homes grants show postcode variation and local authorities with no delivery capacity struggle because grants are paid in arrears. Will devolution help?"
+        },
+        {
+          "speaker": "Miatta Fahnbulleh",
+          "text": "Devolution should help by enabling area‑based upgrades and blending funds. We'll establish a Warm Homes agency in shadow form to support places lacking capacity and evolve the scheme with local feedback."
+        },
+        {
+          "speaker": "Lizzi Collinge",
+          "text": "Will the zero VAT on solar materials be extended?"
+        },
+        {
+          "speaker": "Miatta Fahnbulleh",
+          "text": "We have asked the Chancellor but tax matters are his decision."
+        }
+      ]
+    },
+    {
+      "title": "Nuclear regulation, sites and the Fingleton agenda",
+      "takeaway": "The Department is implementing Fingleton recommendations, pushing legislation where needed, and seeking clearer regulatory rules to balance safety with strategic energy needs.",
+      "turns": [
+        {
+          "speaker": "Lizzi Collinge",
+          "text": "Old planning criteria prevent some new nuclear sites. When will those criteria and Fingleton recommendations be implemented?"
+        },
+        {
+          "speaker": "Jonathan Brearley",
+          "text": "We're working through all 47 Fingleton recommendations. Some need legislation; others don't. We will provide a written update on progress and timings."
+        },
+        {
+          "speaker": "Miatta Fahnbulleh",
+          "text": "We want a swift Bill but need parliamentary time. We recognise industry urgency and are pressing for a slot; some reform can be done without legislation and is already happening."
+        },
+        {
+          "speaker": "Lizzi Collinge",
+          "text": "Should the Office for Nuclear Regulation be required to weigh strategic objectives—like energy security—into safety decisions?"
+        },
+        {
+          "speaker": "Miatta Fahnbulleh",
+          "text": "Policy intent is that strategic factors are considered. We will look at the most appropriate mechanism to ensure they feed into regulatory decision‑making."
+        },
+        {
+          "speaker": "Claire Young",
+          "text": "What role will GB Energy‑North and GBE‑N sites play, and is their engagement with local authorities clear?"
+        },
+        {
+          "speaker": "Jonathan Brearley",
+          "text": "GBE‑N are identifying potential sites; we will follow up on transparency and engagement concerns. ANF work and site allocation are being coordinated with industry."
+        }
+      ]
+    },
+    {
+      "title": "Security, resilience and accountability",
+      "takeaway": "Ministers said the UK has robust contingency arrangements for physical and cyber threats, will continue testing, and that DESNZ must lead strategic coordination across bodies.",
+      "turns": [
+        {
+          "speaker": "Torcuil Crichton",
+          "text": "Can you assure consumers the lights won't go out this winter?"
+        },
+        {
+          "speaker": "Miatta Fahnbulleh",
+          "text": "I'm 100% confident we will not have national outages this winter. We have tested the system and have diverse supply and contingency plans."
+        },
+        {
+          "speaker": "Graeme Downie",
+          "text": "With recent attacks on energy infrastructure abroad, who decides and acts if something happens to offshore assets here?"
+        },
+        {
+          "speaker": "Miatta Fahnbulleh",
+          "text": "We have a cross‑government framework including the security services; serious incidents would go to COBRA. If companies feel unclear who to call, they should come to us."
+        },
+        {
+          "speaker": "Graeme Downie",
+          "text": "Are cyber and AI‑driven threats being factored into plans?"
+        },
+        {
+          "speaker": "Jonathan Brearley",
+          "text": "Yes. We work with NCSC, Ofgem and others; new legislation will broaden powers and supply‑chain oversight. Resilience work is ongoing and must evolve with the threat."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Who is ultimately accountable for fixing the coordination between DESNZ, Ofgem, NESO and others?"
+        },
+        {
+          "speaker": "Miatta Fahnbulleh",
+          "text": "Ultimately me. We accept the system is noisy; DESNZ will set clearer strategic direction and strengthen coordination. GB Grid and other reforms aim to simplify delivery."
+        }
+      ]
+    }
+  ]
+}

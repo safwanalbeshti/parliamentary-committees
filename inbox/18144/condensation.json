@@ -1,0 +1,356 @@
+{
+  "schema_version": 1,
+  "source_id": 18144,
+  "source_sha256": "966441deca8da89f6db35777897ad65acb67551e08ac0d941157e281735d9103",
+  "title": "Fixing children's social care: prevention, placements and the market",
+  "label": "14 October 2026 · Children’s social care evidence session",
+  "summary": "Department for Education directors Helen Waite and Shazia Hussain told the committee the children’s social care system is failing too many children, and that the department is pursuing wide reforms: more preventive support, a major fostering recruitment drive, targeted help for care leavers (including a Staying Close rollout), new regional care co-operatives to manage the residential market, and workforce measures. They stressed the need for better data before imposing national market controls like a profit cap, acknowledged problems with unregistered homes and patchy local arrangements, and set out plans to improve inspections and health links, while warning that many fixes will take time to show results.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Bradley",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Helen Waite",
+      "name": "Helen Waite",
+      "role": "Director of Children’s Social Care: System and Strategy, Department for Education",
+      "kind": "witness"
+    },
+    {
+      "label": "Shazia Hussain",
+      "name": "Shazia Hussain",
+      "role": "Director of Children’s Social Care: Help, Protection and Social Work, Department for Education",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Johnson of Marylebone",
+      "name": "Lord Johnson of Marylebone",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Shawcross-Wolfson",
+      "name": "Baroness Shawcross-Wolfson",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Watkins of Tavistock",
+      "name": "Baroness Watkins of Tavistock",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Redfern",
+      "name": "Baroness Redfern",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Mohammed of Tinsley",
+      "name": "Lord Mohammed of Tinsley",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Pidgeon",
+      "name": "Baroness Pidgeon",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Nichols of Selby",
+      "name": "Baroness Nichols of Selby",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Hollins",
+      "name": "Baroness Hollins",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Barber of Chittlehampton",
+      "name": "Lord Barber of Chittlehampton",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Staying Close",
+      "definition": "A support programme that keeps care leavers connected to their previous placements and provides supported housing to reduce homelessness."
+    },
+    {
+      "term": "Families First",
+      "definition": "The DfE's national prevention programme, previously piloted in local authorities, funded to help families earlier and reduce entries into care."
+    },
+    {
+      "term": "regional care co-operatives",
+      "definition": "New bodies collecting several local authorities to commission children's residential placements together and manage local supply."
+    },
+    {
+      "term": "Ofsted",
+      "definition": "The national inspector for schools and children's services, responsible for inspecting local authority children's social care and children's homes."
+    },
+    {
+      "term": "ICB",
+      "definition": "Integrated Care Board, the local NHS body that plans and pays for health services in an area."
+    },
+    {
+      "term": "SCCIF",
+      "definition": "The inspection framework Ofsted uses for children’s homes (Social Care Common Inspection Framework)."
+    },
+    {
+      "term": "ILACS",
+      "definition": "Ofsted's inspection framework for local authority children's services (Inspecting Local Authority Children’s Services)."
+    },
+    {
+      "term": "care leaver",
+      "definition": "A young person who has been in the care system and is transitioning to independent adult life."
+    },
+    {
+      "term": "family group decision-making",
+      "definition": "A model that brings extended family together to plan for a child, shown to reduce entries into care and give a strong return on investment."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Where the system stands",
+      "takeaway": "Department officials say outcomes for children in care are worse than for other children and emphasise prevention and stability as the core fixes.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We're looking at children’s social care outcomes—how well the system supports looked-after children. Could you introduce yourselves briefly?"
+        },
+        {
+          "speaker": "Shazia Hussain",
+          "text": "I'm Shazia Hussain, DfE director covering help, protection and the social work workforce."
+        },
+        {
+          "speaker": "Helen Waite",
+          "text": "I'm Helen Waite, DfE director covering the care end of the system. Between us we cover children’s social care."
+        },
+        {
+          "speaker": "Lord Johnson of Marylebone",
+          "text": "How should we define a good outcome for a child in care, and do current outcomes meet it?"
+        },
+        {
+          "speaker": "Helen Waite",
+          "text": "A good outcome means children do as well as their peers—good education, stable homes, supportive relationships. Right now outcomes are worse: instability, missed schooling, and higher risks when young people leave care."
+        },
+        {
+          "speaker": "Lord Johnson of Marylebone",
+          "text": "Spending has risen a lot—how do we know we're getting value for money?"
+        },
+        {
+          "speaker": "Shazia Hussain",
+          "text": "Costs rose partly because children are entering care older and with more complex needs after prevention spending fell. We're trying to rebuild prevention so fewer children reach high-cost care."
+        },
+        {
+          "speaker": "Helen Waite",
+          "text": "We haven't set a single money-per-child figure. Value first comes from stopping harm early and keeping children in family settings where possible—those achieve better outcomes at lower cost."
+        }
+      ]
+    },
+    {
+      "title": "Prevention: what works and where to spend",
+      "takeaway": "The department points to evidence-backed programmes and a ring-fenced Families First fund to guide local preventive spending.",
+      "turns": [
+        {
+          "speaker": "Baroness Shawcross-Wolfson",
+          "text": "If a local authority adds one extra pound to prevention, where should it go to get the most impact?"
+        },
+        {
+          "speaker": "Shazia Hussain",
+          "text": "We have an evidence base: Supporting Families showed about £2.40 return per £1 through key-worker, joined-up support. Family group decision-making has strong ROI and reduces care entries."
+        },
+        {
+          "speaker": "Helen Waite",
+          "text": "We've ring-fenced £2.4 billion via Families First to rebuild local prevention and required co-design with health and police in pathfinders—so teams wrap services around families, not just social workers."
+        },
+        {
+          "speaker": "Baroness Nichols of Selby",
+          "text": "Value for money should be judged by how lives change—jobs, reduced crime, less health demand—not just short-term savings."
+        },
+        {
+          "speaker": "Shazia Hussain",
+          "text": "That's right: prevention can cut long-term costs and workload pressures by using multidisciplinary teams for problems social workers aren't best placed to treat."
+        }
+      ]
+    },
+    {
+      "title": "Care leavers, homelessness and employment",
+      "takeaway": "Care leavers face high homelessness and poor life chances; the department plans Staying Close, expanded corporate parenting, and focused housing and employment support.",
+      "turns": [
+        {
+          "speaker": "Baroness Watkins of Tavistock",
+          "text": "Nearly a third of care leavers are homeless within two years—what urgent steps help prevent that?"
+        },
+        {
+          "speaker": "Helen Waite",
+          "text": "We legislated to publish care-leaver offers and are rolling out Staying Close—supported housing plus ongoing help. We also want enduring relationships for young people so they're not left without family or community support."
+        },
+        {
+          "speaker": "Baroness Redfern",
+          "text": "Care leavers often lack people who know their history—how do we improve the support network?"
+        },
+        {
+          "speaker": "Shazia Hussain",
+          "text": "Start earlier in care to find safe family contacts and build relationships so young people don't rely solely on professionals who will eventually step back."
+        },
+        {
+          "speaker": "Lord Mohammed of Tinsley",
+          "text": "What about jobs—should care leavers be fast-tracked into national employment schemes without long wait periods?"
+        },
+        {
+          "speaker": "Helen Waite",
+          "text": "Some DWP programmes already make exceptions; regional schemes and the Alan Milburn review push for more focus. We also back internships and the Civil Service internship scheme, which have helped care leavers into work."
+        },
+        {
+          "speaker": "Shazia Hussain",
+          "text": "Stable housing is a prerequisite to work. The Care Leaver covenant and employer pledges give work experience and internships to help young people move into employment."
+        }
+      ]
+    },
+    {
+      "title": "Residential placements, the market and unregistered homes",
+      "takeaway": "The residential market is fragmented: DfE wants regional co-operatives to commission placements, a national data platform first, and caution before any profit cap; unregistered homes are illegal but still used in crises.",
+      "turns": [
+        {
+          "speaker": "Baroness Pidgeon",
+          "text": "What assessment have you made of the residential market and what will regional care co-operatives do?"
+        },
+        {
+          "speaker": "Helen Waite",
+          "text": "The market is disjointed: many private providers, geographic imbalances and last-minute spot purchasing. Regional care co-operatives (RCCs) will pool local authority buying power to secure better supply, quality and prices."
+        },
+        {
+          "speaker": "Baroness Pidgeon",
+          "text": "How soon will RCCs affect costs and commissioning across the country?"
+        },
+        {
+          "speaker": "Helen Waite",
+          "text": "Two pathfinders exist; five more RCCs announced. They are building boards and mapping supply now. We expect clearer market data and action during 2027 as they mature."
+        },
+        {
+          "speaker": "Baroness Pidgeon",
+          "text": "What about national measures, like the profit cap in the Children’s Wellbeing and Schools Act?"
+        },
+        {
+          "speaker": "Helen Waite",
+          "text": "The profit cap is a backstop. We don't have enough detailed cost and quality data yet; we're building a national data platform and doing deep dives and a financial oversight of big providers before deciding whether and how to act."
+        },
+        {
+          "speaker": "Lord Barber of Chittlehampton",
+          "text": "We're effectively funding illegal unregistered homes. If state money goes to a provider, they should be fully regulated and inspected—how can we allow unregistered provision?"
+        },
+        {
+          "speaker": "Helen Waite",
+          "text": "Use of unregistered homes usually happens in crisis—spot purchases when nothing else is available—or where a provider is in the registration queue. We're working with Ofsted, publishing DfE data in November, and trying to speed registration."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Do you have a timeframe to end use of unregistered homes?"
+        },
+        {
+          "speaker": "Helen Waite",
+          "text": "No single deadline was set; we're tackling it through data, Ofsted enforcement powers and RCC sufficiency work to give local authorities legitimate alternatives."
+        },
+        {
+          "speaker": "Lord Johnson of Marylebone",
+          "text": "Some unregistered placements cost about £10,500 per week—could £1 million a year ever be justified?"
+        },
+        {
+          "speaker": "Helen Waite",
+          "text": "Potentially yes for very high medical or care needs with round-the-clock staffing, but we lack the detailed breakdowns now; RCCs and special audits will help identify whether costs are justified or inflated."
+        },
+        {
+          "speaker": "Shazia Hussain",
+          "text": "Yes—or high staff ratios with rotating teams so there is round-the-clock care."
+        },
+        {
+          "speaker": "Helen Waite",
+          "text": "We're also investing in secure homes and targeted capital for complex-needs provision, and offering Room Makers to expand foster carer accommodation."
+        },
+        {
+          "speaker": "Baroness Pidgeon",
+          "text": "You mentioned capital investment—what are you funding directly?"
+        },
+        {
+          "speaker": "Helen Waite",
+          "text": "We're funding secure homes and refurbishments where areas lack suitable provision, plus targeted investment in open children’s homes for complex needs, and a £25m Room Makers fund to help foster carers create space."
+        }
+      ]
+    },
+    {
+      "title": "Workforce, inspections and immediate gaps",
+      "takeaway": "The DfE reports improvement in social worker numbers and reduced agency use thanks to recruitment, regional agency controls and training, but says more joined-up inspections and better data on 'other' incident notifications are needed.",
+      "turns": [
+        {
+          "speaker": "Baroness Nichols of Selby",
+          "text": "What's your assessment of the children's social care workforce now?"
+        },
+        {
+          "speaker": "Shazia Hussain",
+          "text": "We saw big improvements: the workforce reached about 36,200 in 2025, vacancies and agency use fell. We used regional price caps, post-qualifying rules, and recruitment schemes, and we're investing in professional development and early-career training."
+        },
+        {
+          "speaker": "Baroness Hollins",
+          "text": "Children have more complex needs—mental health, autism, extrafamilial harm. Is the system set up for proper therapeutic support and continuity beyond 18?"
+        },
+        {
+          "speaker": "Helen Waite",
+          "text": "No one-size fits all—pilots in our Home Again programme are testing clinical assessment tools to define needs better and plan medical and therapeutic packages, aiming to stabilise children and return them to family settings where safe."
+        },
+        {
+          "speaker": "Baroness Watkins of Tavistock",
+          "text": "Should we consider national specialist commissioning for very rare, high-cost needs instead of 10 regional teams duplicating work?"
+        },
+        {
+          "speaker": "Helen Waite",
+          "text": "That's something we'll explore once RCCs map gaps. For very rare cohorts, national arrangements may make sense; we're open to learning from places like Denmark on specialist models."
+        },
+        {
+          "speaker": "Baroness Pidgeon",
+          "text": "How well does Ofsted regulate children's homes and local services now?"
+        },
+        {
+          "speaker": "Shazia Hussain",
+          "text": "Ofsted's ILACS inspects local authority services and SCCIF inspects homes; we're working to align inspection frameworks with the new policy priorities and piloting changes so inspections reflect the broader outcomes we want for children."
+        },
+        {
+          "speaker": "Lord Barber of Chittlehampton",
+          "text": "There's a worrying disconnect: homes often inspect as 'good' while long-term outcomes are poor. Inspections seem not to look far enough at children's life chances."
+        },
+        {
+          "speaker": "Helen Waite",
+          "text": "We agree there are gaps in system join-up: education, health and homes need to act together. We're pushing for stronger multi-agency responsibility as part of corporate parenting."
+        },
+        {
+          "speaker": "Lord Mohammed of Tinsley",
+          "text": "Maybe payment-by-results could encourage better life-preparation for high-cost placements—if you're investing half-a-million, shouldn't outcomes be part of the deal?"
+        },
+        {
+          "speaker": "Shazia Hussain",
+          "text": "It's an interesting idea; whatever mechanisms we use must account for complexity and the long timeframes many of these children need to show measurable outcomes."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Ofsted had 42,500 serious-incident notifications in a year and marked 57% as 'Other'. Do you understand what 'Other' means?"
+        },
+        {
+          "speaker": "Helen Waite",
+          "text": "No—we've asked for clarification and will follow up to get a better picture and write to the committee with what 'Other' covers."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you—this has been a helpful and frank discussion. We'll expect the follow-up on data and unregistered homes."
+        }
+      ]
+    }
+  ]
+}

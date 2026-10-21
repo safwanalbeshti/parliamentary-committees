@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 17762,
+  "activity_id": 37332,
+  "document_id": 306688,
+  "meeting_date": "2026-06-11",
+  "meeting_date_display": "11 June 2026",
+  "publication_date": "2026-10-20T12:06:58",
+  "title": "National Resilience",
+  "committee": "National Resilience Committee",
+  "committees": [
+    {
+      "id": 832,
+      "name": "National Resilience Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9585,
+      "title": "National Resilience",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Professor Lee Miles",
+      "role": "Professor of Crisis and Disaster Management",
+      "organisation": "Bournemouth University Disaster Management Centre"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director for Resilience and Cyber Security",
+      "organisation": "Ofcom"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Nihal Newman",
+    "Professor Lee Miles",
+    "Lord Oates",
+    "Baroness Northover",
+    "Baroness Hunter of Auchenreoch",
+    "Lord Farmer",
+    "Baroness Mobarik",
+    "Baroness Curran",
+    "Lord Peach",
+    "Baroness Winterton of Doncaster",
+    "Baroness Helic"
+  ],
+  "transcript_status": "corrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/17762/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/17762",
+  "source_sha256": "fe9e8933857d6fd523c82253ff251d8bcd2b5f2c245254f58beadb73d8ea76f5",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

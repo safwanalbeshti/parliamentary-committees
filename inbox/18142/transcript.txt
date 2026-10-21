@@ -1,0 +1,591 @@
+Oral evidence - 19 Oct 2026
+
+Public Accounts Committee
+
+Oral evidence: Digital ID, HC 99
+
+Monday 19 October 2026
+
+Ordered by the House of Commons to be published on 19 October 2026.
+
+Watch the meeting
+
+Members present: Sir Geoffrey Clifton-Brown (Chair); Mr Clive Betts; Rachel Gilmour; Sarah Green; Chris Kane; Rupert Lowe; Sarah Olney; Tristan Osborne; Matt Turmaine; Blake Stephenson.
+
+Science and Technology Committee member present: Dame Chi Onwurah.
+
+Gareth Davies, Comptroller and Auditor General, National Audit Office; Yvonne Gallagher MBE, Director, National Audit Office; and David Fairbrother, Treasury Officer of Accounts, HM Treasury, were in attendance.
+
+Questions 1-75
+
+Witnesses
+
+I: Christine Bellamy, Director General, Digital Products, Government Digital Service, DCMS; Natalie Jones, Director for Digital Identity and SRO for the OneLogin Programme, DCMS; Rod Latham, Director, Cyber and Digital Identity, DCMS; Philippa Rouse, Former Digital Identity Programme Director, Cabinet Office; and Susannah Storey, Permanent Secretary, DCMS.
+
+Report by the Comptroller and Auditor General
+
+Managing digital identity (HC 586)
+
+Examination of witnesses
+
+Witnesses: Christine Bellamy, Natalie Jones, Rod Latham, Philippa Rouse, and Susannah Storey.
+
+Q1 Chair: Welcome to this session of the Public Accounts Committee on Monday 19 October 2026.
+
+Digital identity underpins how people prove who they are, demonstrate their eligibility, and access public and private services securely. Since this Committee announced our inquiry on digital ID, the Government have dropped their plans for a national digital ID scheme. However, the underlying issue remains. As more services move online, questions about how the public can conveniently and securely prove who they are remain highly relevant—they are certainly not going to go away.
+
+The National Audit Office Report found that the UK already has many of the components associated with digital ID, but that the responsibility has fragmented across Government, with more than a dozen organisations and no coherent strategy for how they should work together.
+
+Today, the Committee will examine how DCMS is organising its new responsibilities in this area, whether the Government have a clear long-term approach and accountability arrangements, and how they will address the practical challenges around legacy systems, fragmented data, privacy, security and public trust.
+
+We are very pleased to have with us the permanent secretary and her team. As is my usual practice, I will ask everyone to introduce themselves—starting with you, permanent secretary—and, as a little quirk, I will also ask everybody to tell us what professional digital training they have had in the past.
+
+Susannah Storey: Good afternoon. I am Susannah Storey, the permanent secretary at the Department for Digital, Culture, Media and Sport. I have no professional digital training, but as director general for digital and media from 2019 to 2023, I was involved in a lot of digital and tech policy.
+
+Christine Bellamy: Hello. I am Christine Bellamy, the interim director general at the Government Digital Service, specifically on the product side, looking after digital products that we run for Government—at its core, that is about the gov.uk proposition. I am a four-year civil servant, but before this I was at the BBC for 10 years, where I ran digital and tech for the news, sport and education portfolio. Before that, I was at Johnston Media, where I was one of the people whose job was to transform that organisation into a digital one.
+
+Rod Latham: Good afternoon. I am Rod Latham, director for cyber-security and digital identity at DCMS. Like Susannah, I do not have any professional digital qualification, but I have worked in technology policy in the civil service in a number of roles, including this one, for several years, and before that in the Cabinet Office.
+
+Philippa Rouse: Good afternoon, I am Philippa Rouse. I am currently the director for gov.uk Connect within the Government Digital Service. From February until July, I was the programme director for the digital identity taskforce. I do not have a digital qualification. I am an analyst by background, and I have spent seven or eight years leading tech-enabled transformation for the Home Office in the migration and border space.
+
+Natalie Jones: Hi, I am Natalie Jones, I am the director for One Login and verified credentials. I am also the SRO of gov.uk One Login. I have a variety of scaled agile digital professional qualifications, and I am also an MPLA graduate.
+
+Q2 Chair: Thank you very much.
+
+I will start with you, permanent secretary, but I am very happy for you to pass this over to one of your team, because the question is on pretty standard technical stuff. We have now had two machinery of Government changes in fairly short order, moving digital policy of one form or another from the Cabinet Office to DSIT, which has now been abolished. Part of it seems now to have been transferred to DCMS, with other bits going to other Departments. Could you explain simply the current state of play with digital policy in its totality, including AI?
+
+Susannah Storey: At the end of July, this Prime Minister announced a machinery of Government change, setting up a taskforce for AI in the Office for the Prime Minister and Cabinet, and the rest of DSIT has been split between DCMS and the Business Department. DCMS is responsible for telecoms, cyber, tech and digital policy, and the Government Digital Service, as well for as a number of other things that came in that MOG. The Business Department is responsible for science and innovation, alongside its previous responsibilities. That is the quick version, but I am happy to double-click on anything that would be helpful.
+
+Q3 Chair: Tell us where AI sits, please.
+
+Susannah Storey: The strategy for AI sits with the taskforce, and the Minister for AI, Kanishka Narayan, who attends Cabinet, is in the taskforce in the Office for the Prime Minister and Cabinet.
+
+Q4 Chair: On the face of it, it seems a little odd that you have responsibility for much of the digital policy, but AI sits outside your responsibility. Given that that is the case, how are the two of you going to liaise?
+
+Susannah Storey: I see it as a mainstreaming of digital responsibilities: the Business Department is going to be doing a lot more on innovation and science, thinking about things like data centres and some of the business sides of this whole agenda. At DCMS, we have the tech stack, so we are thinking about cyber—there are a lot of AI questions there, of course—as well as telecoms and mainstream digital policy.
+
+In practice, we, the taskforce and the Business Department are going to be working incredibly closely together. Luckily, because all those teams knew each other well when they were in DSIT, we have all those relationships. I think that, so far, there are positive signs of good joint working. On the ministerial side, Kanishka in the OPMC, my Secretary of State and Johnny Reynolds are also very close on this whole agenda, alongside some of our junior Ministers who are involved as well.
+
+Q5 Chair: I am interested in how your Department will influence the rest of Government. I have likened AI to a tsunami that is going to hit the Government—I am not sure that they are yet prepared for it.
+
+I have before me Treasury minute that responds to our recommendations on the Bank of England. I think it is out of date, but I would like you to respond to it, because it is a theme that this Committee has had for some while: “The responsibilities of a Government Chief Digital Officer are delivered by the Permanent Secretary for DSIT, supported by Deputy Heads of Function to drive wider change, including two Government Digital Service Directors General, with responsibility for supporting digital transformation across government and the digital products GDS builds and runs.” Is that out of date, and if so, how has it now been modified?
+
+Susannah Storey: When the machinery of government change happened, my predecessor Emran Mian was clear that DSIT’s arrangements were that he was head of profession for digital and had five deputy heads of profession from the main digital Departments plus GDS. Chris, who is to my right, and Emily are the two DGs in GDS. We also have Daljit at HMRC, Helen at DWP and Megan at MOJ. Basically, the five DGs and I form the executive committee.
+
+I stepped into Emran’s shoes because I wanted to make sure that we had continuity of approach. As I think I said in my response to you, while we are getting up to speed, we will look at this and see how it works, and if we make any further changes, we will let you know. Across the broad waterfront of digital—I know that this Committee and the Science and Technology Committee have—
+
+Sitting suspended for a Division in the House.
+
+On resuming—
+
+Q6 Chair: Welcome back, everybody. I was asking a question about the new Government’s policy on the chief digital officer and how it will work. You were about to answer that question, permanent secretary, so please start afresh.
+
+Susannah Storey: Since the machinery of government change in the summer, we have been working at pace to integrate the new Department, and we are taking our responsibilities for digital very seriously. The main approach to policy comes through departmental governance—my executive committee and up to the board. For the Government Digital Service, that comes through the DCMS route as well.
+
+For the cross-Whitehall digital work, which is what I think you were asking about, I stepped into the shoes of my predecessor, Emran Mian, as head of profession. We run that approach with deputy heads of profession, who are five directors general from across Whitehall. Two of them are in my Department in GDS—Chris and her colleague Emily—and three are from other leading digital transformation Departments: Daljit at HMRC, Helen at DWP and Megan at MoJ. Through that structure, we meet regularly for a digital exco and some of the other things that we do. I have regular digital business reviews with the big Departments. Since I have been in this role, I have been responsible for digital and have already seen the Home Office and HMRC. We use that as a way to get a cross-cutting view from across the piece.
+
+One other thing: I also chair the technology risk group, where we look at some of the many risks from a digital perspective, and I report back to the heads of Department on that. That is the other piece of governance that is probably worth mentioning.
+
+Q7 Chair: This Committee has often made the recommendation— which I think has been accepted by Government—that every single Department and next steps agency should have a very senior chief digital information officer, preferably at director level, and at least one but preferably more members of the non-exec board with real digital experience, so that we can start to get your digital policy really promulgated across Government. What has happened to that?
+
+Susannah Storey: That is a really important point. From what I can see, my colleagues are making progress. Across the public sector, but also in the private sector, people are very seized of these many digital issues. There are regular conversations with my peers about cyber risk. Across the Department, people are implementing that recommendation by the end of December, and I think there has been good progress. I am happy to come back with any further detail on that, if helpful.
+
+Q8 Chair: So your Department is responsible for a coherent policy across Government. You mentioned cyber risks. This Committee has been told many times that at least 30% of digital hardware is made up of legacy systems, which are much more prone to cyber-attacks and do not necessarily support large language models like AI. Who is responsible for maintaining a register in each Department and the timetable to replace all those obsolete bits of kit?
+
+Susannah Storey: When preparing for this session, I was interested to read what has been said in this Committee and the Science and Tech Committee. You rightly identify the very real risks of legacy IT. You have said before that you want a register. The 2024 number is 28%, as you say, but we are not satisfied with that, so my colleague in GDS has been leading a programme of work called Firmer Foundations. I have written to all my colleagues, all the permanent secretaries, asking them to nominate somebody as their responsible person who can give us the data on their legacy systems. We are just collating that information.
+
+We are also looking at how we can get more automated updates on it so that we know the picture on a more regular basis. We are looking at using coding tools to try to spot some of those vulnerabilities and ensure that, even when there are legacy systems, we can try to address some of the issues. I am very clear that we will not have all the many benefits of AI unless we can address some of those legacy issues. I want to work closely with the Treasury on that as we go into the next spending review.
+
+Q9 Chair: My final question is on people within the civil service. You can have all these policies, but if you do not have people properly trained and qualified to operate them, they will not. The Prime Minister has set out a timetable for 10% of the civil service to be properly digitally trained by 2030, and—this is again from the Treasury minute on the Bank of England’s daily settlement—“the expectation for digital leaders across government to be sitting at Executive Committee/board level by the end of 2026.” That comes back to my previous question. There are two things there: the executive board, and how you will move towards the target announced by the Prime Minister of having 10% of the civil service properly digitally trained by 2030—a big target.
+
+Susannah Storey: That is right. At the moment, I have the rather spuriously accurate number of 31,361 civil servants, but given that the numerator and denominator are moving, I think that we are at about 5.5%, which is not where we need to be. It is a focus for us all across the digital area. From GDS, we are going to publish a digital workforce plan, because we want to try to give a better sense of where we are. It is helpful to Parliament in holding us to account, but it is also helpful to us—the leaders of these Departments, who are responsible. We are in progress, but we are not yet where we need to be for that 2030 target.
+
+Q10 Chair: Given that how the Government digitalise matters in terms of productivity, speed of doing things, and communicating across Government and to the public, are such important matters, will you undertake to publish some of this data on a yearly basis? That includes how you are doing on staff, chief digital information officers and non-exec boards—all the things that we have been discussing. It would be helpful if we had number, maybe once a year, that is not just in the annual report and accounts, because those are always out of date—with respect to everybody. We really want some up-to-date numbers each year; can we have them?
+
+Susannah Storey: We are getting better. The NAO, as you know, is publishing our report and accounts, and I was pleased to get ours out pre-recess, but I do take the point. Let me take that away. I think that the Cabinet Secretary has been clear that, in the context of civil service reform, she wants to see our work on technology right at the top of the agenda. We are doing a lot of things as a group, so I am happy to take that away. I absolutely understand why you want it.
+
+Chair: That is very helpful; thank you for those answers. Let us turn now to Dame Chi Onwurah, Chair of the Science and Technology Committee, whom we are very pleased to have as our guest today.
+
+Q11 Dame Chi Onwurah: Thank you, Sir Geoffrey and the Committee, for inviting me. My question is addressed to Philippa Rouse initially, but let me know if anyone else needs to come in on it. Could you describe the Government’s long-term approach to digital identity? As part of your description, could you set out what you understand by “digital identity” and how it differs from One Login?
+
+Susannah Storey: Shall I start? It is a huge question, and we try to specialise on particular areas. To be clear, the policy for digital identity has come to DCMS as part of the machinery of government changes announced in July, but the national digital identity programme is closed. We are working with our Ministers on the policy approach that they would like to take as part of—
+
+Q12 Dame Chi Onwurah: It is hard for me to understand this if you do not describe what you mean by “digital identity”. You are talking about a national policy and so on, but what do you mean by digital identity?
+
+Susannah Storey: In simple terms, it is how people can demonstrate things about themselves safely and securely and digitally. As you know, at the moment—the NAO Report was really helpful in this regard—the UK has an ecosystem that has both private sector digital verification services and a trust framework, and all the work that colleagues here are responsible for on gov.uk One Login and the wallet. Those are the principal ways at this stage. Do you want to add anything, Chris?
+
+Christine Bellamy: I am happy to come in. One Login makes it possible for you to log in to Government services through one approach. At the moment, we have about 44 different ways of logging in. The One Login programme is now doing well—we have 245 services on board, and we expect all relevant services that need One Login to be on board in the next couple of years. We are in the middle of the HMRC work to move to One Login, but that is a sort of foundational step.
+
+Another foundation, which is set out really well in the NAO Report, is what we do with digital credentials and wallets, and the work on the strategy is now being worked through. Two things on that: we in Government are doing a digital wallet, and we have already started with the veteran card and will move to the digital driving licence, which we are building now.
+
+We are working with the private sector to ensure that we are not just duplicating what is there already. We are now in conversation, post the digital ID scheme closing, to ensure we have a strategy for credentials for the country. That is sort of the second pillar; I am happy to take questions.
+
+The third pillar is around joined-up services. That work is about how we make it possible to see an individual as one person across Government, and that bit does not yet exist. We have some good examples of where we are sharing data, but the work we are getting into now is almost like the third pillar.
+
+The fourth pillar is the work on inclusion. About 9% of the population cannot prove who they are because they do not have a driving licence or a passport. The inclusion programme will also be one of the pillars we work on.
+
+Dame Chi Onwurah: That is helpful. Let me repeat that back to you to ensure that I have understood: digital ID enables people—British people, presumably—to identify themselves digitally, to have a digital identity. The national digital ID programme, which was one digital ID for everyone, is closed. However, your work on enabling British citizens to identify themselves digitally continues and involves the private sector as well as the public sector, and digital wallets and credentials and so on. You have an approach, or an objective, that Government should be able to identify individuals across all services.
+
+Christine Bellamy: With consent. Just to build on that, it is about the individual being in control of the data they share.
+
+Q13 Dame Chi Onwurah: We will come back to that, I am sure. If you were to summarise the Government’s approach to digital ID within that definition, what would you say?
+
+Christine Bellamy: Government want to make it easy for people to get what they need from Government at the point of need.
+
+Q14 Dame Chi Onwurah: Digital ID is not just about the public sector.
+
+Christine Bellamy: It is not—
+
+Q15 Dame Chi Onwurah: So what is the approach to digital ID?
+
+Christine Bellamy: Digital ID wants to make sure that people can go about their daily lives, buy homes, rent flats and so on, so that it is not hard for them to prove who they are and go on to perform the task they need to do. It should always be needs-based. We should only be doing it if it helps citizens go about their daily lives.
+
+Q16 Dame Chi Onwurah: What you were saying when I so rudely interrupted you was about the Government’s view of individuals across services—that this would be only with their consent?
+
+Christine Bellamy: Yes. The work on that is now under way, and the appointment of Philippa into GDS will be helpful in that space, and in what her team goes on to do. Across Government, we ensure that we build on what is there already.
+
+We have some good examples of data sharing—you and others around the room have probably used it. You can apply for a driving licence, for example, and it will bring in your passport picture if you say yes. There are some good examples of where we share data already, and we want to ensure that we are doing it with purpose. We are working with Departments at the moment to ensure that we are thinking about the problems that need to be solved, but the individual is in control of who they decide to share that data with.
+
+Q17 Dame Chi Onwurah: I know a lot of people want to come in on this, but is what you said always the case? For example, the Department for Work and Pensions can share data on an individual with, as I understand it, the Treasury or other Departments, without the citizen giving explicit consent—there are gateways, as I remember, that allow that. Does Government strategy for digital ID always involve consent for sharing across Government?
+
+Christine Bellamy: I will define the answer if I can. In the context of digital services, there is a consent model. There are many ways that Departments think about sharing data that sit within Departments and that are fully regulated by the Department they sit in.
+
+Let me explain the way that I am bringing forward and answering the question. So someone is within a service and they are proving their identity—they want to prove who they are—and therefore they want to go on to perform a task. In the confines of digital ID used in digital services, consent is the model, but that doesn’t mean that across Government, there aren’t other ways that data is shared.
+
+Q18 Dame Chi Onwurah: Finally, how will you define a service then, because benefits isn’t a service? Is the DVLA one? How do you define “digital services”?
+
+Christine Bellamy: The strategy needs to be fully finished and it obviously needs to be signed off by the Secretary of State. But in essence, we are trying to make sure that the identity that we go on to do is purposeful for the individual using it. With that in mind, from the services perspective, that is why we are using the consent model, but it may be different if we use it in different contexts.
+
+Q19 Dame Chi Onwurah: Perhaps you could write to the Committee or to me setting out how you differentiate between services that have the consent model—I think benefits is a service or whatever—and those that do not have the consent model.
+
+Christine Bellamy: Of course.
+
+Q20 Chair: I should probably know the answer to this but I don’t. If you were obtaining a certain benefit from DWP or even HMRC, in the private sector, you would probably sign a consent form for that information to be shared with another Department. Given that this is a pretty serious matter— if you are claiming certain benefits, you are giving permission for HMRC or DWP to take money from your bank account—is there any clause that has to be signed? At the moment that you apply for that benefit, it should say, “You are giving your consent for another Government Department to look at your financial details, including your bank accounts”?
+
+Christine Bellamy: We are not that far on with the model yet. As we go through the strategy, we will be able to talk you through it, as the proposition comes forward. But at this stage, we would only consider that as we go into the strategy, and any strategy would be signed off.
+
+Q21 Chair: Philippa, out of politeness, you started to answer the question. I do not want you to repeat anything, but if there is anything you wish to add to Dame Chi’s question, I am very happy to take it.
+
+Philippa Rouse: My role from here on in, as Chris has set out, is to work with colleagues from across GDS and Government to build that capability to enable some of that data-sharing. So we absolutely will be working through and building on the kind of questions that the Committee is asking and that the NAO Report very helpfully sets out. We will certainly be working through some of the knotty questions and issues, such as under what circumstances consent is required and appropriate, versus some of the other powers that the Government have to share data—for example, to identify and reduce fraud.
+
+Q22 Sarah Olney: There are some interesting findings in the Report about international experience of digital identity services. One of the findings—this is repeated across a number of countries—is that using a digital identity service has to be integrated, or has to provide users with a quicker and more convenient way of accessing an existing service. That is where you see the greatest take-up.
+
+I am interested to know the practical benefits that could be provided by new digital identity services that cannot already be achieved by using existing services. There are people happily using existing services without the need for a digital identity. Do you think that there are examples of those kinds of services where digital identity has a role to enhance user experience? I will ask Ms Bellamy first, since you are nodding quite vigorously.
+
+Christine Bellamy: I will start with the problem of the 9% of people who cannot prove identity already; they do not have a driving license or a passport, so they find it difficult even to start the journey. Any advances in digital identity are one of the ways in which we could help to solve that problem.
+
+When people come to services now, they have to present a lot of information many times. So One Login gets them through the front door, but they then have to fill in forms more than once and give information more than once. There is the opportunity to think about how to solve that. We see from international comparisons that when you do that, you can make decisions more quickly. We saw that in the Australian model recently, where they were able to get people to services with much less toil, because they could prove who people are across Departments. That is one thing to pull out.
+
+Fundamentally, that enables the individual to see their data across different places, and they can see where they are in the system. Some of the benefits come through in that way. Also, when we move out into the private sector, we can see from the work on the digital driving licence—this is a good example in feedback from users when we have been testing it—that, if you are a young woman and need to prove your age, or are only 18 and want to buy alcohol in a pub, at the minute you show all your information—you show everything, including your photo and address. But moving to digital credentials, a digital wallet, means that the individual is able to show just the piece of information to say that they can buy the beer.
+
+Sarah Olney: The relevant information.
+
+Christine Bellamy: Yes. In doing that, we are able to give more to the service that people already have through that credential. You can see quite a few benefits, but there is more to do to make sure of value for money in any credentials that we do. We want to make sure we get that right.
+
+Q23 Sarah Olney: Ms Storey, do you have anything to add about what benefits the digital ID or digital verification can contribute to those places where it is going to be a new part of the process?
+
+Susannah Storey: From our perspective, we have found the NAO’s Report very helpful, including Appendix Two, which runs through 12 things that are important. That is one of the things we want to look at in any future strategy, when Ministers make their policy decision. We know that any service needs to be convenient to get take-up. Natalie, I think it is fair to say, isn’t it, in the work you have done on gov.uk One Login, that some of the benefits have been from reducing fraud and increasing access? You might want to say something about that.
+
+Natalie Jones: Yes. On digitising services, it has always been a requirement for people to prove who they are for certain things. A lot of those processes were inconsistent, were not necessarily designed with full understanding about where they would find people—as Chris mentioned, people without photo ID. One Login is focused on creating a simple front door to access all Government services, on the basis that someone does it once and reuses it. Until One Login, there was a one-to-one relationship between having a username and password, and proving who you are—you prove who you are to the DVLA, then to the DWP and then again to HMRC. One Login enables you to prove your identity once and well, and then you rely on that evidence to access other services.
+
+Q24 Sarah Olney: When you say “once”, do you mean once for all time or once a day, once a week—because I am not accessing all those services continually?
+
+Natalie Jones: Not all Government services require you to prove your identity. It is based on the sensitivity of the data or whether the thing is particularly tied to you. Obviously, for a driving licence, it is really important that you are who you say you are, but if you are paying your car tax, it does not matter who you are; you just need to have the means to pay. So the first time that you as a user create a One Login and access a service that requires you to prove your identity, One Login takes you through an identity verification process using things that you already have—if you have photo ID, you can use that, but if you do not, you can prove who you are using other means. Once you have done that, that verification of your identity is stored in One Login, so that if you go to another service that requires identity, you do not need to do it again—I would say once and for all, but there are some caveats.
+
+One of the things that we have discovered as we worked through One Login with the bigger Departments is that it is not ideal to identify someone and not to look at their account again for a decade or two, because accounts can be compromised and it is hard to know when the person behind the keyboard is who they were originally. One Login therefore creates an account for you and curates that account, so it looks out for signs of attack or fraud. For example, if we could see your credentials accessing eight services in the same minute, we might think, “That’s a bit weird. Is it really them?”, so we have fraud analysts who would look at the telemetry that comes off the back related to fraud and investigate for you.
+
+In an ideal world, you would prove your identity once, your account would stay within normal parameters of activity and therefore you would not need to prove your identity again, but in some scenarios—if perhaps we thought your account had been compromised—we might ask you to re-prove your identity at that point. We do not expect that people will have to do that routinely every six months, every year or anything like that.
+
+Q25 Dame Chi Onwurah: Thank you very much for the description of One Login. We understand that it has not been fully rolled out at HMRC yet. Can you perhaps clarify that? Will the NHS, which has digital login—I have a digital login—be part of One Login as well?
+
+Natalie Jones: We have been working in partnership with HMRC for about four years. It is a huge organisation with complex fraud and user needs. HMRC is now fully onboarded to One Login as part of its first phase, so if you are a new user and you do not have an existing Government Gateway, you will now never need to get one. However, if you are one of the 32 million-odd people who still have a Government Gateway, you will be in wave 2 and we will be migrating you over. We are expecting that to start next year. There is a third set of people who use HMRC services, and that is those who interact with HMRC as part of their professional lives. HMRC refer to them as agents and orgs—I think a large number of accountants, for example—and they are in wave 3. We are currently in the design phase with HMRC about when they will onboard.
+
+For the NHS, in terms of health, there has always been a separation. There are no current plans for One Login to sit on the front of health services or for the health service to sit on the front of Government services, because there is a mental gap in the way that people perceive the things. Health and central Government services are separate.
+
+Q26 Chair: This may be the time to ask you this, Natalie, but maybe Susannah wants to come in on it. There is one word that I think is very important in all that, and that is trust. Because of dramatic stories of hacking and so on, the public are very concerned about the roll-out of digital and the Government holding more and more data on them. How are the Government going to overcome that?
+
+Natalie Jones: I can talk about a practical example with One Login. I can talk you through the security model, but at a principal level, One Login holds the bare minimum of data it needs to operate, so it is not a big data lake. The amount of information it holds about individuals is a very small number of data items. The first thing to say is that it is not a big target in that respect. That data is also kept in disaggregated places, so again, if you wanted to get hold of that data, you would need to break into a number of different places in the system before it would be of any use to you.
+
+It is also built with privacy-enhancing principles in mind. One Login effectively works a bit like a security guard on a building, so when you want to access a service, it says, “Have you got the right pass?”, and then it checks that the pass has your face on it and it will let you in. That security guard does not know where you go in the building, what conversations you have or what data you access and neither does One Login, and that is a conscious design choice. One Login does not know what you do when you get into a service. It knows what time you have accessed the service and what time you have left, but that is it. It also checks your credentials as you go in to be sure that it is you. That is useful for things like fraud. Like I said, if you were accessing eight services in the same minute, we would think, “Hang on. That’s weird”, and it would trigger an alert, because we might think that your account had been hijacked, and we would send you a message to that effect.
+
+Similarly, with verified credentials, One Login works like a perimeter fence for all Government services, and it will also protect the gov.uk wallet. Although it will know that you have downloaded a credential, it does not know the contents of that credential. When we roll out the mobile driving licence, it will know that you downloaded a driving licence, but it will not know whether you have any points or whether you can tow a caravan. It just holds the minimum amount of information it needs to perform its job as that security layer. It does not hold or track any further data than that.
+
+In paragraphs 1.21 and 1.22 on page 20 of the Report, there is a thing about identifiers that is quite helpful. One Login does not issue a single identifier to people, and, in fact, it makes use of tokenisation, which is a privacy-enhancing, security-based protocol as well.
+
+Susannah Storey: We really agree with you that it is absolutely critical to have trust, and that is important across the wider digital system. The other point to flag in the NAO Report is when you talk about transparency and accountability. That is certainly important as well.
+
+Q27 Mr Betts: Estonia has built a very comprehensive system of putting people’s information together in one place. My understanding is that they have a privacy enhancer, if you call it that, where the person whose system it is and whose data is there can check who else has accessed it if anyone goes into the system. Is that something you are building as well?
+
+Christine Bellamy: It is a really good point; thank you so much for raising it. Estonia has a single identifier system: when you are born, you get an identifier, so the system is built from scratch. What is has done really successfully is make sure that the individual is in control. If somebody accesses your account, you can see everybody who has accessed it, whether it is your doctor or someone who has rented you a flat—you see all those interactions.
+
+When we look through the proposals, we want to make sure that we think about them when we work both with the private sector and locally. As we design the strategy, we will make sure that we consider it. If we can make sure that it is part of it, we will consider it going forward.
+
+Q28 Mr Betts: You will make sure that you consider it.
+
+Christine Bellamy: I cannot say today, because we have not fully formed the strategy. It is definitely in there as something we believe we should do in the UK, but we are yet to finalise the strategy.
+
+Q29 Mr Betts: Right. When will you be able to tell us whether you are going to do that?
+
+Christine Bellamy: The strategy is now being worked through, and it will go to the Secretary of State for approval now we have moved to DCMS. That work is in flight now. We are just a few weeks post the ID scheme being scrapped, so we are working hard and fast to make sure that we have the right strategy for the UK that also works in conjunction with the private sector. Trust is right at the heart of it, and we will absolutely be thinking about it. We will come back to the Committee with the timelines on that going forward.
+
+Q30 Mr Betts: It would be helpful to do that.
+
+Christine Bellamy: Of course.
+
+Chair: That is very kind; thank you.
+
+Q31 Dame Chi Onwurah: I have a very short question. Just to clarify, the ambition to have one view of the citizen across Government is associated with One Login, so it would not go to the NHS.
+
+Christine Bellamy: All the research so far suggests that they stay separate, because that is what users are telling us.
+
+Q32 Dame Chi Onwurah: But the ambition to have one view across Government is there and that is associated with One Login.
+
+Christine Bellamy indicated assent.
+
+Q33 Matt Turmaine: I would like to ask a few questions about the cost of developing, operating and integrating the services. Do you have an understanding of what the costs are likely to be for the future services you are looking to roll out and the rest of the work for One Login?
+
+Susannah Storey: When Ministers decide their policy overall, we will have the scope of it and will be able to cost it. I cannot give a future hypothetical cost, but Natalie could talk about some of the costs of One Login, because we obviously have a track record there. It has been running for a few years, and we can tell you about the costs and benefits, if that is helpful.
+
+Natalie Jones: One Login benefits from being on the Government major projects portfolio, so it has a fully approved business case. So far, it has realised £752 million in net benefits from April 2022 to the end of August 2026. Those benefits are driven by reduced identity-related fraud, at £396 million, reduced duplication and cheaper digital access to services, at £218 million, and time saving for end users, at £138 million. The current business case runs out to March 2028, with a total net benefits figure of £2.83 billion by then. That is against a total cost of £702.94 million through to March 2028.
+
+One Login has a mature benefits realisation plan. We had a model of how much fraud it would stop, which we worked through with the Public Sector Fraud Authority. We started with a conceptual model, and we have just gone back for the second iteration with some actual data from DVLA to show how effective our fraud detection is and what kind of net benefits it is putting back into the economy.
+
+Q34 Matt Turmaine: You are concluding that it is proving beneficial then, presumably.
+
+Natalie Jones: Yes.
+
+Q35 Matt Turmaine: Great, thank you. Susannah, I appreciate that you cannot tell me what the costs would be because it is not defined. But you have an understanding, through the experience of One Login, of the kind of magnitude of costs and the feasibility of being able to launch other services that would do that.
+
+Susannah Storey: The way we have looked at it, which is consistent with what the NAO is saying, is that there are the costs of building and maintaining whatever the service is, if it is not something we have already—obviously, the benefit of gov.uk One Login is that it exists, has been built and can be scaled—and then there are the costs of any connecting of services and ongoing hosting. That includes things like cyber-security—we are all conscious that at the moment, the need to have really good cyber protection is going up the agenda. That is a general answer, but it will be better if we come back to you when we have the policy decisions from Ministers, if that is okay.
+
+Matt Turmaine: If you would be happy to do that, it would be really helpful.
+
+Susannah Storey: Of course. If we have a strategy, we will publish it.
+
+Matt Turmaine: Understood. Obviously, the context is that IT infrastructure costs often balloon and become much more expensive than anticipated, but we as a Committee have seen reports of where such projects have been delivered with lower cost than anticipated and within time. It is of interest to us from that perspective.
+
+Susannah Storey: Thank you.
+
+Q36 Sarah Green: I would like to revisit a conversation we had earlier. The Government announced that they were no longer pursuing a Government-issued digital identity back in July, and you have confirmed that the national programme has closed, but based on the answers you have given this afternoon, the infrastructure for digital ID in the public sector is still being pursued, is it not?
+
+Susannah Storey: There was a specific taskforce focused on Keir Starmer’s national digital identity programme—Philippa was on it, as were others. That work looked at the specific policy intentions they had for the national programme. As you know, given that various Select Committees have had evidence from some of the people involved, they were going through the consultation, and it was stopped in July. Within the work that we do, there are identity attributes—the trust framework that Rod’s team are responsible for is all about DBS providers meeting that, and gov.uk One Login has ways to identify people—but that is not the same as a national digital identity strategy. As you know, that started out as mandatory, then changed to voluntary.
+
+Q37 Sarah Green: How is it different?
+
+Susannah Storey: From our perspective, it is about having services where people can identify themselves through gov.uk One Login, but can use other means if they want to. If they are getting DWP services, they could go to the post office. They might never be digital at all. We are trying to provide services that work and enable people to use them digitally, but they can also use other means. Did you want to talk about the trust framework, Rod?
+
+Rod Latham: I oversee the Office for Digital Identities and Attributes, which tries to provide a level playing field for public and private sector, so that we have clear rules of the road for what it is. That is underpinned by the data Act that was passed by Parliament before the announcement of the digital ID programme, so we are continuing on the same trajectory that we were on before. Parliament has put on us various statutory functions, which we are now in the process of implementing.
+
+To add to what Susannah said, as I was involved in the digital ID programme early on, we already had One Login and the gov.uk wallet as existing plans, and we were already working on the trust framework to try to provide clarity and rules of the road—I am very happy to get into that in more detail. The national programme was principally about introducing an extra, new product that could be made available to everyone who wanted it. We are no longer looking at doing that.
+
+The big thing we need to do on the back of that is on inclusion: how can those who do not have a passport, driving licence or other such documents prove their identity without them? Chris has already spoken to a number of the things that they are doing. Through the trust framework, we embed inclusion in trying to encourage everyone operating under the framework to think about inclusion and accessibility. There is probably more that we can do in that space.
+
+Q38 Sarah Green: Thank you for that. I know other colleagues have questions for you, so my final question is about how you address the privacy concerns that members of the public have—you can see how some of my questions drive at that. You and the Chair were talking about trust earlier. From where I am sitting it sounds like the infrastructure is still being put in place, so how would you address and allay the privacy concerns of someone watching?
+
+Rod Latham: I am happy to start with the wider piece that we do, and others may then want to come in. The purpose of the trust framework is to try to set the rules of the road and the standards for every operator, whether they are private sector or public sector. Security and privacy are absolutely at the heart of that. It is designed to give people confidence that, if they are using something, it is on our transparent register that shows who has passed the accredited checks to get there. People can see who that is, and we have recently rolled out a trust mark that people can see to try to make it easier for them to understand what is on there. To be on the register, you have to go through those checks on privacy, security and data minimisation, and the idea behind what we are trying to do is set an environment in which, when someone is providing that service, a user can be confident.
+
+Q39 Sarah Green: Who is overseeing that?
+
+Rod Latham: My team in DCMS looks after this ecosystem. We published the trust framework, and we are required under the data Act to update it on at least an annual basis. To get on our register, which says that you have met those standards, you have to be accredited by a separate and independent body. We have two bodies that do that at the moment, and we are looking to encourage more into that market. Those conformity assessment bodies are, themselves, then accredited by the UK Accreditation Service. We have multiple checks in the process to make sure that we have the rules and they are being followed, and to make sure that people can see they are being followed and have confidence in the system as a whole.
+
+Natalie Jones: Building on the things I have already said about data minimisation and principles, the privacy notice for One Login is already public, and we have agreed to publish the data privacy impact assessment by the end of the year, despite having no obligation to do, in pursuit of transparency. That has actually been with the ICO once; we have some updates, because we have new routes. Every time you add a new piece of functionality, you have to update it. The latest version is with the Information Commissioner’s Office, which signed off on the previous one, and we will be publishing that as well. One Login is also certified against the trust framework to make sure that we are meeting those standards on privacy, security and transparency.
+
+Sarah Green: I will hand back to the Chair, because I know other colleagues will have similar questions.
+
+Chair: We will come back, Sarah.
+
+Q40 Rupert Lowe: I should disclose that, as a sitting MP, I am implacably opposed to digital ID in any form. I am eternally grateful to Silkie Carlo at Big Brother Watch for all the work she does on identifying state intrusion into the electorate’s lives. Listening to you, I am nervous about the business of convenience. The Government always sell things to people on the basis of convenience—a bit like how they tried to sell the euro to us on the basis of convenience—and I do not like being sold things on that basis, so I am immediately suspicious.
+
+As you say, the NAO has produced another fantastic Report, and I think the key bit of it was in the summary, which says, “To deliver value for money, digital identity will need to be both usable and trusted across both public and private sectors, with individuals being able to use it easily, securely and consistently across services.” To me, that is the key statement.
+
+I then look at the electorate’s trust in the UK Government, and I see that trust in Government in the UK is regularly closer to Colombia than to either Estonia, which Clive mentioned, or Denmark. Usually, it is about 10% lower than in France, which is pretty amazing given what is happening in France at the moment.
+
+How are you going to convince the electorate to trust you? As the NAO says, you are not going to be able to make this work unless people trust the state. Failing states, which I consider us to be, have a history of clipping coinage and generally robbing their electorates. How are you going to get the British people to buy into this?
+
+Susannah Storey: I am not going to answer all your points, because there were a lot, but at the heart of what you said was the same point that the Chair made about trust. We very much agree with that. What we are trying to do, first, is deliver any policy that Ministers might have in this space and then make sure that the services we already have—gov.uk One Login and the trust framework—are as clear and transparent as possible. Then, hopefully, as the NAO said, people will want to adopt them because they will understand how to use them and they will know what they are trying to do. There when will be greater adoption. Our job is to run these services well, clearly and transparently and take the lessons from the NAO Report.
+
+Christine Bellamy: It is a fair challenge. In the UK, people go to gov.uk to access Government products and services, and the trust number for gov.uk is about 82%. It should be more than that, but it is 82% and it holds firm at that number. When you look at all the research, it sits sort of to the side of the Government of the day; it is very much about service in its own right. People use it when they need it. The reason why One Login is One Login is that it builds on the credibility of the gov.uk work that people use in their daily lives, so it builds from a foundation of trust, but absolutely, we cannot break the trust that is built on making sure that that service works for them.
+
+This ties to the previous question. The point is that we are making sure that people come to services, access them in their daily lives and are able to be in control. We talked about consent before—control is probably a better word. We need to make sure we do that when it comes to identity. What we published in the digital blueprint was that the identity credentials we would use were ones that people had already. For example, on the veteran card, we do have a digital credential for veterans, and you can download it into your digital wallet. That means that, if you are a veteran, you can get access to discounts at particular outlets in the UK and you can get into museums at lower cost and so on. We were finding from veterans that if they did not have it with them, they did not get the benefits of it. The benefit was making sure that you could prove that you are a veteran at the point of need and go around having access to the benefits.
+
+The driving licence is the same. The DVLA is telling us that people are asking for them to have that credential on their phones, because it will make it easier for them to hire a car in this country and abroad. It has to be secure, it has to be trustworthy and it has to matter, but the current credentials will be ones that we have already in government, and we will be using them in a digital setting. We need to make sure that they work for the user. The gov.uk product and service is the one that users will use. We need to make sure always that it stands the test of time and is trusted.
+
+Rupert Lowe: Again, that sounds more like convenience than trust. I look—and the British people look; they are not stupid—and see that the current Secretary of State for Culture, Media and Sport was heavily involved in ThinkLabour when it was known as Labour Together. It was rebadged after a series of scandals, and it was implacably supportive of digital ID. If we are not careful, we will end up getting digital ID by the back door rather than the front door. Although you tell us that that is not the case, this comes to the trust point: people do not necessarily trust and believe that what they are being told is true. That may be because of covid. It may be because people watched what Trudeau did in Canada with the truckers. It may be that they look at China, where the Government have started to make judgments about whether people are living a good life.
+
+Chair: Can we have a question, Rupert?
+
+Q41 Rupert Lowe: You have a big problem unless you can win the trust of the British people. That is what the NAO very elegantly stated. I am not sure that what we have heard today convinces me that you will be able to do that.
+
+Chair: Right. Okay. Susannah, do you want to try that one?
+
+Susannah Storey: I am very happy to. It was very broad.
+
+Chair: I don’t think you need to do the political bit.
+
+Susannah Storey: I was not proposing to do that, except to say that as and when we do have a policy decision on this from our Ministers, I am sure my Secretary of State will be happy to come and talk about it.
+
+In the world of the AI tsunami that you were talking about earlier, Chair, there will increasingly be a need for people to be able to prove who they are and that they are not a bot or an agent. We are going to see a lot more questions in these spaces, whether it is the private sector or the public sector. Again, what we are trying to do is to make sure that our services are clear, transparent and convenient, so that—we hope—people will want to use them, but that there are other routes if they do not. The trust framework then makes sure that the certified bodies meet a certain set of criteria, which hopefully give an increased amount of trust.
+
+Chair: Rupert?
+
+Rupert Lowe: Enough for now, but I have another question.
+
+Q42 Mr Betts: Without being controversial, I will just say to Rupert, look, I was born in the last century, but as an elected representative, I still have to have regard to the fact that life has changed in this century and that people expect to see things done differently, particularly younger generations. We therefore have to adapt what we do as a Parliament and as a Government to ensure that we take account of that. I have just looked at my phone and I have various apps for retailers, an energy company, Sheffield Wednesday season tickets and who knows what else. All the stuff is on there, but I do not know why we do not have some stuff on there about Government and their services to enable us to do things more easily.
+
+When looking at whether you do things anew or build on what is already there, particularly in the private sector, how do you make those judgments? Building something new, all-singing and all-dancing, seems great, but what is already in the private sector might make it quicker to do that, so what is the balance?
+
+Susannah Storey: First, on the apps, there is a gov.uk One Login app, so hopefully, if you want to, you can download that to your phone. The things that we will be doing—I think already do—include using the NAO Report to think about whether we are clear about the road map and confident about the value for money. That is the way we will make decisions about future services. At this stage, as I said, we are scaling gov.uk One Login and the wallet, and continuing to certify future DBS providers.
+
+Q43 Mr Betts: And in the future, how will you make those judgments?
+
+Susannah Storey: I think that comes from the policy decision that Ministers make. If they decide that they want to do something different, something more, something new, obviously we will look at what we think is deliverable, at what the VFM is, and at the useful 12 points in the NAO’s Appendix Two, where they help show some of the criteria that are useful.
+
+Q44 Mr Betts: What discussions are you having with what parts of the private sector to see what they can contribute and how?
+
+Rod Latham: In response to the first part of your question, one of the things that we are doing is working with Departments across Government. The way that the legislation and everything work at the moment, different Acts put different requirements on things. Recently, say, we have worked with the Home Office to change some of the legislation on proving age for buying alcohol, which is quite a big use case.
+
+On where we are looking at the public-private sector interface, we are working with public sector organisations to change some of the legislation. That can then enable public or private sector solutions. When we look at things like right-to-work checks, private sector organisations are already doing millions every year, so often we try to do what only Government can do to enable the private sector to then find and build on those markets.
+
+We take a very open policy-making approach in how we engage with the private sector. We talk constantly to the digital verification services industry and to what we call relying parties in parts of the private sector. It is not just about those who provide the technology to check digital identity; you need someone in the pubs, clubs or supermarkets who have the technology to receive that. We engage with lots of different parts of business to understand what would work and if there is something that we do not have in, say, the trust framework at the moment that would be useful?
+
+We are required to update that trust framework every year, so we work out what needs to change. Recently, we put it up on GitHub. It is open there for people to make comments and say what they disagree with or what they think we should be changing. We are trying to do this in a way that opens it up to the private sector to be able to say what their views are and what would be most useful, so that we can build a system that works for them.
+
+Natalie Jones: Building on what Rod said, a practical example is the digital driving licence. We have been clear from the off that the strategy has been that you will be able to use the digital driving licence in all the same ways as your physical one. Primarily it is about your right to operate a car, but people use it to pick up parcels, to buy beer if they look under 25 or to place a bet on the Grand National. I think of it as building two halves of a bridge. Government own that data—we have it. We can offer people the opportunity to put it in a wallet; much the same as people now use digital boarding passes and gig tickets, you can have a digital driving licence. However, that only really works, as Rod said, if somebody at the other end is going to check it and enable you to actually buy the beer—so we have a bit of a chicken-and-egg situation.
+
+We in the Government Digital Service have been working closely with industry, and just last week we opened a sandbox. What I mean by that is it is a testing environment that enables the private sector who are certified against the trust framework to integrate with the wallet technology that we have. We have a test version to check that it all hangs together, so that an individual can go to DVLA, download a driving licence, show it in their wallet, have it checked by the private sector, and then have that cascade all the way to a pub or an online business has some sort that of regulated use case.
+
+When we talk about working in partnership with the private sector, it is true—we have been partnering all the way through. The sandbox opened last week. We are planning an event in December where we invite those private sector providers into the White Chapel building, so we can do some live end-to-end testing to check all the technical protocols, because although we are all building to the same technical interfaces, sometimes, when you put things together, they do not work absolutely perfectly. We are fine tuning that. The next phase of that testing will be in December, when they come to the White Chapel building, with a view to starting a national roll-out next year.
+
+A digital driving licence is only useful if there are people ready in shops and businesses ready to receive it. We have to make sure that our comms, technical planning, stakeholder management and partnership with industry all come together at the same pace, so that we can put out something that is comprehensively useful as opposed to academically interesting, which it could be if all the pieces of the puzzle were not there.
+
+Q45 Mr Betts: Presumably it will just be the digital driving licence then that will be usable by private sector companies?
+
+Natalie Jones: No. All the credentials that go in the wallet will be added over time. We are working across Whitehall with all Departments on things such as proof of benefits, your pass certificate when you first take your driving test and your Disclosure and Barring Service certificate—we have identified 80-plus pieces of evidence that Government provide to people, which they then use to prove something about themselves somewhere else, and they are all on a road map to go into the wallet.
+
+Q46 Mr Betts: Just one follow-up: Rod Latham talked about the fact that there are certain parts of the private sector that need to find people’s identity and prove it in order to comply with Government legislation—that could be landlords letting a property, or an employer employing someone, to ensure they have the right to work or rent. One of the complaints you get sometimes is, “We get shown this piece of paper, but we’re not sure whether it is actually true. Someone can come along and say, ‘That is my proof that I can be in this country and can work,’ but is it?” How will you ensure that the robustness of the data is sufficient to comply with those requirements?
+
+Natalie Jones: One of the really big advantages to digital versions of documents is exactly that. So long as they are programmatically checked, they are much harder to fake than their physical counterparts. When you show your ticket or your boarding pass, somebody scans it. When they scan it, they are checking that it came from the right source, that it has not been tampered with, and that it meets all the security protocols.
+
+The credentials that go in the wallet, which will be read by the private sector, will meet all those criteria, so that a retailer will get a green tick, and it bakes in that selective disclosure as well. There was an example earlier about the person only disclosing the fact that they are over 18. The person in the pub or the business will scan the thing. They will see a green tick that says over 18, but they are also checking that it has not been tampered with, and that it came from the right source and that all those security boxes have been ticked. It is much harder to fake when programmatically checked than a physical driving licence, which you can find on Amazon.
+
+Q47 Mr Betts: We have come back a bit towards requirements, incidentally. There is the issue of a person being here legitimately and being able to work: how will we ensure that person has the necessary digital ID, because the pieces of paper can be fraudulently produced, when the digital ID cannot?
+
+Natalie Jones: In the first instance, the offer of a digital driving licence is entirely in addition to the physical one, so it will be an optional extra. We need to see what adoption rates are like, and there will always be people for whom the physical alternative remains the better choice, so it is a bit organic. We need to make it useful, and the market needs to mature. Over time, I would expect more transactions to move towards the very convenient situation of you not having to carry your driving licence or passport with you, because you always have your phone. A lot of the cases relate to proving your age, and the youth are seldom seen without their phones in their hands, so it is versus them tucking their driving licence in the backs of their phone cases. From a fraud, theft and loss perspective, having it on a phone is more secure for them.
+
+Rod Latham: The change we made with the Home Office recently was for them to say that if you are doing a right to work check digitally, you have to use a digital verification service provider that is on the register that we run, so that all businesses can have the confidence that what they are using can do a programmatic check that is right, secure and trusted. That is not the only way to do it—you can do non-digital checks—but if you do the digital check through someone on the register, you have the statutory defence of being able to say, “I followed this process. I had reason to believe that this was something I could rely on.” If something goes wrong and you end up employing someone you should not have, the business has a statutory defence. In that particular case, with right to work, we are trying to enable businesses to have confidence that there is a way of doing this to a high degree of confidence, security and transparency, but as Natalie said, it is not the only way to do it. That is a difference from the national ID programme: there will always be alternative ways to use it.
+
+Mr Betts: Thank you.
+
+Q48 Sarah Olney: Coming back to you, Mr Latham, to take that a little further, the point was just raised that, as Ms Bellamy mentioned earlier, you need to prove only your age when wanting to make an age-restricted purchase, so digital identity has the advantage of proving only the thing that you need to prove. Are there gaps in what digital identity can currently prove about you? Does it match up—for example, does digital identity currently provide proof for retailers of age-restricted goods, and of right to work or to be in this country? If not, what are you doing to fill those gaps?
+
+Rod Latham: At the moment, it is a slightly mixed picture across different cases, which reflects the fact that historically, there have been lots of different pieces of legislation. One thing my team are trying to do is to go around systematically to work with Government Departments, and through them, different sectors, to try to understand how we can get this to the best possible shape. That is why, as I said, we worked with the Home Office on alcohol and age.
+
+As you said and as Chris mentioned, one bit of feedback that we had was on trying to minimise how much data about themselves a person gives out. Another piece of feedback we had from supermarkets was on trying to avoid their staff being put in the position of having to ID, say, an aggressive 17-year-old—they do not have the right to buy it, but it can be quite difficult for staff. If you have a programmatic check of digital ID, it can all be done without a human having to do a proactive check. We have done work with the Treasury on money laundering and are now trying to move on to other things, such as tobacco and vapes, knives and crossbows, and property. We are working with Departments to work out what some of the gaps are and what needs to be changed to address them. We are trying to open this up and engage with different sector bodies so that we get feedback from people on where there might be opportunities, as I see it, for digital ID.
+
+Q49 Sarah Olney: So far, as you progress along that road, what do you think are the biggest gaps?
+
+Rod Latham: There are gaps in adoption in cases such as tobacco and vapes, property, knives and crossbows, where we can see opportunity in bringing people into the system that we are running to ensure that those systems are secure and trusted. We are looking more broadly at other gaps in how the system is run by the Office for Digital Identities and Attributes. We did a call for evidence on trust services, which are things such as e-signatures that are slightly different but adjacent to this issue. We are probably going to do a bit more work looking at that.
+
+We have mentioned inclusion a number of times and we have things in the trust framework that try to encourage people to think about inclusion. Inclusion is quite broad in this sense because, as we have touched on, there are the digitally excluded, the identity excluded and matters of core accessibility. We will look at doing certain things to try to promote greater inclusion. There is something around supporting adoption—hopefully I have given some sense of some use cases—and something around continuing to hone the system; we have to keep going on that because the technology changes and circumstances change. Longer term, we desire to be interoperable with international partners, but it will take some years to get to that.
+
+Q50 Rupert Lowe: The Committee is quite keen to know why it has been so difficult for you to connect all this data across various platforms. You collect a lot of data through the Passport Office, the driving licence, pensions and the NHS number, and you have a variety of identification tools, so why has it been so difficult? Is it civil service bureaucracy, IT problems, or logistical?
+
+Philippa Rouse: Clearly, over the years, lots of different Departments have built their systems separately. Figure 7 on page 18 of the NAO Report sets it out well. There is a history to why the legacy systems have built up. Different Departments have built their systems for different purposes and to different outcomes. As Natalie has already touched on, different Departments have different identity and security standards, depending on the service and the interaction between the service user and the Department. As you highlighted, there are also different identifiers: national insurance numbers, unique tax reference numbers, passport numbers and the like.
+
+Often, Departments have built their systems differently for good reasons. They have had responsibility to ensure that they are capturing and processing only the information they need to be able to make the decisions that they need to make and to deliver good value for money. As the Committee will have reflected on, Departments have also been on different transformation journeys. That means that today we have lots of different legacy systems and disparate records that have been recorded to different standards.
+
+Therefore, joining up records across Government, when we do that, needs to be done carefully through mapping, testing and checking. That and the recommendations from the NAO Report take us to asking how we work on moving Government to common standards, so that we can then move to a world where our systems are more interoperable, we can connect them more straightforwardly, and the system of APIs we have in place works much more smoothly. I can say a bit more, if it is helpful, about some of the common standards that we are putting in place.
+
+Q51 Rupert Lowe: It sounds like it is a siloed approach that has happened historically; is that fair to say?
+
+Philippa Rouse: Yes.
+
+Susannah Storey: There has been organic growth in different places and we are now trying to be more systematic.
+
+Q52 Rupert Lowe: I am intrigued. If you are successful in your plan to bring everything together effectively, you are going to be collecting what is known as metadata, which will give you a huge amount of power over the citizens. Once you have connected the systems, do you plan to collect that metadata? Do you already collect it? If you do, who owns it, who retains it, who controls it and who can access it? I think that comes to the trust point, because people will be concerned that the secondary use of that data may not be in their interests. Are you intending to do that? Have you had any discussions about it? What is your plan?
+
+Philippa Rouse: The intention and the plan is definitely not to bring all this data into a single place. Instead—very much building on the work that One Login have done—it is to create the frameworks and mechanisms for the information to be shared, but in secure and well-managed ways that mean that, if two Departments are sharing information about an individual, they can be absolutely confident that it is the right individual and that the data is being shared with the right Department, with cyber-security and controls in place. It is about building frameworks and mechanisms to do data sharing safely and securely without the need to create big pools of data, which—for all the reasons the Committee is concerned about—risk being a target for all sorts of different issues. Natalie, do you want to build on any of that?
+
+Natalie Jones: No.
+
+Q53 Rupert Lowe: I guess the question that we all want to know the answer to is whether this is in the interest of the Government or of citizens. As the Government has inserted itself into our lives to a greater extent, you could argue that this is more in the interest of the Government than in the interest of the individual, but I guess you can’t answer that question.
+
+Dame Chi Onwurah: Chair, can I come in?
+
+Chair: Let the witnesses answer first, and then you can certainly come back in.
+
+Susannah Storey: I am not sure what the question was.
+
+Rupert Lowe: I said that I wonder whether this initiative exists because the state needs it more than the individuals who pay their taxes need it. That is the question.
+
+Susannah Storey: Everything I have seen, coming to this portfolio, is really about trying to create good, convenient services for people. That is what I have seen so far, and that is our position.
+
+Rupert Lowe: Convenience can cost money.
+
+Chair: Dame Chi, do you want to come in?
+
+Q54 Dame Chi Onwurah: I totally support the ambition to create good, convenient services; I know that lots of my constituents want that. The point about metadata is that is that we have agreed that the data on your driving licence—your age and your address—is the citizen’s data and that they should have control over it. Are there plans to store the metadata—when they applied for their driving licence, or whether they applied for a driving licence at the same time that their son was in another part of the country—with the underlying data, and are there ownership responsibility guidelines associated with that?
+
+Rupert Lowe: And retrospective metadata.
+
+Christine Bellamy: That is absolutely the right question. As we define the strategy and policy, we will share everything with the Committee. Just to back up what Susannah said, fundamentally the connections that we are making in the Government Digital Service are around convenience and people getting what they need quicker and easier. Context is really important, but it is the context of the individual in that process. Fundamentally, it is about where they are now and what they want to do next.
+
+For example, if you have just had a baby and are deciding what to do next, or are thinking about what you might need on the journey—from having just found out and getting your maternity rights, all the way through to deciding you are going back to work—that is quite tricky at the moment. You need to decide as you go, so you need to ask many, many questions. We are thinking about journeys like that. If the individual were in control and could ask more questions, we could make decisions quickly. HMRC may know something, and DWP may know something else, but the individual is in the middle of that, saying, “Right, okay. I need to continue to the next step. I am therefore allowing DWP to see HMRC’s data.” That is the approach that we are taking. The day job of the people you have in front of you is to make sure we are doing that on behalf of the citizen.
+
+Q55 Matt Turmaine: I want to talk a bit about digital wallets. I was having a little look through mine to see what information I have stored in it. It is mostly tickets. There is a flight pass, and there are obviously bank details so that I can pay for things. Can you tell us a bit about what the digital wallet credentials can do that traditional sign-in systems are not able to do?
+
+Natalie Jones: Certainly. The gov.uk wallet will work an awful lot like the one that has your Clubcard and your passes in. It will be Government credentials going into a Government wallet that is, again, secured by One Login.
+
+The advantage is that Government often give you a piece of information somewhere that you need somewhere else. For example, take a disclosure and barring certificate. You might get it because it is part of your job, but you might also coach a grassroots football team at the weekend. Being able to demonstrate that credential—to show it on your wallet and have the club secretary scan it—means that there are no bits of paper or pdfs, which are easy to fake and easy to lose.
+
+The advantage can be seen if you start to think about the sorts of questions that Government ask. For example, if you are in receipt of benefits, it enables you to get free prescriptions. It enables you to access a food bank. The system enables people to demonstrate that in a really secure way.
+
+The other advantage with verified credentials, aside from the fact that they are harder to fake, is that, on the flip side, when they are out of date they can be revoked. If you are entitled to benefits on a Monday, but not by a Friday, your benefits credential will move into the expired section. That is what happens with an old train ticket. It is still there: you can see it, but you can no longer use it. This provides mechanisms that enable Government to make credentials really up to date. Similarly, there is no lag time between being granted a benefit and the credential arriving—it can literally be minutes.
+
+One of the things that veterans have said about the veteran card, which is the only credential that is currently live and has been a really great learning experience for us, is that it takes six weeks for their physical card to arrive through the post. However, the digital version can be downloaded and used five minutes after they complete the application form. Again, it is quicker, and they do not have to remember to take it with them because, generally speaking, they have their phone at the point at which they realise. There is none of that, “Oh no; I have left the letter at home.” They do not need a drawer full of important documents, as we call them in my household—things that you might need to refer to later. That is because it can all be completely within your control on your phone. Nobody else can see them or access them because of the biometric controls that are on your phone.
+
+Matt Turmaine: That is interesting. Funnily enough, most of the stuff that I was looking at was, of course, in an expired section of the wallet, which meant that it was effectively revoked, as you are talking about. Thank you very much.
+
+Q56 Mr Betts: We all want to get closer to the European Union, don’t we? Compared with most parts of the world, the EU is probably quite ahead of the game in developing its own digital identity wallet. What talks are we having with the EU, given that many people from this country go there on holiday and will probably be required to produce things such as their driving licence? Are we looking at something that is going to be compatible so that we do not have two completely separate systems that do not work together?
+
+Natalie Jones: I will start the answer and then hand over to Rod. From a technical perspective, the wallet has been built to all the same protocols as the European wallet, so there is no technical barrier to integration. That is not the same thing as saying that all European countries will accept our driving licence, and I will get Rob to explain why not.
+
+Rod Latham: Having international interoperability is definitely something that we are keen to do. Again, that would be good to give choice to the citizen. At the moment, we are still relatively early in the journey, both for ourselves and for the EU. It has deadlines coming by the end of this year for what it will be rolling out. It is still quite early to be able to work out the timeframe exactly, and how the process might run for interoperability with the EU specifically.
+
+We have lots of connections into the EU. We talk to it about what it is doing and explain what we are doing. We go to various EU events and things, one of which is coming up later this month.
+
+International standards are the route to getting that technical degree of interoperability. International standards underpin what we are putting into the trust framework and the gov.uk wallet, as well as what the EU will be doing on its side. But interoperability will be not just about the technical challenge. There is also that wider wrapper that we need to look at on privacy, security, governance and controls, so further work will be needed for us to be assured that we can have confidence in the EU’s system, as well as to assure the EU that it can have confidence in our system.
+
+That is an end point we want to get to. We are having those conversations, and we are trying to work on international standards to ensure that we are going down the right path. However, it is something that is going to take a little while.
+
+Q57 Mr Betts: To move slightly sideways, you mentioned interoperability. We have talked quite a bit about age verification. Young people want to prove they are 18 when they go for a drink, but many of them go abroad as well. Will they be able to show their digital ID in a bar in Spain, the Canary Islands or wherever and have it recognised?
+
+Rod Latham: That is where I would like to get us to and that is what interoperability would mean. That means if you are on holiday in a European country, you do not have to take your passport out with you. There will be lots of advantages in being able to do that digitally. It will just take time to get there, because it is going to be quite complicated. We and the EU are at a relatively early stage in that journey.
+
+Q58 Mr Betts: Okay. Is there any chance that we might be able to shorten the queues, given the EU’s new passport control service?
+
+Susannah Storey: That is not really for DCMS, I think.
+
+Rod Latham: I am not sure I can comment on that.
+
+Q59 Mr Betts: Is that even being considered? It is a digital problem—that is what the systems are now, and I have to say they are challenging for people and making it very difficult.
+
+Susannah Storey: You mean the checks they are doing on the EU side?
+
+Mr Betts: Yes.
+
+Susannah Storey: I do not know where we are on that, I am afraid.
+
+Christine Bellamy: I think that is for the Home Office.
+
+Rod Latham: We would have to take that away to the Home Office, apologies.
+
+Q60 Tristan Osborne: A serious question, if I may. I know you have answered some of these questions in the round, but how long do you think it will take to create a digital ID strategy? Have you any dates in the diary for when you expect to publish? Are you at the stage now where you are engaging with Ministers? What are the timeframes for this to be enacted?
+
+Susannah Storey: We do not have a timetable, but we are engaging with Ministers. The NAO Report is so useful because of all the things it gives us to go through, so we do want to ensure that we have time to do that. However, I do not want to commit to a timeframe today, because I do not know when it will be.
+
+Q61 Tristan Osborne: You are not committing to a timetable, but that is an open-ended answer. Are you expecting to enact within this Parliament, or is that me putting words in your mouth?
+
+Susannah Storey: It is.
+
+Q62 Tristan Osborne: Okay, that is fine; I will move on.
+
+When this is published, how will you prioritise what are you seeking to do first? Obviously we do not have that in front of us, but there are clearly competing demands. From a volume perspective, it would be DWP, but that would also pose questions from a digital accessibility perspective, because many of those people are the ones who might require support in getting access. There are also young people to consider—we mentioned driving licences, though that is not exclusively a young people’s issue, and other services. How would we balance the competing priorities? Would what you seek to do first under the strategy?
+
+Susannah Storey: I think it is helpful if we differentiate, as we tried to do earlier, between the work that is already in train on gov.uk and One Login. I am sure the team can talk a bit about that and what they are prioritising, because they are already in those conversations. I think it is the same on the trust framework, where they have done the work already on alcohol, as Rod was saying. There are also other things in train. Should we do a bit of that, in case that gives you a sense?
+
+Tristan Osborne: Yes, that would be helpful.
+
+Natalie Jones: I can start with One Login, which has been rolling for five years—one front for 264 services out of a total universe of what we estimate to be 500. The number of digital services the Government run is not a static number. Our priority is to get to the point where One Login enables you to access all 500, which we think will be within the next 18 to 24 months. That is the priority for One Login: to get to the point where, to access any central service, you genuinely have one username and one password. From a wallet perspective, our next priority is the digital driving licence. We are in conversations with Ministers about what our priority will be after that.
+
+Christine Bellamy: We set out in the digital blueprint, which was published in January, that we would look at digital credentials between now and 2027. We have publicly said we will do the driving licence, and we are now working with Departments on the most important credentials to do next. However, that was within the existing strategy. Any additional builds that we go on to in the new strategy will happen anyway. Our work with the credentials you already have will continue. Rod, do you want to add anything?
+
+Rod Latham: To add my side, the data Act already sets out a number of different requirements that we have to do now, so we are in the process of rolling those out. In the near term, we need to issue a code of practice to turn on the information gateway, which allows sharing between public authorities and the digital verification services, and that will be coming shortly.
+
+As I set out in a previous answer, there are things around working out who we can best partner with, and around driving adoption and different use cases—tobacco and vapes, knives and crossbows, and property are some of the ones on the horizon. We must then look at this system, which is still very new—we have only just done the first full version of the trust framework. We are required to update that every year, so we will be engaging with stakeholders and working out what we need to change, what is working and what the areas are. We have some things from the data Act that tell us what we have to do next, and that gives us a little bit of a road map.
+
+Q63 Tristan Osborne: Thank you very much for those responses. Government IT services are very decentralised into each Department, and I understand this functionality has been moved into DCMS. I have a question about the wiring of Government. Given that move, there will be public expectations on digital accessibility, which my colleagues have raised, as well as cyber-security concerns and others. This project is being passed to your Department—I appreciate that this may be a loaded question—but do we think that it has the right model of management, or do we think that Government IT should perhaps be more centralised into one function, rather than having it being bitty in each Department?
+
+Again, that is a very open-ended question, but my worry is that in a business this would be a function or programme within an IT team, which would then report to a head of operations, for example. However, in government, it seems to be that it is handed to a Department that manages it, but then that Department is trying to link into other Departments that have different priorities.
+
+Susannah Storey: I appreciate the point you are making. When the machinery of Government change happened, DCMS absorbed the Government Digital Service, but it keeps all the approach to working with all other Departments that it had before. As I was saying earlier, that is why it is really important that we have this ability, through the digital ex co, to work with all the others, because it needs to be coherent.
+
+There is some benefit of having the Government Digital Service in DCMS, which we have already seen in our wider work on digital and tech. For example, last week the Secretary of State and I met Microsoft and Google, and we were able to talk about both some of the policy things and some of the operational work on things such as the cloud. There is a benefit of being in the digital Department, but it is vital that we continue this close working with all the relevant Departments. That way, we can make sure that, as colleagues have been saying, we have best practice and standards in the common areas, and that is the way we are trying to organise it.
+
+Chair: If nobody has any further questions, I have three or four quickfire questions.
+
+Q64 Dame Chi Onwurah: I have a question on this particular point, Chair—thank you very much for your indulgence. Last summer, the Science and Technology Committee looked at the big data leak from the Ministry of Defence, which was horrendous. As part of that, we took a look at some of the practices across Government when it comes to digital and data hygiene, and we found that each Department can effectively do what it wants.
+
+You talked about building systems for their own reasons and so on, but each Department can do what it wants when it comes to digital or data guidelines, such as how big a file can be forwarded and all the different aspects of data hygiene. How can you ensure a high level of data quality—you talked about interoperability and all the other great things in your response to Tristan—if you have no ability to set any standards?
+
+Susannah Storey: There are obviously legal standards, and I know in your really helpful report, which we responded to, there were 33 recommendations. As one of your building blocks, you had information and data, and we have set out some of the things that we are seeking to do there. Our Government chief data officer, who sits in GDS, is doing various bits of work on a strategic data road map and ensuring that we have the various bits of information we need. We are seeking to make sure that there is a clear framework within which all Departments work, but you are right that there is a degree of autonomy for each individual vertical Department.
+
+Q65 Dame Chi Onwurah: So you agree that there is no ability to impose high standards or require them of the Department.
+
+Susannah Storey: I think there is an appetite from Departments to have high standards. Certainly, when I talk to my colleagues, they are really focused. As we were saying earlier, they are worrying about cyber risks, they want to address their legacy problems and they want to ensure that they are adhering to their data obligations. There is a pull from the Departments to adopt best practice, and we are trying to ensure that we are setting out that best practice. You might want to add on data, Philippa.
+
+Philippa Rouse: I think you have covered it all, permanent secretary. The Data Standards Authority that sits within the chief data officer’s remit has recently worked with a whole range of Departments, which I could list, to produce things like standards for how information about people is stored and captured. They have also been doing a lot of work on data asset management policy, so requiring each Department to map out and set out what it is doing to improve data quality.
+
+Q66 Dame Chi Onwurah: Let me ask the question a different way. Will you name and shame Departments that do not meet your standards?
+
+Susannah Storey: Sometimes nudging can help, can’t it? I think I am nearly three months into the role, and I am really keen to work with colleagues and think a bit about what we do, where it is mandatory and where it is not. If it is okay, I will come back to you on that.
+
+Q67 Chair: I want to slightly follow that question with one of mine. It seems that Government Departments are buying systems almost on a daily basis. I am not advocating for a digital ID system, but unless you start somewhere on common standards, it will take you years to get proper interoperability. It could be from the simplest thing. Philippa raised figure 7 on page 18 of the NAO Report; that is a brilliant table, illustrating a complicated problem very simply. Unless you start to introduce common standards of inputting into all Government systems, you will never get total interoperability. Even if you allow Departments autonomy in buying their systems, you need to have compatible software so that one part of the system can talk to another.
+
+I was with a GP practice the other day where they were tearing their hair out because the GPs could not communicate through their systems with the specialists in the hospitals. They were having to email each other, and then the poor GPs at the end had to manually summarise that particular episode for the patient record, which should be done digitally and then summarised by AI. There has to be some form of Government mandating on standards, surely?
+
+Susannah Storey: We want to improve the co-ordination and standardisation. That is why our chief data officer is doing this work, as Philippa says, looking at the standards for data. Separately, we are doing work on the digital commercial centre of excellence to think about things like cloud procurement and not getting vendor lock-in, and we are also thinking about the work on legacy. For each of these areas where we know there are common problems, we are trying to work on the best practice solutions, where we can standardised and where it is helpful for Government to act as one big customer, even if there is then a call-off to different Departments, so that we can use our purchasing power. Some of the numbers I have read in the blueprint are absolutely enormous in terms of the Government spend across these areas, and I know that this Committee and the Science and Technology Committee have been very front foot on wanting more clarity on that.
+
+Q68 Chair: With great respect, quite a lot of thought is being given to cyber-attacks, and quite a lot of thought is being given to data lock-in in relation to the cloud, but there is the least Government mandating for Departments so that at least one Department, like the Department of Health, can procure systems that communicate with each other.
+
+Susannah Storey: As I say, we are trying to make sure that there are frameworks and there is standardisation so that Departments can get those benefits where it makes sense. We have not mandated them, so that is a—
+
+Q69 Chair: The Department of Health will never be totally efficient—I am coming on to productivity in a minute—unless all the systems can talk to all the other systems. It just won’t.
+
+Susannah Storey: I am more than happy to talk to Sam Jones about what she is doing specifically. As I say, I am certain that her team will be connected with our team on these various areas across legacy IT, cyber and data.
+
+Q70 Chair: We will leave that for now. Where are you on efficiency gains from IT? Dame Chi has helpfully put a WhatsApp on our system saying that the Science and Technology Committee received a Ministry of Government brief published in January that found over £45 billion a year in unrealised savings, representing 4% to 7% of public sector spend. That proved unrealistic, but the 2025 spending review expected Departments to deliver almost £14.5 billion of efficiency gains by 2028-29. I imagine that a lot of those efficiency gains will come from digital improvements. Can you enlighten us on what the Government’s target efficiency gains are and how much will be gained by digital?
+
+Susannah Storey: As part of the last spending review, each Department has efficiency targets. That is a matter for each Department individually. The Science and Technology Committee has asked for digital money to be split out separately. That is something that we have found hard to do. At this stage, we are saying that it is difficult to disaggregate reliably. I cannot give you a specific number on digital, but I have already talked to the Treasury about the next spending review, and we want to make sure we have a good programme of work with them looking across the piece. I am very happy to come back to you after that.
+
+Q71 Chair: So can we expect that in the next spending review?
+
+Susannah Storey: I am sure the Treasury will focus on what the savings are overall and what savings might come specifically from transformation projects around digital and IT.
+
+Q72 Chair: Productivity gains from IT?
+
+Susannah Storey: Yes.
+
+Q73 Chair: I suppose we will have to wait till the spending review for that. Finally, we cannot have a hearing like this without talking about digital exclusion. Who wants to talk about what you are doing about all of that?
+
+Christine Bellamy: With pleasure. We have talked about the 9% number quite often today. That number only tells you about people who cannot readily prove who they are. Within DCMS, the number we would quote is more like 20%. That number is a mixture of people who find it hard to use digital services. They may speak a different language, they may have no digital skills, or, really importantly, they may be acting on behalf of somebody else, whether a loved one, a parent or a child, so they cannot get through the barriers. It is quite an amorphous mass of folk who all need help.
+
+We look at this in a few ways. There is an inclusion programme that has moved into DCMS. We can happily bring forward the recommendations that they are working on at the moment. We then think about it as inclusion for digital products: what we can do within GDS to make it easier for people to get what they need from the state. Then we think what we can do with routes that are not digital. As an example, if you want a One Login account, you can present yourself at a post office and you will get help from somebody there. We want to think about inclusion at all levels. We are trying to make it possible for everybody to get what they need from a point of view of access to digital services. If they cannot, what are the other routes they may need to get what they need from the state?
+
+That is the broad view of what we are doing on it. Each of those things has a detailed plan that we can happily share with you at a later date.
+
+Q74 Chair: Will there always be an alternative route for people who cannot or do not want to be digitally connected to obtain the Government service that they want?
+
+Christine Bellamy: You can always go to a service and get it. You can make a phone call. If you needed a One Login to access digital services, you can do that at post offices. If you want to apply for something, you could call a call centre. There are always alternative routes.
+
+Q75 Chair: Finally, I hope the call centres will not be like the civil service pension scheme ones. At the height of the disunity, people were waiting an hour and a half. The Committee has heard of far too long and unacceptable waits even for HMRC, which has got considerably better. Will you make sure that when you are designing the phone systems as an alternative to the digital systems, they will include a tolerable wait?
+
+Christine Bellamy: We always need to think about the call centre. One Login does have a call centre, so we operate a call centre in GDS, and we have good benchmarking for how that centre is performing—which we can share with the Committee, can’t we, Natalie?
+
+Natalie Jones: I will explain a little more about the specifics and how One Login caters for people. One Login works tirelessly to improve our levels of inclusion year on year, and we measure that. We run a number of different channels. The most popular way to prove your identity is exactly as set out in the NAO Report: you use a phone, and you check your passport or driving licence. Digitally literate people with photo ID tend to sail straight through that route.
+
+If you do not have a mobile phone or photo ID, we have alternatives. If you have no photo ID, we have a web channel. The original route enabled you to check your national insurance number with HMRC and to answer knowledge-based verification questions, questions that only you should know the answer to. The original dataset was a commercial one, but the challenge was that people who do not have cars and take foreign holidays quite often do not have a financial footprint. We therefore introduced knowledge-based verification questions using DWP benefits data, because those people tend to have a data footprint there. Next year, we will bring in open banking—we estimate that about 85%-plus of the 9% of people without photo ID have a bank account, and so the open banking model we hope will increase the inclusion from that angle.
+
+For people who do not have mobile phones, there is a web route. For people who have low digital literacy, they can start the journey on One Login and then, as Chris said, go to the post office, which will support them through the process. We also have had specific guidance written for helpers. If you are elderly and have nipped next door to the neighbour or you are a grandparent with a child, there are specific instructions like, “Hold the phone like this”, “This is how it works”, or, “Check these documents.”
+
+We also have more traditional user support, such as frequently asked questions and chat bots, and we have a call centre. It is the only call centre that I am aware of in government that is designed to help you at exactly the moment you need it. They do not have access to all your personal data, so there is no privacy impact, but they have a mock-up of the text, so if you say to them, “I can see this button, and I am pressing here, but it is not working”, someone can talk you through the process. If all that does not work, we have a specialist casework function for people who get truly stuck for one reason or another.
+
+We try to make this as multi-channel as possible, to interact with people with different forms of exclusion that sometimes can be overlapping. We will continue to build on that. Every module that we put live, we evaluate in terms of, “Is this actually moving the needle on the thing we intended it to do, and how can we move the needle further?” We will continue to iterate the service in subsequent years to push that inclusion further and further.
+
+As a prerequisite for going live with One Login, services must maintain an alternative channel. No identity verification service can ever be 100%, because if it is 100%, it is letting the fraudsters in as well. There will always be a set of people for whom either it is not the right channel or they cannot make it through, and they need to be able to access services as well. Before services are allowed to go live with One Login, they have to demonstrate that they have an alternative route, and we will maintain those over time.
+
+Chair: It sounds as though you are doing things such that perhaps other parts of Government might want to look at what you are doing. That sounds very good.
+
+I thank you all very much. I am sorry about the slightly disjointed sitting, which was partly due to parliamentary votes and partly due to technical problems, believe it or not. It is much appreciated that you are giving us evidence on this subject. I am sure that digital and AI is something we are going to return many times to on this Committee, because we attach a great deal of importance to it.
+
+An uncorrected version of the transcript will be available in the coming days. Thereafter, we will produce a report, no doubt with recommendations. We hope that you will study those very carefully. We look forward to seeing you in the future. Thank you very much.

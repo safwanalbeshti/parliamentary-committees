@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "source_id": 18140,
+  "source_sha256": "a59b062d3e7376be5b0d4d7e3153ee8dba40a8d5f188b34e56f86b18807561b7",
+  "title": "Cuba: human suffering, political stalemate and the need for coordinated action",
+  "label": "19 October 2026 · Cuba: humanitarian and political crisis",
+  "summary": "Witnesses described a fast-worsening, largely man-made disaster in Cuba driven by an oil blockade, hyperinflation and institutional collapse. Basic services—food, water, power, healthcare and transport—are failing, hitting the elderly, children, Afro-Cubans and those without relatives abroad hardest. Aid is arriving but is fragmented and slowed by bureaucracy and fuel shortages. The panel warned that neither a popular uprising nor a simple external fix is likely, and urged coordinated international humanitarian relief and diplomatic mediation, with the UK playing a leading role.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Emily Thornberry",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Fleur Anderson",
+      "name": "Fleur Anderson",
+      "role": "Member of the Foreign Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Edward Morello",
+      "name": "Edward Morello",
+      "role": "Member of the Foreign Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Sir John Whittingdale",
+      "name": "Sir John Whittingdale",
+      "role": "Member of the Foreign Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Dan Carden",
+      "name": "Dan Carden",
+      "role": "Member of the Foreign Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Aphra Brandreth",
+      "name": "Aphra Brandreth",
+      "role": "Member of the Foreign Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Dr Sabatini",
+      "name": "Dr Christopher Sabatini",
+      "role": "Senior Research Fellow for Latin America, Chatham House",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Hansing",
+      "name": "Dr Katrin Hansing",
+      "role": "Associate Professor, Baruch College, CUNY; Cuba expert",
+      "kind": "witness"
+    },
+    {
+      "label": "Ruaridh Nicoll",
+      "name": "Ruaridh Nicoll",
+      "role": "Freelance journalist, reporting from Havana",
+      "kind": "witness"
+    },
+    {
+      "label": "Lena Savelli",
+      "name": "Lena Savelli",
+      "role": "Regional Director for Latin America and the Caribbean, UN World Food Programme",
+      "kind": "witness"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "MIPYMEs",
+      "definition": "Spanish acronym for micro, small and medium-sized private businesses in Cuba."
+    },
+    {
+      "term": "libreta",
+      "definition": "Cuba's traditional state ration card system for distributing basic food items."
+    },
+    {
+      "term": "OFAC",
+      "definition": "U.S. Treasury office that issues licences and enforces US sanctions."
+    },
+    {
+      "term": "CUPET",
+      "definition": "Cuban state oil company and main domestic fuel distributor."
+    },
+    {
+      "term": "CARICOM",
+      "definition": "Caribbean Community: a regional organisation of Caribbean states."
+    },
+    {
+      "term": "Libertad Act",
+      "definition": "US law governing the Cuba embargo and setting conditions for lifting it."
+    },
+    {
+      "term": "El Niño",
+      "definition": "A climate pattern that can cause droughts or storms and affects crop yields."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What people on the streets are living through",
+      "takeaway": "Daily life in Cuba has collapsed for many: pensions are worthless, rations are gone, disease and crime are rising, while a small private sector grows rich.",
+      "turns": [
+        {
+          "speaker": "Fleur Anderson",
+          "text": "Can you describe the current situation in Cuba, and how stable the Government is?"
+        },
+        {
+          "speaker": "Ruaridh Nicoll",
+          "text": "On the streets it's brutal. About 40% of people have virtually nothing: elderly on tiny pensions, ration shops empty, and many now begging or searching rubbish."
+        },
+        {
+          "speaker": "Ruaridh Nicoll",
+          "text": "Another 40% get money from relatives abroad, while roughly 20% work for or own MIPYMEs—private businesses that have grown fast and created wealth for a few."
+        },
+        {
+          "speaker": "Ruaridh Nicoll",
+          "text": "Doctors and teachers are still on state pay; people bring small gifts to hospitals. Education is collapsing because graduates can earn much more in the private sector."
+        },
+        {
+          "speaker": "Ruaridh Nicoll",
+          "text": "Basic services are failing: piles of rubbish, rising petty crime, frequent blackouts, and irregular water supplies sold by street vendors."
+        },
+        {
+          "speaker": "Ruaridh Nicoll",
+          "text": "Health risks are rising: dengue, Zika and chikungunya are back, and waterborne diseases like hepatitis A and dysentery are becoming common—cholera is possible."
+        },
+        {
+          "speaker": "Chair",
+          "text": "You mentioned 'MIPYMEs'—that's private small and medium businesses that have appeared since reforms."
+        }
+      ]
+    },
+    {
+      "title": "Humanitarian needs and what the WFP is doing",
+      "takeaway": "The World Food Programme is active in Cuba but faces funding, shipping and fuel problems that limit its reach; coordinated aid and exemptions are needed.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Lena, what's the World Food Programme seeing and doing on the ground?"
+        },
+        {
+          "speaker": "Lena Savelli",
+          "text": "WFP has worked in Cuba since 1963. Our current programme is about $35m a year; we reached 1.5 million people in 2026 but face a $10m shortfall."
+        },
+        {
+          "speaker": "Lena Savelli",
+          "text": "Cuba imports 80–85% of its food. Fuel shortages are disrupting local production, transport and distribution. The libreta ration system now only targets the most vulnerable."
+        },
+        {
+          "speaker": "Lena Savelli",
+          "text": "Vulnerable groups include the elderly, pregnant and breastfeeding women, children, and people with chronic illness or disabilities."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Can the WFP bring in fuel and distribute it directly?"
+        },
+        {
+          "speaker": "Lena Savelli",
+          "text": "Humanitarian food is exempt from sanctions, but over-compliance by carriers causes delays. We can buy fuel from private suppliers in Cuba, but it's costly and irregular."
+        },
+        {
+          "speaker": "Lena Savelli",
+          "text": "We urge partners to use diplomatic channels to speed exemptions and to support logistics, especially ahead of El Niño drought risks."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Who funds you on Cuba?"
+        },
+        {
+          "speaker": "Lena Savelli",
+          "text": "Support has come from Korea, Sweden, the UK (a £1m contribution after Hurricane Melissa), Canada, the EU and others, but more resources are needed."
+        },
+        {
+          "speaker": "Lena Savelli",
+          "text": "I must leave now, but to be clear: unless fuel and import routes improve, humanitarian need will rise fast and widely."
+        }
+      ]
+    },
+    {
+      "title": "How Cubans see the crisis, and who they blame",
+      "takeaway": "Most Cubans blame their own Government for failing services, though the US blockade is a decisive factor; mass emigration has reduced the chance of a popular uprising.",
+      "turns": [
+        {
+          "speaker": "Sir John Whittingdale",
+          "text": "Who do ordinary Cubans blame, and is the Government secure?"
+        },
+        {
+          "speaker": "Dr Hansing",
+          "text": "People are angry at their Government for not doing more. The crisis is a 'polycrisis'—economic, social, political and psychological—and Afro-Cubans are harder hit because they often lack relatives abroad."
+        },
+        {
+          "speaker": "Dr Hansing",
+          "text": "Data from Cuba is unreliable; some numbers suggest infant mortality and maternal deaths have risen, and possibly 60% living in extreme poverty, but conditions may be worse than official figures show."
+        },
+        {
+          "speaker": "Dr Sabatini",
+          "text": "Most Cubans want change and blame their Government, but the Government has survived decades of pressure and retains tight control. A mass uprising like in Eastern Europe is unlikely because many young people have left."
+        },
+        {
+          "speaker": "Ruaridh Nicoll",
+          "text": "Vanderbilt's survey had 79% blaming the Government, though it used internet polling. In my own conversations, most people I spoke to blamed their Government rather than abroad."
+        },
+        {
+          "speaker": "Dr Sabatini",
+          "text": "Two million-plus have emigrated since 2021; that exodus removes a portion of the population that might otherwise push for big change at home."
+        },
+        {
+          "speaker": "Dr Hansing",
+          "text": "There is a generational split: some younger people hoped for US intervention, while older people prefer diplomatic solutions but feel abandoned materially."
+        }
+      ]
+    },
+    {
+      "title": "The role of the US embargo, sanctions and possible interventions",
+      "takeaway": "The US embargo (codified in law) and recent oil restrictions have worsened the crisis; some US exemptions and private imports exist, but intervention carries big risks and uncertain effects.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "How have US policies shaped this, and could the US intervene militarily?"
+        },
+        {
+          "speaker": "Dr Sabatini",
+          "text": "The embargo is law (the Libertad Act) with strict conditions for lifting it. Recent US moves—an oil blockade and tighter sanctions—have intensified the crisis."
+        },
+        {
+          "speaker": "Edward Morello",
+          "text": "Is US fuel getting into Cuba through middlemen and exemptions?"
+        },
+        {
+          "speaker": "Ruaridh Nicoll",
+          "text": "Yes. There are US imports and middlemen operating under licences; some companies have exemptions to sell fuel to private actors in Cuba. But that doesn't solve nationwide blackouts."
+        },
+        {
+          "speaker": "Dr Sabatini",
+          "text": "Trump-era policy aimed to squeeze the regime to induce a collapse or defections. That strategy is risky and flawed: the regime is resilient and may not crumble as intended."
+        },
+        {
+          "speaker": "Dr Sabatini",
+          "text": "If the state collapses, the risk is a failed state near US shores, with possible narco-trafficking and migration crises—big security concerns for the region."
+        },
+        {
+          "speaker": "Sir John Whittingdale",
+          "text": "Would Cubans welcome US intervention?"
+        },
+        {
+          "speaker": "Ruaridh Nicoll",
+          "text": "Some say they would, but many Cubans I talk to do not want military intervention; they fear the consequences. Intervention risks unknown violence and long-term instability."
+        },
+        {
+          "speaker": "Dr Sabatini",
+          "text": "Politically, US actors like Marco Rubio and Trump may want change for domestic reasons, so some form of action is possible politically, but practical and moral costs would be high."
+        }
+      ]
+    },
+    {
+      "title": "What the international community—and the UK—can do now",
+      "takeaway": "Panel urged coordinated humanitarian aid, diplomatic mediation led by a coalition (including the UK), maintaining an embassy and supporting Cuban public services to avoid collapse.",
+      "turns": [
+        {
+          "speaker": "Dan Carden",
+          "text": "Could the UK use diplomacy to make humanitarian access easier?"
+        },
+        {
+          "speaker": "Dr Hansing",
+          "text": "Yes. We need two tracks: urgent, coordinated humanitarian assistance and a diplomatic push to reduce US-Cuba confrontation. The UK could lead a coalition with Europe, Canada and Latin America."
+        },
+        {
+          "speaker": "Dr Sabatini",
+          "text": "Working via CARICOM, Commonwealth countries and regional powers could de-politicise the response and focus on relief and mediation rather than a US–Cuba duel."
+        },
+        {
+          "speaker": "Ruaridh Nicoll",
+          "text": "Practically, the UK should keep a functioning embassy, support education and hospitals, and fund direct aid rather than short visits with suitcases of donations that can look performative."
+        },
+        {
+          "speaker": "Lena Savelli",
+          "text": "From the WFP side: facilitate humanitarian exemptions, fund logistics and fuel, and shore up contingency planning for El Niño-driven droughts. Donor funds are urgently needed."
+        },
+        {
+          "speaker": "Dr Hansing",
+          "text": "If things worsen—disease outbreaks, children dying or mass departures by sea—we could face a refugee crisis. That should motivate early coordinated action."
+        },
+        {
+          "speaker": "Dr Sabatini",
+          "text": "A negotiated, staged approach is realistic: international mediation, humanitarian corridors and planning for post-crisis reconstruction so external investment doesn't swamp Cuban public needs."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. We'll press for diplomatic engagement, speak to regional partners, and consider following up with US contacts when we visit. This has been a timely and powerful briefing."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18140,
+  "activity_id": 39016,
+  "document_id": 307563,
+  "meeting_date": "2026-10-19",
+  "meeting_date_display": "19 October 2026",
+  "publication_date": "2026-10-20T10:03:32",
+  "title": "Cuba",
+  "committee": "Foreign Affairs Committee",
+  "committees": [
+    {
+      "id": 78,
+      "name": "Foreign Affairs Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10016,
+      "title": "Cuba",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Dr Christopher Sabatini",
+      "role": "Senior Research Fellow for Latin America, US and North America Programme",
+      "organisation": "Chatham House"
+    },
+    {
+      "name": "Dr Katrin Hansing",
+      "role": "Associate Professor",
+      "organisation": "Baruch College, City University of New York"
+    },
+    {
+      "name": "Ruaridh Nicoll",
+      "role": "",
+      "organisation": ""
+    },
+    {
+      "name": "Lena Savelli",
+      "role": "Regional Director for Latin America and the Caribbean",
+      "organisation": "UN World Food Programme"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Lena Savelli",
+    "Dr Hansing",
+    "Ruaridh Nicoll",
+    "Fleur Anderson",
+    "Edward Morello",
+    "Sir John Whittingdale",
+    "Dr Sabatini",
+    "Dan Carden",
+    "One little fact"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18140/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18140",
+  "source_sha256": "a59b062d3e7376be5b0d4d7e3153ee8dba40a8d5f188b34e56f86b18807561b7",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

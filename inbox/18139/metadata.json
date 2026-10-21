@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18139,
+  "activity_id": 38487,
+  "document_id": 307547,
+  "meeting_date": "2026-10-14",
+  "meeting_date_display": "14 October 2026",
+  "publication_date": "2026-10-20T08:41:49",
+  "title": "Work of the Department for Energy Security and Net Zero",
+  "committee": "Energy Security and Net Zero Committee",
+  "committees": [
+    {
+      "id": 664,
+      "name": "Energy Security and Net Zero Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 8610,
+      "title": "Work of the Department for Energy Security and Net Zero",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Rt Hon Miatta Fahnbulleh MP",
+      "role": "Secretary of State",
+      "organisation": "Department for Energy Security and Net Zero"
+    },
+    {
+      "name": "Jonathan Brearley",
+      "role": "Permanent Secretary",
+      "organisation": "Department for Energy Security and Net Zero"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Miatta Fahnbulleh",
+    "Jonathan Brearley",
+    "Melanie Onn",
+    "I will come back to the point I made",
+    "Sir Christopher Chope",
+    "Wera Hobhouse",
+    "Lizzi Collinge",
+    "Mike Reader",
+    "Claire Young",
+    "Torcuil Crichton",
+    "Graeme Downie"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18139/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18139",
+  "source_sha256": "c2d0cfff6cd30b0c0ef000ce2e3433c53aa7c44ba7f0ee7d9ce8306b8e7a4dec",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}
