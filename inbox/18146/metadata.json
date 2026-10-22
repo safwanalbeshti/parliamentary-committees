@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18146,
+  "activity_id": 38997,
+  "document_id": 307755,
+  "meeting_date": "2026-10-20",
+  "meeting_date_display": "20 October 2026",
+  "publication_date": "2026-10-21T12:25:08",
+  "title": "Mission Government",
+  "committee": "Public Administration and Constitutional Affairs Committee",
+  "committees": [
+    {
+      "id": 327,
+      "name": "Public Administration and Constitutional Affairs Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 8970,
+      "title": "Mission Government",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Darren Jones",
+      "role": "",
+      "organisation": ""
+    }
+  ],
+  "speaker_candidates": [
+    "Witness",
+    "Chair",
+    "Darren Jones",
+    "Peter Lamb",
+    "Lauren Edwards",
+    "Richard Baker",
+    "Sam Carling",
+    "Markus Campbell-Savours",
+    "That drove some good work; it got them to think on a cross-Departmental basis",
+    "John Lamont"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18146/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18146",
+  "source_sha256": "f17ffa563221a88f01b927be053e19f59acb1aa15b9d689ae2b169643b860632",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

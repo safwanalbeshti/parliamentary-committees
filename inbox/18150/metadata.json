@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18150,
+  "activity_id": 38986,
+  "document_id": 307921,
+  "meeting_date": "2026-10-21",
+  "meeting_date_display": "21 October 2026",
+  "publication_date": "2026-10-21T17:21:28",
+  "title": "Scrutiny of the draft Heathrow Expansion National Policy Statement",
+  "committee": "Transport Committee",
+  "committees": [
+    {
+      "id": 153,
+      "name": "Transport Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9865,
+      "title": "Scrutiny of the draft Heathrow Expansion National Policy Statement",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Parliamentary Under-Secretary of State, Minister for Aviation",
+      "organisation": "Department for Transport"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director for Heathrow Expansion",
+      "organisation": "Department for Transport"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Deputy Director for Heathrow Expansion",
+      "organisation": "Department for Transport"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Interim Executive Director for Consumers, Markets, and Communications",
+      "organisation": "Civil Aviation Authority"
+    }
+  ],
+  "speaker_candidates": [
+    "Transport Committee members present",
+    "Environmental Audit Committee member present",
+    "Chair",
+    "Keir Mather",
+    "Tim Johnson",
+    "Hannah Newell",
+    "Martin Gilmour",
+    "Dr Arthur",
+    "Daniel Francis",
+    "Mr Perkins",
+    "Steff Aquarone",
+    "Jacob Collier",
+    "Alex Mayer"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18150/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18150",
+  "source_sha256": "28e19ea95d96aa9d6f9027d64b0249343abbed653867856250cf88dd6e85e347",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

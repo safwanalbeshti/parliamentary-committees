@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18148,
+  "activity_id": 38990,
+  "document_id": 307810,
+  "meeting_date": "2026-10-20",
+  "meeting_date_display": "20 October 2026",
+  "publication_date": "2026-10-21T15:05:50",
+  "title": "Russia",
+  "committee": "Foreign Affairs Committee",
+  "committees": [
+    {
+      "id": 78,
+      "name": "Foreign Affairs Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9929,
+      "title": "Russia",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Catherine Belton MBE",
+      "role": "Author and investigative journalist",
+      "organisation": "The Washington Post"
+    },
+    {
+      "name": "Mr John Lough",
+      "role": "Senior Research Fellow and Head of Foreign Policy",
+      "organisation": "New Eurasian Strategies Centre"
+    },
+    {
+      "name": "Dr Ruth Deyermond",
+      "role": "Senior Lecturer in Post-Soviet Security",
+      "organisation": "King's College London"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Catherine Belton",
+    "Dr Deyermond",
+    "John Lough",
+    "Fleur Anderson",
+    "Sir John Whittingdale",
+    "Alex Ballinger",
+    "Abtisam Mohamed",
+    "Richard Foord",
+    "Dr Gould-Davies",
+    "Craig Kennedy",
+    "Isaac Levi",
+    "I will finish on this point",
+    "If you read those headline numbers, you see the following pattern",
+    "It comes back to the fundamental question",
+    "Aphra Brandreth",
+    "Let me, lastly, touch on the refining loophole",
+    "The same thing happened after the loss in the Russo-Japanese war"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18148/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18148",
+  "source_sha256": "16067a0a1e249c487135eec9baed8bfb9288e5cd25512dde3126e4a1a878470c",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

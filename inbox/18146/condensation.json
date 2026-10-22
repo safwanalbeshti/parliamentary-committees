@@ -1,0 +1,292 @@
+{
+  "schema_version": 1,
+  "source_id": 18146,
+  "source_sha256": "f17ffa563221a88f01b927be053e19f59acb1aa15b9d689ae2b169643b860632",
+  "title": "Why 'mission government' stalled: accountability, culture and delivery",
+  "label": "20 October 2026 · Mission Government (oral evidence)",
+  "summary": "Former Cabinet minister Darren Jones explains why the election promise of a mission-led government—teams and targets meant to break Whitehall silos—didn’t transform how the state works. He blames legalistic interpretations of unwritten constitutional norms, weak central levers (money stayed with Departments), low performance culture across the senior civil service, patchy data-sharing and a lack of practical training and incentives for Ministers and officials. He argues delivery units, dashboards and clearer ministerial accountability helped where they were used, but deeper reforms are needed for lasting change.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Simon Hoare",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Darren Jones",
+      "name": "Rt Hon. Darren Jones MP",
+      "role": "Former Chief Secretary to the Prime Minister and Chancellor of the Duchy of Lancaster",
+      "kind": "witness"
+    },
+    {
+      "label": "Peter Lamb",
+      "name": "Peter Lamb",
+      "role": "Member of Parliament and committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lauren Edwards",
+      "name": "Lauren Edwards",
+      "role": "Member of Parliament and committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Richard Baker",
+      "name": "Richard Baker",
+      "role": "Member of Parliament and committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Sam Carling",
+      "name": "Sam Carling",
+      "role": "Member of Parliament and committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Markus Campbell-Savours",
+      "name": "Markus Campbell-Savours",
+      "role": "Member of Parliament and committee member",
+      "kind": "member"
+    },
+    {
+      "label": "John Lamont",
+      "name": "John Lamont",
+      "role": "Member of Parliament and committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "mission government",
+      "definition": "A way of organising the state around a short list of big, cross-departmental priorities or outcomes."
+    },
+    {
+      "term": "Cabinet Office",
+      "definition": "The central department that supports the Prime Minister and coordinates government policy and administration."
+    },
+    {
+      "term": "Cabinet Secretary",
+      "definition": "The most senior civil servant who supports collective Cabinet decision-making and runs the civil service."
+    },
+    {
+      "term": "No. 10",
+      "definition": "The Prime Minister’s office and immediate team that supports the PM’s political agenda and daily work."
+    },
+    {
+      "term": "Permanent Secretary",
+      "definition": "The most senior civil servant in a government department, responsible for running the department day to day."
+    },
+    {
+      "term": "KPI",
+      "definition": "Key Performance Indicator—measures used to judge whether an organisation is delivering on its goals."
+    },
+    {
+      "term": "COBRA",
+      "definition": "A UK emergency-coordination forum convened for national crises; run from the Cabinet Office."
+    },
+    {
+      "term": "arm’s length bodies",
+      "definition": "Organisations set up by government to do specific tasks at some distance from ministerial control."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What mission government promised and why it faded",
+      "takeaway": "Missions were meant to focus the state on a few big outcomes, but constitutional habits and departmental control of money diluted them.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "You promised a mission-led government with big cross-department priorities—when did that idea die?"
+        },
+        {
+          "speaker": "Darren Jones",
+          "text": "The missions were political priorities from the manifesto, intended to change how Whitehall worked. We set up mission boards and asked them to bid for spending in the review."
+        },
+        {
+          "speaker": "Darren Jones",
+          "text": "In practice the money ended up staying with Departments because of constitutional and accountability norms. Once Departments had the money they spent it under their usual priorities, so real cross-government pooling didn’t happen."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Some thought the Treasury saw mission boards as a threat to its control. Was it really constitutional caution or resistance from the Treasury?"
+        },
+        {
+          "speaker": "Darren Jones",
+          "text": "It was constitutional norms and the way the system is designed. Mission boards were Cabinet sub-committees, but Departments kept budget authority. Without the money hardwired to missions, collaboration was fragile."
+        },
+        {
+          "speaker": "Lauren Edwards",
+          "text": "Was the scale of the Whitehall challenge underestimated in opposition?"
+        },
+        {
+          "speaker": "Darren Jones",
+          "text": "Yes. In opposition you can set priorities; inside government you see decades of practice, weak KPIs, a broken delivery machine and the need to rebuild those parts before missions can work."
+        }
+      ]
+    },
+    {
+      "title": "Accountability, the Constitution and the Cabinet manual",
+      "takeaway": "Senior civil service habits, unclear roles and unwritten rules blocked change—writing things down and clearer ministerial ownership would help.",
+      "turns": [
+        {
+          "speaker": "Peter Lamb",
+          "text": "We rely on the 'good chaps' principle. How far did the constitution block what you wanted to do?"
+        },
+        {
+          "speaker": "Darren Jones",
+          "text": "Officials often told me something couldn't be done 'constitutionally'. But the UK constitution is unwritten and flexible; if ministers decide a change is needed, the system can adapt—if the Prime Minister or Cabinet backs it."
+        },
+        {
+          "speaker": "Darren Jones",
+          "text": "I had to get the Cabinet Secretary to write to Permanent Secretaries and put things on the public record so no one could quietly reverse them. That’s not an efficient way to run a system."
+        },
+        {
+          "speaker": "Peter Lamb",
+          "text": "Would updating the Cabinet manual have made it easier?"
+        },
+        {
+          "speaker": "Darren Jones",
+          "text": "Yes. Roles and authorities were often defined by emails or custom. Putting clear, updated rules in the Cabinet manual would reduce confusion when people change."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Should the Prime Minister delegate more civil service oversight to a senior Minister?"
+        },
+        {
+          "speaker": "Darren Jones",
+          "text": "Yes. The Prime Minister is the Minister for the Civil Service but too busy for the detail. The First Secretary of State should have oversight of civil service reform and be accountable for related legislation and questions."
+        }
+      ]
+    },
+    {
+      "title": "Delivery units, data and KPIs: what worked",
+      "takeaway": "Small delivery teams, shared dashboards and clear KPIs improved focus—when used properly they exposed concrete fixes and progress.",
+      "turns": [
+        {
+          "speaker": "Richard Baker",
+          "text": "There was a Mission Delivery Unit that lasted a year—why was it short-lived?"
+        },
+        {
+          "speaker": "Darren Jones",
+          "text": "It evolved into a No.10 Delivery Unit. The delivery unit approach—dashboards, monthly RAG ratings and digging into customer journeys—helped where it was embedded in incentives."
+        },
+        {
+          "speaker": "Darren Jones",
+          "text": "They found simple fixes: for the NHS, patients' biggest frustration was receiving pointless letters. Fixing that improved experience quickly—stuff a policy meeting might never have found."
+        },
+        {
+          "speaker": "Lauren Edwards",
+          "text": "You said data-sharing was a problem. How bad was that?"
+        },
+        {
+          "speaker": "Darren Jones",
+          "text": "Departments used different data and argued over whose numbers were right. We set up joint analytics to agree sources before spending rounds. When people accepted a shared dashboard, decisions were faster and clearer."
+        },
+        {
+          "speaker": "Sam Carling",
+          "text": "Who should do the project management and keep Ministers on track?"
+        },
+        {
+          "speaker": "Darren Jones",
+          "text": "The private office, supported by special advisers and the delivery team, should run day-to-day project management and use interactive dashboards so Ministers can check progress without huge paper flows."
+        }
+      ]
+    },
+    {
+      "title": "People, incentives and civil service reform",
+      "takeaway": "Ministers and officials need better training, performance measures and real consequences; currently senior officials face few penalties for poor delivery.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Ministers often arrive without management skills. Should we train them earlier?"
+        },
+        {
+          "speaker": "Darren Jones",
+          "text": "Yes. I revived the idea of a national school of government with a ministerial track so incoming ministers get training, mentoring and project-management basics before they’re dropped into billion-pound decisions."
+        },
+        {
+          "speaker": "John Lamont",
+          "text": "Should the Prime Minister pick ministers with the right skills in the first place?"
+        },
+        {
+          "speaker": "Darren Jones",
+          "text": "Absolutely. Better pre-appointment preparation and a system of mentoring would reduce the ‘learn-on-the-job’ risks."
+        },
+        {
+          "speaker": "Peter Lamb",
+          "text": "How do you handle senior civil servant accountability? Currently they often move sideways when things go wrong."
+        },
+        {
+          "speaker": "Darren Jones",
+          "text": "There’s too little consequence for poor performance. I introduced performance-related pay and KPIs for senior officials, but Parliament needs stronger ways to hold them to account—public questioning and clearer records of performance."
+        },
+        {
+          "speaker": "Richard Baker",
+          "text": "Did Lord Maude’s review get used?"
+        },
+        {
+          "speaker": "Darren Jones",
+          "text": "I didn’t see implementation papers. That suggests some reforms simply stalled between administrations—another symptom of institutional resistance or poor handover."
+        },
+        {
+          "speaker": "Darren Jones",
+          "text": "Also, officials often won’t share past policy advice with new ministers. That blocks efficiency and makes it harder to use tech like AI to speed up policy work."
+        }
+      ]
+    },
+    {
+      "title": "Structures, outsourcing, devolution and crisis readiness",
+      "takeaway": "Some centralisation is necessary to track national priorities, but arm’s length bodies, outsourcing and devolution each need clearer accountability; emergency teams like COBRA work well.",
+      "turns": [
+        {
+          "speaker": "Markus Campbell-Savours",
+          "text": "Did mission boards centralise power and undermine Departments?"
+        },
+        {
+          "speaker": "Darren Jones",
+          "text": "The centre should focus on a few top political priorities; Departments still must run day-to-day services. The problem is prioritisation, not the principle of central challenge."
+        },
+        {
+          "speaker": "Sam Carling",
+          "text": "Are arm’s length bodies (ALBs) getting in the way?"
+        },
+        {
+          "speaker": "Darren Jones",
+          "text": "They can be hard to abolish, often protected by law. Where independence isn’t essential, reintegration into departmental frameworks gives ministers clearer levers and accountability."
+        },
+        {
+          "speaker": "Peter Lamb",
+          "text": "Should the Treasury be split to reduce its grip?"
+        },
+        {
+          "speaker": "Darren Jones",
+          "text": "I’m sceptical. The Treasury’s role in saying 'no' is vital. But public spending teams could sit closer to delivery teams so money and outcomes are judged together."
+        },
+        {
+          "speaker": "Chair",
+          "text": "What about outsourcing—are we moving to insourcing?"
+        },
+        {
+          "speaker": "Darren Jones",
+          "text": "For core services—front-of-house, training—insourcing often gives better outcomes. For tech and transformation, partnerships with the private sector are still useful, but procurement must favour British innovators and better results."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Are we prepared for foreseeable shocks, like severe weather risks?"
+        },
+        {
+          "speaker": "Darren Jones",
+          "text": "COBRA and the National Security team are competent and often ahead of the curve. The harder issue is turning their warnings into sustained preparation across Departments and services."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Final thoughts?"
+        },
+        {
+          "speaker": "Darren Jones",
+          "text": "Missions are a useful framing, but they need money, clear authority, agreed data, performance incentives and trained people to deliver. Without those building blocks the rhetoric won’t become results."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "schema_version": 1,
+  "source_id": 18150,
+  "source_sha256": "28e19ea95d96aa9d6f9027d64b0249343abbed653867856250cf88dd6e85e347",
+  "title": "Heathrow expansion: risks, tests and who decides",
+  "label": "21 October 2026 · Heathrow expansion inquiry (draft HENPS)",
+  "summary": "Ministers and regulators defended the draft Heathrow Expansion National Policy Statement (HENPS), arguing Heathrow is nationally important but subject to four legal tests (growth, climate, air quality, noise). Committee members pushed on whether Government is truly committed, the economic case, how costs and rail access would be paid for, and whether climate and community harms are being measured, mitigated and enforceable. The witnesses said many details will be set by any Development Consent Order (DCO) and by future regulation, and that consultation responses and the Committee’s report will inform final decisions.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Ruth Cadbury",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Keir Mather",
+      "name": "Keir Mather MP",
+      "role": "Parliamentary Under-Secretary of State, Minister for Aviation, Department for Transport",
+      "kind": "witness"
+    },
+    {
+      "label": "Hannah Newell",
+      "name": "Hannah Newell",
+      "role": "Director for Heathrow Expansion, Department for Transport",
+      "kind": "witness"
+    },
+    {
+      "label": "Martin Gilmour",
+      "name": "Martin Gilmour",
+      "role": "Deputy Director for Heathrow Expansion, Department for Transport",
+      "kind": "witness"
+    },
+    {
+      "label": "Tim Johnson",
+      "name": "Tim Johnson",
+      "role": "Interim Executive Director for Consumers, Markets and Communications, Civil Aviation Authority",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Scott Arthur",
+      "name": "Dr Scott Arthur",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Daniel Francis",
+      "name": "Daniel Francis",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Steff Aquarone",
+      "name": "Steff Aquarone",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Jacob Collier",
+      "name": "Jacob Collier",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Alex Mayer",
+      "name": "Alex Mayer",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Mr Toby Perkins",
+      "name": "Mr Toby Perkins",
+      "role": "Guest member (Environmental Audit Committee chair)",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "HENPS",
+      "definition": "Heathrow Expansion National Policy Statement, the Government’s planning policy document for a third runway at Heathrow."
+    },
+    {
+      "term": "DCO",
+      "definition": "Development Consent Order, the legal application a promoter must make to build nationally significant infrastructure."
+    },
+    {
+      "term": "CNGI",
+      "definition": "Critical National Growth Infrastructure, a new HENPS label meaning the project is judged especially important for UK growth."
+    },
+    {
+      "term": "SAF",
+      "definition": "Sustainable Aviation Fuel, lower‑carbon jet fuel the Government is promoting through a production and use mandate."
+    },
+    {
+      "term": "GGR",
+      "definition": "Greenhouse Gas Removals—technologies or methods that take CO2 out of the atmosphere to offset emissions."
+    },
+    {
+      "term": "HEAR",
+      "definition": "Heathrow Economic Appraisal Report, the document that sets out the project’s costs, benefits and NPV calculations."
+    },
+    {
+      "term": "NPV",
+      "definition": "Net Present Value, a financial measure that sums a project's expected benefits and costs over time."
+    },
+    {
+      "term": "S-CGE",
+      "definition": "Spatial computable general equilibrium modelling, used to estimate wider economic impacts across regions."
+    },
+    {
+      "term": "CAA",
+      "definition": "Civil Aviation Authority, the UK aviation regulator responsible for consumer protection and economic regulation of airports."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Commitment, process and who decides",
+      "takeaway": "The Government says it remains open to expansion but will consider consultation responses and the Committee’s recommendations before any decision; Parliament would vote on designation.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "The draft HENPS claims strong Government commitment, yet the Prime Minister said he’s 'open‑minded' and called it mainly a London matter. Is Government still committed?"
+        },
+        {
+          "speaker": "Keir Mather",
+          "text": "We are reviewing nearly 28,000 consultation responses and the Committee’s views. A new Prime Minister understandably wants to review a big privately financed project, but the HENPS sets out a clear needs case and four legal tests any expansion must meet."
+        },
+        {
+          "speaker": "Dr Scott Arthur",
+          "text": "If it's 'for London and Londoners', who votes? Just London MPs?"
+        },
+        {
+          "speaker": "Keir Mather",
+          "text": "Any vote on designating a revised HENPS would be in Parliament, so every MP can vote—not just London MPs."
+        },
+        {
+          "speaker": "Steff Aquarone",
+          "text": "You’ve added a new label—'Critical National Growth Infrastructure' (CNGI). Was that made to force this through?"
+        },
+        {
+          "speaker": "Keir Mather",
+          "text": "No. CNGI is drawn from precedents in other national policy statements. It signals the strategic weight Government places on Heathrow, but the four legal tests must still be met."
+        },
+        {
+          "speaker": "Steff Aquarone",
+          "text": "Which departments developed CNGI and can you share the analysis behind it?"
+        },
+        {
+          "speaker": "Hannah Newell",
+          "text": "The Department for Transport led the HENPS review and developed the idea with other Departments, including MHCLG and the Treasury; we will consider what analysis we can share with the Committee."
+        }
+      ]
+    },
+    {
+      "title": "Economic case, modelling and displacement",
+      "takeaway": "The Department says expansion can bring large economic benefits but acknowledges the headline NPV is weaker than in 2018 and that many passengers would be diverted from other UK airports.",
+      "turns": [
+        {
+          "speaker": "Daniel Francis",
+          "text": "Your updated analysis shows a negative NPV. Why press on if society doesn’t benefit overall?"
+        },
+        {
+          "speaker": "Keir Mather",
+          "text": "The updated NPV is lower than in 2018, but further modelling (Frontier S-CGE) shows positive GDP benefits and wider gains not fully captured by the NPV, including freight advantages."
+        },
+        {
+          "speaker": "Daniel Francis",
+          "text": "You produced supplementary figures mid‑inquiry and say more updates will follow. Why not combine the HEAR and S‑CGE work now so we can judge the full case?"
+        },
+        {
+          "speaker": "Hannah Newell",
+          "text": "They measure different things—the HEAR gives benefits vs costs, the S‑CGE shows wider economic effects. Combining them risks double counting; we’re working to present them together robustly alongside the final HENPS."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Table 2 in your Appendix shows most 'new' Heathrow passengers are actually 'displaced' from other UK airports—by 2045 most business and leisure passengers are displaced. Is that right?"
+        },
+        {
+          "speaker": "Martin Gilmour",
+          "text": "The model looks at the whole airport system; people have strong preferences for Heathrow because of routes and connections. We can come back with specific displacement numbers if needed."
+        },
+        {
+          "speaker": "Dr Scott Arthur",
+          "text": "Isn’t that circular—people 'want' Heathrow because it has capacity; if you had a national aviation strategy, other airports might adapt instead."
+        },
+        {
+          "speaker": "Keir Mather",
+          "text": "We’re not considering Heathrow in isolation—other London airports are also expanding. Still, Heathrow serves hub routes and freight that other airports don’t, so it plays a distinct national role."
+        }
+      ]
+    },
+    {
+      "title": "Financing, affordability and regulation",
+      "takeaway": "The Government insists expansion must be privately financed; the HENPS pushes affordability but many cost details will be decided at DCO stage and by the CAA, which is consulting on regulatory improvements.",
+      "turns": [
+        {
+          "speaker": "Dr Scott Arthur",
+          "text": "What does 'affordability' mean here? Who protects passengers and airlines from excessive charges?"
+        },
+        {
+          "speaker": "Keir Mather",
+          "text": "Promoters must show costs and charges are 'no higher than necessary' and financeable over the project lifetime; the CAA will scrutinise costs passed to consumers."
+        },
+        {
+          "speaker": "Tim Johnson",
+          "text": "The CAA’s duty is to consumers. We’ll test airport costs for efficiency, look at capital governance and possibly strengthen the regulatory model to get better value for money."
+        },
+        {
+          "speaker": "Jacob Collier",
+          "text": "Where might charges end up? Reports suggest a rise to £50 per passenger or more once you add carbon and surface access—could this undermine demand?"
+        },
+        {
+          "speaker": "Tim Johnson",
+          "text": "We don’t have a definitive number yet. Promoters’ scope decisions determine costs; until schemes’ scopes are settled we can’t give reliable figures."
+        },
+        {
+          "speaker": "Keir Mather",
+          "text": "It’s a real risk. That’s why the HENPS embeds affordability tests and why the regulatory framework must ensure efficient delivery and proportionate charges. Any scheme must be credible and financeable."
+        },
+        {
+          "speaker": "Steff Aquarone",
+          "text": "If cost overruns happen, could the Government step in or change HENPS? And will taxpayers ever pay?"
+        },
+        {
+          "speaker": "Keir Mather",
+          "text": "The project must be privately financed; the Government have been clear taxpayers will not fund expansion. If a promoter’s plans aren’t financeable, they won’t pass the tests."
+        }
+      ]
+    },
+    {
+      "title": "Climate test and non‑CO2 impacts",
+      "takeaway": "The climate test requires schemes not to 'materially impact' the UK's ability to meet carbon budgets, but committee members pressed for clearer metrics, inclusion of non‑CO2 effects, and certainty about removals.",
+      "turns": [
+        {
+          "speaker": "Alex Mayer",
+          "text": "What does 'materially impact' mean practically—give an example of failing the climate test."
+        },
+        {
+          "speaker": "Keir Mather",
+          "text": "‘Materiality’ is judged against statutory carbon budgets and the net zero 2050 obligation. If a scheme would make meeting those budgets materially harder, it could fail."
+        },
+        {
+          "speaker": "Alex Mayer",
+          "text": "Peak aviation emissions will fall into future carbon budget periods (CB8 etc.). Is there a blind spot because the test focuses on 2050?"
+        },
+        {
+          "speaker": "Keir Mather",
+          "text": "The test is measured against carbon budgets including later ones; a scheme must set out whole‑life carbon mitigation, not just to 2050."
+        },
+        {
+          "speaker": "Dr Scott Arthur",
+          "text": "Non‑CO2 effects (contrails, NOx) can be material. Why doesn’t the HENPS require quantification?"
+        },
+        {
+          "speaker": "Hannah Newell",
+          "text": "There’s no internationally agreed metric yet. Applicants must address non‑CO2 impacts qualitatively now, and if a policy metric exists at application time they'd have to comply with it."
+        },
+        {
+          "speaker": "Mr Toby Perkins",
+          "text": "The Climate Change Committee says expansion isn’t compatible without more GGRs and other measures locked in. Will you legislate for those before approving a DCO?"
+        },
+        {
+          "speaker": "Keir Mather",
+          "text": "We are reviewing SAF, the jet‑zero strategy and work on removals. Some measures are already statutory; more may need legislation. We’ll consider CCC advice and the consultation responses."
+        }
+      ]
+    },
+    {
+      "title": "Surface access, roads and rail funding",
+      "takeaway": "The HENPS sets stretching public transport mode share targets and expects promoters to set credible surface access plans; who pays for new west/south rail links remains unresolved and will be decided at DCO stage.",
+      "turns": [
+        {
+          "speaker": "Daniel Francis",
+          "text": "The HENPS asks promoters to 'minimise' extra traffic. TfL says 60,000 extra road movements per day even if targets are met. Who is liable for surface access schemes?"
+        },
+        {
+          "speaker": "Keir Mather",
+          "text": "Promoters must show how they will finance and deliver surface access schemes. Financing responsibility rests with the promoter; specifics are for DCO applications and commercial agreements with bodies like TfL."
+        },
+        {
+          "speaker": "Jacob Collier",
+          "text": "The CAA’s policy currently limits airport funding of rail schemes with wider beneficiaries. Will that change so airports can help fund new rail into the west and south?"
+        },
+        {
+          "speaker": "Tim Johnson",
+          "text": "We’re consulting on our surface access policy. Any change would consider consumers’ interests and planning requirements. Promoters must justify costs they seek to pass to consumers."
+        },
+        {
+          "speaker": "Chair",
+          "text": "If promoters won’t pay for all rail links and taxpayers won’t, where is credible funding and delivery coming from?"
+        },
+        {
+          "speaker": "Martin Gilmour",
+          "text": "We’ve set mode share targets and ask for credible plans in the HENPS. There’s precedent from Gatwick and Luton where DCOs secured measures; we expect similar detailed planning at application."
+        }
+      ]
+    },
+    {
+      "title": "Noise, air quality, community mitigation and enforcement",
+      "takeaway": "Committee members warned communities remain sceptical because mitigation has been slow; ministers and the CAA said tests and obligations exist but enforcement and speed of delivery must be strengthened.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Your analysis uses 2024 as the noise baseline and a higher dB threshold than Gatwick did. Many thousands will be newly overflown—why rely on a higher threshold?"
+        },
+        {
+          "speaker": "Keir Mather",
+          "text": "2024 was the latest available baseline and we modelled sensitivity to recent annoyance research; thresholds can be debated in consultation and the DCO will set detailed mitigations."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Residents entitled to insulation under past permissions are still waiting—fewer than 200 houses have been insulated. How will the public trust future promises?"
+        },
+        {
+          "speaker": "Tim Johnson",
+          "text": "We challenge Heathrow’s justification for proposed spending and will hold them to account. In a price control we scrutinise budgets, but we recognise communities want faster delivery and clearer enforcement."
+        },
+        {
+          "speaker": "Dr Scott Arthur",
+          "text": "Air quality law is old and health evidence is shifting. Should the HENPS require a higher standard than the legal baseline?"
+        },
+        {
+          "speaker": "Martin Gilmour",
+          "text": "The HENPS sets tests against current legal obligations and the Environment Act updates. If respondents want higher standards, that’s part of the consultation that will inform the final policy."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Who enforces commitments after DCO consent—the CAA or the Government?"
+        },
+        {
+          "speaker": "Hannah Newell",
+          "text": "The HENPS and DCO set planning conditions. The CAA regulates airport finances and projects; local conditions and monitoring mechanisms will need to be specified at DCO stage to ensure enforceability."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Finally, what are the next steps after we send our report by 26 November?"
+        },
+        {
+          "speaker": "Keir Mather",
+          "text": "We will consider your report, the consultation responses and other evidence, then publish an updated HENPS which Parliament must vote on before it has legal effect. We’ll write back on points we agreed to follow up."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18147,
+  "activity_id": 38324,
+  "document_id": 307760,
+  "meeting_date": "",
+  "meeting_date_display": "",
+  "publication_date": "2026-10-21T12:44:21",
+  "title": "The relationship between the Government and the defence industry",
+  "committee": "Industry and Regulators Committee",
+  "committees": [
+    {
+      "id": 517,
+      "name": "Industry and Regulators Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9823,
+      "title": "The relationship between the Government and the defence industry",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Secretary of State",
+      "organisation": "Ministry of Defence"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "National Armaments Director",
+      "organisation": "Ministry of Defence"
+    },
+    {
+      "name": "Ben White",
+      "role": "Director Industrial Strategy",
+      "organisation": "Ministry of Defence"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Wes Streeting",
+    "Rupert Pearce",
+    "Ben White",
+    "Lord Udny-Lister",
+    "Baroness Carberry of Muswell Hill",
+    "Lord Camoys",
+    "Baroness Harding of Winscombe",
+    "Lord Best",
+    "Lord Barber of Ainsdale",
+    "Lord Fuller",
+    "Baroness Valentine"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18147/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18147",
+  "source_sha256": "1bfea774c98e2e9143d6011969931ae5b5b3cbfdd9ec27ea2b579b83b25cf42d",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}
