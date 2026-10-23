@@ -1,0 +1,344 @@
+{
+  "schema_version": 1,
+  "source_id": 18151,
+  "source_sha256": "7abb91b87cb00c3a070389b38832938f00128b269462d12e63500eac47e2bbfe",
+  "title": "Why small‑boat crossings fell: Border Security Command’s approach and remaining risks",
+  "label": "21 October 2026 · Border Security Command oral evidence",
+  "summary": "The Border Security Command (BSC) and National Crime Agency (NCA) told MPs that small‑boat arrivals to the UK fell by about half this year because of coordinated enforcement, international disruption of supply chains and upstream work with partner countries. They described how BSC coordinates agencies, where it still needs to improve, the role of intelligence and Europe, recent difficult landings on the south coast, and how deterrence, returns and safe/legal routes fit into future policy. They warned displacement and large boats remain serious risks.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Dame Karen Bradley",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Ben Maguire",
+      "name": "Ben Maguire",
+      "role": "Member of the Home Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Robbie Moore",
+      "name": "Robbie Moore",
+      "role": "Member of the Home Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Dr Peter Prinsley",
+      "name": "Dr Peter Prinsley",
+      "role": "Member of the Home Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Margaret Mullane",
+      "name": "Margaret Mullane",
+      "role": "Member of the Home Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Mr Paul Kohler",
+      "name": "Mr Paul Kohler",
+      "role": "Member of the Home Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Duncan Capps",
+      "name": "Duncan Capps CBE",
+      "role": "Interim Border Security Commander, Home Office",
+      "kind": "witness"
+    },
+    {
+      "label": "Rob Jones",
+      "name": "Rob Jones",
+      "role": "Director General (Operations), National Crime Agency",
+      "kind": "witness"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Border Security Command",
+      "definition": "Home Office unit set up in 2024 to lead UK efforts against illegal migration and border threats."
+    },
+    {
+      "term": "Operation Lockstream",
+      "definition": "A UK policing operation targeting illegal working and exploitation linked to organised immigration crime."
+    },
+    {
+      "term": "Organised immigration crime (OIC)",
+      "definition": "Criminal networks that profit from moving people irregularly, including smuggling and related fraud."
+    },
+    {
+      "term": "Eurodac",
+      "definition": "EU fingerprint database for asylum seekers; provides biometric data to help identify where people first claimed asylum."
+    },
+    {
+      "term": "Europol",
+      "definition": "The EU law‑enforcement agency that helps coordinate cross‑border police operations and intelligence."
+    },
+    {
+      "term": "Manston",
+      "definition": "A processing site in Kent used for initial debriefing and identity checks of small‑boat arrivals."
+    },
+    {
+      "term": "RNLI",
+      "definition": "Royal National Lifeboat Institution, a volunteer charity that carries out sea rescue in UK waters."
+    },
+    {
+      "term": "Crew transfer vessel",
+      "definition": "Worked‑adapted vessels (from offshore wind work) used by UK authorities to come alongside small boats and rescue people."
+    },
+    {
+      "term": "Operation Hillmore",
+      "definition": "A UK–France returns arrangement (pilot) that returned some arrivals to France under agreed procedures."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Why crossings have fallen",
+      "takeaway": "Border Security Command and the NCA say improved, coordinated enforcement—especially hitting equipment and facilitators—and upstream work with partners explain most of the roughly 50% fall in boats this year.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We want to know whether the drop in small‑boat arrivals is down to policy and enforcement, or just luck."
+        },
+        {
+          "speaker": "Duncan Capps",
+          "text": "Arrivals are much lower: about 16,000 fewer people and around 305 boats so far this year, roughly half the boats from this time last year."
+        },
+        {
+          "speaker": "Duncan Capps",
+          "text": "BSC was created to bring together enforcement, intelligence and international work. We focus on reducing pull factors, disrupting supply chains, and working with near‑border partners—principally France."
+        },
+        {
+          "speaker": "Rob Jones",
+          "text": "The NCA made this a main effort. We run about 100 operations at any time against social media, equipment suppliers, high‑value targets, criminal finances and the key actors in northern France."
+        },
+        {
+          "speaker": "Rob Jones",
+          "text": "Key indicators we track include seizures of boats and engines, operational disruptions overseas and arrests—sometimes disruption without arrest is more effective at stopping crossings."
+        },
+        {
+          "speaker": "Ben Maguire",
+          "text": "Why now? These measures have been talked about for years—what changed to produce the fall?"
+        },
+        {
+          "speaker": "Duncan Capps",
+          "text": "It takes time to bed in: relationships, training and resourcing across agencies and with partners have come together this year, and upstream work is bearing fruit."
+        }
+      ]
+    },
+    {
+      "title": "How BSC coordinates agencies and measures success",
+      "takeaway": "BSC acts as a system leader, funding and directing work across agencies; they monitor many measures—not just crossings—to decide what to keep, scale up or change.",
+      "turns": [
+        {
+          "speaker": "Robbie Moore",
+          "text": "Has inter‑agency co‑operation improved since BSC was set up? Anything still missing?"
+        },
+        {
+          "speaker": "Duncan Capps",
+          "text": "Yes—two years in, relationships and systems are much better. BSC brought maritime, small‑boats, and Home Office intelligence together, giving a clearer operational focus."
+        },
+        {
+          "speaker": "Duncan Capps",
+          "text": "But success doesn’t mean complacency: even if arrivals fall below 25,000 it’s still too many and we keep pushing."
+        },
+        {
+          "speaker": "Rob Jones",
+          "text": "Some areas—criminal finance, cash economies and informal money transfer (hawaladars)—are harder and need more priority, because they underpin the facilitation business model."
+        },
+        {
+          "speaker": "Robbie Moore",
+          "text": "How do you judge value for money and what would you spend extra funding on?"
+        },
+        {
+          "speaker": "Duncan Capps",
+          "text": "BSC channels funding across Home Office, NCA and partners and runs a dynamic board to assess impact. We’ll double down on things that work—especially upstream disruption and tackling pull factors."
+        },
+        {
+          "speaker": "Rob Jones",
+          "text": "We apply tactics used against national security threats; as we evaluate what works, we redeploy resources. Upstream work and following the money are high‑value areas but difficult."
+        },
+        {
+          "speaker": "Robbie Moore",
+          "text": "Has anything been stopped as not value for money?"
+        },
+        {
+          "speaker": "Duncan Capps",
+          "text": "Not yet—BSC is still early in its first full cycle. Some programmes are being refocused to target organised immigration crime more precisely rather than broader criminality."
+        }
+      ]
+    },
+    {
+      "title": "Intelligence, Europe and upstream disruption",
+      "takeaway": "The NCA and BSC emphasise intelligence‑led work, joint operations in Europe, and taskforces that tackle routes and source countries well before migrants reach France.",
+      "turns": [
+        {
+          "speaker": "Dr Peter Prinsley",
+          "text": "Can intelligence be improved further, especially if instability grows in other countries?"
+        },
+        {
+          "speaker": "Rob Jones",
+          "text": "We aim for maximum coverage—NCA has a well‑resourced intelligence effort, strong EU liaison via Europol and more joint investigations and international liaison officers than before."
+        },
+        {
+          "speaker": "Duncan Capps",
+          "text": "Home Office intelligence is now embedded in BSC. We run taskforces across three main routes—north‑east Africa/central Mediterranean; the Iraq/Turkey/Syria route; and western Europe/Balkans—so we can track journeys and facilitators across borders."
+        },
+        {
+          "speaker": "Ben Maguire",
+          "text": "Would rejoining Eurodac help?"
+        },
+        {
+          "speaker": "Rob Jones",
+          "text": "Yes—more real‑time biometric and asylum data from Europe would improve identification and our ability to stop repeated claims or detect people who passed through other countries."
+        },
+        {
+          "speaker": "Ben Maguire",
+          "text": "How do you ensure money sent to partner countries is used properly?"
+        },
+        {
+          "speaker": "Duncan Capps",
+          "text": "We work through FCDO channels and their assurance processes. There is a pragmatic balance: some partner states have difficult records, but we must work with them while upholding legal standards."
+        }
+      ]
+    },
+    {
+      "title": "Operations at sea, rescues and the south‑coast incidents",
+      "takeaway": "Most rescues are done by BSC’s vessels; the south‑coast landings in September exposed risks from long crossings, violent local protests and the need for better local contingencies and communications.",
+      "turns": [
+        {
+          "speaker": "Margaret Mullane",
+          "text": "What worries you most now about organised crime adapting?"
+        },
+        {
+          "speaker": "Rob Jones",
+          "text": "They adapt, but their model is vulnerable: it needs boats, engines, logistics and timing. We’ve increased their costs and risk so they’re changing tactics; we’re trying to stay ahead."
+        },
+        {
+          "speaker": "Duncan Capps",
+          "text": "I worry about bigger boats and higher occupancies: we had a 230‑person boat and rescues of 168 on one launch. A major casualty is sadly possible if we’re not careful."
+        },
+        {
+          "speaker": "Duncan Capps",
+          "text": "There were launches from Normandy and Dieppe this year as gangs tried to displace away from Calais/Dunkirk. That required fast co‑ordination with French, Belgian and Dutch partners and local UK police."
+        },
+        {
+          "speaker": "Chair",
+          "text": "How are migrants moving from northern camps to these western launch points?"
+        },
+        {
+          "speaker": "Duncan Capps",
+          "text": "Often by van or public transport; the train ride from Paris can take many hours. French authorities are alert to prevent the north camps model repeating in the west."
+        },
+        {
+          "speaker": "Mr Paul Kohler",
+          "text": "Tell us about the south‑coast landings and the RNLI role—why were they involved?"
+        },
+        {
+          "speaker": "Duncan Capps",
+          "text": "Most rescues (about 98%) are handled by BSC assets and modified crew transfer vessels. But some landings were far from our usual patrol area; the RNLI responded where the coastguard tasked them."
+        },
+        {
+          "speaker": "Duncan Capps",
+          "text": "After the first unexpected arrival, protesters interfered at a marina, creating public‑order and safeguarding problems. For another landing we transferred people to a Border Security vessel and sent them to Dover; later arrivals needed police protection onshore."
+        },
+        {
+          "speaker": "Ben Maguire",
+          "text": "What contingency changes have you made so RNLI aren’t the default responders?"
+        },
+        {
+          "speaker": "Duncan Capps",
+          "text": "We’ve put additional contingency plans in place, are procuring more crew transfer vessels, and will position assets so we can respond without routinely involving RNLI except where they are best placed."
+        },
+        {
+          "speaker": "Ben Maguire",
+          "text": "How long were those migrants at sea?"
+        },
+        {
+          "speaker": "Duncan Capps",
+          "text": "Roughly 30–40 hours in one case. Crossing long distances in winter would raise the risk of deaths—so shutting routes down is urgent."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Were the southern landings detected late?"
+        },
+        {
+          "speaker": "Duncan Capps",
+          "text": "They were detected but too late to intercept at sea on a very busy day. Those two events were under 0.1% of recent arrivals, but they exposed gaps we’ve addressed."
+        },
+        {
+          "speaker": "Margaret Mullane",
+          "text": "Are people who arrived in those incidents being security‑checked?"
+        },
+        {
+          "speaker": "Duncan Capps",
+          "text": "Yes—everybody who arrives enters biometric and debrief processes. Small‑boat arrivals are photographed, fingerprinted and interviewed; most people comply and want to claim asylum."
+        }
+      ]
+    },
+    {
+      "title": "Returns, deterrence and the policy mix",
+      "takeaway": "BSC and NCA favour a mix: upstream prevention, communications to counter lies sold by gangs, targeted returns and safe/legal routes; enforcement and consequences for illegal work are central to deterrence.",
+      "turns": [
+        {
+          "speaker": "Mr Paul Kohler",
+          "text": "Was Operation Hillmore (the France returns pilot) a success and why did it end?"
+        },
+        {
+          "speaker": "Duncan Capps",
+          "text": "It returned about 1,631 people and discouraged many others: UNHCR processed around 10,000 applications through the scheme. It was always a year‑long pilot; France wanted EU‑level arrangements instead of a bilateral extension."
+        },
+        {
+          "speaker": "Rob Jones",
+          "text": "Quick, reliable returns remove incentives for OCGs and undermine their message that crossing is easy and consequence‑free."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Do safe and legal routes have a role?"
+        },
+        {
+          "speaker": "Duncan Capps",
+          "text": "Yes—if they let genuine asylum seekers apply safely and stop people taking dangerous journeys. The Hillmore pilot showed safe routes can be a deterrent as well as a humanitarian route."
+        },
+        {
+          "speaker": "Dr Peter Prinsley",
+          "text": "How do you identify people with no documents and check if they’re a risk?"
+        },
+        {
+          "speaker": "Duncan Capps",
+          "text": "Debriefing at Manston, biometric checks and embedded counter‑terror officers help. Most small‑boat arrivals are identified and enrolled biometrically, and the intelligence picture is improving."
+        },
+        {
+          "speaker": "Rob Jones",
+          "text": "We want Eurodac‑style sharing and more European data to reduce blind spots—real‑time biometric alerts help spot repeat routes or criminal links."
+        },
+        {
+          "speaker": "Chair",
+          "text": "What about consequences for working illegally or breaking asylum rules?"
+        },
+        {
+          "speaker": "Duncan Capps",
+          "text": "Consequences matter for deterrence. We’re increasing work to stop illegal employment—such enforcement undermines the pull factor that gangs exploit."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Final point: are you confident the gains will hold?"
+        },
+        {
+          "speaker": "Duncan Capps",
+          "text": "We’ve reduced crossings significantly but risks remain: displacement, larger boats and the winter. We must keep pressure on all parts of the criminal model and on communications in source countries."
+        },
+        {
+          "speaker": "Rob Jones",
+          "text": "We’re disrupting gangs and following leads across Europe and upstream. The business model is under strain—our job is to keep it that way until it’s no longer viable."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you both. The Committee appreciates the work and the clear explanation of risks and next steps."
+        }
+      ]
+    }
+  ]
+}

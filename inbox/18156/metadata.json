@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18156,
+  "activity_id": 38879,
+  "document_id": 308070,
+  "meeting_date": "",
+  "meeting_date_display": "",
+  "publication_date": "2026-10-22T13:40:32",
+  "title": "Reforming the water sector",
+  "committee": "Environment, Food and Rural Affairs Committee",
+  "committees": [
+    {
+      "id": 52,
+      "name": "Environment, Food and Rural Affairs Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 8765,
+      "title": "Reforming the water sector",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Managing Director",
+      "organisation": "Envisager"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chief Operating Officer for Industrial Water and Energy",
+      "organisation": "Veolia"
+    },
+    {
+      "name": "Hugh Goldsmith, College of Europe & former head, Water Division, European Investment Bank",
+      "role": "",
+      "organisation": ""
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "III",
+    "Chair",
+    "Hugh Goldsmith",
+    "John Abraham",
+    "Dr Lloyd Owen",
+    "Henry Tufnell",
+    "There is a regulatory issue here",
+    "Terry Jermy",
+    "Then you have hybrid models such as in Germany",
+    "Dr Colon",
+    "Professor Schwartz",
+    "Sarah Bool",
+    "Josh Newbury",
+    "David Henderson",
+    "Professor Saal",
+    "Professor McGaughey",
+    "Professor Hall",
+    "Sarah Dyke",
+    "Yes, is the answer",
+    "We have a lot of people standing in the queue for scarce resources",
+    "There is a second issue related to this"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18156/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18156",
+  "source_sha256": "ea6eaca279ddeb7d3b763e76a65b7bdad2fede00a27250197f97adf2d566f7ab",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18161,
+  "activity_id": 38972,
+  "document_id": 308119,
+  "meeting_date": "2026-10-20",
+  "meeting_date_display": "20 October 2026",
+  "publication_date": "2026-10-22T17:55:58",
+  "title": "Competition and Markets Authority",
+  "committee": "Communications and Digital Committee",
+  "committees": [
+    {
+      "id": 170,
+      "name": "Communications and Digital Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 8786,
+      "title": "Competition and Markets Authority",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Chief Executive Officer",
+      "organisation": "Competition and Markets Authority"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Executive Director of Digital Markets",
+      "organisation": "Competition and Markets Authority"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Sarah Cardell",
+    "Will Hayter",
+    "The requirement we are proposing aims to address two main barriers",
+    "Baroness Owen of Alderley Edge",
+    "Lord McNally",
+    "Baroness Fleet",
+    "Baroness Caine of Kentish Town",
+    "Lord Storey",
+    "Lord Holmes of Richmond",
+    "Lord Tarassenko"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18161/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18161",
+  "source_sha256": "1f227ed25ee312912dee4c2d09777967d7171d93415f899a8085e7f1d1238e8c",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

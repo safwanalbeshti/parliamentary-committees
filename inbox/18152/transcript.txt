@@ -1,0 +1,317 @@
+Oral evidence - 19 Oct 2026
+
+22
+
+Joint Committee on the National Security Strategy
+
+Oral evidence: Space resilience, HC 572
+
+Monday 19 October 2026
+
+4.25 pm
+
+Watch the meeting
+
+Members present: Matt Western (The Chair); Lord Arbuthnot of Edrom; Lord Boateng; Liam Byrne; Tanmanjeet Singh Dhesi; Lord Godson; Lord Jack of Courance; Baroness Kidron; Helen Maguire; Lord Sedwill; Lord Tunnicliffe; Baroness Tyler of Enfield; Lord Watts.
+
+Evidence Session No. 1 Heard in Public Questions 1 - 8
+
+Witnesses
+
+Dr Julia Balm, Co-Director, Freeman Air and Space Institute, School of Security Studies, King’s College London; Jessie Hamill-Stewart, Program Manager, Space, Cyber Security and Space Domain Awareness, National Composites Centre; Will Marshall, Founder and CEO, Planet UK.
+
+Examination of witnesses
+
+Dr Julia Balm, Jessie Hamill-Stewart and Will Marshall.
+
+Q1 The Chair: Today we are holding our first session on our inquiry into space resilience. Can I welcome our witnesses today and ask you to introduce yourselves?
+
+Dr Julia Balm: I am Dr Julia Balm. I am the co-director and a research associate at the Freeman Air and Space Institute at King’s College London, within the War Studies department.
+
+Jessie Hamill-Stewart: Hi everyone, my name is Jessie Hamill-Stewart and I am a PhD researcher at the University of Bath and the University of Bristol, where I look at cyber security and space. For the past two years, I have been building the CySpace Connected Capability Network, which is a network that brings together cyber security and space professionals all across the UK.
+
+Will Marshall: Hi, I am Will and I am the co-founder and CEO of Planet, which is a satellite company.
+
+Q2 The Chair: Thank you very much. Will, I understand you have to leave at 5 pm, so we will try to keep our questions pithy and if you could also keep your answers relatively concise that would be helpful, so that we can get through as much as possible by then.
+
+Perhaps I could just start with an overview about the threat picture. We have had several strategies in recent years. I am interested to hear your views on how you see the threat picture. Also, in the light of the recent space strategy that was published in early September, what is your take on its objectives and commitments in addressing those threats? Will, can I start with you?
+
+Will Marshall: Maybe I can start with a tiny bit of background first on what we do, so that you have some context. Planet launches and operates fleets of earth imaging satellites. We have launched about 700 satellites, second only to SpaceX in the number of satellites launched, and we manage these large, proliferated fleets, which do earth imaging. They have a range of uses, from sustainability—we help to track deforestation in the Brazilian Amazon every day, and help Scotland to monitor its environmental regulations—through to security, where we are the main source of data for Ukraine today, for example, enabling them to monitor threats coming from Russia, plan their drone flights and all sorts of things such as that. We have a team on the ground there. I recently came back from there. Other examples include NATO monitoring and finding hybrid Russian warfare activities in the Baltics.
+
+Space data and satellites are of course critical to national security and their resilience is key, so obviously this panel is an important matter. The way we approach resilience, just to give a sense of how we tackle it, is anchored on three things. One is proliferated architectures. Prior to Planet, it used to be that you would have a few satellites, but we were the first to build a satellite constellation of over 100. We maintain over 200 in orbit, and they are resilient. At the beginning of the Ukraine war, the Viasat system got jammed very quickly, but Starlink was operable. Some of the individual earth imaging satellites got dazzled, but our system of hundreds of satellites was resilient and has continued to operate every time, every day, throughout the war.
+
+Our second piece is working closely with national Governments on specific threats to our fleet. We work with US Cyber Command and get intelligence from it about what threats could be happening, especially state threats.
+
+The third level is being able to rapidly reconstitute satellites. We have rapid launches. We were meant to have another launch today but it just got postponed due to weather in the Cape. Generally, we are launching about four or five times per year; typically, around 50 new satellites per year.
+
+Iterating those capabilities, we can build about 40 satellites per week. It is the most prolific system, alongside SpaceX’s Starlink, in being able to build satellites very quickly, about 40 per week, such that we can reconstitute those satellites very quickly in the event of something more catastrophic.
+
+That is how we tackle it. We also try to be good actors in the broader field. Some of my work at NASA was on orbital space debris and we were the first to do open standards of publishing satellite positions so that we could co-ordinate and ensure that there were no collisions between satellites by keeping the satellites really low so that they do not create long-term space debris.
+
+Why am I saying all these things? Primarily, because when the UK faces questions of space resilience, it needs to move into these kinds of directions: proliferating fleets. One of the ways to do that is to do hybrid capabilities—a mix of tapping commercial systems and building sovereign systems. That can be done very quickly, as we have done with Ukraine. For example, Ukraine asked us to build and operate some satellites directly for its sovereign ownership, as well as tapping our data feeds, and we were able to put its first satellite into space two months after the contract. We just did something very similar for Sweden. So now you can get sovereignty—control of the satellites—and speed, whereas you used to have to choose one or the other. I believe the UK could tap these sorts of ways of tracking and having more resilient systems by leaning into proliferated architectures and that that is very affordable these days, as Ukraine has proved.
+
+The Chair: The numbers count.
+
+Will Marshall: Absolutely, the numbers count, yes.
+
+The Chair: The UK Space Strategy—do you have a brief response on that?
+
+Will Marshall: The biggest missing piece in that is: where is the urgency? There are all the right kinds of direction, but what is the timeline? A lot of countries are grappling with the question of sovereignty. What does sovereign mean? It means, or should mean, having the systems that you need when you need them. But at the minute, the UK is on a course to build systems that are very long. For example, the ISTARI programme is building systems that may take until 2035 to build. Systems that are fully national and sovereign but give their capabilities seven years too late are not sovereign at all; they are just stupid. Honestly, that is what is going to happen on the present course.
+
+The Chair: I want to move on to your colleagues on the panel but, just before that, you said that it took how many months to deliver for Sweden?
+
+Will Marshall: For Sweden, it was four months from a contract to a first sovereign satellite, which means it was owned and will be operated by Sweden.
+
+The Chair: Very interesting. Jessie?
+
+Jessie Hamill-Stewart: That was very interesting. From my perspective, the focus is on the cyber security of space infrastructure. You are probably aware of the cyber attacks that impacted M&S and Jaguar Land Rover and the impact on the individual companies as well as the knock-on effects. There was a cost of £2 billion to the UK economy from the Jaguar Land Rover attack.
+
+Cyber attacks are becoming more of a reality, and this is for infrastructure outside of space. We can see that they are affecting companies. M&S could not deliver online orders for a very long time. Why am I talking about this on a space resilience panel? It is because what you may not realise is that space infrastructure—a lot of what we have just heard about—is just as vulnerable to cyber attacks. You often think about space infrastructure on the ground and satellites up there in space. You might think about the user segment and launch as well. All these different parts of space systems have clear and very worrying vulnerabilities and it is becoming easier and easier for cyber attacks to be conducted against space systems. That is partly because they are becoming more accessible—the number of organisations that are able to develop satellite systems is growing enormously and has been for the last five to 15 years—but also because cyber attacks are becoming easier with tools such as AI, which I can say more on later.
+
+Essentially, we are encountering a situation in which our space systems are becoming more vulnerable, there are more of them, they are becoming more open and more people are learning about space because they are doing things in space. That means that if they learn about the technical system, they can also learn about how to attack it and the vulnerabilities. We are getting to a situation in which we are seeing more and more cyber threats affect critical infrastructure and, in particular, space infrastructure. If we see more cyber attacks affect the space infrastructure on which we all rely, it could become very concerning.
+
+One of the things that really worries me about cyber threats is that they exploit unknown vulnerabilities. You do not know where your adversary will target or where, specifically, they will come in. Where is the weak point within your organisation? Nobody really knows that, which is why it is such a tricky point to tackle. The mysterious nature of the beginning of cyber attacks and the way in which they could impact space systems is a worry.
+
+The Chair: Do you think the government space strategy addresses that?
+
+Jessie Hamill-Stewart: I agree with the point about urgency. This is a much bigger problem than the space strategy depicts. There are some nice—
+
+The Chair: I understand that. But you do not see any evidence in the space strategy per se that makes you think, “They get it, across government”?
+
+Jessie Hamill-Stewart: There are some aspects. In the space strategy, there is a recognition of the multidimensional threat to space systems and that cyber attacks do not exist by themselves as a threat to space but that space weather is a concern, and debris and all these different threats. There is recognition of that.
+
+There is also a willingness to tackle the threat collectively. That is good. Space is vast and our dependence on space is vast; therefore all the organisations that are dependent on space should be included. When you are thinking about threats to space, I include the supply chain in that as well. That is good.
+
+The thing that it is missing is championing what the UK is saying and doing specifically about the cyber security of space. I may be wrong here, but when I looked up “cyber” in the UK Space Strategy, I think that it came up six times—no more than ten times. That is quite worrying for me, from my cyber background, because I know that cyber security is one of the major threats against space systems, especially when it comes to the ground, which is extremely vulnerable. I can go more into that later.
+
+The Chair: I am just conscious of time, I am sorry. If you could move on very quickly, I want to bring in Julia as well.
+
+Jessie Hamill-Stewart: Of course, sorry. My last line on this point about the national space strategy is that other countries are better articulating what they are doing about cyber security and space, and therefore demonstrating how seriously they take the issue of securing space.
+
+The Chair: Such as?
+
+Jessie Hamill-Stewart: Which countries? If you look to France, it has a Space Cybersecurity Center. They have central infrastructure that fosters collaboration, which articulates very clearly that France is a country that has infrastructure dedicated to space cyber security. We have bits and pieces distributed all around different organisations in the UK, but they do not come together in one central infrastructure. CySpace plays a role in that, but that is a network, not a central government infrastructure. Another country is Germany, which very clearly states its guidance for securing space systems. I mean that in a very literal sense based on what is available online. If you look it up, it has pages and pages dedicated to space cyber security.
+
+The Chair: We could talk about this the rest of the afternoon, I am sure, but we will move on to Julia.
+
+Dr Julia Balm: I will echo a lot of what has been said already. I will start with the broad threat landscape picture and then go into the NSS and how that tackles it. Generally, the greatest vulnerability we are facing at the moment is that our increased dependence on space systems is not necessarily matched with enough investment or urgency and that we do not necessarily have enough response options at this given time. The pinpoint for that is both in day-to-day services and when it comes to defence. I will unpack that later.
+
+Statistically, 18% of the UK’s GDP depends on satellite services. We know that one lost day of space systems would cost £1.4 billion. The National Preparedness Commission estimated that space underpins approximately £450 billion of wider economic activity. We know that we depend heavily on space and we are only growing in that.
+
+We have approximately 12,000 operational satellites in orbit. The estimate is that that will increase to approximately 60,000 by 2030. We are talking about proliferation both on a horizontal and vertical level. But when we are discussing vulnerability, we are looking at the loss of those space systems. As was mentioned earlier, how do we measure those cascading effects across not only the space sector but all the sectors that space impacts? A disruption to a satellite service can propagate and affect several sectors simultaneously. The key questions we are trying to poke at now are: are we designing space systems to withstand disruption for either a short period of time or a period of time that is incredibly relevant—say, when are under attack—or for a longer period of time? Do we have enough contingencies to also allow for continued access to that space service, whether provided by ourselves or by our allies? That is the threat picture that I would paint.
+
+Moving on to the space strategy and how we have addressed that, I would begin by saying that there is a real question of accountability. When we look at space and how a new domain sits across multiple departments, it is really hard to place that responsibility and who is accountable for, say, when a service goes down or is lost. Obviously, we have DBIST, the MoD and even the National Armaments Director Group all trying to work together on the defence elements, but then we are talking about the cascading effects across other departments that are not necessarily waving a space flag or even a defence protect-and-defend flag or mission. That dispersed responsibility can be a strength, but in some ways it is something we have to focus on for cohesivity. In the national space strategy, there is that “one government” approach that is being pitched. Following through and seeing that being implemented would be great, but it is incredibly difficult for a domain such as space, which has the challenges of classification issues, to be able to share that information in a timely manner—we say at “the speed of relevance”—within the UK, but also to our allies, in order to be effective at reconstituting.
+
+Q3 Tanmanjeet Singh Dhesi: Let us move on to hostile activity in space. Mr Marshall, if I can start off with your good self, to what extent are adversaries able and willing to disrupt space-based infrastructure that the UK is heavily reliant on? In answering the question, could you point to some evidence of what we have seen to date?
+
+Will Marshall: Obviously, Ukraine again serves as the best example, which is where very few bespoke satellite systems were taken out or jammed by the Russians. I think that the same would happen for UK capabilities in a situation such as that. In this increasingly hybrid world in which we are living with Russia—hybrid does not do it justice—Russia will take action on systems if they think that they are supporting Ukraine. At Planet, the whole company and me personally are on Russia’s bad actors list and we are constantly trying to ensure that we are resilient against its attacks. The UK cannot assume that it is going to be. That is why I emphasised the proliferative nature of this.
+
+The OneWeb system is a good example of how you get a proliferated system, but we do not have that in the ISR space. In fact, in the ISR domain the UK mainly relies on the US, which is not always there, but the commercial systems can be ready to provide that very quickly. The most important aspect is leaning into these next-generation capabilities, which are by their very nature more resilient and which the UK has not really leant into as yet.
+
+Tanmanjeet Singh Dhesi: I fully hear the point that you have made just now, and previously on sovereign capabilities. We have seen the devastating impact that Starlink being slowed down and restricted for Ukraine has had.
+
+If I can move on to your good self, Ms Hamill-Stewart, what do you think of space-based infrastructure and the threat of disruption to that?
+
+Jessie Hamill-Stewart: We are already seeing attacks on military ground infrastructure. You will be aware of the RAF Fairford incident and other intrusions that we are seeing into ground defence infrastructure in the UK. Granted it is not space yet, but it might be space next.
+
+The Ukraine example that my colleague mentioned is a really good one. It makes me think about the cyber attack against Viasat, which took place just before Russia invaded Ukraine back in 2022. They specifically targeted Viasat’s KA-SAT network to disrupt the communications of the Ukrainian military, because they knew that that is what the Ukrainian military were using to communicate. It put Ukraine on the back foot just before Russia invaded.
+
+Will Marshall: Pre-emptively.
+
+Jessie Hamill-Stewart: Yes, pre-emptively, and with a political motivation. What is even more worrying about that case is that it ended up having wide implications as well. If you are not already aware of them, it ended up impacting thousands of European satellite internet broadband users as well, including critical infrastructure.
+
+Cyber attacks such as that demonstrate that not only is space infrastructure vulnerable but, as the UK becomes more and more involved in these military conflicts, we are already seeing evidence of the UK’s defence and military being targeted in this way—physical access as well as cyber attacks. Why do we worry about physical access when it comes to space? We worry because the ground infrastructure is that central controlling and monitoring aspect of the entire constellation and the other dependent services. The importance of the ground infrastructure of space systems cannot be underestimated. It also happens to be the most physically accessible. If you know where it is, you know where to find it and how to potentially try to target it.
+
+Other things the UK is doing at the moment potentially demonstrate vulnerabilities that could be exploited. One of those that is very well known is the disruption of NATS. If you were trying to get a flight in the last few weeks, you will have been affected because of the air traffic control architecture being disrupted by a tiny—minute—error, which resulted in many flights being disrupted. Somebody told me that Heathrow Airport was chock-a-block with passengers. This is disruption, and cyber attacks on space are especially concerning because when it comes to space, as was mentioned, it has all those dependent industries that could be affected. Airports could also be affected by disruption to space because aeroplanes need GPS to take off and land accurately. But it is most worrying because cyber attacks, especially to space, can demonstrate an approach by a nation state—an adversarial nation state—to try to undermine trust in things working well.
+
+Space is extremely important. We cannot afford for it to be disrupted just to demonstrate what people can do. One of the reasons for that is all the dependent sectors. The finance sector needs the timing that is provided by space services, for example. We are at a critical point where we are extremely dependent on space but are also demonstrating these key vulnerabilities in military architecture, which could then be transferrable to the space domain, which worries me quite a lot.
+
+Tanmanjeet Singh Dhesi: Dr Balm, given what we have just heard, what sort of hostile threats in space should we be most concerned about, both sub-threshold and in the event of conflict?
+
+Dr Julia Balm: It is incredibly important to look at the effects of low-cost agitation, such as spoofing and jamming, and how that can have an outsized effect in the space domain. Certain actors can employ agitation tactics more easily than others. I point to the fact that there are nuclear weapon states and non-nuclear weapon states in space and our space infrastructure is inherently linked to our nuclear infrastructure as well, with C2. The ability to escalate and de-escalate is quite distinct.
+
+I point also to a couple of threats that I am currently watching from the last week or so. On 15 October, Russia’s satellite Kosmos 2612 adjusted its orbital inclination to follow an ICEYE satellite, ICEYE-X36, at approximately 26 metres away from it, which if you know the space domain is incredibly close. This manoeuvring into or across low earth orbit into a coplanar orbit is something that we do not usually see because it is extremely expensive to use fuel on such a manoeuvre. But this has happened recently and it could be a signal of some intention from Russia, or it could amount to something related to a kinetic attack or even an electronic attack.
+
+On Sunday, just yesterday, there was an attempted arson of a SpaceX Starlink base in Lithuania, which mimicked what we saw a couple of weeks ago in Bulgaria and Poland. We talked about space-based infrastructure being under attack, but it is really important to look at the links alongside ground-based segments, where it might be that those low-cost agitation tactics of burning a building that contains those receivers are a way to gain an outsized impact.
+
+Tanmanjeet Singh Dhesi: Mr Marshall, if I can come to you, what do you think we should be most concerned about in terms of hostile threats in space?
+
+Will Marshall: Again, you would have to look at all the systems that the UK relies on and which are most vulnerable to this. At present, the UK is completely reliant on the US for a lot of its intelligence services. The US just turned some of those systems off for Ukraine. It has done that multiple times. The reliance on just that partnership is extreme in the intelligence domain, which is one of the key things that SpaceX is doing, and which is why 80% of Ukraine’s satellite imagery comes from Planet. We have been there every single day for them. The way in which it is different to the Starlink situation is that we work directly with Ukraine. Our contract is with the Ukraine Government, not with the US Government as is the case with Starlink. You have to choose your partners wisely, have systems that are proliferated and have ways of working with multiple actors so that you are resilient. That is possible.
+
+Most of all, you have to invest in systems that are sovereign. I cannot identify the specific ones that are most vulnerable right this second. We could go and do some research and come back to you on what I think are the most vulnerable systems but, generally, the UK has got almost no proliferated architectures that it could leverage today, even though they are readily available from companies that could provide that.
+
+Tanmanjeet Singh Dhesi: That would be very interesting. Please do send that information through. Lastly, may I come back to you, Ms Hamill-Stewart, on how much risk comes from potential cyber attacks aimed at satellite infrastructure?
+
+Jessie Hamill-Stewart: A lot. You can look at the potential implications. There have been a number of attacks, which I included in a research paper I wrote quite a few years ago, and there were attacks that were intercepted where attackers were making their way through ground infrastructure to the important admin management section.
+
+There are many ways in which cyber risks can escalate. If you are worried about satellites in particular, let us take it out of the defence context, and think about a university spin-off or individual organisation that maybe has a CubeSat. There are just a few students. It is a small company. It does not have loads of governance to manage its cyber security. It gets intercepted and an attacker somehow manages to gain control of its satellite. That is something that you really want to worry about, because then they could, in a really worst-case scenario, crash it or collide it with another satellite. Then there are the implications of debris, as Will knows very well.
+
+The cyber risks might sound like they are virtual and a bit science fiction, but there are two points on that. First, they can be cyber physical, and cyber physical threats have been a well-known topic area for many decades. Stuxnet, used in an attack on a nuclear plant many years ago, is one example. But there are also physical implications, such as gradually changing the controls or coming in and understanding how the infrastructure works, which gives you the information to then come back and conduct a stronger attack later.
+
+At the moment, attackers, especially nation state-level attackers, probably have the capabilities to do more disruption than they are doing right now. Therefore, it is something to worry about, because they probably have those capabilities but are just not doing it yet. They have not decided to do it yet.
+
+The other thing I would mention here is that hundreds of cyber attacks on space infrastructure are being reported through platforms such as the CSIS, about which I can provide more information at a later time. There are threats such as ransomware. All these cyber attacks that we are seeing on terrestrial infrastructure—physical attacks on ground stations, for example—are also impacting space. This worries us, because we need it.
+
+Lord Godson: Just in the waning seconds of your presence, Mr Marshall—
+
+Will Marshall: I have a few more minutes, so do not worry too much.
+
+Q4 Lord Godson: Much like the peace talks, you can stop the clocks so we can beat the deadline. You have flagged up the dangers of Ukraine, the Baltics and so on—Russia being the obvious thing—but could you, and indeed your colleagues, just reflect a little more on who the other threats are, and from where? Who are the dark horses? I have just been in Japan and heard about the impact on it from China and so on. I would just like you to reflect in a little more detail on your latest assessment of those dangers.
+
+Will Marshall: I would jump first to China, but also the increasing collaboration with Iran and other countries that might have lower-risk thresholds to take action against systems. At least China has a lot to depend on in space, whereas Iran has very little, so maybe they could use one another and work together in partnership in a way that is pretty destructive.
+
+The West is generally more dependent on its space assets than other countries. Russia, pushed into a corner, may do extreme things such as have been reported about the nuclear weapon capabilities it has. Something such as that going off in space would be extraordinarily destructive for the entire space sector and all the economic and security systems that are dependent on that.
+
+But, actually, I would take this question rather in the direction that Jessie was talking about with cyber. The threats that we are going to see come down the line are going to be primarily AI-enabled cyber threats that exploit vulnerabilities we did not even know were there, just like we are seeing on conventional systems. We are already seeing AI hack out of our containment systems during testing. This is a threat to space and everything else. Just give me a couple of seconds to tell you that the systems that are hacking out, such as Hugging Face, are now co-ordinating between hundreds of agents, and one of the other things they are doing is specialising. Those agents are specialising so that they can pass things off. Co-ordination and specialisation is exactly what distinguished humans from the rest of the animal kingdom and led to our dominance over them. We are at a point where, in the last two years, we sit in Silicon Valley, in the middle of the AI triangle between Anthropic, Google and OpenAI, and we feel in the middle of that—and space has a role to play, by the way, because we can provide satellite data that will up-level AI systems to have physical-world understanding. That can be very helpful for security—but where are we going next?
+
+In the last two years, we have seen 1,000x improvement in the capabilities of LLMs—large language models—that have gone from just being able to roughly say a few sentences to being able, literally a couple of weeks ago, to do Fields Medal-level mathematics overnight. We are going to get another 1,000x in the next two years. We have no idea how to control that, and there are narrow risks to do with cyber threats that we are seeing today—the ability of AI systems to build bioweapons—and we have got to stop them. But we have actually got a more generic control risk that people are just not understanding in the political debate. Everything about AI is about, “Are we going to lose jobs? Are there threats to our cyber security?”, and things like that, but we are facing a much bigger moment. We are facing an existential moment of whether or not we are going to give over control. Alan Turing said that we will inevitably lose control, especially when they start co-ordinating, which is exactly the moment we are at. That was in 1952.
+
+I just say this because space, like every other domain, is going to be attacked by these systems. I would expect that we will see more Hugging Faces that make Hugging Face look like a walk in the park. They could attack our space infrastructure, but they could attack any infrastructure if we do not get a handle on managing AI risk. This Parliament and this country can do stuff about that. The UK’s AI Security Institute can be part of a verification system. We, with our satellite data, can be tracking all of those data centres, to know where to put those on-ground inspections. It is possible to verify AI treaties.
+
+We need clear guardrails, and we need to then actually slow down the pace of development if we are going to be wise with this technology. At the present clip, there is no way we are going to be wise, and we will see open-source technologies doing hacks soon that will shock the world, based on Chinese systems. Those could attack space infrastructure; they could attack any infrastructure. That should be priorities Nos. 1, 2 and 3 for this Parliament until we get it fixed. At the minute there is some sense that we cannot slow down, but it is absolutely necessary to do that. It is the only way to be wise, and the Overton window is changing on that very rapidly. It would have been inconceivable to think about any sort of controls on AI just six months ago in the United States, but that has changed very rapidly. You wait. A few weeks or months from now, we are going to see events that will change the Overton window again, such that it becomes possible to really talk about proper controls on AI.
+
+I agree with Jessie that that is the primary vector you need to be thinking about. Forget nation states; Russia and China are going to be small fry compared with cyber threats because of AI capabilities far more powerful than anything we have dealt with before. That is the trumping consideration for this and every other committee in this House.
+
+The Chair: Thank you for that. Lord Boateng wanted to come in.
+
+Lord Jack of Courance: On that bombshell.
+
+Will Marshall: On that bombshell. Sorry.
+
+Lord Boateng: Yes. I will just return you to the more mundane and prosaic—
+
+Will Marshall: I suppose we can.
+
+Q5 Lord Boateng: It is about an area on which your company is well placed to assist us with. You are headquartered in the United States, you have satellite manufacturing operations in Germany, and you have an office here in London. In the light of that, what is your take on the risks that we should be concerned about to supply chains for the assembly and deployment of satellites? While the sovereign state is of significance, do you see potential for closer co-operation between the UK and the EU in this area? Can we continue to rely on the United States in the way we do and to the extent we have in the past, given where the US is on so many issues at the moment? You referred yourself to the experience you have had in Ukraine. Can you help us with that?
+
+Will Marshall: First, the UK should definitely be working in close collaboration with the EU, its most natural partner on security matters, given the geography. Space is definitely part of that. The UK should really lean into those systems that it could share.
+
+Lord Boateng: In preference to the US.
+
+Will Marshall: It should do both ways. The US and Europe have a huge amount of alignment, especially against emerging threats between Russia, China, Iran and North Korea. We should actually work more with the US. We have already rid our supply chains of any components that are from China or anything like that, but our components come from all over Europe and all over the US. We assemble the satellites both in California and in Germany. Those systems are dependent on supply chains, but those are not the vulnerabilities. The vulnerabilities are: how does the system work and is it vulnerable in space? Are those systems there when you need them? Yes, in that context, the UK should be strong partners with other countries. Again, let us distinguish between the work with other countries. Ukraine lost Starlink because it was getting it via the United States Government. It did not lose Planet because we are working directly with Ukraine. The UK can take a lesson from that.
+
+Lord Boateng: Where do you see the threats to that?
+
+Will Marshall: To our operations?
+
+Lord Boateng: Yes.
+
+Will Marshall: Again, I refer back to the cyber threat—that is the biggest one that we face today, because those things are going to emerge so fast.
+
+Lord Boateng: But you are headquartered in the US. Suppose the US took a view that they did not actually much like what you were doing. You are subject to regulation there. Could they not make life extremely difficult for you, as they have done through the banking sector and in a number of other ways?
+
+Will Marshall: It is a very good question. That is why we have started building up more capacities here in Europe, so that we can provide capabilities to European countries that are independent. We do that with manufacturing; we have ground stations here in the UK and in other countries in Europe; and we have mission control systems here in Europe. What we just did with Sweden, for example, was to build and launch the satellite and then transition it to their control. This is not subject to the US at all. By the way, most of our satellites are not subject to shutter control because they are just lower resolution than the cap. But the point is that you can have your own sovereign systems that are not under the jurisdiction. They are national systems under national jurisdiction.
+
+Lord Boateng: Does our space strategy sufficiently recognise that?
+
+Will Marshall: It moves in that direction, but slowly.
+
+Lord Boateng: In other words, it does not.
+
+Will Marshall: No, it does not, with the necessary urgency. Again, this can happen really fast. The way the US changed the space sector was that NASA started putting 20% of the budget towards new players, 20% of the launch budget—
+
+The Chair: Why have you gone to Germany? You have gone to Germany to manufacture. Is that because Germany has done a similar thing?
+
+Will Marshall: We have been in Germany for 10 years, after we acquired a small company there called RapidEye, and we have our mission control systems there, so we had a technical base to build on. Also, I hate to say it, but they are in the EU and we want to go after EU business; if you are outside the EU, you have a much smaller probability of that. It is still in trade discussions. We obviously are going to put our biggest eggs in the biggest baskets, but we wanted to have an independent capacity to build, launch and operate our satellites. It is not to spite the US that we are continuing to do that. We actually just doubled our manufacturing capacities in the United States as well. There is so much demand from so many countries to have sovereign eyes. When you realise that the US may be backing out and saying, “Hey, you take more ownership”, the first thing you want is more and better eyes on what is going on so you can understand your threat environment, which primarily Europe has relied on the US for, and to be able to more accurately use the systems that you have. Satellites have given Ukraine an information advantage, against a conventional disadvantage. We can provide that very quickly to the UK and the rest of Europe.
+
+Lord Boateng: Dr Balm, I wonder if you can help us with this. This is a defence-related question where you have done so much interesting work. How can we better protect ourselves in the UK in our ground-based infrastructure and assets, both sub-threshold and in possible times of war?
+
+Dr Julia Balm: That is a great question. To tack on to exactly what Will was saying, I think it is important to look at the long pedigree of data-sharing agreements between the UK and the US that have historically existed and continue to exist. The post-Brexit strategy is for the UK to retain its strategic autonomy, but also those transatlantic and European partnerships and how they plug in. My answer to that would actually be that what is really key is diversity as our resilience strategy—that we make sure that we are able to reconstitute our assets, because we have got so many alliance structures bilaterally and multilaterally. There is the brilliant Kensington Treaty between the UK and Germany, and hopefully an MoU is coming out in early 2027 with that. We have got these strong partnerships that allow us to reconstitute our assets relatively quickly.
+
+I guess a short answer on that is that we really have to embed ourselves within these allied structures. We have NATO; there is the “NATO first” posture that was announced with the strategic defence review. But we must make sure that we are at the table when something like the EU Space Act is written, and also for the next EU developments, when the EU Commission is tasking defence developments in Europe. We should be at the table for those conversations to make sure that we are involved in those security architectures.
+
+Lord Boateng: If I can press you on your knowledge of our ground-based infrastructure—where we launch things from, where we hold important technology—to what extent, in your view, is that safe, given what we have seen in recent times: that non-state actors or people operating on behalf of states can create enormous damage in ways that, quite frankly, we did not anticipate?
+
+Dr Julia Balm: On the loss of access to our spaceports, the one that we are investing in with the national space strategy is SaxaVord, which would allow us to reach polar orbits. One of the key risks is that we are no longer really able to reach equatorial orbits with a high-density payload. A really heavy payload would have to be launched through key allies like the US, where Falcon 9 provided us the ability to launch. There is Taiki. We were also planning on Juno and Oberon being launched with Falcon 9, but they are no longer accepting delivery slots post 2028. Losing our ability to access key slots is important. Now, we will be able to access with SaxaVord a certain amount of space infrastructure, but it will not fully reconstitute. The other option is Ariane 6, but that cost is not similar to Falcon. It is actually far more expensive. It is not a reusable rocket—
+
+Will Marshall: And it does not have the capacity.
+
+Dr Julia Balm: No, there really is no alternative at the moment.
+
+Q6 Helen Maguire: I am now going to move on to the UK’s favourite topic: weather—but space weather. The National Risk Register has said that the risk of severe space weather is between 5% and 25%, and that there would be a significant impact. I wondered if you agreed with that assessment and if you could perhaps describe to us what that impact would look like.
+
+Dr Julia Balm: There is some context I can provide. The sun is active for periods of 11 years at a time, and we are currently situated right in the middle of that 11-year cycle. That will be ending by the end of the decade. Because it is so active, it means it is really unpredictable, so the timeline that we get for knowing that there is going to be a geomagnetic storm or radio interference can be from some data released weeks, hours or even 30 minutes before. When it comes to radio frequency interference, we do not really know the impact until it happens.
+
+The event that you are citing would be similar to the Carrington event, which was in 1859 and was the most intense geomagnetic storm on record. We have not faced anything similar to that. Obviously, we did not have a satellite in orbit in 1859, so the effects would be really serious today. The problem now, as I mentioned, is that we are in this active solar flare cycle, and we struggle to be able to attribute whether there is a natural threat or a manmade threat. Say, for example, there is interference in a satellite which impacts atmosphere and atmospheric drag. Can we attribute that necessarily to something that was a hostile activity with hostile intent, or was that something natural? We are seeing that up until the end of 2030.
+
+Helen Maguire: I guess what I wanted to understand a little bit further is the difference between what might happen from space weather and something hostile. You said there could be some similarities. Could you perhaps explain what some of the differences might be as well, and just expand on that slightly?
+
+Dr Julia Balm: I can just give something brief and then I will pass it on. Essentially, it allows for a degree of ambiguity, actually, because it is a similar thing to what happened with Starlink, which was already mentioned by Will, when the loss of service happened in Ukraine. There is a degree of plausible deniability to say, “Oh, well, this is something that we could not predict and had no control over. It was actually a natural impact”. It is hard to verify that. It is like those locks that you put on your baggage when you go to travel, and it dings with a little pop-up when the TSA has opened the lock. We do not have anything on a satellite currently that announces that you have been intentionally jammed or directly attacked, because it is impossible really to dictate whether or not that was a natural impact. I do not know if anybody else wants to speak.
+
+Will Marshall: I would only say that these things are far from academic. During this solar maximum, part of the challenge was that the academic literature in this area did not predict how big it was going to be. It ended up being more than twice as active as the normal 11-year period. They have this 11-year period of activities, but this one went up almost twice as much and no one really predicted that. People were operating their satellites too low because it excites the upper atmosphere and increases drag. I have colleagues that lost two-thirds of their satellites. Two satellite companies lost two-thirds of their satellites in the first year because their propulsion system was not able to keep them above it fast enough, so they got pulled down. It is great that satellites are operating really low because it means they are naturally clearing from a space debris standpoint. It also increases resolution for a given telescope or what have you. A lot of earth imaging systems operate quite low. If you do not predict it, you can really lose fleets of satellites very quickly. None of that was intentional—except if you ascribe free will to the sun. It had a big effect.
+
+Helen Maguire: Further to that point, what can your company do, or what can the UK do, to mitigate against the risks to satellites from adverse space weather?
+
+Will Marshall: The first thing is doing slightly better at the modelling. Since then, we have actually updated some models that do perhaps predict these higher events. The second thing is radiation hardening. For the nuclear weapons potential threat, we really should be leaning at eventually having radiation hardening of commercial systems. Ukraine is fully dependent on very commercial systems. It is not just that they are dependent on space; it is mainly that they are dependent on commercial space. As I said, we are 80% of the imagery being provided for them, and there is something similar with Starlink on the comms side. Those systems are not radiation hardened like the GPS systems against a potential nuclear blast. It is actually not that hard—it is an R&D project—but it is hard to expect the companies to just do that on their own for a hypothetical event that is a geopolitical thing. The country should come in and say, “We will help you with your R&D and share some knowhow on how to do that, so you can integrate that into your systems so that they are less vulnerable at a system level to those radiation events”. That would help both the natural events and things like a nuke explosion in space.
+
+With that, I had better go. Thank you so much. I will leave a few cards here if anyone needs to contact me.
+
+The Chair: Thank you.
+
+Jessie Hamill-Stewart: I will just mention something on the point there regarding whether it is a space weather event or whether it is a cyber event. From the cyber perspective it is much less humiliating to say, “We do not know the source of this problem”. As has been alluded to, the implications of a cyber event can look very similar to space weather. From a cyber perspective, you will often see in the news that companies have encountered some kind of issue, but you will not as often see, “We know that it was a cyber attack. This vulnerability was exploited”. Actually, access to that information about cyber attacks that happen is in itself a major issue.
+
+Q7 Lord Arbuthnot of Edrom: Can I come back to the 5% to 25% chance of a solar flare? The Carrington event, which you mentioned, Dr Balm, was originally classified as a one-in-100-year event, until someone in government realised that it had happened more than 100 years ago—so they reclassified it as a one-in-200-year event. Does the same sort of magical thinking apply to the 5% to 25% chance of there being serious damage from adverse space weather in the risk register? What is that figure based on? It is a wide range in itself, but is it accurate?
+
+Dr Julia Balm: I just briefly caution against adding probability to catastrophe. We need to be quite hesitant about putting percentages behind things like the Carrington event and the Kessler syndrome—quantifying the red line in which we are no longer able to operate in space. Once you have put a number on that, we can walk ourselves close to it. Or once you have quantified or put a statistic next to the Carrington event, then we can relax ourselves and relax our defences against it. I caution against that.
+
+It is very similar actually to deterrence. You do not recognise the structure of deterrence until there is a failure. It is very similar in the sense that we have to experience failures, readjust ourselves, and make sure that we have a degree of risk baked into our portfolios to be able to adapt to them.
+
+Jessie Hamill-Stewart: I would build on that and say that I agree. In trying to put a figure on it and to say when it will happen, any meteorologist will tell you that you cannot predict when a major space weather event will happen. It is hard to predict. Whether it is a space weather event or a cyber attack, whether it has come through the supply chain or it was an error, the impact will be the same because of our dependence on space. Resilience comes from having plans in place and expecting these major catastrophes to happen. What are we going to do when that constellation is knocked out? What are we going to do when we lose GPS or an equivalent or Skynet? Having those resilience plans is really important. You have to expect these attacks to happen.
+
+What are we going to do when it comes to cyber attacks? Are we going to wait for a major cyber attack to happen against Skynet? It would be better to prepare for it and have plans in place that include mapping out those dependent sectors and which sector—manufacturing sectors and wider—will struggle if we see a disruption to space. In the Jaguar Land Rover attack, there was manufacturing that was stopped. People did not have work because they could not keep the processes going because of the cyber attack. Those knock-on effects on the economy are really significant.
+
+One of the ways in which you can be resilient is by recognising that there are lots of capabilities in the UK, in academia especially, which does not get mentioned enough in the context of cyber in the UK Space Strategy. There are a lot of capabilities in the UK, in cyber and in space, which could be leveraged and applied to the defence domain or could be pivoted into space and applied to helping to secure space and also help with the radiation hardening and other aspects that we have just heard about. But there needs to be more support directly from the Government for individual companies to gain things such as security clearance and understand what space even is. This could help to grow the space cyber and space security ecosystem in the UK. That is well needed.
+
+The Chair: Perhaps you could write to us as a committee to cover the point you just raised and elaborate on that point about how we can use academia more.
+
+Q8 Lord Sedwill: I just have a really quick question, because you have answered most of what we were going to cover in this section. We have heard from you about distributed approaches to satellites and all the changes we ought to make, potentially in the future, on cyber space and all the rest of it. But, just briefly, how vulnerable is the existing estate, if you like, of satellites? Can they be retrofitted to have any of the resilience capabilities you have been describing?
+
+Jessie Hamill-Stewart: I am glad that you have mentioned that, because one of the elephants in the room is the fact that when you talk about securing space, especially from the cyber perspective, and you talk about AI and the mechanisms being added to satellites today and hardening them more for weather events, this completely disregards all of the thousands of satellites that are already up there in orbit—travelling sometimes at thousands of miles per hour—that you would have to be very clever to gain physical access to and to retrofit any kind of measures on to. One of the big vulnerabilities of space, and satellites in particular, is that you cannot walk around a satellite in the same way as you would a water treatment centre. You cannot check for blinking lights and you definitely cannot add lots of things on to them. Even with the satellites that are being developed and deployed now there are limits. They cannot be extremely heavy. That is why there are discussions about, for example, orbital data centres and how they would be deployed, because currently there is still a limit on the compute that can exist on satellites in space.
+
+There are many vulnerable satellites already, and the threats and risks we are discussing in this room today will no doubt change in another 10 or 15 years. It could be that AI evolves in this major way, which I agree with Will on, or it could be another threat that emerges. Threats always emerge.
+
+For satellites that are being deployed or developed now, there are more abilities to upload software and do more with them but, for the satellites that are already up there in orbit, you just have to try to detect. It goes back to the point about resilience—what are you going to do when they are disrupted?—rather than trying to rely on the measures that you adopted to ensure you had done everything you could to stop them from being intercepted. At the end of the day, we cannot stop a space weather event from affecting them, so having the resilience in place and knowing how society would continue without critical space systems is a really important aspect of this conversation.
+
+Dr Julia Balm: Might I just quickly add, and this goes back to the first question about looking at the space strategy? One of the four key technology areas that was identified there was in-orbit assembly and manufacturing. We are some years away from manufacturing as a component, but one large component of ISAM is rendezvous and proximity operations—RPO—which allows us not to necessarily walk around satellites but be able to adjust and update them. There is development of gas stations in orbit, but manufacturing moving into orbit is a natural development and it was a good step in the right direction to see that recognised in the space strategy.
+
+Lord Sedwill: I can see that it should be possible from now on, noting the physical limitations, to be able to put satellites up that cover all our requirements and have the ability to have software et cetera updated and are therefore designed to be more resilient. Recognising the limits on that, how big a task would it be to either retrofit, update or replace the functions that we already rely upon for satellites that we have been putting up there for decades? It seems to me that we can put up Gucci new ones that work very well and are more resilient. But what about the old ones? How big a task would it be to replace them or retrofit them? Is it even conceivable?
+
+Jessie Hamill-Stewart: As has been mentioned, we are not there yet with this technology. Think about the scale of satellites, then think about how many satellites there are, and then you have to position them and get to each one. It is not like going up to a car parked in a car park; it is like going around the UK and trying to find your car. Where each satellite is positioned, randomly—
+
+Lord Sedwill: To cut to the chase, it is inconceivable?
+
+Jessie Hamill-Stewart: The academic mind would say that to retrospectively fit measures on to all the satellites is not entirely inconceivable but extremely challenging.
+
+Lord Sedwill: And therefore presumably extremely costly. What I am trying to get to is: we can talk about what we should do in the future, but we have an existing estate that we have to consider on which we are completely dependent. Your earlier points about war-gaming, resilience and what happens when they are knocked out were really well made, because if we cannot do anything about them, that dependence will continue for the foreseeable future. Is that correct?
+
+Jessie Hamill-Stewart: Absolutely.
+
+Dr Julia Balm: On costs, it was announced that £7.8 billion was attached to the space strategy, but much of that was already pre-committed funds packaged within it. That is a relatively modest budget. If we compare ourselves to where Germany is, it announced €35 billion to be spent by that 2030 deadline. The lion’s share of investment in the UK will be spent between 2030 and 2035. To some degree, there is an assumption that we will have this large booming industry that will be able to deliver between 2030 and 2035 and will be able to be kept up until 2030, when that delivery is made.
+
+Lord Sedwill: A great deal is going to happen between 2030 and 2035, it would seem, across almost everything for which this committee has oversight responsibility. Clearly, it is going to be a golden period. Can I just quickly ask, with the machinery of government changes, mergers and all that, how well are we set up, institutionally, to deliver this?
+
+Dr Julia Balm: It is difficult. There has been a move with the “one government” approach, but I struggle to identify the right person to go to either within the Government or even MoD Main Building. The seats do not remain hot for long, to put it kindly. It is something that has been changing around quite a bit.
+
+There has been a lot of positive direction when we look at the National Armaments Director Group and how Rupert Pearce has a space background, coming from Inmarsat. There have been movements in the right direction, but being able to see them pay off will take a slightly longer time. I am optimistic about the “one government” approach and its cohesivity, but I would cite that the UK Space Agency moved back into the Department for Science, Innovation and Technology in April, then got moved into DBIST shortly after, and now there is a co-director model. That has all happened within a relatively small timeframe in which there have been reshuffles of key people and positions within that organisation itself—and that is just the UK Space Agency.
+
+There are positive steps in the right direction when we talk about cohesivity, but it is an incredibly difficult task to actually deliver on. Much of the space sector in the UK is either backed by mavericks or it is personality-based, where somebody really cares about a specific type of development in the domain and carries it forward.
+
+Lord Sedwill: That is really helpful.
+
+Jessie Hamill-Stewart: I would echo that. One of the exercises that CySpace did last year was that we went around and did a capability-mapping exercise looking at different capabilities all around the UK, from down in Cheltenham all the way up to Scotland and Northern Ireland. In each of those regions we looked at what their capabilities are and what we have in order to deliver space, space security and space cyber in that specific region. One of the problems that kept on coming up again and again was the fragmentation and lack of clear guidance. I am not necessarily asking you to create a set of requirements specific to space but just to provide a cohesive clear idea of what space security is and what is needed to ensure it, and also guidance for how companies can participate in the space system. In order to deliver this, you need more manpower, as it were, or womanpower, but you also need it not just within government; you need to have that collaboration.
+
+If I look at cyber security in space and the current collaboration, it is not extensive. From what I see across government and industry, the information flow is not extensive. Therefore, mechanisms are needed that allow industry to support this.
+
+There are capabilities and there are certain barriers that get in the way of, for example, smaller companies engaging and supporting such strategies. One of those is security clearances and adhering to the different security standards in defence. If you lower those barriers and make it easier for companies to work with the Government to help to deliver on the strategy and these suggestions we are making, then you will realise that we have significantly more capacity than you might think, rather than relying solely on the brilliant UK Space Agency team alone. It needs to be a collaborative effort, and that comes with more funding, probably, to incentivise people to work together, but also more infrastructure. I am sure we will hear more of that in a second in relation to the trade bodies. We have capacity, but there needs to be more collaboration as well.
+
+Lord Sedwill: That is great. Thank you very much.
+
+The Chair: I just want to revisit the previous point about the systems that are out there and, as Lord Sedwill said, may have been up there for decades. We have legacy systems and computing software that runs half of all government departments. These are satellites, or networks of satellites, that are more vulnerable to attack. Has an audit been done by the Government to establish what that legacy estate looks like and what needs to be done to update or upgrade it to make it more secure? Does either of you have a feel for that?
+
+Jessie Hamill-Stewart: I do not have that, but I would be happy to try to find it. This demonstrates one of the barriers of collaborating with and gaining data from the Government. I would need to be cleared to a certain level even to have that conversation.
+
+The Chair: It is like doing an audit of what is out there and understanding where the dependencies are and so on.
+
+Jessie Hamill-Stewart: I am happy to include that when I write back about the academia. I will do as much as I can to understand whether an audit has taken place.
+
+The Chair: Thank you in advance for that. Thank you both, and thanks to Will in his absence for his participation as well. We really appreciate it. It has been an excellent session and very informative.

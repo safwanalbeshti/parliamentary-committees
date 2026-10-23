@@ -1,0 +1,326 @@
+{
+  "schema_version": 1,
+  "source_id": 18159,
+  "source_sha256": "acd1d87be81c2d125eb6e65e172256d688871a858e963f48e0e5760126136f0b",
+  "title": "Industry on the Defence Investment Plan: welcome direction but urgent delivery gaps",
+  "label": "20 October 2026 · One-off session on the Defence Investment Plan",
+  "summary": "Industry leaders welcomed the Strategic Defence Review’s direction and the Defence Investment Plan’s focus on autonomy, AI and resilience, but said the DIP lacks the 10-year funding detail and firm programmes industry needs to invest, grow capacity and retain firms. SMEs face particular barriers: slow contracting, weak engagement, unclear SME definitions, security-clearance problems and limited help from the Defence Office for Small Business Growth. Witnesses urged clearer multi-year funding paths to 3–3.5% of GDP, faster procurement, stronger skills programmes and better use of international procurement bodies.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Mr Tanmanjeet Singh Dhesi",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Lincoln Jopp",
+      "name": "Lincoln Jopp",
+      "role": "Member of the Defence Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Emma Lewell",
+      "name": "Emma Lewell",
+      "role": "Member of the Defence Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Ian Roome",
+      "name": "Ian Roome",
+      "role": "Member of the Defence Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Jesse Norman",
+      "name": "Jesse Norman",
+      "role": "Member of the Defence Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Michelle Scrogham",
+      "name": "Michelle Scrogham",
+      "role": "Member of the Defence Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Fred Thomas",
+      "name": "Fred Thomas",
+      "role": "Member of the Defence Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Kevin Craven",
+      "name": "Kevin Craven",
+      "role": "CEO, ADS (defence and aerospace trade body)",
+      "kind": "witness"
+    },
+    {
+      "label": "Julian David",
+      "name": "Julian David OBE",
+      "role": "CEO, techUK (technology industry body)",
+      "kind": "witness"
+    },
+    {
+      "label": "Arnab Dutt",
+      "name": "Arnab Dutt",
+      "role": "Non-Executive Director, Federation of Small Businesses (procurement & social value lead)",
+      "kind": "witness"
+    },
+    {
+      "label": "Stephen Phipson",
+      "name": "Stephen Phipson",
+      "role": "CEO, MakeUK (manufacturing trade body)",
+      "kind": "witness"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "DIP",
+      "definition": "Defence Investment Plan: the government’s published plan for defence spending and priorities."
+    },
+    {
+      "term": "SDR",
+      "definition": "Strategic Defence Review: the high-level rethink of UK defence priorities that preceded the DIP."
+    },
+    {
+      "term": "MOD",
+      "definition": "Ministry of Defence: the government department responsible for defence policy and procurement."
+    },
+    {
+      "term": "SME",
+      "definition": "Small or medium-sized enterprise: smaller businesses often critical to defence supply chains."
+    },
+    {
+      "term": "NAD",
+      "definition": "National Armaments Director: the senior MOD official coordinating armaments and procurement."
+    },
+    {
+      "term": "DSRB",
+      "definition": "Defence, Security and Resilience Bank: proposed UK vehicle to finance defence capacity (subject to DFIS decisions)."
+    },
+    {
+      "term": "MDM",
+      "definition": "Multilateral Defence Mechanism: pooled procurement effort with partners like the Netherlands, Poland, Finland."
+    },
+    {
+      "term": "NSPA",
+      "definition": "NATO Support and Procurement Agency: NATO procurement and logistics agency that the UK uses but could use more."
+    },
+    {
+      "term": "CDEL / RDEL",
+      "definition": "Capital DEL and Resource DEL: government budget categories for investment and day-to-day spending."
+    },
+    {
+      "term": "SovAI",
+      "definition": "UK Sovereign AI Fund: government initiative to back domestic AI capabilities."
+    },
+    {
+      "term": "Commercial X",
+      "definition": "A rapid procurement/testbed approach the MOD uses to buy faster and involve SMEs."
+    },
+    {
+      "term": "Defence Office for Small Business Growth",
+      "definition": "MOD office intended to help SMEs navigate defence contracting; currently small and not yet fully operational."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Direction is welcome, but detail is missing",
+      "takeaway": "Industry supports the DIP’s shift to autonomy, AI and readiness, but needs a detailed 10-year, funded programme to invest.",
+      "turns": [
+        {
+          "speaker": "Lincoln Jopp",
+          "text": "You welcomed the SDR and DIP direction. Can you give concrete examples where the DIP has turned into real orders or behaviour changes?"
+        },
+        {
+          "speaker": "Kevin Craven",
+          "text": "We welcome the pivot to integrated systems, autonomy and AI, and rapid procurement has happened—£1.4bn for defence AI and some rapid tech buys—but the DIP focuses granularity on the first four years and leaves the 10-year picture vague."
+        },
+        {
+          "speaker": "Julian David",
+          "text": "Tech members expected more orders, especially for SMEs. Our surveys show declines, funding delays hit most firms, and many are reassessing investment or recruitment for defence work."
+        },
+        {
+          "speaker": "Kevin Craven",
+          "text": "Equipment spend actually fell by £5bn to March 2026 versus the prior year—industry sees rhetoric, but orders are hard to pin down for long-term investing."
+        },
+        {
+          "speaker": "Stephen Phipson",
+          "text": "There are pockets of change—energetics, cheap one-way effectors, drones—bringing non-traditional suppliers in. But these are small compared with the scale the DIP implies."
+        },
+        {
+          "speaker": "Lincoln Jopp",
+          "text": "So, strategic intent yes, but not enough medium-term certainty for big industrial investment?"
+        },
+        {
+          "speaker": "Kevin Craven",
+          "text": "Exactly. Intent isn’t the same as an investable, funded plan that lets firms scale production lines and skills over a decade."
+        }
+      ]
+    },
+    {
+      "title": "SMEs still struggle to access MOD opportunity",
+      "takeaway": "SMEs face visibility, contracting, payment and clearance barriers; the SME office exists but is under-resourced.",
+      "turns": [
+        {
+          "speaker": "Arnab Dutt",
+          "text": "The DIP is welcome but high-level. Most small firms don't use pipeline documents to find contracts—only 13% do. 62% say finding public opportunities is very difficult."
+        },
+        {
+          "speaker": "Lincoln Jopp",
+          "text": "Has the MOD’s SME hub helped?"
+        },
+        {
+          "speaker": "Arnab Dutt",
+          "text": "Engagement has been very sparse. Promised regular contact hasn’t materialised; many SMEs that tried working with MOD say they won’t again because of systemic barriers."
+        },
+        {
+          "speaker": "Kevin Craven",
+          "text": "Some primes have improved—Lockheed Martin, BAE, Babcock are cited for better supplier terms—but progress is patchy and depends on the primes' own certainty."
+        },
+        {
+          "speaker": "Julian David",
+          "text": "MOD uses a non-standard SME definition and SMEs are being hit by changes in security-clearance sponsorship; firms have lost hundreds of clearances and are reapplying."
+        },
+        {
+          "speaker": "Jesse Norman",
+          "text": "What do you want from the Defence Office for Small Business Growth?"
+        },
+        {
+          "speaker": "Kevin Craven",
+          "text": "It should be far more than signposting: scale it to the staff numbers proposed, publish best practice (like Commercial X) and actively champion SMEs across MOD procurement."
+        },
+        {
+          "speaker": "Stephen Phipson",
+          "text": "They are meant to reach full operational capability by year-end. A single front door is a good idea, but it must advocate and measure impact, not just show-and-tell."
+        }
+      ]
+    },
+    {
+      "title": "Money matters: backloading, efficiency claims and the 3% target",
+      "takeaway": "Industry needs a funded multi-year path to 3–3.5% GDP now; backloading and efficiency-dependent funding undermine investment and jobs.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "The DIP backloads investment after 2030 and relies on £15bn partly from efficiency savings. Can industry bring spending forward if needed?"
+        },
+        {
+          "speaker": "Kevin Craven",
+          "text": "You can’t switch on production overnight. With advance notice we can build capacity, but new production lines take 2–4 years and need investable certainty now."
+        },
+        {
+          "speaker": "Ian Roome",
+          "text": "If the next spending review fails to give a funded path to 3% of GDP, will industry still invest?"
+        },
+        {
+          "speaker": "Stephen Phipson",
+          "text": "No. Firms need certainty before they commit to factories and major programmes. The DIP gives themes but not the funded programmes that persuade investors."
+        },
+        {
+          "speaker": "Kevin Craven",
+          "text": "On jobs: ADS estimates an extra 50,000 jobs at 3% and another 85,000 by 2035 at 3.5%. Those are real economic benefits tied to the funding path."
+        },
+        {
+          "speaker": "Julian David",
+          "text": "Delays create a learned behaviour of not investing here. Capital goes where there is clarity—US and European markets look more attractive right now."
+        },
+        {
+          "speaker": "Chair",
+          "text": "So you want a clear path to 3.5% now, not delayed into a future spending review?"
+        },
+        {
+          "speaker": "Kevin Craven",
+          "text": "Yes. A firm, multi-year, funded signal to industry and allies is essential to maintain capacity, exports and allied confidence."
+        }
+      ]
+    },
+    {
+      "title": "Skills, costs and industrial competitiveness",
+      "takeaway": "The UK has engineering talent and manufacturing capacity, but skills gaps, high costs and slow infrastructure block conversion and retention.",
+      "turns": [
+        {
+          "speaker": "Michelle Scrogham",
+          "text": "Defence inflation is running above general inflation. Are workforce, supply chain uncertainty and the wider investment environment the drivers?"
+        },
+        {
+          "speaker": "Kevin Craven",
+          "text": "Yes. Plus policy choices like steel tariffs and other business costs hurt competitiveness. Government can help with skills and the business environment."
+        },
+        {
+          "speaker": "Stephen Phipson",
+          "text": "The big issue is vocational skills and FE capacity. SMEs struggle to find colleges to place apprentices because apprentice funding hasn’t been reformed since 2016."
+        },
+        {
+          "speaker": "Julian David",
+          "text": "Tech skills are sought after and infrastructure (data centres, connections) is slow and costly here—planning delays mean firms invest elsewhere."
+        },
+        {
+          "speaker": "Michelle Scrogham",
+          "text": "Could we repurpose automotive factories as Germany has?"
+        },
+        {
+          "speaker": "Stephen Phipson",
+          "text": "Yes—automotive companies want to help, and capacity exists, but they need clear programmes to decide where to invest."
+        },
+        {
+          "speaker": "Michelle Scrogham",
+          "text": "Have you seen attacks on defence execs affecting the sector?"
+        },
+        {
+          "speaker": "Kevin Craven",
+          "text": "Yes. There’s been an escalation from protesting premises to targeting individuals. That harms morale and could deter people and investors."
+        }
+      ]
+    },
+    {
+      "title": "Finance, AI and international instruments",
+      "takeaway": "Private finance can help, but DFIS must make defence investable; MoD should use NATO procurement more and align AI/tech funds to defence needs.",
+      "turns": [
+        {
+          "speaker": "Fred Thomas",
+          "text": "What should the Defence Finance and Investment Strategy clarify to unlock private capital?"
+        },
+        {
+          "speaker": "Kevin Craven",
+          "text": "It must show investable markets, sensible risk-sharing, and SME finance routes for working capital, bonding and insurance; defence infrastructure deals are attractive to private finance."
+        },
+        {
+          "speaker": "Stephen Phipson",
+          "text": "Series B / growth-stage capital is a UK weakness. Start-up funding exists, but patient domestic capital to scale factories is thin; many deals go to US investors."
+        },
+        {
+          "speaker": "Fred Thomas",
+          "text": "How current is the DIP on AI and emerging tech? Is Government procurement keeping pace?"
+        },
+        {
+          "speaker": "Julian David",
+          "text": "The DIP needn’t chase every model. But Defence must move to software-first procurement and secure compute/comms so kit can be upgraded. SovAI and other funds exist, but they aren’t obviously tied to defence needs."
+        },
+        {
+          "speaker": "Jesse Norman",
+          "text": "What about the UK definition of a ‘UK company’—how should sovereignty be judged?"
+        },
+        {
+          "speaker": "Julian David",
+          "text": "Define it by capability, control and choice—what we call 'confident sovereignty'—not merely where a company is registered. That protects supply without blanket protectionism."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Final quick point: why isn't the MOD using the NATO Support and Procurement Agency more?"
+        },
+        {
+          "speaker": "Kevin Craven",
+          "text": "We used to be the 5th largest user of NSPA; now we're 8th while NSPA budgets have tripled. The UK should use it more; it helps scale procurement and access allies’ buying power."
+        },
+        {
+          "speaker": "Stephen Phipson",
+          "text": "We don't need another procurement agency; better use of existing NATO mechanisms and merging finance vehicles (DSRB/MDM) where sensible would avoid duplication."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you all. In short: the DIP sets a welcome direction, but industry needs funded, granular, multi-year plans, clearer engagement with SMEs, faster procurement, stronger skills and better use of international instruments."
+        }
+      ]
+    }
+  ]
+}

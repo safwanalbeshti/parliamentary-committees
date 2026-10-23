@@ -1,0 +1,286 @@
+{
+  "schema_version": 1,
+  "source_id": 18156,
+  "source_sha256": "ea6eaca279ddeb7d3b763e76a65b7bdad2fede00a27250197f97adf2d566f7ab",
+  "title": "Who should own and run water? Regulation, debt and the case for public control",
+  "label": "Water sector reform · Ownership, finance & regulation",
+  "summary": "The Committee questioned experts about 1989 privatisation, the long-run effect of regulation and finance on service, and alternatives—public, mutual or mixed ownership and new procurement models. Witnesses agreed the sector needs large investment and better management, but disagreed on whether ownership or regulation matters more: industry witnesses stressed improved treatment and that strong strategy, regulation and funding matter most; academics argued private ownership has extracted large sums, raised borrowing costs and contributed to under‑investment, so public ownership or stronger public control merits serious consideration.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Alistair Carmichael",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Dr David Lloyd Owen",
+      "name": "Dr David Lloyd Owen",
+      "role": "Managing Director, Envisager",
+      "kind": "witness"
+    },
+    {
+      "label": "Hugh Goldsmith",
+      "name": "Hugh Goldsmith",
+      "role": "Visiting Professor, College of Europe; former head, Water and Waste Management Division, European Investment Bank",
+      "kind": "witness"
+    },
+    {
+      "label": "John Abraham",
+      "name": "John Abraham",
+      "role": "Chief Operating Officer for Industrial Water and Energy, Veolia (UK & Nordics)",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Marine Colon",
+      "name": "Dr Marine Colon",
+      "role": "Lecturer, AgroParisTech; researcher on French concession contracts",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Klaas Schwartz",
+      "name": "Professor Klaas Schwartz",
+      "role": "Professor of Water Services Governance, IHE Delft Institute for Water Education",
+      "kind": "witness"
+    },
+    {
+      "label": "David Henderson",
+      "name": "David Henderson",
+      "role": "CEO, Water UK (trade body for UK water companies)",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor David Hall",
+      "name": "Professor David Hall",
+      "role": "Visiting Professor, University of Greenwich; Public Services International Research Unit",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Ewan McGaughey",
+      "name": "Professor Ewan McGaughey",
+      "role": "Professor of Law, King's College London",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor David Saal",
+      "name": "Professor David Saal",
+      "role": "Professor of Microeconomics, Loughborough University",
+      "kind": "witness"
+    },
+    {
+      "label": "Sarah Bool",
+      "name": "Sarah Bool",
+      "role": "Member of Parliament, Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Sarah Dyke",
+      "name": "Sarah Dyke",
+      "role": "Member of Parliament, Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Terry Jermy",
+      "name": "Terry Jermy",
+      "role": "Member of Parliament, Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Josh Newbury",
+      "name": "Josh Newbury",
+      "role": "Member of Parliament, Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Henry Tufnell",
+      "name": "Henry Tufnell",
+      "role": "Member of Parliament, Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Ofwat",
+      "definition": "England and Wales water industry regulator that sets price limits and service conditions."
+    },
+    {
+      "term": "RCV (Regulatory Capital Value)",
+      "definition": "A regulator’s accounting measure of the value of the water company’s assets used to set allowed returns and prices."
+    },
+    {
+      "term": "Glas Cymru",
+      "definition": "The not‑for‑profit company model used by Welsh Water where surplus is reinvested or rebated to customers."
+    },
+    {
+      "term": "PFI (Private Finance Initiative)",
+      "definition": "A contract model where the private sector builds and operates an asset and is paid over time by the public sector."
+    },
+    {
+      "term": "EIB",
+      "definition": "European Investment Bank, a major source of long-term infrastructure lending in Europe."
+    },
+    {
+      "term": "TotEx",
+      "definition": "Total expenditure measure combining capital (CapEx) and operating (OpEx) costs used by regulators to set allowances."
+    },
+    {
+      "term": "Special administration",
+      "definition": "A legal process to stabilise a failing utility and transfer it to a new owner or operator while protecting service."
+    },
+    {
+      "term": "DPC (Direct Procurement for Customers)",
+      "definition": "A model where the regulator arranges financing and contracts for major projects on customers' behalf, rather than the water company."
+    },
+    {
+      "term": "Public Works Loan Board (PWLB)",
+      "definition": "UK government facility that lends to public bodies at low rates for infrastructure projects."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Why was water privatised and what went wrong?",
+      "takeaway": "Privatisation aimed for efficiency and private finance, but shifting regulatory priorities and financing choices undermined long‑term maintenance.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We’ll start at 1989. What problem was privatisation meant to solve?"
+        },
+        {
+          "speaker": "Hugh Goldsmith",
+          "text": "The White Paper promised efficiency, innovation and private finance—plus broad share ownership. It aimed to free investment from the public balance sheet."
+        },
+        {
+          "speaker": "John Abraham",
+          "text": "Before privatisation many assets were over‑designed and underfunded. Private money allowed big upgrades—especially to sewage treatment in the 1990s."
+        },
+        {
+          "speaker": "Dr David Lloyd Owen",
+          "text": "Privatisation wasn’t the only issue; regulation mattered. After 2000 regulators focused on keeping bills low. Operating spend and maintenance stayed flat while £200 billion of assets were added."
+        },
+        {
+          "speaker": "Chair",
+          "text": "So initial gains on treatment and efficiency were real, but later choices—debt, returns and weak maintenance—left problems."
+        }
+      ]
+    },
+    {
+      "title": "Debt, returns and the regulatory model",
+      "takeaway": "Regulation, borrowing patterns and corporate ownership—not just public vs private—shaped incentives that increased debt and reduced maintenance.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "A lot of investment came from debt. How did the financing model create problems?"
+        },
+        {
+          "speaker": "Hugh Goldsmith",
+          "text": "Companies started debt‑free but used the RCV model that passed inflation risk to consumers. That encouraged debt funding rather than fresh equity for assets."
+        },
+        {
+          "speaker": "Dr David Lloyd Owen",
+          "text": "Credit ratings shifted. Ofwat accepted higher gearing; private equity then levered up companies—Thames was geared extremely high via complex vehicles."
+        },
+        {
+          "speaker": "Professor Ewan McGaughey",
+          "text": "Since privatisation roughly £85bn has gone to shareholders; bondholders have also taken large sums. That cash left the system and could have funded upgrades."
+        },
+        {
+          "speaker": "Professor David Hall",
+          "text": "Measured differently, equity on the books is actually down in real terms since privatisation—there hasn’t been net new equity investment into assets."
+        },
+        {
+          "speaker": "David Henderson",
+          "text": "Regulation sets allowed returns and the cost of debt that bills can cover. Cunliffe’s review says strategy, strong regulation and money are the three essentials—whatever the ownership."
+        }
+      ]
+    },
+    {
+      "title": "Different UK models: Wales and Scotland",
+      "takeaway": "Glas Cymru (Wales) and Scottish Water show alternatives: not‑for‑profit or public ownership change incentives, but performance still depends on regulation and governance.",
+      "turns": [
+        {
+          "speaker": "Henry Tufnell",
+          "text": "Is Glas Cymru (Welsh Water) well financed and accountable?"
+        },
+        {
+          "speaker": "Dr David Lloyd Owen",
+          "text": "Glas Cymru reduced gearing and improved finances, but performance metrics are mixed. Its governance—members invited to meetings—is not highly representative."
+        },
+        {
+          "speaker": "Hugh Goldsmith",
+          "text": "EIB lending helped Welsh Water historically; access to long‑term amortising loans matters. If public banks can step in, that helps finance at lower cost."
+        },
+        {
+          "speaker": "Dr David Lloyd Owen",
+          "text": "Scottish Water is publicly owned and funded; it outperforms on some metrics and pays lower interest, but it faces its own regional challenges."
+        },
+        {
+          "speaker": "John Abraham",
+          "text": "Separating operation and maintenance through long concessions or PFIs can deliver strong performance—Scotland has examples where ring‑fenced PFIs worked well."
+        }
+      ]
+    },
+    {
+      "title": "Lessons from France, the Netherlands and beyond",
+      "takeaway": "No single model always wins: France uses local public owners with private concessions; the Netherlands has public ownership of shares with autonomous utilities—both show strong outcomes when local accountability and finance options exist.",
+      "turns": [
+        {
+          "speaker": "Sarah Bool",
+          "text": "Marine, explain the French concession model briefly."
+        },
+        {
+          "speaker": "Dr Marine Colon",
+          "text": "Local governments own systems and choose operation: either a public operator or a private concession. Contracts set penalties and service standards; local capacity is crucial."
+        },
+        {
+          "speaker": "Professor Klaas Schwartz",
+          "text": "In the Netherlands utilities are private companies but owned by municipalities or provinces; they’re autonomous but public shareholders keep tariff and service focus. Tariffs have risen as infrastructure needs increase."
+        },
+        {
+          "speaker": "Josh Newbury",
+          "text": "Do citizens engage directly in the Netherlands?"
+        },
+        {
+          "speaker": "Professor Klaas Schwartz",
+          "text": "Not much: trust is high so few sign up to customer councils. The utilities collaborate regionally—for example, shared labs—and borrow cheaply because of public ownership of shares."
+        },
+        {
+          "speaker": "Dr Marine Colon",
+          "text": "In France remunicipalisations (e.g. Paris, Montpellier) were driven by demand for local control and transparency; staff protections ease transitions."
+        }
+      ]
+    },
+    {
+      "title": "Fixes, special administration and the ownership debate",
+      "takeaway": "Experts agreed the sector needs big investment and better planning; they disagreed sharply about whether public ownership is the answer or if fixing regulation and procurement is enough.",
+      "turns": [
+        {
+          "speaker": "Sarah Dyke",
+          "text": "Cunliffe recommended 88 reforms. Will that solve the core problems?"
+        },
+        {
+          "speaker": "David Henderson",
+          "text": "Cunliffe is strong: start with clear government strategy, strengthen regulation, and ensure funding—public or private money must flow to the priorities identified."
+        },
+        {
+          "speaker": "Professor Ewan McGaughey",
+          "text": "Ownership matters: private owners have extracted billions and face higher borrowing costs; public ownership could save money and let us set statutory public purposes."
+        },
+        {
+          "speaker": "Professor David Hall",
+          "text": "Scotland shows public ownership can lower finance costs and increase investment per household. Also, the public want public ownership—polls show roughly 80% support."
+        },
+        {
+          "speaker": "Professor David Saal",
+          "text": "The question isn’t simple. We need catchment‑level planning, correct incentives and a regulator that supervises asset condition—not just more econometric models that fail to reflect local differences."
+        },
+        {
+          "speaker": "Professor Ewan McGaughey",
+          "text": "Special administration is workable: the law allows a transfer to a new owner—private or public—and if shareholders have wrecked a company, compensation could be minimal. The scare stories about impossibly large buyouts are often exaggerated."
+        },
+        {
+          "speaker": "Chair",
+          "text": "To finish: there’s no easy answer. The Committee will weigh whether to recommend stronger public control, changes to regulation, new procurement for operations, or a mix of these approaches."
+        }
+      ]
+    }
+  ]
+}

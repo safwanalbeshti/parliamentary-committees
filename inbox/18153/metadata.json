@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18153,
+  "activity_id": 39081,
+  "document_id": 308043,
+  "meeting_date": "2026-10-19",
+  "meeting_date_display": "19 October 2026",
+  "publication_date": "2026-10-22T11:10:13",
+  "title": "Space resilience",
+  "committee": "National Security Strategy (Joint Committee)",
+  "committees": [
+    {
+      "id": 111,
+      "name": "National Security Strategy (Joint Committee)",
+      "house": "Joint"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9937,
+      "title": "Space resilience",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Stephanie Ayres",
+      "role": "Head of Policy",
+      "organisation": "UKspace"
+    },
+    {
+      "name": "Robert Atchison",
+      "role": "Managing Director",
+      "organisation": "ClearSpace UK"
+    },
+    {
+      "name": "Elizabeth Seward",
+      "role": "CEO",
+      "organisation": "Supersharp"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Elizabeth Seward",
+    "Stephanie Ayres",
+    "Robert Atchison",
+    "Baroness Tyler of Enfield",
+    "Lord Jack of Courance"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18153/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18153",
+  "source_sha256": "6aff270890ad11af0dda31239f4fbc337d1b48a55376fc48909ba0f6ad93f3ff",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

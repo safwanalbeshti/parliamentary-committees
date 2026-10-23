@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18160,
+  "activity_id": 38983,
+  "document_id": 308103,
+  "meeting_date": "2026-10-20",
+  "meeting_date_display": "20 October 2026",
+  "publication_date": "2026-10-22T16:27:59",
+  "title": "Budget 2026",
+  "committee": "Treasury Committee",
+  "committees": [
+    {
+      "id": 158,
+      "name": "Treasury Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10011,
+      "title": "Budget 2026",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Head of Economics",
+      "organisation": "Trades Union Congress"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chief Economist",
+      "organisation": "Confederation of British Industry"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Government Affairs Director",
+      "organisation": "Federation of Small Businesses"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Dr Tily",
+    "Louise Hellem",
+    "David Hale",
+    "Ms Minns",
+    "Dame Harriett Baldwin",
+    "John Glen",
+    "Bobby Dean",
+    "Catherine West",
+    "Chris Coghlan",
+    "Thank you very much indeed to our witnesses"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18160/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18160",
+  "source_sha256": "cdc0b1355c6d125db0bbc4ececdaf5c5f7b7d1ae7252c79c49ea5d1bba7c2f6c",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

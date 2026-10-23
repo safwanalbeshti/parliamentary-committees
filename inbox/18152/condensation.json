@@ -1,0 +1,284 @@
+{
+  "schema_version": 1,
+  "source_id": 18152,
+  "source_sha256": "645a2e1c5062e80c583f8982102d01c6326b35a84685e70cfb342e197dd62c39",
+  "title": "Protecting Britain’s satellites: threats, resilience and what to do now",
+  "label": "19 October 2026 · Space resilience",
+  "summary": "Witnesses from academia, industry and a composites centre explained how the UK’s growing reliance on satellites exposes it to jamming, cyber attacks, supply‑chain pressure and space weather. They urged faster, more diverse and more practical resilience: more small satellites, stronger cyber protection for ground systems, closer European partnerships, use of commercial capability for rapid sovereign launches, and clearer government leadership and auditing of legacy systems.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Matt Western",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Will Marshall",
+      "name": "Will Marshall",
+      "role": "Co-Founder and CEO, Planet",
+      "kind": "witness"
+    },
+    {
+      "label": "Jessie Hamill-Stewart",
+      "name": "Jessie Hamill-Stewart",
+      "role": "Program Manager, Cyber Security and Space Domain Awareness, National Composites Centre; PhD researcher",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Julia Balm",
+      "name": "Dr Julia Balm",
+      "role": "Co-Director, Freeman Air and Space Institute, King's College London",
+      "kind": "witness"
+    },
+    {
+      "label": "Tanmanjeet Singh Dhesi",
+      "name": "Tanmanjeet Singh Dhesi",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Godson",
+      "name": "Lord Godson",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Boateng",
+      "name": "Lord Boateng",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Helen Maguire",
+      "name": "Helen Maguire",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Arbuthnot of Edrom",
+      "name": "Lord Arbuthnot of Edrom",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Sedwill",
+      "name": "Lord Sedwill",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "sovereign satellite",
+      "definition": "A satellite owned and operated by a country so it controls how and when the data or service is used."
+    },
+    {
+      "term": "proliferated architectures",
+      "definition": "Using many smaller satellites instead of a few large ones, so losing one causes less disruption."
+    },
+    {
+      "term": "ground infrastructure (ground segment)",
+      "definition": "The earth-based equipment—control centres, antennas, networks—that operate and receive data from satellites."
+    },
+    {
+      "term": "space weather",
+      "definition": "Solar activity—like flares—that can disrupt radio signals, increase atmospheric drag and damage satellites."
+    },
+    {
+      "term": "RPO (rendezvous and proximity operations)",
+      "definition": "A technique for spacecraft to approach or service other satellites in orbit for repair or refuelling."
+    },
+    {
+      "term": "Carrington event",
+      "definition": "An 1859 solar storm often used as a worst-case example of space‑weather damage to modern systems."
+    },
+    {
+      "term": "Kessler syndrome",
+      "definition": "A cascade where too much orbital debris causes collisions that create more debris, eventually blocking space use."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "How satellites matter and what resilience looks like",
+      "takeaway": "Satellites underpin huge parts of the economy and security; resilience comes from many small, replaceable systems, strong ground defences and fast reconstitution.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Welcome. To open: how do you see the threat picture, and does the new UK Space Strategy match that?"
+        },
+        {
+          "speaker": "Will Marshall",
+          "text": "Planet runs large fleets of Earth‑imaging satellites used for environment and security—Ukraine uses our data daily. Resilience for us rests on three things: many small satellites, close work with governments about threats, and the ability to launch replacements rapidly."
+        },
+        {
+          "speaker": "Will Marshall",
+          "text": "We can build satellites very quickly—roughly 40 per week at peak—so you can have sovereign-owned satellites launched in months, not years. That gives speed and control together."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Does the UK strategy show urgency?"
+        },
+        {
+          "speaker": "Will Marshall",
+          "text": "It sets useful aims but lacks urgency and timelines. Some national projects like ISTARI may finish too late—2035—for today's threats."
+        },
+        {
+          "speaker": "Dr Julia Balm",
+          "text": "Space underpins about 18% of UK GDP and around £450bn of activity. We are getting more dependent as satellite numbers grow from ~12,000 to maybe 60,000 by 2030, so we need contingency planning for cascading failures."
+        },
+        {
+          "speaker": "Dr Julia Balm",
+          "text": "A structural problem is accountability: many departments use space but no single body is clearly responsible for national resilience and cross‑government response at the ‘speed of relevance’."
+        }
+      ]
+    },
+    {
+      "title": "Real examples of hostile action and low‑cost disruptions",
+      "takeaway": "State actors have targeted space-related systems already; ground facilities and small disruptive acts can have outsized effects.",
+      "turns": [
+        {
+          "speaker": "Tanmanjeet Singh Dhesi",
+          "text": "How willing and able are adversaries to disrupt the UK’s space infrastructure? Any recent evidence?"
+        },
+        {
+          "speaker": "Will Marshall",
+          "text": "Ukraine shows the risk: Russia has jammed and attacked networks. Commercial providers can be targeted but can also help because they’re flexible—Planet supplied Ukraine directly unlike some systems that were constrained by other governments."
+        },
+        {
+          "speaker": "Jessie Hamill-Stewart",
+          "text": "We’ve seen cyber intrusions into military ground sites in the UK. The Viasat attack before the 2022 invasion targeted communications and affected many civilian users too. Ground infrastructure is the most accessible and vulnerable part of space systems."
+        },
+        {
+          "speaker": "Dr Julia Balm",
+          "text": "Watch also for close approaches by other nations’ satellites. For example, a Russian satellite manoeuvred to within about 26 metres of a commercial satellite—very close and a worrying pattern."
+        },
+        {
+          "speaker": "Lord Godson",
+          "text": "What about threats beyond Russia—China, Iran, dark horses?"
+        },
+        {
+          "speaker": "Will Marshall",
+          "text": "China is a major actor; Iran is increasingly capable and could collaborate with others. But the near-term big multiplier will be AI‑enabled cyber attacks that scale much faster than nation-state kinetic actions."
+        }
+      ]
+    },
+    {
+      "title": "Cyber, AI and the increasing digital threat",
+      "takeaway": "Cyber attacks—made faster and more capable by AI—are a primary and growing threat to satellites, especially via ground systems and supply chains.",
+      "turns": [
+        {
+          "speaker": "Jessie Hamill-Stewart",
+          "text": "Cyber threats are becoming easier and more common. Satellites and their ground control, user terminals and supply chains all have vulnerabilities. AI tools can make attacks cheaper and more effective."
+        },
+        {
+          "speaker": "Jessie Hamill-Stewart",
+          "text": "Small organisations running CubeSats or university projects are especially at risk: a compromised small satellite could be used to create collisions or debris, with wider consequences."
+        },
+        {
+          "speaker": "Will Marshall",
+          "text": "I agree. AI is accelerating capability—the last two years saw huge advances in large language models. Those same advances will power cyber attacks unless we set guardrails and verification, and that affects space like any other critical infrastructure."
+        },
+        {
+          "speaker": "Jessie Hamill-Stewart",
+          "text": "Another problem: organisations often don’t publicly say when they've been hit, so we lack visibility of attacks and the lessons to defend against them."
+        },
+        {
+          "speaker": "Lord Arbuthnot of Edrom",
+          "text": "Is the 5–25% chance of a major space‑weather event in the National Risk Register reliable?"
+        },
+        {
+          "speaker": "Dr Julia Balm",
+          "text": "Be cautious about putting precise probabilities on rare catastrophes. Space weather is unpredictable: we are in a solar maximum now and solar activity can be much higher than models expect."
+        }
+      ]
+    },
+    {
+      "title": "Supply chains, partners and sovereign options",
+      "takeaway": "The UK should diversify partners, lean on EU collaboration, use commercial providers for fast sovereign capability, and defend supply chains and ground systems.",
+      "turns": [
+        {
+          "speaker": "Lord Boateng",
+          "text": "Can we rely on US supply and support, and should we work more with the EU?"
+        },
+        {
+          "speaker": "Will Marshall",
+          "text": "Work with both. Europe is a natural security partner, and having manufacturing and control in Europe gives independence from US regulatory or political constraints. Planet builds in the US and Germany and operates ground stations in the UK."
+        },
+        {
+          "speaker": "Dr Julia Balm",
+          "text": "Diversity is the resilience strategy: use NATO and bilateral links, be at the table for EU defence/space rules, and keep options to reconstitute assets quickly through partners."
+        },
+        {
+          "speaker": "Will Marshall",
+          "text": "Commercial providers can deliver sovereign satellites fast—Sweden had a first sovereign satellite in four months with Planet. The UK should adopt similar hybrid approaches: commercial plus sovereignty."
+        },
+        {
+          "speaker": "Lord Boateng",
+          "text": "Where are the main vulnerabilities in our ground estate and launches?"
+        },
+        {
+          "speaker": "Dr Julia Balm",
+          "text": "Ground stations, control centres and limited domestic launch options are weak points. New UK spaceports like SaxaVord help polar launches, but heavy or equatorial launches still rely on allies and costly rockets like Ariane."
+        }
+      ]
+    },
+    {
+      "title": "Space weather, legacy satellites and practical resilience",
+      "takeaway": "Space weather can damage fleets; many old satellites can’t be retrofitted, so the UK needs audits, contingency plans and to fund upgrades and rapid replacement capability.",
+      "turns": [
+        {
+          "speaker": "Helen Maguire",
+          "text": "How big a risk is space weather, and what would the impact look like?"
+        },
+        {
+          "speaker": "Dr Julia Balm",
+          "text": "A big solar storm could cause wide radio interference, damage electronics and increase atmospheric drag causing satellite loss. Attribution is hard—weather can look like attack, which adds ambiguity in crisis."
+        },
+        {
+          "speaker": "Will Marshall",
+          "text": "In the recent solar maximum some companies lost large fractions of their fleets because drag rose unexpectedly. Better modelling and designing satellites for those events help; radiation hardening is also possible with government-backed R&D."
+        },
+        {
+          "speaker": "Lord Sedwill",
+          "text": "Can we retrofit existing satellites to be more resilient?"
+        },
+        {
+          "speaker": "Jessie Hamill-Stewart",
+          "text": "Retrofitting thousands of fast-moving satellites is extremely challenging and costly. For current satellites, detection and contingency plans are more realistic than mass retrofits."
+        },
+        {
+          "speaker": "Dr Julia Balm",
+          "text": "The strategy mentions in‑orbit assembly and RPO as future options; those techniques may eventually let us service or refuel satellites, but they’re years away."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Is there an audit of the UK’s legacy satellite dependence and what to replace?"
+        },
+        {
+          "speaker": "Jessie Hamill-Stewart",
+          "text": "I don’t have evidence of a public, comprehensive audit. I can follow up on what exists and how academia and industry could help map dependence and capabilities."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Please do write to the committee on that and on how UK research can be better mobilised."
+        },
+        {
+          "speaker": "Will Marshall",
+          "text": "Quick final point: commercial satellite fleets and partnerships let the UK get faster sovereign capability—if government moves faster and funds targeted R&D, resilience gains can follow quickly."
+        },
+        {
+          "speaker": "Dr Julia Balm",
+          "text": "And institutionally: the UK needs clearer roles, better information sharing across departments and to stay engaged with allies and EU rule‑making to shape collective resilience."
+        },
+        {
+          "speaker": "Jessie Hamill-Stewart",
+          "text": "Also fund and clear pathways for smaller companies and universities to work with government—security clearance and procurement barriers stop valuable expertise contributing to space cyber defence."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you all—very informative. We’ll follow up on audits and academic capability."
+        }
+      ]
+    }
+  ]
+}

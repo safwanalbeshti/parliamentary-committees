@@ -1,0 +1,354 @@
+{
+  "schema_version": 1,
+  "source_id": 18160,
+  "source_sha256": "cdc0b1355c6d125db0bbc4ececdaf5c5f7b7d1ae7252c79c49ea5d1bba7c2f6c",
+  "title": "Businesses, energy costs and the jobs gamble: priorities ahead of the 2026 Budget",
+  "label": "20 October 2026 · Pre-Budget scrutiny (business & workforce)",
+  "summary": "Witnesses from the TUC, CBI and FSB told the Treasury Committee the economy has been resilient but households and consumer-facing firms are squeezed by long-term weak pay growth and sharp cost rises—especially energy. Their main Budget asks are targeted help for small firms (higher small business rates relief, employment allowance), shifting renewables levies off business energy bills into general taxation, better grid connections, simpler regulation and more use of public finance to co-invest in industry. They disagreed about tax on banks and capital gains: the TUC supports higher bank and CGT taxes to fund public spending; the CBI and FSB warn of damage to investment and employment.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Dame Meg Hillier",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Dr Tily",
+      "name": "Dr Geoff Tily",
+      "role": "Head of Economics, Trades Union Congress",
+      "kind": "witness"
+    },
+    {
+      "label": "Louise Hellem",
+      "name": "Louise Hellem",
+      "role": "Chief Economist, Confederation of British Industry",
+      "kind": "witness"
+    },
+    {
+      "label": "David Hale",
+      "name": "David Hale",
+      "role": "Government Affairs Director, Federation of Small Businesses",
+      "kind": "witness"
+    },
+    {
+      "label": "Dame Harriett Baldwin",
+      "name": "Dame Harriett Baldwin",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "John Glen",
+      "name": "John Glen",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Ms Minns",
+      "name": "Ms Julie Minns",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Catherine West",
+      "name": "Catherine West",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Chris Coghlan",
+      "name": "Chris Coghlan",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Bobby Dean",
+      "name": "Bobby Dean",
+      "role": "Member of the committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "GDP",
+      "definition": "Gross domestic product: the total value of goods and services produced in the UK."
+    },
+    {
+      "term": "G7",
+      "definition": "Group of seven advanced economies: the US, UK, Canada, France, Germany, Italy and Japan."
+    },
+    {
+      "term": "renewables obligation",
+      "definition": "A levy on energy bills that helps pay for renewable energy support schemes."
+    },
+    {
+      "term": "feed-in tariff (FIT)",
+      "definition": "A subsidy paid to owners who generate renewable electricity, currently charged via bills."
+    },
+    {
+      "term": "business rates",
+      "definition": "A property tax on business premises; small business relief reduces bills for smaller properties."
+    },
+    {
+      "term": "employment allowance",
+      "definition": "A relief that lets eligible employers reduce their employer National Insurance bill."
+    },
+    {
+      "term": "VAT threshold",
+      "definition": "The annual turnover level above which a business must register for VAT (currently £90,000)."
+    },
+    {
+      "term": "National Wealth Fund",
+      "definition": "A government-owned fund used to invest public money in infrastructure and industry."
+    },
+    {
+      "term": "RAB",
+      "definition": "Regulated Asset Base: an infrastructure financing model where investors receive regulated returns."
+    },
+    {
+      "term": "PPP",
+      "definition": "Public-private partnership: joint arrangements where government and private capital build public assets."
+    },
+    {
+      "term": "IR35",
+      "definition": "Tax rules to stop people supplying services through intermediaries to avoid employment taxes."
+    },
+    {
+      "term": "universal credit taper rate",
+      "definition": "The rate at which benefit payments are withdrawn as recipients earn more; affects work incentives."
+    },
+    {
+      "term": "CGT",
+      "definition": "Capital Gains Tax: a tax on profits from selling assets such as shares or property."
+    },
+    {
+      "term": "statutory sick pay rebate",
+      "definition": "A government refund to employers for periods of sick pay they must pay to staff."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The economy and the household squeeze",
+      "takeaway": "Output has been resilient but households are squeezed after years of weak pay, depressing consumer spending and hitting consumer-facing businesses.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "How do businesses look right now?"
+        },
+        {
+          "speaker": "Dr Tily",
+          "text": "The economy has done better than feared, but households are in an 'unprecedented living standards crisis': real pay barely moved since before 2008 and many families are vulnerable."
+        },
+        {
+          "speaker": "Dr Tily",
+          "text": "Eight million households say they couldn't cover an unexpected £850 bill. Mortgage monthly payments rose from about £600 to £900 — roughly £3,600 extra a year for many."
+        },
+        {
+          "speaker": "Chair",
+          "text": "So weak household spending is hurting firms?"
+        },
+        {
+          "speaker": "Dr Tily",
+          "text": "Yes. UK consumer spending growth is the weakest in the G7 since before the pandemic. Consumer-facing services remain below pre-crisis levels and that weak demand subtracts from GDP growth."
+        },
+        {
+          "speaker": "Louise Hellem",
+          "text": "Businesses are resilient but face a high-cost environment—especially energy and employment costs. Many are hedging energy and holding extra stock, which ties up cash and slows hiring."
+        },
+        {
+          "speaker": "David Hale",
+          "text": "Small firms have low confidence. Fixed costs are high and they can't always use hedging strategies. Many are seeing falling revenues, making recruitment and investment hard."
+        }
+      ]
+    },
+    {
+      "title": "Energy costs: bills, levies and the grid",
+      "takeaway": "All witnesses want lower industrial energy costs now — the CBI wants renewables levies moved to general taxation, plus faster grid connections for electrification.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "What can government do about energy costs?"
+        },
+        {
+          "speaker": "Louise Hellem",
+          "text": "Industrial electricity is far above EU and G7 averages because levies like the renewables obligation, FIT and the climate change levy sit on business bills. Move those to general taxation and businesses' bills fall."
+        },
+        {
+          "speaker": "Louise Hellem",
+          "text": "CBI analysis: shifting renewables support into tax costs about £5bn a year for five years but could return a net benefit (investment-led) over time."
+        },
+        {
+          "speaker": "Dr Tily",
+          "text": "We support shifting those costs off bills. Lower energy costs would also boost demand and help high-street spending."
+        },
+        {
+          "speaker": "Chair",
+          "text": "What about the grid and electrification?"
+        },
+        {
+          "speaker": "Louise Hellem",
+          "text": "Businesses need faster grid connections and clearer signals about demand so they can electrify premises. Targets like 2030 for a decarbonised grid are ambitious; practical delivery probably stretches to 2035 for the hardest parts."
+        },
+        {
+          "speaker": "David Hale",
+          "text": "Small firms often can't access the same energy deals as large ones. Help on renewables levies and better small-business access to subsidies would be useful now."
+        }
+      ]
+    },
+    {
+      "title": "Regulation, taxes and small-business pain",
+      "takeaway": "Small firms want immediate, practical relief (small business rates relief, employment allowance increases) and less admin burden from HMRC/Companies House; CBI wants simpler business rates and smoother tax rules.",
+      "turns": [
+        {
+          "speaker": "Ms Minns",
+          "text": "Which regulatory frameworks most hinder business expansion?"
+        },
+        {
+          "speaker": "Louise Hellem",
+          "text": "Overlapping rules impose cost: for example packaging rules (extended producer responsibility, plastic packaging tax, packaging recovery notes). Simplify and remove duplication."
+        },
+        {
+          "speaker": "David Hale",
+          "text": "HMRC is often a top administrative barrier for small firms but is exempt from many 'regulatory reduction' drives. Companies House verification steps are also causing trouble for small firms."
+        },
+        {
+          "speaker": "Dame Harriett Baldwin",
+          "text": "Looking back at 2024–25 budgets, what helped or hurt small businesses?"
+        },
+        {
+          "speaker": "David Hale",
+          "text": "Positives: the employment allowance helped. Negatives: national insurance rises and cuts to entrepreneur relief made hiring and exits harder. Small business rates relief hasn't been uprated since 2016—raising it would give quick breathing space."
+        },
+        {
+          "speaker": "Ms Minns",
+          "text": "Concrete ask: your top single change?"
+        },
+        {
+          "speaker": "David Hale",
+          "text": "Increase small business rates relief now; index the employment allowance so it keeps pace with wages; introduce a statutory sick pay rebate for small employers."
+        },
+        {
+          "speaker": "Louise Hellem",
+          "text": "From the CBI: reform business rates to remove cliff edges at property thresholds and provide certainty; simplify Corporation Tax interaction with international rules and reduce compliance burdens."
+        }
+      ]
+    },
+    {
+      "title": "Industrial strategy, regional growth and procurement",
+      "takeaway": "All want delivery not only strategy: use public finance to co-invest, build local supplier bases, reform procurement to open opportunities for SMEs, and deploy the National Wealth Fund for long-term projects.",
+      "turns": [
+        {
+          "speaker": "John Glen",
+          "text": "What delivery steps help investment and regional growth?"
+        },
+        {
+          "speaker": "Louise Hellem",
+          "text": "Make pipelines investable: clearer project lists, public-private finance frameworks, and better contracting capacity in government so private capital can bid with confidence."
+        },
+        {
+          "speaker": "David Hale",
+          "text": "Government procurement should include more SMEs. Use more accessible frameworks and DPSs, advertise contracts better, and reduce aggregated mega-contracts so local suppliers can compete."
+        },
+        {
+          "speaker": "Dr Tily",
+          "text": "TUC asks: a 'reindustrialise Britain' mission unit, a procurement Bill to direct public buying to support domestic industry and jobs, and a reindustrialisation fund from the National Wealth Fund aimed at longer horizons."
+        },
+        {
+          "speaker": "Catherine West",
+          "text": "How do we help left-behind places?"
+        },
+        {
+          "speaker": "Dr Tily",
+          "text": "Place-based industrial strategy with regional funding, worker voice and local skills. The National Wealth Fund could back projects that grow manufacturing and supply chains locally."
+        },
+        {
+          "speaker": "Louise Hellem",
+          "text": "Local success examples: the Advanced Manufacturing Research Centre linking primes, suppliers, universities and colleges—replicate that approach and strengthen local delivery capacity."
+        }
+      ]
+    },
+    {
+      "title": "Labour market, youth jobs, AI and skills",
+      "takeaway": "Labour market is mixed; youth unemployment is chronically high and needs targeted active labour-market help, while skills and AI adoption must be tied to training and regional delivery.",
+      "turns": [
+        {
+          "speaker": "John Glen",
+          "text": "Vacancies have fallen. What's needed for jobs and skills?"
+        },
+        {
+          "speaker": "Dr Tily",
+          "text": "Headlines hide a mixed picture—payroll employment has weakened. We separate cyclical from structural problems: if cyclical, demand support is needed; if structural, skills and regional plans are needed."
+        },
+        {
+          "speaker": "Dr Tily",
+          "text": "For youth unemployment we propose expanding the jobs-guarantee eligibility from 18 to six months and cutting the universal credit taper from 55% to 45%—we estimate roughly a £4bn cost, partly recouped via earnings."
+        },
+        {
+          "speaker": "Chris Coghlan",
+          "text": "How should government treat AI's impact on entry jobs?"
+        },
+        {
+          "speaker": "Dr Tily",
+          "text": "AI must be part of training. It could replace low-skill tasks but also upskill workers. Government should fund programmes (like Made Smarter) and ensure worker involvement so AI improves jobs not just cuts costs."
+        },
+        {
+          "speaker": "David Hale",
+          "text": "For small firms, entry-level access is vital. If AI speeds the disappearance of those roles, we need routes in—self-employment, apprenticeships and local hiring incentives—to keep the workforce pipeline."
+        }
+      ]
+    },
+    {
+      "title": "Tax choices, disagreements and the Budget wishlist",
+      "takeaway": "Witnesses agree on many practical measures but divide on tax fairness: the TUC backs higher bank taxes and CGT; the CBI and FSB warn higher bank taxes and some changes could harm investment and finance availability.",
+      "turns": [
+        {
+          "speaker": "John Glen",
+          "text": "What tax changes do you want in the Budget?"
+        },
+        {
+          "speaker": "David Hale",
+          "text": "Practical asks: raise VAT threshold (FSB suggested £100k), increase small business rates relief, lift the employment allowance and avoid adding short-term tax/admin shocks like complex VAT resale rules."
+        },
+        {
+          "speaker": "Louise Hellem",
+          "text": "CBI asks: avoid measures that hit finance costs; don't raise bank taxes which could make finance more expensive and reduce investment. Simplify tax compliance and reform business rates."
+        },
+        {
+          "speaker": "Dr Tily",
+          "text": "TUC supports higher bank surcharges and increasing CGT toward income tax levels because banks and asset owners have seen large profits; we’d also review why corporation tax receipts are far below statutory rates."
+        },
+        {
+          "speaker": "John Glen",
+          "text": "Do markets worry about more tax rises?"
+        },
+        {
+          "speaker": "Dr Tily",
+          "text": "Markets should not panic at targeted taxes on unusually high bank profits. There is room to raise revenue from sectors with supernormal returns without wrecking investment."
+        },
+        {
+          "speaker": "Louise Hellem",
+          "text": "We disagree: changing taxes on finance risks costs across the economy. If government wants investment and certainty, policy must be stable and predictable."
+        },
+        {
+          "speaker": "Chair",
+          "text": "To close: what should the Chancellor prioritise next week?"
+        },
+        {
+          "speaker": "David Hale",
+          "text": "Immediate, small, practical measures that give firms breathing space: uprate small business rates relief, increase employment allowance, consider sick pay rebates and ease energy levy burdens for small firms."
+        },
+        {
+          "speaker": "Louise Hellem",
+          "text": "Commit to moving renewables levies off business bills, accelerate grid connections, set out clear investable pipelines and simplify business rates and tax compliance."
+        },
+        {
+          "speaker": "Dr Tily",
+          "text": "Focus on demand and living standards as well as supply: a social tariff, action on youth employment and using public finance to reindustrialise and boost jobs across regions."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you — we'll quiz the Chancellor after the Budget on 11 November and follow up on these asks."
+        }
+      ]
+    }
+  ]
+}

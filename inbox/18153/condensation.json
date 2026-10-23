@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "source_id": 18153,
+  "source_sha256": "6aff270890ad11af0dda31239f4fbc337d1b48a55376fc48909ba0f6ad93f3ff",
+  "title": "Building UK space resilience: strategy, gaps and what industry needs",
+  "label": "19 October 2026 · Space resilience evidence",
+  "summary": "Witnesses from UKspace, ClearSpace UK and Supersharp welcomed the new UK Space Strategy but warned it mainly sets ambition without clear delivery plans or sufficient funding compared with peers. They urged a national audit of space dependencies, scenario exercises, industrial mobilisation planning and targeted government intervention—especially faster, smaller defence and civil procurement, stable grant pipelines, export support and secure shared facilities—to help UK companies scale and to improve national resilience.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Matt Western",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Elizabeth Seward",
+      "name": "Elizabeth Seward",
+      "role": "CEO, Supersharp (thermal infrared space telescopes)",
+      "kind": "witness"
+    },
+    {
+      "label": "Stephanie Ayres",
+      "name": "Stephanie Ayres",
+      "role": "Head of Policy, UKspace (trade association)",
+      "kind": "witness"
+    },
+    {
+      "label": "Robert Atchison",
+      "name": "Robert Atchison",
+      "role": "Managing Director, ClearSpace UK (active debris removal)",
+      "kind": "witness"
+    },
+    {
+      "label": "Baroness Tyler of Enfield",
+      "name": "Baroness Tyler of Enfield",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Jack of Courance",
+      "name": "Lord Jack of Courance",
+      "role": "Member of the committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "earth observation",
+      "definition": "Satellites and sensors that collect images and measurements of the Earth's surface and atmosphere."
+    },
+    {
+      "term": "Skynet",
+      "definition": "The UK's military communications satellite system."
+    },
+    {
+      "term": "NSpOC",
+      "definition": "National Space Operations Centre, which tracks UK space assets."
+    },
+    {
+      "term": "ESA",
+      "definition": "European Space Agency, a multinational organisation that funds and coordinates European space programmes."
+    },
+    {
+      "term": "PNT",
+      "definition": "Positioning, navigation and timing services, usually provided by GPS and similar systems."
+    },
+    {
+      "term": "OneWeb",
+      "definition": "A commercial communications satellite constellation; the UK has a minority ownership in it."
+    },
+    {
+      "term": "SATCOM",
+      "definition": "Satellite communications used for voice, data and internet services."
+    },
+    {
+      "term": "active debris removal",
+      "definition": "Technology and operations to remove defunct satellites and debris from orbit."
+    },
+    {
+      "term": "DBIST",
+      "definition": "Department for Business, Innovation, Science and Trade, a UK government department."
+    },
+    {
+      "term": "Technology and Growth Alliance",
+      "definition": "A UK initiative to commercialise Ministry of Defence-held technologies."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "First impressions of the new space strategy",
+      "takeaway": "The witnesses welcome the strategy's ambition and cross-government framing but say it lacks a clear delivery plan and enough funding compared with peers.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "The Government published the UK Space Strategy on 8 September. How do you read its ambition and commitments?"
+        },
+        {
+          "speaker": "Elizabeth Seward",
+          "text": "We welcomed it. It brings civil and defence together and puts earth observation back as a priority. But it's a strategy, not an implementation plan—so it sets goals without explaining how or when they'll be met."
+        },
+        {
+          "speaker": "Elizabeth Seward",
+          "text": "Budget-wise, it's modest. Compared with Germany's €35bn, our roughly £7bn is far smaller. Some of that is already earmarked for Skynet upgrades, and much spending won't happen until the 2030s."
+        },
+        {
+          "speaker": "Stephanie Ayres",
+          "text": "I agree. It's the first coherent attempt across departments to treat space as essential to security and the economy, and it recognises sovereign capabilities. But I'm less confident about delivery—there's little detail on how to spend the money or plans past 2030."
+        },
+        {
+          "speaker": "Stephanie Ayres",
+          "text": "Also, our ESA contributions are part of that £7.8bn, so we end up lower than some peers. Our ESA ranking has fallen from fourth to fifth, which is worrying for influence and capability."
+        },
+        {
+          "speaker": "Robert Atchison",
+          "text": "I see the green shoots of a grand strategy and welcome the clear KPIs to 2030. ClearSpace UK holds the UK active debris removal contract, with a launch planned for 2029, which shows how national programmes can build full lifecycle capability."
+        }
+      ]
+    },
+    {
+      "title": "Resilience: what we lack and what we should audit",
+      "takeaway": "The UK has few sovereign satellites and no coherent national plan for prioritising or replacing space services; witnesses call for a formal audit and exercises to map dependencies and vulnerabilities.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Do you think the strategy makes priorities clear enough for building resilience?"
+        },
+        {
+          "speaker": "Elizabeth Seward",
+          "text": "Not yet. The UK owns only a small number of sovereign satellites—four Skynet comms and maybe three visible earth observation ones—so we have limited infrastructure we can control or retrofit in a crisis."
+        },
+        {
+          "speaker": "Elizabeth Seward",
+          "text": "Resilience isn't just numbers. It's about mixing data sources—optical, radar and thermal infrared—and knowing who owns each capability and what minimum service we need if something goes wrong."
+        },
+        {
+          "speaker": "Stephanie Ayres",
+          "text": "We recommend a national space resilience exercise and industrial preparedness programme run through the Cabinet Office, Defence and DBIST with industry input."
+        },
+        {
+          "speaker": "Stephanie Ayres",
+          "text": "It should include: a national dependency map of critical services that rely on space; scenario war-gaming for different outages; industrial mobilisation planning (what can industry deliver in 72 hours, 30 days, six months); and an investment gap analysis."
+        },
+        {
+          "speaker": "Robert Atchison",
+          "text": "From a defence angle, adversaries train to operate without space. That means we must assume space can be denied and plan for operating with degraded services—encrypted and unencrypted PNT are an example."
+        },
+        {
+          "speaker": "Stephanie Ayres",
+          "text": "To give one fact: NSpOC tracks about 811 UK assets in space, but 640 of those are OneWeb satellites, of which the UK owns only about 16%—so ownership and control are complex issues."
+        }
+      ]
+    },
+    {
+      "title": "How government can help industry scale and protect capability",
+      "takeaway": "Industry wants more targeted, reliable government procurement, quicker and smaller contracts for SMEs, scale-up finance, export support and better cyber/security assistance.",
+      "turns": [
+        {
+          "speaker": "Lord Jack of Courance",
+          "text": "How can Government ensure UK firms can contribute to sovereign capability—what help do you need?"
+        },
+        {
+          "speaker": "Robert Atchison",
+          "text": "Initiatives like the Technology and Growth Alliance are positive because they commercialise MoD-held IP and give SMEs a route to market. Anchor contracts that build an industrial base are vital."
+        },
+        {
+          "speaker": "Robert Atchison",
+          "text": "Be selective about where we focus our strengths. Use diplomatic assets, too—our overseas territories are underused for space advantages."
+        },
+        {
+          "speaker": "Stephanie Ayres",
+          "text": "We need predictable pipelines, better access to defence procurement for small firms, targeted scale-up finance and protection of international market access—especially as some EU rules threaten UK firms' export routes."
+        },
+        {
+          "speaker": "Elizabeth Seward",
+          "text": "Grant funding is oversubscribed. That shows demand, but grants now often require larger matched funding from firms, pushing founders to take non‑UK investors earlier and losing UK control of capability."
+        },
+        {
+          "speaker": "Elizabeth Seward",
+          "text": "Procurement delays hurt SMEs more than large contractors. Defence spending reviews and pauses have had a big impact on small companies that need steady revenue to survive."
+        },
+        {
+          "speaker": "Stephanie Ayres",
+          "text": "We also need a strategic supplier assessment that recognises firms with critical capability even if they're not revenue giants—interventions shouldn't be based only on expected turnover."
+        }
+      ]
+    },
+    {
+      "title": "Practical asks from SMEs and final recommendations",
+      "takeaway": "SMEs want quicker, smaller, higher-risk-tolerant contracts; continuous funding; Government help exporting; and shared secure facilities to reduce overheads and speed growth.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "In two points, what should Government do to make it easier for start-ups to commercialise in the UK?"
+        },
+        {
+          "speaker": "Elizabeth Seward",
+          "text": "Offer more, smaller and faster contracts for small companies with a higher appetite for risk and a lower barrier to entry; and speed up support for small firms to access defence contracts."
+        },
+        {
+          "speaker": "Stephanie Ayres",
+          "text": "Keep grants and funding continuous—stop the stop-start cycle caused by frequent reviews—and provide targeted scale-up investment."
+        },
+        {
+          "speaker": "Robert Atchison",
+          "text": "Use Government diplomatic and trade channels to champion UK firms overseas and provide an export route. Also, reduce SME overheads by offering secure shared facilities where clearance and cyber controls are sponsored and affordable."
+        },
+        {
+          "speaker": "Baroness Tyler of Enfield",
+          "text": "Would it be helpful for Government to be more interventionist?"
+        },
+        {
+          "speaker": "Elizabeth Seward",
+          "text": "Yes, I believe more government intervention and targeted support would help preserve and grow critical UK space capabilities."
+        },
+        {
+          "speaker": "Stephanie Ayres",
+          "text": "Yes; strategic, targeted intervention is needed to ensure continuity of funding, access to procurement and protection of export routes for UK firms."
+        },
+        {
+          "speaker": "Robert Atchison",
+          "text": "Yes, more intervention would help—especially in creating sponsored secure facilities, export promotion and routes to scale through government anchor contracts."
+        },
+        {
+          "speaker": "Chair",
+          "text": "We will put further questions in writing and invite written follow-ups. Thank you all for your evidence—this concludes the panel."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18159,
+  "activity_id": 39058,
+  "document_id": 308075,
+  "meeting_date": "2026-10-20",
+  "meeting_date_display": "20 October 2026",
+  "publication_date": "2026-10-22T13:46:30",
+  "title": "One-off session on implications of the Defence Investment Plan for UK industry",
+  "committee": "Defence Committee",
+  "committees": [
+    {
+      "id": 24,
+      "name": "Defence Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10027,
+      "title": "One-off session on implications of the Defence Investment Plan for UK industry",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "CEO",
+      "organisation": "ADS"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "CEO",
+      "organisation": "techUK"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Non-Executive Director",
+      "organisation": "Federation of Small Businesses (FSB)"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "CEO",
+      "organisation": "MakeUK"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Lincoln Jopp",
+    "Kevin Craven",
+    "Julian David",
+    "Arnab Dutt",
+    "Stephen Phipson",
+    "Emma Lewell",
+    "Ian Roome",
+    "Jesse Norman",
+    "Michelle Scrogham",
+    "Fred Thomas"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18159/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18159",
+  "source_sha256": "acd1d87be81c2d125eb6e65e172256d688871a858e963f48e0e5760126136f0b",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}
