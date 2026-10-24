@@ -1,0 +1,326 @@
+{
+  "schema_version": 1,
+  "source_id": 18163,
+  "source_sha256": "c9360916fa99613b3f95dd350d007a6d8a7c154587feafc95d22334aa418eaae",
+  "title": "AI and EdTech in the Early Years: Risks, Uses and What Needs to Change",
+  "label": "20 October 2026 · AI and EdTech in Early Years",
+  "summary": "The Committee heard from early years practitioners, academics and advocates about how AI and other digital tools are already affecting children from birth to five. Witnesses reported real worries—more children arriving with social and emotional delays, poorly designed AI toys, and overwhelmed staff—alongside limited useful uses (administration, some assistive tech). They urged more training for educators, clearer product standards and regulation, sustained research (including long-term studies), and careful, equity-focused deployment especially for SEND and vulnerable children.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Helen Hayes",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Neil Leitch",
+      "name": "Neil Leitch OBE",
+      "role": "CEO, Early Years Alliance",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Gibson",
+      "name": "Professor Jenny Gibson",
+      "role": "Professor of Neurodiversity and Developmental Psychology, University of Cambridge",
+      "kind": "witness"
+    },
+    {
+      "label": "Richard Waite",
+      "name": "Richard Waite",
+      "role": "Founder and Digital Pedagogy Consultant, Waite.EYTS",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Leaton Gray",
+      "name": "Professor Sandra Leaton Gray",
+      "role": "Professor of Education Futures, UCL Institute of Education",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Aitken",
+      "name": "Dr Mhairi Aitken",
+      "role": "Director and Co-founder, Our AI Collective CIC",
+      "kind": "witness"
+    },
+    {
+      "label": "Meg Moss",
+      "name": "Meg Moss",
+      "role": "Head of Public Affairs & Advocacy, National Counselling and Psychotherapy Society",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Blakemore",
+      "name": "Professor Sarah-Jayne Blakemore",
+      "role": "Professor of Psychology and Cognitive Neuroscience, University of Cambridge",
+      "kind": "witness"
+    },
+    {
+      "label": "Jess Asato",
+      "name": "Jess Asato",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Sureena Brackenridge",
+      "name": "Sureena Brackenridge",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Jodie Gosling",
+      "name": "Jodie Gosling",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Manuela Perteghella",
+      "name": "Manuela Perteghella",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Mark Sewards",
+      "name": "Mark Sewards",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Peter Swallow",
+      "name": "Peter Swallow",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Caroline Voaden",
+      "name": "Caroline Voaden",
+      "role": "Committee Member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "generative AI",
+      "definition": "AI systems that produce new content (words, images or speech) in response to prompts."
+    },
+    {
+      "term": "edtech",
+      "definition": "Technology products designed to support teaching, learning or school administration."
+    },
+    {
+      "term": "digital pedagogy",
+      "definition": "Using digital tools in ways that are guided by clear teaching goals and methods."
+    },
+    {
+      "term": "Reception baseline assessment",
+      "definition": "A screen-based assessment used at the start of primary school to track early learning progress."
+    },
+    {
+      "term": "AI tutor",
+      "definition": "A digital system claiming to provide personalised one-to-one teaching or coaching."
+    },
+    {
+      "term": "safeguarding",
+      "definition": "Actions and rules to protect children from harm, including online and emotional risks."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Who spoke and what we asked",
+      "takeaway": "The Committee questioned early years leaders, digital pedagogy experts and academics about how AI and edtech affect babies, toddlers and pre-schoolers.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Today we’re focusing on AI and edtech in the early years. We’ll hear from practitioners and academics about impacts, benefits and what the Government should do."
+        },
+        {
+          "speaker": "Neil Leitch",
+          "text": "I run the Early Years Alliance, representing about 18,000 nurseries and childminders and operating 28 settings in deprived areas, so we see development issues first hand."
+        },
+        {
+          "speaker": "Professor Gibson",
+          "text": "I research early language, communication and social-emotional development at Cambridge. We’ve been studying AI-enabled toys and their effects on under-fives."
+        },
+        {
+          "speaker": "Richard Waite",
+          "text": "I advise on early years digital pedagogy and safeguarding. I work with nurseries to introduce suitable tech and to help them avoid common pitfalls."
+        }
+      ]
+    },
+    {
+      "title": "Everyday impacts: what is already happening",
+      "takeaway": "Witnesses described more children with social and emotional delays, admin uses of AI, AI toys with unknown effects, and low staff confidence.",
+      "turns": [
+        {
+          "speaker": "Neil Leitch",
+          "text": "Post-pandemic many children arrive with social and emotional delays. Managers report violent incidents: in our 28 nurseries from Jan–Sept we logged 43 staff accidents; 19 were from children kicking, biting or pulling hair."
+        },
+        {
+          "speaker": "Professor Gibson",
+          "text": "We observed AI-enabled cuddly toys that embed generative AI chatbots. Practitioners are worried and feel they lack the skills to judge these products. There’s very little independent evidence about developmental impact."
+        },
+        {
+          "speaker": "Richard Waite",
+          "text": "On the ground, people assume 'technology' means screens. That fear—plus staffing and budget pressures—stops many nurseries from exploring constructive digital tools like coding toys or digital microscopes."
+        },
+        {
+          "speaker": "Chair",
+          "text": "What are nurseries actually using now?"
+        },
+        {
+          "speaker": "Neil Leitch",
+          "text": "Mostly administrative software, some speech-and-language supports, and occasional assistive tech. But AI-generated development reports can feel cold and lack nuance, and AI-written parent letters are flooding staff with complex documents."
+        },
+        {
+          "speaker": "Professor Gibson",
+          "text": "I’ve seen Alexa-type devices and systems used for planning. Sometimes settings use AI without realising it. The tech in practice is more educator-facing than child-facing at present."
+        },
+        {
+          "speaker": "Richard Waite",
+          "text": "The sector needs digital pedagogy—thinking about why you use a tool, how you implement it and what impact you expect—rather than tech for tech’s sake. When used thoughtfully, tech can be another learning tool like sand or Play‑Doh."
+        }
+      ]
+    },
+    {
+      "title": "Safety, parents and training",
+      "takeaway": "Major concerns: product safety (especially AI toys), privacy, home influence, and lack of staff training and guidance for parents.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Has Government grasped the scale of these impacts?"
+        },
+        {
+          "speaker": "Neil Leitch",
+          "text": "No. Physical safeguarding gets quick attention, but emotional safeguarding does not. Educators are trusted by families and could help parents, but they lack training in AI, cyber-security and how to respond when things go wrong."
+        },
+        {
+          "speaker": "Professor Gibson",
+          "text": "We need cross‑sector working—health, social services and education—and psychological safety in product standards for toys with generative AI. Friendship‑affirming AI can be risky when a child is developmentally vulnerable."
+        },
+        {
+          "speaker": "Richard Waite",
+          "text": "Training and CPD are the big gaps. A sector survey showed 46% use AI, 31% have guidance but only 21% have training. Apprentices and managers often get no support on digital pedagogy or cyber-security."
+        },
+        {
+          "speaker": "Caroline Voaden",
+          "text": "Parents and nurseries are anxious about photos and online exposure; some nurseries are removing faces from marketing because images can be misused by AI."
+        },
+        {
+          "speaker": "Richard Waite",
+          "text": "Private, secure photo-sharing platforms for parents exist, but public advertising raises real safeguarding fears. The sector is reacting by limiting images, which is a shame for parent engagement."
+        },
+        {
+          "speaker": "Professor Gibson",
+          "text": "There have been toys that said inappropriate things—poorly guarded generative models. Without product regulation on guardrails, risks will grow as global products arrive in the market."
+        }
+      ]
+    },
+    {
+      "title": "Evidence, research and regulation",
+      "takeaway": "There’s little long-term research; witnesses recommended big, longitudinal studies, procurement standards, and risk‑based regulation tied to safeguarding.",
+      "turns": [
+        {
+          "speaker": "Professor Leaton Gray",
+          "text": "We have small short‑term studies but almost no long-view evidence. Government spending favours rollout over evaluation. We need longitudinal research tracking cohorts through childhood and adolescence to see lifelong effects."
+        },
+        {
+          "speaker": "Professor Blakemore",
+          "text": "High-quality research takes years but AI moves faster. Still, we can apply what we already know about brain development: childhood is highly plastic and social interaction with real people is crucial—AI may alter that input."
+        },
+        {
+          "speaker": "Dr Aitken",
+          "text": "Don’t be driven by hype or commercial pitches. Start by identifying specific teaching problems that need solving; often AI won’t be the right solution. Products should be developed with education expertise and child-centred design."
+        },
+        {
+          "speaker": "Meg Moss",
+          "text": "Regulation should be proportional but risk‑stratified: therapeutic or emotionally-supportive AI is high-risk and needs stricter oversight. We also need public awareness campaigns about limits and harms of AI."
+        },
+        {
+          "speaker": "Mark Sewards",
+          "text": "How long will useful research take?"
+        },
+        {
+          "speaker": "Professor Leaton Gray",
+          "text": "To understand effects across schooling and into early adulthood we need studies running years or decades, not just weeks or months. Short trials are useful but don’t answer long-term questions."
+        },
+        {
+          "speaker": "Neil Leitch",
+          "text": "We should also have product accountability—companies making edtech should answer to a body that understands child development, like medical devices do for healthcare."
+        },
+        {
+          "speaker": "Professor Blakemore",
+          "text": "And we must recognise products can do harm, not just fail to help—so safety assessments are essential before wide adoption, especially with children."
+        }
+      ]
+    },
+    {
+      "title": "Inclusion, SEND and classroom practice",
+      "takeaway": "AI can help with assistive tech and personalised support, but it risks entrenching inequalities, misdiagnosis, and replacing crucial teacher judgement and social practice.",
+      "turns": [
+        {
+          "speaker": "Mark Sewards",
+          "text": "Can AI close gaps for children with SEND?"
+        },
+        {
+          "speaker": "Professor Gibson",
+          "text": "There’s hope—AI can help profiling and identify needs—but the evidence is thin. Tools must be co-designed with families and specialists. Off‑the‑shelf products are unlikely to be adequate."
+        },
+        {
+          "speaker": "Neil Leitch",
+          "text": "I’m hopeful but cautious. Policy and inspection focus have driven inclusion more than edtech. I saw promising products in China, but settings avoid risky tech because of fear and poor support."
+        },
+        {
+          "speaker": "Richard Waite",
+          "text": "Assistive tech can transform a child’s experience—tablets, larger buttons, specialised mice can include a child in nursery life—but procuring the right device and training staff made the difference in my example."
+        },
+        {
+          "speaker": "Jodie Gosling",
+          "text": "What about AI tutors and personalised learning—do they change teacher-pupil relationships?"
+        },
+        {
+          "speaker": "Dr Aitken",
+          "text": "AI tutors can augment teachers but not replace teacher judgement. Risks include privacy, inaccuracy and unequal access. Children also use general chatbots as companions; those can be sycophantic and reinforce bad ideas."
+        },
+        {
+          "speaker": "Professor Blakemore",
+          "text": "Human teachers pick up non-verbal cues and welfare concerns AI misses. Social skills—oracy, teamwork, dealing with friction—must be practised with people, not bots."
+        },
+        {
+          "speaker": "Sureena Brackenridge",
+          "text": "For SEND, how do we avoid bias in systems?"
+        },
+        {
+          "speaker": "Professor Leaton Gray",
+          "text": "Avoid simplistic labels—SEND does not automatically mean cognitive impairment. Systems must be bespoke and not create a two‑tier solution where 'those children' get automated help while others get real teaching."
+        },
+        {
+          "speaker": "Meg Moss",
+          "text": "Some AI tools model neurodivergence from a deficit view, which can be harmful. We need careful design, oversight and a role for human specialists."
+        },
+        {
+          "speaker": "Chair",
+          "text": "To close: what concrete next steps did witnesses recommend?"
+        },
+        {
+          "speaker": "Professor Leaton Gray",
+          "text": "Urgent: cross-Department coordination (DfE, DCMS, regulators), risk‑stratified standards, procurement guidance, and long-term cohort research."
+        },
+        {
+          "speaker": "Dr Aitken",
+          "text": "Start interventions from needs, not tech hype; support educator training; build product labelling or simple standards so settings can judge safety and suitability."
+        },
+        {
+          "speaker": "Neil Leitch",
+          "text": "Make AI and emotional safeguarding part of training, support parents, and ensure early years staff are funded and given time for CPD on digital issues."
+        },
+        {
+          "speaker": "Richard Waite",
+          "text": "Provide practical CPD, model lesson plans showing intent/implementation/impact for digital pedagogy, and help nurseries access the right, affordable tools."
+        },
+        {
+          "speaker": "Professor Blakemore",
+          "text": "Protect time and space for human social interaction and oracy in early education—those are developmentally essential and not replaceable by AI."
+        }
+      ]
+    }
+  ]
+}

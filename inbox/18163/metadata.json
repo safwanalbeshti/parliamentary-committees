@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18163,
+  "activity_id": 38962,
+  "document_id": 308144,
+  "meeting_date": "2026-10-20",
+  "meeting_date_display": "20 October 2026",
+  "publication_date": "2026-10-23T11:37:07",
+  "title": "The use of Artificial Intelligence and EdTech in Education",
+  "committee": "Education Committee",
+  "committees": [
+    {
+      "id": 203,
+      "name": "Education Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9642,
+      "title": "The use of Artificial Intelligence and EdTech in Education",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Director and Co-founder",
+      "organisation": "Our AI Collective CIC"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Professor of Education Futures",
+      "organisation": "UCL Institute of Education"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Head of Public Affairs & Advocacy",
+      "organisation": "National Counselling and Psychotherapy Society (NCPS)"
+    },
+    {
+      "name": "Professor Sarah-Jayne Blakemore",
+      "role": "Professor of Psychology and Cognitive Neuroscience",
+      "organisation": "University of Cambridge"
+    }
+  ],
+  "speaker_candidates": [
+    "Science and Technology Committee member present",
+    "II",
+    "Chair",
+    "Neil Leitch",
+    "Professor Gibson",
+    "Richard Waite",
+    "Digital pedagogy was introduced in the “Birth to 5 Matters",
+    "Peter Swallow",
+    "When I deliver learning experiences, I use the STEAM approach",
+    "Mark Sewards",
+    "Manuela Perteghella",
+    "Jodie Gosling",
+    "Caroline Voaden",
+    "Professor Leaton Gray",
+    "Meg Moss",
+    "Dr Aitken",
+    "Professor Blakemore",
+    "Jess Asato",
+    "Sureena Brackenridge"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18163/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18163",
+  "source_sha256": "c9360916fa99613b3f95dd350d007a6d8a7c154587feafc95d22334aa418eaae",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18166,
+  "activity_id": 38977,
+  "document_id": 308155,
+  "meeting_date": "2026-10-21",
+  "meeting_date_display": "21 October 2026",
+  "publication_date": "2026-10-23T13:21:21",
+  "title": "Energy resilience",
+  "committee": "Energy Security and Net Zero Committee",
+  "committees": [
+    {
+      "id": 664,
+      "name": "Energy Security and Net Zero Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9697,
+      "title": "Energy resilience",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [],
+  "speaker_candidates": [
+    "Energy Security and Net Zero Committee members present",
+    "Joint Committee on National Security Strategy member present",
+    "Chair",
+    "Michael Shanks",
+    "Melanie Onn",
+    "Dan Micklethwaite",
+    "Torcuil Crichton",
+    "Wera Hobhouse",
+    "Sir Christopher Chope",
+    "Matt Western",
+    "Claire Young",
+    "Lizzi Collinge"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18166/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18166",
+  "source_sha256": "6d89ba779394064ab9c11bec0996232ab00ff35938bd5557c3c0eaebb78f6957",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

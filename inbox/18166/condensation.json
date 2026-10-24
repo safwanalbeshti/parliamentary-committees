@@ -1,0 +1,300 @@
+{
+  "schema_version": 1,
+  "source_id": 18166,
+  "source_sha256": "6d89ba779394064ab9c11bec0996232ab00ff35938bd5557c3c0eaebb78f6957",
+  "title": "Jackdaw approved, resilience under review: Ministers on short-term gas and long-term security",
+  "label": "21 October 2026 · Energy resilience",
+  "summary": "Ministers Michael Shanks and Dan Micklethwaite explained the Government’s decision to approve the Jackdaw North Sea gas field, the creation of a £2bn energy wealth fund to finance the clean transition, and a range of measures to improve energy resilience. They stressed that new oil and gas won’t cut bills, outlined work on cyber and physical protections (including subsea cables and drones), and set out plans for nuclear reform, supply-chain rebuilding, and reform of grid connections and pricing to support future renewables.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Bill Esterson",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Michael Shanks",
+      "name": "Michael Shanks",
+      "role": "Minister of State, Department for Energy Security and Net Zero",
+      "kind": "witness"
+    },
+    {
+      "label": "Dan Micklethwaite",
+      "name": "Dan Micklethwaite",
+      "role": "Director of Energy Security and Resilience, Department for Energy Security and Net Zero",
+      "kind": "witness"
+    },
+    {
+      "label": "Melanie Onn",
+      "name": "Melanie Onn",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Torcuil Crichton",
+      "name": "Torcuil Crichton",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Wera Hobhouse",
+      "name": "Wera Hobhouse",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Sir Christopher Chope",
+      "name": "Sir Christopher Chope",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Matt Western",
+      "name": "Matt Western",
+      "role": "Committee member (also JCNSS Chair)",
+      "kind": "member"
+    },
+    {
+      "label": "Claire Young",
+      "name": "Claire Young",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lizzi Collinge",
+      "name": "Lizzi Collinge",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Jackdaw",
+      "definition": "A North Sea gas field recently approved to proceed; expected to produce for about 11 years."
+    },
+    {
+      "term": "energy wealth fund",
+      "definition": "A new government fund starting with £2bn plus future Jackdaw revenues to invest in clean-energy projects and local supply chains."
+    },
+    {
+      "term": "NSTA",
+      "definition": "North Sea Transition Authority, the UK regulator for oil and gas licensing and consent."
+    },
+    {
+      "term": "NESO",
+      "definition": "National Energy System Operator, responsible for planning and operating Britain’s electricity network at a national level."
+    },
+    {
+      "term": "interconnectors",
+      "definition": "High-voltage cables that connect the UK electricity system to other countries to import or export power."
+    },
+    {
+      "term": "LNG",
+      "definition": "Liquefied natural gas shipped by sea to terminals and regasified for use in the UK gas system."
+    },
+    {
+      "term": "TNUoS",
+      "definition": "Transmission Network Use of System charges; a pattern of charges that affect where developers build and can be volatile."
+    },
+    {
+      "term": "SMR",
+      "definition": "Small modular reactor, a type of nuclear power plant the UK is developing as part of future nuclear capacity."
+    },
+    {
+      "term": "Fingleton review",
+      "definition": "A government review recommending reforms to speed up nuclear regulation and build decisions."
+    },
+    {
+      "term": "strategic spatial energy plan",
+      "definition": "A plan setting broad areas where future energy infrastructure should be built to reduce transmission costs and bottlenecks."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Why Jackdaw was approved and what the energy wealth fund will do",
+      "takeaway": "The Government approved the Jackdaw gas project for short-term security, and set up a £2bn energy wealth fund to invest in the clean-energy transition and local jobs.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Minister, you announced approval for Jackdaw today — how does that help the UK's energy resilience?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "The Energy Secretary agreed and the NSTA consented for Jackdaw to proceed. It's an already licensed North Sea gas field that was previously consented, tied up in court, and now can bring gas on this winter."
+        },
+        {
+          "speaker": "Chair",
+          "text": "You said it would make up 6% at its peak. Is that of UK demand or domestic production?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "There was some confusion in my first answer — at peak it's estimated to add about 5% of domestic production, and we also described it as increasing domestic production by around 6% across its life of roughly 11 years."
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "It strengthens short-term security, supports jobs and the supply chain, and will generate revenues. We've created an energy wealth fund, capitalised with £2 billion up front, to invest in the transition."
+        },
+        {
+          "speaker": "Torcuil Crichton",
+          "text": "Will that £2bn be targeted at places like Scotland and north-east communities affected by oil and gas decline?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "Spend will be decided project by project, but given Scotland's large pipeline of projects and supply chains, much of it may be spent there. The aim is keeping jobs and supply chains in the UK while building clean infrastructure."
+        }
+      ]
+    },
+    {
+      "title": "Bills, bills and jobs: does new gas cut energy bills?",
+      "takeaway": "Ministers warned that new North Sea gas won't lower consumer energy bills, but will help short-term supply and fund the transition.",
+      "turns": [
+        {
+          "speaker": "Melanie Onn",
+          "text": "The Secretary of State said ‘this will not bring down bills’. If bills are a central concern, why should people back this decision?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "She's right. New oil and gas doesn't reduce bills — gas is traded internationally so prices are set on world markets. Jackdaw helps short-term security, jobs and raises revenue for the transition, but it doesn't lower consumer prices directly."
+        },
+        {
+          "speaker": "Melanie Onn",
+          "text": "So it's about security and revenue, not affordability. Will the fund help workers and communities?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "Yes. We already have the North Sea jobs service to help workers retrain and the fund will invest in projects that keep supply-chain jobs in the UK and create new ones in clean energy."
+        },
+        {
+          "speaker": "Wera Hobhouse",
+          "text": "Should the strategy push more decentralised, flexible energy because that can be harder to attack and helps resilience?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "Absolutely. Building a decentralised system with more storage and flexible demand reduces single points of failure. The energy independence Bill will address this, and we’re investing in long-duration storage and batteries."
+        }
+      ]
+    },
+    {
+      "title": "Security risks: cyber, drones and subsea infrastructure",
+      "takeaway": "Ministers are strengthening cyber and physical protections, working with industry and security agencies, and treating subsea cables and drones as evolving risks on the national risk register.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "There have been reports of threats to energy infrastructure — what are you doing about cyber and physical risks?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "Resilience is my primary responsibility. We keep a national risk register, publish a public version, and prepare a new energy resilience strategy later this year. We're also strengthening cyber regulation and industry standards."
+        },
+        {
+          "speaker": "Dan Micklethwaite",
+          "text": "We monitor risks continually, run tactical briefings with industry, and work with the National Cyber Security Centre and National Protective Security Authority. We already have a regulatory cyber framework that will be strengthened by forthcoming legislation."
+        },
+        {
+          "speaker": "Matt Western",
+          "text": "How many electricity interconnectors do we have and how vulnerable are they?"
+        },
+        {
+          "speaker": "Dan Micklethwaite",
+          "text": "We have about 10 GW of electricity interconnector capacity; the percentage of generation they supply varies by hour. They're geographically spread across the North Sea and redundancy and security standards are designed to cope with asset loss."
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "Subsea activity is on the risk register. We haven't had a successful attack, but we take threats seriously — we meet industry CEOs, review training, and discuss possible legal powers around drone restrictions and other protections."
+        },
+        {
+          "speaker": "Claire Young",
+          "text": "Is AI already being used in attacks, and how do you guard against it?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "I won't discuss specific incidents in public. AI clearly expands attackers' capabilities and defenders' tools. Ofgem published guidance on safe AI use in May, and we work with the AI Security Institute and industry to use AI defensively while regulating risks."
+        }
+      ]
+    },
+    {
+      "title": "Supply chains, manufacturing and the cost of energy",
+      "takeaway": "Government wants more domestic clean-energy manufacturing for security and jobs, but admits costs and high energy prices make reshoring challenging.",
+      "turns": [
+        {
+          "speaker": "Wera Hobhouse",
+          "text": "Should we prioritise domestic manufacturing even if it costs more, to reduce supply-chain dependency?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "Yes. Building more of the supply chain in the UK improves security and creates jobs. It's also a European-wide priority and ties into re-industrialisation, though affordability is a real trade-off to manage."
+        },
+        {
+          "speaker": "Dan Micklethwaite",
+          "text": "We've backed measures like the £1bn clean energy supply chain fund and the clean industry bonus to encourage domestic manufacturing, and work with Business and Trade on critical inputs and standardisation."
+        },
+        {
+          "speaker": "Wera Hobhouse",
+          "text": "But energy is too expensive for industry to reshore. Are you doing enough to bring prices down?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "We all agree prices are too high. The Prime Minister aims to match the European average over time. The long-term fix is breaking the link with gas via renewables and nuclear, while using targeted support for energy-intensive industries now."
+        },
+        {
+          "speaker": "Claire Young",
+          "text": "Data centres and AI need lots of power — could that demand threaten resilience?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "It's a serious issue. We want sovereign compute in the UK, but are pushing for strategic siting and flexibility so data centres can use excess power at particular times rather than being 'always on'."
+        }
+      ]
+    },
+    {
+      "title": "Gas system, nuclear reform and the grid connection challenge",
+      "takeaway": "Ministers set out ongoing work on gas security, nuclear regulation reform, and urgent action to fix the grid connections queue and pricing to enable future renewables.",
+      "turns": [
+        {
+          "speaker": "Sir Christopher Chope",
+          "text": "You say gas will remain part of the mix beyond 2050. What about gas-system security and the biggest single-asset test (N-1)?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "Each year we run an N-1 test — imagining the loss of the largest asset on a cold day — and we must be assured the system can cope or take action. Examples include LNG terminals or major pipelines."
+        },
+        {
+          "speaker": "Sir Christopher Chope",
+          "text": "What about off-grid homes using LNG or biogas — should Government give a clear long-term signal to industry?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "We're technology-neutral for households. The warm homes plan doesn't pick winners; local decision-makers will choose what suits their area, and we support heat pumps, solar and batteries as priorities for decarbonisation."
+        },
+        {
+          "speaker": "Lizzi Collinge",
+          "text": "On nuclear: are regulators able to include strategic factors like resilience when they decide on new build or life extension?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "Safety remains paramount, but the Fingleton review recommends that regulators consider a broader basket of factors, including energy security. We're implementing Fingleton, preparing a nuclear regulation Bill early next year, and piloting faster ways to approve projects."
+        },
+        {
+          "speaker": "Melanie Onn",
+          "text": "What about the energy independence Bill and pricing reforms — will they arrive before Christmas?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "We're aiming to publish the Bill this year. We will legislate where needed for a reformed national pricing package; some changes don't need legislation. We also want to fix transmission charging volatility, though it's complex and won't be solved instantly for AR8."
+        },
+        {
+          "speaker": "Melanie Onn",
+          "text": "If we can't connect projects to the grid, resilience and energy security are undermined. How worried are you?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "I'm very worried; connections reform is a big frustration. The previous queue ballooned to hundreds of gigawatts. We're working with NESO, Ofgem and transmission owners on the strategic spatial energy plan and other fixes, but it will be difficult."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you both. We'll follow up on the resilience strategy and the other materials you promised to provide in writing."
+        }
+      ]
+    }
+  ]
+}

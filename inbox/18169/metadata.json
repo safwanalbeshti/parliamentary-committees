@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18169,
+  "activity_id": 38834,
+  "document_id": 308171,
+  "meeting_date": "2026-10-20",
+  "meeting_date_display": "20 October 2026",
+  "publication_date": "2026-10-23T15:39:25",
+  "title": "Fiscal devolution in England",
+  "committee": "Economic Affairs Committee",
+  "committees": [
+    {
+      "id": 175,
+      "name": "Economic Affairs Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9761,
+      "title": "Fiscal devolution in England",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Andrew Carter",
+      "role": "Chief Executive",
+      "organisation": "Centre for Cities"
+    },
+    {
+      "name": "Stephen Jones",
+      "role": "Director",
+      "organisation": "Core Cities UK"
+    },
+    {
+      "name": "Cllr Vince Maple",
+      "role": "Chair",
+      "organisation": "Key Cities"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Andrew Carter",
+    "Stephen Jones",
+    "Councillor Vince Maple",
+    "It is also about preventive approaches",
+    "Lord Young of Cookham",
+    "Lord Prentis of Leeds",
+    "Lord Razzall",
+    "Baroness Wheatcroft",
+    "Lord Carrington of Fulham",
+    "Lord Reid of Cardowan",
+    "Lord Burns",
+    "Lord Newby",
+    "Baroness Wolf of Dulwich",
+    "It is a different question really",
+    "Baroness Alexander of Cleveden",
+    "The question is"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18169/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18169",
+  "source_sha256": "2d78d70923f397fb5669962687bf790e95cfae50c9d50ba039765fba5ce857b4",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

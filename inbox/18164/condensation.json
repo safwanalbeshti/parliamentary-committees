@@ -1,0 +1,274 @@
+{
+  "schema_version": 1,
+  "source_id": 18164,
+  "source_sha256": "2e6ff0457435152462115540c09bfa68fa010ec4e1bb31346b05b445e6d186fb",
+  "title": "Regulatory sandboxes: promise, evidence gaps and risks",
+  "label": "21 October 2026 · Regulatory sandboxes in financial services",
+  "summary": "Two academic experts explained what financial regulatory sandboxes are, why regulators use them, and where evidence is lacking. They agreed sandboxes can help regulators and firms experiment with new products, improve firms’ access to finance, and signal openness to fintech. But both warned sandboxes can favour selected firms, lack clear public benefit metrics, risk regulatory capture, and create lasting regulatory gaps—especially for AI. They recommended more transparency, targeted experiments, and alternatives such as innovation hubs or broad waivers.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Baroness Noakes",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Professor Markos Zachariadis",
+      "name": "Professor Markos Zachariadis",
+      "role": "Professor and Chair in Financial Technology & Information Systems, University of Manchester",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Hilary Allen",
+      "name": "Professor Hilary Allen",
+      "role": "Professor of Law, American University Washington College of Law",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Sharkey",
+      "name": "Lord Sharkey",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Hollick",
+      "name": "Lord Hollick",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Hill of Oareford",
+      "name": "Lord Hill of Oareford",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Turnbull",
+      "name": "Lord Turnbull",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Bowles of Berkhamsted",
+      "name": "Baroness Bowles of Berkhamsted",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Lilley",
+      "name": "Lord Lilley",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Griffiths of Fforestfach",
+      "name": "Lord Griffiths of Fforestfach",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Davies of Brixton",
+      "name": "Lord Davies of Brixton",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Vaux of Harrowden",
+      "name": "Lord Vaux of Harrowden",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Donaghy",
+      "name": "Baroness Donaghy",
+      "role": "Member of the committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "regulatory sandbox",
+      "definition": "A controlled environment where firms test new financial products or business models under regulator supervision, often with temporary relaxations or guidance."
+    },
+    {
+      "term": "FCA",
+      "definition": "The UK Financial Conduct Authority, the regulator that launched the first modern fintech sandbox (2016)."
+    },
+    {
+      "term": "fintech",
+      "definition": "Technology-driven financial services and businesses, like digital banks, payments firms or algorithmic lending."
+    },
+    {
+      "term": "innovation hub",
+      "definition": "Regulator-run service offering guidance to firms on complying with existing law, without bespoke legal exemptions."
+    },
+    {
+      "term": "GFIN",
+      "definition": "Global Financial Innovation Network, a group of regulators that tried to run cross-border sandbox experiments."
+    },
+    {
+      "term": "cognitive capture",
+      "definition": "When regulators sympathise or align with the firms they work with so closely they lose distance needed for independent judgement."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What a regulatory sandbox is",
+      "takeaway": "A sandbox is a supervised, limited test space for new financial products and business models; it serves both firms and regulators but takes many forms.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Let's start: briefly, what is a regulatory sandbox and what is it for?"
+        },
+        {
+          "speaker": "Professor Markos Zachariadis",
+          "text": "A sandbox is a controlled environment where firms—often fintechs but also incumbents—test new products, services or business models with real or simulated users under regulator supervision."
+        },
+        {
+          "speaker": "Professor Markos Zachariadis",
+          "text": "They act as learning devices for regulators and firms, and as regulatory devices to help firms meet rules while experimenting."
+        },
+        {
+          "speaker": "Professor Hilary Allen",
+          "text": "Jurisdictions vary. Sandboxes also signal a country is open to fintech. Their stated goals are regulatory learning and lowering entry barriers for fintechs."
+        }
+      ]
+    },
+    {
+      "title": "Who benefits and what evidence exists",
+      "takeaway": "Sandboxes help participating firms raise finance and test ideas, but there is limited evidence they deliver public benefit or long-term consumer gains.",
+      "turns": [
+        {
+          "speaker": "Lord Sharkey",
+          "text": "How do operators judge success? Who benefits, and is there a counterfactual to show real public benefit?"
+        },
+        {
+          "speaker": "Professor Hilary Allen",
+          "text": "Most impact studies look at firm-level metrics—funding and patents. Regulators’ early reports focus on innovators' experiences but not public welfare."
+        },
+        {
+          "speaker": "Professor Markos Zachariadis",
+          "text": "Research finds sandbox firms gain better access to finance—partly a signalling effect—but there is sample bias and weak evidence on consumer welfare."
+        },
+        {
+          "speaker": "Lord Sharkey",
+          "text": "Why aren't there agreed metrics?"
+        },
+        {
+          "speaker": "Professor Markos Zachariadis",
+          "text": "There are possible metrics—competition, consumer outcomes—but regulators hold much of the data. Independent researchers need more safe data access."
+        },
+        {
+          "speaker": "Lord Vaux of Harrowden",
+          "text": "If evidence is weak, why have sandboxes spread worldwide?"
+        },
+        {
+          "speaker": "Professor Hilary Allen",
+          "text": "They spread because they were an easy signalling tool: say you welcome fintech. But running them properly is costly, so some countries later regret it."
+        },
+        {
+          "speaker": "Professor Markos Zachariadis",
+          "text": "Also, they can help regulators learn and reduce future compliance costs by clarifying rules—if run well—but that claim still needs better empirical backing."
+        }
+      ]
+    },
+    {
+      "title": "AI, durability and regulatory risks",
+      "takeaway": "Sandboxes can be risky for AI because AI's data links and ongoing learning don't fit short-term, bespoke testing; regulators may end up allowing permanent exceptions.",
+      "turns": [
+        {
+          "speaker": "Lord Hollick",
+          "text": "Can sandboxes help regulate AI-driven services that guide consumers?"
+        },
+        {
+          "speaker": "Professor Hilary Allen",
+          "text": "Sandboxes are temporary. At the end, regulators face a choice: extend exemptions or shut firms down. In Canada many crypto firms stayed on exempt status—problematic."
+        },
+        {
+          "speaker": "Professor Hilary Allen",
+          "text": "Sandboxes risk becoming bespoke negotiations between a firm and regulator, excluding public input, and can encourage firms to avoid full compliance."
+        },
+        {
+          "speaker": "Professor Markos Zachariadis",
+          "text": "AI is different: it draws on open data and adapts. Sandboxes should have safeguards or different methods for AI testing—sandbox conditions may not mirror live systems."
+        }
+      ]
+    },
+    {
+      "title": "Alternatives and improvements",
+      "takeaway": "Regulators can use innovation hubs, guidance, thematic sandboxes, broad waivers and targeted challenges instead of—or alongside—traditional sandboxes.",
+      "turns": [
+        {
+          "speaker": "Lord Hill of Oareford",
+          "text": "If sandboxes aren't ideal, what alternatives exist to encourage regulatory innovation?"
+        },
+        {
+          "speaker": "Professor Hilary Allen",
+          "text": "Innovation hubs (or 'concierge' guidance) offer bespoke guidance without bespoke legal exceptions. If laws truly need change, issue broad waivers rather than favouring chosen firms."
+        },
+        {
+          "speaker": "Professor Markos Zachariadis",
+          "text": "Other tools include digital sandboxes with synthetic data, regulatory tech sprints and open challenges—these can produce learning without permanent legal carve-outs."
+        },
+        {
+          "speaker": "Lord Turnbull",
+          "text": "Are there clear success stories—firms that used a sandbox and became household names?"
+        },
+        {
+          "speaker": "Professor Markos Zachariadis",
+          "text": "Some well-known fintechs engaged with the FCA sandbox era, but attributing their success solely to sandbox participation is hard; causation hasn't been proved."
+        },
+        {
+          "speaker": "Professor Hilary Allen",
+          "text": "In the US there was no big sandbox movement, yet fintech funding flourished—so sandboxes aren't the only path to industry growth."
+        }
+      ]
+    },
+    {
+      "title": "Transparency, consumer focus and governance",
+      "takeaway": "More transparency, independent evaluation, published criteria for admission, and consumer-focused metrics are needed to avoid bias and hidden deregulation.",
+      "turns": [
+        {
+          "speaker": "Baroness Bowles of Berkhamsted",
+          "text": "I'm worried about opacity, hidden law modification, and embedded model preferences. How to respond?"
+        },
+        {
+          "speaker": "Professor Markos Zachariadis",
+          "text": "Regulators should publish more systematic lessons, anonymised data for researchers, and clearer reporting on consumer outcomes—while protecting sensitive data."
+        },
+        {
+          "speaker": "Professor Hilary Allen",
+          "text": "Sandboxes sit in an environment that reflexively prioritises innovation. That can peel back laws designed to protect the public. Public and parliamentary scrutiny should be stronger."
+        },
+        {
+          "speaker": "Lord Lilley",
+          "text": "Regulators need to learn how law applies to new tech—but that doesn't mean repealing rules. How far should guidance go?"
+        },
+        {
+          "speaker": "Professor Hilary Allen",
+          "text": "Guidance helps apply existing laws to new tech. Law is often flexible; regulators should avoid reflexively removing rules instead of finding workable applications."
+        },
+        {
+          "speaker": "Lord Davies of Brixton",
+          "text": "Can sandboxes be recast to serve consumers rather than providers?"
+        },
+        {
+          "speaker": "Professor Hilary Allen",
+          "text": "In principle yes, but sandboxes naturally build close ties with providers, raising cognitive capture risks. Measuring consumer benefit is hard and underdone."
+        },
+        {
+          "speaker": "Baroness Donaghy",
+          "text": "What if the regulator is just promoting a fashionable idea? How to call out the 'emperor's new clothes'?"
+        },
+        {
+          "speaker": "Professor Hilary Allen",
+          "text": "It's often not malice but groupthink and fear of missing out. Independent scrutiny, willingness to question orthodoxy, and rigorous evidence standards help expose weak claims."
+        },
+        {
+          "speaker": "Professor Markos Zachariadis",
+          "text": "Regulators will share data and discuss improvements if asked. More research, safely shared data and targeted experiments—plus clearer goals—would strengthen accountability."
+        }
+      ]
+    }
+  ]
+}

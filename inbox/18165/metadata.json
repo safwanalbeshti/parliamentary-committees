@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18165,
+  "activity_id": 38876,
+  "document_id": 308153,
+  "meeting_date": "2026-10-20",
+  "meeting_date_display": "20 October 2026",
+  "publication_date": "2026-10-23T13:11:08",
+  "title": "National Audit Office Annual Report and Accounts 2025-26",
+  "committee": "Public Accounts Commission",
+  "committees": [
+    {
+      "id": 207,
+      "name": "Public Accounts Commission",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10004,
+      "title": "National Audit Office Annual Report and Accounts 2025-26",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [],
+  "speaker_candidates": [
+    "Chair",
+    "Dame Fiona Reynolds",
+    "Gareth Davies",
+    "Rebecca Sheeran",
+    "Sir Geoffrey Clifton-Brown",
+    "The chair of the new body, the Local Audit Office, has been appointed",
+    "Chris Vince",
+    "John Glen",
+    "I think all professions are grappling with this question",
+    "Sarah Olney",
+    "I declare my interest",
+    "Finally, a personal plea from me"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18165/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18165",
+  "source_sha256": "2f9b55389849e952052c21fa2ca0c68841855a45e65061a157f1c528c1ebf4b2",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

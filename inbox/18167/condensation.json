@@ -1,0 +1,362 @@
+{
+  "schema_version": 1,
+  "source_id": 18167,
+  "source_sha256": "ca25c60d227bf4bc355943ea3c73a2beadffdccdff281c93a5dbc594c2c69eeb",
+  "title": "Reindustrialisation, steel safeguards, AI and getting growth felt across the UK",
+  "label": "20 October 2026 · BIST Department priorities and challenges",
+  "summary": "The Secretary of State, Jonathan Reynolds, and Interim Permanent Secretary Amanda Brooks set out the new Department for Business, Innovation, Science and Trade’s priorities: place-based reindustrialisation, better local economies and markets, science and technology-led growth, and secure open trade. They discussed energy and business costs, procurement and “Buy British”, devolution, steel safeguards and automotive policy, employment rights, AI regulation and the Post Office Horizon redress. Ministers committed to reviews, pragmatism on EU co‑operation, supporting downstream industry, and balancing access to frontier AI with public safety.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Liam Byrne",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Jonathan Reynolds",
+      "name": "Rt Hon Jonathan Reynolds MP",
+      "role": "Secretary of State, Department for Business, Innovation, Science and Trade",
+      "kind": "witness"
+    },
+    {
+      "label": "Amanda Brooks",
+      "name": "Amanda Brooks CBE",
+      "role": "Interim Permanent Secretary, Department for Business, Innovation, Science and Trade",
+      "kind": "witness"
+    },
+    {
+      "label": "Chris Bloore",
+      "name": "Chris Bloore",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Mr Joshua Reynolds",
+      "name": "Mr Joshua Reynolds",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Dan Aldridge",
+      "name": "Dan Aldridge",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Sarah Edwards",
+      "name": "Sarah Edwards",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Antonia Bance",
+      "name": "Antonia Bance",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Charlie Maynard",
+      "name": "Charlie Maynard",
+      "role": "Member of the committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "IS-8",
+      "definition": "The eight industrial sectors the government sees as strategic for growth and investment."
+    },
+    {
+      "term": "UKRI",
+      "definition": "UK Research and Innovation, the public body that funds research and innovation."
+    },
+    {
+      "term": "USO",
+      "definition": "Universal Service Obligation for postal services—minimum delivery standards."
+    },
+    {
+      "term": "Made in Europe",
+      "definition": "An EU-UK initiative to avoid new trade frictions by recognising goods made across Europe."
+    },
+    {
+      "term": "TCA",
+      "definition": "Trade and Cooperation Agreement between the UK and EU after Brexit."
+    },
+    {
+      "term": "ZEV mandate",
+      "definition": "A transport rule that sets requirements for zero-emission vehicle sales."
+    },
+    {
+      "term": "HSSA",
+      "definition": "Horizon Support and Settlement Arrangement, one of the Post Office redress schemes."
+    },
+    {
+      "term": "AI Security Institute",
+      "definition": "A UK body set up to assess risks from frontier AI models."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "A new, bigger Department and four public objectives",
+      "takeaway": "BIST is a larger, consolidated department; ministers set four public objectives and aim to link science, industrial strategy and place-based growth.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Welcome back to the Department. You’ve returned to lead a reorganised department—tell us the vision and priorities you’ve brought back."
+        },
+        {
+          "speaker": "Jonathan Reynolds",
+          "text": "This Department is genuinely new: about 8,500 staff and roughly a £17 billion annual budget. I set four public objectives: place-based reindustrialisation using the industrial strategy, better local economies and markets, science and tech-led growth, and an open but secure and resilient trading economy."
+        },
+        {
+          "speaker": "Amanda Brooks",
+          "text": "To add detail: UKRI had already shifted around £9 billion towards the industrial-strategy sectors, with about £4.5 billion supporting innovative firms. We’ll join up those conversations inside the Department."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Will the Industrial Strategy Advisory Council be put on a statutory footing?"
+        },
+        {
+          "speaker": "Jonathan Reynolds",
+          "text": "Yes—we remain committed, though parliamentary time is tight."
+        }
+      ]
+    },
+    {
+      "title": "Costs, the Budget and bringing science into industrial policy",
+      "takeaway": "Ministers stressed industrial electricity costs, said they’ll press the Chancellor but gave no Budget specifics; bringing science spend and industrial strategy together should improve commercialisation.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Business keeps saying energy costs are crushing them. What did you press the Chancellor to prioritise?"
+        },
+        {
+          "speaker": "Jonathan Reynolds",
+          "text": "I won’t pre-empt the Budget. I fully accept the cost-of-doing-business issue—industrial electricity costs are a priority, and schemes such as BICS (for 10,000 manufacturers) are part of the response."
+        },
+        {
+          "speaker": "Chair",
+          "text": "You now control science and innovation spend—will that make application of industrial strategy easier?"
+        },
+        {
+          "speaker": "Jonathan Reynolds",
+          "text": "There’s more coherence with science inside the Department. The IS-8 focus and foundational industries will guide how we turn UK innovation into scaled companies and jobs."
+        },
+        {
+          "speaker": "Amanda Brooks",
+          "text": "UKRI’s pivot toward industrial priorities was already under way; our job is to ensure follow-through and to coordinate programmes and advisory bodies."
+        }
+      ]
+    },
+    {
+      "title": "Procurement, 'Buy British' and devolution tensions",
+      "takeaway": "Government wants procurement to support UK jobs, but must respect trade rules; devolving programmes to mayors is a priority but money and details are still being worked through.",
+      "turns": [
+        {
+          "speaker": "Sarah Edwards",
+          "text": "How will a 'Buy British' procurement agenda work when UK firms face higher costs, and how will that sit with EU obligations?"
+        },
+        {
+          "speaker": "Jonathan Reynolds",
+          "text": "‘Buy British’ means prioritising UK jobs and growth—for example, non-UK shareholders who invest in UK production still create British jobs. We’ll stay outward-facing and work within international commitments."
+        },
+        {
+          "speaker": "Sarah Edwards",
+          "text": "Does this conflict with the EU’s Made in Europe approach?"
+        },
+        {
+          "speaker": "Jonathan Reynolds",
+          "text": "They’re different issues. Made in Europe is important; we want close co‑operation with the EU to avoid trade barriers, especially for integrated sectors like automotive."
+        },
+        {
+          "speaker": "Chair",
+          "text": "How much of your new £17bn budget will be devolved to local areas and mayors?"
+        },
+        {
+          "speaker": "Amanda Brooks",
+          "text": "The total is around £17 billion (roughly £2bn RDEL and £15bn CDEL) including UKRI. The precise devolved fraction isn’t set yet—we’re working on which functions and which pots make sense to give to local partners."
+        },
+        {
+          "speaker": "Jonathan Reynolds",
+          "text": "We’re committed to devolution, but it’s about capacity, the right functions and not simply shifting money around. Local innovation partnerships and targeted pots like DRIVE35 have already been used with mayoral authorities."
+        }
+      ]
+    },
+    {
+      "title": "Steel safeguards, automotive and defence: balancing protection and downstream industry",
+      "takeaway": "Ministers defended steel safeguards as preventing loss of UK capability but accepted downstream firms face real problems and promised reviews and pragmatic fixes.",
+      "turns": [
+        {
+          "speaker": "Antonia Bance",
+          "text": "Downstream aerospace and automotive firms say safeguards’ categories and quotas are forcing them overseas. Will you review and make the quotas more granular or add fabrication exemptions?"
+        },
+        {
+          "speaker": "Jonathan Reynolds",
+          "text": "We do need trade defence to protect UK capability—without intervention we were heading to no domestic steel industry. But I accept there are downstream problems from the way categories mapped to products. We committed to a 12‑month review and will work with the Committee and industry on fixes."
+        },
+        {
+          "speaker": "Antonia Bance",
+          "text": "Quotas were adjusted after publication. Will further tweaks follow if new evidence shows harm to users?"
+        },
+        {
+          "speaker": "Amanda Brooks",
+          "text": "We are only a quarter into the new regime and are seeing data come through. If circumstances or evidence change, we will consider further adjustments and advise the Secretary of State."
+        },
+        {
+          "speaker": "Charlie Maynard",
+          "text": "The UK market is tiny versus the EU's; limiting access risks sending downstream jobs overseas—are we at risk of undermining reindustrialisation?"
+        },
+        {
+          "speaker": "Jonathan Reynolds",
+          "text": "I don’t accept that headline. We’re seeking resolution with the EU on steel and Made in Europe issues. The goal is to avoid long‑term dependence and keep key capabilities here—examples like speciality steel for ammunition show why that matters."
+        },
+        {
+          "speaker": "Antonia Bance",
+          "text": "What about procurement mismatches—DfE asking for EAF steel we can’t yet make?"
+        },
+        {
+          "speaker": "Jonathan Reynolds",
+          "text": "I’ll look at specific procurement requirements. We need transition plans—for example, Scunthorpe to low‑carbon production—and to align procurement with industrial capability."
+        },
+        {
+          "speaker": "Chair",
+          "text": "On automotive, is the ZEV mandate consultation concluding?"
+        },
+        {
+          "speaker": "Amanda Brooks",
+          "text": "The DfT consultation closes this week; it will follow normal processes and a response is expected before Christmas."
+        },
+        {
+          "speaker": "Jonathan Reynolds",
+          "text": "We’ll keep looking for pragmatic flexibilities. The UK auto sector is export-led and closely integrated with EU supply chains, so we must avoid unintended barriers."
+        }
+      ]
+    },
+    {
+      "title": "Employment rights and small firms under cost pressure",
+      "takeaway": "Ministers stressed wanting better protections for workers on variable hours and clearer employment status rules, while recognising small firms face tight margins and need targeted support.",
+      "turns": [
+        {
+          "speaker": "Chris Bloore",
+          "text": "Small businesses report rising costs and squeezed margins—will Budget measures ease that pressure?"
+        },
+        {
+          "speaker": "Jonathan Reynolds",
+          "text": "I hear them—our levers include payment terms, business support and measures like the Commercial Payments Bill, but tax choices are for the Chancellor. We’ve doubled down on support via the British Business Bank and targeted reliefs."
+        },
+        {
+          "speaker": "Mr Joshua Reynolds",
+          "text": "Labour promised to replace business rates in 2024—when will reform happen?"
+        },
+        {
+          "speaker": "Jonathan Reynolds",
+          "text": "I support wholesale reform but taxation decisions are for HMT; we’ll press the case but can’t pre-announce the Chancellor’s plans."
+        },
+        {
+          "speaker": "Antonia Bance",
+          "text": "On guaranteed hours, USDAW argues for a 48‑hour threshold; Government favours 8–20 hours. Do you accept USDAW’s evidence?"
+        },
+        {
+          "speaker": "Jonathan Reynolds",
+          "text": "The consultation exists to test evidence. The aim is to offer workers regular-hours contracts where they are effectively working consistent hours; 48 hours looks high to me, but we’ll listen to the submissions."
+        },
+        {
+          "speaker": "Antonia Bance",
+          "text": "And on employment status reform—will you legislate in this Parliament?"
+        },
+        {
+          "speaker": "Jonathan Reynolds",
+          "text": "Yes, we need to fix the limb (b) worker/self-employed boundary—issues like substitution clauses and tribunal burdens need change; it will require primary legislation and is a priority for me."
+        }
+      ]
+    },
+    {
+      "title": "AI and cyber: safety versus retaining access to frontier models",
+      "takeaway": "Ministers want strong AI safety rules but warn regulators must avoid cutting off UK access to frontier models; they’ll use the Cyber Security Bill and other vehicles to add protections.",
+      "turns": [
+        {
+          "speaker": "Dan Aldridge",
+          "text": "SMEs need help adopting AI—when will the SME digital adoption taskforce make practical progress?"
+        },
+        {
+          "speaker": "Jonathan Reynolds",
+          "text": "The taskforce is important; an update was published earlier this year and the target horizon is 2035. I’ll write with details—small firms already report useful AI use cases but adoption must spread."
+        },
+        {
+          "speaker": "Sarah Edwards",
+          "text": "We heard worrying testimony about frontier AI and online harms. Will you press for amendments to the Cyber Security and Resilience Bill?"
+        },
+        {
+          "speaker": "Jonathan Reynolds",
+          "text": "Kanishka, the AI Minister, has set out plans and we’ll use parliamentary opportunities—the Cyber Bill at Lords Report stage is a vehicle to strengthen protections for critical infrastructure and consider incident reporting and other measures."
+        },
+        {
+          "speaker": "Charlie Maynard",
+          "text": "But if firms release dangerous models anyway, can the UK do anything if it loses access?"
+        },
+        {
+          "speaker": "Jonathan Reynolds",
+          "text": "We must balance safety and access: losing access to frontier models would hinder our security and ability to test them. The AI Security Institute and our security services are central; we’ll press for testing and standards without cutting off key tools."
+        },
+        {
+          "speaker": "Dan Aldridge",
+          "text": "Legislation ages fast—how do we keep pace after a Bill becomes law?"
+        },
+        {
+          "speaker": "Jonathan Reynolds",
+          "text": "This is a live policy issue. Parliament may need to consider faster, targeted powers with safeguards—secondary tools that let us react as technology moves while preserving scrutiny."
+        }
+      ]
+    },
+    {
+      "title": "EU relations, trade defence and Post Office redress",
+      "takeaway": "The PM will set out options on the UK‑EU relationship; ministers want closer cooperation on trade defence and Made in Europe. On Post Office redress, significant sums have been paid but outstanding claims remain under review.",
+      "turns": [
+        {
+          "speaker": "Mr Joshua Reynolds",
+          "text": "The Prime Minister has said he might want a closer relationship with the EU—what direction will the Government take?"
+        },
+        {
+          "speaker": "Jonathan Reynolds",
+          "text": "The PM will set out options soon. We want a closer economic relationship and practical fixes—areas like SPS, power cooperation and rules of origin matter for UK business. We won’t pre-empt his speech."
+        },
+        {
+          "speaker": "Charlie Maynard",
+          "text": "Will we align with EU trade defence on Chinese EVs?"
+        },
+        {
+          "speaker": "Jonathan Reynolds",
+          "text": "We keep the situation under close review. We’ll act in the UK’s interest and co‑operate with European partners, but decisions must reflect our market and exports; trade is complex and we’ll judge each case."
+        },
+        {
+          "speaker": "Chair",
+          "text": "On Post Office Horizon victims: £1.7bn has been paid and 87% of applicants dealt with, but 1,800 claims are still outstanding. When will those be settled?"
+        },
+        {
+          "speaker": "Jonathan Reynolds",
+          "text": "Getting redress has been a priority; schemes have paid out £1.7bn. Many outstanding cases need extra evidence from claimants or are complex. We’ll keep schemes under review and won’t rush closure if that would prevent fair awards."
+        },
+        {
+          "speaker": "Chair",
+          "text": "HSSA has 573 claims received but only 26 settled—5% settled. Could upfront legal advice help speed things up?"
+        },
+        {
+          "speaker": "Jonathan Reynolds",
+          "text": "Yes—we’ve introduced options to expedite awards and will consider ways to reduce delays, including reviewing support and advice that helps claimants present their cases."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. We’ll return to Horizon. Any final remarks?"
+        },
+        {
+          "speaker": "Jonathan Reynolds",
+          "text": "We want to make prosperity UK‑wide, protect strategic capabilities, support small firms, and harness technology safely. We welcome scrutiny and will work with the Committee on metrics and delivery."
+        },
+        {
+          "speaker": "Chair",
+          "text": "We look forward to following up as your plans develop. Thank you both for coming."
+        }
+      ]
+    }
+  ]
+}

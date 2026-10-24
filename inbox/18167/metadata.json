@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18167,
+  "activity_id": 39043,
+  "document_id": 308164,
+  "meeting_date": "2026-10-20",
+  "meeting_date_display": "20 October 2026",
+  "publication_date": "2026-10-23T14:45:10",
+  "title": "The work of the Department for Business, Innovation, Science and Trade",
+  "committee": "Business, Innovation, Science and Trade Committee",
+  "committees": [
+    {
+      "id": 365,
+      "name": "Business, Innovation, Science and Trade Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10012,
+      "title": "The work of the Department for Business, Innovation, Science and Trade",
+      "type": "Regular evidence sessions"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Secretary of State",
+      "organisation": "Department for Business, Innovation, Science and Trade"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Interim Permanent Secretary",
+      "organisation": "Department for Business, Innovation, Science and Trade"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Jonathan Reynolds",
+    "Amanda Brooks",
+    "Chris Bloore",
+    "Mr Joshua Reynolds",
+    "Dan Aldridge",
+    "Sarah Edwards",
+    "Antonia Bance",
+    "Charlie Maynard"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18167/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18167",
+  "source_sha256": "ca25c60d227bf4bc355943ea3c73a2beadffdccdff281c93a5dbc594c2c69eeb",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18168,
+  "activity_id": 38649,
+  "document_id": 308169,
+  "meeting_date": "2026-10-20",
+  "meeting_date_display": "20 October 2026",
+  "publication_date": "2026-10-23T15:18:36",
+  "title": "Work of His Majesty's Chief Inspector of Prisons",
+  "committee": "Justice Committee",
+  "committees": [
+    {
+      "id": 102,
+      "name": "Justice Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9962,
+      "title": "Work of His Majesty's Chief Inspector of Prisons",
+      "type": "Regular evidence sessions"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "HM Chief Inspector of Prisons",
+      "organisation": "HM Inspectorate of Prisons"
+    }
+  ],
+  "speaker_candidates": [
+    "Witness",
+    "Chair",
+    "Warinder Juss",
+    "Janet Daby",
+    "Mrs Russell",
+    "Tessa Munt",
+    "Vikki Slade",
+    "Dr Shastri-Hurst",
+    "Sir Ashley Fox",
+    "Charlie Taylor"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18168/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18168",
+  "source_sha256": "3e14248b0d7cecd620e394b4025fa2492dd73ebb8f0b28dcc89dece7bc204d01",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}
