@@ -1,0 +1,269 @@
+Oral evidence - 21 Oct 2026
+
+Environment and Climate Change Committee
+
+Uncorrected oral evidence: Dunkelflaute and the risks of electricity intermittency
+
+Wednesday 21 October 2026
+
+10.50 am
+
+Watch the meeting
+
+Members present: Baroness Sheehan (The Chair); Lord Ashcombe; Baroness Coffey; Lord Jay of Ewelme; Lord Lennie; Baroness McIntosh of Pickering; Baroness Rafferty; Lord Rooker; Lord Trees; Baroness Whitaker.
+
+Evidence Session No. 4 Heard in Public Questions 37 - 46
+
+Witnesses
+
+Alex Weir, Director and Energy Policy Expert, Baringa; Marc Hedin, Head of Research, Aurora Energy Research.
+
+USE OF THE TRANSCRIPT
+
+This is an uncorrected transcript of evidence taken in public and webcast on www.parliamentlive.tv.
+
+Any public use of, or reference to, the contents should make clear that neither Members nor witnesses have had the opportunity to correct the record. If in doubt as to the propriety of using the transcript, please contact the Clerk of the Committee.
+
+Members and witnesses are asked to send corrections to the Clerk of the Committee within 14 days of receipt.
+
+16
+
+Examination of witnesses
+
+Alex Weir and Marc Hedin.
+
+Q37 The Chair: Thank you, and welcome to the second panel session of the day. Our two witnesses are with us. Before I move to the first question, I will ask each of you to briefly introduce yourselves.
+
+Marc Hedin: Good morning, everyone. Thank you for having me here today. I am head of research at Aurora Energy Research, a power market analytics company.
+
+Alex Weir: I am a director at Baringa Partners, which is a management consultancy with a big focus on energy consulting. It is very nice to be here.
+
+The Chair: Excellent. The second panel today will be focusing on market mechanisms and the cost effectiveness of technology portfolios.
+
+Q38 Lord Jay of Ewelme: Thank you very much for being with us today. We have heard, not least in the last session, that different technologies are on a different state of readiness for responding to Dunkelflaute events, whether lasting days or lasting weeks. You might want to say a bit about that, but in particular could you say something about the relative cost effectiveness of different technologies? That is an issue on which we particularly want to focus. Finally, could you say whether some technologies have benefits other than stopping the lights going out when Dunkelflaute is with us? Who would like to go first on that? You both look eager.
+
+Marc Hedin: I will start with small framing point opening statement, if I may. Dunkelflaute is the right place to start because we are building a system that is quite wind heavy, but I also reflect on the fact that it is probably the wrong place to stop. Weather affects all technologies on the system, not just wind and solar. We know that gas plants lose output in hot weather. This happened this summer during the heatwave. Nuclear de-rates when cooling water warms, and there are interconnector fails. One event that came quite close to breaking Britain in the last decade was during the Beast from the East, when a cold snap stressed the gas network. That was not a wind drought. Therefore, we would encourage the committee to ask for a resilience assessment across all types of weather—heat, cold, drought, storm, not just wind drought—especially as our climate is changing and therefore the risk might differ tomorrow compared to today.
+
+To address the first question, we have run a whole-system comparison of two scenarios, one where we honour the firm, low-carbon capacity commitment from 2021, investing a lot in CCS, in additional nuclear, in BECCS and hydrogen and so on, and one that is more a cost-conscious scenario to understand what the impact was on both. We know that that cost-conscious scenario still does include some nuclear and, some CCS, but it also has a bit more long-duration energy storage, as was mentioned in the previous panel, and more renewables, and it also maintains, which is important, a large unabated gas fleet and adds some gas and diesel peakers as well to ensure that we can address scarcity events appropriately. The difference between the two is about £80 billion over the 2040s in total system cost. That is a reduction of average system cost by about 10% in the 2040s.
+
+The downside to having a lower-cost system is a bit more emissions. We are talking about an extra 6.1 million tonnes of carbon dioxide a year during the 2040s. Put the two together, removing that last slice of emissions from the power system costs roughly £1,300 per tonne, so the question is whether decarbonising the last percentage of the power system is the best available use of money. This money problem is important because the deeper problem is that by decarbonising peaking capacity we are risking adding enormous system costs, which would in turn slow down the pace of electrification, and it makes the electricity we want people to switch to more expensive relative to gas and petrol. That disincentivises exactly the fuel switching and uptake of electric vehicles and heat pumps that we would like. This is particularly important because electrification of society is materially more meaningful to decarbonising the British economy than decarbonising the last few percentage points from power generation. Electrification probably brings more value for money when thinking about emission reductions.
+
+Alex Weir: I agree very much with everything you have just said. We have very similar results in our core cost-effective scenario. It is also around 6 million tonnes of carbon dioxide emissions per year in the 2040s from the power system, which is, as you said, a relatively small proportion of the overall emissions in the economy at the time. The broader point I was going to make is that you need to look at the whole energy system, not focusing too narrowly on the electricity system in terms of decarbonisation.
+
+On the specific point around different technologies, the same applies when you look at technology: you need to look at the technology in the context of the system in which it is deployed. There is no single silver-bullet technology that is better than all others. The marginal value of all technologies decreases as you deploy more of them; that is true of gas, nuclear, wind, solar and storage. When you add an extra megawatt of a technology that is already widely deployed in the system, it is essentially competing with the other units of the same technology. A layered approach is what you need, and what we have. At the moment, a lot of short-duration storage is the most cost-effective thing to be added to the system, because there are still a lot of short-term price spreads within a day that can be captured by short-duration batteries, which helps reduce the amount of gas turn-up that is needed in the short term.
+
+As we build out more intermittent renewable generation, we will need to add longer-duration storage, which is what you are already seeing happening with more four-hour batteries, for example, and longer-duration batteries coming forward. The need for ultra-long-duration storage arises only when you reach very high penetration of renewables and are trying to drive out those last few tonnes of carbon emissions. Those technologies have a role to play, but it is in that tail scenario rather than something that would be cost effective to deploy at scale today.
+
+Lord Jay of Ewelme: I have one other question. In the last session, one of our witnesses said that we need to follow up on all technologies. Do you think that is right, or do you think some technologies are so unlikely to be part of the final mix that we need not continue with them?
+
+Marc Hedin: As was discussed in the previous panel, there is a lot of uncertainty as to when technologies are regarded as proven technically but also proven economically. When technologies are proven both technically and economically, it would be great to implement them in the system. Because there is so much uncertainty as to what that timeline looks like, there is great value in keeping optionality in your system. The gas fleet is appropriate for rare events—perhaps a couple of periods a year of deep and long renewable shortfalls—until we have something that is as cost effective and as technically proven. Many of the technologies discussed in this committee are, to some extent, unproven, even if there are prospects for them, and we can be quite optimistic about them. When we think about the reliability of a system, a reliability assessment is quite difficult to make of technologies that are partly unproven and do not have a history of operations in the system.
+
+Alex Weir: I agree. To be a bit sharper about it, I do not think we should say we need everything all at once. I am not sure that is the point that the previous witness was making, but the point about optionality and research and development across a range of technologies is important. However, that does not mean we should be racing to deploy everything at very large scale as fast as we can. That is the recipe for a very expensive system that may not deliver the outcomes we need. There are certain technologies where there has been a lot of research and development already and the costs are not coming down. They look like a relatively unlikely prospect of delivering value in the UK system.
+
+Every power system is different. The natural resources, the demand profiles, the weather patterns and the climates of different countries vary. What is suitable for one country is not necessarily suitable for another. Take floating offshore wind: the UK has quite a lot of sites for fixed-bottom offshore wind, whereas countries such as Japan have very deep waters very close to shore, and floating wind might be the only viable offshore wind solution. There can be value in the UK developing technologies from a commercial and export potential. That does not mean we have to deploy them all at scale in the UK.
+
+Q39 Baroness Whitaker: Thank you very much for coming in. Following on from that, I would like to modify my brief her. What is the value—particularly the relative value—of investing in firm generation technologies that contribute to improving base load, obviously nuclear, but also particularly tidal and wave, to reduce the amount of flexible generation or storage required in the future?
+
+Alex Weir: Nuclear is not the same as wave, and it is not the same as tidal. They each have very different characteristics. Nuclear is a true base-load technology: it should run at a capacity factor of 90% or more. While it is technically capable of flexing its output, that is usually not economically sensible because the vast majority of the costs are in building the asset, and when you build a very expensive asset you want to use it as much as possible so the costs come down. Some advanced nuclear technologies can flex their electricity output by diverting some of the heat from the reactor into a heat store—and either use that heat or use that heat to generate electricity—but the core technology is base load.
+
+Wind and tidal are not base load; they are intermittent, tidal with a fairly high predictability. Wave has much less flexibility and is much more correlated with wind output.
+
+The answer will therefore differ between those technologies. You need to look at them all from a system perspective. It is not just about adding more nuclear capacity to the same system. You would be adjusting what other capacity is built. With more nuclear, you would need some less flexible generation and less storage. You would also need less renewable capacity, because adding nuclear will otherwise simply curtail more renewables.
+
+A system with no nuclear capacity that is very heavily dependent on wind and solar will almost certainly be lower cost with some nuclear capacity. Conversely, a system such as France, with huge nuclear capacity, would be unlikely to find more nuclear cost effective. More renewables would be more cost effective there. Tidal may offer some benefits depending on cost, but it is at the moment still an expensive technology that is still intermittent. It may reduce the amount of very long-duration storage needed, but it will not reduce—
+
+The Chair: Intermittent, but predictable.
+
+Alex Weir: It is predictable, but still intermittent. There are times when it is generating nothing, so you still need flexible generation or storage to fill those gaps.
+
+Baroness Whitaker: The tide is twice a day, but waves are all the time.
+
+Alex Weir: The tide goes twice a day, but the tidal range changes a great deal from spring tide to neap tide. There is a monthly pattern, and you would still need flexible generation and storage to manage that gap. It would reduce the need for very long-duration storage beyond the month, but that is still a very long duration. Wave energy, related to the height of the waves, varies significantly with the amount of wind there is. From the time I first started in the energy field in 2009, when I visited the Pelamis wave snake in Scotland in deployment, to today, the costs are still very far from being cost effective. I personally see very little prospect of wave power at scale being a cost-effective option for the UK.
+
+Baroness Whitaker: To continue on wave, if I may, is it not the case that the contracts for difference system makes it difficult for wave to compete, because other forms of marine energy, and certainly wind and solar, are more scaled up, but wave has not had that innovation push from either the private sector or the public sector?
+
+Alex Weir: The contracts for difference scheme is not primarily designed for demonstration projects. Other forms of innovation and deployment funding are better suited to those pre-commercial technologies, because it is very hard to raise capital for large-scale deployment of technologies at that technology readiness level. There are separate pots and separate clearing prices for wave—certainly for tidal energy—in the CfD scheme, so they are not having to compete head to head with wind and solar.
+
+The Chair: We heard in the previous session also that we are looking at Dunkelflaute events and how to mitigate the effects of those. When the wind does not blow, we also do not have waves, and we are in the doldrums.
+
+Baroness Whitaker: Tide, so not quite.
+
+The Chair: We are talking about wave here.
+
+Baroness Whitaker: I think you have covered it, but just finally to nail the point: wave energy is not ring-fenced between contracts for difference.
+
+Alex Weir: I am sorry, I did not quite catch that.
+
+Baroness Whitaker: Wave energy bids are not ring-fenced within contracts for difference. That is the point—it is automatic. That is for the record, as it were.
+
+Q40 Baroness McIntosh of Pickering: Welcome. First of all, we are currently 50% self-sufficient in energy, and it is forecast that we are going to become 90% dependent on imports. Do we have a timescale for that? I know it is dependent on being less reliant on oil and gas reserves in the North Sea, but what timescale are we looking at?
+
+Marc Hedin: I am sorry. I am not sure I quite got the question.
+
+Baroness McIntosh of Pickering: We are currently 50% self-sufficient in energy. We are going to become 90% dependent on imports. Is that in 10 years—
+
+The Chair: I think we need references.
+
+Baroness McIntosh of Pickering: The reference is in the footnotes from an article by one of the bidders in the North Sea scale. It would be good to have it on the record, but you could write to us if you do not have the timescale.
+
+The Chair: If you do not recognise those figures, please do say so.
+
+Baroness McIntosh of Pickering: You do not think we are going to be 90% dependent on imports of energy in the next 10 years?
+
+Alex Weir: I am not familiar with that report. I presume you are talking about all energy, not just electricity.
+
+Baroness McIntosh of Pickering: Yes. As we become less dependent on oil and gas from the North Sea, we are going to become more dependent on imports.
+
+Marc Hedin: Of oil and gas.
+
+Alex Weir: Oil and gas is not my specialist area.
+
+Baroness McIntosh of Pickering: Indeed. That is fair enough. Thank you. I can send you the article; it is very interesting. What, to you, are the cost and energy—and the environmental—implications of importing a greater proportion of our energy in times of high demand and low supply, compared to investing in low-carbon dispatchable power?
+
+Marc Hedin: Interconnections in the power sector are extremely valuable for most of the year. They help the system be more optimal and more cost effective. They are probably least valuable in exactly the hours that this inquiry is about. The reason is correlation. A Dunkelflaute event does not stop at the Channel. It may sit over north-west Europe and therefore apply pressure on all neighbouring systems at the same time. The one interesting exception is probably Norway, because Norwegian hydro is stored rather than weather dependent, and is therefore far less correlated with wind. However, it is not unlimited, and exports from Norway to the UK are increasingly subject to Norwegian politics and water levels. Norway has become a lot more cautious about exporting into high European prices, because it is already a highly electrified country and does not want to risk high-price contagion to Norway during those critical hours in the UK or elsewhere in Europe.
+
+Baroness McIntosh of Pickering: Does it not help that we are also exporting energy to Norway at certain times? It is a two-way process. I understand we are looking at an interconnector with Germany, which may bring other opportunities but also issues.
+
+Marc Hedin: For most of the time it is very helpful because, as I mentioned, there is some correlation and there is a risk that a Dunkelflaute goes far beyond the British Isles. However, on many days there is decorrelation and, as my colleague mentioned, all systems are different; they react in ever so slightly different ways. It makes sense sometimes, when there is surplus in Great Britain, to export to Norway for them to refill their reservoir, or to Germany or to France, and vice versa, because it helps to optimise all power systems.
+
+However, if the discussion is specifically about reliability and Dunkelflaute events, I would take some perspective from saying that interconnectors can truly provide reliable back-up in those moments. That is already a reality when you look at the de-rating factors of interconnectors in the capacity mechanism, which are in the 50% to 70% range depending on the interconnector. These already reflect that today. It is not guaranteed that they will be available at all the critical hours.
+
+Alex Weir: I agree with all that. I have only a couple of points to add. One of the valuable things around interconnectors is that peaks can occur at different times in different markets, so there is still some capacity and reliability benefit, even if there is a broader Dunkelflaute event.
+
+On the broader point about imported energy as a whole, the availability of gas during prolonged high-demand periods is increasingly under scrutiny. The Government have a consultation out at the moment on gas import capacity, which is focused on the system’s ability to provide the flow rate of the gas, including the imports coming through, rather than necessarily the amount of stored energy that we have access to.
+
+One of the big changes with the expansion of liquefied natural gas and the sources of that is that boats can come in every day, providing quite a high volume of energy, but the key is the ability to maintain peak flow through the whole system. Although that might be seen as import dependence and negative from a security of supply perspective, it does provide diversification, where a Dunkelflaute event here is very unlikely to be correlated with events in other parts of the world that would slow down or interrupt the rate of arrival of LNG. It is important to think about the whole system.
+
+Baroness McIntosh of Pickering: I have one last question. Within the portfolio, interconnectors have a role to play, but they will not be a game-changer in the long term.
+
+Alex Weir: I think they are a game-changer from a cost and stability of the system perspective because, for most of the year, most of the time, they are hugely beneficial, as Marc was saying. They are not the silver bullet to ensuring security of supply during Dunkelflaute events.
+
+Marc Hedin: Imports and interconnectors are linked to international co‑operation, and maybe there is a wider point to be made. We were discussing earlier about low-carbon firm capacity and how to decarbonise the remaining percentage of the system that helps tackle Dunkelflaute, for instance. We do not necessarily need to assume that everything has to be solved domestically. That is a fair point, and that is why we discussed interconnectors. That can apply to carbon reduction as well, because carbon does not stop at the border. There might be international co‑operation that might be helpful for carbon removals, rather than investing in domestic projects that might not be as cost effective, especially when you compare the pounds per tonne removed of a domestic project with some removal programmes elsewhere.
+
+Q41 Lord Rooker: Good morning. Thank you for coming. It is an interesting discussion. May I follow up on one point from the last discussion? That 90% figure was mentioned in the first panel today. I did not quite understand it, but I did not feel it was appropriate to come in with a supplementary.
+
+I have a second point about Norway. If the extra water coming into the North Atlantic from what was Greenland and the Arctic changes the Gulf Stream and causes the Norwegian coast to freeze, we are in real trouble in terms of interconnectors, because they would be in a very different situation from now. That is not my question, it is just a comment, but it does concern people, given the way things are changing in the Atlantic.
+
+On the issue, the current market mechanisms do not reward the low-carbon assets that are only needed rarely, such as hydrogen storage and retained gas. It is a challenge, in a way, that they become a strategic reserve. In your view, are the existing market mechanisms appropriate for delivering the technologies required at the scale required? If we think about the value of a strategic reserve, could you give your view about how it would be funded—private or public—and whether those controlling a strategic reserve would be able to operate in other markets while holding the reserve? Would that grant them economic flexibility?
+
+Alex Weir: On the comment about Norway, I will not respond in detail, but the important point is that we are probably not factoring in sufficiently security of supply assessments, and the risk of dramatic changes to weather patterns resulting from events that are still considered unlikely to happen in the next 30 years, but not vanishingly unlikely. There is a broader point about the risk of major changes in weather patterns that is probably not being considered today.
+
+On the point about market mechanisms, the blunt answer is no, they are probably not appropriate today, but that is widely recognised and there is a lot of work under way. The Government, NESO and Ofgem have been looking at the changes that are needed. One example is the cap and floor scheme for long-duration energy storage, of which phase 1 is in progress. There have also been proposals around changes to the capacity market scheme, the CfD scheme and the way markets operate, as part of the review of electricity market arrangements—the REMA process—that DESNZ ran for about three years, concluding last year.
+
+My broader point around market arrangements is the proliferation of individual policies to tackle specific perceived issues with the way investment signals and dispatch signals work in the market, but they are generally not joined up and frequently send conflicting signals. One of the speakers in the previous session made the point that the CfD scheme does not necessarily factor in the implications for system reliability, which then has to be picked up through the capacity market scheme.
+
+These schemes run in isolation and often optimise for a single metric—strike price in the CfD scheme, or the capacity market clearing price in the capacity market, which is an annual availability payment on a de-rated capacity—rather than factoring in the broader system costs. The other underlying point is the way our wholesale market, balancing mechanism and ancillary services mechanisms work, is also not always aligned with sending the optimal signals for dispatch, investment, stability and carbon.
+
+My view is that there are important changes that are being considered. Some of the ones not taken forward under REMA will probably have to be looked at again by the Government. My broader concern is that these mechanisms do not talk to each other sufficiently at the moment.
+
+One other important point to mention is that the strategic spatial energy plan being developed by NESO is an attempt to look across the whole energy system and provide a view on the overall best mixture of different assets—where they should be and when they should come online—to deliver the lowest-cost system while meeting the Government’s climate targets. That is a valuable piece of work. The question is whether the mechanisms are in place for the Government to implement that plan. That is where I see a gap at the moment.
+
+Lord Rooker: You described a classic silo effect, and that could be highly damaging and probably dangerous if it continues.
+
+Alex Weir: Yes. There is a lot of awareness of the issues, and there are bespoke interventions to try to address them. From a danger perspective, the issue of security of supply is very well recognised and understood. The risk is primarily around cost, where the mechanisms are not delivering the most cost-effective mix of technologies and are not sending the right signals for how those should be operated across the system.
+
+Marc Hedin: To add to that, our original assessment earlier was that probably the most cost effective and realistic thing in terms of timing—in the next 20 to 25 years—to tackle Dunkelflaute events is to maintain a gas fleet on the system and potentially add some peakers. It is a fleet of assets that would run very little. The timing here is important. The CCGT fleet, for instance, in GB is currently around 29 gigawatts, and the bulk of it is set to retire in the late 2030s and early 2040s. It is therefore important to ensure there is a mechanism to maintain that fleet online. As was mentioned in a previous panel—not today, but earlier in the month—on the cost of refurbishment versus new build versus some of the new low-carbon firm capacity options discussed in this committee, maintaining that fleet on the system is by far the most cost-efficient thing we can do.
+
+At the moment, it does not need a dramatic rethink of the system. The capacity market is a perfectly fine instrument for doing that job in many respects, but it may need some adjustment to remain fit for purpose, and that specific purpose, in the next 10 years. Something else that would potentially be helpful for this challenge is policy clarity on the role of gas capacity in the system beyond 2030, because that would go a long way to reducing the cost of capital for new peaking generation. The policy risk is currently considered very high, which translates into higher debt and equity costs. Providing that clarity would also reduce those costs.
+
+Lord Rooker: That is interesting. Thank you.
+
+The Chair: To follow up, the Government are currently reviewing the integration of low-carbon technologies into the capacity market. What would you like to see come out of that review?
+
+Alex Weir: They are eligible to participate in the capacity market already. The issue is that technologies that are not receiving a separate form of support, such as the CfD or legacy renewables obligation, are often not competitive with unabated thermal technologies, particularly peaking plants, which are relatively low cost to build, and the capacity market pays a capacity payment.
+
+My view is that we need to be quite careful about creating a separate capacity market for low-carbon technology. There is a risk that that leads to much higher system costs and creates yet another separate mechanism, which goes to my point about these mechanisms not being joined up. There may be some issues with how de-rating factors are set in the capacity market, or implicit advantages for lower-capex technologies over higher-capex technologies, so there may be some tweaks that you could make to the rules. However, I would be very cautious about creating a completely separate market for low-carbon technologies.
+
+Marc Hedin: I agree. Creating more markets creates more distortions to the market and suboptimal behaviour in dispatch and potentially in investment decisions. Keeping the capacity market technology-agnostic seems to be the right way forward. It can be adjusted. As I mentioned, it might require some, probably minor, adjustment to remain fit for purpose in the 2030s, but I would stick with the capacity market that we currently have.
+
+The Chair: The UK Energy Research Centre said in written evidence—and I think that this was also mentioned by the Hydrogen Energy Association—“Future storage assets are unlikely to be financed solely to provide energy during rare multi-week droughts. Their commercial viability should account for their ability to generate value throughout the year”. Therefore, we can spend some money, store these things, and use them as firm energy sources as well as to provide the energy to fill gaps during the Dunkelflaute. Would that be viable cost effectively?
+
+Marc Hedin: That is already the case. Long-duration energy storage has a very high de-rating factor in the capacity market, which shows that it is considered quite heavy for stress events, but it also cycles along the year. Long-duration batteries—six to eight hours, for example—would be expected to help optimise the system day in, day out, ensure lower system costs and contribute to a number of ancillary services. There is a lot of value for the system beyond just responding to those stress events. However, there are currently some limitations that we discussed in some of the previous panels around long-duration storage with respect to Dunkelflaute events. If you have an event lasting three to four days and assets that can only store energy for 10 to 12 hours, they obviously cannot, on their own, respond to that entire event.
+
+The Chair: We were talking about ultra-long-duration storage. That should be possible, yes? I mean, for example, compressed air or hydrogen.
+
+Alex Weir: For ultra-long-duration storage, can it, and should it, operate in the market outside of extreme Dunkelflaute events? If it is storing a very costly fuel, it often will not respond unless prices are very high. From a commercial perspective, it could be open to doing so, but ultra-long-duration storage can choose very carefully which periods to operate in.
+
+Q42 The Chair: As I understand it, these salt caverns the UK is blessed with are numerous and can store vast volumes. We are currently paying wind power generation to be turned off. If, instead of doing that, we can use it to either compress air or produce hydrogen and store it continuously, then it is effectively free energy available for firm power generation or to fill gaps, even very long-duration gaps. Is that possible?
+
+Alex Weir: It is certainly possible, and people are looking at doing exactly that. I would be cautious about describing it as free energy or that it is necessarily the most cost-effective solution.
+
+The Chair: We would save the curtailment cost, would we not? At the moment, we are paying people not to generate that energy.
+
+Alex Weir: Most of the curtailment costs come from paying for gas to turn up in the south, where the generation is needed.
+
+The Chair: Is the cost coming from the gas?
+
+Alex Weir: Most of the cost is coming from the gas. The most cost-effective solution today is to reinforce the transmission network so you do not have that grid-related curtailment, which is what the plan is to do. There is a distinction between grid constraints and economic curtailment, the term for when there is genuinely more renewable energy generation than demand in the country at that point in time. That is nothing to do with grid constraints; that is when there is genuinely surplus wind power, where storage is, to some extent, a cost-effective solution.
+
+The Chair: Co-location is important.
+
+Alex Weir: Co-location can be important, but if the network is there, then co-location is not necessarily the right answer. The issue is more around how frequently you get events of oversupply and whether it is cost effective to build high-capex infrastructure to capture and store energy that is only used very rarely. For ultra-long-duration storage, the critical factor is cost of the capex of the infrastructure to store the energy. Salt caverns are very cheap from a storage cost per kilowatt-hour, but the cost of building the infrastructure to convert the surplus electricity into hydrogen, if it is only being used very rarely—or relatively rarely because periods of oversupply are rare—makes it extremely expensive.
+
+Marc Hedin: On the point about oversupply, when we think of it in terms of energy volume in terawatt hours, a lot of that volume will be spread across many small, frequent events, for which you do not necessarily need ultra-long-duration storage. The current battery fleet is well designed—or you could add some batteries to it—and a four to six-hour duration is probably sufficient to capture a lot of that oversupply when it arises. There may be an event or two a year when you have a longer period of excess supply.
+
+The Chair: What I am hearing—please correct me—is that you do not think the risk of Dunkelflaute is that high.
+
+Marc Hedin: I do not think that is what I said. I do think the risk is high, in the sense that it will definitely occur, and the more wind we have in the system, the greater the depth of the event in terms of gigawatt hours and terawatt hours involved. Per year, there will probably be two quite significant events—long duration, in excess of 24 hours—when renewable generation will be under around 20% of its long-term annual output. That is two events a year, which is quite important. The more important question is how we address that and, crucially, how timely that solution can be, because many of the solutions explored have limitations, both in terms of whether they can cope with such a long-duration event and whether they can be delivered on time, when we have a system that will be very wind intensive. As soon as 2030 or 2035, we will have a lot more wind in the system than we currently have. A lot of that wind has been procured and will be delivered. It is about planning for that system.
+
+The Chair: It is planning for something that will help us fulfil the clean power action plan in the timeframe the Government have set out. What we are trying to do in this inquiry is to see how far along the Government are in their thinking on how they will address these issues. That is the point of the inquiry, and it is about looking at the low-carbon energy technologies that will fill that gap. I will come to Baroness Rafferty for a final question.
+
+Q43 Baroness Rafferty: Thank you both for your very helpful contributions. You have already outlined, in part, some of the responses to my question, which is about the short and medium-term key policy gaps that might exist and need to be tackled to address and improve resilience to Dunkelflaute. I think that is the first time that I have pronounced that; possibly correct, possibly incorrect, it depends if it has an umlaut. Does it have an umlaut?
+
+The Chair: No.
+
+Baroness Rafferty: It is au, not ü. Okay, good. I know we have just been talking about some of those issues, and Lord Rooker’s question focused on market mechanisms. Is there anything else you would like to add and amplify so that we can focus on some of these gaps?
+
+Alex Weir: I am conscious I did not respond to Lord Rooker’s question about strategic reserve, and that is a point worth bringing up. Some countries have strategic reserves and some do not, and there is a legitimate debate about what is effective and what is not. A strategic reserve sounds like a very sensible thing to have. Reserves are often sensible measures to take against rare events, but the care needed is that the reserve does not negatively affect investment in assets outside the reserve, because that can make the problem worse. I would caution policymakers to not think that a reserve is a silver bullet. There may be a case for a reserve at some point to tackle those very rare but very deep events where assets are unlikely to be commercially viable in the market and so would not be built. However, it would need to be strongly ring-fenced from the rest of the market, because if that reserve is also playing in the market, it will be cannibalising the revenues of other assets built in the market, leading to fewer of those, which requires more reserve, in a reinforcing process.
+
+There is also a risk that if it is playing in the market, it may have been depleted by the time you need it for the one-in-30-year extreme, prolonged Dunkelflaute event. There may be a case for a strategic reserve, but I do not think there is a case right now, and it would need to be considered very carefully to ensure it does not negatively impact the rest of the market.
+
+Marc Hedin: I have three points. I do not know if they are necessarily new, but they summarise what we have said to date. The first point is that it would be very useful to commission a broader resilience assessment, and I think that goes to your point, Chair. The system is changing. It will be more renewable-heavy and therefore more climate sensitive. We are also introducing a number of technologies that are yet partly unproven in terms of historical performance. The climate itself is changing, so the occurrence and severity of Dunkelflaute events may change in the future.
+
+As was mentioned in this panel and the previous one, there are also gaps in policy design. For instance, allocation rounds are done first, then we think of storage next, and they are not necessarily joined up. It is probably something that the SSEP could consider, in a changing climate and a changing system, how that original assessment should be undertaken.
+
+The second point is to clarify the long-term role of unabated gas, and do it soon. If a small amount of unabated gas is permitted in the long run, the Dunkelflaute problem becomes far more manageable and considerably cheaper to manage. If it is not, the costs can escalate quite steeply. We mentioned around £80 billion of additional system costs in the 2040s to remove roughly 60 million pounds of carbon, broadly 1.4% of the total emissions allowed in the upcoming carbon budgets to 2050. It is a very modest amount of emissions. Either answer is workable; it is more the absence of an answer that is doing damage, because operators planning closures will always assume the worst. If we lose the fleet, it will be quite difficult to get it back on its feet because it takes years to order a turbine and so on.
+
+The third point is to be willing to look beyond the power sector and even beyond our borders for the last few tonnes. A cheaper power system that is nearly clean will cut much more emissions than an expensive one that is perfectly clean, because people only switch to electricity when electricity is the cheaper option. If we want to decarbonise, electrification is the way forward, and to ensure electrification we need a competitive electricity system.
+
+Q44 The Chair: Thank you. I have a final question for you. Martin Lambert from the Oxford Institute for Energy Studies mentioned last week that he thought the carbon price should be raised to around £150 to £200 per tonne of carbon dioxide equivalent, to incentivise greater investment in carbon capture technology. The higher the cost of emitting carbon, the greater the business case for capturing and storing it instead. Could I have your views on his suggestion?
+
+Marc Hedin: I think that CCS has a huge role to play in decarbonising the British economy, particularly in industries where there are processes that are extremely difficult to decarbonise with electricity otherwise. For instance, electric furnaces cannot reach the right temperatures for steel and cement. A higher carbon price would incentivise investment in those areas. However, for the power system, we need to be careful of potentially perverse outcomes, because adding more cost in the power system to technologies that will be marginal and that will be setting the price makes electricity more expensive. Therefore, it will make that critical electrification to the grander scheme of decarbonisation more difficult. I would be wary of adding additional costs to the power system for the sake of decarbonising the last percentage of the system.
+
+Alex Weir: I completely agree. From an economist’s perspective, carbon prices are a very efficient tool, but they are not applied universally across the economy. The risk of raising the carbon price and applying it to power, but not to gas used in heating, for example, would disincentivise electrification and probably lead to increased emissions overall. There is also the point about international competitiveness. It would probably be harmful for the UK to raise its carbon prices unilaterally, as that would simply cause offshoring of emissions. Any change would need to be done in concert with the EU and with a strong carbon border adjustment mechanism in place. We need to be wary of acting unilaterally.
+
+The Chair: If you could just indulge us a little bit longer, Baroness Rafferty has a question.
+
+Q45 Baroness Rafferty: It is probably a daft question. In thinking about Dunkelflaute and its broader geographical footprint, to what extent are meteorologists involved in these discussions? The energy sector is one thing, and you both mentioned the lack of joined-up policy. Is there close collaboration in considering prediction of these events and understanding broader weather patterns? How do meteorologists and the weather people input into all this?
+
+Alex Weir: I think that you had someone from the Met Office in the first session or the second session.
+
+The Chair: We did.
+
+Baroness Rafferty: Did we? I am sorry. I was not here.
+
+Alex Weir: It was someone who is currently seconded to NESO. The answer is: very closely.
+
+Baroness Rafferty: Good. I am sorry. My apologies.
+
+Q46 The Chair: I have one final question. The Government are currently assessing the trade-offs between cost and system benefits of different technological options. What would you like to see come out of that? Do you understand, first of all, what the Government are doing in terms of assessing those cost-benefits?
+
+Marc Hedin: At the risk of repeating myself—
+
+The Chair: Is it unclear to you? I am not putting words in your mouth at all.
+
+Marc Hedin: It is unclear to me what the outcome will be. I do not know exactly what decision the cost-benefit analysis is leading to.
+
+The Chair: It would help the industry with this whole issue and other issues, would it not?
+
+Marc Hedin: As part of that broader discussion on cost-benefit, again at the risk of repeating myself, there is already a lot that is being discussed in the media and the public domain about the cost of electricity in this country, which is harming the rate of electrification. I strongly believe that a higher pace of electrification in this country is the way forward. It is quite important to reflect on what can actually make the system cheaper. The system will get decarbonised whatever we do. We are procuring a huge amount of renewable energy that will displace gas and other fossil fuels. Over the past 20 years, we have removed all coal from the system and are now introducing more and more renewables. We just need to make sure that the system we are designing is fit for purpose and supports an economy that will become increasingly electrified, especially, as some of the questions pointed to, given the fact that domestic oil and gas supplies are dwindling, whatever we do. In the near future, it will be far more secure for the system to be more electrified than less.
+
+The Chair: We have a plethora of technologies that we are trying to understand in terms of what they can deliver and how much they will cost. How do we compare them? You must do this daily. Can you help us? I do not mean now, as we are out of time, but could you write to the committee so that we can understand a little better how these technologies compare in the ways that I have asked for? It is a difficult thing to do, I understand, but if you could do your best it would be helpful.
+
+Alex Weir: I am sure we can send you something. The one point I would make is the one I made at the beginning: it is not about looking at individual technologies. It is about running whole energy system models and varying the technology mix.
+
+The Chair: Indeed. That is a message we are hearing loudly and clearly.
+
+Marc Hedin: The numbers I communicated earlier about the £80 billion difference in system costs between two scenarios were based on such analyses. We looked at one system where essentially we are building more low-carbon firm capacity and one where we build a lot less, where anything that has not been committed so far is not necessarily built. That gap comes from there. We were not analysing one single technology but looking at a whole-system approach, because that is the only way to understand the outcomes.
+
+The Chair: It is an important issue. We very much appreciate you sharing your knowledge with us. With that, I bring the public session to a close. Thank you very much indeed.

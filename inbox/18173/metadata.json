@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18173,
+  "activity_id": 39072,
+  "document_id": 308251,
+  "meeting_date": "2026-10-20",
+  "meeting_date_display": "20 October 2026",
+  "publication_date": "2026-10-26T10:13:24",
+  "title": "Trade in a turbulent world: how should the UK deploy its trade instruments?",
+  "committee": "International Agreements Committee",
+  "committees": [
+    {
+      "id": 448,
+      "name": "International Agreements Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9706,
+      "title": "Trade in a turbulent world: how should the UK deploy its trade instruments?",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Maxwell Green",
+      "role": "Senior Trade Policy Manager",
+      "organisation": "Make UK"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Lord Anderson of Swansea",
+    "Maxwell Green",
+    "Baroness Verma",
+    "Baroness Lawlor",
+    "Lord Stevenson of Balmacara",
+    "Lord German",
+    "Lord Boateng"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18173/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18173",
+  "source_sha256": "bc4baec5d1b4eace50b3bf3a6f01fe6bda901a67a9c89d2202196e29ef4a45a9",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

@@ -1,0 +1,278 @@
+{
+  "schema_version": 1,
+  "source_id": 18170,
+  "source_sha256": "9bff3576e26b0e11ae704343652a48a5ad6767582c94c42301a943f0f5c0905d",
+  "title": "Human rights experts warn on temporary protection, charges and changes to immigration appeals",
+  "label": "21 October 2026 · Legislative Scrutiny: Immigration and Asylum Bill",
+  "summary": "Witnesses — a former immigration judge, a refugee law academic and a Refugee Council director — set out that the Bill contains some statutory changes but leaves many major measures to rules; they warned that a new 30‑month ‘core protection’ model, charging refugees and removing legally qualified judges from appeals risk breaching international obligations, harming integration and making the system less fair and more costly.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Alex Sobel",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Nadine Finch",
+      "name": "Nadine Finch",
+      "role": "Former Judge, Upper Tribunal Immigration and Asylum Chamber",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor David Cantor",
+      "name": "Professor David Cantor",
+      "role": "Director, Refugee Law Initiative, School of Advanced Study, University of London",
+      "kind": "witness"
+    },
+    {
+      "label": "Imran Hussain",
+      "name": "Imran Hussain",
+      "role": "Executive Director of Communications and External Affairs, Refugee Council",
+      "kind": "witness"
+    },
+    {
+      "label": "Baroness Hamwee",
+      "name": "Baroness Hamwee",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Chakrabarti",
+      "name": "Baroness Chakrabarti",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Peter Swallow",
+      "name": "Peter Swallow",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Sir Desmond Swayne",
+      "name": "Sir Desmond Swayne",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Tom Gordon",
+      "name": "Tom Gordon",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Tony Vaughan",
+      "name": "Tony Vaughan",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Afzal Khan",
+      "name": "Afzal Khan",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Murray of Blidworth",
+      "name": "Lord Murray of Blidworth",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "refugee convention",
+      "definition": "The 1951 UN treaty setting out who is a refugee and the protections states must give them."
+    },
+    {
+      "term": "Article 34",
+      "definition": "Part of the refugee convention that says states should help refugees become naturalised and remove barriers to integration."
+    },
+    {
+      "term": "Article 29",
+      "definition": "Part of the refugee convention that forbids charging refugees duties, charges or taxes higher than nationals in similar situations."
+    },
+    {
+      "term": "Article 33(2)",
+      "definition": "A clause in the refugee convention that excludes people from protection if they are considered a danger to the community."
+    },
+    {
+      "term": "refoulement",
+      "definition": "Forcing someone to return to a country where they'd face harm, which is prohibited under the refugee convention."
+    },
+    {
+      "term": "core protection",
+      "definition": "Government’s proposed single, time-limited protection status replacing permanent refugee status for many people."
+    },
+    {
+      "term": "humanitarian protection",
+      "definition": "A protection category for people not meeting the refugee definition but who still face serious harm if returned."
+    },
+    {
+      "term": "cessation",
+      "definition": "The legal process for ending refugee status when conditions in the home country have changed."
+    },
+    {
+      "term": "First-tier Tribunal",
+      "definition": "The current specialist tribunal that hears most immigration and asylum appeals."
+    },
+    {
+      "term": "Independent Immigration Appeals Authority (IIAA)",
+      "definition": "The new appeal body proposed by the Bill, with non-legally qualified adjudicators."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What the Bill actually does vs what the Government are doing by rule",
+      "takeaway": "The Bill contains limited statutory changes, but many major changes are being made through Immigration Rules and policy statements, causing confusion and important legal effects.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We asked whether the Bill itself makes the big changes announced last year or whether other measures are being done by policy and rules."
+        },
+        {
+          "speaker": "Professor David Cantor",
+          "text": "The Bill leaves out several major measures in the Government’s statement, like community sponsorship. It is a mixed set of provisions—core protection, tribunal changes, a refugee charge—without the broader legal footing the statement implied."
+        },
+        {
+          "speaker": "Nadine Finch",
+          "text": "A lot of change happens via the Immigration Rules, which are quick but can be dangerous. People are confused about what is law and what is policy, yet some Rule changes have huge penalties attached if people miss requirements."
+        },
+        {
+          "speaker": "Imran Hussain",
+          "text": "There have been big operational changes since 2024—decisions sped up and fewer hotel placements—but many policy shifts, like core protection, have already been introduced outside primary legislation."
+        },
+        {
+          "speaker": "Professor David Cantor",
+          "text": "Some of the Government’s explanations rest on weak evidence about appeals and how other countries’ systems work; that context matters but is missing from the Bill’s text."
+        }
+      ]
+    },
+    {
+      "title": "Core protection, timing of review and the refugee convention",
+      "takeaway": "Witnesses warned a 30‑month review model risks breaching the refugee convention and will damage integration, while an approach triggered by real change in the origin country would be fairer.",
+      "turns": [
+        {
+          "speaker": "Baroness Hamwee",
+          "text": "Article 34 urges states to help refugees integrate. Is the Government’s temporary, repeat-review model compatible with that obligation?"
+        },
+        {
+          "speaker": "Imran Hussain",
+          "text": "We're worried. Reviews every 30 months for many years would create massive extra bureaucracy—maybe a million extra reviews—and make it hard for people to find work or housing."
+        },
+        {
+          "speaker": "Professor David Cantor",
+          "text": "Article 34 doesn't force naturalisation, but it requires steps to facilitate integration. Reviewing status every 2.5 years runs directly counter to that and to the reality that refugee situations are often long-term."
+        },
+        {
+          "speaker": "Nadine Finch",
+          "text": "Thirty months is arbitrary. Many refugees from places like Eritrea or Somalia won't be going home soon. A better approach is reviews tied to actual changes in the country of origin, with safeguards and appeals."
+        },
+        {
+          "speaker": "Baroness Chakrabarti",
+          "text": "Would a statutory power for the Home Secretary to end protection when conditions change, subject to appeal, be acceptable?"
+        },
+        {
+          "speaker": "Nadine Finch",
+          "text": "That could be workable, but children need different treatment and the Home Office must have specialist country teams and expert advice to make such calls fairly."
+        },
+        {
+          "speaker": "Professor David Cantor",
+          "text": "Cessation mechanisms are part of the convention and could be used, but Parliament should watch limits: you can't leave refugees in indefinite limbo without routes to settlement."
+        }
+      ]
+    },
+    {
+      "title": "Removing entitlements and charging refugees",
+      "takeaway": "Experts said stripping rights from people excluded as 'dangerous' and imposing repayment charges is legally risky, undermines integration and could be counterproductive.",
+      "turns": [
+        {
+          "speaker": "Peter Swallow",
+          "text": "The Bill would make refugees considered dangerous 'not lawfully staying'. What effect would that have for people who cannot be removed on human rights grounds?"
+        },
+        {
+          "speaker": "Nadine Finch",
+          "text": "You must protect due process. Some dangerous people are dealt with under criminal or terrorism law. Using immigration status to strip protections risks denying real access to justice—especially where legal aid is scarce."
+        },
+        {
+          "speaker": "Professor David Cantor",
+          "text": "Labelling someone 'not lawfully staying' would remove several refugee convention entitlements like work and travel documents. 'Lawfully staying' is an international concept; states can't redefine it domestically to avoid obligations."
+        },
+        {
+          "speaker": "Sir Desmond Swayne",
+          "text": "People feel local tensions if refugees appear to get everything free; shouldn't refugees make a financial contribution?"
+        },
+        {
+          "speaker": "Nadine Finch",
+          "text": "Most public costs go to private contractors running hotels and accommodation, not to refugees. Refugees typically receive very little cash support. Charging them risks asking victims of trafficking or assault to pay for care."
+        },
+        {
+          "speaker": "Professor David Cantor",
+          "text": "Article 29 of the refugee convention forbids imposing duties, charges or taxes on refugees beyond what nationals face. The legal position against a repayment charge is very strong."
+        },
+        {
+          "speaker": "Imran Hussain",
+          "text": "Practical problems worry us: who collects the charge, how big is it, and what happens if people can't pay? It could push people into destitution or exploitation, while also harming integration prospects."
+        },
+        {
+          "speaker": "Imran Hussain",
+          "text": "Fixing poor first‑instance decision‑making would save money and reduce need for punitive measures: our estimate is about £1bn extra cost from poor decisions in the current backlog."
+        }
+      ]
+    },
+    {
+      "title": "Appeals reform, independence and expertise",
+      "takeaway": "Replacing the First‑tier Tribunal with the IIAA and non‑legally qualified adjudicators raises serious concerns about fairness, legal expertise and the independence required by human rights law.",
+      "turns": [
+        {
+          "speaker": "Tony Vaughan",
+          "text": "The Bill creates the IIAA where decisions can be made by adjudicators who need not be legally qualified. Will such an authority properly handle complex human rights and asylum cases?"
+        },
+        {
+          "speaker": "Nadine Finch",
+          "text": "Immigration law is highly technical and has grown enormously. Training non‑lawyers to apply it to traumatic, complex human cases is a long and risky process. The tribunal system needs legal expertise to get decisions right."
+        },
+        {
+          "speaker": "Tony Vaughan",
+          "text": "If an adjudicator lacks legal training, is it practicable to expect legal appeals on points of law to the Upper Tribunal to function?"
+        },
+        {
+          "speaker": "Nadine Finch",
+          "text": "Not really. If appeals officers are non‑lawyers, many factual or mixed questions will bounce up the chain, increasing delay and cost. The Danish system often cited actually has panels of legally qualified people."
+        },
+        {
+          "speaker": "Afzal Khan",
+          "text": "Can speed be achieved without losing independence and fairness?"
+        },
+        {
+          "speaker": "Nadine Finch",
+          "text": "Yes—by improving the quality of Home Office first decisions. Bad initial decisions drive appeals and delay more than tribunal structure does."
+        },
+        {
+          "speaker": "Professor David Cantor",
+          "text": "International human rights bodies require that immigration appeal mechanisms be independent and impartial; weakening that risks breaching ECHR‑derived protections against refoulement and inhuman treatment."
+        },
+        {
+          "speaker": "Lord Murray of Blidworth",
+          "text": "Parliament can legislate, but are you saying the proposed IIAA would breach ECHR obligations?"
+        },
+        {
+          "speaker": "Professor David Cantor",
+          "text": "If the IIAA lacks independence and impartiality in practice, then yes, it risks non‑compliance with ECHR jurisprudence on effective remedy and non‑refoulement; the Bill should strengthen statutory safeguards."
+        },
+        {
+          "speaker": "Imran Hussain",
+          "text": "We also expect the backlog to grow unless the system is fixed at first instance. Building new structures without fixing decision quality risks creating more bureaucracy and delay."
+        },
+        {
+          "speaker": "Nadine Finch",
+          "text": "There will also be a retention problem: tribunal judges and staff may leave if the First‑tier Tribunal is to be abolished, making expertise harder to keep."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. The panel has highlighted legal, practical and human costs: short‑term fixes in the Bill could create long‑term problems unless the Government improves first decisions, protects legal safeguards and clarifies how new powers will work."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18179,
+  "activity_id": 38991,
+  "document_id": 308287,
+  "meeting_date": "2026-10-21",
+  "meeting_date_display": "21 October 2026",
+  "publication_date": "2026-10-26T14:10:12",
+  "title": "Dunkelflaute and the risks of electricity intermittency",
+  "committee": "Environment and Climate Change Committee",
+  "committees": [
+    {
+      "id": 515,
+      "name": "Environment and Climate Change Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9956,
+      "title": "Dunkelflaute and the risks of electricity intermittency",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Nick Smailes",
+      "role": "Special Projects Director",
+      "organisation": "The Faraday Institution"
+    },
+    {
+      "name": "Andy McNeill",
+      "role": "Senior Policy Consultant",
+      "organisation": "Energy Storage Association"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Andy McNeill",
+    "Nick Smailes",
+    "Lord Trees",
+    "Lord Lennie",
+    "Baroness McIntosh of Pickering",
+    "Baroness Coffey",
+    "That might lead you to ask",
+    "Lord Ashcombe",
+    "Baroness Whitaker"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18179/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18179",
+  "source_sha256": "dcabc9f92e7dd0648ac0a2dd84c4b83cb6bc9ec3216c82a01c2479d3de34d880",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

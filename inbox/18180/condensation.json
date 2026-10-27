@@ -1,0 +1,276 @@
+{
+  "schema_version": 1,
+  "source_id": 18180,
+  "source_sha256": "ddac68b1f66a0076b856a8e5019dc72e9da105506f774578cea9a6a5b67983f5",
+  "title": "How to keep the lights on in a windless spell: costs, technologies and market gaps",
+  "label": "21 October 2026 · Dunkelflaute and intermittency",
+  "summary": "Witnesses from Baringa and Aurora Energy Research explained that prolonged periods of low wind and solar output (Dunkelflaute) are a real, recurring risk as Britain electrifies. They ran whole-system models showing cheaper pathways that keep some unabated gas and more storage, and costlier low-carbon ‘firm’ options; they warned current market arrangements are fragmented, called for clearer policy on the role of gas, better system-wide resilience assessments, and careful use of strategic reserves and interconnectors.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Baroness Sheehan",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Marc Hedin",
+      "name": "Marc Hedin",
+      "role": "Head of Research, Aurora Energy Research",
+      "kind": "witness"
+    },
+    {
+      "label": "Alex Weir",
+      "name": "Alex Weir",
+      "role": "Director and energy policy expert, Baringa",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Jay of Ewelme",
+      "name": "Lord Jay of Ewelme",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Whitaker",
+      "name": "Baroness Whitaker",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness McIntosh of Pickering",
+      "name": "Baroness McIntosh of Pickering",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Rooker",
+      "name": "Lord Rooker",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Rafferty",
+      "name": "Baroness Rafferty",
+      "role": "Member of the committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Dunkelflaute",
+      "definition": "A weather period with very low wind and solar generation, lasting hours to days, that reduces renewable output."
+    },
+    {
+      "term": "Capacity market",
+      "definition": "A scheme that pays generators to be available at times of system stress to ensure electricity supply."
+    },
+    {
+      "term": "Contracts for Difference (CfD)",
+      "definition": "A government support scheme that guarantees a fixed price to low-carbon generators for their electricity."
+    },
+    {
+      "term": "Interconnectors",
+      "definition": "High-voltage links that let countries buy and sell electricity with each other."
+    },
+    {
+      "term": "Long-duration energy storage",
+      "definition": "Storage technologies that can discharge for many hours or days, e.g. pumped hydro, hydrogen storage or large batteries."
+    },
+    {
+      "term": "Strategic reserve",
+      "definition": "Plant or storage held back by government to be used only in very rare, severe supply shortfalls."
+    },
+    {
+      "term": "NESO",
+      "definition": "National Electricity System Operator, the body planning GB’s network and system development."
+    },
+    {
+      "term": "REMA",
+      "definition": "Review of Electricity Market Arrangements, a recent UK government review of electricity market rules."
+    },
+    {
+      "term": "Salt caverns",
+      "definition": "Underground salt formations used to store gases or hydrogen cheaply by volume."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Framing the risk",
+      "takeaway": "Dunkelflaute is a real recurring risk and weather affects all kinds of power sources, so resilience must be assessed across multiple weather events.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Welcome. To start, could you briefly introduce yourselves?"
+        },
+        {
+          "speaker": "Marc Hedin",
+          "text": "I'm Marc Hedin, head of research at Aurora Energy Research, which models power markets."
+        },
+        {
+          "speaker": "Alex Weir",
+          "text": "I'm Alex Weir, a director at Baringa Partners, focusing on energy policy and whole-system analysis."
+        },
+        {
+          "speaker": "Marc Hedin",
+          "text": "A short framing point: Dunkelflaute is important because GB is getting wind-heavy, but weather affects gas, nuclear and interconnectors too—so assess resilience across heat, cold, drought and storms, not just wind droughts."
+        },
+        {
+          "speaker": "Alex Weir",
+          "text": "I agree. Look at the whole energy system, not just electricity. Different weather events stress different technologies—planning needs to reflect that."
+        }
+      ]
+    },
+    {
+      "title": "What our modelling shows: costs and trade-offs",
+      "takeaway": "Whole-system models show cheaper pathways that keep some unabated gas and add storage, versus costlier pathways that attempt to remove almost all remaining emissions.",
+      "turns": [
+        {
+          "speaker": "Lord Jay of Ewelme",
+          "text": "Can you compare cost-effectiveness of technologies and whether some give benefits beyond avoiding blackouts?"
+        },
+        {
+          "speaker": "Marc Hedin",
+          "text": "We modelled two whole-system scenarios: one with heavy investment in low-carbon firm assets like CCS and extra nuclear; the other more cost-conscious, keeping more gas and adding long-duration storage and renewables."
+        },
+        {
+          "speaker": "Marc Hedin",
+          "text": "The cost-conscious scenario is about £80 billion cheaper across the 2040s—roughly a 10% lower system cost—but it emits about 6.1 million tonnes more CO2 a year then."
+        },
+        {
+          "speaker": "Marc Hedin",
+          "text": "Removing that last slice of emissions from power thus costs roughly £1,300 per tonne in our comparison, so policymakers must ask whether that's the best use of money compared with electrifying other parts of the economy."
+        },
+        {
+          "speaker": "Alex Weir",
+          "text": "Our Baringa results are similar: around 6 million tonnes extra CO2 in the 2040s in the cheaper scenario. The main point is marginal value falls as you deploy more of any one technology—no single silver bullet exists."
+        },
+        {
+          "speaker": "Alex Weir",
+          "text": "Short-duration storage is currently very cost-effective because of daily price spreads; as renewables grow you'll need longer-duration storage, but ultra-long-duration options are mainly for the tail end of decarbonisation."
+        }
+      ]
+    },
+    {
+      "title": "Firm power and marine options: nuclear, tidal and wave",
+      "takeaway": "Nuclear provides steady base load; tidal is predictable but intermittent; wave remains expensive today—each affects how much flexibility or storage the system needs.",
+      "turns": [
+        {
+          "speaker": "Baroness Whitaker",
+          "text": "How valuable is investing in firm generation like nuclear, or marine options, to reduce flexible generation or storage needs?"
+        },
+        {
+          "speaker": "Alex Weir",
+          "text": "They differ. Nuclear is true base load—runs ~90% of the time—so adding it reduces the need for flexible gas or storage and may reduce renewables if both are added without system changes."
+        },
+        {
+          "speaker": "Alex Weir",
+          "text": "Tidal is predictable but still intermittent—twice daily with monthly range changes—so it can reduce long-duration storage needs but not eliminate flexibility needs. Wave power varies with wind and remains expensive and unproven at scale."
+        },
+        {
+          "speaker": "Baroness Whitaker",
+          "text": "Is CfD preventing wave from scaling?"
+        },
+        {
+          "speaker": "Alex Weir",
+          "text": "CfD isn't for demonstration projects; there are separate pots for tidal and pre-commercial technologies, but early-stage techs need deployment and R&D support rather than standard commercial contracts."
+        }
+      ]
+    },
+    {
+      "title": "Interconnectors, storage and market arrangements",
+      "takeaway": "Interconnectors and storage help most of the year but are less reliable during region-wide Dunkelflaute; market rules are fragmented and need clarity—especially on gas and strategic reserves.",
+      "turns": [
+        {
+          "speaker": "Baroness McIntosh of Pickering",
+          "text": "If UK imports more energy, what are the security and environmental implications versus domestic low-carbon dispatchable power?"
+        },
+        {
+          "speaker": "Marc Hedin",
+          "text": "Interconnectors are very valuable most of the year, but a Dunkelflaute can stretch across north-west Europe, so interconnectors may not be available then. Norway's hydro is less correlated and helpful, but exports depend on Norwegian water levels and politics."
+        },
+        {
+          "speaker": "Alex Weir",
+          "text": "Interconnectors smooth peaks because markets peak at different times, so they're cost-effective overall but not a sure fix for multi-country wind droughts. Also consider gas import capacity and LNG's role in diversification."
+        },
+        {
+          "speaker": "Lord Rooker",
+          "text": "Do current market mechanisms reward rare, low-carbon firm assets like hydrogen storage or retained gas?"
+        },
+        {
+          "speaker": "Alex Weir",
+          "text": "Not adequately. The market is fragmented—CfDs, capacity market and balancing services send different or conflicting signals. We need joined-up rules; otherwise bespoke schemes multiply costs and distort investment."
+        },
+        {
+          "speaker": "Marc Hedin",
+          "text": "A practical near-term solution is to maintain some gas capacity and add peakers: the existing capacity market can do this with tweaks, and clarity on gas's role beyond 2030 would lower investment costs."
+        },
+        {
+          "speaker": "Chair",
+          "text": "On long-duration or ultra-long storage: salt caverns can store lots, but is converting surplus wind to hydrogen and using caverns a cost-effective large-scale solution?"
+        },
+        {
+          "speaker": "Alex Weir",
+          "text": "Technically possible, but not free: salt caverns give cheap volume, but the conversion plants (electrolysers, compressors) are capital-intensive. If they're used only rarely, capex per used kWh becomes very high."
+        },
+        {
+          "speaker": "Marc Hedin",
+          "text": "Also much oversupply is in many small events where 4–6 hour batteries capture value. Ultra-long storage is useful for rare long events, but commercially it will only be viable if it can earn value outside those events."
+        }
+      ]
+    },
+    {
+      "title": "Policy gaps, reserves and carbon pricing",
+      "takeaway": "Commission resilience assessments, clarify the long-term role of unabated gas soon, avoid ad hoc market fragments, and be cautious about high unilateral carbon prices.",
+      "turns": [
+        {
+          "speaker": "Baroness Rafferty",
+          "text": "What short and medium-term policy gaps should be tackled to improve resilience to Dunkelflaute?"
+        },
+        {
+          "speaker": "Alex Weir",
+          "text": "One: avoid thinking a strategic reserve is a silver bullet. It can make sense for very rare events but must be strongly ring-fenced so it doesn't suppress private investment elsewhere or get drawn down by ordinary market use."
+        },
+        {
+          "speaker": "Marc Hedin",
+          "text": "My three priorities: commission a broader resilience assessment across weather types; clarify the long-term role of unabated gas quickly so firms can plan; and be willing to look beyond the power sector and borders for the cheapest remaining emissions cuts."
+        },
+        {
+          "speaker": "Chair",
+          "text": "On carbon price: should it be raised to £150–£200/t to push CCS?"
+        },
+        {
+          "speaker": "Marc Hedin",
+          "text": "CCS plays a big role for hard-to-electrify industries, and a higher carbon price helps there, but higher prices can also raise power costs and harm electrification if applied unevenly."
+        },
+        {
+          "speaker": "Alex Weir",
+          "text": "Carbon pricing is efficient in theory, but if the UK raises prices unilaterally it risks offshoring emissions and making electricity costlier relative to gas or petrol—so any big move needs international coordination and border measures."
+        },
+        {
+          "speaker": "Baroness Rafferty",
+          "text": "Are meteorologists involved in the planning for Dunkelflaute?"
+        },
+        {
+          "speaker": "Alex Weir",
+          "text": "Yes—there's close collaboration; the Met Office is seconded into NESO and meteorological inputs are used in planning and modelling."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Finally, can you produce a note comparing technologies on costs, capabilities and timing?"
+        },
+        {
+          "speaker": "Alex Weir",
+          "text": "Yes—we'll send a note—but remember the only reliable way to compare technologies is whole-system modelling that tests many mixes, not a single tech-by-tech leaderboard."
+        },
+        {
+          "speaker": "Marc Hedin",
+          "text": "Agreed. The £80 billion system-cost difference I mentioned came from such whole-system scenario comparisons, not single-technology analysis."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you both for practical, evidence-based advice. That closes the session."
+        }
+      ]
+    }
+  ]
+}

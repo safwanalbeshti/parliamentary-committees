@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18177,
+  "activity_id": 38708,
+  "document_id": 308277,
+  "meeting_date": "2026-10-21",
+  "meeting_date_display": "21 October 2026",
+  "publication_date": "2026-10-26T12:49:37",
+  "title": "Equality at work: flexible working and disability",
+  "committee": "Women and Equalities Committee",
+  "committees": [
+    {
+      "id": 328,
+      "name": "Women and Equalities Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9760,
+      "title": "Equality at work: flexible working and disability",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Director of Public Policy and Research",
+      "organisation": "Business Disability Forum"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Policy Officer (young workers)",
+      "organisation": "Trades Union Congress (TUC)"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Rachel Taylor",
+    "Angela Matthews",
+    "Daisy Goodall",
+    "Nadia Whittome",
+    "Energy impairments are a good example",
+    "Richard Quigley",
+    "Kevin McKenna",
+    "Angela Mathews",
+    "Alex Brewer",
+    "Another point about guidance"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18177/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18177",
+  "source_sha256": "f533a7009e60098d7430af1b1c777136d38d1e6e8ec634b24dbdf5e160f53cb8",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

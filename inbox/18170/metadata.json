@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18170,
+  "activity_id": 39027,
+  "document_id": 308244,
+  "meeting_date": "2026-10-21",
+  "meeting_date_display": "21 October 2026",
+  "publication_date": "2026-10-26T09:15:49",
+  "title": "Legislative Scrutiny: Immigration and Asylum Bill",
+  "committee": "Human Rights (Joint Committee)",
+  "committees": [
+    {
+      "id": 93,
+      "name": "Human Rights (Joint Committee)",
+      "house": "Joint"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9927,
+      "title": "Legislative Scrutiny: Immigration and Asylum Bill",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Nadine Finch",
+      "role": "Former Judge at Upper Tribunal",
+      "organisation": "Immigration and Asylum Chamber"
+    },
+    {
+      "name": "Professor David Cantor, PhD",
+      "role": "Director",
+      "organisation": "Refugee Law Initiative, School of Advanced Study University of London"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Executive Director of Communications and External Affairs",
+      "organisation": "Refugee Council"
+    }
+  ],
+  "speaker_candidates": [
+    "Also present",
+    "Chair",
+    "Professor David Cantor",
+    "Nadine Finch",
+    "Imran Hussain",
+    "Baroness Hamwee",
+    "Baroness Chakrabarti",
+    "Peter Swallow",
+    "Sir Desmond Swayne",
+    "Tom Gordon",
+    "Tony Vaughan",
+    "Afzal Khan",
+    "Lord Murray of Blidworth"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18170/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18170",
+  "source_sha256": "9bff3576e26b0e11ae704343652a48a5ad6767582c94c42301a943f0f5c0905d",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

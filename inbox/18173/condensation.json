@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "source_id": 18173,
+  "source_sha256": "bc4baec5d1b4eace50b3bf3a6f01fe6bda901a67a9c89d2202196e29ef4a45a9",
+  "title": "How UK manufacturers cope with trade turbulence",
+  "label": "20 October 2026 · Trade in a turbulent world",
+  "summary": "Maxwell Green of Make UK told the committee that UK goods manufacturers have been resilient despite recent volatility from geopolitics, tariffs and post‑Covid supply shocks. Binding free trade agreements (FTAs) matter most for predictability and investment, but non‑binding arrangements and quick sector deals also help. Key problems are poor awareness of deals, delays in Government guidance, access to export finance, high industrial energy costs, and gaps in implementation and market guidance. Practical suggestions included earlier, sector‑specific guidance, reviewing import tariffs, stronger promotion of opportunities, and learning from other countries' market guides.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Johnson of Lainston",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Lord Anderson of Swansea",
+      "name": "Lord Anderson of Swansea",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Verma",
+      "name": "Baroness Verma",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Lawlor",
+      "name": "Baroness Lawlor",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Stevenson of Balmacara",
+      "name": "Lord Stevenson of Balmacara",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord German",
+      "name": "Lord German",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Boateng",
+      "name": "Lord Boateng",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Maxwell Green",
+      "name": "Maxwell Green",
+      "role": "Senior Policy Manager, Make UK",
+      "kind": "witness"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "FTA",
+      "definition": "Free Trade Agreement: a formal deal between countries to reduce tariffs and trade barriers."
+    },
+    {
+      "term": "CPTPP",
+      "definition": "Comprehensive and Progressive Agreement for Trans‑Pacific Partnership: a multilateral Pacific trade bloc the UK joined."
+    },
+    {
+      "term": "EPD",
+      "definition": "Early‑progressive / partnership style arrangement (in context, the UK–US trade understanding referenced by witnesses)."
+    },
+    {
+      "term": "DBIST",
+      "definition": "Department for Business, Innovation, Science and Technology: UK government department handling trade guidance."
+    },
+    {
+      "term": "Defra",
+      "definition": "Department for Environment, Food and Rural Affairs: UK department involved in food and agricultural export rules."
+    },
+    {
+      "term": "UK Export Finance",
+      "definition": "Government export credit agency that provides finance and insurance to support UK exporters."
+    },
+    {
+      "term": "WTO",
+      "definition": "World Trade Organization: global body that sets trade rules and resolves disputes between countries."
+    },
+    {
+      "term": "GCC",
+      "definition": "Gulf Cooperation Council: regional group of Gulf states, often discussed in trade talks with the UK."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Trade is volatile but manufacturers are resilient",
+      "takeaway": "Despite geopolitics and tariffs, UK goods exporters have held up thanks to adaptability, though growth is uneven and costly.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Maxwell, thanks for joining us. We want practical examples of how volatility affects manufacturers—customs blockages, digital certification, things that hit firms selling things like spectacles."
+        },
+        {
+          "speaker": "Lord Anderson of Swansea",
+          "text": "After WWII there seemed to be more consensus on trade. Now protectionism looks stronger. Do you see any signs of hope?"
+        },
+        {
+          "speaker": "Maxwell Green",
+          "text": "There has been real instability—post‑EU adjustment, Middle East conflicts, US tariffs, Iran tensions—but manufacturers are resilient. Exports fell only about 5% in the first half of this year despite big shocks."
+        },
+        {
+          "speaker": "Maxwell Green",
+          "text": "The picture is volatile by market: US exports to us dropped a lot, China and some European hubs rose. Imports into the UK from many countries also increased sharply."
+        },
+        {
+          "speaker": "Maxwell Green",
+          "text": "Our survey shows more UK manufacturers exporting (up 8%) and continued positive export output. But overall manufacturing output has slowed and firms are bearing costs from adapting supply chains and energy price shocks."
+        }
+      ]
+    },
+    {
+      "title": "Which sectors and deals have helped",
+      "takeaway": "Binding FTAs give long‑term certainty; recent US and India arrangements helped autos, steel and other sectors, while fast deals like Australia gave quick wins.",
+      "turns": [
+        {
+          "speaker": "Baroness Verma",
+          "text": "Which sectors have done well, and where are current policies deterring development?"
+        },
+        {
+          "speaker": "Maxwell Green",
+          "text": "Sectors linked to big market deals have held up. Automotive and steel benefited from the US arrangement; aluminium and steel exports to the US rose after that agreement."
+        },
+        {
+          "speaker": "Maxwell Green",
+          "text": "Industrial strategy priority sectors are expected to grow, and FTA access is crucial for them."
+        },
+        {
+          "speaker": "Baroness Lawlor",
+          "text": "You said manufacturers prefer binding agreements. What non‑binding or quicker arrangements have worked?"
+        },
+        {
+          "speaker": "Maxwell Green",
+          "text": "Binding FTAs are best for certainty and investment, but non‑binding understandings and sector deals can help in fast‑moving markets. Australia was negotiated quickly and was useful; India took four‑and‑a‑half years but is already cutting tariffs on many goods."
+        },
+        {
+          "speaker": "Maxwell Green",
+          "text": "CPTPP opens fast‑growing Asian markets and will keep expanding. Sector‑specific deals—like on critical minerals or energy—can be used when full FTAs stall for political reasons."
+        },
+        {
+          "speaker": "Chair",
+          "text": "We noted goods exports to Australia have been flat or slightly down since that deal—why might that be?"
+        },
+        {
+          "speaker": "Maxwell Green",
+          "text": "Overall figures look flat but some sectors improved. Implementation takes time; imports from Australia have risen and feed into UK manufacturing for re‑export. We need better implementation to realise the full gains."
+        }
+      ]
+    },
+    {
+      "title": "Barriers after a deal: awareness, guidance and finance",
+      "takeaway": "Signing an agreement is only the start: businesses need earlier, clearer, sector‑specific guidance, easier access to export finance, and help using deals in practice.",
+      "turns": [
+        {
+          "speaker": "Lord Stevenson of Balmacara",
+          "text": "What should trade policy aim to do differently to benefit industry?"
+        },
+        {
+          "speaker": "Maxwell Green",
+          "text": "Market access matters, but firms must know how to use it. Improve FTA utilisation through government‑industry collaboration, and provide guidance earlier—months before a deal comes into force."
+        },
+        {
+          "speaker": "Maxwell Green",
+          "text": "Access to finance is a major barrier; we support expanding UK Export Finance's lending capacity so exporters can invest and scale up."
+        },
+        {
+          "speaker": "Maxwell Green",
+          "text": "Domestic policy matters too: high industrial energy costs—around 46% higher than peers—harm competitiveness. Some levies are charged through electricity bills; funding these by general taxation would reduce manufacturers' costs."
+        },
+        {
+          "speaker": "Maxwell Green",
+          "text": "Also consider a review of import tariffs to make inputs cheaper, boosting export competitiveness."
+        }
+      ]
+    },
+    {
+      "title": "Practical improvements: implementation and market guides",
+      "takeaway": "Make UK wants simpler, sector‑targeted market guides, better promotion of emerging sectors, clearer routes under multilateral vs bilateral deals, and earlier Government outreach.",
+      "turns": [
+        {
+          "speaker": "Baroness Verma",
+          "text": "Is the lag in guidance caused by poor coordination across Whitehall?"
+        },
+        {
+          "speaker": "Maxwell Green",
+          "text": "The main issue is awareness and timing, not necessarily coordination. Sector‑specific market access guides—pulling in DBIST and Defra where needed—would help firms act from day one."
+        },
+        {
+          "speaker": "Lord German",
+          "text": "Many firms may not follow the WTO closely. What practical value does it offer your members?"
+        },
+        {
+          "speaker": "Maxwell Green",
+          "text": "The WTO provides shared rules that create predictability. Even if it looks slow publicly, its norms and behind‑the‑scenes work help stabilise expectations across markets, which manufacturers value."
+        },
+        {
+          "speaker": "Lord German",
+          "text": "So the WTO's rule‑setting is useful even if not visible day‑to‑day?"
+        },
+        {
+          "speaker": "Maxwell Green",
+          "text": "Yes. More transparency about its activity would help industry appreciate its role, but the core benefit is consistent rules and predictability."
+        },
+        {
+          "speaker": "Lord Boateng",
+          "text": "Are there international best practices we should copy to help SMEs export?"
+        },
+        {
+          "speaker": "Maxwell Green",
+          "text": "Australia promotes its FTA very well with a clear, user‑friendly website. The EU has detailed online market‑by‑market guides showing consumption and opportunities. Canada separates bilateral vs CPTPP benefits clearly—these model practical, navigable guidance systems."
+        },
+        {
+          "speaker": "Maxwell Green",
+          "text": "The UK has an 'ask a question' DBIST function, but firms need ready‑made market guides and lists of emerging sector opportunities, not just established trade flows."
+        },
+        {
+          "speaker": "Maxwell Green",
+          "text": "For niche producers like cheesemakers, a simple market guide showing tariff rules, certification steps, and the best route (bilateral or multilateral) would make a big difference."
+        }
+      ]
+    },
+    {
+      "title": "Conclusions and follow‑up",
+      "takeaway": "Make UK urges viewing deal signing as the start of implementation, improving guidance and finance access, tackling energy costs, and promoting opportunities early to help SMEs and manufacturers use trade tools.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Any final points? Please send follow‑up material; the committee would welcome more detail."
+        },
+        {
+          "speaker": "Maxwell Green",
+          "text": "Thanks. Key messages: FTAs give certainty and should be followed by early, sector‑specific guidance; increase export finance capacity; review import tariffs and energy charging; learn from other countries' market promotion."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you, Maxwell. That was very helpful and practical. We'll look out for your further notes."
+        }
+      ]
+    }
+  ]
+}

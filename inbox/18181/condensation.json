@@ -1,0 +1,264 @@
+{
+  "schema_version": 1,
+  "source_id": 18181,
+  "source_sha256": "b7218877016fd33d0fc997e2e94c5abef3a4e4d7da6232b8e225a354d89e1dd6",
+  "title": "Why one in three: causes, data gaps and what must change to reduce child poverty in Wales",
+  "label": "21 October 2026 · Welsh Affairs Committee — Child poverty in Wales",
+  "summary": "Witnesses told the Committee that roughly one in three children in Wales live in poverty and that, while headline rates have been stable for two decades, poverty has become deeper. Three main drivers are weaker local economies and lower pay, an insufficient social security system that has been tightened in recent years, and rising housing and living costs—made worse in rural and post-industrial areas by poor transport and higher heating costs. The panel urged better UK–Welsh Government co‑ordination, clearer targets, improved data for Wales, and targeted policies such as more early childcare support and properly designed trial payments.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Ruth Jones",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Mabli Jones",
+      "name": "Mabli Jones",
+      "role": "Head of Policy (Poverty), Bevan Foundation",
+      "kind": "witness"
+    },
+    {
+      "label": "Laurie Ryall",
+      "name": "Laurie Ryall",
+      "role": "National Director for Wales, Action for Children",
+      "kind": "witness"
+    },
+    {
+      "label": "Tom Wernham",
+      "name": "Tom Wernham",
+      "role": "Senior Research Economist, Institute for Fiscal Studies",
+      "kind": "witness"
+    },
+    {
+      "label": "Sarah Crawley",
+      "name": "Sarah Crawley",
+      "role": "Director of Children's Services for Cymru and UK Programmes, Barnardo’s",
+      "kind": "witness"
+    },
+    {
+      "label": "David Chadwick",
+      "name": "David Chadwick",
+      "role": "Member of the Welsh Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Andrew Ranger",
+      "name": "Andrew Ranger",
+      "role": "Member of the Welsh Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Simon Hoare",
+      "name": "Simon Hoare",
+      "role": "Member of the Welsh Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Ben Lake",
+      "name": "Ben Lake",
+      "role": "Member of the Welsh Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Llinos Medi",
+      "name": "Llinos Medi",
+      "role": "Member of the Welsh Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Henry Tufnell",
+      "name": "Henry Tufnell",
+      "role": "Member of the Welsh Affairs Committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Cynnal payment",
+      "definition": "A planned small weekly pilot payment from the Welsh Government intended to test extra cash help for families."
+    },
+    {
+      "term": "two-child limit",
+      "definition": "A UK benefit rule that originally limited child-related payments to the first two children in a family."
+    },
+    {
+      "term": "local housing allowance",
+      "definition": "A UK-wide benefit rate used to help cover private-rent costs; it does not vary to fully match local rents."
+    },
+    {
+      "term": "no recourse to public funds",
+      "definition": "A immigration-related restriction which prevents some families accessing benefits and many public supports."
+    },
+    {
+      "term": "relative poverty",
+      "definition": "When household income is low compared to typical income in society, often measured as a share of median income."
+    },
+    {
+      "term": "material deprivation",
+      "definition": "A measure of whether people can afford basic items and activities society considers necessary."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What the figures mean",
+      "takeaway": "About one in three children in Wales are in poverty and the poorest are getting poorer, not just more numerous.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We are starting our inquiry into child poverty in Wales. Mabli, can you describe the last 25 years?"
+        },
+        {
+          "speaker": "Mabli Jones",
+          "text": "One in three children in Wales is in poverty—a rate that has stayed around that level for two decades. But poverty has deepened: nearly 47% of people in poverty in Wales now live in very deep poverty (40% or less of median income). Families are regularly missing basics."
+        },
+        {
+          "speaker": "David Chadwick",
+          "text": "Tom, how much does Wales’s weak economy explain these figures?"
+        },
+        {
+          "speaker": "Tom Wernham",
+          "text": "A lot. Employment and earnings determine household income. Since about 2019 Wales has fallen back on employment and pay versus the rest of the UK. There are fewer high-pay industries and lower productivity in many sectors, which lowers earnings and makes reducing poverty harder."
+        },
+        {
+          "speaker": "Sarah Crawley",
+          "text": "And remember most children in poverty live in families with at least one adult in work—74% in relative income poverty—so getting people into low-paid jobs isn't enough on its own."
+        }
+      ]
+    },
+    {
+      "title": "Root causes: benefits, housing and local jobs",
+      "takeaway": "Policy choices on benefits, housing and local jobs explain much of the depth of poverty; fixes require both cash and long-term services.",
+      "turns": [
+        {
+          "speaker": "Andrew Ranger",
+          "text": "Are the problems you describe specific to Wales or the wider UK?"
+        },
+        {
+          "speaker": "Laurie Ryall",
+          "text": "Some are Wales-specific: higher levels of certain needs like disability benefits, and more families needing tailored support. But national policies interact with local realities."
+        },
+        {
+          "speaker": "Mabli Jones",
+          "text": "Changes to benefits have mattered. The two-child limit, overall benefit caps and things like the bedroom tax reduced the safety net and pushed families into deeper poverty."
+        },
+        {
+          "speaker": "Sarah Crawley",
+          "text": "Housing costs are key. Local housing allowance doesn't match rents, so people on housing support can't find affordable private homes. We see hygiene poverty, children sharing beds, families in one room—it's damaging health and education."
+        },
+        {
+          "speaker": "Tom Wernham",
+          "text": "There are trade-offs. The fastest way to lower headline child poverty is to change benefits, but that is costly. Improving jobs and pay is essential but takes time and different policies at UK and Welsh levels."
+        },
+        {
+          "speaker": "David Chadwick",
+          "text": "Is growing the private sector the best long-term strategy?"
+        },
+        {
+          "speaker": "Tom Wernham",
+          "text": "Boosting private-sector earnings is needed because the public sector wage premium is larger in Wales than elsewhere. But you also need benefits and services; it's not one or the other."
+        }
+      ]
+    },
+    {
+      "title": "Rural, data and co‑ordination problems",
+      "takeaway": "Rural and post‑industrial areas face extra costs and isolation; governments are not joined up and Wales lacks the data needed to target help precisely.",
+      "turns": [
+        {
+          "speaker": "Ben Lake",
+          "text": "How do rural areas suffer differently?"
+        },
+        {
+          "speaker": "Mabli Jones",
+          "text": "Transport loss, poor access to services, higher travel and heating costs—many communities outside cities face the same barriers as classic rural areas. A third of low-income Welsh households lack a car, so lost buses matter."
+        },
+        {
+          "speaker": "Sarah Crawley",
+          "text": "Rural heating often uses oil tanks, which are expensive. Transport rules for school help can leave parents walking miles. These factors add cost and limit access to work and services."
+        },
+        {
+          "speaker": "Simon Hoare",
+          "text": "Is poor co‑ordination between Westminster, the Senedd and councils holding things back?"
+        },
+        {
+          "speaker": "Laurie Ryall",
+          "text": "Yes. Policies often sit in silos. The Cynnal payment pilot in Wales is a good example where lack of clear co‑ordination with UK departments could create unintended consequences."
+        },
+        {
+          "speaker": "Mabli Jones",
+          "text": "Some local authorities don't have data-sharing agreements with DWP. If data were shared better, more families would get the support they are due."
+        },
+        {
+          "speaker": "Tom Wernham",
+          "text": "On data more generally: survey samples for Wales are small and noisy. That makes it hard to measure which groups are getting worse and to judge policy effects. Government departments also don’t always share data quickly."
+        },
+        {
+          "speaker": "Llinos Medi",
+          "text": "Does that mean our measures miss rural poverty?"
+        },
+        {
+          "speaker": "Tom Wernham",
+          "text": "Main income measures miss many local extra costs. Material deprivation data help, but small samples and falling survey response rates make reliable Wales-level evidence difficult without investing in better, consistent data."
+        }
+      ]
+    },
+    {
+      "title": "What helps: pilots, local access points and children’s voices",
+      "takeaway": "Practical steps—carefully designed pilot payments, clearer targets, more childcare, single local access points and listening to children—would make an immediate difference.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Is the Cynnal payment a useful test?"
+        },
+        {
+          "speaker": "Mabli Jones",
+          "text": "It could be—if DWP and HMRC agree not to count it as taxable income or as reducing other benefits. Scotland’s bigger child payment shows how powerful a devolved, permanent payment can be."
+        },
+        {
+          "speaker": "Laurie Ryall",
+          "text": "We need longer-term support, not just crisis grants. Many current funds are short-term emergency help; families need sustained support to get out of persistent poverty."
+        },
+        {
+          "speaker": "Henry Tufnell",
+          "text": "Can you give a concrete example of successful local practice?"
+        },
+        {
+          "speaker": "Laurie Ryall",
+          "text": "Cardiff council runs a single point of access that links families to all local benefits and services—when that works, it reduces confusion and helps uptake."
+        },
+        {
+          "speaker": "Sarah Crawley",
+          "text": "Barnardo’s runs a child poverty fund and supports around 1,450 children in Wales a year for basics and experiences. We also helped double the education maintenance allowance after young carers spoke to the Senedd."
+        },
+        {
+          "speaker": "Laurie Ryall",
+          "text": "Action for Children developed an ID card and an app for young carers so they can alert schools when they’re having a difficult morning—small practical tools that reduce harm."
+        },
+        {
+          "speaker": "Mabli Jones",
+          "text": "Policy priorities we recommend include more funded childcare (to help parents work more hours), targeted support for families with children under five, and addressing no recourse to public funds cases."
+        },
+        {
+          "speaker": "Tom Wernham",
+          "text": "Research shows cash alone doesn't always change some outcomes like early test scores; combining income support with services—like early years centres—can be more effective for longer-term life chances."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Final thoughts on data or next practical steps?"
+        },
+        {
+          "speaker": "Mabli Jones",
+          "text": "Improve Welsh sample sizes and targeted indicators so policies can be evaluated; meanwhile act on known facts: young children, large families and no-recourse households need focused help."
+        },
+        {
+          "speaker": "Tom Wernham",
+          "text": "If you invest in better, Wales-focused data (designed to be compatible with UK surveys) and faster inter-departmental sharing, you'll get much clearer evidence to design and test policy."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you all. We've heard the scale of the problem, the main drivers, the data and co‑ordination gaps, and practical ideas for change."
+        }
+      ]
+    }
+  ]
+}

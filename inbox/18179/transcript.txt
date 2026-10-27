@@ -1,0 +1,271 @@
+Oral evidence - 21 Oct 2026
+
+Environment and Climate Change Committee
+
+Uncorrected oral evidence: Dunkelflaute and the risks of electricity intermittency
+
+Wednesday 21 October 2026
+
+10 am
+
+Watch the meeting
+
+Members present: Baroness Sheehan (The Chair); Lord Ashcombe; Baroness Coffey; Lord Jay of Ewelme; Lord Lennie; Baroness McIntosh of Pickering; Baroness Rafferty; Lord Rooker; Lord Trees; Baroness Whitaker.
+
+Evidence Session No. 3 Heard in Public Questions 31 - 36
+
+Witnesses
+
+Nick Smailes, Special Projects Director, the Faraday Institution; Andy McNeill, Senior Policy Consultant, Energy Storage Association.
+
+USE OF THE TRANSCRIPT
+
+This is an uncorrected transcript of evidence taken in public and webcast on www.parliamentlive.tv.
+
+Any public use of, or reference to, the contents should make clear that neither Members nor witnesses have had the opportunity to correct the record. If in doubt as to the propriety of using the transcript, please contact the Clerk of the Committee.
+
+Members and witnesses are asked to send corrections to the Clerk of the Committee within 14 days of receipt.
+
+15
+
+Examination of witnesses
+
+Nick Smailes and Andy McNeill.
+
+Q31 The Chair: Good morning and welcome to the Lords Committee on the Environment and Climate Change. Today is the third session of the committee’s inquiry into Dunkelflaute weather events and the challenges they present to the Government’s ambition to deliver the clean power action plan by 2030. Today we have divided the session into two panels. The first will focus on long-duration energy storage solutions and the second on market mechanisms and the cost effectiveness of technology portfolios.
+
+Before we start, I remind everyone that the session is webcast live on Parliament TV and a transcript will be taken and made public. Witnesses will have an opportunity to review the transcript and, if necessary, make very minor amendments. Members are reminded that they should declare any relevant interests the first time they speak, and this applies to all witnesses. I will take the opportunity here to say that I am a director of Peers for the Planet.
+
+I am very pleased to welcome our first panel this morning. I will ask each of you to introduce yourselves.
+
+Andy McNeill: Good morning, Chair, and good morning, committee members. I am a senior policy consultant with the Energy Storage Association. I will give a brief introduction as to what the Energy Storage Association is so that that is available to everyone. We are a member-supported trade association. As the name suggests, we are focused on advocacy and progressing the opportunities and the potential for energy storage in the UK. We have more than 40 members currently and, more pertinent and relevant to this context, a number of those have a specific interest in long- and longer-duration energy storage. That includes technology developers such as Invinity, Offgrid Energy Labs and Storelectric that are working on novel battery technologies and compressed-air energy storage, which we will touch on in the session. We work with academics at Durham and Keele Universities and a number of other organisations, such as the British Geological Survey. It is a broad church of members focused on progressing the agenda for long-duration energy storage.
+
+Lastly, in this introduction, it would be remiss of me not to acknowledge the relationship we have with the Long Duration Energy Storage Council. It is through its kind introduction that we are joining you today with this opportunity to offer evidence to the committee. Thank you.
+
+The Chair: Excellent. Thank you for taking the time to be with us today.
+
+Nick Smailes: Good morning, Chair. Good morning, committee. Thank you for inviting me. I am director of special projects at the Faraday Institution. The Faraday Institution is the UK’s leading battery science research organisation. We fund research into batteries in academia. We also have an early-stage commercialisation capability where we take the discoveries from our science and seek to accelerate them to market. We are funded through the Department for Business, Innovation, Science and Trade. We started in 2017 out of industrial strategy. We have done three years’ analysis into ultra-long-duration energy storage requirements for batteries. and I look forward to sharing more of that with you during the session.
+
+Q32 The Chair: Excellent, thank you both very much. The evidence that we have received so far has emphasised the need for a diverse portfolio of low-carbon storage and dispatchable power solutions beyond 2030 to address Dunkelflaute risks. What is the added value of long-duration energy storage technologies such as pumped hydro, compressed air or ultra-long-duration batteries compared with low-carbon dispatchable power?
+
+Andy McNeill: Apologies in advance if I keep looking at my notes. It is a broad subject and I am keen to make sure that I do not miss the opportunity to share our perspective.
+
+I would like to focus on two elements in relation to this question. One is an obvious one, and I am sure that it is well known to the committee, but I will mention it briefly. That is security of supply and energy security, particularly with low-carbon dispatchable generation, in particular that that is fuelled by fossil fuels. With domestic production in decline, notwithstanding this morning’s announcement on the green light for Jackdaw, we are on a one-way street to increasing import dependence for fossil fuels by the middle of the next decade. I will talk periodically about 2035 as an anchor point. I appreciate that others have different anchor points. I choose that one because that is the end of the system operators’ current 10-year forecast. It also happens to be the timeframe within which we can realistically think about making changes to the outcome when it comes to capitally intensive storage development.
+
+By the middle of the next decade, we are estimated to be around 80% dependent on fossil fuel imports—natural gas. Given the challenges that we are living through today, and did back in 2022, everything that we can do to try to break that dependence on imported primary energy is valuable. I appreciate that low-carbon dispatchable power has other technologies in its armoury, including, for example, hydrogen to power. We will maybe touch briefly on hydrogen to power and its relative merits as we go through the technology section of the conversation.
+
+The main point about adding value that I want to bring to the committee’s attention—apologies to those who already see this—is that if we look at the mid-2030s, give or take the current forecasts, we anticipate that we would require about 29 or 30 terawatt hours of generation output from unabated—at the moment—gas-fired generation. That is not a massive amount against a backcloth of, by that point in time, over 300 terawatt hours; it is still a marginal supply. However, the point that I want to make in relation to that is that at the same time we are forecasting to be curtailing increasing quantities of renewable generation. Again, to use the system operators’ most recent numbers, by 2035, curtailment—they forecast what is called economic curtailment. For the committee’s benefit, that is when the system is long; we are generating more electricity than we can consume. It is not a locational issue; it is an energy balance issue. That economic curtailment is forecast to rise from not very much today, a couple of hundred gigawatt hours today, to something approaching 50 terawatt hours.
+
+The Chair: Why is that set to increase so much?
+
+Andy McNeill: It increases primarily because of the increasing penetration of intermittent renewable generation on to the grid. As we deliver the already committed and likely future committed offshore wind, onshore wind and solar, the installed capacity grows so much greater than the average use.
+
+The Chair: So grid capacity is the limiting factor there?
+
+Andy McNeill: No, not in this instance. Curtailment has two limbs and they are both important because the solutions are different. I will briefly close on economic curtailment. Nearly 50 terawatt hours—that is electricity that could be made available to the consumer and to the market but is not because there is not enough demand at that point in time.
+
+To take your point, Chair, on what is called congestion-related curtailment, that is when there is demand on the system but we cannot get the electricity from A to B. That is what we are experiencing primarily today, and the committee will be aware that in 2025 almost 10 terawatt hours of electricity were curtailed due to congestion. In simple terms, that is about the equivalent to the output from our largest operating nuclear plant for the whole year. We basically turned that off for a whole year because we could not get electricity from A to B.
+
+That will in part be resolved by the Great Grid Upgrade, but at extraordinary cost. The recent NAO report suggested that by the end of the next decade we could be spending well over £150 billion on grid upgrades if we follow the current trajectory, but it will never be fully resolved. Although NESO does not forecast congestion-related curtailment, there are well-known and well-renowned industry experts out there who do. They are forecasting that congestion-related curtailment could also be up to around 50 terawatt hours by the middle of the next decade. Therefore, you could be looking at 100 terawatt hours of electricity generation lost to the system. It could have been generated, the assets were there, they were installed and operating, but the turbine blades were locked or the breakers were open.
+
+That speaks to the as yet underexplored value of long-duration energy storage. If we can store that energy, and not even all of it, in theory we could displace all that unabated gas from the system in 2035. The system on an annualised basis is long in energy. The problem that we have is a temporal one where we cannot supply the electrons at the time that the customer needs them. That is obviously where storage comes in.
+
+This is a gross simplification and I am not trying to suggest that the answer is to retire all the gas generators and replace them all with storage assets, because there are challenges, particularly in the context of this inquiry, on extended-duration events where there may be a significant call on those assets.
+
+The Chair: That is the focus of this inquiry, indeed.
+
+Andy McNeill: Yes. The point is that there is an asset that at the moment is being viewed increasingly in the public domain as a problem, which is curtailment. I am personally concerned that that will become a poison pill that affects the continued progressive implementation of renewable electricity generation, because there will be too much emphasis on why we are paying wind farm operators not to operate.
+
+The Chair: In some ways that it is a good problem to have. We have this free energy—clean energy, green energy—and we just need to know how to absorb it usefully, how to harness it sensibly.
+
+Andy McNeill: Exactly. We will come on to cost competitiveness later on. If you take a simplified view of the world and say that those electrons are free at the point of supply—that is overly simplified because there could be other use cases for them, industrial growth, and so on—most energy storage technologies would compete reasonably well with unabated gas if they are being supplied by electricity that otherwise would not have been produced. It changes the dynamic in the energy system and it makes it very important that we get after harvesting those and removing that opportunity cost.
+
+The Chair: Thank you. Do you have anything to add?
+
+Nick Smailes: I was going to talk about batteries in particular. We agree with you that a diverse portfolio will be required from 2030. We think that batteries over 100 hours of storage can play a very significant role. Unlike combined-cycle gas turbines with carbon capture and storage, 3 terawatt hours of ultra-long-duration energy storage could absorb and use the surplus energy that you have just been discussing with Andy.
+
+The Chair: Some of these ultra-long-duration energy storage solutions technologies are nascent. What is the potential to scale them up to the tens of terawatt hours that we will need, that we are told that we will need, should a Dunkelflaute event extend for a week or two?
+
+Nick Smailes: We are funding research now. We have started research programmes in novel technologies, aluminium and iron in particular. We think that they can reach very low costs, which could compete with unabated gas and all the low-carbon technologies. Your next question is about timing, but we think that the research will take another five to seven years. That will get us to a large-scale demonstrator in megawatt hours. The scale-up to gigawatt hours would then take two to three years, so these things would be available in the second half of the 2030s. They are much easier to make than lithium-ion and sodium-ion and we think that we could mass-make them in the UK, design and manufacture in the UK. We believe that they could be deployed in terawatt hours by 2050.
+
+The Chair: Time is already slipping away. The committee would be very interested to hear more about the state of readiness and the timeframes involved in some of these technologies. We have talked about compressed air and liquid air, and these mechanical sources of energy would be of real interest to us, as opposed to stuff that we have to burn.
+
+Q33 Lord Trees: To some extent you have asked—and answered—the question that I was due to ask. The Government, we understand, launched a funding scheme for ultra-long-duration storage projects in September 2026, which is quite late. Could you put a bit more flesh on what you have indicated? To what extent is battery technology a question of scaling up the technology we have currently, a lot of which is lithium-ion and so on, or to what extent are these newer technologies the only way to satisfy the scale that we will need? To what extent are they likely to be deliverable within the time course that we have?
+
+Nick Smailes: Lithium-ion and sodium-ion will not deliver the economics for ultra-long-duration energy storage because ultra-long-duration energy storage assets will be cycled very infrequently; our modelling is eight to 10 times a year, so they have to be very cheap. Our target is £11 per kilowatt hour to £15 per kilowatt hour, installed. The only chemistries or technologies that will do that are aluminium and iron, and we have done a lot of research on that. The electrolyte has to be aqueous—it has to be water—to reach those costs.
+
+There has been a significant amount of research globally into aluminium and iron, but nothing like lithium-ion and sodium-ion because those have been driven by the electric vehicle market. Aluminium and iron will not be inside a car ever because you cannot get the power out of them. However, they are, in theory, much simpler chemistries to scale than lithium and sodium, because things do not have to be exact, you do not need dry rooms, and you do not need gigafactories anything like what you see in China. Aqueous aluminium, we think, can be manufactured very similarly to lead acid, which we already manufacture at scale in this country, and iron-air will look more like a chemical plant. We have been manufacturing chemical plants in this country for decades and are quite good at it, so we think that we can scale this and reach mass market within 10 years.
+
+Andy McNeill: Before we move on from the second question on battery technology—and I defer to Nick on the art of the possible and the efforts towards that—from an Energy Storage Association perspective of our members, we have much more of a view on the here and now and what alternative battery chemistries can do to help transition the system in the period while we are pursuing transformational breakthroughs in technology, cost and scalability. The issue here is not having technology to store energy. We can store as much energy as we want. It is a question of cost and, to a second extent, it is a question of land use and how much land you need to host the infrastructure.
+
+There are mature technologies available today, such as flow batteries, redox flow batteries, including those using vanadium and other electrolytes, and other alternative battery technologies such as zinc and zinc gel. We have members who are working in both those areas. They are available now to the market in ability to scale. They are unlikely to achieve ultra-long duration, but every megawatt hour or gigawatt hour flow batteries you put on the front end of an event—because a Dunkelflaute does not start as a Dunkelflaute; it starts as a supply-demand gap. It is just how long it will run for, so the more you reserve your ultra-long-duration technologies for those low-frequency, high-impact use cases, the better.
+
+If we can be harvesting that otherwise curtailed electricity in the short term and storing it in technologies that are ready, we should be doing that. Obviously, we are doing that; the UK is doing that. It has an internationally distinctive cap and floor scheme for long-duration energy storage. However, the decisions that have been made on the technologies that have been awarded or are minded to be awarded licences in that scheme are very narrow. It is 99% pumped storage hydro and lithium-ion batteries.
+
+That has sent a bit of a chilling effect through the alternative battery sector, inasmuch as: is the UK interested in this technology to the point where we are talking to members who are concerned about whether they should continue with manufacturing activities in the UK, where they are manufacturing already in the UK, and other companies that are declining the opportunity or the option to enter the UK market because they are concerned that what the UK is looking for is lithium and pumped storage hydro? It is an issue that we are discussing with regulators and with government, but the point that I want to make is that there are battery technologies available in the interim while Nick and the people working with him are working hard on delivering a step change in cost and performance for the future.
+
+Lord Trees: Can I follow up on something you have just said? You said that we can store as much as we like; the limitations are economics and land use. What are the land use limitations?
+
+Andy McNeill: In principle there are none. There is enough land in the UK to host whatever storage technologies we need, but there is competition for that land, whether it is agriculture, whether it is residential. We are already taking land out of rural use for the purposes of renewable generation. We have to be mindful about how much pressure we put on particularly relatively scarce, high-quality farmland, and so on, and the natural environment.
+
+Lord Trees: A lot of the storage would be underground, as we talked about in this context. Would battery systems occupy a lot of land?
+
+Andy McNeill: We will maybe come to that in the balance of the conversation. There are some technologies, things that are storing energy vector in bulk—compressed air, natural gas; compressed air being the most obvious example. They will go underground. Most of the other technologies are likely to be located on the surface.
+
+The Chair: Before we go further, we have Lord Lennie and Baroness McIntosh.
+
+Lord Lennie: Can either or both of you give me a rough cost comparison between the storage solution, iron and aluminium batteries, and the flow batteries? Are you talking ridiculous costs or are you talking modest costs?
+
+Nick Smailes: For the iron-air and aluminium batteries that we are talking about, the target is £11 to £15 per kilowatt hour, installed. That is a capital cost, and that is everything. That includes the land, the service roads, the concrete, all the electrics. It does not include the grid connection. The energy density, the amount of energy you can put per square metre on a site, is ever so important to the overall cost. At that cost, they compete with unabated gas. A vanadium battery, I am afraid, has a very low energy density. You cannot get very much energy because you have a great big store but the store takes up a lot of space. Their cost is well north of £100 per kilowatt hour, installed. Unfortunately, there is not enough vanadium in the world to deliver all the storage that we are talking about in terawatt hours. Zinc is possible but we do not believe that it can reach the £11 to £15 per kilowatt hour.
+
+The last thing that I would say is that on the ultra-long-duration storage batteries we are trying to deliver security of supply to the system. For the unabated gas that currently delivers security of supply, we are trying to replace that at the same or lower cost. The fact that you can store energy and make it available to the system—very cheap energy; free energy, in effect, possibly—gives you multiple savings for the UK. It is £3 billion a year that we are talking about in our modelling. It is replacing security.
+
+Baroness McIntosh of Pickering: The land use framework said that 10% of agricultural land, prime agricultural land, potentially could be taken out of use. A much bigger issue is that there is a revolt in the countryside against these, particularly the battery storage units that are being built on the back of people’s homes. They have been told that they have to evacuate in the event of a fire. Why can these not be built adjacent to factories? I honestly believe that there will be a riot in the countryside if this persists.
+
+Nick Smailes: I live in the countryside and I do not want to see batteries built beside my house. We believe that these batteries, first, need to be built very close to where the offshore wind makes landfall, because this is firming up wind generation. It is turning wind into something closer to baseload.
+
+Baroness McIntosh of Pickering: There are solar farms as well, to be fair.
+
+Nick Smailes: It would sit beside solar farms but—
+
+The Chair: That is a different issue altogether. We are not going to discuss solar farms.
+
+Nick Smailes: The majority of these, the mega sites we call them, would potentially sit on sites that are currently marked for gas turbines, for CCGTs. You might have heard me say aqueous. We believe that iron-air and aqueous aluminium will be significantly safer and not prone to thermal runaway like lithium-ion and sodium-ion.
+
+The Chair: We are not talking about lithium-ion batteries here.
+
+Baroness McIntosh of Pickering: There are safety aspects.
+
+Nick Smailes: These will be different. These will be safer than lithium, which is what I think the public are worried about.
+
+Q34 Baroness Coffey: I know, Mr Smailes, that you have been working on this for some time—energy systems capital. We have heard about the length of time that it will take to get the solution that everybody is aiming for. There is another, and you have started going into this, about compressed-air and liquid-air energy storage in the UK. I remember being a bright new MP 15 years ago or whatever and being told that it was the future then. I want to get a sense of how much storage capacity these technologies are expected to contribute. The briefing says by 2040, but I would like to know by 2030 and 2040.
+
+Andy McNeill: If we talk specifically about compressed and liquid air, these are effectively proven technologies. There is not a lot of technology risk left. We know how to compress air, we know how to liquefy it, so they are ready and available for use. Their footprint in the UK currently is pretty modest. One very positive thing, despite my critical remarks in relation to the technology diversity, or lack of it, in the cap and floor window 1 minded-to list, is that there is one compressed-air storage project in there. It is relatively modest in scale, 15 megawatts generation capacity, but it has a 30-hour duration. It is demonstrating that you can quite readily scale that technology to deliver over longer durations, so there is some sign of progress in relation to compressed air.
+
+Compressed air works in two contexts. You either put it in tanks on the ground and then it is a bit like any other form of surface storage, a battery or whatever, or, in the case of this project, which is with Storelectric on Teesside, you put it in a salt cavern—these happen to be existing salt caverns—where you have a much bigger tank that you can operate. Compressed air in particular has a potential to scale under the tip of the iceberg, if you like.
+
+Baroness Coffey: What do you think will happen, though, with liquid air as well?
+
+Andy McNeill: On liquid air there were projects that bid into the cap and floor window 1; they were not successful. There is a company that many of you may be aware of, Highview, that is currently building, outside of the cap and floor scheme, a commercial-scale facility at Carrington in Manchester. That will, I hope, come online relatively imminently. It is not a member of ours so I cannot speak authoritatively, but it is making progress. I think that is a 50-megawatt to 300-megawatt hour facility, so it is at meaningful scale. It is not necessarily grid scale, but it is getting there. The potential is there.
+
+The UK is lagging, I would say, internationally in many respects in progressing diverse technologies. We are very much focused on pumped storage hydro and lithium-ion at the moment, but there are compressed air and liquid air projects, particularly in China. China over the past 24 months has commissioned a large amount of liquid-air and compressed-air storage.
+
+Baroness Coffey: Coming back to the UK, what do you think the likely share of the capacity will be—1%, 5%?
+
+Andy McNeill: By 2030, it will be a fraction because there simply is not the project pipeline to deliver it.
+
+Baroness Coffey: By 2040?
+
+Andy McNeill: By 2040, depending on the actions of policymakers, both technologies have the potential to scale beyond their current projected capacities. I would have to go and look up the exact numbers to see what NESO is forecasting for 2030 and 2040, but they are still forecast to be peripheral technologies. If you bear with me briefly on compressed air, the distinctive factor with compressed air is its ability to utilise underground storage. We are currently using a fraction of the salt cavern storage potential that the UK has. Salt caverns are very good for storing energy—much better than depleted oil and gas reservoirs, for example.
+
+Baroness Coffey: Are they located well around the country?
+
+Andy McNeill: They are, unfortunately, concentrated—
+
+Baroness Coffey: In Yorkshire and the north-east?
+
+Andy McNeill: Yorkshire, Cheshire and Dorset. They are available in shallow water offshore, but that obviously complicates development. I think that we should increasingly be looking at our salt cavern capability as a strategic asset and then deciding what would be the best use of that between natural gas, biomethane, compressed air and hydrogen.
+
+The Chair: If compressed-air storage is competing with hydrogen storage, which is the more dense energy solution?
+
+Andy McNeill: The pecking order, if you like, is that you would start with natural gas. I mention that not to do a deep dive on biomethane, but I think that biomethane is one of the neglected opportunities for ultra-long-duration energy storage. We are used to storing natural gas. We can produce biomethane domestically. If we store it instead of using it to fuel my gas hob or my gas boiler at home, which can be electrified, that is a strategic national resource.
+
+Natural gas is four to five times more energy dense than hydrogen, much easier to use in terms of transportation and end-use case. Compressed air is much less energy dense than hydrogen, because you are not combusting, you are not releasing chemical energy; you are just releasing potential energy in the form of pressure. It is, give or take, in the region of 10 to 15 times less energy dense than the equivalent amount of hydrogen.
+
+That might lead you to ask: why do we not put hydrogen in these tanks? The challenge is that you have to look beyond that and largely look at round-trip efficiency—how much electricity you have to use to generate the hydrogen to generate the power. With the best will in the world, the current round-trip efficiency for hydrogen is in the high 30s in terms of percentage, whereby for compressed air it is mid 60% and climbing.
+
+The Chair: You have answered my question. Thank you very much.
+
+Q35 Lord Ashcombe: I would like to turn to water and what have you. What is the potential for the new pumped hydro and the pumped thermal electric storage in the UK and what are the barriers and delivery timescales? I am very interested in the amount of land that these will take up, because, as you mentioned earlier, there is a lot of pressure on space, particularly in the south.
+
+Andy McNeill: The UK has a relatively proud history of pumped storage hydro but we have not built any for 40 years. The big success story from the cap and floor window 1, which is intended to facilitate the next wave of long-duration energy storage development—I will just check my notes—three projects in cap and floor window 1, over 50% of the generation capacity and the storage capacity have been allocated to three pumped storage hydro projects. They are obviously geographically constrained. You can build conventional pumped storage hydro only where you have enough of a height difference and you can have freshwater storage at the top and the bottom. Those projects are all reasonably mature.
+
+We do not follow the pumped hydro storage sector closely because there is another trade association there, the British Hydropower Association, which does a very good job there. The potential is there; in fact, we are banking on it. In order to deliver long-duration energy storage requirements for the middle of the next decade, those projects need to be delivered. There will be risks associated with delivering any large capital project. I would hazard a guess that those three projects alone will cost somewhere between £4 billion and £5 billion.
+
+Lord Ashcombe: When will they be ready?
+
+Andy McNeill: They are currently slated to come on—one is 2030 and the other two are 2033. Typically, the lead time from final investment decision to commissioning on a pumped storage hydro project could be anywhere between five and 10 years. The civil engineering project is on a colossal scale. But the developers are committed to delivering those, and some of those are serious companies, such as SSE, which has the largest of those projects in Coire Glas.
+
+I would like to briefly mention other forms of pumped storage hydro. You may be familiar with high-density pumped storage hydro.
+
+Lord Ashcombe: Before you do, it seems from the notes in the briefing we have that the amount of power it will produce over any length of time is still pretty modest. We are spending huge amounts of money and it is still 10 years away, which seems to be the magic number that keeps coming back at the moment—whatever we do, whatever the cost. They are trying to get us there in 2030. It seems that we are some distance away.
+
+Andy McNeill: The reason that that timeline has kept moving out has not been to do with project pipeline or project definition; it has largely been to do with revenue certainty. In a rapidly changing energy market, without the cap and floor scheme there was not a policy landscape in which these projects made any sense commercially.
+
+Lord Ashcombe: That is definitely a key barrier to it?
+
+Andy McNeill: That was a key barrier. The cap and floor scheme has been designed and implemented. I have to say that it has not yet been proven, because it will be proven when projects take final investment decisions. I think that the earliest, realistically, will be the middle of next year for projects in window 1 taking final investment decision. The quantities are modest in the grand scheme. Pumped storage hydro is not the solution to Dunkelflaute, but it is part of the armoury that reduces the load on ultra-long-duration technologies by managing those higher-frequency, lower-impact events at the front end of the supply-demand gap distribution curve. Because it is a mature technology, it is reasonably energy efficient. You are looking at typically around 80% round-trip efficiency.
+
+The reason that I wanted to very briefly mention high-density pumped storage hydro is because it is a slightly different prospect. It is an area the UK Government have invested in through their LoDES scheme with a company called RheEnergise down on the Dorset coast, which has a demonstrator running now successfully. The key benefit of high-density pumped storage hydro is that it uses a high-density fluid. The fluid is two and a half times the density of water, so you need 40% of the height difference to get the same amount of energy output. It opens up a much broader range of geographies for the deployment of that technology.
+
+Lord Ashcombe: What is the liquid being used?
+
+Andy McNeill: It is a proprietary fluid that is blended using weighting agents to be stable so that they do not settle out. I know of them, but I do not work directly with them.
+
+Lord Ashcombe: Can you comment on pumped thermal?
+
+Andy McNeill: Pumped thermal, I would say, is in its infancy in the UK in particular; in fact, perhaps globally. It is an exciting technology because of its ability to scale and its ability to generate efficiency, but we have had limited traction in the UK. There is one company—again, supported by the LoDES scheme—SynchroStor, which appears to have done some great work on de-risking some of the core technology at the middle of the concept, but it has not got any traction at any great scale. There were no pumped thermal projects bid into cap and floor window 1, which by definition means that none of them was sufficiently technologically mature.
+
+Lord Ashcombe: So 10 years is probably well out there in this case.
+
+Andy McNeill: Yes and no. It all comes down to application of effort. If the incentives are there, if the drivers are there to drive the level of technological innovation and development, stuff can be done very quickly. Again, the science and engineering is well known, it is just applying it in a slightly different manner.
+
+Lord Ashcombe: Going back to land use, this is underground, am I right, rather than primarily above ground?
+
+Andy McNeill: Pumped heat?
+
+Lord Ashcombe: Yes.
+
+Andy McNeill: Most of the technology platforms that are in existence at the moment would be above ground.
+
+Lord Ashcombe: A space stealer.
+
+Andy McNeill: Yes and no, but we need space. I do not think that we should be—I may have set the hare running by talking about land use competition. Apologies if I have.
+
+The Chair: Not at all.
+
+Andy McNeill: We will have to use space. What we have to do is use the space that we have created. We have to reuse brownfield sites. Nick was talking about repurposing as we retire gas-fired generation, just the same way as we have retired coal-fired generation. It will be cheaper to build on green fields, it always is, but we need to have the courage of our convictions on planning to make sure that we recycle brownfield land and grid connections so that we do not proliferate the system with unnecessary grid connections and so on.
+
+The Chair: Keep it pragmatic.
+
+Q36 Lord Lennie: If you were the Secretary of State, what are the primary policy gaps that need to be addressed to accelerate the deployment of long-duration energy storage technology? In order, what are the things that need to be addressed?
+
+Nick Smailes: In terms of the batteries, they will not be allowed to generate or to optimise their revenues from participating in the market because they will be used primarily in a way that is consistent with optimising system security. That has two implications. First, that asset will have to be controlled by the system operator because it is a national asset. It needs to be there for security and it needs to be there to minimise system costs, and that will require an operational reform.
+
+Secondly, because this asset is not necessarily being used to maximise revenue and return on investment, because the regime will be about security of supply rather than optimising profit, investors will find this a very risky asset and therefore there will need to be payments to eliminate that risk, much as we do with nuclear and reserved generation today. Those would be the two for ultra-long-duration energy storage batteries. Over to you, Andy.
+
+Andy McNeill: Thanks for giving me a break. I will just give the highlights of them and if there is any additional information on the details I am happy to cover that. The first one that I mentioned briefly already is to improve demand signalling for long-duration and ultra-long-duration energy storage. Everyone at the moment is trying to answer the question for themselves. Nick and his team have spent an extraordinary amount of time and work trying to do this. There are consultants; there are bodies around. We would like to see a centralised view on what the actual demand is for long-duration and ultra-long-duration energy storage and the asset that will best serve the system. That is one.
+
+A second one links to your introductory remarks, Chair. You said that we need diversity, we need everything. I think that we need to be encouraging diversity. It is too early to be picking winners in this space, because we have not done this for so long. If I look at the cap and floor scheme and the capacity market that currently exists, we should be further developing those to make sure that we do not squeeze out promising technologies before they have had a chance to develop and mature. At the moment, it does feel like we are falling back on the trusted or proven technologies around hydro and batteries.
+
+A tangential point to that is that we would also like to see a second round of the LoDES scheme—longer-duration energy storage. It was a grant-funded scheme that ran 2022 to 2024. It was valuable in developing some of these technologies such as high-density hydro and vanadium flow-battery technology, getting to the point where they could bid at a commercial scale for something like a cap and floor licence. When you are looking at grid-scale development, there is a big difference between having a technology demonstrator and having a commercial project. That difference in implementation is hundreds of millions of pounds, but even in speculative capital it is tens of millions of pounds to get to the point where you can compete. That would be a related point.
+
+Maybe the bigger policy ask would be on better integrating public procurement across four key areas. Long-duration energy storage we have spoken about a lot, but linked to that are related processes around the allocation round process for renewable energy generation. At the moment energy storage is the tail-end Charlie. We are trying to mop up after the renewable generations come on the system. We need to get ahead of that so that we do not have this curtailment challenge.
+
+On the transmission and distribution network investment plan process, at the moment there is too much emphasis on grid reinforcement to move peak volumes around the system with pylons and cables. If we are smarter with the way we use storage, we can minimise the need. That £150 billion to the end of the next decade maybe does not need to be as much if we are smarter about how and where we deploy those storage assets.
+
+The last part of that is the capacity market. In terms of policy, that is a real opportunity for government to get better joined-up thinking.
+
+Baroness Whitaker: Just briefly, were you referring to contracts for difference? How do you think that should be improved?
+
+Andy McNeill: That was a great set-up. Thank you for that question. That lets me make another point very briefly, which is that the contract for difference process has now matured. It has been running for many years. Perhaps it is time to put a bit more challenge back on to the developer side of that equation. Linking it to storage would be to ask them to take responsibility for shaping or firming some of their delivery.
+
+At the moment the developer simply generates whatever it generates and the system operators try to work out how to balance it. If we can get to a place where we start shaping some of that, as Nick was describing, at the point of generation, perhaps evolving the CfD process to introduce an element of shaping requirements, as a developer, you then have to put some emphasis on storage. I do not mean to just turn that all on immediately, but that could be a ratchet mechanism over time that, as the generation technology matures and the market matures, to get the revenue certainty that they get from a CfD they have to work a bit harder.
+
+Baroness Whitaker: Finally, presumably this would help with intermittency.
+
+Andy McNeill: Absolutely, 100%. If we can manage intermittency at the point of generation—it is called shaping or firming—there is less requirement to do that balancing further down the value chain.
+
+Baroness Whitaker: Thank you, that is very helpful.
+
+Lord Trees: Can I ask a quick question about pumped storage? Presumably, our current pumped storage is operating from time to time all the time to help balance the grid. I live in highland Scotland. You will know that we have dams everywhere, but we get only something like 5% of our electricity from current hydro. I cannot believe that the environmental damage that would happen with some of these schemes—Earba is a beautiful place; I do not know whether you know it—
+
+Andy McNeill: Yes, I do.
+
+Lord Trees: —would make any difference to provide the scale that we will need in the future. Is that a fair point?
+
+Andy McNeill: It is a point. I do not necessarily agree with it. I also live in the Highlands. I do not live too far from Cruachan, where one of the original pumped storage hydro schemes was. It comes back to needing everything. We genuinely do need everything. I agree with the point that when you look at the total capacity that those three projects will deliver, it is about 88 gigawatt hours of storage capacity. If you are looking at terawatt hours, I appreciate that that feels like a drop in the ocean, but I go back to my earlier point that we need technologies that are better suited to addressing the front end of the distribution of supply-demand gaps so that you can minimise the amount of investment that you need to put into that “break glass in case of emergency” ultra-long duration. That is maybe where I would agree but differ slightly.
+
+Lord Trees: There is an environmental cost.
+
+The Chair: We have to come to a close here; we are well over time. Thank you very much for your generosity with your time and for taking the time to be with us today. Thank you very much. We will finish the first panel.

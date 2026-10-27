@@ -1,0 +1,380 @@
+{
+  "schema_version": 1,
+  "source_id": 18178,
+  "source_sha256": "65bbd954496573a806f6bc1c9b089b5b707a7d8f30226fd42d5ff3faaef7406e",
+  "title": "Who does what now? Ministers explain the science, innovation and AI reshuffle",
+  "label": "21 October 2026 · Machinery of government changes",
+  "summary": "Ministers and senior officials from the departments most affected by the abolition of DSIT explained why responsibilities were split, how they will co-ordinate on science, innovation, AI and digital, and how budgets, procurement and regionalisation will be handled. They repeatedly reassured that discovery science is protected, described procurement and social-value changes to favour UK industry, set out how AI strategy now sits at the Prime Minister’s office while departments keep operational ownership, and agreed to provide more transparency on costs and specific funding decisions (notably for UKRI and STFC).",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Dame Chi Onwurah",
+      "role": "Chair of the Science and Technology Committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Chris McDonald",
+      "name": "Chris McDonald MP",
+      "role": "Minister for Science, Innovation and Investment, Department of Health and Social Care and Department for Business, Innovation, Science and Trade",
+      "kind": "witness"
+    },
+    {
+      "label": "Alexandra Jones",
+      "name": "Alexandra Jones",
+      "role": "Director General for Growth, International, Science and Technology, Department for Business, Innovation, Science and Trade",
+      "kind": "witness"
+    },
+    {
+      "label": "Kanishka Narayan",
+      "name": "Rt Hon Kanishka Narayan MP",
+      "role": "Minister for Artificial Intelligence, Cabinet Office and Department for Business, Innovation, Science and Trade",
+      "kind": "witness"
+    },
+    {
+      "label": "Ollie Ilott",
+      "name": "Ollie Ilott",
+      "role": "Director General for Artificial Intelligence and Head, Office for the Prime Minister and Cabinet",
+      "kind": "witness"
+    },
+    {
+      "label": "Baroness Lloyd",
+      "name": "Baroness Lloyd of Effra",
+      "role": "Minister for Space, Cyber and Regulatory Reform, Department for Digital, Culture, Media and Sport and Department for Business, Innovation, Science and Trade",
+      "kind": "witness"
+    },
+    {
+      "label": "Sarah Connolly",
+      "name": "Sarah Connolly",
+      "role": "Interim Director General, Digital Foundations, Department for Digital, Culture, Media and Sport",
+      "kind": "witness"
+    },
+    {
+      "label": "George Freeman",
+      "name": "George Freeman",
+      "role": "Member of the Science and Technology Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Kit Malthouse",
+      "name": "Kit Malthouse",
+      "role": "Member of the Science and Technology Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Nigel Huddleston",
+      "name": "Nigel Huddleston",
+      "role": "Member of Parliament (also sits on the Digital, Culture, Media and Sport Committee)",
+      "kind": "member"
+    },
+    {
+      "label": "Samantha Niblett",
+      "name": "Samantha Niblett",
+      "role": "Member of the Science and Technology Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Martin Wrigley",
+      "name": "Martin Wrigley",
+      "role": "Member of the Science and Technology Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Dr Gardner",
+      "name": "Dr Allison Gardner",
+      "role": "Member of the Science and Technology Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Tom Collins",
+      "name": "Tom Collins",
+      "role": "Member of the Science and Technology Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Emily Darlington",
+      "name": "Emily Darlington",
+      "role": "Member of the Science and Technology Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Freddie van Mierlo",
+      "name": "Freddie van Mierlo",
+      "role": "Member of the Science and Technology Committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "UKRI",
+      "definition": "UK Research and Innovation, the public body that funds research and innovation in the UK."
+    },
+    {
+      "term": "STFC",
+      "definition": "Science and Technology Facilities Council, the UK agency running big physics facilities (like Diamond and ISIS)."
+    },
+    {
+      "term": "Catapult",
+      "definition": "Government-funded technology centres that help firms and researchers develop and scale innovations."
+    },
+    {
+      "term": "GDS",
+      "definition": "Government Digital Service, which sets digital standards and technical architecture for public services."
+    },
+    {
+      "term": "OPMC",
+      "definition": "Office for the Prime Minister and Cabinet, which now hosts the Prime Minister’s AI taskforce."
+    },
+    {
+      "term": "Frascati-compliant",
+      "definition": "A technical label meaning spending counts as R&D under internationally accepted rules."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Why the departments were reshaped",
+      "takeaway": "Ministers say the change aims to put science 'in the service of industry' and give AI a prime‑ministerial focus, while promising discovery science remains protected.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Today we're examining the recent split of DSIT into parts across Departments and what that means for science, innovation and technology scrutiny."
+        },
+        {
+          "speaker": "George Freeman",
+          "text": "Minister McDonald, why abolish the single department that signalled science was central? How will delivery and political leadership work now?"
+        },
+        {
+          "speaker": "Chris McDonald",
+          "text": "The Prime Minister's brief to me was clear: put science in the service of industry. Form follows function—this structure aligns science, investment and trade to speed commercialisation."
+        },
+        {
+          "speaker": "George Freeman",
+          "text": "People fear a downgrading of blue‑sky research. Will core discovery budgets be protected?"
+        },
+        {
+          "speaker": "Chris McDonald",
+          "text": "Yes. Discovery funding is protected; the aim is to capture more of the value here in the UK, not to cut curiosity‑driven science."
+        },
+        {
+          "speaker": "George Freeman",
+          "text": "Who's in charge in Cabinet when priorities clash?"
+        },
+        {
+          "speaker": "Kanishka Narayan",
+          "text": "I sit in BIST and represent AI strategy at Cabinet through the OPMC. Trade-offs are worked through the Department and at Cabinet committees like the National Economic and National Security Councils."
+        },
+        {
+          "speaker": "Nigel Huddleston",
+          "text": "Was this a policy-driven reorganisation or political? And stakeholders now don't know who to contact—how will you provide a clear single point of engagement?"
+        },
+        {
+          "speaker": "Chris McDonald",
+          "text": "It was policy-driven—to fix long-standing commercialisation issues. We are mapping stakeholder contacts and will make clear who leads on what; large firms often want to engage across several Departments anyway."
+        },
+        {
+          "speaker": "Kanishka Narayan",
+          "text": "On AI, we deliberately put the strategy in OPMC because it is cross-Government and strategic; many G7 partners are doing the same."
+        }
+      ]
+    },
+    {
+      "title": "Budgets, procurement and backing British business",
+      "takeaway": "Ministers say UKRI allocations for discovery haven't been cut, procurement rules will favour UK value through social value and national security exceptions, and Departments must be clearer about costs of the reshuffle.",
+      "turns": [
+        {
+          "speaker": "George Freeman",
+          "text": "Alex, have the UKRI buckets changed after the £86bn announcements? Will discovery money be top-sliced for AI or defence?"
+        },
+        {
+          "speaker": "Alexandra Jones",
+          "text": "The machinery change hasn't altered UKRI's budget split: roughly half still supports discovery. AI and scale-up investments have been drawn from the non-discovery buckets."
+        },
+        {
+          "speaker": "George Freeman",
+          "text": "What about the public cost of the reorganisation—will you publish it?"
+        },
+        {
+          "speaker": "Alexandra Jones",
+          "text": "Departments are absorbing admin costs in their budgets and GIAA is reviewing processes. We'll provide what detail we can and commit to follow up on publication."
+        },
+        {
+          "speaker": "Kit Malthouse",
+          "text": "If admin costs are absorbed, what is being cut elsewhere to pay for this reorganisation?"
+        },
+        {
+          "speaker": "Alexandra Jones",
+          "text": "Mainly administrative reallocations, not R&D budgets; we'll come back on the precise lines where feasible."
+        },
+        {
+          "speaker": "Martin Wrigley",
+          "text": "Procurement is the Government's biggest lever. How will you use it to back UK firms rather than default to big foreign suppliers?"
+        },
+        {
+          "speaker": "Chris McDonald",
+          "text": "Procurement reforms include social value and national security levers. We want to maximise UK business benefit within international rules and are piloting ways to make SMEs easier to buy from."
+        },
+        {
+          "speaker": "Kanishka Narayan",
+          "text": "For AI and chips we're using rapid procurements, advance market commitments and the sovereign AI scheme to create revenue certainty and keep companies here."
+        },
+        {
+          "speaker": "Alexandra Jones",
+          "text": "We're setting up a commercial innovation hub to help Departments buy innovation and bring together SMEs into proven solution catalogues for public buyers."
+        },
+        {
+          "speaker": "Freddie van Mierlo",
+          "text": "SMEs tell me NHS procurement is harder than selling to the UN—repetitive paperwork and demands for bulk discounts. Will you fix that?"
+        },
+        {
+          "speaker": "Chris McDonald",
+          "text": "Yes. NHS procurement can be hard for innovators; we will look at specific cases and work to simplify routes to market."
+        }
+      ]
+    },
+    {
+      "title": "Devolution, clusters and UKRI money",
+      "takeaway": "Ministers announced allocations to support regional innovation but said criteria, delivery and transparency will be worked out with local partners; some UKRI reprioritisation funds are earmarked for clusters.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "What do the changes mean for regional R&D and the £500m local innovation pledge?"
+        },
+        {
+          "speaker": "Chris McDonald",
+          "text": "Regionalisation is a Prime Minister priority. £270m of the local innovation partnerships fund will be placed with mayoral authorities and UKRI will direct about £1bn from its settlement to support world-leading clusters."
+        },
+        {
+          "speaker": "George Freeman",
+          "text": "Will money go only to mayoral areas? How will you avoid political or academic capture and target places that can attract inward private investment?"
+        },
+        {
+          "speaker": "Chris McDonald",
+          "text": "The goal is clusters of national or international significance; they may or may not be in mayoral areas. Criteria are being designed with UKRI and local partners; private investment is a key metric."
+        },
+        {
+          "speaker": "Alexandra Jones",
+          "text": "UKRI will use Frascati‑compliant R&D funding to back clusters. We are working with mayoral authorities to ensure genuine partnership and will publish more detail on how funds will be used."
+        },
+        {
+          "speaker": "Tom Collins",
+          "text": "Who owns long-term capability for mid-TRL scaling—skills, testing facilities and institutions?"
+        },
+        {
+          "speaker": "Chris McDonald",
+          "text": "BIST leads the industrial strategy and agencies like UKRI, Innovate UK and the British Business Bank are aligning to help firms scale, improve access to test facilities and back scale‑up finance."
+        }
+      ]
+    },
+    {
+      "title": "AI: who leads, who regulates and who is accountable",
+      "takeaway": "AI strategy and major cross‑Government projects sit in OPMC; departments keep operational ownership for sectoral AI. Ministers said safety, testing, defence and international cooperation are priorities, and they will consider legislation if needed.",
+      "turns": [
+        {
+          "speaker": "Dr Gardner",
+          "text": "Ollie Ilott, what are the immediate priorities of the Prime Minister’s AI taskforce?"
+        },
+        {
+          "speaker": "Ollie Ilott",
+          "text": "Set the overall framework for Government on AI, build the central team, coordinate Departments and push immediate cross‑cutting work like the Ukraine data partnership."
+        },
+        {
+          "speaker": "Dr Gardner",
+          "text": "Who has the levers to ensure safety across health, justice and other sectors—can the taskforce make coherent policy across Departments?"
+        },
+        {
+          "speaker": "Kanishka Narayan",
+          "text": "Strategy and prime‑ministerial direction sit in OPMC; Departments remain accountable for operational and sectoral AI decisions. The taskforce fills the gap for cross‑Government priorities and urgent projects."
+        },
+        {
+          "speaker": "Dr Gardner",
+          "text": "Is AI safety an explicit, funded priority? Will you audit and assure AI systems used by Government?"
+        },
+        {
+          "speaker": "Kanishka Narayan",
+          "text": "Yes—testing capability has been strengthened via AISI and NCSC inputs, we are working on hardening public services and exploring assurance and insurance models; we will also convene internationally at G20 level."
+        },
+        {
+          "speaker": "Baroness Lloyd",
+          "text": "DCMS will lead on copyright, misinformation, deepfakes and public sector digital transformation, while GDS handles technical standards and architecture."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Quickfire: who leads on AI regulation, cyber, standards and public-sector adoption?"
+        },
+        {
+          "speaker": "Kanishka Narayan",
+          "text": "Overall strategic AI regulation sits with OPMC (me); sectoral regulation depends on the area—cyber is DCMS, public-sector adoption is GDS/DCMS, and departments own their specific contracts."
+        },
+        {
+          "speaker": "Ollie Ilott",
+          "text": "Crucially, AI is a prime‑ministerial priority and that gives the taskforce the convening power to drive cross‑Government action."
+        },
+        {
+          "speaker": "Nigel Huddleston",
+          "text": "Is there a risk of diffusion—too many places doing AI? How will industry know who to approach?"
+        },
+        {
+          "speaker": "Kanishka Narayan",
+          "text": "We will make it clear: BIST leads AI‑producing sectors; DCMS leads digital/tech sector; the taskforce leads strategic cross‑cutting AI. We will clarify engagement routes for industry."
+        },
+        {
+          "speaker": "Dr Gardner",
+          "text": "Will legislation be needed for AI?"
+        },
+        {
+          "speaker": "Kanishka Narayan",
+          "text": "We are not ruling anything out. If legislation is needed to address risks, it will be considered; but many immediate levers are operational or regulatory."
+        }
+      ]
+    },
+    {
+      "title": "STFC, life sciences and transparency requests",
+      "takeaway": "Ministers defended protecting key physics facilities but acknowledged financial problems at STFC and committed to follow up on unclear shortfalls; life sciences oversight spans Health and BIST with procurement and data opportunities.",
+      "turns": [
+        {
+          "speaker": "Kit Malthouse",
+          "text": "What is happening at STFC and Harwell? We were told no cuts, yet staff and communities see closures. Who decides and will core facilities stay open?"
+        },
+        {
+          "speaker": "Chris McDonald",
+          "text": "STFC must live within its budget. UKRI has allocated additional funding to stabilise it. The current plan intends to keep Diamond, ISIS, Muon and the Central Laser Facility operational while STFC fixes its financial control."
+        },
+        {
+          "speaker": "Freddie van Mierlo",
+          "text": "I've had reports of a further £100m shortfall and confidentiality agreements for staff. Can you confirm?"
+        },
+        {
+          "speaker": "Chris McDonald",
+          "text": "I asked to see that evidence. There are two simultaneous events—STFC reprioritisation and a UKRI voluntary severance programme—and that may be causing confusion. Provide me details and I'll validate and write back."
+        },
+        {
+          "speaker": "Kit Malthouse",
+          "text": "On life sciences, will co‑ordination improve now you sit across Health and BIST—will this speed drugs from discovery to patients?"
+        },
+        {
+          "speaker": "Chris McDonald",
+          "text": "I now oversee the investment and science side across Health and BIST. OLS still links industry with MHRA and NICE regulators. We're shortening clinical trial timelines and seeking alignment so the UK is attractive for drug introduction."
+        },
+        {
+          "speaker": "Emily Darlington",
+          "text": "How do you link basic research in AI, quantum and neuromorphic work so Britain keeps advantages in foundational technologies?"
+        },
+        {
+          "speaker": "Kanishka Narayan",
+          "text": "We have an AI for science strategy and a hardware plan that ties PhD support, ARIA investments and procurement together—aiming to build compute and chip capability here, with BIST and UKRI coordinating funding streams."
+        },
+        {
+          "speaker": "Chair",
+          "text": "You agreed to return written details on: (a) the cost of the MOG changes, (b) what UKRI reprioritisation means in practice, and (c) clear confirmation and evidence on STFC commitments. That will be very helpful."
+        },
+        {
+          "speaker": "Chris McDonald",
+          "text": "Yes. We'll supply more detailed information in writing and follow up on specifics the Committee requests."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you all. The Committee will continue scrutiny—this reshuffle raises important questions about coordination, transparency and safeguarding science while promoting UK commercialisation."
+        }
+      ]
+    }
+  ]
+}

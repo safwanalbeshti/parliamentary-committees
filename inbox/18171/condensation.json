@@ -1,0 +1,282 @@
+{
+  "schema_version": 1,
+  "source_id": 18171,
+  "source_sha256": "53aa00af26bfde67d71e279d721b5bbe000a975ea28671faa500a222458e4f71",
+  "title": "How the Bill would change Article 8, family life and deportation",
+  "label": "21 October 2026 · Immigration and Article 8",
+  "summary": "Witnesses from JUSTICE and Garden Court Chambers told the Joint Committee that the Bill’s changes to how Article 8 of the European Convention on Human Rights is applied risk doing real harm. They argued the current system, developed through Part 5A of the Immigration Act and case law, already balances rights and public interest; making the definition of family life and the public-interest/deportation tests more prescriptive would narrow judges’ discretion, create legal uncertainty, hit children and vulnerable people hardest, increase litigation, and could remove appeal rights for many.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Alex Sobel",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Zoe Bantleman",
+      "name": "Zoe Bantleman",
+      "role": "Legal Director, JUSTICE",
+      "kind": "witness"
+    },
+    {
+      "label": "Ronan Toal",
+      "name": "Ronan Toal",
+      "role": "Barrister, Garden Court Chambers",
+      "kind": "witness"
+    },
+    {
+      "label": "Tony Vaughan",
+      "name": "Tony Vaughan",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Murray of Blidworth",
+      "name": "Lord Murray of Blidworth",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Maclean of Redditch",
+      "name": "Baroness Maclean of Redditch",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Afzal Khan",
+      "name": "Afzal Khan",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Tom Gordon",
+      "name": "Tom Gordon",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Euan Stainbank",
+      "name": "Euan Stainbank",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Peter Swallow",
+      "name": "Peter Swallow",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Hamwee",
+      "name": "Baroness Hamwee",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Article 8",
+      "definition": "Part of the European Convention on Human Rights protecting the right to respect for private and family life."
+    },
+    {
+      "term": "Part 5A / Section 117A (Immigration Act 2002)",
+      "definition": "UK law that sets how courts and tribunals assess Article 8 in immigration and deportation cases."
+    },
+    {
+      "term": "Strasbourg jurisprudence",
+      "definition": "Decisions and legal principles developed by the European Court of Human Rights in Strasbourg."
+    },
+    {
+      "term": "manifestly unfounded",
+      "definition": "A legal label allowing the Home Office to treat some human-rights claims as obviously without merit, limiting appeals."
+    },
+    {
+      "term": "Chișinău declaration",
+      "definition": "A 2026 political declaration by Council of Europe states about applying the convention to migration; not a court judgment."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Is there a problem with how Article 8 is applied now?",
+      "takeaway": "Both witnesses say courts already apply Article 8 carefully and the Bill’s changes are unnecessary and likely harmful.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Today we are looking at Clauses 18–20, which change how courts must interpret Article 8 in immigration, asylum and deportation cases. Do we need these legal changes?"
+        },
+        {
+          "speaker": "Ronan Toal",
+          "text": "No. There isn’t a problem. Part 5A and Section 117A have already been heavily litigated and clarified by higher courts, including the Supreme Court."
+        },
+        {
+          "speaker": "Ronan Toal",
+          "text": "We have well-qualified tribunal judges, lots of guidance from domestic and Strasbourg cases, and an appeal system that corrects mistakes. Further amending Part 5A risks creating real damage."
+        },
+        {
+          "speaker": "Zoe Bantleman",
+          "text": "I agree. UK courts follow Strasbourg closely. Appeal rates that favour claimants have fallen, showing courts are not over‑generous. The system is working; the problem is sensationalised reporting and poor initial decision-making, not the law itself."
+        },
+        {
+          "speaker": "Ronan Toal",
+          "text": "To illustrate media distortion, I described a famous case where a judge mentioned a couple’s cat and it became a political example against Article 8—an unfair misrepresentation that shaped policy rhetoric."
+        }
+      ]
+    },
+    {
+      "title": "Why codifying Article 8 is risky",
+      "takeaway": "Hard rules in statute would freeze flexible, fact‑based tests and push non‑lawyer adjudicators toward wrong outcomes.",
+      "turns": [
+        {
+          "speaker": "Tony Vaughan",
+          "text": "The Court of Appeal warned against codifying Article 8. Why is a checklist approach a bad idea?"
+        },
+        {
+          "speaker": "Ronan Toal",
+          "text": "Article 8 family life is 'a question of fact'—each case is unique. Strasbourg gives guiding principles, not fixed rules."
+        },
+        {
+          "speaker": "Ronan Toal",
+          "text": "If Parliament writes many prescriptive factors into law, those principles can ossify into rigid rules and mislead decision‑makers."
+        },
+        {
+          "speaker": "Ronan Toal",
+          "text": "That danger increases if the Bill moves decisions to non‑legally qualified adjudicators. They’ll rely more on a statutory checklist than on nuanced reasoning."
+        },
+        {
+          "speaker": "Zoe Bantleman",
+          "text": "The Bill’s clauses look like a list of reasons why there isn’t family life, rather than fair guidance. That narrows discretion and risks ending up incompatible with Strasbourg."
+        }
+      ]
+    },
+    {
+      "title": "How the Bill redefines family life and who it hits",
+      "takeaway": "Narrow definitions will hurt children, estranged or non‑cohabiting relatives, and already vulnerable people; courts will likely apply the changes differently.",
+      "turns": [
+        {
+          "speaker": "Baroness Maclean of Redditch",
+          "text": "Will a fixed statutory definition actually change how courts apply Article 8?"
+        },
+        {
+          "speaker": "Ronan Toal",
+          "text": "Yes. The Bill would materially change the approach to family life in law and practice."
+        },
+        {
+          "speaker": "Zoe Bantleman",
+          "text": "Clause 18 goes beyond Strasbourg. It lists types of dependency that won’t count—financial reliance, emotional dependence, disability—unless there is exceptional, constant care."
+        },
+        {
+          "speaker": "Zoe Bantleman",
+          "text": "Amendments require parents to prove a 'genuine and subsisting relationship' even with their own child before family life is recognised. That flips the usual starting point."
+        },
+        {
+          "speaker": "Ronan Toal",
+          "text": "The Bill wrongly treats cohabitation as necessary, limits family life to under‑18s living with parents, and ignores many relationships Strasbourg protects—siblings, grandparents, foster carers."
+        },
+        {
+          "speaker": "Afzal Khan",
+          "text": "Who will be most affected, and could it be discriminatory?"
+        },
+        {
+          "speaker": "Zoe Bantleman",
+          "text": "Those with least voice: children, young adults living at home, people appearing before non‑lawyer adjudicators often without legal aid. The Government’s own assessment says children, disabled people, older people, lone parents and some nationalities could be disproportionately affected."
+        }
+      ]
+    },
+    {
+      "title": "Public interest tests, deportation and children",
+      "takeaway": "Clauses 19–20 tighten public interest/deportation tests, remove the criminal‑sentence threshold and impose a harsh child test — raising legal uncertainty and risks to British children.",
+      "turns": [
+        {
+          "speaker": "Tom Gordon",
+          "text": "What does Clause 19 do to the balancing judges must do?"
+        },
+        {
+          "speaker": "Zoe Bantleman",
+          "text": "Parliament can tell judges what to consider, but not prevent them from weighing relevant facts. The law already says 'little weight' to family formed while someone lacked leave; the Bill moves toward 'no weight.'"
+        },
+        {
+          "speaker": "Zoe Bantleman",
+          "text": "That removes the 'room for the exceptional case'—room Strasbourg expects—and risks incompatibility with the convention."
+        },
+        {
+          "speaker": "Euan Stainbank",
+          "text": "Clause 20 drops the sentence threshold so everyone faces the same high test for resisting deportation. Is that proportionate?"
+        },
+        {
+          "speaker": "Zoe Bantleman",
+          "text": "No: current law grades deportation by seriousness, which Strasbourg accepts. Now someone convicted of a minor offence faces the same harsh exceptions as a serious offender. That’s disproportionate."
+        },
+        {
+          "speaker": "Zoe Bantleman",
+          "text": "The Bill also adds a separate public‑interest hurdle after meeting an exception, making the test confusing and unpredictable for tribunals."
+        },
+        {
+          "speaker": "Ronan Toal",
+          "text": "There are many people who have lived here without formal leave for decades—born here, trafficked, or waiting on asylum decisions—whose family life would be given 'no weight.'"
+        },
+        {
+          "speaker": "Ronan Toal",
+          "text": "Combined with the power to certify claims as 'manifestly unfounded', this could strip many people of appeal rights—effectively removing their route to a fair hearing."
+        },
+        {
+          "speaker": "Tom Gordon",
+          "text": "The Bill could make British children leave the UK with a parent unless the child meets a very high test. What about the child’s best interests?"
+        },
+        {
+          "speaker": "Ronan Toal",
+          "text": "The Bill’s approach looks to undermine the principle that a child’s best interests are a primary consideration. Strasbourg and the Supreme Court place great weight on citizenship and a child’s right to grow up in their country."
+        },
+        {
+          "speaker": "Ronan Toal",
+          "text": "One example: the child test asks whether a child would receive 'no education at all' in the other country—so a British girl sent to a country where only basic education exists might not meet the test, even if other harms follow."
+        },
+        {
+          "speaker": "Euan Stainbank",
+          "text": "Do these changes actually speed up removals?"
+        },
+        {
+          "speaker": "Zoe Bantleman",
+          "text": "Unlikely. Current barriers to removal are often practical—poor records, documentation, case delays—not lack of legal tests. The Bill risks more litigation, not faster returns."
+        }
+      ]
+    },
+    {
+      "title": "Declarations, judges and lay adjudicators",
+      "takeaway": "Political declarations like Chișinău are not court judgments; judges must remain independent. The Bill’s proposed lay adjudicators lack promised legal support.",
+      "turns": [
+        {
+          "speaker": "Peter Swallow",
+          "text": "What effect will the Chișinău declaration have on how courts apply Article 8 in migration cases?"
+        },
+        {
+          "speaker": "Zoe Bantleman",
+          "text": "Chișinău is a political declaration, not a Strasbourg judgment. It focuses on migration and Article 3/8 but doesn’t change the convention text. How judges treat it is uncertain, but it must not undermine judicial independence."
+        },
+        {
+          "speaker": "Baroness Hamwee",
+          "text": "If the Bill moves decisions to lay adjudicators, will they get legal advice like magistrates have from clerks?"
+        },
+        {
+          "speaker": "Zoe Bantleman",
+          "text": "As far as I know, no guarantee of legal advisers for lay adjudicators has been made. There is also no promise they’ll sit alongside legally qualified adjudicators. That’s worrying given the complex law they’d be asked to apply."
+        },
+        {
+          "speaker": "Lord Murray of Blidworth",
+          "text": "On publishing tribunal decisions: are First‑tier decisions being published and should they be?"
+        },
+        {
+          "speaker": "Ronan Toal",
+          "text": "Some publication is now piloted, but I’m wary of routine publication because First‑tier decisions contain sensitive personal information and may endanger judges through hostile reporting."
+        },
+        {
+          "speaker": "Zoe Bantleman",
+          "text": "Open justice matters, but so do anonymity and judicial safety. If publication expands, protections for judges and parties must be stronger."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you both. We will close the session."
+        }
+      ]
+    }
+  ]
+}

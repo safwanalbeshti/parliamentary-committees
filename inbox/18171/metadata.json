@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18171,
+  "activity_id": 39029,
+  "document_id": 308245,
+  "meeting_date": "2026-10-21",
+  "meeting_date_display": "21 October 2026",
+  "publication_date": "2026-10-26T09:17:04",
+  "title": "Legislative Scrutiny: Immigration and Asylum Bill",
+  "committee": "Human Rights (Joint Committee)",
+  "committees": [
+    {
+      "id": 93,
+      "name": "Human Rights (Joint Committee)",
+      "house": "Joint"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9927,
+      "title": "Legislative Scrutiny: Immigration and Asylum Bill",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Legal Director",
+      "organisation": "JUSTICE"
+    },
+    {
+      "name": "Ronan Toal",
+      "role": "Barrister",
+      "organisation": "Garden Court Chambers"
+    }
+  ],
+  "speaker_candidates": [
+    "Also present",
+    "Chair",
+    "Ronan Toal",
+    "Zoe Bantleman",
+    "Tony Vaughan",
+    "Lord Murray of Blidworth",
+    "Baroness Maclean of Redditch",
+    "Afzal Khan",
+    "Tom Gordon",
+    "Euan Stainbank",
+    "Peter Swallow",
+    "Baroness Hamwee"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18171/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18171",
+  "source_sha256": "53aa00af26bfde67d71e279d721b5bbe000a975ea28671faa500a222458e4f71",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

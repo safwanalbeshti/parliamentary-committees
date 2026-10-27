@@ -1,0 +1,272 @@
+{
+  "schema_version": 1,
+  "source_id": 18175,
+  "source_sha256": "2b97aaf03d2b78bc7394ddb823e1b93690a8c6cbbdf323478fb3df5e631ad61b",
+  "title": "Humanitarian crisis, shrinking funds and local solutions in the Sahel",
+  "label": "20 October 2026 · The UK and the Sahel",
+  "summary": "UN and NGO witnesses described a sprawling, long-term displacement crisis across the Sahel driven by conflict, climate and economic pressure. They warned that steep cuts to humanitarian and development funding are worsening food insecurity, protection gaps and forced migration, and said the only viable path is coordinated, longer-term investment that channels more resources to governments, regional institutions, local organisations and private finance while protecting humanitarian access and services for women and children.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "David Mundell",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Monica Harding",
+      "name": "Monica Harding",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Dr Sam Rushworth",
+      "name": "Dr Sam Rushworth",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Tracy Gilbert",
+      "name": "Tracy Gilbert",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Abdouraouf Gnon-Konde",
+      "name": "Abdouraouf Gnon-Konde",
+      "role": "Regional Director for West and Central Africa, UNHCR",
+      "kind": "witness"
+    },
+    {
+      "label": "Patrice Ahouansou",
+      "name": "Patrice Ahouansou",
+      "role": "UNHCR Representative in Chad",
+      "kind": "witness"
+    },
+    {
+      "label": "Marc Regnault de la Mothe",
+      "name": "Marc Regnault de la Mothe",
+      "role": "Senior Regional Representation Adviser, World Food Programme (WFP)",
+      "kind": "witness"
+    },
+    {
+      "label": "Vanessa Willems",
+      "name": "Vanessa Willems",
+      "role": "Advocacy and Policy Adviser, FONGA (regional NGO forum for West and Central Africa)",
+      "kind": "witness"
+    },
+    {
+      "label": "Yann Faivre",
+      "name": "Yann Faivre",
+      "role": "Executive Director West Africa & Americas, Danish Refugee Council",
+      "kind": "witness"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "IDP",
+      "definition": "Internally displaced person — someone forced to flee their home but who remains inside their country."
+    },
+    {
+      "term": "UNHCR",
+      "definition": "United Nations agency that protects refugees and displaced people."
+    },
+    {
+      "term": "WFP",
+      "definition": "World Food Programme — UN agency that delivers food assistance."
+    },
+    {
+      "term": "FCDO",
+      "definition": "UK Foreign, Commonwealth & Development Office — UK government department for foreign policy and aid."
+    },
+    {
+      "term": "SRF",
+      "definition": "Sahel Regional Fund — pooled fund that supports NGOs and local actors across Niger, Mali, Burkina Faso and Chad."
+    },
+    {
+      "term": "El Niño",
+      "definition": "Climate pattern that alters rainfall and temperatures, worsening droughts or floods."
+    },
+    {
+      "term": "IPC",
+      "definition": "Integrated food security analysis that assesses the severity of food crises."
+    },
+    {
+      "term": "Localisation",
+      "definition": "Shifting funding, decision-making and responsibility from international actors to local organisations."
+    },
+    {
+      "term": "Humanitarian diplomacy",
+      "definition": "Donor and diplomatic engagement to protect humanitarian access and principles with host governments."
+    },
+    {
+      "term": "UNHAS",
+      "definition": "United Nations Humanitarian Air Service — common air transport for humanitarian staff and cargo."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "How large and deep the crisis is",
+      "takeaway": "The Sahel faces decades-long displacement driven by conflict, climate and economic stress, with women and children most affected.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Let's start with the scale of need across the Sahel—what are we looking at?"
+        },
+        {
+          "speaker": "Abdouraouf Gnon-Konde",
+          "text": "About 20 million people are in forced displacement across west and central Africa: roughly 4 million refugees and asylum-seekers and 14 million IDPs. Around 82% are women and children, and displacement often lasts 15–20 years."
+        },
+        {
+          "speaker": "Monica Harding",
+          "text": "Those numbers are hard to grasp. Where will this go if we don't act?"
+        },
+        {
+          "speaker": "Abdouraouf Gnon-Konde",
+          "text": "If we don't act now—coordinating humanitarian, development, governments and private sector—the situation will worsen and more people will be pushed to move farther away seeking opportunities."
+        },
+        {
+          "speaker": "Marc Regnault de la Mothe",
+          "text": "On food, 9.7 million people in the Sahel face food insecurity in 2026, and over 10 million children are malnourished in the region. Climate trends and El Niño will make things worse."
+        }
+      ]
+    },
+    {
+      "title": "Cuts to funding and their immediate effects",
+      "takeaway": "Sharp cuts to humanitarian and development funding are forcing agencies to prioritise, leaving millions without support and increasing risky coping strategies.",
+      "turns": [
+        {
+          "speaker": "Monica Harding",
+          "text": "Aid cuts were justified to us by some as failure of past investments. What hasn't worked, and what's different now?"
+        },
+        {
+          "speaker": "Abdouraouf Gnon-Konde",
+          "text": "Past humanitarian-only responses haven't solved structural problems. The difference now is scale: needs and displacement have increased dramatically, so we must combine humanitarian aid with development and investment to stabilise communities."
+        },
+        {
+          "speaker": "Chair",
+          "text": "You mentioned funding falls — how big are they?"
+        },
+        {
+          "speaker": "Abdouraouf Gnon-Konde",
+          "text": "Humanitarian funding dropped about 50% in 2025 in the region; official development assistance fell by roughly 70% in some places. Those cuts are already harming education, registration, and the route to solutions."
+        },
+        {
+          "speaker": "Marc Regnault de la Mothe",
+          "text": "For WFP the shortfall meant we are assisting around 4 million fewer people than planned. Cuts force us to prioritise immediate needs and reduce programmes, with long-term consequences."
+        }
+      ]
+    },
+    {
+      "title": "Why coordination and investment matter for durable solutions",
+      "takeaway": "Returns and stability need investment in services, land and livelihoods—otherwise people repeatedly displace and may travel beyond the region.",
+      "turns": [
+        {
+          "speaker": "Dr Sam Rushworth",
+          "text": "You said people return and then leave again. Why does that happen?"
+        },
+        {
+          "speaker": "Abdouraouf Gnon-Konde",
+          "text": "Return isn't just crossing a border. If people go back to no schools, no services and no livelihoods, they move again. Return requires investment—services, jobs and land restoration—aligned with government plans."
+        },
+        {
+          "speaker": "Patrice Ahouansou",
+          "text": "In Chad we see human, demographic and territorial shocks. Refugees are using Chadian schools and health centres; inclusion is happening but needs international investment to be sustainable."
+        },
+        {
+          "speaker": "Dr Sam Rushworth",
+          "text": "How many Sudanese refugees is Chad hosting now?"
+        },
+        {
+          "speaker": "Patrice Ahouansou",
+          "text": "Sudanese refugees in Chad rose from about 400,000 to roughly 1.3 million since April, bringing total refugees to around 1.5 million—Chad has kept its borders open and is showing solidarity, but cannot carry this alone."
+        }
+      ]
+    },
+    {
+      "title": "Operational challenges, access and diplomacy",
+      "takeaway": "Security, bureaucratic barriers and changing state policies tighten humanitarian access; coordinated diplomatic support is needed to protect operations and staff.",
+      "turns": [
+        {
+          "speaker": "Vanessa Willems",
+          "text": "Access problems vary by country: Burkina Faso is heavily affected by insecurity; Niger by administrative restrictions; Mali has a mix. Examples include slow treasury procedures in Niger that prevented quick payments, and a proposed 10% tax in Mali."
+        },
+        {
+          "speaker": "Yann Faivre",
+          "text": "Security and counter-terrorism operations risk blurring humanitarian neutrality. Stabilisation work can be necessary but must be coordinated with humanitarian actors so it doesn't put aid workers or programmes at risk."
+        },
+        {
+          "speaker": "Vanessa Willems",
+          "text": "Humanitarian diplomacy helps when donors coordinate positions, brief with local NGOs first, and argue from humanitarian principles. The UK can play that convening role."
+        },
+        {
+          "speaker": "Monica Harding",
+          "text": "Are other external powers changing their engagement in ways that affect humanitarian work?"
+        },
+        {
+          "speaker": "Abdouraouf Gnon-Konde",
+          "text": "Some non-traditional partners like China are interested in private-sector development projects in places like the Central African Republic. Actors are looking to diversify financing beyond traditional donors."
+        }
+      ]
+    },
+    {
+      "title": "Local actors, the Sahel Regional Fund and localisation",
+      "takeaway": "Pooled regional funding that gives direct access and capacity support to local organisations is effective and should be expanded and matched by longer-term investment.",
+      "turns": [
+        {
+          "speaker": "Dr Sam Rushworth",
+          "text": "How effective is the Sahel Regional Fund at reaching local actors and cross-border needs?"
+        },
+        {
+          "speaker": "Yann Faivre",
+          "text": "The SRF is efficient and trusted: about 25% goes directly to local partners, plus additional indirect funding through consortia, so roughly a third of the fund reaches local actors. It supports cross-border agility and regional advocacy."
+        },
+        {
+          "speaker": "Vanessa Willems",
+          "text": "The SRF also offers second-tier support costs so local NGOs can run offices, pay security and build capacity. That matters because local delivery isn't automatically cheaper—it needs overheads."
+        },
+        {
+          "speaker": "Yann Faivre",
+          "text": "The SRF runs with low management costs (about 12%), has high beneficiary satisfaction, and shows locally led action can scale when governance and risk-sharing are right."
+        },
+        {
+          "speaker": "Monica Harding",
+          "text": "How have funding cuts affected local NGOs?"
+        },
+        {
+          "speaker": "Yann Faivre",
+          "text": "DRC cut global staff by about 25% and closed offices in places. Many small local groups have lost funding and premises. That has reduced frontline presence and monitoring capacity."
+        }
+      ]
+    },
+    {
+      "title": "Protection, gender and data for early action",
+      "takeaway": "Cuts have weakened protection monitoring and GBV services; better data systems and predictable funding are needed for early warning and to safeguard women and children.",
+      "turns": [
+        {
+          "speaker": "Tracy Gilbert",
+          "text": "What has happened to services for women and girls and GBV prevention?"
+        },
+        {
+          "speaker": "Yann Faivre",
+          "text": "GBV programmes have been heavily affected. Some areas no longer have services they used to, and women-led organisations are among those that lost funding and capacity."
+        },
+        {
+          "speaker": "Vanessa Willems",
+          "text": "Protection monitoring dropped: the number of organisations supporting protection in central Sahel fell from 310 in 2024 to 232 in 2025. Without monitoring, you can't tailor or evidence responses."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Are contingency plans ready for El Niño or other shocks?"
+        },
+        {
+          "speaker": "Marc Regnault de la Mothe",
+          "text": "Yes, contingency plans exist, and meteorological tools like Agrimet and the IPC help predict food security impacts. But contingency plans need extra funding to be effective."
+        },
+        {
+          "speaker": "Abdouraouf Gnon-Konde",
+          "text": "Data is improving and helps us talk to governments and financiers, but we still need better quality and more consistent socioeconomic and protection data to support solutions."
+        }
+      ]
+    }
+  ]
+}

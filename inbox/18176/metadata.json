@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18176,
+  "activity_id": 39040,
+  "document_id": 308261,
+  "meeting_date": "2026-10-20",
+  "meeting_date_display": "20 October 2026",
+  "publication_date": "2026-10-26T11:30:50",
+  "title": "The UK and the Sahel",
+  "committee": "International Development Committee",
+  "committees": [
+    {
+      "id": 98,
+      "name": "International Development Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9932,
+      "title": "The UK and the Sahel",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Advocacy and Policy Adviser",
+      "organisation": "FONGA"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Executive Director West Africa & Americas",
+      "organisation": "Danish Refugee Council"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Abdouraouf Gnon-Konde",
+    "Patrice Ahouansou",
+    "Marc Regnault de la Mothe",
+    "Monica Harding",
+    "Dr Sam Rushworth",
+    "Tracy Gilbert",
+    "Vanessa Willems",
+    "Yann Faivre",
+    "This also teaches us something very important"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18176/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18176",
+  "source_sha256": "2b97aaf03d2b78bc7394ddb823e1b93690a8c6cbbdf323478fb3df5e631ad61b",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

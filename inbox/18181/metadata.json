@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18181,
+  "activity_id": 38995,
+  "document_id": 308312,
+  "meeting_date": "2026-10-21",
+  "meeting_date_display": "21 October 2026",
+  "publication_date": "2026-10-26T15:36:13",
+  "title": "Working towards ending child poverty in Wales",
+  "committee": "Welsh Affairs Committee",
+  "committees": [
+    {
+      "id": 162,
+      "name": "Welsh Affairs Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9681,
+      "title": "Working towards ending child poverty in Wales",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Laurie Ryall",
+      "role": "National Director for Wales",
+      "organisation": "Action for Children"
+    },
+    {
+      "name": "Mabli Jones",
+      "role": "Head of Policy (Poverty)",
+      "organisation": "Bevan Foundation"
+    },
+    {
+      "name": "Tom Wernham",
+      "role": "Senior Research Economist",
+      "organisation": "The Institute for Fiscal Studies (IFS)"
+    },
+    {
+      "name": "Sarah Crawley",
+      "role": "Director of Children's Services for Cymru and UK Programmes",
+      "organisation": "Barnardo’s"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Mabli Jones",
+    "David Chadwick",
+    "Tom Wernham",
+    "Sarah Crawley",
+    "Andrew Ranger",
+    "Laurie Ryall",
+    "Simon Hoare",
+    "Ben Lake",
+    "Llinos Medi",
+    "Henry Tufnell"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18181/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18181",
+  "source_sha256": "b7218877016fd33d0fc997e2e94c5abef3a4e4d7da6232b8e225a354d89e1dd6",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

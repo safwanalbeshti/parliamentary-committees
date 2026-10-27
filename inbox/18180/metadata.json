@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18180,
+  "activity_id": 38992,
+  "document_id": 308289,
+  "meeting_date": "2026-10-21",
+  "meeting_date_display": "21 October 2026",
+  "publication_date": "2026-10-26T14:10:40",
+  "title": "Dunkelflaute and the risks of electricity intermittency",
+  "committee": "Environment and Climate Change Committee",
+  "committees": [
+    {
+      "id": 515,
+      "name": "Environment and Climate Change Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9956,
+      "title": "Dunkelflaute and the risks of electricity intermittency",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Alex Weir",
+      "role": "Director and energy policy expert",
+      "organisation": "Baringa"
+    },
+    {
+      "name": "Marc Hedin",
+      "role": "Head of Research",
+      "organisation": "Aurora Energy Research"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Marc Hedin",
+    "Alex Weir",
+    "Lord Jay of Ewelme",
+    "Baroness Whitaker",
+    "Baroness McIntosh of Pickering",
+    "Lord Rooker",
+    "Baroness Rafferty"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18180/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18180",
+  "source_sha256": "ddac68b1f66a0076b856a8e5019dc72e9da105506f774578cea9a6a5b67983f5",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

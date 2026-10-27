@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18178,
+  "activity_id": 39045,
+  "document_id": 308282,
+  "meeting_date": "2026-10-21",
+  "meeting_date_display": "21 October 2026",
+  "publication_date": "2026-10-26T13:17:49",
+  "title": "Machinery of government changes",
+  "committee": "Science and Technology Committee (Commons)",
+  "committees": [
+    {
+      "id": 135,
+      "name": "Science and Technology Committee (Commons)",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9978,
+      "title": "Machinery of government changes",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Minister for Science, Innovation and Investment",
+      "organisation": "Department of Health and Social Care and Department for Business, Innovation, Science and Trade"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director General for Growth, International Science and Technology",
+      "organisation": "Department for Business, Innovation, Science and Trade"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Minister for Artificial Intelligence",
+      "organisation": "Cabinet Office and Department for Business, Innovation, Science and Trade"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director General for Artificial Intelligence, and Head",
+      "organisation": "Office for the Prime Minister and Cabinet"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Minister for Space, Cyber and Regulatory Reform",
+      "organisation": "Department for Digital, Culture, Media and Sport and Department for Business, Innovation, Science and Trade"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Interim Director General, Digital Foundations",
+      "organisation": "Department for Digital, Culture, Media and Sport"
+    }
+  ],
+  "speaker_candidates": [
+    "Science and Technology Committee members present",
+    "Digital, Culture, Media and Sport Committee member present",
+    "Chair",
+    "George Freeman",
+    "I want to ask about three things this morning",
+    "Chris McDonald",
+    "Kanishka Narayan",
+    "Alexandra Jones",
+    "Kit Malthouse",
+    "Nigel Huddleston",
+    "Baroness Lloyd",
+    "Another question for you, albeit a slightly controversial one",
+    "Sarah Connolly",
+    "Samantha Niblett",
+    "Martin Wrigley",
+    "Emily Darlington",
+    "Freddie van Mierlo",
+    "Tom Collins",
+    "Dr Gardner",
+    "Ollie Ilott"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18178/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18178",
+  "source_sha256": "65bbd954496573a806f6bc1c9b089b5b707a7d8f30226fd42d5ff3faaef7406e",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

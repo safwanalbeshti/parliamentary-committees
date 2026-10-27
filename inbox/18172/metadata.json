@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18172,
+  "activity_id": 39071,
+  "document_id": 308249,
+  "meeting_date": "2026-10-20",
+  "meeting_date_display": "20 October 2026",
+  "publication_date": "2026-10-26T10:10:47",
+  "title": "Trade in a turbulent world: how should the UK deploy its trade instruments?",
+  "committee": "International Agreements Committee",
+  "committees": [
+    {
+      "id": 448,
+      "name": "International Agreements Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9706,
+      "title": "Trade in a turbulent world: how should the UK deploy its trade instruments?",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Rosa Crawford",
+      "role": "Head of International",
+      "organisation": "The Trades Union Congress"
+    },
+    {
+      "name": "Tom Wills",
+      "role": "Director",
+      "organisation": "Trade Justice Movement"
+    },
+    {
+      "name": "Amrita Saha",
+      "role": "Senior Fellow",
+      "organisation": "Institute of Development Studies"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Lord McDonald of Salford",
+    "Rosa Crawford",
+    "Amrita Saha",
+    "Tom Wills",
+    "Lord Anderson of Swansea",
+    "Baroness Verma",
+    "Lord Hannay of Chiswick",
+    "Lord Boateng",
+    "Baroness Anelay of St Johns",
+    "Baroness Bonham-Carter of Yarnbury",
+    "Baroness Lawlor",
+    "What is at discussion here is really, to my mind",
+    "Lord Stevenson of Balmacara"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18172/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18172",
+  "source_sha256": "87c632be6d8cd7dd3a85a0a2bf667e68ca0c98c03d05341747c8169a266a6966",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

@@ -1,0 +1,308 @@
+{
+  "schema_version": 1,
+  "source_id": 18179,
+  "source_sha256": "dcabc9f92e7dd0648ac0a2dd84c4b83cb6bc9ec3216c82a01c2479d3de34d880",
+  "title": "How to keep lights on during long still, dark spells: storage, scale and policy",
+  "label": "21 October 2026 · Dunkelflaute and intermittency",
+  "summary": "Witnesses from the Faraday Institution and the Energy Storage Association told peers that the UK needs a wide portfolio of long-duration storage—mechanical, thermal and novel batteries—to manage rare but severe low-wind, low-sun 'Dunkelflaute' events and to harvest otherwise-curtailed renewable energy. Some technologies are market-ready but small today; others (iron- and aluminium-based long-duration batteries) could be cheap enough to compete with unabated gas but need 5–10 years of development and supportive policy, market signals and payments to investors.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Baroness Sheehan",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Andy McNeill",
+      "name": "Andy McNeill",
+      "role": "Senior Policy Consultant, Energy Storage Association",
+      "kind": "witness"
+    },
+    {
+      "label": "Nick Smailes",
+      "name": "Nick Smailes",
+      "role": "Special Projects Director, The Faraday Institution",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Trees",
+      "name": "Lord Trees",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Lennie",
+      "name": "Lord Lennie",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness McIntosh of Pickering",
+      "name": "Baroness McIntosh of Pickering",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Coffey",
+      "name": "Baroness Coffey",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Ashcombe",
+      "name": "Lord Ashcombe",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Whitaker",
+      "name": "Baroness Whitaker",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Dunkelflaute",
+      "definition": "A weather period with very low wind and solar output, causing low renewable electricity generation."
+    },
+    {
+      "term": "economic curtailment",
+      "definition": "When renewables are producing more energy than can be used, so operators are paid or told not to generate."
+    },
+    {
+      "term": "congestion-related curtailment",
+      "definition": "When generation exists but can't reach demand because transmission lines are full or constrained."
+    },
+    {
+      "term": "cap and floor scheme",
+      "definition": "A government support model offering revenue floors and caps to make long-duration storage projects bankable."
+    },
+    {
+      "term": "Contracts for Difference (CfD)",
+      "definition": "A contract giving renewable generators a fixed price, insulating them from market price swings."
+    },
+    {
+      "term": "pumped storage hydro",
+      "definition": "Two reservoirs at different heights; water is pumped up to store energy and released to generate electricity."
+    },
+    {
+      "term": "compressed air",
+      "definition": "Energy stored by compressing air in tanks or underground caverns then expanded to generate power."
+    },
+    {
+      "term": "liquid air",
+      "definition": "Energy stored by cooling air into a liquid and re-gasifying it to drive a turbine."
+    },
+    {
+      "term": "iron-air",
+      "definition": "A battery chemistry using iron and oxygen in an aqueous system suited to very low-cost, long-duration storage."
+    },
+    {
+      "term": "aqueous aluminium",
+      "definition": "An aluminium-based battery chemistry using water-based electrolytes, aimed at very low cost per kWh."
+    },
+    {
+      "term": "vanadium",
+      "definition": "A metal used in vanadium redox flow batteries, better for medium-duration storage but costly and low energy density."
+    },
+    {
+      "term": "salt cavern",
+      "definition": "An underground hollow in salt deposits used to store gases or compressed air at large scale."
+    },
+    {
+      "term": "LoDES",
+      "definition": "A UK grant programme (Long Duration Energy Storage) to support early-stage, higher-risk storage technologies."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Why long-duration storage matters",
+      "takeaway": "Storage can both replace some gas-fired backup and capture otherwise-wasted renewable energy, reducing import dependence.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We are examining Dunkelflaute and whether we need long-duration storage as part of the clean power plan to 2030. Please introduce yourselves."
+        },
+        {
+          "speaker": "Andy McNeill",
+          "text": "I'm a senior policy consultant at the Energy Storage Association; we represent firms working on long-duration storage and advise on policy and market access."
+        },
+        {
+          "speaker": "Nick Smailes",
+          "text": "I'm Special Projects Director at the Faraday Institution, which funds battery research and early-stage commercialisation in the UK."
+        },
+        {
+          "speaker": "Chair",
+          "text": "What's the added value of long-duration storage—pumped hydro, compressed air, ultra-long batteries—compared with low-carbon dispatchable power?"
+        },
+        {
+          "speaker": "Andy McNeill",
+          "text": "First, energy security: the UK risks rising import dependence for fossil fuels by the mid-2030s. Second, storage can harvest curtailed renewables rather than letting them go unused."
+        },
+        {
+          "speaker": "Andy McNeill",
+          "text": "System operator forecasts show around 29–30 TWh/year of unabated gas output mid-2030s, while 'economic curtailment' could reach ~50 TWh and congestion curtailment may add similarly."
+        },
+        {
+          "speaker": "Andy McNeill",
+          "text": "So, up to ~100 TWh of potential clean energy could be lost without storage. Long-duration storage can shift those electrons to when they're needed."
+        },
+        {
+          "speaker": "Nick Smailes",
+          "text": "Batteries of 100+ hours could help. Our modelling shows 3 TWh of ultra-long storage could absorb a lot of surplus energy and cut reliance on gas."
+        }
+      ]
+    },
+    {
+      "title": "Which technologies and when?",
+      "takeaway": "Some options are ready in modest scale today; novel aqueous aluminium and iron-air batteries could be very cheap but need 5–10 years to scale.",
+      "turns": [
+        {
+          "speaker": "Lord Trees",
+          "text": "Is this a question of scaling current lithium tech or do we need new chemistries to reach the terawatt-hour scale?"
+        },
+        {
+          "speaker": "Nick Smailes",
+          "text": "Lithium-ion and sodium-ion can't reach the low installed costs we need for ultra-long-duration cycling—they're optimised for frequent cycling and vehicles."
+        },
+        {
+          "speaker": "Nick Smailes",
+          "text": "Targets for ultra-long batteries are around £11–£15 per kWh installed. We think aqueous aluminium and iron-air could hit that because they're simpler to manufacture."
+        },
+        {
+          "speaker": "Nick Smailes",
+          "text": "Timeline: 5–7 years of research to large MWh demonstrators, then 2–3 years to scale to GWh projects—so availability in the second half of the 2030s; terawatt-hour scale by 2050 is plausible."
+        },
+        {
+          "speaker": "Andy McNeill",
+          "text": "Meanwhile, there are practical alternatives now: flow batteries (vanadium and other chemistries), zinc-based systems and mechanical storage. They won't be ultra-long, but they help early in an event."
+        },
+        {
+          "speaker": "Lord Lennie",
+          "text": "Rough cost comparison?"
+        },
+        {
+          "speaker": "Nick Smailes",
+          "text": "Our target for aqueous aluminium/iron-air is £11–£15/kWh installed. Vanadium flow batteries are well north of £100/kWh installed and have low energy density."
+        },
+        {
+          "speaker": "Andy McNeill",
+          "text": "Energy density matters because it affects site size and cost. Some technologies can go underground—compressed air in caverns—others are surface-based."
+        }
+      ]
+    },
+    {
+      "title": "Compressed air, liquid air, pumped hydro and land use",
+      "takeaway": "Compressed and liquid air are proven and can scale but are small in the UK now; pumped hydro is mature but geographically constrained; land can be managed by reusing brownfield and retiring gas sites.",
+      "turns": [
+        {
+          "speaker": "Baroness Coffey",
+          "text": "What's the likely contribution from compressed-air and liquid-air by 2030 and 2040?"
+        },
+        {
+          "speaker": "Andy McNeill",
+          "text": "Both are proven. The UK has small projects now: one compressed-air project won a cap and floor 'window 1' place (15 MW, 30‑hour duration). Highview's liquid-air plant at Carrington is nearing commercial scale."
+        },
+        {
+          "speaker": "Andy McNeill",
+          "text": "By 2030 they'll be a fraction of total storage. By 2040 their share depends heavily on policy and project pipeline; internationally China is already building many such projects."
+        },
+        {
+          "speaker": "Baroness Coffey",
+          "text": "Where are the salt caverns for compressed air?"
+        },
+        {
+          "speaker": "Andy McNeill",
+          "text": "They're concentrated in Yorkshire, Cheshire and Dorset, and some shallow offshore options exist. Caverns are a strategic storage asset that could host gas, biomethane, hydrogen or compressed air."
+        },
+        {
+          "speaker": "Chair",
+          "text": "How do compressed air and hydrogen compare on energy density and round-trip efficiency?"
+        },
+        {
+          "speaker": "Andy McNeill",
+          "text": "Natural gas is 4–5× more energy dense than hydrogen. Compressed air is ~10–15× less energy-dense than the same hydrogen amount. Round-trip efficiency: hydrogen is in the high 30s percent today, compressed air mid-60s."
+        },
+        {
+          "speaker": "Lord Ashcombe",
+          "text": "What about pumped hydro and pumped thermal—space and schedule?"
+        },
+        {
+          "speaker": "Andy McNeill",
+          "text": "The UK has not built pumped hydro for 40 years but several projects are in cap and floor window 1. Lead time from final investment to commissioning is 5–10 years; two projects aim for 2030–33. Pumped thermal is earlier stage in the UK."
+        },
+        {
+          "speaker": "Baroness McIntosh of Pickering",
+          "text": "People worry about batteries in the countryside and safety. Where should we site these?"
+        },
+        {
+          "speaker": "Nick Smailes",
+          "text": "Ultra-long aqueous aluminium and iron-air batteries are expected to be much safer than lithium-ion and are suited to sites near where offshore wind lands or where gas plants are retiring—reusing existing grid connections."
+        },
+        {
+          "speaker": "Lord Trees",
+          "text": "But pumped hydro has environmental impacts in scenic areas—how do we balance that?"
+        },
+        {
+          "speaker": "Andy McNeill",
+          "text": "We need everything. Pumped hydro will be part of an overall mix; planning must balance environmental costs with the need for reliable, low-carbon power."
+        }
+      ]
+    },
+    {
+      "title": "Policy, markets and what needs to change",
+      "takeaway": "The UK needs clearer central demand signals, support payments for security-focused assets, incentives for technology diversity, and better alignment across CfD, transmission planning and the capacity market.",
+      "turns": [
+        {
+          "speaker": "Lord Lennie",
+          "text": "If you were Secretary of State, what policy gaps would you fix first?"
+        },
+        {
+          "speaker": "Nick Smailes",
+          "text": "For ultra-long batteries: they will likely be used for system security, not to chase maximum merchant revenue. That means system-operator control and government-backed payments to remove investor risk—similar to arrangements for nuclear or reserved capacity."
+        },
+        {
+          "speaker": "Andy McNeill",
+          "text": "We'd want a centralised, authoritative view of demand for long-duration storage so developers and investors know what's needed. Right now everyone is estimating for themselves."
+        },
+        {
+          "speaker": "Andy McNeill",
+          "text": "Second, encourage technology diversity. The current focus on pumped hydro and lithium in cap and floor window 1 risks crowding out other options before they mature."
+        },
+        {
+          "speaker": "Andy McNeill",
+          "text": "Third, fund another LoDES-style round to bridge demonstrators to commercial scale; that gap is often tens of millions and prevents promising projects from progressing."
+        },
+        {
+          "speaker": "Andy McNeill",
+          "text": "Fourth, better join CfD auctions, transmission planning and the capacity market so storage is planned alongside generation rather than left to mop up curtailment after the fact."
+        },
+        {
+          "speaker": "Baroness Whitaker",
+          "text": "Could CfDs be evolved to require some shaping or firming by generators?"
+        },
+        {
+          "speaker": "Andy McNeill",
+          "text": "Yes—over time CfDs could ratchet in shaping obligations so generators help manage intermittency at source, reducing downstream balancing needs."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Any final sharp points?"
+        },
+        {
+          "speaker": "Nick Smailes",
+          "text": "Technology-wise we can get low-cost long-duration batteries, but only with sustained R&D, demonstration, and payment models that reward security rather than pure market returns."
+        },
+        {
+          "speaker": "Andy McNeill",
+          "text": "Practically: use brownfield and retiring gas sites, don't pick winners too early, and create clearer demand and revenue routes so a mix of compressed air, liquid air, pumped hydro, flow batteries and novel chemistries can scale."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you both; we appreciate the practical timelines and the clear policy asks. We'll move to the next panel."
+        }
+      ]
+    }
+  ]
+}
