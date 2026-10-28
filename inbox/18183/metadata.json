@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18183,
+  "activity_id": 39191,
+  "document_id": 308424,
+  "meeting_date": "2026-10-26",
+  "meeting_date_display": "26 October 2026",
+  "publication_date": "2026-10-27T10:53:44",
+  "title": "Prospects for UNFCCC COP31",
+  "committee": "Environmental Audit Committee",
+  "committees": [
+    {
+      "id": 62,
+      "name": "Environmental Audit Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10048,
+      "title": "Prospects for UNFCCC COP31",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Osman Koray Ertas",
+      "role": "Ambassador",
+      "organisation": "Turkish Embassy"
+    },
+    {
+      "name": "Jay Weatherill",
+      "role": "High Commissioner to the United Kingdom",
+      "organisation": "Australian High Commission"
+    }
+  ],
+  "speaker_candidates": [
+    "Environmental Audit Committee members present",
+    "Energy Security and Net Zero Committee member present",
+    "Chair",
+    "Jay Weatherill",
+    "Osman Koray Ertaş",
+    "Barry Gardiner",
+    "Sarah Gibson",
+    "John Whitby"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18183/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18183",
+  "source_sha256": "8cb8726e5aca6f1c8ca58a10978914c5fc9d7a42a035ff72f0135c2ec8921637",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

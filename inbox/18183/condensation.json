@@ -1,0 +1,244 @@
+{
+  "schema_version": 1,
+  "source_id": 18183,
+  "source_sha256": "8cb8726e5aca6f1c8ca58a10978914c5fc9d7a42a035ff72f0135c2ec8921637",
+  "title": "Two countries, one COP: how Türkiye and Australia are preparing COP31",
+  "label": "26 October 2026 · Prospects for UNFCCC COP31",
+  "summary": "Türkiye (host) and Australia (president of negotiations) explain their unprecedented joint approach to COP31, set out six measurable Action Agenda goals—centred on electrification, zero waste and methane, resilient cities, green industrialisation, youth education and finance—and discuss how they will lift Pacific and vulnerable voices, speed climate finance access, and balance energy security with decarbonisation amid geopolitical strain.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Mr Toby Perkins",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Osman Koray Ertaş",
+      "name": "Osman Koray Ertaş",
+      "role": "Ambassador of the Republic of Türkiye to the United Kingdom",
+      "kind": "witness"
+    },
+    {
+      "label": "Jay Weatherill",
+      "name": "Jay Weatherill",
+      "role": "High Commissioner to the United Kingdom, Australian High Commission",
+      "kind": "witness"
+    },
+    {
+      "label": "Barry Gardiner",
+      "name": "Barry Gardiner",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Sarah Gibson",
+      "name": "Sarah Gibson",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "John Whitby",
+      "name": "John Whitby",
+      "role": "Committee Member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "COP31",
+      "definition": "The 31st UN climate change conference, hosted by Türkiye with Australia as president of negotiations."
+    },
+    {
+      "term": "Action Agenda",
+      "definition": "A set of practical, measurable initiatives proposed by the COP31 presidency to accelerate climate action."
+    },
+    {
+      "term": "electrification",
+      "definition": "Shifting energy use from fossil fuels to electricity, ideally produced from renewables, to cut emissions."
+    },
+    {
+      "term": "Pacific Resilience Facility",
+      "definition": "A Pacific-led fund designed to give fast, predictable, and non-debt finance for climate resilience projects."
+    },
+    {
+      "term": "pre-COP",
+      "definition": "Meetings held before the main COP to align regions and priorities and raise specific issues like Pacific needs."
+    },
+    {
+      "term": "methane",
+      "definition": "A potent greenhouse gas that comes from waste, fossil fuels, and livestock, and that COP31 wants to cut."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Why a joint Türkiye–Australia presidency?",
+      "takeaway": "Türkiye and Australia are co-leading COP31 to combine different regional voices and focus on practical delivery.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Welcome. To start, could you introduce yourselves and briefly set the scene for COP31?"
+        },
+        {
+          "speaker": "Jay Weatherill",
+          "text": "I'm Jay Weatherill, Australia's High Commissioner in London. Australia is co-leading COP31 with Türkiye and wants practical, ambitious outcomes that deliver the Paris Agreement."
+        },
+        {
+          "speaker": "Osman Koray Ertaş",
+          "text": "I'm Osman Koray Ertaş, Türkiye's Ambassador in London. We chose a joint approach with Australia to bring different regions and interests together and focus on implementing what parties already agreed."
+        },
+        {
+          "speaker": "Chair",
+          "text": "This joint arrangement is unprecedented. How did it come about, and is it working so far?"
+        },
+        {
+          "speaker": "Osman Koray Ertaş",
+          "text": "Australia leads pre-COP and negotiations; Türkiye hosts the conference. The idea is practical: two countries with different geographies amplify different voices—the Pacific through Australia, Mediterranean and neighbouring regions through Türkiye—and we've coordinated since January."
+        },
+        {
+          "speaker": "Jay Weatherill",
+          "text": "We've spent a lot of time aligning on fundamentals: commitment to multilateralism, practical delivery and inclusion. Our different perspectives have been a strength in preparation."
+        }
+      ]
+    },
+    {
+      "title": "The wider context: security, energy shocks and urgency",
+      "takeaway": "Geopolitical strain, energy shocks and intensifying weather events make practical, credible climate action urgent and politically sensitive.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Many officials now call climate and nature loss national security issues. Do you agree, and how does that shape discussions?"
+        },
+        {
+          "speaker": "Jay Weatherill",
+          "text": "Yes. Especially for Pacific island nations, climate is existential and has security implications through displacement and regional pressures. Demonstrating effective multilateral action also matters for global stability."
+        },
+        {
+          "speaker": "Osman Koray Ertaş",
+          "text": "I agree. In Türkiye, recent floods and other extreme events showed climate is a security issue. We must persuade publics that green transition supports energy independence and security, or political support will fade."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Is the recent global energy disruption a major driver of these COP discussions?"
+        },
+        {
+          "speaker": "Osman Koray Ertaş",
+          "text": "Yes. We stress that green transition and energy security are compatible. A priority is converting needs into bankable projects and linking them to finance, so countries can choose a secure, low-carbon path even amid conflict and volatility."
+        }
+      ]
+    },
+    {
+      "title": "COP31's Action Agenda: six measurable global goals",
+      "takeaway": "Türkiye set six concrete goals—electrification, zero waste and methane cuts, resilient cities, green industry, youth education, and finance—to guide practical action.",
+      "turns": [
+        {
+          "speaker": "Sarah Gibson",
+          "text": "Ambassador, what are Türkiye's main objectives for COP31?"
+        },
+        {
+          "speaker": "Osman Koray Ertaş",
+          "text": "We put forward six measurable global goals: raise electrification to 35% of final energy by 2035; halve the projected rise in municipal waste by 2035; cut building energy intensity by 25% by 2035; raise circular material use to 15% by 2035; integrate climate into education by 2030 and climate action education for all by 2035; and create a climate implementation bridge to turn needs into bankable projects."
+        },
+        {
+          "speaker": "Jay Weatherill",
+          "text": "Australia supports those goals and emphasises implementation: accelerate the clean energy transition via grids, storage and investment; improve access to finance; build green industries; and lift Pacific priorities."
+        },
+        {
+          "speaker": "John Whitby",
+          "text": "Deforestation featured strongly at the previous COP. Why doesn't it appear among your headline priorities?"
+        },
+        {
+          "speaker": "Osman Koray Ertaş",
+          "text": "Deforestation remains important. Our list wasn't exhaustive—there will be specific events on deforestation in Antalya and we are coordinating with Brazil's prior work on that agenda."
+        },
+        {
+          "speaker": "John Whitby",
+          "text": "Your Action Agenda calls out methane mostly in connection with waste. Why not mention fossil fuels or livestock, which are big methane sources?"
+        },
+        {
+          "speaker": "Osman Koray Ertaş",
+          "text": "Our zero waste focus is part of a holistic methane strategy, but it doesn't exclude other sources. Waste reduction is tangible, and it reduces methane and food insecurity; we also support broader methane actions and will back UK events on this topic."
+        }
+      ]
+    },
+    {
+      "title": "Finance and the Pacific: getting money to the people who need it",
+      "takeaway": "Both presidencies stress easier, faster, non-debt finance and simpler rules so vulnerable countries—especially Pacific islands—can access funds for resilience.",
+      "turns": [
+        {
+          "speaker": "Barry Gardiner",
+          "text": "Pre-COP in Fiji aimed to put the ocean and finance centre-stage. But leader attendance was low and pledged money often doesn't reach communities. How will COP31 change that?"
+        },
+        {
+          "speaker": "Jay Weatherill",
+          "text": "Pre-COP did elevate Pacific needs and produced the Pacific Resilience Facility, which offers finance designed to fit the region. The issue is not only pledges but the rules and red tape that stop money reaching projects; the Facility aims to fix that."
+        },
+        {
+          "speaker": "Barry Gardiner",
+          "text": "How can we 'turbocharge' delivery? Pledges exist but disbursement lags."
+        },
+        {
+          "speaker": "Jay Weatherill",
+          "text": "By simplifying access rules, designing finance that doesn't increase debt, and backing Pacific-led funds. The Facility and the access-to-finance action plan from pre-COP are practical steps in that direction."
+        },
+        {
+          "speaker": "Sarah Gibson",
+          "text": "What role can the UK play to help you meet these goals?"
+        },
+        {
+          "speaker": "Osman Koray Ertaş",
+          "text": "The UK can help on finance expertise. London is a major financial centre and UK institutions know how to turn targets into bankable projects. We're working closely with UK partners on instruments for least developed countries."
+        },
+        {
+          "speaker": "Jay Weatherill",
+          "text": "The UK can also help finalise rules to move adaptation funds from the old Kyoto system into the Paris framework, and support mechanisms like the Pacific Resilience Facility so funds are fast and accessible."
+        }
+      ]
+    },
+    {
+      "title": "Participation, continuity and preparation",
+      "takeaway": "Türkiye and Australia stress inclusive participation—youth, oceans, vulnerable states—while coordinating with prior presidencies and hosting bodies to keep momentum.",
+      "turns": [
+        {
+          "speaker": "Barry Gardiner",
+          "text": "How will you amplify the voices of Pacific nations, indigenous peoples and youth in the negotiations?"
+        },
+        {
+          "speaker": "Jay Weatherill",
+          "text": "We backed Pacific events and the Pacific-led agenda at pre-COP. Practical mechanisms—like regional facilities and action plans—help ensure voices lead to projects and funding rather than just statements."
+        },
+        {
+          "speaker": "Osman Koray Ertaş",
+          "text": "Türkiye has put youth and oceans among priority items. We'll use youth champions, work with UNICEF and UNESCO, host an oceans day and create a marine litter platform to bring practical projects and funding to coastal communities."
+        },
+        {
+          "speaker": "John Whitby",
+          "text": "How are you working with the Brazilian COP30 Presidency to preserve continuity—particularly on fossil-fuel transition road maps?"
+        },
+        {
+          "speaker": "Osman Koray Ertaş",
+          "text": "We've been in close contact since January. We support Brazil's six outcome axes and will carry forward their work on difficult items like fossil-fuel transition while recognising different countries' starting points."
+        },
+        {
+          "speaker": "Jay Weatherill",
+          "text": "We draw on previous presidencies' experience. We expect Brazil's promised road maps to be available before COP31 and will use them in negotiations, though Brazil controls their release."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Any final comments on what success at COP31 would look like?"
+        },
+        {
+          "speaker": "Osman Koray Ertaş",
+          "text": "Success means measurable progress on our six goals, more bankable projects in developing countries, and keeping climate action on the public agenda despite geopolitical pressures."
+        },
+        {
+          "speaker": "Jay Weatherill",
+          "text": "Success is practical implementation: more clean energy investment, rules that get finance to vulnerable communities, stronger Pacific resilience, and a demonstration that multilateralism can still deliver."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you both. We will follow your work closely and wish both nations well in the negotiations."
+        }
+      ]
+    }
+  ]
+}

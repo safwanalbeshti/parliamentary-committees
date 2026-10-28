@@ -2,7 +2,7 @@
   "schema_version": 1,
   "parliament_oral_evidence_id": 18177,
   "activity_id": 38708,
-  "document_id": 308277,
+  "document_id": 308414,
   "meeting_date": "2026-10-21",
   "meeting_date_display": "21 October 2026",
   "publication_date": "2026-10-26T12:49:37",
@@ -50,8 +50,8 @@
   "transcript_status": "published",
   "source_url": "https://committees.parliament.uk/oralevidence/18177/html/",
   "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18177",
-  "source_sha256": "f533a7009e60098d7430af1b1c777136d38d1e6e8ec634b24dbdf5e160f53cb8",
+  "source_sha256": "9043040f42c43293f5407719d9205bd89d12039eaed171883910c1820d8a7755",
   "licence": "Open Parliament Licence v3.0",
-  "packet_status": "awaiting-condensation",
+  "packet_status": "source-updated-needs-review",
   "source_document_format": "Html"
 }

@@ -126,7 +126,7 @@ The JSON is checked automatically.
 ## Official metadata
 
 * Parliament oral-evidence ID: 18177
-* Required source hash: `f533a7009e60098d7430af1b1c777136d38d1e6e8ec634b24dbdf5e160f53cb8`
+* Required source hash: `9043040f42c43293f5407719d9205bd89d12039eaed171883910c1820d8a7755`
 * Committee: Women and Equalities Committee
 * Subject: Equality at work: flexible working and disability
 * Meeting date: 21 October 2026
@@ -162,7 +162,7 @@ Return exactly this structure:
 {
   "schema_version": 1,
   "source_id": 18177,
-  "source_sha256": "f533a7009e60098d7430af1b1c777136d38d1e6e8ec634b24dbdf5e160f53cb8",
+  "source_sha256": "9043040f42c43293f5407719d9205bd89d12039eaed171883910c1820d8a7755",
   "title": "A concise, engaging title",
   "label": "21 October 2026 · A short picker label",
   "summary": "One paragraph explaining what the hearing covered and its main conclusion.",

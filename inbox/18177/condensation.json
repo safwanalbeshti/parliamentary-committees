@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "source_id": 18177,
-  "source_sha256": "f533a7009e60098d7430af1b1c777136d38d1e6e8ec634b24dbdf5e160f53cb8",
-  "title": "Flexible working, reasonable adjustments and barriers to disabled employment",
-  "label": "21 October 2026 · Flexible work and disability",
-  "summary": "Witnesses from the Business Disability Forum and the Trades Union Congress told the committee that while many employers offer flexible working and reasonable adjustments, there are persistent delays, inconsistent practice, limited enforcement, and cultural stigma that keep disabled people out of work or stuck in worse roles. They urged clearer guidance, faster and better-resourced Access to Work support, stronger legal rights (including advertising flexibility and a default right to flexible work), better employer accountability than the current Disability Confident scheme, and practical workplace measures such as adjustment passports and equality reps.",
+  "source_sha256": "9043040f42c43293f5407719d9205bd89d12039eaed171883910c1820d8a7755",
+  "title": "Making Flexible Work Real for Disabled People: employers, law and culture",
+  "label": "21 October 2026 · Flexible working & disability",
+  "summary": "Witnesses from the Trades Union Congress and Business Disability Forum told the Committee that many employers have reached practical limits on flexibility without reorganising, disabled workers routinely face long waits and partial or missing reasonable adjustments, and that law, guidance and enforcement need strengthening. They called for clearer practical guidance, faster and better-funded support (including changes to Access to Work), stronger legal rights such as advertising flexibility and a default right to flexible working, independent verification of employer schemes, and careful use of return-to-office mandates.",
   "speakers": [
     {
       "label": "Chair",
@@ -15,31 +15,31 @@
     {
       "label": "Rachel Taylor",
       "name": "Rachel Taylor",
-      "role": "Member of Parliament and committee member",
+      "role": "Member of the committee",
       "kind": "member"
     },
     {
       "label": "Nadia Whittome",
       "name": "Nadia Whittome",
-      "role": "Member of Parliament and committee member",
-      "kind": "member"
-    },
-    {
-      "label": "Richard Quigley",
-      "name": "Richard Quigley",
-      "role": "Member of Parliament and committee member",
+      "role": "Member of the committee",
       "kind": "member"
     },
     {
       "label": "Kevin McKenna",
       "name": "Kevin McKenna",
-      "role": "Member of Parliament and committee member",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Richard Quigley",
+      "name": "Richard Quigley",
+      "role": "Member of the committee",
       "kind": "member"
     },
     {
       "label": "Alex Brewer",
       "name": "Alex Brewer",
-      "role": "Member of Parliament and committee member",
+      "role": "Member of the committee",
       "kind": "member"
     },
     {
@@ -58,221 +58,225 @@
   "glossary": [
     {
       "term": "Equality Act",
-      "definition": "UK law requiring employers to make reasonable adjustments so disabled people are not disadvantaged at work."
+      "definition": "UK law that requires employers to make 'reasonable adjustments' so disabled people are not disadvantaged at work."
     },
     {
       "term": "Employment Rights Act (ERA)",
-      "definition": "Law covering employment rights, including the previous 'right to request' flexible working."
+      "definition": "UK law covering employment rights, including the right to request flexible working and the tests employers use to refuse requests."
     },
     {
       "term": "reasonable adjustments",
-      "definition": "Changes an employer must make to remove barriers a disabled person faces at work, tailored to the individual."
+      "definition": "Changes employers must make to remove workplace barriers for a disabled employee, tailored to the individual's needs."
     },
     {
       "term": "Access to Work",
-      "definition": "A government fund that pays for workplace support or equipment disabled people may need to do a job."
+      "definition": "A government programme that funds practical support for disabled workers, such as travel or specialist equipment."
     },
     {
       "term": "EHRC",
-      "definition": "Equality and Human Rights Commission, the regulator that enforces equality laws in Great Britain."
+      "definition": "Equality and Human Rights Commission, the public body that enforces discrimination law in Great Britain."
     },
     {
       "term": "Disability Confident",
-      "definition": "A voluntary government employer accreditation scheme aiming to improve disabled employment."
-    },
-    {
-      "term": "Disability Employment Charter",
-      "definition": "A voluntary set of employer commitments used by charities and businesses to improve disabled employment."
+      "definition": "A government employer accreditation scheme aimed at encouraging the recruitment and retention of disabled people."
     }
   ],
   "chapters": [
     {
-      "title": "Where employers reach the limits of flexibility",
-      "takeaway": "Large employers say they often provide many adjustments but hit organisational limits that need clearer rules and planning.",
+      "title": "Employers' practical limits and where problems arise",
+      "takeaway": "Large employers say they've offered much flexibility already but reach organisational limits, especially where roles must be frontline or location-based.",
       "turns": [
         {
           "speaker": "Rachel Taylor",
-          "text": "Angela, you said some businesses have reached the limit of what they can offer in flexibility. Which businesses are you talking about?"
+          "text": "Angela, you said some businesses report they've reached the limit of what flexibility they can offer. Which businesses tell you that?"
         },
         {
           "speaker": "Angela Matthews",
-          "text": "BDF mostly works with very large employers—tens of thousands of staff. They tell us they've introduced lots of adjustments, redeployments and flexible roles, but eventually those changes reshape where staff sit in the business and cause organisational strain."
+          "text": "We work mainly with very large employers—tens to hundreds of thousands of staff. They tell us they've already redeployed people, given adjustments, and introduced flexible working, but that can change the shape of the organisation."
         },
         {
           "speaker": "Angela Matthews",
-          "text": "This is most obvious where there are many front-line roles—healthcare, police, retail—and back-office roles. Flexible working under employment law can be seen as permanent, while reasonable adjustments under the Equality Act are about what the person needs now."
+          "text": "Problems show up most in firms with a mix of desk-based and front-facing roles—NHS, police, retail—where you can't make every role remote or part-time without reorganising."
         },
         {
           "speaker": "Rachel Taylor",
-          "text": "Could employers organise roles and retrain people to be more inclusive?"
+          "text": "Could employers do more to organise roles so they're more inclusive?"
         },
         {
           "speaker": "Angela Matthews",
-          "text": "Yes, but retraining takes time and resource. Smaller employers especially struggle to upskill staff so there are suitable vacancies for redeployment when someone's role becomes unsuitable."
+          "text": "They could, but retraining and upskilling take time and money—especially in smaller organisations. Employers often look for existing vacancies that match someone's skills rather than invest in training."
         },
         {
           "speaker": "Daisy Goodall",
-          "text": "From unions' roundtables, employers sometimes don't consult enough or think creatively. For example, they reject part-time requests without checking job sharing; they often give vague reasons under the 'eight business reasons' and don't show evidence for refusals."
+          "text": "Unions told us employers sometimes don't consult or think creatively. We've seen part-time requests refused without exploring job sharing, and employers failing to give evidence for refusals."
         }
       ]
     },
     {
-      "title": "Guidance, legislation and what should be mandatory",
-      "takeaway": "Both witnesses want clearer rules and some legal changes: better guidance, advertising of flexibility, and possibly a default right to flexible work.",
+      "title": "Guidance, audits and examples of what works",
+      "takeaway": "Clear, practical guidance and sector-specific case studies help employers find workable flexible solutions; role audits can show where flexibility is possible.",
       "turns": [
         {
           "speaker": "Rachel Taylor",
-          "text": "Should Government use guidance or law to encourage flexible working?"
-        },
-        {
-          "speaker": "Daisy Goodall",
-          "text": "Guidance helps, but the TUC wants legal change. Voluntary approaches often fail—gender pay gap reporting improved only once made mandatory. Stronger law is needed for less-unionised sectors."
+          "text": "Is clearer guidance across sectors likely to increase employer uptake?"
         },
         {
           "speaker": "Angela Matthews",
-          "text": "Employers say they want to consider the sustainability of a flexible arrangement—whether it conflicts with future business plans—so they want clarity in the ERA about longer-term reasonableness."
+          "text": "Yes—big employers have very different roles. Some jobs can be output-focused and highly flexible; others cannot. Employers should audit roles to decide what's full-time-only and what's adaptable."
         },
         {
-          "speaker": "Rachel Taylor",
-          "text": "Would sector- and role-specific guidance help employers offer flexible working more widely?"
+          "speaker": "Daisy Goodall",
+          "text": "We need both guidance and stronger rules. Our reps see good collective agreements where unions are strong, but in less unionised sectors stronger law helps. Employers also need practical examples of how to make services work."
         },
         {
           "speaker": "Angela Matthews",
-          "text": "Yes, because large employers have many different roles. For some roles flexibility focuses on output; for others operational requirements rule it out. Employers could audit which roles are full-time only and which can flex."
-        },
-        {
-          "speaker": "Daisy Goodall",
-          "text": "The April 2024 changes barely shifted access to good-quality flexible working. We support an advertising duty to list flexible options in job adverts and a default right to flexibility, unless an employer can objectively justify refusal."
-        },
-        {
-          "speaker": "Rachel Taylor",
-          "text": "Any evidence that advertising flexibility works?"
-        },
-        {
-          "speaker": "Daisy Goodall",
-          "text": "Yes. Timewise found around 30% of jobs include flexible options currently. Zurich advertised flexibility on all roles and saw a 66% rise in applications and more part-time hires; HR managers say adding flexibility to adverts would be easy."
+          "text": "We run fora where employers swap stories. Line managers often support flexibility but getting structural sign-off up the chain causes delays and frustrates employees."
         }
       ]
     },
     {
-      "title": "Delays and gaps in reasonable adjustments and Access to Work",
-      "takeaway": "Many disabled people wait months for adjustments; Access to Work is slow, under-reaches workers, and enforcement is weak.",
+      "title": "Legal fixes and enforcement: what witnesses want changed",
+      "takeaway": "Witnesses want faster, clearer processes, legal changes to encourage flexible working and advertising of options, and stronger enforcement and funding for the EHRC.",
       "turns": [
         {
           "speaker": "Nadia Whittome",
-          "text": "TUC research shows most disabled workers needing adjustments don't get them fully. Why?"
+          "text": "TUC, most disabled workers who request reasonable adjustments don't get them fully—why is that?"
         },
         {
           "speaker": "Daisy Goodall",
-          "text": "Barriers include fear of rejection—six in 10 don't ask—long waits, incorrect refusals and poor treatment. In our survey, 55% who requested adjustments got only some or none; 19% were given no reason for refusal."
+          "text": "Barriers are multiple: many fear rejection so don't ask; among those who do, over half got only some or none of needed adjustments. Employers give vague refusals, cite impracticality or cost, or even say someone isn't 'disabled enough.'"
         },
         {
           "speaker": "Daisy Goodall",
-          "text": "Access to Work is part of the problem: the NAO found 40% of funded support should have been supplied by employers, and Access to Work reaches only about 1% of disabled workers despite doubling spending."
+          "text": "Access to Work is underused and slow: spending rose but it reaches only about 1% of working disabled people, and the NAO found employers failed to make adjustments in many cases."
+        },
+        {
+          "speaker": "Daisy Goodall",
+          "text": "We need the EHRC better funded. Its staff and budget are far smaller than in 2007, so it can't enforce rights or pursue targeted employer action effectively."
         },
         {
           "speaker": "Nadia Whittome",
-          "text": "Should employers have a tight deadline to respond to adjustment requests—say two weeks?"
+          "text": "Would updated guidance alone fix this, or do we need changes to law?"
+        },
+        {
+          "speaker": "Daisy Goodall",
+          "text": "We need legal changes. The TUC supports making flexible working more of a right—default flexible working, stronger advertising duties, and better tribunal remedies—because voluntary approaches don't always work."
         },
         {
           "speaker": "Angela Matthews",
-          "text": "Faster is good, but two weeks isn't always realistic. The decision can be quick, but procuring support—like a job coach or specialist kit—and waiting for Access to Work can take months. We need pragmatic timeframes and faster Access to Work."
+          "text": "Employers want the ERA to allow them to consider whether a flexible arrangement is sustainable over time. The Equality Act focuses on the 'now'; employers ask to factor in strategic plans when deciding reasonableness."
+        },
+        {
+          "speaker": "Angela Matthews",
+          "text": "We support speeding things up but the cause of delay matters. Decisions can be quick; procurement of adjustments and Access to Work delays take longer, so a two-week deadline needs pragmatic exceptions."
         },
         {
           "speaker": "Daisy Goodall",
-          "text": "One improvement would be in-principle indicative awards from Access to Work so employers can act quickly while formal funding is confirmed. The Disability Employment Charter suggests a two-week target, but it needs practical roll-out plans."
-        },
-        {
-          "speaker": "Daisy Goodall",
-          "text": "We also need stronger EHRC enforcement: its budget and capacity have fallen sharply since 2007 and it lacks resources for targeted enforcement of employers who flout adjustment duties."
+          "text": "One practical fix: give Access to Work in-principle awards so employers can accept adjustments while the detailed funding process proceeds."
         }
       ]
     },
     {
-      "title": "Workplace practices that help: passports, reps and inclusive job design",
-      "takeaway": "Practical workplace tools—adjustment passports, equality reps, accessible adverts and inclusive procurement—make adjustments stick and reduce repeat requests.",
+      "title": "Advertising flexibility and default flexible working",
+      "takeaway": "Publishing flexible options in job adverts and treating flexibility as the norm would broaden applicant pools and help disabled people apply and stay in work.",
       "turns": [
-        {
-          "speaker": "Richard Quigley",
-          "text": "Supported internships seem effective; what encourages employers to use them?"
-        },
-        {
-          "speaker": "Angela Matthews",
-          "text": "Employers find the schemes are often confusing: many programme names and different local arrangements. We need simple, business-friendly explanations so supported internships are seen as mainstream recruitment routes, not niche projects."
-        },
-        {
-          "speaker": "Daisy Goodall",
-          "text": "Practical steps include reasonable adjustment passports so a worker's needs travel with them, and stronger workplace equality reps who help negotiate and monitor practice."
-        },
         {
           "speaker": "Kevin McKenna",
-          "text": "Should all jobs be advertised flexible-by-default—then employers must explain the small set that can't be?"
-        },
-        {
-          "speaker": "Angela Matthews",
-          "text": "It depends what 'flexible' means. Job descriptions are crucial because they define how someone is measured. For very small teams or time-critical roles there are real limits, so we need sensible detail in job descriptions, not just adverts."
+          "text": "TUC wants a legal duty to advertise flexible options. Have employers accepted that voluntarily?"
         },
         {
           "speaker": "Daisy Goodall",
-          "text": "The TUC wants flexibility to be the norm and adverts to reflect that; we also back collective agreements and union-negotiated approaches that reduce sporadic individual requests."
+          "text": "Many HR managers say it's easy to include flexible options: our polling showed about 59% of HR managers would find it easy or already do it, and uptake is higher where unions operate."
+        },
+        {
+          "speaker": "Daisy Goodall",
+          "text": "Advertising flexibility attracts more applicants. Timewise and other studies show only about 30% of jobs currently include this; Zurich advertising flexibility saw a 66% rise in applications and more part-time hires."
+        },
+        {
+          "speaker": "Angela Matthews",
+          "text": "I agree it's sensible but emphasise job description detail. Employers with thousands of roles face a practical challenge to do a flexibility analysis for every role before advertising."
+        },
+        {
+          "speaker": "Daisy Goodall",
+          "text": "The TUC proposes roles be deemed suitable for flexible working unless an employer can objectively justify otherwise—mirroring Equality Act tests."
+        },
+        {
+          "speaker": "Angela Matthews",
+          "text": "The devil's in the detail: yes to job-level clarity and good job descriptions, but let's be pragmatic about how much upfront work employers can do across huge role sets."
         }
       ]
     },
     {
-      "title": "Mandates, office return policies and employer accountability",
-      "takeaway": "Blanket office-return mandates can harm disabled workers; better equality impact assessments, union involvement and accountability schemes are needed.",
+      "title": "Return-to-office mandates, supported work and inclusion",
+      "takeaway": "Blanket back-to-office rules often lack evidence, harm disabled workers' productivity and wellbeing, and employers need clearer routes into supported internships and progression paths.",
       "turns": [
         {
           "speaker": "Richard Quigley",
-          "text": "What is the evidence for broad return-to-office mandates?"
+          "text": "What's the evidence behind mandates to bring people back to the office?"
         },
         {
           "speaker": "Daisy Goodall",
-          "text": "Many mandates come from senior leaders and lack evidence they improve collaboration or productivity. Studies show disabled workers strongly prefer remote or hybrid options—around 65% said they wanted remote work—and mandates have worsened outcomes for many disabled staff."
+          "text": "Research shows mandates often come from senior leaders, not line managers, and they rarely provide solid evidence that more office time boosts collaboration or productivity. Disabled workers often prefer remote or hybrid work."
         },
         {
           "speaker": "Daisy Goodall",
-          "text": "For instance, some surveys found disabled respondents reporting worse productivity and work–life balance under mandates compared to non-disabled colleagues."
+          "text": "Work Foundation found 65% of disabled workers wanted to continue remote working. Studies show mandates worsen outcomes for many disabled staff—productivity, work-life balance and health."
         },
         {
           "speaker": "Angela Matthews",
-          "text": "Mandates aren't always wrong, but they mustn't become a way to exclude disabled staff. Leaders sometimes want people together for cultural reasons, which can be valuable, but employers should do equality impact assessments and consider alternatives."
+          "text": "Mandates can be well-intentioned—leaders want people together—but they risk excluding disabled people if employers default to keeping them at home or don't invest in getting them into the workplace."
+        },
+        {
+          "speaker": "Richard Quigley",
+          "text": "Should the Government test mandates?"
+        },
+        {
+          "speaker": "Angela Matthews",
+          "text": "If flexible rights in the ERA and reasonable adjustments in the Equality Act work properly, mandates shouldn't be necessary. Good equality impact assessments are important."
+        },
+        {
+          "speaker": "Daisy Goodall",
+          "text": "Yes—conduct rigorous equality impact assessments, involve unions and equality reps, and avoid blanket rules that disadvantage disabled workers."
         },
         {
           "speaker": "Alex Brewer",
-          "text": "Only 6% of people with a learning disability are employed. What would increase that?"
+          "text": "Only 6% of people with a learning disability are in paid work. What would make a real difference?"
         },
         {
           "speaker": "Angela Matthews",
-          "text": "Employers fear getting it wrong and worry about reputational risk. Better promotion of local supported work programmes, accessible adverts and simpler procurement choices would help employers start small and scale up."
+          "text": "Employers need less jargon and clearer routes in. Many are scared of reputational risk. Simple actions—accessible adverts, supportive recruitment partners, and small-scale supported internships—help, but employers need to hear clear examples."
         },
         {
           "speaker": "Daisy Goodall",
-          "text": "Also change insecure work rules so more workers have employee status and access to flexible-working rights; unions support co-design and mandatory protections alongside employer guidance."
+          "text": "Also, many disabled people are in insecure work and some groupings—like atypical workers—lack rights. Extending flexible-working rights to more categories of worker would help bring people in."
         },
         {
           "speaker": "Alex Brewer",
-          "text": "How should we replace or reform Disability Confident?"
-        },
-        {
-          "speaker": "Daisy Goodall",
-          "text": "Disabled workers say Disability Confident has had limited impact and can be a marketing tool. We want independent verification, co-design with disabled people and unions, and measurable thresholds—Germany's quota and levy model was given as an example."
-        },
-        {
-          "speaker": "Chair",
-          "text": "Any closing practical suggestions?"
+          "text": "And progression?"
         },
         {
           "speaker": "Angela Matthews",
-          "text": "Practical things: audit which roles can flex, make job descriptions clearer, speed up Access to Work, use health and safety law alongside equality law, and fund better EHRC enforcement."
+          "text": "Think beyond upward promotion. Sideways moves, portfolio careers and adjusted responsibilities all let people progress while managing health or fluctuating conditions."
         },
         {
           "speaker": "Daisy Goodall",
-          "text": "Plus: advertise flexible options in vacancies, push for a default right to flexible work, support adjustment passports and equality reps, and insist on independent verification for employer accreditation schemes."
+          "text": "But disabled workers worry hybrid working harms promotion prospects. Good line manager practice, inclusive development and union involvement matter for fair progression."
+        },
+        {
+          "speaker": "Alex Brewer",
+          "text": "What about Disability Confident—does it work?"
+        },
+        {
+          "speaker": "Daisy Goodall",
+          "text": "Unions and disabled workers criticize it as a marketing tool: self-certification, weak standards and no independent checks. We want a replacement co-designed with disabled people, independently verified and with real workforce thresholds."
+        },
+        {
+          "speaker": "Angela Matthews",
+          "text": "Employers want a clear three-tier approach: basic compliance, good inclusive practice, and exemplary proactive employers. The scheme could help if it makes compliance clear and practical."
         },
         {
           "speaker": "Chair",
-          "text": "Thank you both — those are very helpful and practical recommendations. Please follow up with any material you think would assist the inquiry."
+          "text": "Thank you both—this has been very informative. Please send any follow-up material."
         }
       ]
     }

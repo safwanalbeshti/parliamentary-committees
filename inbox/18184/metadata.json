@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18184,
+  "activity_id": 38527,
+  "document_id": 308425,
+  "meeting_date": "2026-10-21",
+  "meeting_date_display": "21 October 2026",
+  "publication_date": "2026-10-27T10:54:25",
+  "title": "Children’s social care",
+  "committee": "Public Services Committee",
+  "committees": [
+    {
+      "id": 430,
+      "name": "Public Services Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10001,
+      "title": "Children’s social care",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Policy and Research Manager",
+      "organisation": "Action for Children"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Policy and Public Affairs Manager",
+      "organisation": "National Society for the Prevention of Cruelty to Children (NSPCC)"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Senior Policy Advisor",
+      "organisation": "Barnardo’s"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Eavan Mckay",
+    "Jessica Ford",
+    "Nicola Smith",
+    "Baroness Shawcross-Wolfson",
+    "Lord Johnson of Marylebone",
+    "Baroness Redfern",
+    "Lord Faulkner of Worcester",
+    "Baroness Pidgeon",
+    "Baroness Watkins of Tavistock",
+    "Lord Barber of Chittlehampton",
+    "Lord Mohammed of Tinsley"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18184/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18184",
+  "source_sha256": "9234f3130c0ddf00a1309fab7bd6b8c7442e845ab104af154f14dfe33c3d0f26",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

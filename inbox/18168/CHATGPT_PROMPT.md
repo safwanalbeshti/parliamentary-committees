@@ -126,7 +126,7 @@ The JSON is checked automatically.
 ## Official metadata
 
 * Parliament oral-evidence ID: 18168
-* Required source hash: `3e14248b0d7cecd620e394b4025fa2492dd73ebb8f0b28dcc89dece7bc204d01`
+* Required source hash: `7390cef25ab69ae1dbaa3f18f60c51e6cabb30d7ad5a0562f43932e99b6d7c69`
 * Committee: Justice Committee
 * Subject: Work of His Majesty's Chief Inspector of Prisons
 * Meeting date: 20 October 2026
@@ -160,7 +160,7 @@ Return exactly this structure:
 {
   "schema_version": 1,
   "source_id": 18168,
-  "source_sha256": "3e14248b0d7cecd620e394b4025fa2492dd73ebb8f0b28dcc89dece7bc204d01",
+  "source_sha256": "7390cef25ab69ae1dbaa3f18f60c51e6cabb30d7ad5a0562f43932e99b6d7c69",
   "title": "A concise, engaging title",
   "label": "20 October 2026 · A short picker label",
   "summary": "One paragraph explaining what the hearing covered and its main conclusion.",

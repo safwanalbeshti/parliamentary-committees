@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "source_id": 18168,
-  "source_sha256": "3e14248b0d7cecd620e394b4025fa2492dd73ebb8f0b28dcc89dece7bc204d01",
-  "title": "Prisons under pressure: drugs, purposeful activity, staff and the IPP backlog",
-  "label": "20 October 2026 · Work of HM Chief Inspector of Prisons",
-  "summary": "Charlie Taylor, HM Chief Inspector of Prisons, told the Justice Committee that the prison system shows stronger leadership and security than a decade ago but is threatened by rising drug supply (including drones and phones), cuts to education and purposeful activity, fragile mental-health transfers, and chronic staff and procurement problems. He welcomed moves to end IPP sentences but warned releases and tagging programmes risk public safety unless case-by-case support, community services and better data are in place.",
+  "source_sha256": "7390cef25ab69ae1dbaa3f18f60c51e6cabb30d7ad5a0562f43932e99b6d7c69",
+  "title": "Prisons under pressure: purpose, drugs, staff and reform",
+  "label": "20 October 2026 · Oral evidence to the Justice Committee",
+  "summary": "Charlie Taylor, HM Chief Inspector of Prisons, reviewed the state of the prison estate at the end of his tenure. He praised improvements in leadership and some prisons' programmes, but warned that purposeful activity has weakened, drugs (especially drone deliveries) and violence are rising, mental-health treatment and post-release support are patchy, and recruitment and procurement block basic repairs and staffing. He urged action on staffing, leadership, drug supply and rehabilitation to reduce reoffending and ease capacity pressures.",
   "speakers": [
     {
       "label": "Chair",
       "name": "Catherine Atkinson",
-      "role": "Chair of the Justice Committee",
+      "role": "Chair of the committee",
       "kind": "chair"
     },
     {
-      "label": "Charlie Taylor",
+      "label": "Witness",
       "name": "Charlie Taylor",
       "role": "HM Chief Inspector of Prisons, HM Inspectorate of Prisons",
       "kind": "witness"
@@ -21,360 +21,358 @@
     {
       "label": "Warinder Juss",
       "name": "Warinder Juss",
-      "role": "Member of Parliament for Wolverhampton West",
+      "role": "Member of Parliament and Justice Committee member",
       "kind": "member"
     },
     {
       "label": "Janet Daby",
       "name": "Janet Daby",
-      "role": "Member of Parliament for Lewisham East",
+      "role": "Member of Parliament and Justice Committee member",
       "kind": "member"
     },
     {
       "label": "Mrs Russell",
-      "name": "Mrs Russell",
-      "role": "Member of Parliament for Congleton",
+      "name": "Sarah Russell",
+      "role": "Member of Parliament and Justice Committee member",
       "kind": "member"
     },
     {
       "label": "Tessa Munt",
       "name": "Tessa Munt",
-      "role": "Member of Parliament for Wells and Mendip Hills",
+      "role": "Member of Parliament and Justice Committee member",
       "kind": "member"
     },
     {
       "label": "Vikki Slade",
       "name": "Vikki Slade",
-      "role": "Member of Parliament for Mid Dorset and North Poole",
+      "role": "Member of Parliament and Justice Committee member",
       "kind": "member"
     },
     {
       "label": "Dr Shastri-Hurst",
       "name": "Dr Neil Shastri-Hurst",
-      "role": "Member of Parliament for Solihull West and Shirley",
+      "role": "Member of Parliament and Justice Committee member",
       "kind": "member"
     },
     {
       "label": "Sir Ashley Fox",
       "name": "Sir Ashley Fox",
-      "role": "Member of Parliament for Bridgwater",
+      "role": "Member of Parliament and Justice Committee member",
       "kind": "member"
     }
   ],
   "glossary": [
     {
       "term": "purposeful activity",
-      "definition": "Work, education and constructive activities in prison intended to build skills and reduce re-offending."
+      "definition": "Work, education or meaningful programmes in prison intended to prepare people for life after release."
     },
     {
-      "term": "PAVA",
-      "definition": "A painful incapacitant spray used by staff to control violent incidents in custody."
+      "term": "PAVA spray",
+      "definition": "A chemical incapacitant used by prison staff to control violent incidents."
     },
     {
       "term": "Buvidal",
-      "definition": "A monthly buprenorphine injection used to treat opioid dependence, avoiding daily supervised doses."
-    },
-    {
-      "term": "IPP",
-      "definition": "Imprisonment for Public Protection: an indeterminate sentence introduced in 2005 and now widely seen as unjust."
+      "definition": "A monthly injectable treatment for opioid dependence that reduces daily drug use."
     },
     {
       "term": "YOI",
-      "definition": "Young Offender Institution: a prison unit for children and young adults."
+      "definition": "Young Offenders Institution, a prison for children and young adults."
     },
     {
-      "term": "open prison",
-      "definition": "A lower-security prison that allows prisoners community work and day release to prepare for life after custody."
-    },
-    {
-      "term": "segregation unit",
-      "definition": "A separate part of a prison used to separate prisoners for safety or punishment."
+      "term": "IPP",
+      "definition": "Imprisonment for Public Protection, a sentence that detained people until judged safe to release."
     },
     {
       "term": "MAPPA",
-      "definition": "Multi-Agency Public Protection Arrangements: local agencies managing high-risk offenders after release."
+      "definition": "Multi-Agency Public Protection Arrangements, where police, probation and others manage high-risk offenders."
+    },
+    {
+      "term": "IS-91",
+      "definition": "A Home Office administrative hold used when immigration and prison processes overlap."
     }
   ],
   "chapters": [
     {
-      "title": "Overall picture since 2020",
-      "takeaway": "Prisons show stronger leadership and fewer escapes, but the system is under strain from population pressures, drugs and reduced activity.",
+      "title": "Overall state of the estate",
+      "takeaway": "Leadership and some reforms have improved parts of the estate, but pressures from population, drugs and reduced activity make the system fragile.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "Charlie, you started in 2020. Is the Prison Service better or worse today?"
+          "text": "Mr Taylor, after six years as chief inspector, is the Prison Service better or worse than when you started?"
         },
         {
-          "speaker": "Charlie Taylor",
-          "text": "It's mixed. Early on, during covid, prisons worked well with inspectors. Leadership has improved and escapes are much rarer. But population pressures, drugs and people locked up too long are major harms."
+          "speaker": "Witness",
+          "text": "It's mixed. During covid the service cooperated well with inspections, and leadership has improved in many places, but population pressures, rising drug use and too much time locked up make the system fragile."
+        },
+        {
+          "speaker": "Witness",
+          "text": "Security has improved—very few escapes—but issues such as drone deliveries of drugs and low purposeful activity threaten safety, rehabilitation and public protection."
         },
         {
           "speaker": "Warinder Juss",
-          "text": "You mentioned drugs and people locked in cells—many prisoners are held 22+ hours a day. What's the impact?"
+          "text": "You noted purposeful activity and drugs are big problems. Has purposeful activity improved since you last gave evidence?"
         },
         {
-          "speaker": "Charlie Taylor",
-          "text": "Long lock-ups corrode mental health, increase boredom and drug use, and stop prisoners gaining skills to rebuild their lives. That raises the risk of reoffending and wastes large public spending."
-        },
-        {
-          "speaker": "Chair",
-          "text": "Any big improvements you would flag?"
-        },
-        {
-          "speaker": "Charlie Taylor",
-          "text": "Yes—better governors and leadership in many jails, and some prisons run very well. But overall the system is fragile and needs different priorities."
+          "speaker": "Witness",
+          "text": "Some prisons have improved, but nationally it's worse: budget cuts led to reduced education staff and fewer English and maths places, so provision is more fragile than before."
         }
       ]
     },
     {
-      "title": "Purposeful activity and work",
-      "takeaway": "Cuts to prison education and workshops are weakening rehabilitation at a time when productive daily routines could cut re-offending.",
+      "title": "Purposeful activity and rehabilitation",
+      "takeaway": "Reduced education and enrichment, plus too much time locked in cells, make rehabilitation weaker and may increase reoffending.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "You said purposeful activity scores worst historically. Has it improved?"
+          "text": "You argued time productively spent helps mental health and reduces reoffending—have things improved?"
         },
         {
-          "speaker": "Charlie Taylor",
-          "text": "Not really. Some prisons improved, but since last October there have been big cuts to core education, redundancies among teaching staff, and fewer English and maths places."
+          "speaker": "Witness",
+          "text": "No. Cuts since last October mean fewer teachers and courses, less English and maths, and more prisoners locked up with little to do—bad for mental health and for post-release employment chances."
         },
         {
           "speaker": "Warinder Juss",
-          "text": "What needs to change to fix this?"
+          "text": "Statistics show 34% of men and 50% of women locked up 22+ hours a day—what impact does that have?"
         },
         {
-          "speaker": "Charlie Taylor",
-          "text": "Prisons need to be reoriented as places of purpose: proper teaching, full working days in suitable roles, and incentives so prisoners build work habits that help on release."
-        },
-        {
-          "speaker": "Chair",
-          "text": "Are there examples of good practice?"
-        },
-        {
-          "speaker": "Charlie Taylor",
-          "text": "Yes. Ranby and Hatfield run near-normal working days and link prisoners to employers. Oakwood lets prisoners earn responsibility. Haverigg builds employer ties for people with difficult records."
+          "speaker": "Witness",
+          "text": "Long-run harm: worsened mental health, boredom, drug use to pass time, and prisoners leaving unprepared to work—so they often reoffend quickly."
         },
         {
           "speaker": "Chair",
-          "text": "If employers want prison workers, what blocks expansion of paid work?"
+          "text": "Are there examples of good practice we can copy?"
         },
         {
-          "speaker": "Charlie Taylor",
-          "text": "Constraints include tightened rules on temporary release, rapid churn of prisoners in category C prisons, and difficulties matching employers to prisoners' home areas."
+          "speaker": "Witness",
+          "text": "Yes: HMP Oakwood delegates responsibility to prisoners who earn it; Hatfield focuses on getting prisoners into real work; Haverigg builds local employer links; Chelmsford reduced drugs by improving basics."
+        },
+        {
+          "speaker": "Mrs Russell",
+          "text": "Do prisons strike the right balance between estate-cutting work and work that leads to employment?"
+        },
+        {
+          "speaker": "Witness",
+          "text": "Not always. Some workshops are low-skill and offer no progression; successful places give realistic working days, link to employers and create continuity into release."
+        },
+        {
+          "speaker": "Vikki Slade",
+          "text": "Children and young adults have a statutory minimum of 15 hours' education; many do less—why?"
+        },
+        {
+          "speaker": "Witness",
+          "text": "Long lock-up times, complex keep-apart lists and poor behaviour management reduce access to education; Parc is the exception with clear ethos, leadership and much higher attendance."
         }
       ]
     },
     {
-      "title": "Drugs, violence and security",
-      "takeaway": "Drug supply—drones, phones and organised crime—is a major driver of violence and instability; fixing it needs joined-up action and improved prison craft.",
+      "title": "Drugs, drones and violence",
+      "takeaway": "Drone deliveries and mobile phones are driving a drugs market inside prisons that increases debt, debt-related violence and instability.",
       "turns": [
         {
           "speaker": "Tessa Munt",
-          "text": "Your 2025 drugs report warned prisons were unstable. How effective are current measures?"
+          "text": "Your report said prisons are unstable and unsafe without tackling demand—are current measures effective?"
         },
         {
-          "speaker": "Charlie Taylor",
-          "text": "Not effective enough. We need to cut supply and demand. Supply-fighting has been slow—responses to drones and phones lack proper, coordinated work across agencies."
+          "speaker": "Witness",
+          "text": "Both supply and demand must be tackled. Supply requires better co-ordination—Home Office, MoJ, police, NCA, MOD—and faster technological and physical responses to drones and phones."
+        },
+        {
+          "speaker": "Witness",
+          "text": "Target-hardening, good searching, cell moves, body scans, visitor searches and vigilance against staff corruption all matter; no single magic bullet exists."
         },
         {
           "speaker": "Tessa Munt",
-          "text": "What practical steps work in prisons?"
+          "text": "Should we separate organised criminal bosses inside prisons?"
         },
         {
-          "speaker": "Charlie Taylor",
-          "text": "Get basics right: targeted moves for key prisoners, good searching and scanning, CCTV and ANPR, tackle staff corruption, and run strong recovery wings and incentivised substance-free living units."
+          "speaker": "Witness",
+          "text": "It should be tried: big players run supply and outside networks from custody, so making their custodial lives harder would reduce harm."
+        },
+        {
+          "speaker": "Tessa Munt",
+          "text": "How much does drug addiction treatment in prison help?"
+        },
+        {
+          "speaker": "Witness",
+          "text": "There are good examples—HMP Bristol's incentivised substance-free wing—but treatment must link to community provision; otherwise prisoners relapse on release."
         },
         {
           "speaker": "Warinder Juss",
-          "text": "Chelmsford cut positive drug tests to about 15%—how?"
+          "text": "Chelmsford reduced testing positives to about 15%—how did it do that?"
         },
         {
-          "speaker": "Charlie Taylor",
-          "text": "Focused wing management, assertive monitoring of known dealers, good search routines, and leadership. No magic bullet, but the craft and attention matter."
-        },
-        {
-          "speaker": "Tessa Munt",
-          "text": "Should we separate big organised players into different units?"
-        },
-        {
-          "speaker": "Charlie Taylor",
-          "text": "There's a case for it. The system already has close supervision for the extreme cases; creating separation for disruptive organised criminals could reduce harm."
+          "speaker": "Witness",
+          "text": "By getting the basics right: assertive management of risky prisoners, good searching, moving prisoners, CCTV, and proper follow-up on corruption and visitors."
         },
         {
           "speaker": "Chair",
-          "text": "Does reducing drugs also need better treatment continuity on release?"
+          "text": "Is drug-driven debt the main cause of rising violence?"
         },
         {
-          "speaker": "Charlie Taylor",
-          "text": "Absolutely. Treatments like Buvidal work well but aren't always continued on release. Homelessness on release also pushes people back to drugs; the handover must be stronger."
+          "speaker": "Witness",
+          "text": "Yes—drugs create debts and violent enforcement; tackling drugs reduces violence, but staff numbers, training and specialist units for vulnerable prisoners are also key."
         }
       ]
     },
     {
-      "title": "Mental health, women and children",
-      "takeaway": "Prisons struggle to treat serious mental illness, women's needs are often acute, and young offenders need more time out of cells and better behaviour management.",
+      "title": "Vulnerable prisoners: mental health, women, children",
+      "takeaway": "Prisons are often inappropriate for people with severe mental illness and many women and children have needs better met outside custody.",
       "turns": [
         {
           "speaker": "Vikki Slade",
-          "text": "Are prisons equipped to manage people with serious mental illnesses?"
+          "text": "Are prisons able to manage people with serious mental illnesses safely?"
         },
         {
-          "speaker": "Charlie Taylor",
-          "text": "Confidence is low. Transfers to hospital under the Mental Health Act are slow—sometimes averaging months when the target is 28 days—and prisons are not equipped to treat those who refuse medication."
-        },
-        {
-          "speaker": "Vikki Slade",
-          "text": "What about the women's estate—are their needs different?"
-        },
-        {
-          "speaker": "Charlie Taylor",
-          "text": "Women in prison often have extreme vulnerability—mental illness, trauma, addiction and homelessness. Some would be better managed in the community, and short custodial sentences often do little to help."
+          "speaker": "Witness",
+          "text": "Confidence is low. Transfers to hospital under the Mental Health Act are too slow—average waits around 80 days with cases taking far longer—and prisons are not therapeutic environments for very unwell people."
         },
         {
           "speaker": "Vikki Slade",
-          "text": "Children get a statutory right to 15 hours’ education—many get less. Why?"
+          "text": "What happens to prisoners who need hospital care?"
         },
         {
-          "speaker": "Charlie Taylor",
-          "text": "Young offenders often spend 18–19 hours locked up because of safety and keep-apart lists, so education attendance falls. Parc shows it can be done: clear rules, strong staff, and boys out 10–11 hours a day with good teaching."
+          "speaker": "Witness",
+          "text": "They endure complex referral processes, long waits and sometimes end up in segregation units where conditions are inappropriate and harmful."
+        },
+        {
+          "speaker": "Mrs Russell",
+          "text": "Do women in prison face different problems?"
+        },
+        {
+          "speaker": "Witness",
+          "text": "Yes—higher levels of trauma, addiction, homelessness and exploitation. Many women serve short sentences that offer little benefit; some would be better supported outside custody."
+        },
+        {
+          "speaker": "Vikki Slade",
+          "text": "Should the women's population be reduced?"
+        },
+        {
+          "speaker": "Witness",
+          "text": "Where the public can be protected in the community and risk managed, community solutions are preferable; but serious offenders still need custody—it's for courts and Ministers to decide policy."
         },
         {
           "speaker": "Chair",
-          "text": "PAVA issues in YOIs—should we rely on it?"
+          "text": "About children who commit sexual offences—are there effective custodial interventions?"
         },
         {
-          "speaker": "Charlie Taylor",
-          "text": "We should avoid situations that make PAVA necessary. Parc manages without it; high PAVA use often reflects poor staff training, chaotic wings or disproportional use against young Black men."
+          "speaker": "Witness",
+          "text": "We rarely see effective treatment for serious sexual offences among children in custody; overall, evidence on the long-term effectiveness of some programmes is mixed."
+        },
+        {
+          "speaker": "Vikki Slade",
+          "text": "Why is HMP Parc succeeding with children where others fail?"
+        },
+        {
+          "speaker": "Witness",
+          "text": "Parc has stable staff, clear rules, strong leadership, incentives for good behaviour and purposeful activities; that combination reduces lock-up time and improves learning."
         }
       ]
     },
     {
-      "title": "Staffing, procurement and capacity",
-      "takeaway": "Governors are skilled but hamstrung by central recruitment, low local hiring control, restrictive procurement rules and staffing limits that threaten plans for 14,000 new places.",
+      "title": "Staffing, recruitment, procurement and capacity",
+      "takeaway": "Recruitment, retention and the centralised procurement system are major constraints; building more cells without staff won't solve the crisis.",
       "turns": [
         {
           "speaker": "Janet Daby",
-          "text": "How is staff morale and recruitment?"
+          "text": "How is morale among prison staff and what affects recruitment?"
         },
         {
-          "speaker": "Charlie Taylor",
-          "text": "Morale varies with how well a prison runs. Recruitment is patchy: remote or wealthy areas struggle and central hiring removes governors' say over who they get."
-        },
-        {
-          "speaker": "Mrs Russell",
-          "text": "Why can't governors recruit locally and interview properly?"
-        },
-        {
-          "speaker": "Charlie Taylor",
-          "text": "They could and many want to, but central systems are set up to fill pipelines. Local recruitment costs more administratively, but governors say face-to-face interviews would yield better hires."
-        },
-        {
-          "speaker": "Warinder Juss",
-          "text": "You put Wandsworth into special measures. The MOJ put in £100m—are repairs being done efficiently?"
-        },
-        {
-          "speaker": "Charlie Taylor",
-          "text": "Procurement is a huge frustration—slow, costly and risk-averse. Governors often can't spend small sums locally and get tied into long procurement chains that blow up costs and delays."
+          "speaker": "Witness",
+          "text": "It varies: morale is high where establishments feel safe and well-run, and very low where staff are overworked and fearful. Recruitment problems are regional and systemic and central recruitment often supplies unsuitable candidates."
         },
         {
           "speaker": "Mrs Russell",
-          "text": "The Government plans 14,000 new places by 2031—realistic?"
+          "text": "You said governors want local recruitment—what stops that?"
         },
         {
-          "speaker": "Charlie Taylor",
-          "text": "Building cells is one thing; staffing them properly is another. Some areas already struggle to recruit. Opening places without staff risks empty blocks or unsafe regimes."
-        },
-        {
-          "speaker": "Vikki Slade",
-          "text": "Should we build less and rehabilitate better?"
-        },
-        {
-          "speaker": "Charlie Taylor",
-          "text": "If we could cut re-offending by small percentages through better treatment, purposeful activity and housing on release, we would reduce pressure far more cheaply than building at scale."
-        }
-      ]
-    },
-    {
-      "title": "Early release, tagging and IPP reform",
-      "takeaway": "Early releases and tagging can help population pressures but risk public safety without better probation, data, housing and tailored plans; ending IPP is welcome but needs careful, case-based work.",
-      "turns": [
-        {
-          "speaker": "Sir Ashley Fox",
-          "text": "Has the early-release scheme eased pressure effectively?"
-        },
-        {
-          "speaker": "Charlie Taylor",
-          "text": "Some easing was necessary, but sending extra prisoners into stretched probation, housing and health services raises risks of quick reoffending and recall if community support isn't scaled up."
-        },
-        {
-          "speaker": "Sir Ashley Fox",
-          "text": "Tagging on release—practical or haphazard?"
-        },
-        {
-          "speaker": "Charlie Taylor",
-          "text": "It's early to judge. Tagging can help some offenders stay away from crime, but homeless or chaotic people won't be tagged successfully. We need data on pilots before a nationwide roll-out is judged."
+          "speaker": "Witness",
+          "text": "Centralised pipelines aim to fill vacancies quickly but governors say they can't vet people properly; pilots to localise recruitment exist but have had mixed evaluations."
         },
         {
           "speaker": "Dr Shastri-Hurst",
-          "text": "The PM asked to end IPP in this Parliament. What would you advise?"
+          "text": "If a governor dismissed someone, can that person re-enter the service elsewhere without a flag?"
         },
         {
-          "speaker": "Charlie Taylor",
-          "text": "Ending IPP is morally right; the injustice must end. But many IPP prisoners remain risky. The reform needs case-by-case assessment, prison-based programmes (like Aylesbury's phoenix wing), and strong community monitoring on release."
+          "speaker": "Witness",
+          "text": "Yes—flags and checks don't always prevent re-employment elsewhere, which frustrates governors who feel they lack control over staff quality."
+        },
+        {
+          "speaker": "Warinder Juss",
+          "text": "Why is procurement so slow and expensive—are examples true?"
+        },
+        {
+          "speaker": "Witness",
+          "text": "Yes. Governors report excessive hoops: small repairs can cost many times more through formal procurement; a prison governor can spend far less without central permission than a headteacher can locally."
+        },
+        {
+          "speaker": "Mrs Russell",
+          "text": "The Government plans 14,000 new places by 2031—can they staff and open them?"
+        },
+        {
+          "speaker": "Witness",
+          "text": "Building is one thing; staffing them is another. Many areas already struggle to recruit, and local pay rates for nearby roles (eg immigration centres) may make prison recruitment harder."
         },
         {
           "speaker": "Vikki Slade",
-          "text": "Many recalled IPP prisoners can't access courses they need. How fix that?"
+          "text": "If most prisoners reoffend, should we build fewer cells and spend more on rehabilitation?"
         },
         {
-          "speaker": "Charlie Taylor",
-          "text": "The system must reduce waiting lists and move prisoners into open conditions where appropriate so they can take required courses. Otherwise, they stay stuck and can't progress to parole."
-        },
-        {
-          "speaker": "Chair",
-          "text": "If the Government fail to deliver IPP reforms within the Parliament, will problems persist?"
-        },
-        {
-          "speaker": "Charlie Taylor",
-          "text": "Yes—leaving people in limbo for sentences designed to prevent future harm but then not delivering a clear end is an injustice and damages individuals and public confidence."
+          "speaker": "Witness",
+          "text": "Yes—small improvements in reoffending (1–2%) through better drug treatment, purposeful activity and employment would substantially reduce population pressure, so rehabilitation deserves more focus."
         }
       ]
     },
     {
-      "title": "Final priorities and what Parliament should focus on",
-      "takeaway": "Parliament should focus on recruitment, giving governors local flexibility, procurement reform, and practical support for drug treatment, mental health transfers and IPP transitions.",
+      "title": "IPP reform and final priorities",
+      "takeaway": "Ending IPP is welcome but must be handled carefully case-by-case with clinical support, tailored release packages and routes to reduce risk.",
       "turns": [
         {
+          "speaker": "Dr Shastri-Hurst",
+          "text": "The Government will end IPP this Parliament—what would you advise to protect the public and prisoners' rights?"
+        },
+        {
+          "speaker": "Witness",
+          "text": "Ending IPP is right; do it carefully. Assess individual risk, provide prison-based interventions and ensure strong community packages and MAPPA arrangements on release to protect the public."
+        },
+        {
+          "speaker": "Vikki Slade",
+          "text": "Many IPP prisoners wait for courses with long backlogs—how should recalls and course access change?"
+        },
+        {
+          "speaker": "Witness",
+          "text": "Increase course availability, use open prisons to reintegrate long-term institutionalised men, and avoid leaving people stuck because a required course isn't available for months."
+        },
+        {
+          "speaker": "Tessa Munt",
+          "text": "You've worked with Amber Rudd's review—do you think reforms on security and staffing can be delivered?"
+        },
+        {
+          "speaker": "Witness",
+          "text": "Recommendations can be strong, but implementation depends on Ministers and resourcing; the system's culture and processes must be ready to act on change."
+        },
+        {
           "speaker": "Chair",
-          "text": "What should your successor prioritise?"
+          "text": "As you hand over, what should your successor prioritise?"
         },
         {
-          "speaker": "Charlie Taylor",
-          "text": "Drugs and drones; recruitment and retention; and freeing governors to lead rather than be buried in procurement or central admin. Strong local leadership makes the biggest difference."
-        },
-        {
-          "speaker": "Janet Daby",
-          "text": "Any specific asks for this Committee?"
-        },
-        {
-          "speaker": "Charlie Taylor",
-          "text": "Scrutinise recruitment pathways and training, push for sensible procurement that trusts governors with small spend, and press for better data on what happens to people after release—housing and employment matter most."
+          "speaker": "Witness",
+          "text": "Tackle drugs and drones, fix recruitment and retention, free governors to lead rather than being tied up in procurement and admin, and focus on meaningful purposeful activity to reduce reoffending."
         },
         {
           "speaker": "Chair",
           "text": "If you could fix one thing, what would it be?"
         },
         {
-          "speaker": "Charlie Taylor",
-          "text": "If I could be fanciful: no drugs in prisons. Practically: stronger local leadership—give governors the tools and trust to run safe, purposeful prisons."
+          "speaker": "Witness",
+          "text": "Ideally no drugs, because that would change so much; practically, give governors accountability and better staffing so they can lead improvement."
         },
         {
           "speaker": "Chair",
-          "text": "Thank you, Charlie. Good luck with the handover."
+          "text": "Where can this Committee add most value?"
         },
         {
-          "speaker": "Charlie Taylor",
-          "text": "Thank you. It's been a privilege; the people running prisons are extremely dedicated and need a system that enables, not constrains, them."
+          "speaker": "Witness",
+          "text": "Scrutinise recruitment and training pathways, and examine procurement constraints that stop governors delivering basic maintenance and improvement."
         }
       ]
     }

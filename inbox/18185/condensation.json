@@ -1,0 +1,246 @@
+{
+  "schema_version": 1,
+  "source_id": 18185,
+  "source_sha256": "a9ee0181a7b86554b18d434be7d0f885da9a4e2bbabdf1a8869db73868c6d675",
+  "title": "COP31: priorities, finance and methane — views from UK experts",
+  "label": "26 October 2026 · COP31 prospects",
+  "summary": "UK business, NGO and think‑tank experts told the Environmental Audit Committee that COP31 is likely to be technical rather than landmark, and stressed four practical priorities: protect the science and global stocktake process, elevate adaptation and cooling, push electrification while not avoiding tough fossil‑fuel discussions, and fix how climate finance is sequenced and delivered. They highlighted the rise of coalitions outside the UNFCCC, the need for clarity from the Turkish–Australian Presidency and the UK, and urged rapid action on methane and other short‑lived pollutants with finance and safeguards for solutions such as biomethane.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Mr Toby Perkins",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Sojan Joseph",
+      "name": "Sojan Joseph",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Bill Esterson",
+      "name": "Bill Esterson",
+      "role": "Committee Member (also Chair, Energy Security and Net Zero Committee)",
+      "kind": "member"
+    },
+    {
+      "label": "Sarah Gibson",
+      "name": "Sarah Gibson",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "John Whitby",
+      "name": "John Whitby",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Tania Kumar",
+      "name": "Tania Kumar",
+      "role": "Policy Director, Energy Transition, Confederation of British Industry (CBI)",
+      "kind": "witness"
+    },
+    {
+      "label": "Kim O’Dowd",
+      "name": "Kim O’Dowd",
+      "role": "UK Campaign Lead, Methane and Energy Transition, Environmental Investigation Agency",
+      "kind": "witness"
+    },
+    {
+      "label": "Pelin Zorlu",
+      "name": "Pelin Zorlu",
+      "role": "Head of Climate and Energy, Chatham House",
+      "kind": "witness"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "UNFCCC",
+      "definition": "The UN climate convention that organises COP meetings and sets the negotiation rules."
+    },
+    {
+      "term": "COP31",
+      "definition": "The 31st UN climate conference, hosted jointly by Türkiye and Australia in 2026."
+    },
+    {
+      "term": "global stocktake",
+      "definition": "A periodic UN process that assesses collective progress toward the Paris goals."
+    },
+    {
+      "term": "IPCC",
+      "definition": "The UN panel that assesses climate science and provides the scientific basis for negotiations."
+    },
+    {
+      "term": "methane",
+      "definition": "A short‑lived but powerful greenhouse gas from fossil fuels, agriculture and waste."
+    },
+    {
+      "term": "super-pollutants",
+      "definition": "Short‑lived climate pollutants like methane, HFCs and black carbon that warm the planet quickly."
+    },
+    {
+      "term": "electrification",
+      "definition": "Switching energy use from fossil fuels to electricity (ideally from low‑carbon sources)."
+    },
+    {
+      "term": "Green Climate Fund (GCF)",
+      "definition": "A major UN fund meant to help developing countries adapt and reduce emissions."
+    },
+    {
+      "term": "Climate and Clean Air Coalition (CCAC)",
+      "definition": "A partnership of governments and organisations working on super‑pollutants."
+    },
+    {
+      "term": "contracts for difference (CFD)",
+      "definition": "A UK policy that guarantees prices to investors in low‑carbon electricity to support deployment."
+    },
+    {
+      "term": "regulated asset base (RAB) model",
+      "definition": "A funding model that lets investors recover costs steadily over time, used for big infrastructure."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Opening: where COP31 stands",
+      "takeaway": "Experts expect technical talks rather than big political breakthroughs; they want clarity from the Presidencies and protection of the science that feeds the global stocktake.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Welcome. Please introduce yourselves and give a short view of where COP31 negotiations are heading."
+        },
+        {
+          "speaker": "Kim O’Dowd",
+          "text": "I lead methane work at the Environmental Investigation Agency. COP31 lacks clarity on how the UNFCCC will interact with many parallel initiatives—like the Santa Marta energy transition conference and the global methane and cooling pledges."
+        },
+        {
+          "speaker": "Pelin Zorlu",
+          "text": "I’m at Chatham House. We don’t expect landmark decisions—more technical negotiations. Key benchmarks are protecting the global stocktake process and ensuring science (IPCC findings) informs it; recent blocks to IPCC progress are worrying and need unblocking by Presidencies and the UK."
+        },
+        {
+          "speaker": "Tania Kumar",
+          "text": "I represent the CBI. This year’s context—new energy shocks, e.g. the Hormuz disruption—means energy security will be central. The UK can help build longer‑term diplomatic consensus across COP, G7 and G20 over several years, not just at one COP."
+        }
+      ]
+    },
+    {
+      "title": "Diplomacy and the rise of coalitions",
+      "takeaway": "Climate diplomacy now spans trade, security and industrial policy, and we see more implementation coalitions outside the UNFCCC; those can help but need coordination and inclusivity.",
+      "turns": [
+        {
+          "speaker": "Sojan Joseph",
+          "text": "What is driving climate diplomacy in 2026, including negotiating outside the UNFCCC?"
+        },
+        {
+          "speaker": "Pelin Zorlu",
+          "text": "Climate diplomacy now intersects with economics, energy security and trade—look at measures like CBAM, Korea’s green package, and the IRA. Energy shocks push countries to see renewables as strategic independence."
+        },
+        {
+          "speaker": "Kim O’Dowd",
+          "text": "We’re seeing two‑tier multilateralism: the UNFCCC stays for consensus and signals, while coalitions of the willing drive implementation. That’s useful, but we must remember the UNFCCC’s core functions and ensure other initiatives connect with it."
+        },
+        {
+          "speaker": "Tania Kumar",
+          "text": "Business plays a diplomatic role by showing what’s practically investable and by helping Governments build stable policy models—CFDs and the RAB model are often cited by other countries as successful examples."
+        },
+        {
+          "speaker": "Sarah Gibson",
+          "text": "Do the Ambassador and High Commissioner miss anything in their approach?"
+        },
+        {
+          "speaker": "Kim O’Dowd",
+          "text": "Methane—especially from the energy sector—needs continued prominence, and agriculture mitigation is under-addressed; both deserve policy attention, not just research."
+        },
+        {
+          "speaker": "Pelin Zorlu",
+          "text": "We need clarity on how electrification initiatives will connect to other funds and whether there’s a clear TAFF (transition away from fossil fuels) roadmap from the Presidencies and partners."
+        },
+        {
+          "speaker": "Tania Kumar",
+          "text": "There are many new alliances; business wants consolidation so efforts aren’t scattered—prioritise where coalitions can add value and build bridges across Presidencies."
+        }
+      ]
+    },
+    {
+      "title": "Money and sequencing: making finance work",
+      "takeaway": "Experts stressed that more money is needed but, crucially, finance must be sequenced and coordinated so countries can plan, build policy, then attract private investment.",
+      "turns": [
+        {
+          "speaker": "Bill Esterson",
+          "text": "Is business’s role in climate diplomacy mainly about finance, or wider?"
+        },
+        {
+          "speaker": "Tania Kumar",
+          "text": "It’s wider: businesses showcase green growth opportunities, advise on policy tools that attract investment, and help make projects bankable. Private capital is essential, but it must be used where it fits in the broader financing stack."
+        },
+        {
+          "speaker": "Bill Esterson",
+          "text": "Kim, what’s the equivalent role for environmental groups?"
+        },
+        {
+          "speaker": "Kim O’Dowd",
+          "text": "NGOs bring expertise to negotiations and often host secretariats for coalitions. That helps implementation. But as more entry points open, smaller NGOs and some Global South actors risk being excluded unless access is safeguarded."
+        },
+        {
+          "speaker": "Sojan Joseph",
+          "text": "How is finance driving climate diplomacy among major players?"
+        },
+        {
+          "speaker": "Pelin Zorlu",
+          "text": "Public finance can’t do it alone; the UK’s EMDE taskforce is helpful to lower perceived costs of capital for emerging markets and unlock private investment, but access to affordable capital remains uneven."
+        },
+        {
+          "speaker": "Kim O’Dowd",
+          "text": "Beyond quantity, we need an organised architecture: countries currently face many separate funds and instruments. Sequencing matters—start with grants for planning, then de‑risking instruments to attract private capital. The UK could help push practical linkages between existing funds."
+        }
+      ]
+    },
+    {
+      "title": "Methane, cooling, electrification and UK priorities",
+      "takeaway": "Methane and other super‑pollutants, cooling solutions and electrification are practical focus areas; the UK should lead on methane, cooling action, Electrify Now and industrial decarbonisation, with careful safeguards for biomethane.",
+      "turns": [
+        {
+          "speaker": "John Whitby",
+          "text": "Should COP31 focus on getting back to 1.5°C?"
+        },
+        {
+          "speaker": "Pelin Zorlu",
+          "text": "Framing will be about implementing the Paris goals. UNEP says a temporary overshoot of 1.5°C is likely in the next few years, but that doesn’t invalidate the target—every fraction of a degree avoided matters."
+        },
+        {
+          "speaker": "John Whitby",
+          "text": "What should the UK prioritise at COP31?"
+        },
+        {
+          "speaker": "Kim O’Dowd",
+          "text": "Keep UK methane leadership—energy‑sector methane is waste and must be addressed. Also push finance for super‑pollutant action (the CCAC’s country action accelerator needs more funding) and a cooling agenda aligned with adaptation."
+        },
+        {
+          "speaker": "Tania Kumar",
+          "text": "Electrification is a UK priority—Electrify Now aims to show practical steps for demand electrification as well as power. Industrial decarbonisation is also essential to avoid deindustrialisation while delivering the transition."
+        },
+        {
+          "speaker": "Pelin Zorlu",
+          "text": "The UK is seen as an honest broker and coalition builder; it should pick the highest‑impact initiatives to lead and maintain the multilateral basics."
+        },
+        {
+          "speaker": "Bill Esterson",
+          "text": "On methane and continued gas use: how do we reduce methane emissions while gas remains part of many energy systems?"
+        },
+        {
+          "speaker": "Kim O’Dowd",
+          "text": "We need both a sprint and a marathon—rapid methane cuts and a long‑term energy transition. For biomethane, safeguards matter: avoid incentives that increase herd sizes or cause land‑use harm. Also regulate monitoring, reporting and verification so biomethane doesn’t leak as much as fossil gas."
+        },
+        {
+          "speaker": "Pelin Zorlu",
+          "text": "Not all biofuels or biomethane are equal—sustainability and economic viability depend on country context. Policies that mandate biofuel blends risk trade‑offs with food security and forests if poorly designed."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you all. Your evidence will help shape our work and is timely ahead of Antalya."
+        }
+      ]
+    }
+  ]
+}

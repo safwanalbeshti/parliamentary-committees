@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18185,
+  "activity_id": 39192,
+  "document_id": 308426,
+  "meeting_date": "2026-10-26",
+  "meeting_date_display": "26 October 2026",
+  "publication_date": "2026-10-27T10:55:01",
+  "title": "Prospects for UNFCCC COP31",
+  "committee": "Environmental Audit Committee",
+  "committees": [
+    {
+      "id": 62,
+      "name": "Environmental Audit Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10048,
+      "title": "Prospects for UNFCCC COP31",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Policy Director, Energy Transition",
+      "organisation": "Confederation of British Industry (CBI)"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "UK Campaign Lead, Methane and Energy Transition",
+      "organisation": "Environmental Investigation Agency"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Head of Climate and Energy",
+      "organisation": "Chatham House"
+    }
+  ],
+  "speaker_candidates": [
+    "Environmental Audit Committee members present",
+    "Energy Security and Net Zero Committee member present",
+    "II",
+    "Chair",
+    "Kim O’Dowd",
+    "Pelin Zorlu",
+    "Tania Kumar",
+    "Sojan Joseph",
+    "Bill Esterson",
+    "Sarah Gibson",
+    "John Whitby"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18185/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18185",
+  "source_sha256": "a9ee0181a7b86554b18d434be7d0f885da9a4e2bbabdf1a8869db73868c6d675",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

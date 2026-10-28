@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18186,
+  "activity_id": 39194,
+  "document_id": 308427,
+  "meeting_date": "2026-10-26",
+  "meeting_date_display": "26 October 2026",
+  "publication_date": "2026-10-27T10:55:35",
+  "title": "Prospects for UNFCCC COP31",
+  "committee": "Environmental Audit Committee",
+  "committees": [
+    {
+      "id": 62,
+      "name": "Environmental Audit Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10048,
+      "title": "Prospects for UNFCCC COP31",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "UK Special Representative for Climate; UK Special Representative for Climate",
+      "organisation": "Foreign, Commonwealth & Development Office; Department for Energy Security and Net Zero"
+    }
+  ],
+  "speaker_candidates": [
+    "Environmental Audit Committee members present",
+    "Energy Security and Net Zero Committee member present",
+    "III",
+    "Witness",
+    "Chair",
+    "Rachel Kyte",
+    "Barry Gardiner",
+    "Dr Savage",
+    "Bill Esterson"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18186/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18186",
+  "source_sha256": "b0c7d88821b4e0228fe826c170616468463f9b2dfc068899f0343936ae8ae9ae",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}
