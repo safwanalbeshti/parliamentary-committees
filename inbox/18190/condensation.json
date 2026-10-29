@@ -1,0 +1,276 @@
+{
+  "schema_version": 1,
+  "source_id": 18190,
+  "source_sha256": "602d63e9d5f5d4329db593f0142d170d649f6674ecb567a952668a7bcf408893",
+  "title": "Why 'Mission Government' struggled: leadership, structure and culture",
+  "label": "27 October 2026 · Mission Government",
+  "summary": "The Institute for Government's Alex Thomas and Hannah Keenan told the Committee that mission-led government is possible but failed in practice because the Starmer Government didn’t give missions the right institutional backing, funding arrangements and centre-led authority. They blamed unclear goals, weak governance (mission boards chaired by Secretaries of State), a conventional Treasury-led spending review in 2025, and a civil service culture that has grown cautious after years of churn and crisis. The witnesses urged clearer prime ministerial leadership, better accountability across Departments, improved minister training and reforms to civil service capability.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Simon Hoare",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Alex Thomas",
+      "name": "Alex Thomas",
+      "role": "Executive Director, Institute for Government",
+      "kind": "witness"
+    },
+    {
+      "label": "Hannah Keenan",
+      "name": "Hannah Keenan",
+      "role": "Associate Director, Institute for Government",
+      "kind": "witness"
+    },
+    {
+      "label": "Peter Lamb",
+      "name": "Peter Lamb",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "John Lamont",
+      "name": "John Lamont",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Charlotte Cane",
+      "name": "Charlotte Cane",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Sam Carling",
+      "name": "Sam Carling",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Richard Baker",
+      "name": "Richard Baker",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Markus Campbell-Savours",
+      "name": "Markus Campbell-Savours",
+      "role": "Committee Member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Plan for Change",
+      "definition": "The Government's published set of missions, milestones and actions intended to drive mission-led government."
+    },
+    {
+      "term": "mission boards",
+      "definition": "Groups set up to oversee a specific mission, intended to coordinate Departments and other actors."
+    },
+    {
+      "term": "accounting officer model",
+      "definition": "The long-standing system giving a senior official in each Department legal responsibility for its spending."
+    },
+    {
+      "term": "spending review",
+      "definition": "The Treasury-led process that decides how public money is allocated across Departments."
+    },
+    {
+      "term": "Cabinet Office",
+      "definition": "The central government department that supports collective decision-making and the Prime Minister."
+    },
+    {
+      "term": "No. 10",
+      "definition": "Short for No.10 Downing Street, the Prime Minister's office and private office team."
+    },
+    {
+      "term": "Office of the Prime Minister",
+      "definition": "A newer central structure intended to clarify and strengthen the Prime Minister's leadership role."
+    },
+    {
+      "term": "mission delivery unit",
+      "definition": "A central team meant to track progress, coordinate delivery and hold Departments to account on missions."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Can mission government work?",
+      "takeaway": "Yes in theory, but only with strong political leadership, the right central structures and civil service capability.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Is a mission Government approach possible, given our devolution and governance history?"
+        },
+        {
+          "speaker": "Alex Thomas",
+          "text": "Yes, but it’s hard. You need three things: clear political leadership and priorities, structures that align Departments and incentives, and the civil service capability to deliver."
+        },
+        {
+          "speaker": "Hannah Keenan",
+          "text": "Agree. Missions need systems that break departmental silos and involve wider society—not just headline milestones on paper."
+        }
+      ]
+    },
+    {
+      "title": "What went wrong with the 2024 missions",
+      "takeaway": "Missions failed because goals were unclear, governance was weak, and the centre didn’t use the spending review to back them.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "This Government had time and majority—what went wrong?"
+        },
+        {
+          "speaker": "Alex Thomas",
+          "text": "They didn’t boil missions down to a clear theory of change, didn’t give them political energy after the election, and the civil service didn’t get them to grip the system."
+        },
+        {
+          "speaker": "Hannah Keenan",
+          "text": "The 'Plan for Change' set milestones but mixed inputs, outputs and outcomes confusingly, and didn’t change how Departments work together."
+        },
+        {
+          "speaker": "Peter Lamb",
+          "text": "Shouldn’t a functional civil service bring answers on how to make cross-government things happen, not reasons why they can't?"
+        },
+        {
+          "speaker": "Alex Thomas",
+          "text": "Yes. The civil service should ‘lean in’ with structural solutions rather than defaulting to passive replies about limits."
+        },
+        {
+          "speaker": "Hannah Keenan",
+          "text": "A central point was missed in the 2025 spending review: it ran a conventional, departmental review, not one aligned to missions—this was the moment missions lost momentum."
+        }
+      ]
+    },
+    {
+      "title": "Money, accountability and the Treasury",
+      "takeaway": "Treasury rules and departmental accounting norms resisted pooled, mission-focused budgets, undermining cross-department delivery.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Is the Treasury’s mindset—protecting departmental spending—part of the problem?"
+        },
+        {
+          "speaker": "Hannah Keenan",
+          "text": "Yes. Money is largely tied to Departments, so there was no effective way to fund cross-cutting missions or hold Departments horizontally accountable."
+        },
+        {
+          "speaker": "Alex Thomas",
+          "text": "If you mean to drive cross-department action, you can change the accounting officer model or create super-accounting arrangements—powers exist if a Government is determined."
+        },
+        {
+          "speaker": "Charlotte Cane",
+          "text": "Would approaches like Beyond Budgeting help, with heads of Departments working together?"
+        },
+        {
+          "speaker": "Alex Thomas",
+          "text": "Techniques like that help, but they don’t fix the deeper incentive problem: permanent secretaries and finance directors respond to the incentives they’re given."
+        },
+        {
+          "speaker": "Sam Carling",
+          "text": "So dedicated mission budgets would send a stronger signal?"
+        },
+        {
+          "speaker": "Alex Thomas",
+          "text": "Yes—money plus authority would have signalled seriousness and made Departments align. Without it, missions risk being symbolic."
+        }
+      ]
+    },
+    {
+      "title": "Civil service culture, capability and impartiality",
+      "takeaway": "Years of churn, crisis response and caution created passivity; impartiality can become studied neutrality if not reframed as active delivery.",
+      "turns": [
+        {
+          "speaker": "John Lamont",
+          "text": "Do civil servants sometimes say 'that's illegal' to stop Ministers? Is this deliberate obstruction?"
+        },
+        {
+          "speaker": "Hannah Keenan",
+          "text": "Rarely deliberate. More often it's a cultural default to protect the status quo, plus hollowed-out training and capability after years of crisis work."
+        },
+        {
+          "speaker": "Alex Thomas",
+          "text": "Impartiality is about permanence, not passivity. The civil service must be non-partisan but also actively deliver a Government’s agenda."
+        },
+        {
+          "speaker": "Richard Baker",
+          "text": "Do they have the skills to implement missions?"
+        },
+        {
+          "speaker": "Alex Thomas",
+          "text": "There are capability gaps: too much churn among policy staff reduces deep expertise and weakens delivery networks."
+        },
+        {
+          "speaker": "Hannah Keenan",
+          "text": "We also reward moving jobs rather than building expertise, and we’re not good at removing poor performers—both hurt culture and capability."
+        }
+      ]
+    },
+    {
+      "title": "Ministerial leadership and the centre of government",
+      "takeaway": "Missions needed clearer prime ministerial backing, stronger centre structures, and better-prepared Ministers who stay in post long enough to execute change.",
+      "turns": [
+        {
+          "speaker": "Charlotte Cane",
+          "text": "Should Ministers get training so they can lead teams and deliver big change?"
+        },
+        {
+          "speaker": "Alex Thomas",
+          "text": "Yes. Training, support and a pipeline for prospective Ministers helps; longer tenures also build the skill to execute policy."
+        },
+        {
+          "speaker": "Peter Lamb",
+          "text": "Was the centre strong enough to coordinate delivery?"
+        },
+        {
+          "speaker": "Alex Thomas",
+          "text": "No. The UK is highly centralised but the centre is often ineffective—a small No.10, an oversized Cabinet Office, and a very powerful Treasury. That balance needs fixing."
+        },
+        {
+          "speaker": "Hannah Keenan",
+          "text": "Mission boards being chaired by Secretaries of State was a mistake; you needed a senior centre figure to chair and hold others to account—Darren Jones only later filled part of that role."
+        },
+        {
+          "speaker": "Markus Campbell-Savours",
+          "text": "How could the Prime Minister make clear who’s responsible for a mission?"
+        },
+        {
+          "speaker": "Hannah Keenan",
+          "text": "Simple but effective steps: clear, published letters of remit to Ministers, and a transparent central accountability route from the Prime Minister."
+        }
+      ]
+    },
+    {
+      "title": "What would make mission government more likely to succeed?",
+      "takeaway": "Use mission budgets, a clearer centre that only does centre tasks, stronger ministerial support and civil service reform to encourage delivery.",
+      "turns": [
+        {
+          "speaker": "Alex Thomas",
+          "text": "If the centre is smaller but more authoritative, if money is aligned to missions, and if ministers and officials are trained and allowed to act, missions can work."
+        },
+        {
+          "speaker": "Hannah Keenan",
+          "text": "We need a plan to change civil service culture and capability, not just brand programmes like secondments. Small experiments help but aren’t enough."
+        },
+        {
+          "speaker": "Peter Lamb",
+          "text": "Would a Cabinet committee rather than mission boards have helped?"
+        },
+        {
+          "speaker": "Hannah Keenan",
+          "text": "Not necessarily—what mattered was purpose and authority: who chairs, who can make trade-offs, and where budgets sit."
+        },
+        {
+          "speaker": "Alex Thomas",
+          "text": "The new Office of the Prime Minister could help if it clarifies the centre’s role and supports authoritative leadership, but it’s not a cure-all."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you both. The witnesses have given us things to think about—sometimes hopeful, sometimes sobering."
+        }
+      ]
+    }
+  ]
+}

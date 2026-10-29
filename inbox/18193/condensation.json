@@ -1,0 +1,370 @@
+{
+  "schema_version": 1,
+  "source_id": 18193,
+  "source_sha256": "fc30ecca6720172a6f8ded79142cc770a4e39b7e2878580f4ad83d8d7909f96c",
+  "title": "China, AI and Multilateralism: who sets the rules?",
+  "label": "21 October 2026 · Multilateralism and AI",
+  "summary": "Experts Matt Sheehan and Kayla Blomquist explained how China approaches AI—prioritising practical national development, information control and international influence—and how that shapes its multilateral moves such as the World AI Cooperation Organization (WAICO). They contrasted China’s focus on broad application and open-source model diffusion with the US focus on frontier models and paid services, discussed where China might lead (technical standards, training, infrastructure) and where it is unlikely to accept binding international limits (frontier safety). The UK can help by offering independent model testing, capacity building and tailored support to developing countries rather than formally joining China-led initiatives now.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Robertson of Port Ellen",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Kayla Blomquist",
+      "name": "Kayla Blomquist",
+      "role": "Co-Founder, Oxford China Policy Lab; researcher, Oxford Internet Institute",
+      "kind": "witness"
+    },
+    {
+      "label": "Matt Sheehan",
+      "name": "Matt Sheehan",
+      "role": "Senior Fellow, Carnegie Endowment for International Peace; Co-Director, China AI Initiative",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Darroch of Kew",
+      "name": "Lord Darroch of Kew",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Ahmad of Wimbledon",
+      "name": "Lord Ahmad of Wimbledon",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Blackstone",
+      "name": "Baroness Blackstone",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Fraser of Craigmaddie",
+      "name": "Baroness Fraser of Craigmaddie",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Bruce of Bennachie",
+      "name": "Lord Bruce of Bennachie",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Grocott",
+      "name": "Lord Grocott",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord De Mauley",
+      "name": "Lord De Mauley",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Prashar",
+      "name": "Baroness Prashar",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Alderdice",
+      "name": "Lord Alderdice",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Lamont of Lerwick",
+      "name": "Lord Lamont of Lerwick",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Houghton of Richmond",
+      "name": "Lord Houghton of Richmond",
+      "role": "Member of the committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "WAICO",
+      "definition": "World AI Cooperation Organization, a China-led initiative aiming to help other countries adopt AI."
+    },
+    {
+      "term": "open-weight",
+      "definition": "Models released with their parameters and code so others can download and run them locally."
+    },
+    {
+      "term": "frontier models",
+      "definition": "The most advanced AI models measuring the state of the art in capability."
+    },
+    {
+      "term": "technical standards",
+      "definition": "Detailed, technical rules that make different systems work together and set safety checks."
+    },
+    {
+      "term": "global South",
+      "definition": "A diplomatic term for low- and middle-income countries, mostly in Asia, Africa and Latin America."
+    },
+    {
+      "term": "MAZU",
+      "definition": "A Chinese model for weather prediction mentioned as a WAICO-related offering."
+    },
+    {
+      "term": "AI Safety Institute (AISI)",
+      "definition": "A UK initiative for independent testing and evaluation of AI models."
+    },
+    {
+      "term": "Pax Silica",
+      "definition": "US initiative aiming to secure supply chains and partnerships for AI-related infrastructure."
+    },
+    {
+      "term": "API",
+      "definition": "Application Programming Interface, a way companies serve models to users without sharing internal code."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "China's AI philosophy and approach",
+      "takeaway": "China prioritises practical use of AI to upgrade its economy, controls information risks first, then promotes wide adoption.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "As we begin, please sum up how China approaches AI—its philosophy, economy and regulation—and whether 'true multilateralism' fits."
+        },
+        {
+          "speaker": "Kayla Blomquist",
+          "text": "China sees AI as a tool for national development and global influence. It has been planning this since the 2010s and wants to position itself as a provider of global public goods, for example through WAICO and other initiatives."
+        },
+        {
+          "speaker": "Kayla Blomquist",
+          "text": "Those initiatives are early stage; the key question is what concrete benefits China will actually deliver and how that serves its wider diplomatic aims."
+        },
+        {
+          "speaker": "Matt Sheehan",
+          "text": "China emphasises application over abstraction: use AI to boost the 'real' economy—manufacturing, transport, health—rather than a virtual financial economy."
+        },
+        {
+          "speaker": "Matt Sheehan",
+          "text": "Its method is a 'call and response': central policy pushes AI adoption, local governments and officials are rewarded for creating pilots, zones and practical uses."
+        },
+        {
+          "speaker": "Matt Sheehan",
+          "text": "Regulation follows three phases: control (curb political risk), harness (use AI for goals), then govern (address social issues like privacy and companions). China is in harness and early governing now."
+        },
+        {
+          "speaker": "Chair",
+          "text": "So China is practical rather than doctrinaire, but information control is important too."
+        }
+      ]
+    },
+    {
+      "title": "Where China stands versus the United States",
+      "takeaway": "At the cutting edge China trails the US by months, but it actively diffuses models widely—especially via open-weight releases—while the US diffuses through paid services.",
+      "turns": [
+        {
+          "speaker": "Lord Darroch of Kew",
+          "text": "How does China match up to the US on AI—frontier development and the wider competition?"
+        },
+        {
+          "speaker": "Matt Sheehan",
+          "text": "Split the issue: frontier models vs diffusion. Frontier: China’s best models are roughly six to twelve months behind the top US models."
+        },
+        {
+          "speaker": "Matt Sheehan",
+          "text": "Diffusion: the US excels at integrating AI into enterprise software because of its long history of paid software. China focuses on applying AI across industry and services, not just white‑collar software."
+        },
+        {
+          "speaker": "Kayla Blomquist",
+          "text": "I agree. China also leans toward open-weight models: making model weights public so others can run and adapt them, which helps diffusion and its global pitch of being 'open'."
+        },
+        {
+          "speaker": "Kayla Blomquist",
+          "text": "China’s 5G and Belt and Road digital infrastructure also supports practical deployments—weather monitoring, telecoms, and other applied systems in partner countries."
+        }
+      ]
+    },
+    {
+      "title": "Open-weight models and the limits of influence",
+      "takeaway": "China’s open releases give it soft power and practical traction but aren’t the same as economic dependence created by physical infrastructure or debt.",
+      "turns": [
+        {
+          "speaker": "Lord Ahmad of Wimbledon",
+          "text": "On China's offers to other countries and public vs private spending—how does open-weight diffusion translate to influence or dependence?"
+        },
+        {
+          "speaker": "Matt Sheehan",
+          "text": "Open-weight releases make China's claim to be a public-good provider real: countries or businesses can download and run models without paying China."
+        },
+        {
+          "speaker": "Matt Sheehan",
+          "text": "But that distribution is not revenue-generating and doesn't create the same legal or debt entanglement you see with infrastructure lending."
+        },
+        {
+          "speaker": "Kayla Blomquist",
+          "text": "Companies on both sides are experimenting with monetisation. How they succeed will affect future dependencies and investment flows—so the economic picture is still evolving."
+        },
+        {
+          "speaker": "Kayla Blomquist",
+          "text": "China also pitches its broader development model to other countries: 'we lifted many out of poverty; we can help you.' That narrative underpins its technology offers too."
+        }
+      ]
+    },
+    {
+      "title": "Why China engages multilaterally and where it prefers the UN",
+      "takeaway": "China supports UN-centred multilateralism because it values national sovereignty and guaranteed participation, while also creating parallel initiatives like WAICO.",
+      "turns": [
+        {
+          "speaker": "Baroness Blackstone",
+          "text": "What drives China's multilateral engagement on AI, and what blocks it?"
+        },
+        {
+          "speaker": "Matt Sheehan",
+          "text": "China seeks reputational gains and economic ties. It prefers the UN because it guarantees a voice and avoids being excluded—China fears being sidelined in new networks."
+        },
+        {
+          "speaker": "Matt Sheehan",
+          "text": "It is unlikely to accept multilateral rules that constrain its domestic AI development or speech controls; it will emphasise sovereignty instead."
+        },
+        {
+          "speaker": "Kayla Blomquist",
+          "text": "China has also strategically placed people in UN working groups and frames its leadership as aligned with the global South, so it expects more influence in UN settings."
+        },
+        {
+          "speaker": "Kayla Blomquist",
+          "text": "WAICO is presented as complementary to UN work, not a competitor, but it is mostly early-stage signalling of influence and offers like training and technical cooperation."
+        }
+      ]
+    },
+    {
+      "title": "A practical multilateral focus: standards and testing",
+      "takeaway": "Technical standards and independent model testing are the most realistic areas for useful international work; the UK can contribute expertise and capacity-building.",
+      "turns": [
+        {
+          "speaker": "Baroness Fraser of Craigmaddie",
+          "text": "Are there specific areas—safety, arms control, standards—where China will engage multilaterally?"
+        },
+        {
+          "speaker": "Matt Sheehan",
+          "text": "Technical standards are the best bet: China is active in domestic and international standards bodies and can export interoperability or safety norms that are technical rather than political."
+        },
+        {
+          "speaker": "Matt Sheehan",
+          "text": "International standards move slowly, though. China’s domestic standards can be faster and more directly enforced; international work may lag needed safety timelines."
+        },
+        {
+          "speaker": "Kayla Blomquist",
+          "text": "China’s labs often lag behind Western labs on internal safety practices, so it needs to build its own 'house' too. But it's open to safety conversations and crisis planning with others."
+        },
+        {
+          "speaker": "Lord Bruce of Bennachie",
+          "text": "Given China's offer to developing countries, can the UK act as an honest broker and export niche expertise to rebuild credibility?"
+        },
+        {
+          "speaker": "Kayla Blomquist",
+          "text": "Yes. The UK has real strengths—AISI and testing expertise—that are globally valued. The UK could export independent testing, assurance services and targeted capacity building."
+        },
+        {
+          "speaker": "Matt Sheehan",
+          "text": "Many countries won't trust Chinese or US assessments alone. An independent UK role testing frontier risks would be a genuine global public good and leverageable diplomatically."
+        }
+      ]
+    },
+    {
+      "title": "How the global South is responding",
+      "takeaway": "Many developing countries hedge: they want affordable, usable AI now and will choose between US paid services and Chinese open models based on access and cost.",
+      "turns": [
+        {
+          "speaker": "Lord Grocott",
+          "text": "Where are non-aligned countries on the spectrum between 'let it rip' and 'regulate tightly'?"
+        },
+        {
+          "speaker": "Matt Sheehan",
+          "text": "Most officials simply want to use AI to improve livelihoods. If China offers accessible tools and training, that message lands better than abstract US dominance or frontier worries."
+        },
+        {
+          "speaker": "Kayla Blomquist",
+          "text": "Countries will hedge. If they can afford top US models they often choose them, but many opt for cheaper, accessible Chinese models. There will be tiers of adoption for years."
+        },
+        {
+          "speaker": "Lord Alderdice",
+          "text": "Is China winning influence among those countries?"
+        },
+        {
+          "speaker": "Kayla Blomquist",
+          "text": "Influence is mixed. There is mistrust of both great powers, but China’s practical offers—if affordable and tailored—can be attractive despite doubts."
+        },
+        {
+          "speaker": "Matt Sheehan",
+          "text": "Some countries told WAICO organisers they lacked details and hesitated to join. But for many, any training or technical help may be the best option available and is persuasive."
+        }
+      ]
+    },
+    {
+      "title": "WAICO: should the UK engage?",
+      "takeaway": "Engage lightly to understand WAICO, but the UK should focus on bilateral capacity-building and independent assurance rather than formally joining WAICO now.",
+      "turns": [
+        {
+          "speaker": "Lord De Mauley",
+          "text": "How significant is WAICO in global AI governance, and should the UK engage with it now?"
+        },
+        {
+          "speaker": "Matt Sheehan",
+          "text": "WAICO is a signal of intent and may try to export technical standards or training. It sputtered out of the gate and is vague; light engagement to gather details makes sense, joining does not."
+        },
+        {
+          "speaker": "Kayla Blomquist",
+          "text": "The UK shouldn't rely on WAICO to deliver capacity-building. The UK can more efficiently offer its strengths—testing, assurance services and targeted training—outside that umbrella."
+        },
+        {
+          "speaker": "Matt Sheehan",
+          "text": "Watch concrete WAICO offers: China has signalled training slots and things like the MAZU weather model. Those could matter in practice even if the organisation is politically driven."
+        },
+        {
+          "speaker": "Baroness Prashar",
+          "text": "So the short answer is watch and engage informally, but focus UK resources elsewhere?"
+        },
+        {
+          "speaker": "Kayla Blomquist",
+          "text": "Exactly: keep tabs, engage to understand, but build UK-led capacity and assurance partnerships directly with countries."
+        }
+      ]
+    },
+    {
+      "title": "Defence, autonomous weapons and closing thoughts",
+      "takeaway": "Military use and autonomous weapons are hard to constrain internationally; coalitions of middle powers might be best placed to push norms, while the UK continues convening and testing work.",
+      "turns": [
+        {
+          "speaker": "Lord Houghton of Richmond",
+          "text": "On defence: can we regulate capabilities like autonomy, or are states too tempted by battlefield advantage?"
+        },
+        {
+          "speaker": "Matt Sheehan",
+          "text": "I don't specialise in military AI, but the practical advantage is so tempting that restraint seems unlikely. Experts at Carnegie and elsewhere are working on legal and normative proposals."
+        },
+        {
+          "speaker": "Kayla Blomquist",
+          "text": "Coalitions of middle powers with technical and moral legitimacy could be effective in shaping norms on autonomous weapons, rather than relying only on the great powers."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you both. Your analysis—China’s practical development focus, open-weight diffusion, WAICO signalling, and the UK's role in testing and capacity building—gives us a clearer path for our next steps."
+        },
+        {
+          "speaker": "Kayla Blomquist",
+          "text": "Thank you. Happy to help further; the UK is well placed to be a convener and provider of independent expertise."
+        },
+        {
+          "speaker": "Matt Sheehan",
+          "text": "Thank you. The key is realistic engagement: promote independent testing, help developing countries adopt AI safely, and watch how China’s offers evolve."
+        }
+      ]
+    }
+  ]
+}

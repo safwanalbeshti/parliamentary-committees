@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "source_id": 18191,
+  "source_sha256": "d00341d4fa35654a6ac65e06739d23daf17414e4aa3d31a5dac8b95fa0488a98",
+  "title": "Debating fixed links for Scotland’s islands",
+  "label": "27 October 2026 · Backbench debates: island fixed links",
+  "summary": "Patricia Ferguson asked the Backbench Business Committee for a three‑hour Chamber debate on building fixed links—mainly tunnels—between some of Scotland’s islands. She argued ferries are unreliable and costly, harming island life, services and businesses; pointed to the Faroe Islands’ experience and recent funding for Shetland tunnel planning; and said while transport is devolved the scale and security implications mean the UK Government will likely need to help. The Committee will consider timing, with Patricia preferring a Chamber debate over Westminster Hall.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Bob Blackman",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Patricia Ferguson",
+      "name": "Patricia Ferguson",
+      "role": "MP and member of the Scottish Affairs Committee",
+      "kind": "witness"
+    },
+    {
+      "label": "Jamie Stone",
+      "name": "Jamie Stone",
+      "role": "MP and committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "fixed link",
+      "definition": "A permanent road or rail connection—usually a bridge or tunnel—between islands or to the mainland."
+    },
+    {
+      "term": "subsea tunnel",
+      "definition": "A tunnel built under the sea to connect landmasses without using ferries."
+    },
+    {
+      "term": "SaxaVord",
+      "definition": "A proposed spaceport on Unst in Shetland, mentioned as an example where good links matter for security and industry."
+    },
+    {
+      "term": "Westminster Hall",
+      "definition": "A secondary debating chamber in the UK Parliament, used when a full Chamber debate isn’t possible."
+    },
+    {
+      "term": "Scottish Government",
+      "definition": "The devolved government in Scotland responsible for most transport decisions there."
+    },
+    {
+      "term": "Faroe Islands",
+      "definition": "An autonomous North Atlantic territory of Denmark whose inter‑island tunnels were cited as a positive example."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Asking for a Chamber debate",
+      "takeaway": "Patricia asked for a three‑hour Chamber debate to examine fixed links for Scotland’s islands and said cross‑party interest exists.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We’re considering applications for debates. Patricia Ferguson has asked for a three‑hour Chamber debate on fixed‑link connectivity in Scotland’s islands. Patricia, please present your case."
+        },
+        {
+          "speaker": "Patricia Ferguson",
+          "text": "Thank you. This matter came to our Scottish Affairs Committee after a visit to Unst to see the SaxaVord spaceport. Locals were enthusiastic about tunnels and other fixed links."
+        },
+        {
+          "speaker": "Patricia Ferguson",
+          "text": "The Committee has visited islands, spoken to residents, and found a strong case for at least debating fixed links: life and business on the islands face intolerable limitations."
+        },
+        {
+          "speaker": "Patricia Ferguson",
+          "text": "We’ve published a report and seen practical proposals—Shetland recently got £23 million from the Scottish Government to develop inter‑island tunnel plans—so now is a timely moment for a discussion in the House."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. Jamie, you had a question about the forum for this debate."
+        },
+        {
+          "speaker": "Jamie Stone",
+          "text": "You asked for a Chamber debate, but there’s a long waiting list. Would you accept a Westminster Hall debate to move this forward sooner, or do you want to hold out for the Chamber?"
+        },
+        {
+          "speaker": "Patricia Ferguson",
+          "text": "We’d prefer the Chamber. It attracts more members and gives a more critical, cross‑House examination. But if scheduling means Westminster Hall, we’d understand."
+        }
+      ]
+    },
+    {
+      "title": "Why fixed links are being considered",
+      "takeaway": "Ferry unreliability, high costs and social impacts—backed by the Faroes example—drive support for tunnels and other permanent links.",
+      "turns": [
+        {
+          "speaker": "Patricia Ferguson",
+          "text": "Ferries are often unreliable. Weather, distance and geography make travel difficult. On our visit to Unst we needed three ferries and a long minibus trip just to reach the island."
+        },
+        {
+          "speaker": "Patricia Ferguson",
+          "text": "That affects everyday life: simple things like going to a doctor or the cinema require planning. Businesses face high costs and extra logistics when bringing materials or workers to the islands."
+        },
+        {
+          "speaker": "Patricia Ferguson",
+          "text": "For childbirth, some islanders must travel to Glasgow two weeks before the due date. The health board pays £60 a night for accommodation, which rarely covers real costs and adds strain on families."
+        },
+        {
+          "speaker": "Patricia Ferguson",
+          "text": "We saw the Faroe Islands’ tunnels stop depopulation there. Their approach aims to keep services accessible so people don’t face long commutes; that experience is persuasive for Scotland’s islands."
+        },
+        {
+          "speaker": "Patricia Ferguson",
+          "text": "This is about more than transport. It affects the economy, security and the ability of people to live and work on the islands—especially as places like SaxaVord develop."
+        }
+      ]
+    },
+    {
+      "title": "Devolved responsibility, costs and possible funding",
+      "takeaway": "Transport is devolved to Scotland, but the scale and cost of tunnels mean UK involvement is likely; different funding models exist, including state‑backed loans.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Transport is devolved. What do you hope the debate will achieve here, given the Scottish Government has the main decision‑making power?"
+        },
+        {
+          "speaker": "Patricia Ferguson",
+          "text": "We accept transport is devolved, but the cost of subsea tunnels is immense. The UK Government will probably need to be involved financially and strategically, and they should want to be."
+        },
+        {
+          "speaker": "Patricia Ferguson",
+          "text": "The UK has security and economic reasons to care: access to a spaceport like SaxaVord, delivering the Government’s aim of opportunity in every postcode, and supporting island industries."
+        },
+        {
+          "speaker": "Patricia Ferguson",
+          "text": "We aren’t prescribing a single funding model. The Faroes used loans underwritten by Denmark—that’s one option. The point is the scale demands broader discussion, including UK support."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. The Clerks will be in touch about scheduling. If you’re willing to accept Westminster Hall that doesn’t stop you asking for a Chamber debate later."
+        },
+        {
+          "speaker": "Patricia Ferguson",
+          "text": "Thank you. We’d like the Chamber but will engage if a Westminster Hall slot is the best way to raise the issue sooner."
+        },
+        {
+          "speaker": "Chair",
+          "text": "That completes the public business. The Committee will now consider the application in private."
+        }
+      ]
+    }
+  ]
+}

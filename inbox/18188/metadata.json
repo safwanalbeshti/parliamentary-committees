@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18188,
+  "activity_id": 39157,
+  "document_id": 308581,
+  "meeting_date": "2026-10-27",
+  "meeting_date_display": "27 October 2026",
+  "publication_date": "2026-10-28T12:26:51",
+  "title": "Climate diplomacy",
+  "committee": "Foreign Affairs Committee",
+  "committees": [
+    {
+      "id": 78,
+      "name": "Foreign Affairs Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9409,
+      "title": "Climate diplomacy",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Dr Beatrice Mosello",
+      "role": "Senior Research Fellow, Environment and Society Centre",
+      "organisation": "Chatham House"
+    },
+    {
+      "name": "Dr Timothy Clack",
+      "role": "Chingiz Gutseriev Associate Professor and Director of the Climate Change & (In)Security Programme",
+      "organisation": "University of Oxford"
+    },
+    {
+      "name": "Laurie Laybourn",
+      "role": "Executive Director",
+      "organisation": "Strategic Climate Risks Initiative"
+    },
+    {
+      "name": "Janani Vivekananda",
+      "role": "Director of Climate Diplomacy and Security Programme",
+      "organisation": "Adelphi Global"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Dr Mosello",
+    "Dr Clack",
+    "Laurie Laybourn",
+    "Janani Vivekananda",
+    "Of course, as I am sure we will get into, the question is",
+    "Aphra Brandreth",
+    "Jessica Toale",
+    "Edward Morello",
+    "Sir John Whittingdale",
+    "Alex Ballinger",
+    "Fleur Anderson",
+    "Dr Ahmed",
+    "Abtisam Mohamed"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18188/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18188",
+  "source_sha256": "b80b40d4309ea04a05ec96a5188b3208fee126b423b2208cbc7da5bf6e3f14b3",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

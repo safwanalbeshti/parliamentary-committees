@@ -1,0 +1,374 @@
+{
+  "schema_version": 1,
+  "source_id": 18192,
+  "source_sha256": "ce3766bd6616b78b1fe443bf7bb47c8cf9a973ceaa5b0e86b374ad561fcc5fb9",
+  "title": "A year on: progress and gaps in the Violence Against Women and Girls strategy",
+  "label": "27 October 2026 · VAWG strategy update",
+  "summary": "The Committee questioned the Domestic Abuse Commissioner and the Independent Anti‑Slavery Commissioner about the Government’s December 2025 Violence Against Women and Girls (VAWG) strategy. Witnesses welcomed the strategy’s cross‑Government scope and stronger health commitments, but warned there is weak transparency, unclear ownership of 200+ actions, limited survivor engagement, patchy data, uncertain funding, inconsistent local delivery and risks from early prisoner release, immigration changes and online harms. They urged clearer governance, published metrics, better resourcing for frontline and specialist teams, and stronger protections for victims.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Dame Karen Bradley",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Dame Nicole Jacobs",
+      "name": "Dame Nicole Jacobs",
+      "role": "Domestic Abuse Commissioner, Office of the Domestic Abuse Commissioner",
+      "kind": "witness"
+    },
+    {
+      "label": "Eleanor Lyons",
+      "name": "Eleanor Lyons",
+      "role": "Independent Anti-Slavery Commissioner, Office of the Independent Anti-Slavery Commissioner",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Peter Prinsley",
+      "name": "Dr Peter Prinsley",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Mr Paul Kohler",
+      "name": "Mr Paul Kohler",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Alex Brewer",
+      "name": "Alex Brewer",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Anna Dixon",
+      "name": "Anna Dixon",
+      "role": "Committee member (Public Accounts Committee guest)",
+      "kind": "member"
+    },
+    {
+      "label": "Catherine Atkinson",
+      "name": "Catherine Atkinson",
+      "role": "Committee member (Justice Committee guest)",
+      "kind": "member"
+    },
+    {
+      "label": "Matt Bishop",
+      "name": "Matt Bishop",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Bell Ribeiro-Addy",
+      "name": "Bell Ribeiro-Addy",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Robbie Moore",
+      "name": "Robbie Moore",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Preet Kaur Gill",
+      "name": "Preet Kaur Gill",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Margaret Mullane",
+      "name": "Margaret Mullane",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Peter Swallow",
+      "name": "Peter Swallow",
+      "role": "Committee member (Joint Committee on Human Rights guest)",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "VAWG",
+      "definition": "Violence Against Women and Girls; the Government’s cross‑department strategy to reduce those harms."
+    },
+    {
+      "term": "Domestic Abuse Act",
+      "definition": "2021 UK law that, among other things, created new duties and legal protections for domestic abuse victims."
+    },
+    {
+      "term": "Drive",
+      "definition": "A Home Office‑funded programme working with repeat perpetrators alongside police and partners."
+    },
+    {
+      "term": "DAPO",
+      "definition": "Domestic Abuse Protection Order — a single order intended to work across criminal, civil and family courts."
+    },
+    {
+      "term": "Integrated Care Board (ICB)",
+      "definition": "Local bodies responsible for NHS planning and budgets in a region; named duty holders under the Act."
+    },
+    {
+      "term": "National Referral Mechanism (NRM)",
+      "definition": "The process for identifying and referring potential victims of modern slavery to specialist support."
+    },
+    {
+      "term": "Online Safety Act",
+      "definition": "New law giving Ofcom powers to regulate online platforms for harmful content, including some VAWG harms."
+    },
+    {
+      "term": "Tagging / exclusion zone",
+      "definition": "Electronic monitoring (tagging) or legal bans on entering certain places to manage released offenders."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Where the strategy stands after a year",
+      "takeaway": "Witnesses praised the strategy’s cross‑Government scope and health commitments but said a year in there is poor transparency, unclear ownership and limited grip on delivery.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We’re looking at progress on the VAWG strategy a year after it was published—please introduce yourselves and we’ll start."
+        },
+        {
+          "speaker": "Dame Nicole Jacobs",
+          "text": "I’m Nicole Jacobs, Domestic Abuse Commissioner for England and Wales. The strategy is a welcome step: it recognises the gendered nature of these crimes, takes a cross‑Government view and includes useful language on misogyny."
+        },
+        {
+          "speaker": "Eleanor Lyons",
+          "text": "I’m Eleanor Lyons, Independent Anti‑Slavery Commissioner. The strategy is ambitious and cross‑departmental, but modern slavery and sexual exploitation are not properly visible in it."
+        },
+        {
+          "speaker": "Dr Peter Prinsley",
+          "text": "Statistics in the room are stark—one woman murdered every three days, 100,000 rapes a year—what impact has the strategy had compared with previous ones?"
+        },
+        {
+          "speaker": "Dame Nicole Jacobs",
+          "text": "It has raised awareness and got health to commit—there’s a GP 'steps to safety' pathway and funding for initial integrated care board pilots—but overall I'm worried: there’s no clear public tracking of the 200+ actions, unclear departmental ownership and not enough accountability."
+        },
+        {
+          "speaker": "Eleanor Lyons",
+          "text": "From the anti‑slavery side, the strategy missed an opportunity. Survivors of sexual exploitation don’t feel the strategy recognises them; modern slavery was not named clearly and relevant metrics are absent."
+        }
+      ]
+    },
+    {
+      "title": "Metrics, data and transparency",
+      "takeaway": "Both witnesses want published, detailed measurement and clearer data so rises in recorded crimes can be interpreted and managed.",
+      "turns": [
+        {
+          "speaker": "Dr Peter Prinsley",
+          "text": "The crime survey data show increases in domestic abuse—are we going backwards or just seeing more reporting?"
+        },
+        {
+          "speaker": "Dame Nicole Jacobs",
+          "text": "We need to know how metrics will be measured. The headline aim is to halve prevalence of domestic abuse, sexual assault and stalking, but the strategy lacks a public plan explaining how every supporting metric is measured and where we are now."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Increased reporting can mean progress if victims trust services—but we need to be careful interpreting rises."
+        },
+        {
+          "speaker": "Mr Paul Kohler",
+          "text": "Police data vary by force. The national centre published a threat assessment—does that help with data?"
+        },
+        {
+          "speaker": "Dame Nicole Jacobs",
+          "text": "The new National Centre for VAWG and Public Protection is a positive step, equipping police with timely intelligence. But overall, judicial flags, DA‑flagging and clear recording need wider use so probation, courts and services know which offences are domestic‑abuse related."
+        }
+      ]
+    },
+    {
+      "title": "Perpetrators, criminal justice and early release",
+      "takeaway": "Tackling repeat offenders needs both programmes like Drive and a strong, consistent police and probation response; early release and tagging failures have undermined victim confidence.",
+      "turns": [
+        {
+          "speaker": "Mr Paul Kohler",
+          "text": "The National Centre flagged repeat perpetrators. Is enough being done to break repeat offending? How is Drive doing?"
+        },
+        {
+          "speaker": "Dame Nicole Jacobs",
+          "text": "Drive is a welcome model focusing on offenders, and some areas implement it well. But rollout info isn’t published; I don’t know how many forces use it. We still need a much better first response from police and clearer national oversight."
+        },
+        {
+          "speaker": "Eleanor Lyons",
+          "text": "In modern slavery, enforcement is weak: only around 70 prosecutions last year versus thousands of identified victims. Cuts to police specialist teams have reduced capacity to identify victims and pursue perpetrators."
+        },
+        {
+          "speaker": "Preet Kaur Gill",
+          "text": "About early release—how well were victims considered before thousands of offenders were released early?"
+        },
+        {
+          "speaker": "Dame Nicole Jacobs",
+          "text": "Victims were considered in the sense officials were aware of domestic abuse prevalence, but operational planning was poor. Tagging has chronic problems and the promised probation helpline wasn’t ready in October; victims report uncertainty about release dates and licence conditions."
+        },
+        {
+          "speaker": "Catherine Atkinson",
+          "text": "Are exclusion and restriction zones being applied appropriately? Should they cover more domestic abuse perpetrators?"
+        },
+        {
+          "speaker": "Dame Nicole Jacobs",
+          "text": "Yes—these tools should be available more widely. But we need transparency: how many tags, exclusion zones and breaches occur? Without published data, victims can’t be reassured."
+        },
+        {
+          "speaker": "Margaret Mullane",
+          "text": "Does the weakness in the tagging rollout damage public and victim confidence?"
+        },
+        {
+          "speaker": "Dame Nicole Jacobs",
+          "text": "Yes. Probation staff are trying hard, but systems were brittle before this scheme. The government must fix operational issues and publish the data so victims can plan and feel safer."
+        },
+        {
+          "speaker": "Matt Bishop",
+          "text": "Will early release deter reporting? If victims expect short or early releases, will they stop reporting?"
+        },
+        {
+          "speaker": "Dame Nicole Jacobs",
+          "text": "I worry it will. Victims already mistrust the criminal justice system; early release risks making people think reporting is futile."
+        },
+        {
+          "speaker": "Eleanor Lyons",
+          "text": "Survivors of sexual exploitation are already disillusioned by slow processes and poor outcomes; early release adds to that sense of injustice and may reduce reporting."
+        }
+      ]
+    },
+    {
+      "title": "Funding, governance and local delivery",
+      "takeaway": "Funds exist in parts, but the Committee and witnesses say overall spending for VAWG actions is opaque; devolution and the planned abolition of PCCs risk a postcode lottery unless national safeguards are set.",
+      "turns": [
+        {
+          "speaker": "Anna Dixon",
+          "text": "The Public Accounts Committee found the Home Office failed to secure other departments’ support before—are we slipping back?"
+        },
+        {
+          "speaker": "Dame Nicole Jacobs",
+          "text": "It’s mixed. DHSC has committed funding to steps to safety and MHCLG has funded accommodation duties, but most actions lack clear public funding lines. We need a joint spending review bid or published cross‑Government spending breakdown so local areas can plan."
+        },
+        {
+          "speaker": "Anna Dixon",
+          "text": "If a cross‑Whitehall monitoring team published progress regularly, would that help?"
+        },
+        {
+          "speaker": "Dame Nicole Jacobs",
+          "text": "Yes. There may be internal monitoring, but it must be transparent. Local commissioners, charities and survivors need to know what’s coming and who’s accountable."
+        },
+        {
+          "speaker": "Bell Ribeiro-Addy",
+          "text": "How will devolution affect services and the postcode lottery when police and crime commissioners (PCCs) go?"
+        },
+        {
+          "speaker": "Dame Nicole Jacobs",
+          "text": "Devolution could pool budgets and improve place‑based planning, which is promising. But it must be designed carefully: national safeguards, clear duties and survivor participation must be built in, otherwise local differences will widen inequity."
+        },
+        {
+          "speaker": "Eleanor Lyons",
+          "text": "On modern slavery, local specialist capacity varies. Devolution should not mean survivors are dependent on whether a passionate local team exists; every area should have named coordinators and joined‑up multi‑agency responses."
+        },
+        {
+          "speaker": "Bell Ribeiro-Addy",
+          "text": "Would you both like powers to scrutinise local delivery once PCCs go?"
+        },
+        {
+          "speaker": "Dame Nicole Jacobs",
+          "text": "I’d like discussions on that. My office could play a role in local scrutiny, but we need clarity on the powers and the national framework for accountability."
+        },
+        {
+          "speaker": "Catherine Atkinson",
+          "text": "Multi‑year funding helps charities plan. Are transitions being handled well for frontline services?"
+        },
+        {
+          "speaker": "Dame Nicole Jacobs",
+          "text": "Transitions create uncertainty. Some funding increases exist, but short‑term pots and unclear commissioning timelines undermine service stability. We need multi‑year settlements and explicit plans for victim services in devolution."
+        }
+      ]
+    },
+    {
+      "title": "Online harms, technology and emerging threats",
+      "takeaway": "Online abuse, AI and platform behaviour are rapidly changing the threat landscape; witnesses urge full use of the Online Safety Act, better evidence from frontline services, and faster platform action.",
+      "turns": [
+        {
+          "speaker": "Robbie Moore",
+          "text": "Do platforms protect women adequately? Has the Online Safety Act helped?"
+        },
+        {
+          "speaker": "Dame Nicole Jacobs",
+          "text": "The strategy has actions on online harms, and the Online Safety Act is a start, but implementation is unclear. Ofcom will be key, but regulators need funded evidence from helplines and frontline services to spot trends."
+        },
+        {
+          "speaker": "Eleanor Lyons",
+          "text": "Perpetrators use AI and platforms to groom, traffic and exploit. I found signs of trafficking on many adverts and little age verification. Platforms must act faster on obvious exploitation and provide accessible reporting routes."
+        },
+        {
+          "speaker": "Anna Dixon",
+          "text": "Platforms can outpace legislation—what should Ofcom or companies do now?"
+        },
+        {
+          "speaker": "Eleanor Lyons",
+          "text": "Ofcom should apply the law fully beyond its initial child‑focused phase, and platforms must invest in proactive detection, immediate take‑down for clear exploitation, age verification and easier reporting for victims."
+        },
+        {
+          "speaker": "Peter Swallow",
+          "text": "AI can generate harms without an obvious offender—what’s your priority to make systems safer for women?"
+        },
+        {
+          "speaker": "Dame Nicole Jacobs",
+          "text": "Create clear, funded channels for frontline services to feed emerging trends to regulators and law enforcement; build nimble rapid‑response capability into the national centre and Ofcom’s remit."
+        },
+        {
+          "speaker": "Eleanor Lyons",
+          "text": "And ensure platforms are accountable for AI misuse, fake ads and deepfakes: they have the data and must act faster to prevent grooming and forced‑labour recruitment online."
+        }
+      ]
+    },
+    {
+      "title": "Immigration, the NRM and survivors’ trust",
+      "takeaway": "Immigration rules and credibility checks risk deterring survivors from coming forward; reforms to the National Referral Mechanism raise serious concerns from witnesses.",
+      "turns": [
+        {
+          "speaker": "Matt Bishop",
+          "text": "The strategy promised police would seek consent before sharing victims’ data with immigration—has that 'firewall' been implemented?"
+        },
+        {
+          "speaker": "Dame Nicole Jacobs",
+          "text": "Not really. The idea was celebrated, but operational guidance and clarity on consent are lacking. Asking victims for 'consent' without context can coerce them; we need a real, protected firewall so survivors aren’t deterred from reporting."
+        },
+        {
+          "speaker": "Peter Swallow",
+          "text": "On the National Referral Mechanism reforms in the Immigration and Asylum Bill—do they help identify victims?"
+        },
+        {
+          "speaker": "Eleanor Lyons",
+          "text": "No. Introducing broad credibility checks will create fear and discourage victims from being identified. The Home Office hasn’t shown data that misuse justifies this change; it risks undermining identification and support."
+        },
+        {
+          "speaker": "Peter Swallow",
+          "text": "Some argue asylum claimants misuse the NRM to delay removal—is that evidenced?"
+        },
+        {
+          "speaker": "Eleanor Lyons",
+          "text": "The evidence is weak. Confirming someone as an NRM victim doesn’t automatically give leave to remain, and the government’s own committees found little misuse. The change would harm genuine victims more than it helps."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you both. Final points?"
+        },
+        {
+          "speaker": "Dame Nicole Jacobs",
+          "text": "The strategy has good ideas and strong parts—health commitments and the national centre are highlights—but without published metrics, clear ownership, stable funding and rapid operational fixes for tagging, DAPOs and victim contact, we’ll lose momentum."
+        },
+        {
+          "speaker": "Eleanor Lyons",
+          "text": "I agree. Make modern slavery and sexual exploitation visible in the strategy, protect survivors from credibility rules that deter reporting, fund specialist police and local teams, and push platforms and regulators to act faster on online exploitation."
+        },
+        {
+          "speaker": "Chair",
+          "text": "We will press the Prime Minister and Home Secretary for clearer leadership, published progress and the protections you’ve both described. Thank you for a detailed session."
+        }
+      ]
+    }
+  ]
+}

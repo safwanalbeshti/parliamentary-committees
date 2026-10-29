@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18192,
+  "activity_id": 39120,
+  "document_id": 308670,
+  "meeting_date": "2026-10-27",
+  "meeting_date_display": "27 October 2026",
+  "publication_date": "2026-10-28T15:28:29",
+  "title": "Violence Against Women and Girls strategy update",
+  "committee": "Home Affairs Committee",
+  "committees": [
+    {
+      "id": 83,
+      "name": "Home Affairs Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9755,
+      "title": "Violence Against Women and Girls strategy update",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Dame Nicole Jacobs",
+      "role": "Domestic Abuse Commissioner",
+      "organisation": "Office of the Domestic Abuse Commissioner"
+    },
+    {
+      "name": "Eleanor Lyons",
+      "role": "Independent Anti-Slavery Commissioner",
+      "organisation": "Office of the Independent Anti-Slavery Commissioner"
+    }
+  ],
+  "speaker_candidates": [
+    "Justice Committee member present",
+    "Public Accounts Committee member present",
+    "Women and Equalities Committee member present",
+    "Joint Committee on Human Rights member present",
+    "Chair",
+    "Dame Nicole Jacobs",
+    "Eleanor Lyons",
+    "Dr Prinsley",
+    "Mr Kohler",
+    "Alex Brewer",
+    "Anna Dixon",
+    "Catherine Atkinson",
+    "Matt Bishop",
+    "Bell Ribeiro-Addy",
+    "The big prize is something I heard the Prime Minister speak about yesterday",
+    "Preet Kaur Gill",
+    "I think this is the point",
+    "Margaret Mullane",
+    "Robbie Moore",
+    "Peter Swallow",
+    "This comes back to the whole-society approach in the strategy"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18192/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18192",
+  "source_sha256": "ce3766bd6616b78b1fe443bf7bb47c8cf9a973ceaa5b0e86b374ad561fcc5fb9",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

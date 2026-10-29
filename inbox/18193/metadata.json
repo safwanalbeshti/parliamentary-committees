@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18193,
+  "activity_id": 38835,
+  "document_id": 308682,
+  "meeting_date": "2026-10-21",
+  "meeting_date_display": "21 October 2026",
+  "publication_date": "2026-10-28T16:03:25",
+  "title": "Multilateralism",
+  "committee": "International Relations and Defence Committee",
+  "committees": [
+    {
+      "id": 360,
+      "name": "International Relations and Defence Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9772,
+      "title": "Multilateralism",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Matt Sheehan",
+      "role": "Senior fellow",
+      "organisation": "Carnegie Endowment for International Peace"
+    },
+    {
+      "name": "Kayla Blomquist",
+      "role": "Co-Founder Director",
+      "organisation": "Oxford China Policy Lab"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Kayla Blomquist",
+    "Matt Sheehan",
+    "Lord Darroch of Kew",
+    "Lord Ahmad of Wimbledon",
+    "Baroness Blackstone",
+    "Baroness Fraser of Craigmaddie",
+    "Lord Bruce of Bennachie",
+    "Lord Grocott",
+    "Lord De Mauley",
+    "Baroness Prashar",
+    "Lord Alderdice",
+    "Lord Lamont of Lerwick",
+    "Lord Houghton of Richmond"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18193/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18193",
+  "source_sha256": "fc30ecca6720172a6f8ded79142cc770a4e39b7e2878580f4ad83d8d7909f96c",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}
