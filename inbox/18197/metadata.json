@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18197,
+  "activity_id": 39199,
+  "document_id": 308792,
+  "meeting_date": "2026-10-27",
+  "meeting_date_display": "27 October 2026",
+  "publication_date": "2026-10-29T17:42:46",
+  "title": "The future of farming",
+  "committee": "Environment, Food and Rural Affairs Committee",
+  "committees": [
+    {
+      "id": 52,
+      "name": "Environment, Food and Rural Affairs Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 8722,
+      "title": "The future of farming",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Parliamentary Under-Secretary of State",
+      "organisation": "Department for Environment, Food and Rural Affairs"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Farming Director",
+      "organisation": "Department for Environment, Food and Rural Affairs"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director of Marine and Fisheries",
+      "organisation": "Department for Environment, Food and Rural Affairs"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Mike Rowe",
+    "Stephen Morgan",
+    "Gareth Baynham-Hughes",
+    "Sarah Dyke",
+    "Henry Tufnell",
+    "Josh Newbury",
+    "Charlie Dewhirst",
+    "Ben Goldsborough",
+    "Helena Dollimore",
+    "Terry Jermy",
+    "Sarah Bool",
+    "Can I quickly ask about common land"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18197/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18197",
+  "source_sha256": "9a2cfa74f693565f5a452bb05a250e9ea435b49aa0b24578ff2b34d1e5457149",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

@@ -1,0 +1,354 @@
+{
+  "schema_version": 1,
+  "source_id": 18194,
+  "source_sha256": "1139a7f1c0cd8418e5c3ee4a7193cf9116f2bafdd80124a19507f65a4c9eb27c",
+  "title": "Who’s missing pension credit in Northern Ireland — and why it matters",
+  "label": "28 October 2026 · Pension credit uptake in Northern Ireland",
+  "summary": "Witnesses from the Commissioner for Older People for Northern Ireland and Advice NI told the Committee that tens of thousands of older people in Northern Ireland are missing pension credit worth about £55m a year. Barriers include pride, fear about declaring savings, confusing rules, rural access and out-of-date data. The witnesses urged targeted letters, better data-sharing, funded advice services, checks in health settings and tweaks to thresholds to boost uptake.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Tonia Antoniazzi",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Siobhan Casey",
+      "name": "Siobhan Casey",
+      "role": "Commissioner for Older People for Northern Ireland",
+      "kind": "witness"
+    },
+    {
+      "label": "Kevin Higgins",
+      "name": "Kevin Higgins",
+      "role": "Head of Policy, Advice NI",
+      "kind": "witness"
+    },
+    {
+      "label": "Simon Hoare",
+      "name": "Simon Hoare",
+      "role": "Member, Northern Ireland Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Mr Kohler",
+      "name": "Paul Kohler",
+      "role": "Member, Northern Ireland Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Robin Swann",
+      "name": "Robin Swann",
+      "role": "Member, Northern Ireland Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Gavin Robinson",
+      "name": "Gavin Robinson",
+      "role": "Member, Northern Ireland Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Claire Hanna",
+      "name": "Claire Hanna",
+      "role": "Member, Northern Ireland Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Katrina Murray",
+      "name": "Katrina Murray",
+      "role": "Member, Northern Ireland Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Mike Kane",
+      "name": "Mike Kane",
+      "role": "Member, Northern Ireland Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "David Smith",
+      "name": "David Smith",
+      "role": "Member, Northern Ireland Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Chris Bloore",
+      "name": "Chris Bloore",
+      "role": "Member, Northern Ireland Affairs Committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "pension credit",
+      "definition": "A means-tested UK benefit that tops up the weekly income of people over State Pension age and can unlock other benefits."
+    },
+    {
+      "term": "passporting",
+      "definition": "Using eligibility for one benefit (like pension credit) to qualify automatically for others such as free TV licences or housing help."
+    },
+    {
+      "term": "attendance allowance",
+      "definition": "A non-means-tested benefit for people over State Pension age with care needs that can boost pension credit calculations."
+    },
+    {
+      "term": "state pension",
+      "definition": "The regular payment from the state people receive once they reach State Pension age."
+    },
+    {
+      "term": "Make the Call campaign",
+      "definition": "The Department for Communities' public campaign in Northern Ireland to encourage people to claim benefits they may be entitled to."
+    },
+    {
+      "term": "parity",
+      "definition": "Keeping policy, payments or systems similar between Northern Ireland and Great Britain for consistency."
+    },
+    {
+      "term": "personal allowance",
+      "definition": "The amount of income someone can earn each year before paying income tax."
+    },
+    {
+      "term": "triple lock",
+      "definition": "The rule that sets State Pension increases each year by the highest of inflation, average earnings growth, or 2.5%."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Why pension credit matters",
+      "takeaway": "Pension credit protects older people from poverty and unlocks other support; many entitled people are missing out.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Siobhan, can you outline the current picture of pension credit take-up in Northern Ireland and why it matters?"
+        },
+        {
+          "speaker": "Siobhan Casey",
+          "text": "It matters hugely. Pension credit protects people from poverty and unlocks lots of help. Older people here have low private pension coverage and rising living costs, so many depend on the state pension and are vulnerable to fuel and food insecurity."
+        },
+        {
+          "speaker": "Kevin Higgins",
+          "text": "People are not getting the money the law says they need. Heating costs are high—two thirds of homes use oil—so every possible entitlement matters."
+        },
+        {
+          "speaker": "Chair",
+          "text": "How many eligible people in Northern Ireland are not claiming pension credit?"
+        },
+        {
+          "speaker": "Siobhan Casey",
+          "text": "Department figures suggest between 23,000 and 30,000 older people are missing out."
+        },
+        {
+          "speaker": "Kevin Higgins",
+          "text": "Based on the Department's older estimates, about 66,000 people—or roughly 72% of those entitled—claim, leaving roughly 26,000 households not claiming. That translates to about £1.1m a week, or roughly £55m a year in unclaimed payments."
+        }
+      ]
+    },
+    {
+      "title": "What claiming unlocks and why it changes lives",
+      "takeaway": "Even small pension credit awards open access to free TV licences, cold weather payments, travel help and other benefits that materially improve living conditions.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "What else does pension credit unlock?"
+        },
+        {
+          "speaker": "Siobhan Casey",
+          "text": "Housing benefit, cold weather payments, the free TV licence for over-75s, help with dental, optical and hospital travel costs—plus other local supports that often require pension credit."
+        },
+        {
+          "speaker": "Robin Swann",
+          "text": "How much does low uptake contribute to pensioner and fuel poverty?"
+        },
+        {
+          "speaker": "Siobhan Casey",
+          "text": "It contributes significantly. Older people are increasingly food insecure and face reduced winter payments—missing pension credit worsens that."
+        },
+        {
+          "speaker": "Kevin Higgins",
+          "text": "Advice sector campaigns have generated millions in extra income. Even a target campaign that raises £15–20m would materially improve older people's wellbeing—allowing them to heat homes, buy food and pay fares."
+        },
+        {
+          "speaker": "Siobhan Casey",
+          "text": "That extra money also supports social life—community transport, shopping trips, seeing a hairdresser—so it boosts independence, not just essentials."
+        }
+      ]
+    },
+    {
+      "title": "Barriers to claiming",
+      "takeaway": "Main barriers are pride, fear about savings and benefit rules, complexity, rural access, and outdated data that makes targeted action hard.",
+      "turns": [
+        {
+          "speaker": "Simon Hoare",
+          "text": "Do older people resist claiming because of 'pride' or the name 'credit'?"
+        },
+        {
+          "speaker": "Siobhan Casey",
+          "text": "Pride is a real issue—many wrongly feel claiming is taking from others. They need to know it's an entitlement, not a favour."
+        },
+        {
+          "speaker": "Kevin Higgins",
+          "text": "There is fear too: people worry about declaring bank accounts and being judged. Complexity of forms and transport limits in rural areas also stop people getting advice."
+        },
+        {
+          "speaker": "Gavin Robinson",
+          "text": "Is 'credit' a problem as a word?"
+        },
+        {
+          "speaker": "Kevin Higgins",
+          "text": "Not a major issue now—people are focused on cash. But the word 'credit' links in people's minds to other benefits like universal credit, so research could unpick that."
+        },
+        {
+          "speaker": "Siobhan Casey",
+          "text": "Digital exclusion matters too; many older people prefer face-to-face help, so letters, phone and local advice are important."
+        }
+      ]
+    },
+    {
+      "title": "Data gaps, groups most at risk, and thresholds",
+      "takeaway": "Published data are out of date, older people are heterogeneous, and small technical thresholds mean some just miss eligibility.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Are the Department's data up to date?"
+        },
+        {
+          "speaker": "Siobhan Casey",
+          "text": "No—the Department's publicly quoted data date from 2019-20. They're working to update, but we need regular, disaggregated statistics."
+        },
+        {
+          "speaker": "Kevin Higgins",
+          "text": "A lag of two to three years is too long. Data should be published annually, with the most recent financial year, so Ministers and providers can act quickly."
+        },
+        {
+          "speaker": "Claire Hanna",
+          "text": "Which older people are most likely to miss out?"
+        },
+        {
+          "speaker": "Siobhan Casey",
+          "text": "Those on low incomes, people with long-term conditions or disabilities, women (who often had interrupted work histories), renters and people in older age brackets—data should be broken into five-year bands and by sex."
+        },
+        {
+          "speaker": "Kevin Higgins",
+          "text": "Also people who were self-employed with patchy National Insurance records, and those with small savings just above the threshold."
+        },
+        {
+          "speaker": "Gavin Robinson",
+          "text": "How do thresholds hurt people?"
+        },
+        {
+          "speaker": "Kevin Higgins",
+          "text": "The new state pension for people retiring after 2016 is about £241.30; the pension credit guarantee is £238. That gap means people who get the full new state pension can miss pension credit entirely, even if they remain financially vulnerable."
+        },
+        {
+          "speaker": "Siobhan Casey",
+          "text": "Every £500 of savings counts as £1 a week of income, so small differences in savings can decide eligibility. Raising thresholds would help."
+        }
+      ]
+    },
+    {
+      "title": "What works: targeted outreach and where to place help",
+      "takeaway": "Targeted letters, funded advice services, data-driven targeting, and benefit checks in health and pharmacy settings are practical, effective measures.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "What has the Department been doing about targeted outreach?"
+        },
+        {
+          "speaker": "Siobhan Casey",
+          "text": "The Department for Communities plans targeted letters to the 23,000–30,000 identified, co-designed with Age NI and Advice NI so wording is user-tested. That is welcome."
+        },
+        {
+          "speaker": "Katrina Murray",
+          "text": "How do you know the letters work—do people phone or attend advice sessions?"
+        },
+        {
+          "speaker": "Siobhan Casey",
+          "text": "That needs measuring. We should track response rates and fund advice to handle extra demand."
+        },
+        {
+          "speaker": "Kevin Higgins",
+          "text": "In previous contracted uptake exercises we targeted people getting housing benefit or attendance allowance but not pension credit—effective proxies. Reinstating funded, contracted uptake work produced verifiable results."
+        },
+        {
+          "speaker": "Mike Kane",
+          "text": "Would placing benefit checkers in hospitals, GP surgeries or pharmacies help?"
+        },
+        {
+          "speaker": "Kevin Higgins",
+          "text": "Yes. People with health issues visit those places; many pension credit premiums link to health. Even a triage or check in those settings would catch people who don't otherwise seek benefits advice."
+        },
+        {
+          "speaker": "Siobhan Casey",
+          "text": "Pharmacies are particularly accessible—around 100,000 people use them daily—so they're a good place for signposting and checks."
+        },
+        {
+          "speaker": "David Smith",
+          "text": "Should charities have a larger role given trusted local relationships?"
+        },
+        {
+          "speaker": "Kevin Higgins",
+          "text": "Yes. Charities are trusted and can focus on uptake without balancing a fraud message the Department must give. Contracted charity-led work helps reach people who avoid official routes."
+        }
+      ]
+    },
+    {
+      "title": "Devolution, responsibilities and broader policy levers",
+      "takeaway": "Social security delivery in Northern Ireland is devolved, but systems and funding link to Westminster; better co-ordination, data-sharing and funding are needed, as are tweaks to tax and pension rules to protect pensioners.",
+      "turns": [
+        {
+          "speaker": "Gavin Robinson",
+          "text": "Who is responsible for funding, promotion and delivery?"
+        },
+        {
+          "speaker": "Kevin Higgins",
+          "text": "Social security delivery is devolved to the Department for Communities. Systems and funding largely originate in Westminster, so we often run the same system locally—responsibility is local but the IT and funding picture is mixed."
+        },
+        {
+          "speaker": "Gavin Robinson",
+          "text": "How well do DfC and DWP coordinate?"
+        },
+        {
+          "speaker": "Kevin Higgins",
+          "text": "Coordination can work but could be smarter. DfC holds useful data; better sharing across Departments, particularly with Health, would enable personalised targeting."
+        },
+        {
+          "speaker": "Chris Bloore",
+          "text": "What about tax and potential changes to the personal allowance or a 'shield' for pensioners?"
+        },
+        {
+          "speaker": "Siobhan Casey",
+          "text": "Many pensioner groups are worried about tax changes; a shield would be welcomed but we need detail."
+        },
+        {
+          "speaker": "Kevin Higgins",
+          "text": "Raising the personal allowance is the clearest way to protect pensioners. Any 'shield' must avoid arbitrary distinctions—two people on the same income shouldn't be treated differently because of a small private pension."
+        },
+        {
+          "speaker": "Chris Bloore",
+          "text": "And the triple lock?"
+        },
+        {
+          "speaker": "Kevin Higgins",
+          "text": "Removing the earnings link would reduce future increases for some. Messaging must be clear: people need to know what changes and why. Any savings should be clearly directed where they support older people's care and living costs."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Any final practical recommendations?"
+        },
+        {
+          "speaker": "Siobhan Casey",
+          "text": "Keep the targeted letters, fund independent advice to handle demand, use pharmacies and health settings, and disaggregate data by age bands and sex so actions are focused."
+        },
+        {
+          "speaker": "Kevin Higgins",
+          "text": "Reinstate funded, contracted targeted uptake campaigns; publish annual up-to-date statistics; improve cross-Department data-sharing; and consider modest rises to savings thresholds and personal allowance to avoid cliff edges."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you both. That wraps up our session."
+        }
+      ]
+    }
+  ]
+}

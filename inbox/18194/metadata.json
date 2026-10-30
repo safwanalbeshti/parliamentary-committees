@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18194,
+  "activity_id": 39172,
+  "document_id": 308745,
+  "meeting_date": "2026-10-28",
+  "meeting_date_display": "28 October 2026",
+  "publication_date": "2026-10-29T10:41:47",
+  "title": "Pensions Credit uptake  in Northern Ireland",
+  "committee": "Northern Ireland Affairs Committee",
+  "committees": [
+    {
+      "id": 120,
+      "name": "Northern Ireland Affairs Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10046,
+      "title": "Pensions Credit uptake  in Northern Ireland",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Commissioner",
+      "organisation": "Older People for Northern Ireland"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Head of Policy",
+      "organisation": "Advice NI"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Siobhan Casey",
+    "Kevin Higgins",
+    "Simon Hoare",
+    "Mr Kohler",
+    "Robin Swann",
+    "I completely agree with you",
+    "Gavin Robinson",
+    "Claire Hanna",
+    "Katrina Murray",
+    "Mike Kane",
+    "David Smith",
+    "Chris Bloore"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18194/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18194",
+  "source_sha256": "1139a7f1c0cd8418e5c3ee4a7193cf9116f2bafdd80124a19507f65a4c9eb27c",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}
