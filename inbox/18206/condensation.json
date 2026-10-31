@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "source_id": 18206,
+  "source_sha256": "98b3f8e0502bad45683bc03b1eeee3ced03f62080101b8cb50a4ce41ee768bfd",
+  "title": "Why start-up capital is tightening and who misses out",
+  "label": "27 October 2026 · Entrepreneurship and business",
+  "summary": "The committee questioned industry figures about a squeeze on early-stage capital, the sharp fall in Venture Capital Trust fundraising after a tax cut, regional and diversity gaps in investment, and barriers to pension money flowing into unlisted firms. Witnesses set out what is working, what isn’t, and what they want the Chancellor to change in tomorrow’s Budget.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Liam Byrne",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Matt Adey",
+      "name": "Matt Adey",
+      "role": "Chief Economist, British Business Bank",
+      "kind": "witness"
+    },
+    {
+      "label": "Michael Moore",
+      "name": "Michael Moore",
+      "role": "Chief Executive, UK Private Capital",
+      "kind": "witness"
+    },
+    {
+      "label": "Chris Lewis",
+      "name": "Chris Lewis",
+      "role": "Chair, Venture Capital Trust Association",
+      "kind": "witness"
+    },
+    {
+      "label": "Sarah Edwards",
+      "name": "Sarah Edwards",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Alison Griffiths",
+      "name": "Alison Griffiths",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Chris Bloore",
+      "name": "Chris Bloore",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Antonia Bance",
+      "name": "Antonia Bance",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Dan Aldridge",
+      "name": "Dan Aldridge",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Mr Reynolds",
+      "name": "Mr Reynolds",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "VCT",
+      "definition": "Venture Capital Trust: a tax-approved fund that lets UK retail investors put money into small, high-growth companies."
+    },
+    {
+      "term": "EIS",
+      "definition": "Enterprise Investment Scheme: a UK tax relief that encourages investment in small, high-risk companies."
+    },
+    {
+      "term": "British Business Bank",
+      "definition": "A government-backed institution that invests through funds and partners to improve business finance across the UK."
+    },
+    {
+      "term": "DC pension",
+      "definition": "Defined contribution pension: a pension where the value depends on how contributions are invested, not a guaranteed payout."
+    },
+    {
+      "term": "Angel syndicate",
+      "definition": "A group of individual investors pooling money and expertise to back early-stage companies."
+    },
+    {
+      "term": "CDFI",
+      "definition": "Community Development Financial Institution: a local lender that supports small businesses in disadvantaged areas."
+    },
+    {
+      "term": "Mansion House compact",
+      "definition": "A voluntary UK initiative to increase pension investment into infrastructure and unlisted companies."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Start-up capital is getting tighter",
+      "takeaway": "Industry witnesses say it’s harder for entrepreneurs to raise seed and scale-up money, with a big recent hit to VCT fundraising after a tax cut.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "The Global Entrepreneurship Monitor shows start-up capital is getting harder to find. Chris, from your vantage as a VCT manager, is that what you see?"
+        },
+        {
+          "speaker": "Chris Lewis",
+          "text": "Yes. Demand from entrepreneurs is high but available capital is constrained. The biggest immediate problem is the cut in the VCT income tax credit from 30% to 20% in last year’s Budget. It’s already reducing our fundraising."
+        },
+        {
+          "speaker": "Chair",
+          "text": "How big is the impact in cash terms?"
+        },
+        {
+          "speaker": "Chris Lewis",
+          "text": "Historically VCTs raise about £900 million a year. Early modelling showed a 20–40% drop after the tax cut; current signals suggest it could be far larger—hundreds of millions less, possibly approaching a 50% fall if patterns continue."
+        },
+        {
+          "speaker": "Chris Lewis",
+          "text": "That reduces both follow-on money for existing portfolio companies and the capacity to back new ones, so whole cohorts of entrepreneurs could miss out over the next few years."
+        }
+      ]
+    },
+    {
+      "title": "Who is missing out: gender and ethnic gaps",
+      "takeaway": "Women and ethnic-minority founders are underfunded; industry initiatives exist but progress is slow and cultural change in investor teams is needed.",
+      "turns": [
+        {
+          "speaker": "Chris Bloore",
+          "text": "We’re losing out on huge value because female and ethnic-minority founders get less funding. What’s going wrong inside the investment world?"
+        },
+        {
+          "speaker": "Michael Moore",
+          "text": "It’s a serious problem. Private capital teams remain male-dominated: around 27% of investment professionals were women in our last survey, fewer still in senior roles and on investment committees. That reduces who gets seen and backed."
+        },
+        {
+          "speaker": "Michael Moore",
+          "text": "There are initiatives—the Invest in Women Taskforce, BBB programmes and others—but there’s no single quick fix; you need both more diverse investment teams and targeted capital."
+        },
+        {
+          "speaker": "Chris Lewis",
+          "text": "From the VCT side we also fund more diverse managers. The British Business Bank’s investor pathways has a £400m allocation; our first £90m round funded funds that are 57% female among team members. But the tax change threatens that flow."
+        },
+        {
+          "speaker": "Chris Bloore",
+          "text": "Some countries legislate to accelerate change. Is the UK doing enough, or do we need stronger government action?"
+        },
+        {
+          "speaker": "Michael Moore",
+          "text": "Government can push. Industry pressure and programmes help, but cultural change in hiring, promotion and deal selection is essential and takes time."
+        }
+      ]
+    },
+    {
+      "title": "Regional access — the London bias and practical barriers",
+      "takeaway": "Investors prefer nearby deals; regional funds and local teams help, but many places remain underserved.",
+      "turns": [
+        {
+          "speaker": "Sarah Edwards",
+          "text": "We hear entrepreneurs must travel to London to find capital. How is the British Business Bank fixing that?"
+        },
+        {
+          "speaker": "Matt Adey",
+          "text": "We’ve built nation-and-region funds so there’s now at least one fund outside London in every region. Sizes vary—about £100m at the small end up to £600m for the Northern Powerhouse fund."
+        },
+        {
+          "speaker": "Matt Adey",
+          "text": "We also put people into regions: a small local growth team that connects entrepreneurs, civic bodies and delivery partners into the Bank’s products."
+        },
+        {
+          "speaker": "Alison Griffiths",
+          "text": "Do investors actually go to nearby towns? You gave a statistic about travel times—what does that show?"
+        },
+        {
+          "speaker": "Matt Adey",
+          "text": "Historic data shows 60% of investor–business pairs were within an hour’s travel; 80% within two hours. Investors prefer being local or within easy reach, which is why regional offices matter."
+        },
+        {
+          "speaker": "Chris Lewis",
+          "text": "We’re seeing more parity: VCT investment is roughly 50/50 between London/south-east and the regions, which helps widen who gets backed."
+        }
+      ]
+    },
+    {
+      "title": "Finance for reindustrialisation, high street and local firms",
+      "takeaway": "Funds exist for manufacturing and local businesses, but specialist debt, CDFIs and targeted funds are needed; some issues—like high-street leases—need different policy levers.",
+      "turns": [
+        {
+          "speaker": "Antonia Bance",
+          "text": "The Prime Minister wants reindustrialisation. How do you ensure finance reaches manufacturing and hard-tech firms?"
+        },
+        {
+          "speaker": "Matt Adey",
+          "text": "Regional funds include debt and equity tailored to local industrial strengths; they’re not London-style VCs. They’re already active in industrial sectors across regions."
+        },
+        {
+          "speaker": "Michael Moore",
+          "text": "Investors and entrepreneurs are engaging on manufacturing and adoption of AI. Industrial strategy signals help direct capital to those opportunities."
+        },
+        {
+          "speaker": "Mr Reynolds",
+          "text": "Many high-street units are owned by funds who prefer big tenants. What incentives would persuade them to accept small local SMEs?"
+        },
+        {
+          "speaker": "Chris Lewis",
+          "text": "A practical idea is a form of lease or tenant guarantee—backing first-time small tenants against credit risk, perhaps provided by government or a bank-backed facility."
+        },
+        {
+          "speaker": "Matt Adey",
+          "text": "Also consider CDFIs—local lenders we support—which can help small, local businesses with flexible finance suited to high-street needs."
+        }
+      ]
+    },
+    {
+      "title": "Young entrepreneurs, pensions and the Budget asks",
+      "takeaway": "Youth engagement is patchy; pension funds are not investing enough in unlisted firms; witnesses want the Chancellor to reverse the VCT tax cut, loosen age rules, and speed pension reforms.",
+      "turns": [
+        {
+          "speaker": "Dan Aldridge",
+          "text": "Young people want to start businesses but lack access. What’s being done to reach them?"
+        },
+        {
+          "speaker": "Matt Adey",
+          "text": "Start-up loans reach more women (40%) and ethnic minorities; we need better digital engagement for young founders and more local connections to university and college networks."
+        },
+        {
+          "speaker": "Michael Moore",
+          "text": "VCs do scout campuses and accelerators, but many towns without universities are further from that pipeline. Building links into regional cities helps, but the ecosystem isn’t evenly spread."
+        },
+        {
+          "speaker": "Chair",
+          "text": "On pensions: UK DC default schemes put only 0.85% of assets into unlisted equities versus a 5% Mansion House target. What should the Chancellor do?"
+        },
+        {
+          "speaker": "Michael Moore",
+          "text": "At the current pace the target won’t be met for many years—briefings suggested it could be 2040. We need clearer steps to get pension schemes to allocate more to UK unlisted firms and to speed consolidation and capability-building in pensions."
+        },
+        {
+          "speaker": "Chris Lewis",
+          "text": "For tomorrow’s Budget: reverse the VCT income tax credit cut from 20% back to 30%, or at least commit to close monitoring and swift action if fundraising collapses."
+        },
+        {
+          "speaker": "Chris Lewis",
+          "text": "Also relax the 'age limit' rule that stops VCT/EIS investing in companies aged 7–10+, because regional companies often take longer to mature and then become ineligible."
+        },
+        {
+          "speaker": "Michael Moore",
+          "text": "And expand 'scale-up reinvestment relief' so founders can reinvest proceeds from exits into new UK businesses—this would recycle capital into the next generation of firms."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. Those are clear, actionable asks for the Chancellor: restore VCT tax incentives, adjust investment rules, and accelerate pension flow into unlisted UK businesses."
+        }
+      ]
+    }
+  ]
+}

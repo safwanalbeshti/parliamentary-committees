@@ -1,0 +1,312 @@
+{
+  "schema_version": 1,
+  "source_id": 18203,
+  "source_sha256": "b6b5e84ca6ee0baa48b034d6e1c160ce4f9e6a85b52b266b1e2ebf79c683cf41",
+  "title": "Why parents complain: problems, fixes and the move from direct pay to collect-and-pay",
+  "label": "28 October 2026 · Child Maintenance Service evidence session",
+  "summary": "The Committee heard from the Public Service Ombudsman and DWP ministers and officials about why complaints about the Child Maintenance Service (CMS) reach the ombudsman even as the Department reports fewer complaints; how the CMS communicates; planned IT and service changes (including moving from direct pay to collect-and-pay); enforcement work; safeguarding and support for vulnerable users; and disputes over whether the maintenance calculation is still fair. The ombudsman flagged weaknesses in complaints handling and complex casework; DWP described improvements to letters, digital tools, enforcement speed, and training, while defending the current calculation method and stressing careful transition planning for collect-and-pay.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Debbie Abrahams",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Paula Sussex",
+      "name": "Paula Sussex CBE",
+      "role": "Public Service Ombudsman",
+      "kind": "witness"
+    },
+    {
+      "label": "Baroness Sherlock",
+      "name": "Baroness Sherlock OBE",
+      "role": "Minister of State, Department for Work and Pensions",
+      "kind": "witness"
+    },
+    {
+      "label": "Simon Hunter",
+      "name": "Simon Hunter",
+      "role": "Director, Child Maintenance Service",
+      "kind": "witness"
+    },
+    {
+      "label": "Duncan Gilchrist",
+      "name": "Duncan Gilchrist",
+      "role": "Deputy Director for Child Maintenance Policy, Child Maintenance Service",
+      "kind": "witness"
+    },
+    {
+      "label": "Lucy Appleton",
+      "name": "Lucy Appleton",
+      "role": "Deputy Director Enforcement, Child Maintenance Service",
+      "kind": "witness"
+    },
+    {
+      "label": "Mr Peter Bedford",
+      "name": "Mr Peter Bedford",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Patrick Hurley",
+      "name": "Patrick Hurley",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "John Milne",
+      "name": "John Milne",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Steve Darling",
+      "name": "Steve Darling",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Liz Twist",
+      "name": "Liz Twist",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Andrew Pakes",
+      "name": "Andrew Pakes",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "CMS",
+      "definition": "Child Maintenance Service, the DWP agency that calculates and collects child maintenance in Great Britain."
+    },
+    {
+      "term": "ICE",
+      "definition": "Independent Complaint Examiner, an intermediate stage complainants can use before going to the ombudsman."
+    },
+    {
+      "term": "direct pay",
+      "definition": "Current approach where the paying parent transfers money directly to the receiving parent without CMS collecting."
+    },
+    {
+      "term": "collect and pay",
+      "definition": "The proposed approach where CMS collects maintenance from payers and pays it to receivers, so the agency can see and act on missed payments."
+    },
+    {
+      "term": "liability order",
+      "definition": "A legal court order allowing enforcement action—used when CMS moves to legal recovery of unpaid maintenance."
+    },
+    {
+      "term": "admin liability orders",
+      "definition": "A planned administrative process to speed up getting liability orders without full court delay."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Why the ombudsman sees more cases",
+      "takeaway": "The Public Service Ombudsman receives more CMS complaints while the Department reports fewer, likely because cases reaching the ombudsman are complex, people are more persistent, and complaints handling earlier in the system is weak.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Paula, you told us CMS complaints to you have doubled in four years while DWP data says complaints to CMS are down—why the mismatch?"
+        },
+        {
+          "speaker": "Paula Sussex",
+          "text": "The ombudsman is the last stop. People who come to us have already used internal complaints and ICE. Our cases are often the complex, distressing ones that haven't been resolved earlier. Across public services complaints are up 20–25%, people persist more, and cost-of-living pressure raises distress."
+        },
+        {
+          "speaker": "Mr Peter Bedford",
+          "text": "What themes appear in those CMS complaints?"
+        },
+        {
+          "speaker": "Paula Sussex",
+          "text": "Customer-service problems: unclear communications, inconsistent handling in complex cases, and a complaints process that doesn't resolve people at early stages. ICE complaints are also rising, while CMS internal complaints show a falling trend—so there’s a mismatch to investigate."
+        },
+        {
+          "speaker": "Mr Peter Bedford",
+          "text": "Would removing the MP filter help?"
+        },
+        {
+          "speaker": "Paula Sussex",
+          "text": "We support removing the MP filter generally; many CMS complaints arrive via MPs, so it might increase direct access but MPs’ involvement is still useful."
+        }
+      ]
+    },
+    {
+      "title": "Communication, complexity and modernisation",
+      "takeaway": "Both witnesses agree communication and handling of complex cases need fixing; DWP has a multi-year modernisation programme and is rewriting letters and building online tools, but problems remain for complex or long-running cases.",
+      "turns": [
+        {
+          "speaker": "John Milne",
+          "text": "Do CMS answer calls and send comprehensible letters? Constituents say letters can be threatening and unclear."
+        },
+        {
+          "speaker": "Paula Sussex",
+          "text": "Communications are often boilerplate and not trauma-informed. Customers need clear, timely explanations: what happened, why a calculation was made, and what will happen next. Online accounts help but more work is needed."
+        },
+        {
+          "speaker": "Patrick Hurley",
+          "text": "Is the trouble due to inherent family complexity or caseworker training?"
+        },
+        {
+          "speaker": "Paula Sussex",
+          "text": "Both. Simple cases are handled well; complex ones suffer. Other organisations use specialist teams for complex cases, better communication and ‘waiting well’ approaches to help people during long waits."
+        },
+        {
+          "speaker": "Baroness Sherlock",
+          "text": "We accept complaints are intelligence. CMS has a major modernisation programme. We aim to make the customer experience clearer—why payments are set, where money came from, and how to act—while recognising two customers often disagree about outcomes."
+        },
+        {
+          "speaker": "Simon Hunter",
+          "text": "We started a quality review in December and are changing practices. We are rewriting about 500 letters to improve tone, clarity and usefulness—completion due in January. Feedback from ICE and the ombudsman informs this work."
+        }
+      ]
+    },
+    {
+      "title": "Digital tools, channels and access",
+      "takeaway": "CMS is increasing online services and two-way messaging to handle routine tasks faster, while keeping phone support and tailoring help for people who need more personal support.",
+      "turns": [
+        {
+          "speaker": "Patrick Hurley",
+          "text": "Most users are digital, but those in crisis may need phone or face-to-face support—how do you provide that?"
+        },
+        {
+          "speaker": "Baroness Sherlock",
+          "text": "About 80% of customers use CMS only online; digital handles routine items quickly and frees staff to help people who need human contact. We also signpost to local services and consider using family hubs where needed."
+        },
+        {
+          "speaker": "Simon Hunter",
+          "text": "We launched 'Customer Connect' two-way messaging (real people respond), keep telephony service improving, and do outbound calls when cases need more detail. We remain multi-channel and monitor quality across those channels."
+        },
+        {
+          "speaker": "Andrew Pakes",
+          "text": "How do you ensure accessibility—e.g., for non-English speakers or deaf customers?"
+        },
+        {
+          "speaker": "Baroness Sherlock",
+          "text": "When people apply we ask about needs, offer help, and tailor how we provide documents or contact. We use translation and other DWP-wide support. We’re refreshing training and will write to the Committee with more detail."
+        }
+      ]
+    },
+    {
+      "title": "Collect-and-pay, enforcement and quicker legal steps",
+      "takeaway": "The Government intends to replace direct pay with collect-and-pay, but that needs primary legislation and careful pilots; enforcement has been sped up with extra court slots, predictive analytics and an early-intervention team.",
+      "turns": [
+        {
+          "speaker": "Liz Twist",
+          "text": "How will you move direct-pay cases to collect-and-pay safely and avoid escalating conflict?"
+        },
+        {
+          "speaker": "Baroness Sherlock",
+          "text": "We will give applicants three months' notice, support family-based arrangements where appropriate, test approaches (pathfinders), protect vulnerable customers, and only move when sure the system is ready. This change needs primary legislation."
+        },
+        {
+          "speaker": "Steve Darling",
+          "text": "Will you close direct pay entirely?"
+        },
+        {
+          "speaker": "Baroness Sherlock",
+          "text": "Yes—the policy is to make collect-and-pay the statutory service, but implementation requires legislation and careful rollout."
+        },
+        {
+          "speaker": "Lucy Appleton",
+          "text": "Enforcement is escalated: most parents pay voluntarily. We’re speeding legal recovery—negotiated more court slots, planning administration liability orders in spring, using predictive analytics and our early intervention team launched in 2025 to contact people before they fall behind."
+        },
+        {
+          "speaker": "Baroness Sherlock",
+          "text": "In the year to June 2026 CMS collected £235m by enforcement out of £1.7bn total, showing enforcement works; the aim is to intervene earlier to avoid escalation."
+        }
+      ]
+    },
+    {
+      "title": "Safeguarding and training",
+      "takeaway": "CMS says safeguarding and domestic-abuse training is mandatory, refreshed after stakeholder feedback, and new tools (safeguarding gateway, quality checks, a six-point plan) guide staff; the ombudsman urges better early complaint resolution and risk assessment.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Paula, the Committee found safeguarding gaps—domestic abuse often wasn't automatically flagged. Is that an issue in your complaints?"
+        },
+        {
+          "speaker": "Paula Sussex",
+          "text": "We haven't seen a single clear pattern of missed flags, but cases can be overlooked if they remain on a 'straightforward' processing path. We recommend CMS improve risk assessment and complaints handling focus on the complainant's impact."
+        },
+        {
+          "speaker": "Baroness Sherlock",
+          "text": "Safeguarding and domestic-abuse training are compulsory. CMS ran a discovery with 17 specialist groups and relaunched trauma-informed training. We also launched a safeguarding gateway this week and have a six-point plan for staff response."
+        },
+        {
+          "speaker": "Simon Hunter",
+          "text": "Training includes regular refreshers and knowledge checks; we listen to calls—over 60,000 so far this year—to assess how staff apply training and to drive continuous improvement."
+        },
+        {
+          "speaker": "Steve Darling",
+          "text": "Internal reviews sometimes find staff missed distress signals—what ensures learning from those reviews?"
+        },
+        {
+          "speaker": "Baroness Sherlock",
+          "text": "Reviews feed into training and processes. We brief leaders first, use reviews to change practice, and expect managers to coach staff. We also work to shorten wait times and make it easier to reach a human quickly."
+        }
+      ]
+    },
+    {
+      "title": "Calculation, affordability and contested choices",
+      "takeaway": "MPs raised constituent distress from maintenance calculations; DWP defends the gross-income, percentage-based system, has lowered the review threshold from 25% to 15% and will include other unearned income, but MPs remain unconvinced about fairness for low-income payers.",
+      "turns": [
+        {
+          "speaker": "Mr Peter Bedford",
+          "text": "Many constituents say the calculation is unaffordable and ignores the other parent's wealth—why stick with this model?"
+        },
+        {
+          "speaker": "Baroness Sherlock",
+          "text": "The system assesses paying parents on gross income and uses percentages so payments track income changes. We reduced the trigger for reassessment from 25% income change to 15%, and we will include other unearned income to reflect true income better."
+        },
+        {
+          "speaker": "Duncan Gilchrist",
+          "text": "We looked at alternatives. A court-style, case-by-case approach is more precise but not scalable: agency-based approaches smooth cases to serve many families. Research showed low-income parents and recipients had mixed views on changing thresholds, so the department paused a wider consultation."
+        },
+        {
+          "speaker": "Mr Peter Bedford",
+          "text": "But MPs' inboxes show people driven to distress by these rules—won't the department revisit major changes?"
+        },
+        {
+          "speaker": "Baroness Sherlock",
+          "text": "I welcome MPs' case examples; I regularly hold CMS surgeries and check patterns. We must balance fairness, feasibility and what increases compliance and money to children. We followed the evidence when choosing changes."
+        },
+        {
+          "speaker": "John Milne",
+          "text": "Does shared care get weaponised because payments change with nights stayed?"
+        },
+        {
+          "speaker": "Baroness Sherlock",
+          "text": "CMS uses nights as a proxy for shared care; it's imperfect but practical. The CMS must apply law consistently; courts decide contact. We try to be sensitive and avoid incentivising harmful behaviour, but no system is perfect."
+        }
+      ]
+    },
+    {
+      "title": "Final observations",
+      "takeaway": "The ombudsman urged stronger complaints handling and customer empathy; DWP pledged improvements across letters, digital services, enforcement speed, training and safeguards, and reiterated plans to shift to collect-and-pay with careful rollout and legislation.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Paula, any final practical recommendations?"
+        },
+        {
+          "speaker": "Paula Sussex",
+          "text": "Look closely at the complaints function: invest in the first-stage review to resolve more complaints early, communicate better with distressed customers, and share the service-modernisation detail with oversight bodies so we can track impacts on redress."
+        },
+        {
+          "speaker": "Baroness Sherlock",
+          "text": "We take the points seriously. We are improving communications, speeding enforcement, refreshing training, and planning collect-and-pay carefully. We will engage MPs on accessibility and welcome case examples so we can learn and fix problems."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you to the ombudsman and to Minister Sherlock and officials for coming. The Committee will follow up on complaints handling, the modernisation programme, accessibility and the collect-and-pay transition."
+        }
+      ]
+    }
+  ]
+}

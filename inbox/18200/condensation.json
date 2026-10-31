@@ -1,0 +1,270 @@
+{
+  "schema_version": 1,
+  "source_id": 18200,
+  "source_sha256": "05014f8dc87998975d1086c035616dff3a79fa15a78049c07ae2745e3311e2c4",
+  "title": "Can Europe Shape the Rules of AI?",
+  "label": "28 October 2026 · Multilateralism & AI",
+  "summary": "Witnesses Daan Jujin and Nick Moës discussed whether Europe can influence global AI governance despite lagging behind the US and China in some technical areas. They agreed the EU has unique leverage (market size, specialised technology like lithography, and recent laws) but differs on how strong that leverage is. Both urged better international crisis mechanisms, verification tools to check what happens inside data centres and models, and closer UK–EU operational cooperation — especially on testing and preventing dangerous AI incidents.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Robertson of Port Ellen",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Nick Moës",
+      "name": "Nick Moës",
+      "role": "Executive Director, The Future Society",
+      "kind": "witness"
+    },
+    {
+      "label": "Daan Jujin",
+      "name": "Daan Jujin",
+      "role": "Director of Research, Arq Foundation",
+      "kind": "witness"
+    },
+    {
+      "label": "Baroness Crawley",
+      "name": "Baroness Crawley",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Lamont of Lerwick",
+      "name": "Lord Lamont of Lerwick",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Ahmad of Wimbledon",
+      "name": "Lord Ahmad of Wimbledon",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Prashar",
+      "name": "Baroness Prashar",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Darroch of Kew",
+      "name": "Lord Darroch of Kew",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Grocott",
+      "name": "Lord Grocott",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Blackstone",
+      "name": "Baroness Blackstone",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Houghton of Richmond",
+      "name": "Lord Houghton of Richmond",
+      "role": "Member of the committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI stack",
+      "definition": "The chain of hardware and software that together make powerful AI systems: chips, factories that make chips, cloud data centres, energy and other inputs."
+    },
+    {
+      "term": "AI Act",
+      "definition": "The European Union's law that sets risk-based rules for AI systems, with stricter controls for more powerful systems."
+    },
+    {
+      "term": "Brussels effect",
+      "definition": "How EU laws influence global companies so those rules become standards elsewhere because companies adapt to access the EU market."
+    },
+    {
+      "term": "Frontier AI",
+      "definition": "The most advanced AI systems with powerful capabilities that could create systemic risks."
+    },
+    {
+      "term": "Verification (in AI)",
+      "definition": "Technical tools and checks that show what AI systems do and whether countries or companies follow agreements."
+    },
+    {
+      "term": "Pax Silica",
+      "definition": "A voluntary initiative mentioned in the hearing where countries coordinate around access to AI compute and technology."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Where Europe stands in AI",
+      "takeaway": "Europe is behind the US and China on leading-edge AI development, but it has important strengths and bargaining chips.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Many say Europe is lagging on AI. Is that true, and can Europe still shape global rules?"
+        },
+        {
+          "speaker": "Nick Moës",
+          "text": "It's nuanced. The US and China lead frontier model development and compute investment, but Europe leads in some parts of the stack and in market influence."
+        },
+        {
+          "speaker": "Daan Jujin",
+          "text": "I agree Europe lags on most of the stack. Europe lacks leading chips, fabs and hosts only a small share of compute. That weakens its leverage."
+        },
+        {
+          "speaker": "Chair",
+          "text": "So lack of technical capability wouldn't stop Europe setting global standards?"
+        },
+        {
+          "speaker": "Nick Moës",
+          "text": "Not necessarily. Europe still has unique technical strengths—like lithography equipment—and a large market of consumers. Firms adapt to EU rules to preserve market access."
+        },
+        {
+          "speaker": "Daan Jujin",
+          "text": "But those market and technical advantages only go so far. If AI becomes securitised between the US and China, Europe's influence could be limited."
+        }
+      ]
+    },
+    {
+      "title": "What people mean by the 'AI stack'",
+      "takeaway": "The AI stack runs from specialised factories and chips up through cloud data centres, energy and services that run models for users.",
+      "turns": [
+        {
+          "speaker": "Baroness Crawley",
+          "text": "Can you explain the AI stack in plain terms and where Europe is strong or weak?"
+        },
+        {
+          "speaker": "Daan Jujin",
+          "text": "At the bottom are lithography machines (ASML), then chip designers (like Nvidia), chip fabs (TSMC), cloud data centres, and power and cooling. Europe has strengths in lithography but not in leading chip designers or big cloud providers."
+        },
+        {
+          "speaker": "Nick Moës",
+          "text": "Add energy, critical raw materials, and the local regulatory, talent and finance environment—those upstream and downstream elements matter for policy choices."
+        }
+      ]
+    },
+    {
+      "title": "The EU's regulatory vision and the 'Brussels effect'",
+      "takeaway": "The EU uses risk-based rules (AI Act) and its large market to push companies toward its standards, but experts disagree on how far this will go.",
+      "turns": [
+        {
+          "speaker": "Lord Lamont of Lerwick",
+          "text": "How would you characterise the EU's regulatory vision, and could it become the global template?"
+        },
+        {
+          "speaker": "Nick Moës",
+          "text": "Two principles: stricter rules for more powerful systems, and using regulation to reclaim bargaining power versus big tech. The 'Brussels effect' is real: firms change behaviour to keep EU market access."
+        },
+        {
+          "speaker": "Daan Jujin",
+          "text": "I agree the EU is risk-based and has evolved from use-case rules to model- and entity-based rules. Still, I'm more sceptical about how fully the Brussels effect will spread, especially as states prioritise security."
+        },
+        {
+          "speaker": "Lord Lamont of Lerwick",
+          "text": "Do US companies influence EU rules?"
+        },
+        {
+          "speaker": "Nick Moës",
+          "text": "Yes. Industry helped shape the EU code of practice, and some companies even ask US states to adopt the same standards for consistency."
+        },
+        {
+          "speaker": "Daan Jujin",
+          "text": "Some firms have adopted EU-driven practices like watermarking outputs, but not all major firms signed the code. State security choices can override commercial compliance."
+        }
+      ]
+    },
+    {
+      "title": "Multilateral forums, verification and crisis response",
+      "takeaway": "Current multilateral mechanisms are fragmented; experts say the priority should be verification tools and cross-border crisis mechanisms rather than a single global treaty now.",
+      "turns": [
+        {
+          "speaker": "Lord Ahmad of Wimbledon",
+          "text": "What is the EU doing in multilateral fora, and can the UN or G20 help?"
+        },
+        {
+          "speaker": "Nick Moës",
+          "text": "The EU is active: G7, OECD, UN panels, Council of Europe, and other initiatives. But there is a gap: no reliable multilateral mechanism to share warnings or contain cross-border AI incidents."
+        },
+        {
+          "speaker": "Daan Jujin",
+          "text": "The US resists a global regime; China prefers one on its terms. Given bipolar geopolitics and the speed of change, governance may look more like crisis management than treaties."
+        },
+        {
+          "speaker": "Baroness Prashar",
+          "text": "Do EU member states speak with one voice?"
+        },
+        {
+          "speaker": "Daan Jujin",
+          "text": "Rules are agreed, but national strategies vary. The bigger risk is uneven situational awareness—some states feel urgency more than others."
+        },
+        {
+          "speaker": "Nick Moës",
+          "text": "There is broad concern across members about safety, security and sovereignty, but differing political cycles and priorities affect action."
+        },
+        {
+          "speaker": "Baroness Blackstone",
+          "text": "What about the Council of Europe's treaty—does it matter?"
+        },
+        {
+          "speaker": "Daan Jujin",
+          "text": "It's a useful symbolic start: commits ratifying states to human-rights-consistent AI, but it's high-level, lacks verification, and misses frontier AI risks."
+        },
+        {
+          "speaker": "Nick Moës",
+          "text": "Symbolically useful, but enforcement is the problem for any treaty. Without credible verification and cross-border cooperation, rules have limited effect."
+        },
+        {
+          "speaker": "Chair",
+          "text": "What's the technical gap to make agreements credible?"
+        },
+        {
+          "speaker": "Daan Jujin",
+          "text": "Verification tech: being able to check what happens inside data centres or models, not just observing infrastructure from space. The UK can invest in that."
+        },
+        {
+          "speaker": "Nick Moës",
+          "text": "Agreed. The immediate priority is preventing and managing serious incidents with binding duties and shared crisis procedures; verification tech must be funded and put into use."
+        }
+      ]
+    },
+    {
+      "title": "Defence concerns and practical recommendations",
+      "takeaway": "Military uses make governance harder because of secrecy and incentives, so verify, prepare crisis rules, and build UK–EU operational partnerships.",
+      "turns": [
+        {
+          "speaker": "Lord Houghton of Richmond",
+          "text": "Can autonomous military AI be regulated, or will states keep secrecy and race ahead?"
+        },
+        {
+          "speaker": "Daan Jujin",
+          "text": "I worry incentives push militaries to adopt AI and cede control to systems; secrecy will make enforcement harder. The trend could enable new warfare forms."
+        },
+        {
+          "speaker": "Nick Moës",
+          "text": "Incentives matter, but history shows collective mechanisms can emerge (e.g., nuclear safeguards). The compressed timelines here make it harder, but security services are concerned and some cooperation is possible."
+        },
+        {
+          "speaker": "Chair",
+          "text": "What single recommendation should we give the UK Government?"
+        },
+        {
+          "speaker": "Daan Jujin",
+          "text": "Invest heavily in AI verification technology so future deals between big powers can be checked and enforced."
+        },
+        {
+          "speaker": "Nick Moës",
+          "text": "Three practical steps: 1) create legally binding duties for serious-incident prevention; 2) fund and standardise verification tools and common testing procedures at G20/EU; 3) form an operational UK–EU partnership pairing UK testing expertise with the EU's regulatory leverage."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you both — those are concrete proposals we can use to shape recommendations."
+        }
+      ]
+    }
+  ]
+}

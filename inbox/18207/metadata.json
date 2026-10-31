@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18207,
+  "activity_id": 39196,
+  "document_id": 308911,
+  "meeting_date": "2026-10-27",
+  "meeting_date_display": "27 October 2026",
+  "publication_date": "2026-10-30T18:53:36",
+  "title": "Entrepreneurship and business",
+  "committee": "Business, Innovation, Science and Trade Committee",
+  "committees": [
+    {
+      "id": 365,
+      "name": "Business, Innovation, Science and Trade Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10031,
+      "title": "Entrepreneurship and business",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Chief Executive",
+      "organisation": "Association of Convenience Stores"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chief Executive",
+      "organisation": "National Market Traders Federation"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chief Executive and Co-Founder",
+      "organisation": "On The Tools"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Lee Wilcox",
+    "Let us face it",
+    "Sarah Edwards",
+    "Dan Aldridge",
+    "Joe Harrison",
+    "Edward Woodall",
+    "Alison Griffiths",
+    "Mr Reynolds",
+    "Chris Bloore",
+    "Don’t get me wrong"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18207/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18207",
+  "source_sha256": "d944a2a9a5c2c1684b30d7f67fd56cd856a538a62d0fac9495aea508bdb7b4fd",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

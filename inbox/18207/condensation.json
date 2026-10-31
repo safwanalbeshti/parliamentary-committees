@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "source_id": 18207,
+  "source_sha256": "d944a2a9a5c2c1684b30d7f67fd56cd856a538a62d0fac9495aea508bdb7b4fd",
+  "title": "Starting small: cashflow, high streets, skills and simple fixes",
+  "label": "27 October 2026 · Entrepreneurship and business",
+  "summary": "The panel—representing trades, market traders and convenience stores—focused on the practical barriers people face starting and growing small businesses: cashflow and late payments, rising input and operating costs, difficulty accessing premises and leases, and poor links between colleges and small employers. They described markets and convenience retail as accessible routes in but costly to buy into, warned apprenticeships and work experience often fail to connect to real jobs, and set out clear policy asks for the Budget: faster payments to small suppliers, higher thresholds for VAT and small business rates relief, and routing some support through trade associations.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Liam Byrne",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Lee Wilcox",
+      "name": "Lee Wilcox",
+      "role": "Chief Executive and Co-Founder, On the Tools",
+      "kind": "witness"
+    },
+    {
+      "label": "Joe Harrison",
+      "name": "Joe Harrison",
+      "role": "Chief Executive, National Market Traders Federation",
+      "kind": "witness"
+    },
+    {
+      "label": "Edward Woodall",
+      "name": "Edward Woodall",
+      "role": "Chief Executive, Association of Convenience Stores",
+      "kind": "witness"
+    },
+    {
+      "label": "Dan Aldridge",
+      "name": "Dan Aldridge",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Sarah Edwards",
+      "name": "Sarah Edwards",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Alison Griffiths",
+      "name": "Alison Griffiths",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Mr Reynolds",
+      "name": "Mr Joshua Reynolds",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Chris Bloore",
+      "name": "Chris Bloore",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Section 106",
+      "definition": "Planning agreement where developers pay for local infrastructure tied to a specific development."
+    },
+    {
+      "term": "CILs",
+      "definition": "Community Infrastructure Levies—charges developers pay towards local infrastructure."
+    },
+    {
+      "term": "VAT threshold",
+      "definition": "The turnover level at which a business must register for VAT and charge it to customers."
+    },
+    {
+      "term": "small business rate relief",
+      "definition": "A discount that reduces business rates bills for very small commercial properties."
+    },
+    {
+      "term": "rateable value",
+      "definition": "A valuation of a commercial property used to calculate business rates."
+    },
+    {
+      "term": "ONS",
+      "definition": "Office for National Statistics, the UK's official statistics agency."
+    },
+    {
+      "term": "DWP",
+      "definition": "Department for Work and Pensions, the government department for welfare and employment."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Cashflow is the immediate threat",
+      "takeaway": "Trades and small suppliers say running out of cash while waiting for payment is the biggest barrier to starting and growing.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Lee, what are the biggest barriers you see for people setting up and expanding trades-based businesses?"
+        },
+        {
+          "speaker": "Lee Wilcox",
+          "text": "Cashflow is number one. Trades often win work but struggle to fund materials before and wait to be paid after—chasing payments is relentless. Rising material prices are making that worse."
+        },
+        {
+          "speaker": "Lee Wilcox",
+          "text": "That pressure feeds into stress and poor wellbeing. Construction already has among the highest suicide rates, and many tradespeople become business owners because they’re skilled workers, not trained managers."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Would tougher late‑payment rules help?"
+        },
+        {
+          "speaker": "Lee Wilcox",
+          "text": "They might. We also need to tackle 'rogue customers'—clients who delay or avoid payment. Trades rarely get paid quickly when work is done in people's homes."
+        }
+      ]
+    },
+    {
+      "title": "How much it costs to start — from market stalls to shops",
+      "takeaway": "Markets give a low-cost route in for some, but setting up a street-food stall or buying/fitting a convenience shop needs significant capital and often personal guarantees.",
+      "turns": [
+        {
+          "speaker": "Dan Aldridge",
+          "text": "Are markets still an affordable route into business, and are they sustainable?"
+        },
+        {
+          "speaker": "Joe Harrison",
+          "text": "Yes, markets remain an accessible entry. There's more variety now—artisan, world food, street food—and the number of markets is growing. But sustainability is the worry: new traders need advice and mentoring to survive."
+        },
+        {
+          "speaker": "Joe Harrison",
+          "text": "Catering or street‑food traders often need large up-front sums for vans, trailers and hygiene-compliant equipment—roughly £100,000 for that level of set-up."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Edward, how does that compare with starting a convenience store?"
+        },
+        {
+          "speaker": "Edward Woodall",
+          "text": "Buying a going concern is typically priced at about ten times a shop's weekly turnover. Fitting an empty unit costs around £120–150k plus £40–60k for stock. Most new owners fund this from savings or family, not banks."
+        },
+        {
+          "speaker": "Mr Reynolds",
+          "text": "How hard is it to secure a lease if you've been a manager but never owned a shop?"
+        },
+        {
+          "speaker": "Edward Woodall",
+          "text": "Very hard. Landlords demand personal guarantees, often a year’s rent in advance, and leases are complex—new owners usually need legal help. That upfront risk deters first‑time operators."
+        },
+        {
+          "speaker": "Alison Griffiths",
+          "text": "Are returns reasonable? When do investors see payback?"
+        },
+        {
+          "speaker": "Edward Woodall",
+          "text": "It usually takes two to three years to start recovering the initial investment and sometimes needs further investment along the way."
+        }
+      ]
+    },
+    {
+      "title": "Markets, apprenticeships and getting people into jobs",
+      "takeaway": "Markets are inclusive and good for neurodiverse traders, but apprenticeships and work experience often fail to connect learners with small employers, hurting recruitment and growth.",
+      "turns": [
+        {
+          "speaker": "Sarah Edwards",
+          "text": "Lee, construction looks like an obvious opportunity for young people, but sentiment is bleak. Why aren't more joining?"
+        },
+        {
+          "speaker": "Lee Wilcox",
+          "text": "Many join by accident; construction isn’t championed in schools. Colleges are oversubscribed for construction courses, but many students then fail to transition into jobs—dropout-to-work rates are very high."
+        },
+        {
+          "speaker": "Lee Wilcox",
+          "text": "The practical side is missing: SMEs who would employ apprentices face administration, cost and risk and often don’t have the time or information to take someone on."
+        },
+        {
+          "speaker": "Joe Harrison",
+          "text": "Markets are inclusive—about half the finalists in our young trader competition were neurodiverse. But growth requires practical experience; young people working part-time in markets learn valuable skills, and we should make that easier before 16."
+        },
+        {
+          "speaker": "Chris Bloore",
+          "text": "Are apprenticeships working for small trades businesses?"
+        },
+        {
+          "speaker": "Lee Wilcox",
+          "text": "Not well enough. It's not the apprenticeship framework so much as the lack of connection between colleges and SMEs and the disincentives for small employers to take on apprentices in real workplaces."
+        }
+      ]
+    },
+    {
+      "title": "Policy asks for tomorrow’s Budget",
+      "takeaway": "The witnesses want quicker payments to small suppliers, higher tax and rates thresholds, more mentoring delivered by trade bodies, and practical measures to help small employers hire apprentices.",
+      "turns": [
+        {
+          "speaker": "Chris Bloore",
+          "text": "What would you like to see announced at the Budget to encourage entrepreneurship?"
+        },
+        {
+          "speaker": "Lee Wilcox",
+          "text": "We welcomed guaranteed self‑employed paternity pay today, but we also want the VAT registration threshold doubled—so small trades don't suddenly face VAT paperwork and pricing disadvantages."
+        },
+        {
+          "speaker": "Joe Harrison",
+          "text": "Channel some Government funding through trade associations for mentoring and practical support. Associations know the sector and could help more small traders survive the critical first two to three years."
+        },
+        {
+          "speaker": "Edward Woodall",
+          "text": "Raise the small business rate relief threshold from a £12k rateable value to £18k so new small shop owners don't immediately pay business rates. Our sector’s bills have risen a lot because thresholds haven’t kept up."
+        },
+        {
+          "speaker": "Lee Wilcox",
+          "text": "And please—SMEs must get paid faster. Quicker payments would relieve the biggest immediate pressure on cashflow for trades."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Those are clear, practical asks. Thank you all—the evidence will really help our inquiry."
+        }
+      ]
+    }
+  ]
+}

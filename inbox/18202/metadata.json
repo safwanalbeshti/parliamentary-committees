@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18202,
+  "activity_id": 39068,
+  "document_id": 308851,
+  "meeting_date": "",
+  "meeting_date_display": "",
+  "publication_date": "2026-10-30T12:28:10",
+  "title": "Regulatory sandboxes in financial services",
+  "committee": "Financial Services Regulation Committee",
+  "committees": [
+    {
+      "id": 697,
+      "name": "Financial Services Regulation Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10006,
+      "title": "Regulatory sandboxes in financial services",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Chief Executive Officer",
+      "organisation": "Centre for Finance, Innovation and Technology (CFIT)"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Anna Wallace",
+    "Ten years on, I see two opportunities",
+    "Lord Lilley",
+    "Lord Eatwell",
+    "Baroness Donaghy",
+    "Lord Sharkey",
+    "Sorry, excuse me",
+    "Lord Hollick",
+    "Lord Vaux of Harrowden",
+    "Lord Davies of Brixton",
+    "Lord Turnbull",
+    "Yes, I agree"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18202/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18202",
+  "source_sha256": "086493ed88b73698ae41a90002ea5cfbc93809aaca92a3b4a21a146f54372b27",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

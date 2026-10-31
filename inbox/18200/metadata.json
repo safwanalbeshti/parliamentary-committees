@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18200,
+  "activity_id": 39118,
+  "document_id": 308837,
+  "meeting_date": "2026-10-28",
+  "meeting_date_display": "28 October 2026",
+  "publication_date": "2026-10-30T11:49:24",
+  "title": "Multilateralism",
+  "committee": "International Relations and Defence Committee",
+  "committees": [
+    {
+      "id": 360,
+      "name": "International Relations and Defence Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9772,
+      "title": "Multilateralism",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Daan Jujin",
+      "role": "Director of Research",
+      "organisation": "Arq Foundation"
+    },
+    {
+      "name": "Nick Moës",
+      "role": "Executive Director",
+      "organisation": "The Future Society"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Nick Moës",
+    "Daan Jujin",
+    "Baroness Crawley",
+    "Lord Lamont of Lerwick",
+    "The second principle is",
+    "Lord Ahmad of Wimbledon",
+    "Baroness Prashar",
+    "Lord Darroch of Kew",
+    "Lord Grocott",
+    "Baroness Blackstone",
+    "Lord Houghton of Richmond",
+    "Daan Juin"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18200/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18200",
+  "source_sha256": "05014f8dc87998975d1086c035616dff3a79fa15a78049c07ae2745e3311e2c4",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

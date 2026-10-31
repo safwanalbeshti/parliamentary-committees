@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18198,
+  "activity_id": 38668,
+  "document_id": 308809,
+  "meeting_date": "2026-10-27",
+  "meeting_date_display": "27 October 2026",
+  "publication_date": "2026-10-30T06:25:57",
+  "title": "Tourism",
+  "committee": "Digital, Culture, Media and Sport Committee",
+  "committees": [
+    {
+      "id": 378,
+      "name": "Digital, Culture, Media and Sport Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9732,
+      "title": "Tourism",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Director of Research and Policy",
+      "organisation": "Centre for Cities"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director",
+      "organisation": "Association of Leading Visitor Attractions"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Executive Chair",
+      "organisation": "Professional Association of Self-Caterers UK"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Bernard Donoghue",
+    "Alistair Handyside",
+    "Anthony Breach",
+    "Nigel Huddleston",
+    "Jo Stevens",
+    "Mr Alaba",
+    "Jeff Smith",
+    "Tom Rutland",
+    "Dr Huq",
+    "Gill German",
+    "Alison Hume",
+    "Laura Citron",
+    "Merryn Kidd",
+    "Joss Croft",
+    "All tourism relies on three things"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18198/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18198",
+  "source_sha256": "be157d466ac3fc430baa04a91031bc2952ce1261ea548161b9179a62262d8a90",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

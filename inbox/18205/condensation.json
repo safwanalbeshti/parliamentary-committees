@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "source_id": 18205,
+  "source_sha256": "773119a79f9b94e034ef933622cb8a907b0b191570d26610a10c60f6295ca279",
+  "title": "Why people start businesses — and why so many stop",
+  "label": "27 October 2026 · Entrepreneurship and business",
+  "summary": "Witnesses discussed the Global Entrepreneurship Monitor's finding that entrepreneurial activity in the UK is at a 25-year high, but many new businesses fail to survive or grow. The witnesses agreed the UK is good at creating founders—especially young people, women and foreign-born founders—but weak at supporting them to scale. Key issues were lack of joined-up university and youth support, regional disparities, barriers for women and ethnic minority founders (especially access to finance and procurement), visa uncertainty, and poorly targeted tax and R&D support. The hearing ended with practical Budget asks: youth enterprise stipends, better-targeted finance for early-stage and female-led businesses, fixes to R&D tax reliefs, visa reform, and improved use of government data to target support.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Liam Byrne",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Professor Hart",
+      "name": "Professor Mark Hart",
+      "role": "Lead, Global Entrepreneurship Monitor UK",
+      "kind": "witness"
+    },
+    {
+      "label": "Philip Salter",
+      "name": "Philip Salter",
+      "role": "Founder, The Entrepreneurs Network",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Ram",
+      "name": "Professor Monder Ram OBE",
+      "role": "Founder-Director, Centre for Research in Ethnic Minority Entrepreneurship, Aston University",
+      "kind": "witness"
+    },
+    {
+      "label": "Jordan Dargue",
+      "name": "Jordan Dargue",
+      "role": "Co-Founder, Lifted Ventures",
+      "kind": "witness"
+    },
+    {
+      "label": "Alison Griffiths",
+      "name": "Alison Griffiths",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Dan Aldridge",
+      "name": "Dan Aldridge",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Mr Reynolds",
+      "name": "Mr Joshua Reynolds",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Sarah Edwards",
+      "name": "Sarah Edwards",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Antonia Bance",
+      "name": "Antonia Bance",
+      "role": "Member of the committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "NEETs",
+      "definition": "Young people Not in Education, Employment or Training."
+    },
+    {
+      "term": "VAT threshold",
+      "definition": "The turnover level at which a business must register and charge VAT to customers."
+    },
+    {
+      "term": "R&D tax credits",
+      "definition": "Tax relief for companies that spend on research and development."
+    },
+    {
+      "term": "angel investor",
+      "definition": "An individual who invests personal money to help a small business start or grow in return for equity."
+    },
+    {
+      "term": "High-potential individual visa",
+      "definition": "A UK visa for people who graduated from certain top universities and are eligible to fast-track to work in the UK."
+    },
+    {
+      "term": "Pépite",
+      "definition": "France's network of university hubs that support student entrepreneurs."
+    },
+    {
+      "term": "exist grant system",
+      "definition": "Germany's support scheme giving monthly stipends and capital to help students turn research into businesses."
+    },
+    {
+      "term": "National Wealth Fund",
+      "definition": "A UK public fund intended to back long-term investment in businesses."
+    },
+    {
+      "term": "British Business Bank",
+      "definition": "A government-owned bank that provides finance and support to UK small businesses."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Headline: more people want to start, but many drop out",
+      "takeaway": "UK entrepreneurial intent is at a 25-year high, but many startups fail to survive or scale.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Mark Hart, the Global Entrepreneurship Monitor came out today—what are the headlines for the UK?"
+        },
+        {
+          "speaker": "Professor Hart",
+          "text": "This is our 27th year. The big point is that entrepreneurial ambition is at its highest since 1999."
+        },
+        {
+          "speaker": "Professor Hart",
+          "text": "We measure people thinking of starting, those in their first months, and established owners. About 46% of adults now fall into one of those categories."
+        },
+        {
+          "speaker": "Professor Hart",
+          "text": "Nascent and new entrepreneurs—those in the first 2½ years—are about 16% of adults, up from roughly 8% 25 years ago. That's a doubling."
+        },
+        {
+          "speaker": "Chair",
+          "text": "So that sounds positive. Is it all good news?"
+        },
+        {
+          "speaker": "Professor Hart",
+          "text": "Not entirely. We are creating founders but not keeping them. Exits are rising. Women, for example, drop out of their startups at twice the rate of men."
+        }
+      ]
+    },
+    {
+      "title": "Growth: very few businesses scale",
+      "takeaway": "Only a small share of startups reach substantial turnover or rapid growth.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "You mentioned survival. How many firms hit the £1 million turnover mark in three years?"
+        },
+        {
+          "speaker": "Professor Hart",
+          "text": "Using HMRC and ONS data, only around 2% of each startup cohort reaches £1 million in three years; half of the rest fold or stay small. The median turnover is about £84,000."
+        },
+        {
+          "speaker": "Alison Griffiths",
+          "text": "Internationally, how do we compare on starting businesses and survival?"
+        },
+        {
+          "speaker": "Professor Hart",
+          "text": "We sit between the US and mainland Europe—more entrepreneurial than France and Germany on start-up rates, less than the US. Survival rates at firm level are broadly similar to France and Germany."
+        },
+        {
+          "speaker": "Alison Griffiths",
+          "text": "If we've got high start-up intent, can better support push more of them to scale?"
+        },
+        {
+          "speaker": "Professor Hart",
+          "text": "Yes. France and Germany run coordinated youth and university support programmes that improve survival. If we matched that support for our more entrepreneurial population, we'd likely see better outcomes."
+        }
+      ]
+    },
+    {
+      "title": "Education, geography and targeted youth support",
+      "takeaway": "Weak entrepreneurship education and uneven local support hold back founders; a youth stipend programme is a clear option.",
+      "turns": [
+        {
+          "speaker": "Dan Aldridge",
+          "text": "Which framework condition is holding the UK back most?"
+        },
+        {
+          "speaker": "Professor Hart",
+          "text": "Entrepreneurship education at school and university, and awareness of existing finance. We have funds, but people don't know how to access them."
+        },
+        {
+          "speaker": "Dan Aldridge",
+          "text": "Do the data show regional gaps? My town struggles with underfunded local support."
+        },
+        {
+          "speaker": "Professor Hart",
+          "text": "Yes—big regional and local disparities. Access has to be improved everywhere, not just cities."
+        },
+        {
+          "speaker": "Antonia Bance",
+          "text": "What could the Budget do tomorrow to encourage starts?"
+        },
+        {
+          "speaker": "Professor Hart",
+          "text": "We should fund youth enterprise properly—monthly stipends and capital to let young founders prove ideas. Look at Germany's system: monthly support of €1,000–€2,000 and access to capital like €30,000."
+        },
+        {
+          "speaker": "Antonia Bance",
+          "text": "Would that be universal? What eligibility?"
+        },
+        {
+          "speaker": "Professor Hart",
+          "text": "Not universal. Programs pick people with growth ambition or university projects—roughly tens of thousands of participants, not every student."
+        },
+        {
+          "speaker": "Philip Salter",
+          "text": "We also suggested bringing back enterprise allowances and extending the Start-Up Loans focus so self-employed founders could qualify for employer-style hiring grants, since new firms often go on to hire people."
+        }
+      ]
+    },
+    {
+      "title": "Talent, visas and barriers for ethnic minority founders",
+      "takeaway": "Foreign-born founders and ethnic minority businesses are important to UK growth but face visa uncertainty, finance gaps and procurement barriers.",
+      "turns": [
+        {
+          "speaker": "Mr Reynolds",
+          "text": "Phil, your Job Creators report says many top-growth firms have foreign-born founders. Does visa uncertainty deter them?"
+        },
+        {
+          "speaker": "Philip Salter",
+          "text": "Yes. Over half of the fastest-growing firms have at least one foreign-born founder. But visa rules are uncertain and costly, deterring people from committing long term."
+        },
+        {
+          "speaker": "Philip Salter",
+          "text": "We lack a functioning entrepreneur visa and could broaden the high-potential individual visa to include business schools. Visa fees for founders and dependants are expensive compared with Europe."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Professor Ram, what are the barriers ethnic minority entrepreneurs face?"
+        },
+        {
+          "speaker": "Professor Ram",
+          "text": "Ethnic minority firms contribute about £25 billion now but could reach £100 billion if they grew at the same rate as white-led firms—so a £75 billion opportunity is being missed."
+        },
+        {
+          "speaker": "Professor Ram",
+          "text": "Key issues: poor data on minority entrepreneurs, harder access to finance, discouragement (people don't apply because they expect poor treatment), and weak access to procurement networks."
+        },
+        {
+          "speaker": "Professor Ram",
+          "text": "Public and corporate procurement can be used to open supply chains to diverse suppliers. Local high streets—like Birmingham's Soho Road—are hubs of immigrant entrepreneurship that provide jobs and social integration, yet aren't recognised in growth policy."
+        },
+        {
+          "speaker": "Philip Salter",
+          "text": "Beyond visas, there's a culture point: people choose where to build families. If the immigration path to settled life is uncertain, founders choose elsewhere."
+        }
+      ]
+    },
+    {
+      "title": "Women founders, finance gaps and Budget asks",
+      "takeaway": "Women are starting businesses in record numbers but receive a tiny share of equity; witnesses propose targeted early-stage funds, more women angel investors, tax changes, and data fixes.",
+      "turns": [
+        {
+          "speaker": "Sarah Edwards",
+          "text": "GEM shows record early-stage female entrepreneurship but women drop out around years two to three. What can the Government do?"
+        },
+        {
+          "speaker": "Jordan Dargue",
+          "text": "If women got equal access to direct finance, the economy could gain over £300 billion. Investment into women rose, but women-led firms still receive only about 2% of equity funding."
+        },
+        {
+          "speaker": "Jordan Dargue",
+          "text": "We need funding products beyond debt—more equity, more women angels, and regional spread of female angel investors. We propose a pound-for-pound public co-investment for women angel investors to scale early-stage equity."
+        },
+        {
+          "speaker": "Chair",
+          "text": "How should public funds such as the National Wealth Fund or British Business Bank be used?"
+        },
+        {
+          "speaker": "Jordan Dargue",
+          "text": "Those funds currently back growth and scale-stage deals. We need some of that money ringfenced for early-stage and especially for women-led and regional opportunities."
+        },
+        {
+          "speaker": "Jordan Dargue",
+          "text": "Also stabilise tax-efficient investment schemes and consider enhancements for women backing women—that would mobilise wealth transfers and increase female investor numbers."
+        },
+        {
+          "speaker": "Philip Salter",
+          "text": "Fix R&D tax credits. Many innovative small firms avoid claiming because past mismanagement led HMRC to hound legitimate claimants. Properly targeted credits boost innovation."
+        },
+        {
+          "speaker": "Philip Salter",
+          "text": "And invest in government data plumbing: a single business identifier across departments would save time and let government target help to fast-growing firms, female founders in Doncaster, etc."
+        },
+        {
+          "speaker": "Professor Ram",
+          "text": "Two rapid Budget asks: make sure the Business Growth Network is tasked and measured on supporting female and ethnic minority firms, and create an accountable body inside government to drive inclusion across policies."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. Those are clear, testable asks for tomorrow's Budget and for the Committee to follow up."
+        }
+      ]
+    }
+  ]
+}

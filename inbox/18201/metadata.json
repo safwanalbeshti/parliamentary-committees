@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18201,
+  "activity_id": 39167,
+  "document_id": 308838,
+  "meeting_date": "2026-10-28",
+  "meeting_date_display": "28 October 2026",
+  "publication_date": "2026-10-30T11:53:31",
+  "title": "Multilateralism",
+  "committee": "International Relations and Defence Committee",
+  "committees": [
+    {
+      "id": 360,
+      "name": "International Relations and Defence Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9772,
+      "title": "Multilateralism",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Dr Rachel Adams",
+      "role": "Executive Director",
+      "organisation": "Leverhulme Centre for the Future of Intelligence, University of Cambridge"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Dr Rachel Adams",
+    "Baroness Fraser of Craigmaddie",
+    "Baroness Blackstone",
+    "Lord Darroch of Kew",
+    "Baroness Crawley",
+    "Lord Bruce of Bennachie"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18201/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18201",
+  "source_sha256": "d8e27fd6d50132793c2fbde6042e1e27fecde780621403e621d183997f8ea254",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

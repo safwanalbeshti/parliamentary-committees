@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18205,
+  "activity_id": 39193,
+  "document_id": 308909,
+  "meeting_date": "2026-10-27",
+  "meeting_date_display": "27 October 2026",
+  "publication_date": "2026-10-30T18:51:09",
+  "title": "Entrepreneurship and business",
+  "committee": "Business, Innovation, Science and Trade Committee",
+  "committees": [
+    {
+      "id": 365,
+      "name": "Business, Innovation, Science and Trade Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10031,
+      "title": "Entrepreneurship and business",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Founder",
+      "organisation": "The Entrepreneurs Network"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Lead",
+      "organisation": "Global Entrepreneurship Monitor UK"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Founder-Director",
+      "organisation": "Centre for Research in Ethnic Minority Entrepreneurship, Aston University"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Co-Founder",
+      "organisation": "Lifted Ventures"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Professor Hart",
+    "Alison Griffiths",
+    "Dan Aldridge",
+    "Mr Reynolds",
+    "Philip Salter",
+    "Professor Ram",
+    "Sarah Edwards",
+    "Jordan Dargue",
+    "Antonia Bance",
+    "There is one stellar example, which I want to draw your attention to"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18205/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18205",
+  "source_sha256": "773119a79f9b94e034ef933622cb8a907b0b191570d26610a10c60f6295ca279",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

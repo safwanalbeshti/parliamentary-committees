@@ -1,0 +1,344 @@
+{
+  "schema_version": 1,
+  "source_id": 18198,
+  "source_sha256": "be157d466ac3fc430baa04a91031bc2952ce1261ea548161b9179a62262d8a90",
+  "title": "Tourism, levies, and who pays: cities, coasts and the case for a funded strategy",
+  "label": "27 October 2026 · Tourism evidence session",
+  "summary": "The Committee questioned industry witnesses about the Government’s proposed overnight visitor levy, how it would be collected and spent, and whether it makes sense for different places. Witnesses agreed levies might work in big cities but warned of serious harm in rural and coastal areas, stressed the levy’s distribution and administration must be clear, and called for a properly funded national tourism strategy, long-term local funding for destination partnerships, and investment in transport and digital links to spread visitors beyond London.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Dame Caroline Dinenage",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Anthony Breach",
+      "name": "Anthony Breach",
+      "role": "Director of Research and Policy, Centre for Cities",
+      "kind": "witness"
+    },
+    {
+      "label": "Bernard Donoghue",
+      "name": "Bernard Donoghue OBE",
+      "role": "Director, Association of Leading Visitor Attractions",
+      "kind": "witness"
+    },
+    {
+      "label": "Alistair Handyside",
+      "name": "Alistair Handyside MBE",
+      "role": "Executive Chair, Professional Association of Self-Caterers UK",
+      "kind": "witness"
+    },
+    {
+      "label": "Laura Citron",
+      "name": "Laura Citron OBE",
+      "role": "Chief Executive Officer, London & Partners",
+      "kind": "witness"
+    },
+    {
+      "label": "Joss Croft",
+      "name": "Joss Croft OBE",
+      "role": "Chair, Tourism Alliance",
+      "kind": "witness"
+    },
+    {
+      "label": "Merryn Kidd",
+      "name": "Merryn Kidd",
+      "role": "Chair, Somerset & Exmoor Local Visitor Economy Partnership",
+      "kind": "witness"
+    },
+    {
+      "label": "Nigel Huddleston",
+      "name": "Nigel Huddleston",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Jo Stevens",
+      "name": "Jo Stevens",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Mr Alaba",
+      "name": "Mr Alaba",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Jeff Smith",
+      "name": "Jeff Smith",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Tom Rutland",
+      "name": "Tom Rutland",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Dr Huq",
+      "name": "Dr Rupa Huq",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Gill German",
+      "name": "Gill German",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Alison Hume",
+      "name": "Alison Hume",
+      "role": "Committee Member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "overnight visitor levy",
+      "definition": "A local tax charged on paid overnight stays in accommodation, set and collected by local authorities or mayors."
+    },
+    {
+      "term": "hypothecation",
+      "definition": "Ringfencing tax revenue so it must be spent on a specified purpose, e.g., tourism-related services."
+    },
+    {
+      "term": "LVEPs",
+      "definition": "Local Visitor Economy Partnerships — local bodies set up to coordinate and develop visitor offers and businesses."
+    },
+    {
+      "term": "VisitBritain",
+      "definition": "The UK's national tourism agency responsible for promoting the UK overseas."
+    },
+    {
+      "term": "VisitEngland",
+      "definition": "The domestic tourism organisation focused on England's destinations and products."
+    },
+    {
+      "term": "strategic authority",
+      "definition": "A mayoral combined authority or equivalent regional body handling regional economic decisions and funding."
+    },
+    {
+      "term": "elasticity",
+      "definition": "Price elasticity of demand — how much demand falls when price rises (higher elasticity means more sensitivity)."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Why the overnight visitor levy is being proposed",
+      "takeaway": "Government wants local income and incentives for growth, but witnesses disagree on whether a levy is the right or fair tool.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Let’s start: what problem is the overnight visitor levy trying to solve, and will it work?"
+        },
+        {
+          "speaker": "Bernard Donoghue",
+          "text": "It tries to fix three things: squeezes on local government funds, the international precedent for city taxes, and a political push for devolution. If it’s carefully designed and the money is truly reinvested into tourism, it could help."
+        },
+        {
+          "speaker": "Alistair Handyside",
+          "text": "I agree with Bernard's diagnosis but worry about delivery: how it's collected, who decides spending, and the real local impacts—especially outside cities."
+        },
+        {
+          "speaker": "Anthony Breach",
+          "text": "The levy is part of fiscal devolution: the UK is unusually centralised. If mayors get revenue they’ll have better incentives to grow local economies. But the levy must be pro-growth."
+        }
+      ]
+    },
+    {
+      "title": "Cities versus coasts: uneven effects",
+      "takeaway": "Big cities may absorb a levy and use it strategically; rural and coastal areas fear lost visitors and disproportionate harm.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Is there a clear economic case for the levy beyond politics?"
+        },
+        {
+          "speaker": "Bernard Donoghue",
+          "text": "Potentially. Tourism is the UK's fifth largest industry and a major employer. But policy is patchy—museum entry charges, VAT cuts for attractions and the levy were decided separately, not under a national tourism strategy."
+        },
+        {
+          "speaker": "Alistair Handyside",
+          "text": "Domestic rural and coastal tourism has fallen nearly 30% since 2022. A levy hits those markets hardest because domestic visitors are very price-sensitive."
+        },
+        {
+          "speaker": "Anthony Breach",
+          "text": "Evidence shows domestic tourism is more elastic than international travel. So coasts and smaller destinations risk losing visitors if prices rise; big cities less so."
+        },
+        {
+          "speaker": "Nigel Huddleston",
+          "text": "If it goes ahead, what form should it take—flat charge or percentage?"
+        },
+        {
+          "speaker": "Bernard Donoghue",
+          "text": "A percentage rate is fairer. A flat per-night fee is regressive—hitting budget stays harder than luxury hotels."
+        },
+        {
+          "speaker": "Alistair Handyside",
+          "text": "A flat fee is worse for businesses with seasonal and low-priced rooms. A percentage tracks price and is less regressive."
+        }
+      ]
+    },
+    {
+      "title": "Who pays, who collects, and administrative headaches",
+      "takeaway": "Collection, platform bookings, exemptions and timing create big practical problems—small providers fear extra cost and complexity.",
+      "turns": [
+        {
+          "speaker": "Tom Rutland",
+          "text": "Practically, who collects the levy when bookings are made through online platforms—the host or the platform?"
+        },
+        {
+          "speaker": "Bernard Donoghue",
+          "text": "No clarity yet. Different countries vary. Legislation must set legal responsibility; it needs advance notice because many stays are booked years ahead."
+        },
+        {
+          "speaker": "Alistair Handyside",
+          "text": "Operators will need time to build systems. Quarterly reporting is likely and burdensome. Small businesses might collect tiny sums but still bear admin costs."
+        },
+        {
+          "speaker": "Tom Rutland",
+          "text": "Would guests pay on arrival?"
+        },
+        {
+          "speaker": "Alistair Handyside",
+          "text": "That’s bad—disputes at check-in. The tax should appear in the booking price, but remittance must account for cancelled bookings."
+        },
+        {
+          "speaker": "Alistair Handyside",
+          "text": "Exemptions (children, disabled visitors, veterans) sound right but are administratively heavy. Scotland’s model forces providers to claim refunds and increases costs."
+        },
+        {
+          "speaker": "Nigel Huddleston",
+          "text": "Will this be a business tax borne by businesses rather than visitors?"
+        },
+        {
+          "speaker": "Alistair Handyside",
+          "text": "Yes. Many businesses won’t be able to pass the cost on; margins and investment suffer. It’s a business tax before profit."
+        }
+      ]
+    },
+    {
+      "title": "Hypothecation and local accountability",
+      "takeaway": "Witnesses split: some want levy money ringfenced to tourism; others say hypothecation can be a smokescreen and prefer mayoral accountability and behaviour change.",
+      "turns": [
+        {
+          "speaker": "Dr Huq",
+          "text": "If a levy is introduced, how should the proceeds be used to benefit tourists, businesses and communities?"
+        },
+        {
+          "speaker": "Anthony Breach",
+          "text": "I oppose strict hypothecation. Hard ringfencing rarely delivers the promised local outcomes; better to require mayors to publish plans and be accountable for actions that grow the visitor economy."
+        },
+        {
+          "speaker": "Bernard Donoghue",
+          "text": "I disagree. Hypothecation can protect non-statutory services—culture, heritage, green spaces—that are often first to be cut. San Francisco is cited as a scheme that rings fences and registers accommodation."
+        },
+        {
+          "speaker": "Alistair Handyside",
+          "text": "If money isn’t ringfenced, councils may absorb it into other pressures or replace existing tourism budgets with levy income, so specificity in law is needed."
+        },
+        {
+          "speaker": "Anthony Breach",
+          "text": "A middle way: require strategic authorities to publish clear plans and commitments tied to any decision to levy, and avoid equalising away the revenue so areas keep the returns of the policy."
+        }
+      ]
+    },
+    {
+      "title": "Destination management, funding gaps and the need for strategy",
+      "takeaway": "Structures for national-to-local tourism exist, but LVEPs and national agencies are underfunded; witnesses demand a funded five-year strategy and clearer accountability.",
+      "turns": [
+        {
+          "speaker": "Jo Stevens",
+          "text": "Do the many organisations—VisitBritain, VisitEngland, LVEPs, DMOs—have clear roles?"
+        },
+        {
+          "speaker": "Laura Citron",
+          "text": "The destination-management structure is right, but it's underfunded. London & Partners acts as an LVEP, convention bureau and inward-investment agency; long-term funding matters."
+        },
+        {
+          "speaker": "Merryn Kidd",
+          "text": "LVEPs help small businesses join up, but many run on volunteers with no full-time staff. Small, targeted funds would let us employ admin and do trade readiness work."
+        },
+        {
+          "speaker": "Joss Croft",
+          "text": "The de Bois review set sensible layers; the problem is money. VisitBritain’s grant-in-aid has fallen in real terms since 2000. Many LVEPs lack staff; 22% say they may not survive five years."
+        },
+        {
+          "speaker": "Nigel Huddleston",
+          "text": "What’s realistic funding? Should it be mostly commercial or public?"
+        },
+        {
+          "speaker": "Laura Citron",
+          "text": "London & Partners mixes grant and paid business membership. Even so, most of the budget is grant. Private money helps but isn’t a full solution."
+        },
+        {
+          "speaker": "Joss Croft",
+          "text": "Tour operators already invest—about £30m marketing the UK—but they need trade-ready product. Fund LVEPs so they can prepare businesses to be sold internationally."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Any final priority ask?"
+        },
+        {
+          "speaker": "Joss Croft",
+          "text": "Publish a funded five-year growth plan with named delivery bodies, clear accountability across Government, and multi-year funding for destination development."
+        },
+        {
+          "speaker": "Merryn Kidd",
+          "text": "Tourism is a growth opportunity—treat the LVEPs as essential infrastructure and fund them accordingly."
+        },
+        {
+          "speaker": "Laura Citron",
+          "text": "Governance is fixed; now fund the system so it can work long-term."
+        }
+      ]
+    },
+    {
+      "title": "Infrastructure, dispersal from London and practical steps",
+      "takeaway": "To spread visitors beyond London and support smaller places, the sector needs better transport links, digital connectivity and product that's bookable internationally.",
+      "turns": [
+        {
+          "speaker": "Alison Hume",
+          "text": "Coastal places are attractive but hard to get to; should transport be a priority in the strategy?"
+        },
+        {
+          "speaker": "Joss Croft",
+          "text": "Absolutely. Visitors need means, money and motivation. Rail access, affordable fares, and simpler ticketing are crucial. Events and regional air links also help dispersal."
+        },
+        {
+          "speaker": "Merryn Kidd",
+          "text": "In Somerset & Exmoor our problems are last-mile and last-25-mile transport and poor mobile connectivity—Wells lacks a station and large areas have weak 4G/5G."
+        },
+        {
+          "speaker": "Laura Citron",
+          "text": "In London, transport projects like the Elizabeth line transformed access, boosted investment and made large events and conferences more viable. Similar local investments make a difference."
+        },
+        {
+          "speaker": "Joss Croft",
+          "text": "Digital bookability is vital. Much of the world uses intermediaries—tour operators and OTAs—so businesses must be trade-ready, integrated with distribution systems, and digitally connected."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Final wrap-up: anything else you want the Committee to note?"
+        },
+        {
+          "speaker": "Bernard Donoghue",
+          "text": "Be careful and consult. There have been 26 tourism Ministers in 29 years; we need corporate memory, cross-departmental coordination and time to get this right."
+        },
+        {
+          "speaker": "Alistair Handyside",
+          "text": "Mandate robust economic impact assessments and proper local consultation before any scheme proceeds, especially to protect small operators."
+        },
+        {
+          "speaker": "Anthony Breach",
+          "text": "This levy may be right in some places and wrong in others; give mayors the choice, but ensure rules avoid equalising away incentives."
+        }
+      ]
+    }
+  ]
+}

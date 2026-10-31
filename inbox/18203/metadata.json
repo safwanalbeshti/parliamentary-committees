@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18203,
+  "activity_id": 39208,
+  "document_id": 308898,
+  "meeting_date": "2026-10-28",
+  "meeting_date_display": "28 October 2026",
+  "publication_date": "2026-10-30T17:00:07",
+  "title": "Child Maintenance Service",
+  "committee": "Work and Pensions Committee",
+  "committees": [
+    {
+      "id": 164,
+      "name": "Work and Pensions Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9313,
+      "title": "Child Maintenance Service",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Baroness Sherlock OBE",
+      "role": "Minister of State",
+      "organisation": "Department for Work and Pensions"
+    },
+    {
+      "name": "Simon Hunter",
+      "role": "Director of the Child Maintenance Service",
+      "organisation": "Child Maintenance Service"
+    },
+    {
+      "name": "Duncan Gilchrist",
+      "role": "Deputy Director for Child Maintenance Policy",
+      "organisation": "Child Maintenance Service"
+    },
+    {
+      "name": "Lucy Appleton",
+      "role": "Deputy Director Enforcement",
+      "organisation": "Child Maintenance Service"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Witness",
+    "Chair",
+    "Paula Sussex",
+    "Mr Peter Bedford",
+    "Patrick Hurley",
+    "John Milne",
+    "Damien Egan",
+    "Steve Darling",
+    "Baroness Sherlock",
+    "Simon Hunter",
+    "Liz Twist",
+    "Lucy Appleton",
+    "Andrew Pakes",
+    "Yes, the six-point plan is",
+    "Duncan Gilchrist"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18203/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18203",
+  "source_sha256": "b6b5e84ca6ee0baa48b034d6e1c160ce4f9e6a85b52b266b1e2ebf79c683cf41",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}
