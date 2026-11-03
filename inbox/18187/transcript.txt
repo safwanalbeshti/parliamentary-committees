@@ -1,0 +1,775 @@
+Oral evidence - 22 Oct 2026
+
+Public Accounts Committee
+
+Oral evidence: Clean power by 2030—Upgrading the grid, HC 671
+
+Thursday 22 October 2026
+
+Ordered by the House of Commons to be published on 22 October 2026.
+
+Watch the meeting
+
+Members present: Mr Clive Betts; Anna Dixon; Chris Kane; Rupert Lowe.
+
+Gareth Davies, Comptroller and Auditor General, Joshua Reddaway, Director, National Audit Office, and George Osborne, Alternate Treasury Officer of Accounts, HM Treasury, were in attendance.
+
+In the absence of the Chair, Mr Clive Betts took the Chair.
+
+Questions 1 - 103
+
+Witnesses
+
+I: Jonathan Brearley, Permanent Secretary, Department for Energy Security and Net Zero; Emily Bourne, Director, Electricity Systems and Networks, Department for Energy Security and Net Zero; Tim Jarvis, Chief Executive, Ofgem; Beatrice Filkin, Director of Major Projects, Ofgem; Fintan Slye, Chief Executive Officer, National Energy System Operator.
+
+Report by the Comptroller and Auditor General
+
+Upgrading the electricity transmission network (HC 589)
+
+Examination of witnesses
+
+Witnesses: Jonathan Brearley, Emily Bourne, Tim Jarvis, Beatrice Filkin and Fintan Slye.
+
+Q1 Chair: Welcome, everyone, to this morning’s session of the Public Accounts Committee. Apologies from Sir Geoffrey Clifton-Brown, the Chair, who is away on parliamentary business. I am Clive Betts; as deputy Chair of the Committee, I am chairing it this morning.
+
+We are going to look at upgrading the grid, which might sound like a very general and uninteresting subject but is quite important to everyone listening to this at home, as well as to everyone in this room today. The electricity transmission network, otherwise known as the grid, is a system of cables, substations, overhead lines and pylons that moves electricity around the country. It is really important to get to people’s homes and businesses and make them work. The Government are currently pursuing a major upgrade of the grid to make sure that we can deliver 95% clean electricity by 2030, which is going to mean £70 billion of investment between 2025 and 2031 to make sure that that investment takes place.
+
+We are going to look at the challenges facing the Government today—DESNZ is on the panel, which I will introduce in a minute—and at whether there is a credible plan to do that on time and within budget and whether the benefits will be delivered to consumers of electricity. As well as DESNZ, we have Ofgem and the National Energy System Operator here today.
+
+I will ask the witnesses to introduce themselves now and, when we come to each of the organisations, to say, in two sentences, what they do. Most people might have heard of the Department; they might have heard of Ofgem as the organisation that puts their bills up every so often; and they might not have heard of NESO at all. If you can, please try to put that in context, because lots of these acronyms go around and people often have no idea what they amount to.
+
+Jonathan Brearley: I am Jonathan Brearley, permanent secretary of DESNZ, the Department for Energy Security and Net Zero. We set the policy for the energy system.
+
+Emily Bourne: Good morning. I am Emily Bourne, director for electricity systems and networks at DESNZ.
+
+Tim Jarvis: I am Tim Jarvis, chief executive of Ofgem. Ofgem regulates the gas and electricity markets. That includes the retail markets, the people we pay our bills to. In this context, we also regulate the networks, including the transmission network operators.
+
+Beatrice Filkin: I am Beatrice Filkin. I am the director of major projects at Ofgem, which means that I am responsible for regulating all of the big transmission upgrades as well as other big projects that we are delivering, such as Sizewell.
+
+Fintan Slye: I am Fintan Slye, chief executive of NESO, the National Energy System Operator. We are a relatively new public corporation, established in public ownership in 2024. We are responsible for strategic planning of the energy system over the long term. We also operate the electricity system through the control room in real time and provide advice to Government and Ofgem around the development of the energy system over the long term.
+
+Q2 Chair: We will unpack some of those responsibilities as we go through to find out exactly who does what and how you relate to each other, which is one of the big challenges here.
+
+Permanent Secretary, there is a big challenge, is there not? There are 88 upgrade projects deemed to be necessary by 2030 to keep the grid working in a way that enables all the new renewable projects to be connected to it. What needs to be done to make sure that that happens?
+
+Jonathan Brearley: It is worth stepping back and looking, first of all, at why we are doing this. As the Secretary of State has said, we see the clean power goal as one that makes sure that we will get a cost-effective system, particularly in the context of the geopolitical changes that we are seeing.
+
+If I were to lay the programme out as a whole, the first challenge has been to make sure that we unlock the investment for the companies to be able to build the grid. If you look at the reforms that we have made over the last five or six years, we have, through Ofgem’s work on regulation, achieved that, so the investment is flowing, and the companies get the money that they need to deliver what they need to do.
+
+Going forward, this is, for me, all about our collective efforts to oversee this delivery programme. As the report says, within DESNZ we will be continuing to build on the work that we have done so far to make sure that we have oversight of the portfolio as a whole, which includes generation and other projects. Ofgem needs to make sure that it gives networks the right incentives to deliver, and NESO needs to make sure that it plays its role in co-ordinating and making sure that people can connect to the grid and make all the technical changes that need to be made.
+
+There is a joint effort here, but if I had to summarise it in one broad term, it is the delivery arrangements that we are putting in place.
+
+Q3 Chair: What happens if you do not deliver these projects by 2030?
+
+Jonathan Brearley: We have to recognise that there are always going to be risks around a programme this big, some of which are within our control or that of the network companies, and some of which are outside it.
+
+I should make it really clear that, in this system, the transmission companies are ultimately responsible for making sure that these are delivered on time. If they are not delivered, we have a co-ordination job and have to make sure, as best we can, that the generation and the network align and that we minimise any further consequences, which is complex. For example, if you look at some of the benefits that new generation will bring, we need to offset that against constraint costs that may appear, for example if the generation is earlier than some of the network, but that is the work that we need to do together.
+
+Chair: That did not sound terribly reassuring.
+
+Jonathan Brearley: In a sense, if these are not delivered on time, it is our job to manage the programme, to minimise costs for customers and to minimise risk to the system, which is what we will do.
+
+Q4 Chair: One of the problems with all these complicated arrangements is that three organisations are before us today, which are responsible for making sure that the lights are kept on and that clean electricity keeps moving forward to be delivered, and then there are various companies that generate the power, which are not at the table today but are clearly pretty important. There are at least four groups of organisations that are responsible, which means that in the end no one is accountable, are they?
+
+Jonathan Brearley: Ultimately, the Department is accountable. We set the policy and the strategy, but we have different roles here, and I might ask Tim and Fintan just to expand on what they do. Ofgem’s role, in my mind—I have some deep experience of Ofgem—is to set the incentives and the framework for the network to deliver. Fintan and his team are the ones who operate the system and make the technical changes that we need to make along the way.
+
+Ultimately, as my Secretary of State said last week to the ESNZ Committee, it is the Department’s responsibility to set the strategy and to oversee delivery.
+
+Chair: So if the lights go out, we can blame you.
+
+Jonathan Brearley: The UK has one of the most resilient systems in the world. As this Committee knows, we can never guarantee that the lights will not go out. As you know, there are always risks in any system. That is not a statement of any degree of risk here. It is just a fact that, as we saw in 2019, for example, there are circumstances where that might happen, but, ultimately, accountability rests with us.
+
+Chair: If the lights go out, it is your responsibility.
+
+Jonathan Brearley: It is certainly our responsibility to respond to that and to do everything that we can to maintain a secure system, yes.
+
+Chair: The problem with all these complicated issues is that, in the end, no one ends up being responsible and everyone says that it is someone else’s fault.
+
+Jonathan Brearley: We do not shy away from the fact—and my Secretary of State said this last week—that the Department is accountable. We are driving a major programme of change, and ultimately that comes back to us. That does not mean that DESNZ does everything; Ofgem and NESO have critical roles, and perhaps it is worth their expanding on what they do to support that.
+
+Chair: Yes, briefly, and then we will come on to other questions.
+
+Tim Jarvis: Just to build a little on what Jonathan says, our role at Ofgem is to make sure that we create the right environment to release the investment to invest in the network. We need to upgrade the network. That is a given. We need to do it as quickly as we can, and delays have consequences, but our job is to make sure that we make that investment available, and then hold to account those responsible for building out the network in terms of time of delivery and of costs. Broadly, our role in this whole process is to really focus on the network upgrade and make sure that it is happening to time and to cost.
+
+Q5 Chair: What does “hold to account” mean? You have no levers or powers over them, have you?
+
+Tim Jarvis: We have quite significant powers over them in the sense that we approve projects and funding. We have incentives in the price control mechanisms, so that they face costs if they fail to deliver or if they do not hit targets. Similarly, we can create incentives to try to get them to meet targets and get ahead of them.
+
+Fintan Slye: I will split it into two. One is development of those network plans looking out to the future, in terms of the set of network reinforcements or upgrades that are needed to ensure that we continue into the future to meet security of supply standards and connect up all the various generations. We develop those plans and ensure that they are optimised. They are then delivered, as Tim and Jonathan said, by the transmission companies.
+
+We also have a role in real time in balancing the system on a day-to-day, minute-by-minute basis in the control room, dispatching the generation, and controlling the outages on the transmission system and flows over interconnectors and so on to make sure that the system is in balance at all times.
+
+Q6 Chair: One of the challenges is that nobody is quite sure, at any one point in time, where we are up to. One of the suggestions is that you should produce quarterly reports on progress of all the key projects, including where they are up to, what the problems are and what needs to be done to rectify them. Quarterly reports are something that we often ask for in Parliament to make sure that there is transparency about what is going on.
+
+Jonathan Brearley: We are absolutely open to reporting. We intend to do that through the Ofgem state of the market report. Tim, I do not know if you want to explain that.
+
+Tim Jarvis: What the NAO Report sets out very well is that there is quite a lot of information out there, but it is quite hard to unpack. There is an onus on us, and we are very supportive of the recommendations to try to bring that together in a bit more of a coherent story on a regular basis. We are looking to publish, early in the new year, a report that just sets out progress on the network infrastructure projects and timeliness and cost.
+
+Q7 Chair: Will it be quarterly?
+
+Beatrice Filkin: Our intention at the moment is to do that yearly, and there is a reason for that. These projects are very large, and lots of things change all the time. We want to make sure that we have good data that the public can understand, so we think that yearly is a suitable timeframe, but we are open to developing that. We will do the first one in February. Let us see if we are getting the messages clear enough for people in that, and then we can build on that, if that is helpful.
+
+Q8 Chair: We can have a think about that as a Committee. One of the challenges is always that if you leave it for a year, which really means that you are talking about things that happened more than a year before, and if they are going wrong, it is then harder to pull them back and to comment on problems, rather than dealing with them on an immediate basis.
+
+Beatrice Filkin: The three of us do quarterly scrutiny as a group with Ministers as well. The quarterly and monthly reporting will definitely continue as well.
+
+Q9 Chair: So you have the information.
+
+Beatrice Filkin: We get feeds of information on a quarterly basis.
+
+Chair: This is something that we might come back to as a Committee.
+
+Jonathan Brearley: We are open to a discussion once we have done this first one in February and then take it from there.
+
+Chair: That is helpful.
+
+Q10 Rupert Lowe: I should first of all disclose the fact that I, in my parliamentary disclosures, have had an investment in something called Kona Energy, which is a battery storage business. It has had untold trouble getting grid connection, which will not surprise you all.
+
+I also know a little bit about the way in which the grid operates, and I know how tight the margins are for either under-demand or over-demand, with supply now coming in from more and more sources, particularly wind farms and solar. If you look at page 19, you can see how since 2000 the system has become so much more complex. Not only are we are getting different supply—in other words, less secure supply—but we are getting much more of it from different means. That means that the grid balance is now absolutely crucial. I want to raise the issue that arose on 23 June as my starter, which I am very concerned about.
+
+You have produced a preliminary report. We are waiting for a more detailed report next year. Not only is this Committee here to represent the House in terms of taxpayer value, but the House is here to protect, as elected MPs, the interests of the British people. I am not happy with that report that you have done. So far, it is just Ofgem and NESO that have produced this report. It is a top-down report. You have had whistleblowers who are concerned about what is going on. That is a persistent drumbeat.
+
+I am very concerned that if the grid goes down—and from what I understand, it was extremely close on 23 June—we get a total blackout, and we do not know how long it takes you to bring the grid back up again. People die. Data centres go down. Everything relies on our power grid.
+
+I am going to recommend that this Committee request an independent review by independent engineers who understand the way in which the grid operates, so that Parliament can get complete reassurance. I would like all the information that both Ofgem and NESO used to make this preliminary judgment. It needs to be independent and then be made to the House of Commons, so that we, as sitting MPs, know that the people we represent are not being put at unnecessary risk, which arguably we possibly are.
+
+That is what I wanted to start to say, so that is going to be something that I would like you all to think about. I do not know whether you want to comment on that now before I go on to my next question. Unfortunately for you, you have two more questions from me.
+
+Jonathan Brearley: What I suggest that we do is reflect on that and come back to you in a more structured way. One thing that I would say up front is that my Secretary of State is very aware of the seriousness of security of supply. In a number of dimensions, this Department is fully focused on making sure that we minimise the risks of what you are describing. What I suggest we do is just ask Tim and Fintan to talk about the two reports that have been commissioned so far and what is going to happen next. We should then come back, reflect on what you are asking for and respond properly.
+
+Q11 Rupert Lowe: It goes to the Chair’s point, really. Ultimately, who is responsible? We are responsible for representing the people. You are responsible for delivering secure electricity to everybody.
+
+Jonathan Brearley: We would accept that.
+
+Tim Jarvis: Shall I perhaps kick off and respond to some of that, Mr Lowe? What we absolutely share is the importance and seriousness of this. Keeping the grid operating and the lights on is absolutely critically important for people’s welfare. As you say, it potentially affects people’s ability to operate organisations and hospitals, so this is critical stuff, which we absolutely recognise.
+
+Parliament has given Ofgem a role to regulate the energy systems operator. We have had a near-miss incident, and we have sought information and are scrutinising that. It is absolutely right that we scrutinise that really carefully. We follow all the evidence and we use the engineers within Ofgem, as well as independent engineers, to investigate that. We are in the process of doing that. It is a complex and thorough investigation that needs to be thorough for all the reasons that you set out.
+
+Clearly, if Parliament wishes to give that role to somebody else, that is entirely up to it, but that is where we are at the moment. We have published our interim report and are continuing to examine the evidence.
+
+Q12 Rupert Lowe: So you would be quite happy to release all the basic information that you used to construct this top-down report so far, and the report later. Redact the whistleblowers, but from my perspective, Parliament needs an independent review of this. That is what I think.
+
+Tim Jarvis: In terms of transparency, we have had a number of incidents in the past, such as Storm Arwen, where we have investigated. We always adopt the same approach, which is to try to get the information out into the public domain as soon as we can, and as soon as we are confident that it is accurate. We have just done that. We have just published all the information that we are looking at. We are now going through the next stage into the investigation.
+
+Fintan Slye: Just to build on what Tim said, we take our responsibilities in operating the system incredibly seriously, and we absolutely understand the importance of that role to society and the economy. We fully support Ofgem’s review of the system. We have provided it with all of the data. It will continue to examine it and produce a final report. It has its own panel of independent experts who will review it, and we have no issue in terms of transparency or availability of data or anything like that. We absolutely support the investigation that is ongoing, the thorough nature of it and the transparency associated with all of that.
+
+As Jonathan said, touching on the other report that was published at the start of the week, which was the Eversheds report into the whistleblowing at NESO, I would just reflect that, first, it did not substantiate any of the specific allegations. However, it did point to some cultural issues that we absolutely need to address. The board, the executive and I as chief executive are fully committed to acting on those recommendations and the themes that came out of the report and to addressing those issues with staff in a very open and transparent way, leveraging the experience of the trade unions as well in terms of how to build speak-up policies that work for the type of organisation that we are.
+
+We welcome the publication of the report. It was published in full, in the interests of full transparency, and we continue to work on the specific recommendations that were included within it.
+
+Q13 Rupert Lowe: Thank you for that answer, Fintan, because I think you probably do have a cultural problem, which is why we need this independent report. I will leave it at that, and we will see what the Committee comes up with.
+
+My next question relates to page 38, paragraph 2.2. In 2024, NESO identified eight projects that it said should be accelerated because doing so would reduce constraint costs. As we know, constraint costs are currently huge. According to the NAO, we are going to be talking about constraint costs rising from £1.9 billion to something like £7.8 billion by 2030. That is in the Report.
+
+Two years later, those projects remain scheduled to be delivered beyond 2030. Were those recommendations realistic, or were you ultimately hamstrung by planning regulation and the delivery structures that you require to make that happen?
+
+Jonathan Brearley: I will start, and Fintan and Tim might want to come in from their perspective. This is a major programme overall. As I say, we had a first task of the regulator having to change its processes and speed up its approvals. If you look back in our history, it took a long time to approve one project. We approved a number of projects in bulk to make sure that we could allow the finance to flow. Ofgem also developed a system that allowed us to do that more quickly, and I am sure that Tim will talk about that.
+
+There are other barriers out there that are familiar to this Committee around planning and around a supply chain that is under huge pressure globally. Our job is to make sure that we create the right incentives to get this stuff delivered, while accepting that there are some things that we are all going to need to work through. It might be helpful, Tim, to talk about the specifics.
+
+Tim Jarvis: Just to step back a little, the challenge that we have collectively is that building out the transmission network takes a long time. These are big projects: to upgrade the network, to build across the country, and to put in place pylons and so on. With the best will in the world, that is going to take eight to 10 years. Generation can be brought on stream more quickly than that, so that, in a sense, is the conundrum that we have.
+
+We have looked at the three things that are needed to get projects delivered quickly. One is regulatory approvals. We introduced our accelerated strategic transmission investment programme, or ASTI; I apologise for the many acronyms. That was really to try to get these projects going more quickly. The second challenge is the supply chain, in terms of getting companies able to get their supply chains in place early. We have introduced an advanced procurement mechanism to help them do that. The third issue, as you alluded to, is planning and consents. These are big projects and the Government have taken some steps there, and we are looking to see how that plays through.
+
+We are trying to get these projects going as quickly as possible, and then holding the transmission companies to account for delivering, but it is challenging, for the reasons that I have set out.
+
+Q14 Rupert Lowe: It sounds like the force is not with you to deliver them. Is that a fair summary?
+
+Jonathan Brearley: I don’t think it is. You have to look at the delivery schedule as a whole. In the Report, you can see the progress that has been made through the system. Is the planning system ideal in the UK? No. We need to continue to work through it. The Government have made changes, but some of those changes are going to come in later than we would like for this programme.
+
+Q15 Rupert Lowe: Is the Committee permitted to know which those projects are? It was not entirely clear to me which they were. It was mentioned that there are eight projects that have not been accelerated, but do we know which they are?
+
+Emily Bourne: The three projects that were identified as being necessary for 2030, which were always off track for 2030, were in East Anglia. They are Norwich to Tilbury, which is split into two projects, and the Sea Link project, which is the offshore connection. Those three projects have not proved possible to accelerate to 2030.
+
+Q16 Rupert Lowe: We are seeing connection dates being pushed back and back, so you are going to be really pressed to deliver this project by 2030. I think that you are going to fall short of it, but we will see.
+
+Jonathan Brearley: We accept that there is risk there.
+
+Q17 Rupert Lowe: The next question is for Emily, if that is all right. I am referring to paragraph 17 here. The barriers to upgrading the grid are now well understood. The NAO sets them out clearly. In your professional judgment, which single barrier poses the greatest threat to successful delivery of the grid upgrade programme by 2030?
+
+Emily Bourne: We have been doing a load of work across the programme since we were set up, based on the report that Nick Winser did as our electricity networks commissioner, on how we can speed up delivery across every bit of the value chain. Through that, we have been looking at everything from, as Tim has talked about, regulatory consenting to supply chain and planning consents. As Jonathan has alluded to, planning consenting is probably the most challenging, because there is risk remaining despite a huge amount of reforms that we have taken forward, which I can talk about if helpful. Some of those are still going through the system and will take time before they can impact.
+
+We have a package of land rights and consents measures for networks, which are ready to go once we get the parliamentary time, but they have not yet got into Parliament, so there is time to get the reforms in place. Even with all the reforms that we are taking forward, there remains a risk through the planning system that projects may not get consent or may be challenged at the end of it. That is a risk that we cannot fully de-risk, whatever we do.
+
+Q18 Rupert Lowe: I understood that you were going to go from first come, first served to first ready, first connect. That was your philosophy that changed.
+
+Emily Bourne: That is the process for getting a connection to the grid for any new generation or demand projects.
+
+Q19 Rupert Lowe: How many projects were advanced? We cannot find any that we can see that have been advanced. Have any been advanced?
+
+Emily Bourne: Perhaps Fintan can talk to that.
+
+Rupert Lowe: Are there any that have been advanced, Fintan?
+
+Fintan Slye: It is a relatively small number in the context of the overall connection queue. As the transmission companies have done the re-engineering analysis on the reformed queue, we have not seen the ability to bring those transmission projects in any earlier. It is akin to the previous conversation. These are really big infrastructure projects, and the ability to accelerate them is difficult, so we have not seen a large number of projects get queue dates earlier.
+
+Q20 Rupert Lowe: That would make sense, would it not? Otherwise, what is going to happen is that, for projects that get completed, you are going to end up paying more and more in constraint payments, which is a complete waste of taxpayers’ money if you do not get this chain or priority list right. It is disappointing that there have not been any, or that we cannot find any. If you keep getting that wrong, you are going to end up with constraint payments going through the roof. That seems to me to be quite clear. Would you agree with that?
+
+Jonathan Brearley: If you step back from it, the connections reform is the first time that projects have been prioritised and attached to what is a limited grid resource. We know that. We know that the grid resource is constrained right now. The entire job of our networks and generation programme is to better align all of this, so yes, we need that prioritisation.
+
+It is worth saying that, although we have not seen projects come forward, we have taken an enormous amount out of the queue, which was filled up with projects that we all knew were not necessarily going to make it.
+
+Rupert Lowe: It was.
+
+Jonathan Brearley: We have done that bit, but, on both the demand and the supply side, you are right. We have this prioritisation question, and my Secretary of State has been as clear as she possibly can be with me that she does not want to do this all at any cost. She wants to make sure that we manage that, and that is what this process is designed to do.
+
+Q21 Rupert Lowe: Thank you. Emily, I have one last one for you. Which risk do you believe policymakers most underestimate that you have to deal with to deliver this?
+
+Emily Bourne: That is a good question. A risk that we have come to understand a lot better is the system access risk. This is the process by which, when you add anything new to the transmission network, whether it is a reinforcement of the network or a new demand or generation connection, you have to take part of the grid offline in order to make that change.
+
+That is an incredibly complex process, which is managed by NESO across the grid as a whole. As we are adding more and more to the grid, especially as we come up to 2030, that becomes more difficult to manage. That is a risk that we have known about for a while but has definitely come up to the agenda over the past year, and we are working very intensively with NESO on a much more strategic plan for system access to get ahead of that.
+
+Q22 Rupert Lowe: Are you running some seminars for policymakers to help them understand?
+
+Fintan Slye: We can do, if helpful.
+
+Rupert Lowe: Chair, thanks for being so indulgent. I will hand over to you for now.
+
+Q23 Chair: I want to pick up two issues there. First of all, you mentioned the problems of planning, and that you cannot guarantee what planning authorities are going to do when they get an application, given that they can hold it up for a long time. We accept that proposals to stick pylons in front of someone’s home are not always the most popular of proposals. This is clearly a very important project for the country, so why is it not a nationally significant infrastructure project?
+
+Emily Bourne: The largest of these will be nationally significant infrastructure projects under the definition, so they will be taken forward under that planning regime.
+
+Beatrice Filkin: The transmission networks make their choice about how best to get consent in a local area. The schemes are very complex and are applying for many development consent orders as well as for some local consents. They work out the best way to manage that through the system, but at least eight of them are being treated as nationally significant infrastructure projects.
+
+Q24 Chair: Is that not just another example of the fragmentation of this, where everybody has to do all the right bits at the right time for it all to add up to a successful operation? Why is the whole scheme not an NSIP, so that there is an overall responsibility within the Department for delivery of it?
+
+Jonathan Brearley: There are a set of choices that you need to make with each project, and those trade-offs will be different. The point that I would want to make here at this Committee is that, although there are challenges—planning is one, and supply chain is another—the transmission companies are the ones responsible for delivering this. We have to work with them to take their advice on the best way to deliver these projects.
+
+In any circumstances, we cannot deny that this is a very complex infrastructure upgrade that we are pursuing. We are pursuing that because we think that that is the best value for the country and the best value to protect against some of the geopolitical risks that we see. I am happy to come back to the Committee in detail on how we have got to that conclusion, but we have to accept that.
+
+Beatrice Filkin: Just to build on that point, you have acknowledged, Mr Betts, that these schemes are not easy in local communities where they exist. The network companies are responsible for very detailed engagement locally with communities. That should include trying to get the minimum impact locally and thinking about routing. If you dealt with this as one scheme as a whole, that would undermine those local conversations that do need to happen.
+
+Q25 Chair: You do not have to deliver it in detail in one scheme, do you? You simply have to have that one scheme overall envelope to have the responsibility and the powers, if necessary, to get it done.
+
+Jonathan Brearley: We are happy to come back to the Committee on the specifics of how those criteria apply, but the important point is that, although the planning system is challenging, to come back to what Bea said, we just have to remember that the way that the transmission companies handle the planning regime, what they submit, and how they engage with local communities is a critical factor in their success. Part of us holding them to account is not simply sitting back and saying, “Planning is difficult, therefore that is okay.” We have to make sure that they are doing their job.
+
+Q26 Chair: Let us just move on to the point that Rupert started to talk about, which is constraint costs. What is the estimate of what they will be by 2030?
+
+Fintan Slye: In the clean power 2030 advice that we provided to Government, we set out some ranges for that. Based on not being able to accelerate the three projects that we were talking about earlier, the estimate for constraint costs is around £7 billion to £8 billion.
+
+Q27 Chair: Is that the total cost?
+
+Fintan Slye: Yes.
+
+Q28 Chair: So we are going to pay wind turbine operators £7 billion to £8 billion, as things stand, not to have them running when the wind blows.
+
+Fintan Slye: I will say two things. The first is that we are working very hard to try to make sure that that number is reduced as much as possible. There are a range of things, both short-term and long-term, that we at NESO are doing in co-ordination with DESNZ and Ofgem. That is focused on absolutely minimising those costs, as I say, in both the short and the long term.
+
+Q29 Chair: I do not doubt that everyone is working very hard, but as things stand, the current estimate by your projections is that the public purse will, in some way, be spending £7 billion to £8 billion so that wind turbines can lie idle.
+
+Fintan Slye: That is the estimate of constraint costs. The only bit that I was going to add is that a significant portion of that is paid to gas-fired generation to fire up. In addition to pulling back on wind farms, the majority of the cost is due to having to start gas-fired power stations in place of them.
+
+Jonathan Brearley: We would make the point that, through plans that we have to minimise constraint costs, we are working on a number of things to bring that number down. We are not leaving that number at £7 billion to £8 billion. We are doing things to make sure that we minimise it, and Fintan can talk about some of the technological changes. The simple thing that you have to do is maximise the efficiency of the grid that you have. If you can use the grid more, your constraint costs go down by a proportionate amount.
+
+Q30 Chair: That £7 billion to £8 billion is the forecast as it stands, if everything goes according to plan, is it not?
+
+Fintan Slye: It is before we do some of those short-term things to bring down constraint costs, such as rolling out dynamic line rating and so on.
+
+Q31 Chair: Are those in the plans at present, and committed?
+
+Fintan Slye: We are rolling them out, so we are working with the transmission companies at the moment. They are rolling out, as we speak, dynamic line rating on their transmission lines. That is technology that you put on the line that allows you to maximise the amount of power that can be transmitted down it, based on the condition and sag of the line.
+
+Jonathan Brearley: That was not in the original estimate, so that will bring it down.
+
+Fintan Slye: That is not in the original estimate. That would reduce the estimate.
+
+Q32 Chair: Why is the estimate not being reduced now, if they are in your definite plans?
+
+Fintan Slye: The estimate that I gave you is the one that was produced as part of the clean power 2030 advice that we provided to Government in 2024. We update our forecasts annually, and the next one is due in the next few months, at which we will do another analysis and include the things that have been committed within it.
+
+Q33 Chair: 2024 is two years ago, so you would update them annually. Why do we not have something more recent?
+
+Fintan Slye: It has not moved significantly between that one and the last one that we produced, but as I say, we have worked now to get the dynamic line rating date into the transmission companies’ plans. We have worked with Ofgem and the Department to get that in, and we are doing that. Our intention is that that would feed into the state of the market report that Tim mentioned earlier.
+
+Jonathan Brearley: It is worth saying that those reports are done on a static timetable. Timetables for generation move, as well as timetables for networks, and that is what we have to sort through to come up with an updated estimate. I need to make it really clear to this Committee that we are not happy with that figure, and it is something that we are trying to bring down.
+
+Q34 Chair: One of the problems—maybe this is for Tim Jarvis; I don’t know—is that you have a business case for each grid upgrade, but NESO cannot tell you what the costs or financial implications of those upgrades, or the costs of not doing them, would be. Why is that information not available? It is one of these things where, again, everyone seems to be a bit responsible, but the information flows are not happening.
+
+Tim Jarvis: Yes, and that is what the NAO Report brings out. We need to bring together the work that we are doing on the upgrades, in terms of the timeliness of the delivery and the costs of them, against the generation that is coming on stream, and what those two things together mean for constraint costs. Those are the two bits.
+
+We are working with NESO and the Government, as I say, to try to bring some of that together so that we can update this and then start to do so on a regular basis, and manage the system to make sure that it is being used as efficiently as possible and to drive down those constraint costs as much as we can.
+
+Jonathan Brearley: Bea or Tim, is it worth talking about the value-for-money assessment that you guys do, though? How do you reassure us and the Committee that this is all still value for money?
+
+Beatrice Filkin: We are constantly monitoring both delivery and cost as we think about whether this set of investments remains in the interest of the consumers. With cost pressures that we see in our own lives, as well as in projects, that is a very important thing to do, as well as focusing on delivery. If we talk about the accelerated strategic transmission projects—the really big ones out of the 88—they continue to offer really strong value for money for consumers. Our latest version is about four to one of those.
+
+Q35 Chair: Are you getting all the information that you need from NESO to make sure that you can do those evaluations sufficiently?
+
+Beatrice Filkin: Part of what the NAO is recommending is to keep on the journey that we are on at the moment of having coherently joined-up strategic planning. As we move forward into next year and get an overarching spatial energy plan, that will give us much better joined-up systems. In general, we get the information that we need from NESO, and we are just bringing that together at a holistic level now.
+
+Q36 Anna Dixon: I am going to continue with the issues of constraint costs and the overall impact. From a consumer point of view, everybody, including businesses, is worried about the cost of living and energy prices, and there is a real priority to get energy bills down. My understanding is that at the moment there is this planned £70 billion of investment costs that the consumer is bearing, but that there is also a possibility of an additional amount of money, in terms of these constraint costs.
+
+Figure 10 on page 36 of the NAO Report tries to look at the impact on consumer bills and what the total savings would be. It comes up with the estimate that if we could accelerate some of these projects, it would have a consequence of reducing constraint costs. It has come up with a savings figure of £30 a year, which sounds like not much of a saving, although anything is welcome. There are also quite a lot of uncertainties and assumptions behind that, not least the price of gas.
+
+Tim or Beatrice might best answer this: how confident are you in these assessments about the sorts of savings, acceleration and weighing up the consumer price versus these long-term projects?
+
+Tim Jarvis: You are right that there are lots of assumptions in here and that things move, but the overriding message of this Report, and indeed our own analysis, is that the cost to consumers of not doing these upgrades is significantly higher than the costs of doing them. Ultimately, we need to build out our network to accommodate new sources of generation. The exact numbers are, as you say, subject to a number of sensitivities, but clearly, as figure 2 sets out, upgrading this network will mean a net benefit to consumers compared with not doing it.
+
+Q37 Anna Dixon: In your answer to Clive’s question, you talked about one mitigation that you are developing, which is dynamic line rating. What other mitigations are being developed? Not least, how are you going to get better value for money when you do have to switch on the gas? Are there other things that you are looking at as mitigations that could further bring down the constraint costs?
+
+Tim Jarvis: The constraint costs are driven by two factors, one of which is the extent to which you can use the system efficiently and move the energy from where it is being generated to where it is needed. That is the primary reason why we drive down constraint costs and, as the NAO concludes very clearly, the value for money of this programme is about delivery of these projects.
+
+The other factor is the price of gas, which is primarily what is driving the size of these constraint costs at the moment, because of the amount that we are paying. As we know, we are in a world where we are paying significant amounts for gas at the moment. Global prices have trebled in the last nine months. This programme reduces our reliance on gas, which is why it is so important, in the long term, to get these network upgrades done.
+
+Q38 Anna Dixon: Does yesterday’s decision on Jackdaw help bring down gas prices?
+
+Jonathan Brearley: The decision yesterday was based on the contribution to security of supply and compatibility with our climate goals. As we have probably said at a number of Committees, we do not think that it has a major impact on price, because that price really is dependent on global markets.
+
+Q39 Anna Dixon: Given that tackling climate change, as well as economic growth, is so critical to us, why does Ofgem not currently include the wider benefits of reducing carbon emissions and economic growth in your wider value-for-money and cost-benefit assessments?
+
+Beatrice Filkin: The value-for-money assessments that we are talking about in this report here are the simplest and most basic, in terms of what value you get just by reducing those constraint costs. You are right that they are underestimates of some of the other benefits that are there as well. We have recently produced guidance for network companies about how they can think about the value of the growth benefits alongside that. At the moment, our primary duty is to the consumer, but that is about to be rebalanced so that growth and net zero are equal duties. We are getting ready, with all the companies, to help them get the best local benefit out of this. You may also have seen this week that the industry produced a sector growth plan, about the jobs and local opportunities they can see unfolding as a result of this investment, which we are very supportive of.
+
+Q40 Anna Dixon: How does decentralised generation play into this? Does it help with resilience? In my constituency, we have solar panels going on to schools, hospitals and local buildings. Part of the warm homes plan is to also increase the domestic use of this. How does that help build our resilience while these large infrastructure projects are going ahead at a pace that is perhaps slower than is desirable?
+
+Jonathan Brearley: Decentralised energy has a big role to play in our system. It does help with both cost and security of supply. We have always seen the cost of solar and batteries continuing to come down, and they are competitive options for creating a diverse energy supply.
+
+I have to be frank. This is a very fast-changing system. There will be challenges. As we have pointed out, there are many different sources of energy now, and those need to be managed by NESO. Overall, this is a big contribution to the country’s energy future, which gets us to a more stable place than where we are now, given our reliance on the markets that we rely on today.
+
+Fintan Slye: I would agree with what Jonathan said. The other medium-term thing is that the roll-out of the regional energy strategic plans allows us to look at this in a very structured way and to make sure that the development of those resources in particular regions is appropriate to the energy context of that region, but also fits within the overall national policy objective. That allows us to look at those local resources in a much more joined-up and strategic way going forward.
+
+Q41 Anna Dixon: I do not want to pinch my colleague’s question—and I can maybe hear from your accent—but I understand that some countries, Ireland perhaps being one of them, are doing more to co-ordinate and indeed provide incentives to businesses such as data centres to better invest and co-ordinate in the join-up with renewable projects. Will that local co-ordination be able to push towards a better joined-up approach?
+
+Fintan Slye: Yes. Specifically on data centres, you see many examples around the world. Ireland is one where getting flexibility from those data centres as they connect into the energy system allows you to facilitate them in a much easier way, with less burden on the system and therefore fewer costs for consumers at the end of the day. Those are some of the things that we are looking at and talking to both colleagues here about.
+
+Anna Dixon: I am sure that my colleague will want to follow that up, but thank you.
+
+Chair: We will move on to Rupert, then, to look at data centres and other major developments. After that, we will have a short break and then come back on other questions.
+
+Q42 Rupert Lowe: My question is probably for Fintan, but again, Permanent Secretary, you can decide who you are going to sling it down the line to. I have a big thing about data centres. Data centres are going to be the key to the future. I know that we read about a lot of the investment in America. When you look at our investment in data centres versus Europe’s, China’s or America’s, we come out very badly, largely because we have extremely expensive energy.
+
+Then I read that the current Government say that they are committed to the following: more housing, more AI growth zones and data centres, more economic growth, more electrified transport, more electrified heating, more overall electricity supply, more grid infrastructure, more public infrastructure, greater energy security, greater system resilience, clean power by 2030 and net zero by 2050. That sounds a bit like having your cake and eating it, but that is what they say they are committed to.
+
+Then I read, in articles such as the one in the Telegraph earlier this month, that there seems to be a row going on within the Government about whether it is energy security or delivery of net zero that comes at the top of the agenda. There have been some criticisms, by the way, of NESO. Do you think that the Government really know what they want to achieve? Are they more intent on delivering energy security or net zero within their stated timetables? What do you think?
+
+Jonathan Brearley: That is probably one for me, before I hand over to Fintan. We are very clear that the objectives for the energy system are to deliver our climate goals, including net zero, while maintaining security of supply and minimising costs for customers. There is no doubt that there are trade-offs there, but there are also huge synergies. On the point about data centres, for example, this Department and this Government are incredibly enthusiastic about making sure that we can maximise the value of data centre investment in the UK.
+
+Rupert Lowe: They require cheap energy, Jonathan.
+
+Jonathan Brearley: There are a range of different things that we are being asked for by major global companies on this, and there is huge enthusiasm for the UK, for a number of reasons including our wider regulatory environment. The point is that that can also be a positive contribution to some of the issues that we are facing today. If you could absorb power where there is excess power, for example with a data centre, that could make a positive contribution to the system as a whole. We are clear: we are not underestimating the challenge, but our job is to make sure that we balance those things and deliver all of the goals of Government, and that is what we are trying to do.
+
+Rupert Lowe: I did not ask you if you were clear; I asked you whether you were clear on what the Government want you to achieve, because you take your instructions from Government.
+
+Jonathan Brearley: We are.
+
+Q43 Rupert Lowe: Do they want energy security or net zero?
+
+Jonathan Brearley: We want both, and we are delivering both.
+
+Q44 Rupert Lowe: Does one potentially compromise the other? Fintan, what do you think?
+
+Fintan Slye: I do not think that they necessarily contradict each other, no, and you can see that as we build out more. You need a balanced portfolio of energy resources, but as you can see, volatile gas prices have flowed through into people’s bills. To the extent that we can build out an energy generation portfolio here in the UK that is not influenced by those, that is a good thing and can meet the net zero objective. It is incredibly important that you do both. A pursuit of net zero that does not maintain security of supply will lose the confidence of society, but I think you can do both.
+
+Q45 Rupert Lowe: Tim talked about the price of gas. We are not producing our own gas any more. That is a decision that we have made. There is a lot of confused thinking. Where do the interests of and value to the British taxpayer lie in all this? We see from the NAO Report that people are paying more as a result of the upgrade to the grid and all the incentives to move to net zero, which has become an overarching issue. I am not clear on quite what is prioritised. That is why we need an independent review as to what is going on within your organisations.
+
+Jonathan Brearley: On the macro question of net zero versus alternatives, we need to recognise where this country is today and where it was in 2020 and earlier. We have a large dependency on gas that the resources of the North sea will not be able to fulfil.
+
+Rupert Lowe: Not when you are not drilling for it, no.
+
+Jonathan Brearley: Even with the reserves in the North sea, there will in any case be a need to both import from and rely on global markets. We are now in our second energy crisis. In this and previous jobs, I have had many commentators telling me that gas is going to be cheap. Today, it is incredibly expensive. Ministers are clear on the synergy between a strategy that ultimately diversifies our generation and prevents us relying on one source and one internationally set price versus one that is more diversified. That synergises cost, security of supply and net zero.
+
+Q46 Rupert Lowe: We are not going to get our data centres unless we get the grid connections and get our structure working properly. That is the key. This country will be left behind. It is already happening. You cannot rely on other people’s servers. You cannot rely on other people’s AI. You need your own AI as a sovereign nation. You need to protect your interests through your AI. We cannot deliver that if we do not have an effective grid and a plan to make it possible for people to build them, which I cannot see that we have.
+
+Jonathan Brearley: That is why we are working at pace to make that happen. There is work between DBIST and DESNZ to make sure that we can meet the data centre needs. We are having very high-level conversations with investors to make sure that we can make those circumstances happen. We all accept that we are going to need data centres and that we are going to need AI, not only to provide all the services that customers need but to improve the productivity of our economy, and DESNZ is fully behind that.
+
+Q47 Rupert Lowe: That is why you need your own, because you can build all sorts of bias into AI, which can be beneficial or dangerous. That is why we need it.
+
+Jonathan Brearley: There is a broader debate on that, but I will stick to the energy side.
+
+Rupert Lowe: This is why this is so important. I am not so bothered about the housing developments. I am bothered about the AI.
+
+Jonathan Brearley: We are keen to pursue that.
+
+Chair: People might be bothered about housing developments when they do not have a home.
+
+Jonathan Brearley: We will leave the philosophy of AI and what we need to my colleagues in DBIST.
+
+Chair: Anna Dixon has a follow-up, and then we will have a break.
+
+Q48 Anna Dixon: It is on jobs, which was a point here. While there are lots of potential benefits from this £70 billion, getting highly skilled jobs into all parts of the country is a key priority. What estimates have been made about the sorts of job requirements to deliver on this £70 billion of investment? Are you confident as to where those people are coming from?
+
+Jonathan Brearley: I will say something up front and then hand over to Bea. We are really cognisant of the scale of this investment. As a Department, we are really keen to make sure that we maximise the economic opportunities, so we are working with Ofgem and the network companies to do so. Bea can talk about the plans that were released this week.
+
+Beatrice Filkin: The network companies do their own detailed skills planning. They plan that out as part of our price controls and think about what they need, both directly and in their supply chains. What they have released this week is a view of what opportunities there are for additional really high-value jobs in the UK. They are looking at 210,000 additional skilled jobs by 2035. That is about whether we can get good investment here and build out more high-end manufacturing in the UK. We have a good chunk of that already. We are building on a base, but there is definitely room to grow that as well. What the network companies are saying, together with industry, is that they are ready to look for all the opportunities to do that over the next few years.
+
+Q49 Anna Dixon: What are they doing to make sure that those people are coming through with skills, in terms of working with Skills England and colleges and investing in apprenticeships? Is that part of this plan? I have not seen it.
+
+Beatrice Filkin: Yes, absolutely. All the companies have their own apprenticeship plans, but what they are now coming together and asking is whether they should combine forces here and do some joint training of some of their specific skill areas that they know they will need more of. They have started to develop a plan. They will start presenting it to Emily and me over the next couple of weeks, so that we can think about how we can support that and how it all comes together.
+
+Q50 Anna Dixon: That is the work that nuclear has done. It has said, “As a sector, these are jobs that we need,” and I presume that there would be pretty significant constraints, whether those are in construction, engineering or other skills.
+
+Beatrice Filkin: In my mind, the sector growth plan is an exemplary example of people all coming together. There are manufacturers on that, which have developed the plan together with the network companies and the network associations. They are now committed to moving into a delivery phase. They are going to get a delivery partnership up and running and really try to unlock all those benefits. You need the national plan, but you really need the action locally, which is what we want them to do through this, in terms of thinking about the local economic benefits as well as the local disruption that happens with the project.
+
+Anna Dixon: We all want good, highly skilled jobs in each of our constituencies. Bradford and Shipley have a good tradition of manufacturing, so we would like to get reindustrialisation in the north, would we not, Clive?
+
+Chair: Yes, absolutely. We will now suspend the sitting for a short break until 11.05 am and then come back and continue with our questions.
+
+Sitting suspended.
+
+On resuming—
+
+Chair: Welcome back to our session, everyone. We will continue with questions from Anna Dixon.
+
+Q51 Anna Dixon: I would like to look at why some of the investments that were recommended some 15 years ago have still not been built. You mentioned one of the East Anglian projects; I do not know whether it is the same, but according to the NAO Report, Eastern Green Link 1 and Eastern Green Link 2 were proposed originally back in 2009 and again in 2012, but not finally approved until 2024. There seems to be a failure in the long-term planning for progressing things.
+
+Perhaps, Jonathan, you might start on this. Some of the decisions on these grid investments should have been made some 15 years ago. Why are we still only in the early days of trying to deliver them?
+
+Jonathan Brearley: As the Committee may know, I was involved in some of those original plans that were laid out. If you look back to the mid-2010s—we ought to just talk about the various institutional roles—the picture looked very different from how it looks today. Without a doubt, there was a very wide range of estimates as to how much renewable energy we had on the grid, and the straight cost estimates were very low. There was a decision made in 2015 to move to something that was more market-based and less forward-looking in terms of strategic planning.
+
+To be frank, the big lesson that this Report highlights, which we accept, is the need for strategic planning not only for the grid but for the energy system as a whole. The work that we have done through the strategic spatial energy plan, for example, is what we need to move to. We need to be able to look ahead, understand the infrastructure needs of our country and make sure we plan those in good time.
+
+That was not where we were in 2015-16. We were in a context that looked very different from the one that we have today, but it is one that we need going forward. Coming back to the point about jobs, to my mind you need strategic planning to make sure that you understand what you can build and whether you can get it consented in time. You need that to make sure you integrate supply chains so you can maximise value for money and you can take advantage of the economic opportunities.
+
+On reflection, looking back, should we have done that differently? We should have, yes.
+
+Q52 Anna Dixon: You were chief exec of Ofgem from 2020 to 2026. You were very much involved in this. As a regulator, you were overseeing this marketised system, which dates back to 1989, with the Electricity Act, when these transmission companies were privatised. I cannot help seeing some parallels with the water companies. We have had Ofwat in here multiple times looking at the failures of water regulation. Again, we are in a situation with water where we have not made those long-term investments, as a country, in reservoirs. This market approach seems to have failed. Would you accept that the market approach has failed to deliver the long-term investments in the grid that have been known about and needed for more than 15 years?
+
+Jonathan Brearley: I should let Tim, as CEO of Ofgem, come in and talk about what Ofgem did, but perhaps I will just talk about what we changed. We changed our approach in 2020. On the back of the increasing ambition of Government on net zero, we commissioned a set of reports that began the strategic planning process.
+
+We commissioned, first of all, a review of the network. We commissioned what was called a holistic network design. That was the first time that we looked ahead and started planning our infrastructure properly. We also changed the regulatory regime from one that was incredibly slow to approve projects to one where, as I say, we approved the bulk of projects in one go at one board meeting.
+
+In my time at Ofgem, we corrected the problem. I should not comment too much on the water sector, but we are in a different position as a result. Although there are delivery challenges here, as I said up front, the investment has been unlocked for these projects and it has been unlocked to allow the network companies to move forward.
+
+Tim, I may have stolen all your sandwiches, but if there is anything you want to add on Ofgem’s role, I would be happy to hear it.
+
+Tim Jarvis: We have argued for a while for planning the system. That is not an ideological position; it is simply based on the fact that building out networks takes a long time and that acquiring generation does not take anything like as long. If you are going to match the two, you need to plan the system a bit.
+
+As Jonathan said, during that period we did not have that look-ahead. It is difficult to build out a network when you do not know what you are building it out for. We have tried to adapt quickly when those signals have become clear. If I look back at the 2022 period, the Government at the time increased their targets for offshore wind and procured more during the auctions. We immediately moved to this ASTI process to try to get these projects going and to get those approvals going more quickly. The move to a more centrally planned system—it has already been started, but it is going to be further developed—is going to improve that situation further.
+
+Q53 Anna Dixon: You are saying that you did not know what you were building towards, but we have known for a long time that we needed to have a more diverse mix of energy and to move towards electrification. That is not a short-term—
+
+Tim Jarvis: What I am talking about here is the moving of generation to where the demand is. You need to have a planned system to know where that generation is going to take place, where it is being procured and where you need to build out the network for it.
+
+Clearly, as Jonathan said, we are learning lessons from that period. We are making sure that we are pushing investment and delivery as fast as we can, because that is ultimately what is going to deliver value for money for consumers.
+
+Jonathan Brearley: It is worth saying that the net zero target was taken up in 2019. Big offshore wind targets were set by Boris Johnson in the early 2020s. In that time, we changed our approach. I should also add that we recommended the set-up of NESO.
+
+Q54 Anna Dixon: Yes: maybe too little, too late. It does worry me that that long-term planning was not going on within the Department—regardless, frankly, of what politicians were deciding. This goes beyond political cycles. It is about our energy security. The issues around energy diversification have been known for a long time. Anyway, we will not go there.
+
+Despite the fact that you are talking about strategic planning, again, it is nice that you have started thinking about that, but when will we get an actual strategic spatial energy plan? When is it to be published? Where is the date? We will get the centralised strategic network plan in 2028. That is going to be far too late for anything to do with the clean energy 2030 target, is it not? Why has it taken so long to get to a point where strategic planning is resulting in an actual strategic plan being put together?
+
+Jonathan Brearley: It is worth talking about the versions of that plan that we have already issued. This is looking at the very long term. It will be setting out a network plan based on the Government’s view of what we are trying to achieve. This is not the first time we have done this. Fintan, you may want to talk about the plans that we issued prior to that.
+
+Fintan Slye: Back in 2022, we did the first holistic network design, which looked at how you integrate all the offshore wind. That was in response to the increase in the targets that the Government had made at that time, which Jonathan talked about. We built on that after the “Pathway to 2030” report, which was holistically looking at it.
+
+We have been working on the strategic spatial energy plan for just over 18 months. We have developed a set of pathway options out to 2050. They are with the Secretary of State, who will take a decision in the next while.
+
+Through next year, we will do two things. The first is to consult publicly on that and do a full strategic environmental assessment to set that up through next year once we have the pathway decided. Secondly, we will back-check, feed in and make sure that all the programmes and projects that are under way are consistent with that pathway as selected by the Secretary of State. The centralised strategic network plan that you refer to will be us taking the outcome of that SSEP programme and doing a full recast of the network plan. That will all be on a three-year cycle that we will then go through.
+
+Q55 Anna Dixon: That strategic plan is much more long-term to 2050. Coming back to 2030 and the failure to have a strategic planning approach over the last decade or so, how much more have consumers paid as a result of delays like the ones to the Eastern Green Link projects?
+
+Jonathan Brearley: Our view is that we tackled those and set out those plans in the early 2020s. We set out plans as the goals changed around us. It is hard for us to estimate how much customers would have saved had that infrastructure been put in place.
+
+Q56 Anna Dixon: This may go back to Fintan: in the absence of a strategic plan, how are we continuing to ensure that we are not expanding generation projects faster than grid capacity?
+
+Fintan Slye: While we are moving to do what is formally called a “Strategic Spatial Energy Plan”, we have already started to do strategic energy planning in lower-case letters, if you like. That is through holistic network design and the beyond 2030 pathway, all of which we have published. They are looking at what the long-term needs of the network are, given what we see developing on the generation side.
+
+We have started that, but the strategic spatial energy plan takes that to a new level and looks out to 2050. Since the early 2020s, we have started to do strategic planning of our energy system in a much more structured way.
+
+Jonathan Brearley: That is our point. The SSEP is a product, but it is part of a process to change the way that we approach the grids. Through the clean power 2030 action plan, we have made sure that we integrate that with generation planning, the planning of storage and other things.
+
+We are on a journey. We are not saying we are fully there yet, but it is not the case that we have not learned this lesson. This lesson has been learned and is being implemented already.
+
+Q57 Anna Dixon: I might just turn to Ofgem, to Tim. As an example, on the edge of my constituency we have proposals for an extremely large wind farm on what is locally known as Haworth moor. It is on peat. It is on upland peat bogs. There is a separate issue about the environmental impact of these projects. I want to talk about where these new projects are being located, where they are being commissioned and whether there is confidence that, if they are commissioned, they can contribute to the grid because those grid connections are there.
+
+You are busy with these various allocations and handing out contracts for generation. I am pleased, because I want to see a rapid transition to clean energy. It is something my constituents lobby me about, in terms of the climate emergency. I want to see these and I am very pleased that these auctions are happening, but there is no point in doing these auctions and putting all this money out for new generation if we cannot be confident that the locations where it is happening will have the grid capacity.
+
+How are you—right here, right now, with these allocations—making sure that you have the confidence and that you can give us confidence that there will be a match-up between where the generation is being commissioned and where the grid capacity will come on?
+
+Tim Jarvis: The grid build-out ideally needs to get ahead of the generation. That is the challenge. The ASTI projects are responding to the generation that will come on stream to make sure that we can build out the grid to meet it.
+
+Beatrice Filkin: I will maybe talk a little about the incentives that we put around that, to get the network companies working to deliver. Under the ASTI regime, for example, we have added quite a radical step change in how we are incentivising. The transmission companies are on the hook for substantial penalties if they deliver those projects late. They can get rewards if they are delivered early as well. We are trying to get them to think innovatively to bring them forward.
+
+On connections, as the Committee has talked about, we are rightly concerned about the pace of connections and the offer dates that people are getting. We are consulting at the moment on ratcheting up the incentives on network companies to deliver connections faster, which could involve paying damages to consumers if they are delivering them later than the offers they provided. We are also continuing to scrutinise whether the offers that they are giving are stretching offers as well. There is no point in incentivising around a soft date.
+
+Q58 Anna Dixon: Sorry, that was quite technical. Who is making the offers to whom? It just goes to this point about there being many players here. I worry about the co-ordination. If we look back, we have seen the consequences of poor co-ordination. It falls to consumers to pay for the consequences because we are having to turn on expensive gas.
+
+You are trying to co-ordinate between the new generation projects that you are commissioning through the allocation rounds, if I have understood correctly, and having the connectors and grid capacity to take that generation into the grid so that we can benefit from that clean energy. I am still not really confident that the timing is working. When those wind or solar farms are built, the grid and the connectors need to be ready so that we can benefit from that cheaper clean energy. I do not know, Jonathan, whether you can give me this assurance.
+
+Jonathan Brearley: I am happy to come in. There are a number of different aspects to this. If we take the wind farm that you are describing, first of all, we have to make sure that the network is built. That is done, at the transmission level, through the regulatory processes that we have talked about, but Ofgem also has its own local network processes to make sure that the local network can cope with it. When you are a project, you go to that local network, and part of your due diligence should be to look at the grid and see where you think there is capacity. Ultimately, through the SO and the distribution companies, you get a connection offer that gives you a date.
+
+There are two parts to that. That is the first part. What we have been doing is clearing out that queue to make sure that that connection date can manage the aspirations that generators have. The second part is what Bea is describing. When you get that date, we need to make sure that the network companies meet it. One of the things that Ofgem is looking at is how to ratchet up the incentives to make sure the distribution companies, the local networks, play their part in making sure that people get connected on time.
+
+There are a number of different aspects, but it really is about, first, getting the grid built and, secondly, making sure that you have the right incentives for the companies so that they improve their customer service and do what the generators need them to do.
+
+Q59 Anna Dixon: Whose responsibility is the date of that local connection? Is it the TSO’s?
+
+Jonathan Brearley: It is the local networks, in that case, that will come back with their connection offer, but that is dependent on NESO and the transmission companies.
+
+Q60 Anna Dixon: I still feel confused about the many different players in this, and the confidence we can have that the investments that are being made in generation are going to line up in a way that they have not done in the past, and that we are not going to be in a position where these constraint costs go up, if anything, rather than down, which is what we want.
+
+Jonathan Brearley: The major change that we think we have made is to introduce that strategic planning and put the investment in place. We accept that there is a big programme here and we need to manage the risk of that programme to get it implemented on time.
+
+The other aspect—this is for the regulator—is to make sure that the companies are then incentivised to do their job. When you are talking about wind farms of the sort that you are describing, it is also about the effectiveness of that company, their customer service and their ability to work with their customers. I am, again, eating Ofgem’s lunch here, but my experience is that this needs to be looked at really carefully.
+
+Q61 Chair: Coming back to the point about confusion, we are all confused, to a degree, about where responsibility lies. We are coming back to the key point that we started off with. When we have this grand plan that you are going to produce, will it make it clear where the responsibility for each element is, what the potential is for failure to happen and who is responsible for that if it happens? Will that be laid out very simply so we can all understand it, as well as people outside watching?
+
+Jonathan Brearley: We are certainly very happy to lay all that out. We will perhaps come back to the Committee on how. Part of that will be in the spatial energy plan, and part of it will be in the policy and regulatory documents that we release. We should lay that out; we are happy to.
+
+Q62 Chris Kane: To pick up on that point, the Chair was asking for something simple, but I heard you say that that would be spread over multiple documents. Just to be clear, we are looking for something simple that we can see in one place, not something where we have to consult five or six documents to get the full picture.
+
+Jonathan Brearley: I will commit to giving you that, and I will come back to you on specifically how later on.
+
+Chair: That is really helpful. Thank you for that, Chris.
+
+Q63 Rupert Lowe: My key question for all of you, having listened this morning, is what you will do to improve your oversight of grid upgrades as a whole. What will you all do to improve and to ensure that you deliver what you say you will deliver? As Anna says, it is very confusing for Members of Parliament. It is our job to try to make sure that this does not go wrong for the public. What are you going to do? That is my question.
+
+Jonathan Brearley: This is something that we take incredibly seriously, because at the end of the day, the Department is driving a major infrastructure upgrade. It is worth saying what we have done. Through the Clean Power Unit, DESNZ’s delivery and monitoring of both generation and networks is in a very different place already. Perhaps Emily can come in and explain how we are going to reinforce that. We already have data coming into the Department in a way that was not around five years ago, say. The job now is to expand that and to make sure we have full oversight not just of the networks, but of generation.
+
+One thing we have not talked about here is that there are network delays, but there are challenges for generation projects as well. We need to co-ordinate that. Emily, perhaps you would expand.
+
+Emily Bourne: This is one of the recommendations from the NAO Report that has been very helpful because, as Jonathan says, we have been on a journey here. Historically, the Department has never tracked the delivery of individual network projects. Over the past years, we have been doing that as part of the networks programme, getting quarterly data in from the TOs. The NAO Report acknowledged that we had made progress and pointed to areas where we can go further.
+
+We are looking at how we build up the skills in the Department, increase the amount of information we get from the transmission companies, get the right people to interrogate that information more intensely than we can now and, as Jonathan says, strengthen our ability to look across the generation portfolio, the grid portfolio and how the two link up.
+
+Q64 Rupert Lowe: Looking at all your CVs, I see that most of you, with the exception of Fintan, do not have any engineering skills. You do not have engineering knowledge. A degree in history or Greats is not necessarily going to qualify you to oversee this. Do you need to strengthen your engineering skills across all your various Departments?
+
+Emily Bourne: Those are the sorts of skills that we are looking at as part of this project.
+
+Q65 Rupert Lowe: This goes to our point about responsibility. You cannot hold people responsible if you are relying on consultants. You are going to blame consultants. The people who are responsible for delivering it manage to slip the noose by having a consultant to whom they have paid a fee. Do you need, in senior positions, to have more engineering skills? That is the first question.
+
+Jonathan, you mentioned earlier that you are keen to get greater prioritisation; I think that is what you said. Are you going to get that greater prioritisation? Are you going to get that from the Secretary of State? Does the Secretary of State know about and agree with what you want to prioritise?
+
+Jonathan Brearley: Perhaps I can pick up the second question first. If you look at the 2030 action plan, that was all about a first set of priorities for generation. That really did, for the first time, set the direction for the industry. That has driven a huge amount of change and investment. Yes, we will get that prioritisation.
+
+I am not going to pretend that it is all easy, and I am not going to pretend that it is all national either. There are local and regional trade-offs that need to be made, as you said, between housing, other public infrastructure and indeed local investment. We need to work with mayors and strategic authorities as well to do that.
+
+On the first question, if you look at the picture for the Department—I am six months in—we are going to need to strengthen our delivery capability overall. I have already come in front of this Committee on Sizewell and other major projects. DESNZ is moving to become an infrastructure delivery Department. That is going to mean reinforcing our engineering skills and our major projects and programme skills to make sure, across the board, that we have a different approach. That is something that we are looking to build.
+
+Q66 Rupert Lowe: Are we going to continue to see you turning off generation capacity even though there is a risk of delays within the delivery of the various nuclear projects that we are doing? Is that a wise thing to be doing? Do you not want to know that you have the nuclear coming online before you start turning off other generation capacity, which I think is in your plans?
+
+Jonathan Brearley: I am happy to come back on the specific point, but all of this is the co-ordination job that we need to manage.
+
+Q67 Rupert Lowe: Please indulge me; I have this question for you. If you had gone down a modular nuclear route rather than a solar and a wind route, first, would you have managed to deliver the projects more easily with a view to planning and, secondly, would you then be able to manage the grid with a greater degree of certainty?
+
+Jonathan Brearley: One thing that I would love to make clear is that we share your enthusiasm for small modular nuclear. We are working hard with Rolls-Royce and others—
+
+Rupert Lowe: My question was whether it would have been easier.
+
+Jonathan Brearley: I will come on to that, I promise, but it is worth saying what we are doing. We are working with Rolls-Royce on the first SMR. We have an advanced nuclear framework to get other advanced nuclear projects into the country. Indeed, we are also working to develop fusion, which has a lot more momentum, frankly, than I have ever seen in its history.
+
+With any technology, though, there are pros and cons, and there are risks. DESNZ’s approach has always been to have a diversified portfolio. That is what we are pursuing. We have already been asked about local energy, for example. We think that that is a big part of the mix. Through all of this, rather than relying on one technology, we have decided to diversify and run a wide range; we think that that is more effective. Fintan, I do not know whether you want to come in.
+
+Fintan Slye: I will just build on that, Jonathan. Diversity is incredibly important within the generation fleet. Nuclear remains a core part of all our plans going forward. Both large-scale nuclear and small modular reactors are central parts of all those plans going forward.
+
+As to whether we could have or should have moved quicker to them, small modular reactors are not deployed at scale anywhere yet. As I say, having that diversity of portfolio is important for resilience, security of supply and ensuring that we make the transition in a managed way.
+
+Q68 Rupert Lowe: Fintan, we can debate the benefits of diversity as long as we want, but I think you would agree with me that in your diversified energy portfolio there is now less certainty of generation from wind and solar than there is, ultimately, from either gas or coal-fired power stations. The whole problem that we face is a huge number of connections and much more uncertainty than we used to face.
+
+Fintan Slye: One thing we take very seriously is making sure that as you diversify that portfolio, you can manage it and keep the lights on no matter what weather conditions you have and no matter what else is going on in the world.
+
+The clean power advice is a really good example. While gas usage in the overall portfolio goes down from what it is today, which is close to 30%, to probably 5% in energy terms, the gigawatt capacity that is there is still broadly the same as it is today. That is because we recognise that there are times when the sun does not shine and the wind does not blow, and we need to make sure that we keep the lights on through those times. Storage is really helpful in that regard. New nuclear is really helpful in that regard, as is gas.
+
+Q69 Rupert Lowe: You are going to find it hard to convince me that you do not have more free radicals in your gamble bag now than you used to have. I am not sure I am happy with that.
+
+Finally, as a matter of interest: Emily, as the senior responsible owner of the electricity networks programme, how much of this £70 billion spend is accountable down to you?
+
+Emily Bourne: The accountability for the spend has to be with the transmission owners that are delivering the projects themselves. They have to be accountable and responsible for that delivery. There is so much that sits within their sole control that we could not and should not be taking off them.
+
+Ofgem then has the role to regulate that and to apply the regulatory regime appropriately in how well they have delivered, but yes, it sits with the transmission companies ultimately.
+
+Q70 Rupert Lowe: Although you are not directly accountable for it, what you are saying is that you are holding the companies to account for it.
+
+Tim Jarvis: To be fair, it is very much Ofgem’s role to hold those transmission companies to account for that spend. That is an envelope that we set through our price control based on their business plans and the need. We monitor that and hold them to account for delivery and cost.
+
+Jonathan Brearley: As the Department, we hold the plan as a whole.
+
+Q71 Chair: Following up on that issue, do you have sufficient powers to make sure that the transmission companies do what you want them to do? In the end, they are independent companies. If they decide that it is in their interest not to do it, can you make them?
+
+Tim Jarvis: I will ask Bea to get into the detail, but our job is to make sure that they are not being incentivised not to do what we want. Bea, do you want to talk about some of the incentives and penalties?
+
+Beatrice Filkin: Yes, and you might want to add the position on what you are looking to do in terms of enhanced powers as well. First of all, on the powers that we do have, we have very strong financial levers that we can apply—we have the penalties on delivery that I talked about—but we also have enforcement powers. Take the recent Harker case, for example: that was a substation that was not delivered in the way it should have been. We fined the transmission companies for poor performance on that.
+
+We have those powers. We use them. We constantly monitor what they are doing to make sure that they are delivering for consumers.
+
+Q72 Chair: Are there any examples where those powers have not worked?
+
+Beatrice Filkin: If you are asking whether we are confident that our current set of incentives will deliver everything that we need in the clean power plan, the NAO Report is very sensible on that, in saying that there is always a balance or a trade-off assessment about how we ratchet up delivery incentives. We are in agreement with the recommendation that we have to keep monitoring how that is working. We will do that, as we go through this regulatory period, to see whether that balance is working. We are in a very substantial change environment of the build-out of a network that we have not seen before, so we are constantly monitoring whether it is working.
+
+Q73 Chair: You may feel that you have to come and change those incentives or penalties.
+
+Beatrice Filkin: We have changed them already. Jonathan talked about the ASTI programme and how we uplifted how much risk we were putting on to transmission owners. When we then committed to this current regulatory period, we increased that risk again. We removed numbers of excusing events from them. We said that it was now their job to hold all of the risk for managing their supply chain and the system access points that Emily mentioned. We are constantly ratcheting up how much risk we put on to them, because we think they are the right people to manage that risk, effectively.
+
+Q74 Chair: Is NESO happy with all of this? Is it working?
+
+Fintan Slye: Yes. As Tim said, it is for Ofgem to hold those transmission companies to account.
+
+Chair: You are happy with the system. It is working.
+
+Fintan Slye: Yes.
+
+Jonathan Brearley: These guys have covered it. We will come back and debate the broader powers that we might want the regulators to have in the context of the Ofgem review, but they are more focused on different parts of the market.
+
+Q75 Chair: Coming back to Ofgem, you are focused on trying to get things done, shall we say, as quickly as possible to deliver 2030. I think you have accepted that in order to speed things up and get things moving, that will mean that your oversight of costs may be slightly reduced. Is that fair to consumers?
+
+Tim Jarvis: There is a balance here. The NAO Report says that what will ultimately benefit consumers is delivering these projects. We know that if these projects are not delivered, it will have consequences for consumers and the bills that they pay. That is very much at the centre of everything that we do. That is not to say that this is at any cost. We scrutinise costs carefully, but we are keen to make sure that we get these projects under way and that the incentives and the penalties are in the right place, so that the risk lies where it needs to lie and not with consumers.
+
+Yes, we have pivoted our approach. Ultimately, this Report shows very clearly that what will benefit consumers is building out this network and getting it delivered as quickly as possible. We are focused on that but, through our price control mechanisms and our other regulatory powers, we keep a keen eye on the costs.
+
+Q76 Chair: Do you have enough capacity to do this? If there is greater pressure to do things more quickly, have you increased capacity?
+
+Tim Jarvis: We have, within the organisation, put more people on this sort of work, precisely because it is so important.
+
+Q77 Chair: Do you have sufficient capacity now to do this in a timely way and keep control of costs?
+
+Tim Jarvis: Anyone in my job will make a plea and say they need more. I think we have the budget that we need and the resources that we need to hold these companies to account. That is what we are doing.
+
+Q78 Chair: I just want to come back to fairness to consumers. If they do not feel they are getting enough, the transmission companies will appeal, will they not? They will say, “You are not treating us fairly, Ofgem. We are appealing. We want it looked at again.” They could go to court through the legal process. They will always do that if they think they can get more money with a better settlement.
+
+On the other hand, the poor old consumer relies on organisations like Citizens Advice, which is excellent but is without the same resources. It is an organisation that is there to help consumers, but it is not well funded and well resourced in the way that the companies are. If Citizens Advice feels that consumers are getting a bad deal from one of your recommendations, it is not going to take you to court because it cannot afford to lose. That is an unfair balance in the system, is it not?
+
+Tim Jarvis: Our primary duty is to consumers. That is what drives everything that we do. We make the judgments we make and decide on these price controls in what we think is the interest of consumers.
+
+The point that Citizens Advice is making—I am sympathetic to this—is that the way the appeals mechanism works means that it is difficult for somebody perhaps to come in on the other side. There are things that it is asking for, and the Department will ultimately need to take a view on about how this appeals process works and how we can perhaps get those different voices in the room. As Ofgem, we are there to represent consumers. That is what we always put at the heart of our decisions, but I understand Citizens Advice’s arguments on the way that the appeal process works.
+
+Jonathan Brearley: We understand Citizens Advice’s position. I should point out that it is not just the consumer groups—suppliers, historically, have appealed price controls on behalf of customers—but we would always be keen to look at any proposals that strengthen that, accepting that Ofgem has a balanced job to do. I may be stretching into my old role again, but as Ofgem we looked at ways of putting checks and balances into the price control process, including consumer reps and consumer voices in the process itself.
+
+Q79 Chris Kane: I would just add that there is a devolved element around the consumer. For example, Consumer Scotland exists to help consumers. Can you talk a little bit about how you work across the elements that are devolved? It will be the consumer aspect of that. How are you engaging with the mechanisms of the devolved Parliaments in this area?
+
+Tim Jarvis: Yes, we work and talk regularly to the devolved Administrations and those bodies that represent things that are devolved. Fuel poverty is devolved in Scotland. We talk to Consumer Scotland on a regular basis. It is part of our consultations. We work with Consumer Scotland and ensure that it is able to respond to our consultations and have input into our decisions.
+
+Q80 Chris Kane: Do you work with them as thoroughly and in as integrated a way as you do with organisations within England?
+
+Tim Jarvis: Yes.
+
+Q81 Chris Kane: It is not just a consultation. I get the sense that this is one United Kingdom, so it is about the way that we talk and interact with each other.
+
+Tim Jarvis: We have very close links with bodies in Scotland. We have a big office in Glasgow. We have a large number of staff based there. We put just as much energy into working with those bodies as we do with those that represent England only.
+
+Q82 Anna Dixon: I have a quick follow-up on consumers. As you will have seen, we have received evidence from Citizens Advice. Among the things that it says would make a difference to its ability to challenge strongly on behalf of consumers would be not facing liability to pay statutory legal fees, should the decision not be in their favour. I realise that this is a policy matter, but I hope you will take that away, draw it to the attention of Ministers and look at whether consideration could be given to waiving their appeal fees.
+
+The other thing that Citizens Advice put a great emphasis on, which we touched on earlier in the hearing, was transparency. As the Chair suggested, you are making quicker decisions with pre-approvals, and that means perhaps less detailed scrutiny in advance, but it also puts even greater emphasis on these project-level costings.
+
+Again, I do not want to overplay the water sector analogy, but one of the things that has been clear through the investment cycle is that a large envelope is set at a high level, but there is really very little scrutiny of actual delivery of value for money at a project level. Bea, is this covered by what you said about the report coming in February? Is that where consumer organisations like Citizens Advice and Consumer Scotland are going to get a chance to see and be able to challenge better that cost?
+
+Beatrice Filkin: Absolutely, yes. That is where we will set it out at whole-system level and for individual projects, showing what we think they are costing. This is what the NAO Report is very clear about. There is a lot of information out there, but it is not very usable; it is not very easy to read.
+
+We publish our project assessments. We set each budget for the individual projects when they get to maturity. We have done that for six of the big projects so far. Just to give you a scale of the scrutiny that we are putting them under, we have disallowed over £600 million of the costs that were asked for those projects.
+
+I do not quite agree with the characterisation that we are taking our foot off the scrutiny on costs. We have ratcheted up the scrutiny on delivery as well. We have a much larger team than we had, say, two years ago scrutinising that.
+
+Q83 Anna Dixon: Will these estimates include the impact on consumer bills?
+
+Beatrice Filkin: Yes, we are expecting there to be a degree of bill impact assessment in there.
+
+Q84 Anna Dixon: Those were the main points that we received in evidence from the consumer side of things.
+
+Since the NAO did its work, there has been an announcement around this idea of GB Grid. We have these private companies, the three with geographical monopolies, the transmission owners. The idea is that there may be an opportunity to have a bit more competition by getting GB Grid to be a player in this. Jonathan, could you just explain how GB Grid is seen to be able to help speed up some of the delivery of the upgrades to the grid that we have been discussing in this session?
+
+Jonathan Brearley: Yes. The Secretary of State and the PM have been clear that they would like to see greater public control of our energy system as a whole. There are two facets to this. The first is something that all three organisations have been working on for some time, which is how to get more diversity of providers so that you are not relying on three providers for transmission, for example. We have a regime that will allow us to do that, which has been through legislation and which Ofgem and NESO are implementing. It basically means you can take part of that build programme and give it to someone else. GB Grid is aiming to become a credible player in that market.
+
+The second part that is a big challenge—it comes back to the conversations that we were having on connections—is about building that localised connections infrastructure. Again, we think that there is a role for a public body in both of those. That is where GB Grid will start, and then we will shape it from there.
+
+Q85 Anna Dixon: Quite a number of industry players also put evidence in. What comes through, whether it is from Energy UK, Solar Energy UK or Octopus Energy, is that it is about getting the right assets built in the right places at the right times.
+
+Jonathan Brearley: Yes, absolutely.
+
+Q86 Anna Dixon: It seems that the TSOs have not had a great track record. Given that this is a recent announcement, do you have any sense of when bringing in GB Grid could at least start to have some impact on the problems that the NAO Report has so clearly highlighted?
+
+Jonathan Brearley: We are still working through that. It is setting itself up. It has two very clear goals that it needs to pursue. Part of this will depend on when we complete the grid and the options that are available.
+
+Q87 Anna Dixon: In terms of these other constraints, do you see GB Grid playing a role in addressing the things that we have talked about around skills and supply chain constraints, planning and community support and the availability of system access? It seems to me that those are challenges that will face any player.
+
+Jonathan Brearley: The only thing that I would point out is that planning and system access are external processes or technical things that we have to work through as part of this implementation. GB Grid is part of Great British Energy. Great British Energy does have a fund focused on the supply chain. That comes down to two things: it is about the point you made, rightly, about getting the right skilled jobs out of this, but it is also about making sure that if we are building this here, we can, underneath that, build an industry and start selling things to other countries at the same time.
+
+Q88 Anna Dixon: When we have looked at other projects—nuclear decommissioning and others—it is about having co-ordination of suppliers and ways of contracting with them in long-term alliance partnerships. Is that something that you are pushing in your major projects approach? Are you learning the lessons from the many failed infrastructure projects that this Committee and our predecessors have spent many hours considering?
+
+Jonathan Brearley: The short answer is yes. It all comes back down to the architecture of having a strategic plan, having a pre-planned set of projects, integrating a supply chain and then making the most of it for the UK. That is part of the whole arc of what we are trying to do. We are really keen to make sure we do that.
+
+Q89 Anna Dixon: The idea behind GB Grid is to make sure that we speed up those investments and to ensure that how we deliver them means that they are creating jobs in the UK and that the economic benefit of those investments is accruing to the UK.
+
+Jonathan Brearley: Part of Great British Energy is entirely focused on that.
+
+Q90 Chair: Will this complicate the attempts to co-ordinate? It brings an element of competition into these issues, does it not? Currently, the transmission companies are monopolies, so they can collectively work together or be asked to because it does not affect competition. Does GB Grid compromise that in any way?
+
+Jonathan Brearley: I do not think it does. Again, once a project is allocated, you then pursue that project. We would still expect the arrangements around the supply chain across the industry to be maintained. On the last part about grid connection, we do need to diversify that, because that will give us volume. Again, that will not complicate the sort of things that we are doing here to try to make this an integrated programme; it will help.
+
+Q91 Chris Kane: I want to go back a couple of questions. Chair, I was listening to you when you were asking questions about how the regulatory powers are used. I am reminded of an HMRC hearing that we had, in which we were talking about a power that HMRC had had for years but not used. This is possibly a Tim question: do you have any regulatory powers for which the threshold for deploying them has been met, but where you have not done so? Can you help us understand why those powers would not be deployed? It could be that the threat of the power is not the same as deploying the power.
+
+Tim Jarvis: There are two types of powers that I would distinguish. First, there are the incentives and penalties that you put in the price control system, which try to drive the behaviours of the transmission companies and get them to do what we need them to do, which is to deliver on time and to budget. We can create a regulatory environment that does that by making sure that they are sufficiently incentivised, and sufficiently penalised if they do not do what they need to do.
+
+The other powers that we have, which are after the event, are around enforcement. We have used those; Bea gave an example earlier. That will depend on the evidence and the threshold. We will always take those decisions and make maximum use of our powers to do whatever we need to do to get the right benefits for consumers.
+
+Q92 Chris Kane: I absolutely get that. There will be scenarios where you could use a regulatory power and the threshold to use it has been met, but you choose not to do so. Is there an audit trail for when these decisions not to use a power, when you could have done, are taken?
+
+Tim Jarvis: We are very committed to being as transparent as we can possibly be about the decisions that we make.
+
+Chris Kane: I am talking about the decisions that you do not make.
+
+Tim Jarvis: Yes. I am just trying to think through a scenario where that would play out, and I am struggling to think of examples, to be honest.
+
+Q93 Chris Kane: If I think back to the HMRC hearing, it was about putting companies into special measures that are not doing things properly. Oversimplifying it, it is a way of giving HMRC a way of saying, “We do not like what is happening. We are going to take control and we are going to do it.” Ultimately, if a company is not going to deliver on something—if it is not going to do what it needs to do by the time you need it done—do you have a power to say, “We are now going to pre-empt this. This is not going to work. We are not going to get the infrastructure by 2030. We are now going to have to step in ahead of the problem happening and make sure this gets back on track,” rather than what I am hearing across this hearing, which is, “No, we are doing all we can to stop it happening, but if it does, we will then jump in and do something”? Do you have the ability to say, right now, “We think, with all our years of experience, that by this date this thing is just not going to get delivered. We are going to have to step in now. Otherwise, we are going to be mopping up a mess if we leave it much longer”?
+
+Tim Jarvis: These are massive investment programmes. It is £70 billion; it is four times as much investment as there has been before. There are big companies running these programmes. We scrutinise them very carefully and we hold them to account on individual projects. The work that Bea is doing and that our team does involves monitoring those projects from the beginning. We have powers to make sure that those projects are being delivered and that where companies fail, they face the consequences of that financially.
+
+Q94 Chris Kane: So if you see the car crash happening, you are not able to jump in. If you see the car crash happening, you simply have to wait for it to happen, and then you can step in and clean up the mess.
+
+Tim Jarvis: I would not say that that was the case, no. We are involved in projects from the beginning, in terms of our scrutiny of them, and we monitor them very carefully. We have that visibility through the scrutiny work that we do.
+
+Beatrice Filkin: This phrase “see the car crash happening” sounds quite passive. Together with the teams, we work very closely with the network companies to get them to talk us through their plans and tell us how they are mitigating the risks. Through Emily’s governance structures, we put pressure on them to improve those mitigations. They hold the skills and the teams to do that effectively, but they need our scrutiny.
+
+Q95 Chris Kane: I am trying not to say “the nuclear option”. Given that oversight is split between multiple organisations, and given the difficulties of understanding that, if a problem does happen do you have an internal measure for working out where the failure was—in what part of the oversight process or where it occurred? Otherwise, you could have five different organisations blaming each other and never getting to the root of it. If a failure does occur and there are multiple oversight partners involved in this, do you have a mechanism to give you assurance after the fact that you know exactly what happened?
+
+Jonathan Brearley: We have integrated governance. We are very clear on our roles and responsibilities. When it comes to regulation, that is clearly a matter for Ofgem. It is for Ofgem to set the incentives and to tackle some of the dilemmas that you are raising around when you intervene.
+
+Q96 Chris Kane: Doctors in the NHS have a no-blame approach to figuring out what went wrong in order to understand it. In Government, civil service and Parliament, sometimes there is a siloed approach and no one wants to take responsibility. I am just trying to make sure that you have almost a no-blame aspect of saying, “Yes, we understand what happened here, and yes, we can work collectively together to make sure it does not happen again.”
+
+Jonathan Brearley: We do. We are keen to make sure that, first, we are transparent with each other and, secondly, we work closely together. This is not a programme that has not had its problems. When we have problems, we look at them and we make sure we learn lessons.
+
+Q97 Chair: I will come to Anna for the last question, but I have one other point. If you have a company that really is not delivering and all your incentives and sticks and carrots are not working, could the project be transferred over to GB Grid at that point? Do you have the power to do that and say, “You get on with it, as the company will not”?
+
+Jonathan Brearley: We are starting to look at competition and connections, but there will be a process to look at what Great British Grid does. I do not want to underplay, though, the complexity of trying to transfer a major infrastructure project between different entities. There are all sorts of risks around doing that. We are very happy to look at that, but at the moment the scope of Great British Grid is the two things that I have described.
+
+Q98 Anna Dixon: I was looking again at figure 8, which is the chart in the middle of the NAO Report that shows the total spend since 2010 with the projections up to 2030. The two things that are very clear are, first, the massive under-investment in any upgrades to the system over that 15-year period and, secondly, the huge uplift—as you say, it is some four times higher—in the level of investment that is going in and is due to go in up to 2030.
+
+In the NAO Report—I hope I am not repeating something that colleagues have already drawn attention to—there was an underspend by these transmission owners of some 20% in the period from 2013 to 2021. Between 2021 and 2025, there was an underspend of 12%. Given the quadrupling of investment that is due to go in in the next few years, what level of underspend are you expecting or will you tolerate?
+
+Again, it comes down to this question: will the regulatory incentives that you are putting in place be sufficient, given the constraints, to give us confidence that that money will not only be spent well, but be spent? I am guessing that this is a question for Ofgem, for either Tim or Bea.
+
+Tim Jarvis: That is exactly the challenge. We are at the beginning of some of these big projects and the beginning of our next price control period. We need to hold the transmission companies to account to make sure that they are spending against their plans and delivering what they have committed to deliver. If they can deliver it cheaper, that is great. If we see underspends, we want them to be through efficiency, not through not delivering what they need to deliver. Part of our price control mechanism is very much about making sure that they are fully incentivised. We have pushed them very hard on that through the price control. If there is a failure is to deliver, the financial consequences will fall on those companies.
+
+Q99 Anna Dixon: Can you answer the point about what you are going to tolerate? I am assuming that most of this 20% or 12% underspend is failure to deliver, rather than efficiency. What level of failure to deliver are you going to tolerate in terms of underspend in this period?
+
+Beatrice Filkin: The thing that we are focused on is the outcome in the regulatory period. What is really important to consumers is to get the constraint costs down—those big costs that are going to hit the system if we do not get this work built. We are interested in whether they are delivering the outcomes as well as whether they are spending the money to do that efficiently. For us, it is less about what underspend we are tolerating than, as Tim said, what they have delivered for that amount of money. That is what we are really focusing on.
+
+We are not pleased with some of the historic track record. In the last regulatory period, the one that has just closed, we saw some underperformance in the build-out of the network. National Grid, for example, has had to pay some incentive penalties. We are closing out that period now. We will see what the final position on that is. We will keep applying those penalties, so that wherever they fail to implement fully what we have asked them to do, they are held to account.
+
+Q100 Anna Dixon: At the end of the day, they are a private monopoly. Your incentives to say, “You have failed; we will go elsewhere,” have until now been limited. Until we get GB Grid, there is no alternative. I am assuming that for this period to 2030—I am not sure that GB Grid will make a massive difference in this time period—we are reliant on these TSOs.
+
+You must have some parameters of tolerance around how much of this £70 billion you expect not to be delivered. You have this risk rating on all these projects. Some of them are clearly not going to deliver on time. From Ofgem’s point of view, do you have some tolerance of what underperformance you are almost anticipating because of the levels of risk that are in these projects, the track record of the transmission owners and the many constraints that they face?
+
+Beatrice Filkin: We are only six months into this regulatory period. We have not conceded any slowdown or acceptance of any tolerance. We are very much committing, through this report as well, to increase the transparency on what is going on. We already produce annual reports on how it is going at the price control level, but we are going to disaggregate that to make sure that people understand what that is delivering for consumers. We will keep holding them to account for what we have set out and what we expect them to deliver through this price control period.
+
+Q101 Anna Dixon: This is £70 billion of investment on consumer bills. Consumers want to know not only that that is delivering cleaner energy, but that it will ultimately deliver lower bills. It is critical that that information be very easily available, not only to Citizens Advice but to all of us.
+
+Tim Jarvis: I completely agree.
+
+Q102 Rupert Lowe: Looking at Anna’s chart—I had missed this—given the level of upgrade spend, are you sure that you have got the budget for maintenance right? It does not look to me as though enough maintenance is being done, given the level of spend. In my businesses, maintenance is very important. If you do not maintain things, they go wrong.
+
+Beatrice Filkin: Maintenance is something that we have a very strong focus on. You were asking earlier whether we have enough engineering resource in our different teams. One thing that we have done in Ofgem is expand our asset maintenance engineering team to make sure that we can do more invasive and practical assessments of whether they are doing enough.
+
+Q103 Rupert Lowe: After all that spend, Beatrice, how come the budget for 2030-31 is down on 2029-30?
+
+Beatrice Filkin: I would have to come back on that specific question.
+
+Rupert Lowe: It does not look right to me.
+
+Jonathan Brearley: Ofgem can follow up with the details of—
+
+Rupert Lowe: The more you spend, the more you upgrade and the more you need to spend on maintenance.
+
+Tim Jarvis: You are then starting to get into the next price control period, in terms of the balance between maintenance—
+
+Chair: It would be helpful to have a specific response on that.
+
+Jonathan Brearley: We will give you a specific response on that one.
+
+Joshua Reddaway: I would just point out that this is in real terms. It will be a constant spend with some efficiency built in for the inflation adjustment.
+
+Jonathan Brearley: We will write back and give you the details.
+
+Rupert Lowe: I had missed that until Anna raised it.
+
+Chair: That brings us to the end of our session today. I thank the witnesses very much for coming. We have had a very good session looking at the importance of upgrading the grid, keeping the lights on and keeping them on at reasonable cost as well.
+
+An uncorrected transcript of this hearing will be published on our website in the coming days. We will then produce a Report, having looked at all the evidence. We have already made certain specific asks today in our questions and comments, which we will no doubt incorporate into our Report, and we will await a response from the Department in due course. One thing that has come out today is the complications about responsibility and accountabilities and trying to make sure that this all works together. That is one thing I am sure we will be going back to in the Report that we produce. Thank you all very much indeed.

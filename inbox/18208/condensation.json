@@ -1,0 +1,360 @@
+{
+  "schema_version": 1,
+  "source_id": 18208,
+  "source_sha256": "37ad8f2c24c8b8a1815313e54f9fc6a857351381097d6034289d51234eedf5f6",
+  "title": "NESO under pressure: culture, connections and the path to Clean Power 2030",
+  "label": "28 October 2026 · Work of NESO",
+  "summary": "The National Energy System Operator (NESO) faced detailed questioning after an independent whistleblowing investigation and scrutiny of operations during extreme weather. NESO’s executives accepted recommendations to fix cultural and organisational weaknesses, defended the control room’s operational performance over the summer, and explained progress and delays in the major connections reform needed for Britain’s electricity transition. MPs pressed them on staff trust, accountability, timings for grid connections, rising balancing costs that hit consumers, and whether NESO has the levers to deliver Clean Power 2030.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Bill Esterson",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Fintan Slye",
+      "name": "Fintan Slye",
+      "role": "Chief Executive, National Energy System Operator (NESO)",
+      "kind": "witness"
+    },
+    {
+      "label": "Kayte O’Neill",
+      "name": "Kayte O’Neill",
+      "role": "Chief Operating Officer, National Energy System Operator (NESO)",
+      "kind": "witness"
+    },
+    {
+      "label": "Melanie Onn",
+      "name": "Melanie Onn",
+      "role": "Member of Parliament and committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Catherine Fookes",
+      "name": "Catherine Fookes",
+      "role": "Member of Parliament and committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Torcuil Crichton",
+      "name": "Torcuil Crichton",
+      "role": "Member of Parliament and committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Graeme Downie",
+      "name": "Graeme Downie",
+      "role": "Member of Parliament and committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Mike Reader",
+      "name": "Mike Reader",
+      "role": "Member of Parliament and committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Bradley Thomas",
+      "name": "Bradley Thomas",
+      "role": "Member of Parliament and committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lizzi Collinge",
+      "name": "Lizzi Collinge",
+      "role": "Member of Parliament and committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Wera Hobhouse",
+      "name": "Wera Hobhouse",
+      "role": "Member of Parliament and committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Sir Christopher Chope",
+      "name": "Sir Christopher Chope",
+      "role": "Member of Parliament and committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Claire Young",
+      "name": "Claire Young",
+      "role": "Member of Parliament and committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "NESO",
+      "definition": "National Energy System Operator, the public body that plans and runs Great Britain’s electricity system and strategic energy planning."
+    },
+    {
+      "term": "Clean Power 2030",
+      "definition": "The UK government goal, informed by NESO advice, to decarbonise electricity by 2030 and greatly expand low-carbon generation."
+    },
+    {
+      "term": "connections queue",
+      "definition": "The list of projects waiting for permission and grid capacity to connect new power generation or storage to the electricity network."
+    },
+    {
+      "term": "constraint costs",
+      "definition": "Extra costs incurred when electricity can't flow freely because of network limits and operators must pay to re-route or turn down generation."
+    },
+    {
+      "term": "operability",
+      "definition": "How manageable and reliable the electricity system is to operate in real time as it changes (more renewables, less fossil fuel)."
+    },
+    {
+      "term": "Ofgem",
+      "definition": "The UK energy regulator which oversees market rules, consumer protection and approves NESO’s performance measures."
+    },
+    {
+      "term": "DESNZ",
+      "definition": "Department for Energy Security and Net Zero, the government department responsible for energy policy and decisions."
+    },
+    {
+      "term": "demand-side flexibility",
+      "definition": "Ways consumers or businesses shift when they use electricity to help balance supply and demand, often rewarded by the market."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Opening: the reports and NESO’s response",
+      "takeaway": "An independent review cleared NESO of the whistleblower allegations but found cultural problems; NESO accepts seven recommendations and says fixing them is a priority.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We’re here to examine NESO’s work. Fintan, do you want to open?"
+        },
+        {
+          "speaker": "Fintan Slye",
+          "text": "Thank you. The Eversheds investigation didn’t substantiate the four allegations, but it did find organisational and cultural issues and gave seven recommendations. The board accepted all of them and acting on them is a priority for me and the executive."
+        },
+        {
+          "speaker": "Fintan Slye",
+          "text": "Also, Ofgem’s interim review of the June heat event showed it was an exceptional period; despite the pressure, the control room kept supply continuous and frequency within statutory limits."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Given the cultural findings, should you and your chair be more publicly visible explaining NESO’s role and actions?"
+        },
+        {
+          "speaker": "Fintan Slye",
+          "text": "Yes. NESO is a young organisation and we need to be more transparent. I've been increasing visibility — industry conferences, public hearings — and will do more."
+        }
+      ]
+    },
+    {
+      "title": "Culture and whistleblowing: what went wrong and what will change",
+      "takeaway": "NESO admits a feedback and trust problem: staff raised concerns but weren’t always told what happened; NESO has set up forums and committees and will work with unions to rebuild trust.",
+      "turns": [
+        {
+          "speaker": "Catherine Fookes",
+          "text": "Why did staff blow the whistle if there was no substantiated wrongdoing?"
+        },
+        {
+          "speaker": "Fintan Slye",
+          "text": "The report found cultural issues. People felt comfortable raising issues, but we were poor at closing the feedback loop so people didn't always see how concerns were handled. We must fix that."
+        },
+        {
+          "speaker": "Catherine Fookes",
+          "text": "What concrete steps have you taken already?"
+        },
+        {
+          "speaker": "Fintan Slye",
+          "text": "We set up an engineering forum chaired by our chief engineer to triage operational concerns, created a senior operability committee to escalate issues to the executive, and are engaging unions and external experts."
+        },
+        {
+          "speaker": "Kayte O’Neill",
+          "text": "Trust is vital. If one person feels forced to go outside to be heard that's one too many. We’re working to show behaviour change and better support, especially for the control room."
+        },
+        {
+          "speaker": "Torcuil Crichton",
+          "text": "Some whistleblowers say the 'safe to say' programme is a joke and staff get beaten down. Do you have staff confidence?"
+        },
+        {
+          "speaker": "Fintan Slye",
+          "text": "I believe I have staff confidence overall, based on surveys and engagement, but the report made clear the seriousness of pockets of distrust and we must remedy that."
+        },
+        {
+          "speaker": "Torcuil Crichton",
+          "text": "Do you speak to trade unions?"
+        },
+        {
+          "speaker": "Kayte O’Neill",
+          "text": "Yes. I spoke to unions the day before the report was published and we have ongoing, positive engagement; they challenge us and hold us to account."
+        }
+      ]
+    },
+    {
+      "title": "Control room performance, stress and operational independence",
+      "takeaway": "NESO defends the control room’s handling of the June heatwave, emphasises operational independence, and is adding wellbeing and visibility measures to relieve stress.",
+      "turns": [
+        {
+          "speaker": "Bradley Thomas",
+          "text": "After performance dipped on 23 June, how big is the disconnect between executives and operators?"
+        },
+        {
+          "speaker": "Fintan Slye",
+          "text": "The control room coped admirably during a week of extreme weather. They had the operational independence they needed. The broader disconnect the report described is about communication and feedback, which we are addressing."
+        },
+        {
+          "speaker": "Lizzi Collinge",
+          "text": "Staff say this extreme summer is the new normal. How will you give them confidence to cope long term?"
+        },
+        {
+          "speaker": "Kayte O’Neill",
+          "text": "We’re improving visibility and situational awareness in the control room, offering post-shift support, and redesigning processes. Teams now take many more actions daily than before; we must equip them with better tools and support."
+        },
+        {
+          "speaker": "Bradley Thomas",
+          "text": "How often do executives spend time in the control room to understand pressures?"
+        },
+        {
+          "speaker": "Fintan Slye",
+          "text": "I’m based nearby and visit regularly; senior ops staff spend even more time there. The report has prompted me to spend yet more time listening and following up on issues raised."
+        },
+        {
+          "speaker": "Bradley Thomas",
+          "text": "Are you confident the system will hold this winter?"
+        },
+        {
+          "speaker": "Fintan Slye",
+          "text": "Margins look broadly similar to previous years and we aren’t flagging an elevated systemic risk for winter. The control room will issue margin notices when operational reality calls for them."
+        }
+      ]
+    },
+    {
+      "title": "Connections queue reform: progress, delays and what went wrong",
+      "takeaway": "NESO says connections reform is essential and progressing, but complex projects delayed phase 1 offers; they have new executive governance, and phase 2 aims for end of March 2027.",
+      "turns": [
+        {
+          "speaker": "Mike Reader",
+          "text": "Connections reform is critical. Are you going to meet the phase 1 deadline at the end of October?"
+        },
+        {
+          "speaker": "Kayte O’Neill",
+          "text": "We’re working customer-by-customer. Most offers are out, but a small number of very complex projects remain in detailed conversation. Some single-digit discussions may continue past the deadline."
+        },
+        {
+          "speaker": "Mike Reader",
+          "text": "Why were you surprised by the scale of re-study work?"
+        },
+        {
+          "speaker": "Kayte O’Neill",
+          "text": "Once the queue was published we saw much more storage and hybrid projects than expected. That raised re-study needs to understand the network build required."
+        },
+        {
+          "speaker": "Mike Reader",
+          "text": "What have you changed to stop this repeating?"
+        },
+        {
+          "speaker": "Kayte O’Neill",
+          "text": "We’ve adopted more collaborative, command-style governance with twice-weekly executive meetings, faster escalation routes with DESNZ and Ofgem, and improved project controls and quality checks."
+        },
+        {
+          "speaker": "Claire Young",
+          "text": "Why can’t NESO prioritise community energy connections?"
+        },
+        {
+          "speaker": "Fintan Slye",
+          "text": "We can’t prefer projects by ownership type; that would be discriminatory under current policy. Government would need to change policy to prioritise community schemes."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Will you publish costs for undergrounding vs overhead lines?"
+        },
+        {
+          "speaker": "Kayte O’Neill",
+          "text": "Yes. We’ve done analysis on costs and timings and will provide the figure to the Committee."
+        }
+      ]
+    },
+    {
+      "title": "Flexibility, markets and the limits of NESO’s levers",
+      "takeaway": "NESO promotes demand and supply flexibility but says market design and government policy must provide the right signals; NESO is an enabler, not the sole deliverer.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Why isn’t demand-side flexibility rolling out faster when you say technology makes it feasible?"
+        },
+        {
+          "speaker": "Fintan Slye",
+          "text": "Technology exists, but commercial signals and market arrangements aren’t fully developed. NESO can enable and trial solutions, but markets and policy must make flexibility commercially attractive for businesses."
+        },
+        {
+          "speaker": "Kayte O’Neill",
+          "text": "We’ve run trials like CrowdFlex and worked on the demand flexibility scheme. The main barrier now is market access and valuation—who pays for flexibility and how?"
+        },
+        {
+          "speaker": "Wera Hobhouse",
+          "text": "Is this a technical problem or a market/regulatory problem?"
+        },
+        {
+          "speaker": "Kayte O’Neill",
+          "text": "Mostly market signals and routes to market. It requires regulatory and market design fixes so flexibility can compete and be rewarded fairly."
+        },
+        {
+          "speaker": "Claire Young",
+          "text": "Where should NESO step in directly and where should it only enable markets?"
+        },
+        {
+          "speaker": "Fintan Slye",
+          "text": "We need to clarify roles with Ofgem and DESNZ. NESO operates the system and produces strategic plans; we enable markets and advise policy, but many levers sit with Government and the regulator."
+        },
+        {
+          "speaker": "Kayte O’Neill",
+          "text": "We publish operability reports and run industry engagements so markets and policy-makers can see what changes are needed to unlock flexibility."
+        }
+      ]
+    },
+    {
+      "title": "Costs, accountability and the way forward",
+      "takeaway": "MPs pressed NESO on rising balancing costs that consumers bear; NESO says costs stem from generation-network timing mismatch and high gas prices, and it will use all levers and partnerships to reduce costs while implementing cultural fixes.",
+      "turns": [
+        {
+          "speaker": "Sir Christopher Chope",
+          "text": "Balancing costs were £1bn in 2013-14, about £3bn now and you estimate £8bn in 2029-30. Aren’t these costs an intolerable stealth tax on consumers?"
+        },
+        {
+          "speaker": "Fintan Slye",
+          "text": "Constraint and balancing costs are a major concern. They arise mainly when generation connects before the transmission is built and from high gas prices. We are working to minimise them, especially by speeding network delivery."
+        },
+        {
+          "speaker": "Sir Christopher Chope",
+          "text": "Can NESO itself cap these costs?"
+        },
+        {
+          "speaker": "Fintan Slye",
+          "text": "Many of the levers are outside NESO—transmission build, market design, policy decisions by Government and Ofgem. We can use dynamic asset management and procurement to reduce costs, but we need others to act too."
+        },
+        {
+          "speaker": "Mike Reader",
+          "text": "A quick word on pay: are you publicly salaried and do you have bonuses?"
+        },
+        {
+          "speaker": "Fintan Slye",
+          "text": "Yes. My base salary is published at £309,000; Kayte’s is in the high £200,000s. Bonuses exist and are decided by an independent remuneration committee against published metrics."
+        },
+        {
+          "speaker": "Bradley Thomas",
+          "text": "Given cultural failings and missed deadlines, will you personally decline a bonus this year?"
+        },
+        {
+          "speaker": "Fintan Slye",
+          "text": "I trust the independent remuneration committee to take an objective view of organisational performance and awards."
+        },
+        {
+          "speaker": "Chair",
+          "text": "To finish: do you accept that you must engage across all levels and that expertise across the organisation will solve these problems if you create the right environment?"
+        },
+        {
+          "speaker": "Fintan Slye",
+          "text": "Absolutely. NESO has brilliant people. My job is to ensure executives listen, close feedback loops, and provide the tools and culture that let staff deliver. We’ll report back to the Committee on progress."
+        }
+      ]
+    }
+  ]
+}

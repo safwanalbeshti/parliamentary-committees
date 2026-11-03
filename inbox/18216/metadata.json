@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18216,
+  "activity_id": 39131,
+  "document_id": 309066,
+  "meeting_date": "2026-10-29",
+  "meeting_date_display": "29 October 2026",
+  "publication_date": "2026-11-02T13:39:34",
+  "title": "Draft Finance Bill 2026–27",
+  "committee": "Finance Bill Sub-Committee",
+  "committees": [
+    {
+      "id": 230,
+      "name": "Finance Bill Sub-Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10007,
+      "title": "Draft Finance Bill 2026–27",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Director of Tax",
+      "organisation": "ICAS"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Technical Tax Manager",
+      "organisation": "Institute of Chartered Accountants England and Wales (ICAEW)"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Technical Officer",
+      "organisation": "Association of Taxation Technicians (ATT)"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Employment Tax Technical Committee Chair",
+      "organisation": "Chartered Institute of Taxation (CIOT)"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Katie Close",
+    "Adelle Greenwood",
+    "Sarah Hewson",
+    "Chris Campbell",
+    "There would also be concerns about the limitations of the software",
+    "Lord Leigh of Hurley",
+    "Baroness Wheatcroft",
+    "Lord Newby",
+    "Lord Carrington of Fulham",
+    "I question whether we will see that full benefit",
+    "Baroness Bi"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18216/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18216",
+  "source_sha256": "2f66747baca9975b59736f1841e473c4e49cce87a8fb01fa2079354248da8a4a",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

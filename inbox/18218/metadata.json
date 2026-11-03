@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18218,
+  "activity_id": 38531,
+  "document_id": 309087,
+  "meeting_date": "2026-10-28",
+  "meeting_date_display": "28 October 2026",
+  "publication_date": "2026-11-02T15:38:16",
+  "title": "Children’s social care",
+  "committee": "Public Services Committee",
+  "committees": [
+    {
+      "id": 430,
+      "name": "Public Services Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10001,
+      "title": "Children’s social care",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Immediate Past President",
+      "organisation": "Association of Directors of Children’s Services (ADCS)"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "CEO",
+      "organisation": "Home and Future (South East Regional Care Cooperative)"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Deputy Chair and Lead Liberal Democrat Member, Children, Young People and Families Committee",
+      "organisation": "Local Government Association (LGA)"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Rachael Wardell",
+    "Lucy Butler",
+    "Gerald Vernon-Jackson",
+    "Baroness Watkins of Tavistock",
+    "Lord Faulkner of Worcester",
+    "There are all sorts of issues",
+    "Lord Barber of Chittlehampton",
+    "Baroness Hollins",
+    "Baroness Redfern",
+    "Lord Mohammed of Tinsley",
+    "Baroness Pidgeon"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18218/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18218",
+  "source_sha256": "769dd7ac16f84f91eddd6ee2f0a00bd5bdb2d83d4786fc27ac2528f20966d880",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

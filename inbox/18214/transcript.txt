@@ -1,0 +1,285 @@
+Oral evidence - 28 Oct 2026
+
+Environment and Climate Change Committee
+
+Uncorrected oral evidence: Dunkelflaute and the risks of electricity intermittency
+
+Wednesday 28 October 2026
+
+10.45 am
+
+Watch the meeting
+
+Members present: Baroness Sheehan (The Chair); Lord Ashcombe; Baroness Coffey; Lord Jay of Ewelme; Lord Krebs; Lord Lennie; Baroness McIntosh of Pickering; Baroness Rafferty; Lord Redwood; Lord Rooker; Earl Russell; Lord Trees; Baroness Whitaker.
+
+Evidence Session No. 6 Heard in Public Questions 65 - 77
+
+Witness
+
+Peter Bingham, Director for Engineering and Technology, Ofgem.
+
+USE OF THE TRANSCRIPT
+
+This is an uncorrected transcript of evidence taken in public and webcast on www.parliamentlive.tv.
+
+Any public use of, or reference to, the contents should make clear that neither Members nor witnesses have had the opportunity to correct the record. If in doubt as to the propriety of using the transcript, please contact the Clerk of the Committee.
+
+Members and witnesses are asked to send corrections to the Clerk of the Committee within 14 days of receipt.
+
+12
+
+Examination of witness
+
+Peter Bingham.
+
+Q65 The Chair: Welcome back to the Lords Environment and Climate Change Committee for the second panel of today, for which we have a representative from Ofgem. Thank you very much for making the time to be with us today. Please do take a minute to introduce yourself.
+
+Peter Bingham: Good morning, everybody. Thank you for the opportunity to come and talk to you today. I am the engineering and technology director at the energy regulator, Ofgem. I am very much on the infrastructure side of the house. I am an engineer, so in some ways I am quite unique in the Civil Service.
+
+I lead a team of engineers at Ofgem. We regulate a very technical industry. In order to do that properly and set effective policy, it is important that we have technical knowhow within the regulator. That is what I and my team bring.
+
+Q66 Lord Ashcombe: Thank you for coming. How substantial does Ofgem assess the risk to be of Great Britain’s increasing reliance on weather-dependent generation and its possible effects on security of supply?
+
+Peter Bingham: We recognise that we are on a transition towards a more sustainable energy system using renewables. Lots of renewables are being brought on to the system. We are very conscious that the intermittency of those renewables requires a dispatchable plant of all different sources in order to fill the gaps and to ensure that demand is secure.
+
+We are well aware of this situation and the need for strategic planning to ensure that we have the right mix going forward so that the long-standing security of supply that we have enjoyed in this country continues into the future.
+
+Lord Ashcombe: As a follow-up, in the gas network there is a one-in-20-year plan of keeping things running. I am not sure that there is the same in the electric world, if I can put it like that. What reliability standards should consumers expect as a greater proportion of renewables is added to the grid?
+
+Peter Bingham: Yes, the one-in-20 standard is very much a gas standard. It is about ensuring that the gas network and supplies of gas can meet a one-in-20 very severe winter situation.
+
+In terms of electricity, the Government set the reliability standard, the three-hour loss of load expectation. That has been with us for 10 years or more. It is how we plan the provision of generation capacity to meet the peak demand that is forecast.
+
+Lord Ashcombe: Do you feel that is a one-in-10-year event, a one-in-20-year event or a one-in-50-year event?
+
+Peter Bingham: The demand assumptions used by NESO in planning and doing its capacity adequacy use what is called an average cold spell, which is a peak winter demand scenario.
+
+Lord Ashcombe: Yes, but over what timeframe? I am looking for the disaster scenario.
+
+Peter Bingham: It is meant to be a worst-case type scenario. It is not the absolute worst case, but it is on the higher end.
+
+Lord Ashcombe: What is the timeframe?
+
+Peter Bingham: There is not such a measure for electricity.
+
+Lord Ashcombe: Do you think there should be one?
+
+Peter Bingham: We have forecasts for the peak demand we need to meet for electricity in this country. Both the network and the capacity are planned in order to meet that peak demand.
+
+Lord Ashcombe: I am still not sure that we have really got there. Taking the gas example, you have something for gas, which today is a very important part of our energy needs and is significantly higher than electricity. For the electric world you are saying, “We think it’s three hours”, but I am talking about when things are really bad.
+
+It could be not only with the Dunkelflaute situation. I am worried about all the interconnectors. As you heard earlier, we have 10% of our power coming in from interconnectors on average through the year. If Europe has a problem and needs its power in Europe, and we have a Dunkelflaute situation, as an example, here, what probability do you work to in order to work out your worst-case scenario?
+
+Peter Bingham: That is the loss of load expectation, which is a probabilistic reliability standard that NESO uses. It runs tens of thousands of scenarios of different weather conditions, generation availability and interconnector conditions in Europe in order to ensure that virtually all bases are covered to meet that reliability standard.
+
+Lord Ashcombe: You are not really giving me the answer that I am looking for. I hasten to add that I do not know the answer. What probability do they work to of the system really struggling?
+
+Peter Bingham: The loss of load expectation is a probabilistic measure. In effect, there is a distribution of likely demand going all the way to very extreme high demand, and then there is a distribution of available generation. Effectively, one is looking to cover the other almost in its entirety.
+
+This loss of load expectation is where there is a gap, where it is deemed that it is effectively not value for money to go beyond that, although as your last witness said, through the capacity market, we have recently procured more capacity than was needed by that reliability standard. It is a very statistical piece of work that they do to work out what plant is needed to cover the vast majority of these scenarios on both the generation and the demand side.
+
+Q67 Lord Redwood: The security and quality of supply standards NESO applies have recently been relaxed. No. 35 and No. 36 are the documents on relaxed thermal and voltage constraints and voltage limits. That was presumably to accommodate renewables. Can you explain it to us? Has it increased the risk for the system as a whole?
+
+Peter Bingham: I am not aware that NESO has relaxed voltage and thermal limits.
+
+Q68 Lord Krebs: Thank you very much for coming to give evidence to us. Our interest is really on ultra-long-duration energy storage for these Dunkelflaute periods, and yet most of the discussion has been about covering shorter-term gaps in wind and solar. Relevant to that, the cap and floor mechanism that you announced in your minded-to decision in June this year is really focused on shorter-duration energy storage rather than ultra long-term duration energy storage.
+
+Why are you not focusing on the ultra-long? What alternative mechanisms are you considering, if any, to support storage solutions that can deliver, for example, 100 hours or more? These may be storage solutions that are used very, very rarely, and therefore the owner of them is sitting on an asset that is not yielding any returns.
+
+Peter Bingham: The long-duration storage window 1 that you just referred to did not limit the duration; it was looking for solutions that would provide storage for eight hours or more. Technologies that could provide a longer duration could come forward, as indeed some did. As part of our draft determinations, we have projects in there that are up to 30 hours.
+
+In terms of the longer duration, I believe that there is certainly a benefit to exploring what you call ultra long-duration energy storage. When we published in the summer, we talked about doing a consultation on how we might evolve the long-duration energy storage for a potential future round, and how to make that more accessible to longer-duration technologies might be considered as part of that design consultation.
+
+The last witness talked about the strategic spatial energy plan. That will, in theory, set out requirements for storage. Certainly, clean power 2030 had a lot of storage requirements set out in it.
+
+To the extent that there is a need for lots of storage on the system to effectively absorb surplus renewables and then be able to dispatch that during periods of lower renewable output, that kind of technology is something that we need to think about collectively with government, considering whether that kind of mechanism is the right mechanism to bring forward that kind of investment, or whether we need to adapt other mechanisms or introduce new mechanisms to encourage that sort of technology.
+
+Lord Krebs: That answer sounds a bit like “watch this space” rather than telling us what the current thinking is.
+
+Peter Bingham: We have done this first round, and we are going to learn a great deal from it. We are looking to consult on how we might take that forward, absolutely.
+
+Lord Krebs: Lord Chair, if I may, I would like to ask a couple of short follow-up questions. One is about scale. Whether it is ultra-long or long-duration energy storage, however you distinguish those, what scale is needed? As I understand it, currently installed LDES amounts to 23.9 gigawatt hours of storage capacity and, as I understand it, the UK’s total daily requirement is about 700 gigawatt hours. It is tiny. What scale is envisaged for storage in the longer term, if we have to meet the capacity demand of the whole country for 10 days or something like that?
+
+Peter Bingham: The answer, in theory, comes through the strategic planning approach. As I say, we are looking to build lots and lots of renewables. We have huge resource for renewable electricity around our shores, and we want to take advantage of that. How will we fill the gaps when renewable output is low? There are lots of different technologies available, ranging from unabated gas plants, hydrogen and power-to-gas to CCUS; there is the benefit of interconnections with other countries. Of course, storage is one of the solutions, along with demand-side response.
+
+In terms of storage, we all agree that we are going to have periods of surplus renewable output. Would it not be great to be able to store all that renewable output and, instead of burning gas, to draw on those stores? Yes, the strategic energy plan should set out a requirement for storage going forward. It is for government and perhaps Ofgem to think about how we then procure that storage.
+
+Lord Krebs: It comes back to the question that we are trying to ask and get an answer to: “How is it planned to fill these long gaps in renewable generation?” The answer that we are getting is, “There are lots of possibilities. We are thinking about it, and we’ll tell you next year”.
+
+Peter Bingham: In the strategic plan, we will set out lots of different technologies and the requirements for those technologies. On the back of that evidence, it is for government then to work out how to convert that into real projects.
+
+Q69 Earl Russell: Thank you very much for your evidence this morning. I was really interested in your responses to Lord Krebs’s questions. I just want to ask you a general question, if I might. I recognise the learning that you and other people are doing in response to the last consultation, but it does strike me that the longer the term that we want energy storage for, the greater the set of problems that we face in achieving that outcome. It is new technology. The cap and floor system does not necessarily work. You are planning it with all the spatial energy plans and everything else.
+
+I want to come back slightly. Lord Krebs talked about ultra-long energy storage duration. Is this a bit of a special problem? Is there a need for a bit of fresh thinking between government and all the various different agencies involved? It strikes me that this could do with greater co-operative work and thinking about it because there is a whole set of particular problems around picking technologies and all the rest of it. That is a bit of a general question, but it is important, is it not?
+
+Peter Bingham: It is absolutely important. As an engineer, I would love to see some of these projects scale up as you described because, indeed, proper large-scale long-duration energy storage requires huge investment, especially if it is molecular, for example if it involves hydrogen storage. Even for water, in terms of pumped storage, those are huge capital projects. It is relatively nascent. In terms of batteries, there is huge opportunity there, but that does not really fit the proper long-duration requirement, as things stand. There is definitely a need for innovation in this area to explore other means of storing energy longer term.
+
+To your question, is there a need for a special mechanism? In terms of renewables, the contract for difference auctions had different buckets for different levels of technology. There was a special bucket for tidal and wave power, for example, because they were very nascent technologies. There may absolutely be a case for something similar in this space to help those technologies come forward.
+
+Your previous witness talked about the SSEP being revised every three years to bring on new technologies that become available, but how do you get those new technologies to a point where you can include them in your plan? You need a seed at some point. Some of this ultra-long-duration storage perhaps needs that kind of seed or a special approach, as you suggested.
+
+Q70 Lord Redwood: Just to clarify my former question, I have just checked on the NESO website to give you a more precise reference. It is GSR035 and GSR036, so the numbers that I thought. It would be a good idea for the regulator to give us a view of the current changes under way at NESO on this, given how relevant it is to the addition of renewables.
+
+The Chair: If the question is not clear to you, would it help if Lord Redwood were to write to you?
+
+Peter Bingham: I am not familiar with what those two things are.
+
+Lord Redwood: There may be others.
+
+Peter Bingham: Maybe I should be.
+
+Lord Redwood: I am not an expert. I have not read all the others. There may be others that are relevant. There is a general question here, which your comment would be extremely helpful on, when you have had chance to reference the documents.
+
+Peter Bingham: I do not have those two modifications. I believe they are probably modifications to the SQSS, which is the security standard.
+
+Lord Redwood: Yes, that is what they are.
+
+Peter Bingham: There is certainly one that we recently approved around voltage. That might be the question. That was to widen slightly the voltage tolerances.
+
+Lord Redwood: Yes, that is one of the ones I referred to.
+
+Peter Bingham: Yes, we approved that. That was to give NESO more operational flexibility within safe operating limits on the 275 kV network. Yes, I am aware of that. That is something that we have recently approved. I am not sure about the other one.
+
+Lord Redwood: It would be helpful if you could be kind enough to write to us about all the developments in these standards over the last year or so. These standards are very critical to what we are inquiring into.
+
+Peter Bingham: Indeed, yes.
+
+The Chair: Thank you very much. We would appreciate that.
+
+Q71 Baroness Whitaker: Thank you for coming in. We are still on ultra-long-duration energy storage, but this time about cost. We have had a bit of evidence saying that current long-duration energy storage projects are concentrated in areas where the grid is already highly concentrated, increasing consumer costs. In addition, quite a few people seem to say that they are missing an analysis comparing all the different technologies. Everybody advocates a portfolio of different technologies, but nobody seems clear on the implications of different technology portfolios for consumer costs. How do you ensure that investment in ultra-long-duration energy storage and low-carbon dispatchable generation will deliver value for money for consumers?
+
+Peter Bingham: That comes back to strategic planning. There are various objectives, but one of the ultimate objectives is to ensure affordability, so to keep bills down. Another one will be around security of supply. Another one will be the environmental impacts of carbon. There are various constraints in defining these pathways. As the regulator, we are very keen that the Secretary of State chooses a pathway that brings the lowest costs to consumers.
+
+Baroness Whitaker: You are still offering various pathways for him to deliver, are you?
+
+Peter Bingham: NESO has been commissioned to set out these pathways. These pathways optimise all the different technologies to meet those various constraints and ultimately come up with a plan that ensures security, delivers our net-zero goals and is affordable. In that pathway, it is optimised.
+
+Baroness Whitaker: While we are waiting for the decision to be made, what is your view about the sufficiency of existing markets? I must say our evidence so far has been nearly unanimous that they are not really working as they ought to, for various reasons, but long-duration energy storage features on almost all of them. What do you think about that?
+
+Peter Bingham: Are we talking about the market for storage or the wider market for provision?
+
+Baroness Whitaker: Storage is the focus of this question. We are looking at Dunkelflaute.
+
+Peter Bingham: The whole long-duration energy storage initiative is a recognition that the market barriers for bringing that investment are there. LDES is about trying to break down that barrier and create a vehicle that will attract investment into long-duration energy storage. As I said, this is the first window. We will be consulting on how we might evolve the rules around that mechanism going forward with a view potentially to opening future windows if the SSEP identifies the need for it. We have moved forward in breaking down that barrier, but there is still further work to do.
+
+Baroness Whitaker: So we should wait to hear a little bit more.
+
+Peter Bingham: We will announce the results of the first window shortly, and we will be consulting on how we take that forward.
+
+Baroness Whitaker: It would greatly help us if we were to get that before we conclude our report. I do not know when it is likely to be.
+
+Peter Bingham: It is this year, but I am not going to promise on behalf of the team. We can certainly write to you and confirm exactly when we are planning to publish our final determinations.
+
+Baroness Whitaker: Thank you very much. That would be helpful.
+
+Q72 The Chair: There is a quick question from me on the cap and floor scheme. I see that no hydrogen storage or thermal storage projects were in the mix announced. Can you say whether they did not apply or whether the mechanism—it is going back to Lord Russell’s questions—is not suitable for their type of investment and delivery?
+
+Peter Bingham: I am not familiar with it, but 170 or so projects applied. I am not sure whether a thermal or hydrogen storage project were included. I do not think so, but I would have to go back and confirm that.
+
+The Chair: Those technologies could provide energy for 100 hours or more.
+
+Peter Bingham: The rules were around more advanced or more mature technologies. They were for TR8 or TR9 technologies. More emerging technologies were effectively excluded from that initial window. It is very much focused on established technologies.
+
+Q73 Lord Rooker: Good morning. Thanks for coming in. I am the oldest and most out-of-date chartered engineer in Parliament, so I do not make any claims. I want to explore with you the role of the interconnectors. In 2025, imports delivered 15% of power, according to our notes, and more are expected by 2032. I understand that five are under construction. One of them is 600 miles. We are not just talking about cross-channel links here. We are talking about some very long interconnectors.
+
+What is the role of security of supply during a Dunkelflaute? We are not worried about cold winter snaps any more. We know about those. It was not a cold winter snap on 23 June, was it? We have to look at other issues.
+
+I also want to explore this. We are vulnerable. We are an island nation. In Europe, I am presuming that they are all land-based. Ours are not. They are under the sea. I want to be able to find out what we would do if we lost the interconnectors because other countries had the same weather as we did and therefore could not send any electricity to us, if someone started to dig up the cables or, as in Norway’s case, if they had run out of water and therefore they were a bit worried about sending electricity because they needed hydro. What is the issue about the interconnectors? Why are we so reliant on them?
+
+Peter Bingham: Those are great questions.
+
+Lord Rooker: There was more than one. I am sorry about that. That is what I want to explore.
+
+Peter Bingham: Yes, I absolutely understand where you are coming from. First of all, interconnection with other neighbouring nations enables us to be part of a much wider market. It benefits UK consumers in being able to access that wider market. Because we have a vast opportunity of renewables in this country, it also enables us to export our surplus, which again brings down the cost to consumers in the UK.
+
+The interconnectors also give us diversity, in terms of security of supply, as they are connected to lots of different countries. In theory, weather conditions and generation availability will be different in different countries. There is potentially always availability through that vast array of interconnectors to help secure our supply.
+
+In terms of the capacity adequacy modelling talked through by NESO in the previous session, NESO derates, in its assessment, the contribution from these interconnectors. We are not absolutely reliant on all of them flowing electrons into the country when we need it.
+
+Yes, they give us access to a much wider market. They give us diversity. They give us security of supply. You are quite right to ask the question, “What if we have a weather situation across the whole of northern Europe, where we all have lots of renewable generation and we all suffer shortages? Can we depend on our neighbours to back us up?” That is why, through the capacity market modelling, we ensure that we have the domestic capacity to step in and fill that gap.
+
+Lord Rooker: Is the Republic of Ireland dependent on us through interconnectors as well?
+
+Peter Bingham: We have three interconnectors, I believe, to the island of Ireland.
+
+Lord Rooker: Do we have any to the Republic of Ireland?
+
+Peter Bingham: We have two to the Republic, yes.
+
+Lord Rooker: Have we planned an interconnector from Iceland, for example? There is loads of spare power there.
+
+Peter Bingham: It would be for the market to bring such a solution forward. It has been talked about many times, and it seems that one day that may well happen.
+
+Lord Rooker: Did your answer a few minutes ago regarding what NESO had said imply that, on all its scenarios, it looked at security of supply and each one of them took account of what we would do if we had no interconnector supply at all? Is that what you were saying?
+
+Peter Bingham: He was saying that the interconnectors are derated and that, through NESO’s modelling and among the thousands of scenarios it runs, there will be scenarios where there is very little contribution from Europe.
+
+Lord Rooker: I talked about Europe, but by “security” I mean security. Someone could dig up the cables in the sea. As I say, they are vulnerable. There is one being built that is going 600 kilometres across to Germany.
+
+Peter Bingham: Indeed, all potential sources of power have some degree of vulnerability, whether it is reliability or some sort of physical security issue. As part of the modelling, it is incumbent on us to ensure that we have that diversity such that, if we lose one source, whether it is an interconnector or a large power station, we have adequate capacity to pick up the gap.
+
+Lord Rooker: As I say, I am concerned. We are an island nation. It is not the same across the rest of Europe, by and large. I am assuming that everything is land-based. Looking after it is probably a lot easier than being several hundred metres down in the water, surrounded by all the other cables we have. Our security is a bit different from the other countries in Europe. I just want to be satisfied that that has been taken care of as well.
+
+Peter Bingham: Interconnectors are very reliable. Historically, we have had an interconnector across to France for many years. They are all very reliable, but they are not infallible.
+
+Lord Rooker: I will leave it there.
+
+Q74 Lord Trees: With regard to the imported energy through interconnectors, what is the degree of scrutiny to ensure that the electricity has been generated by non-carbon or low-carbon sources?
+
+Peter Bingham: I do not believe there is a requirement as such. The energy is traded on European markets. They do not distinguish the colour of those electrons when they do that trading.
+
+Lord Trees: Some electricity bills—and I have had some—say that they use only low-carbon sources in the UK.
+
+Peter Bingham: That will be from UK producers.
+
+Lord Trees: We cannot demand that of imported electricity.
+
+Peter Bingham: I do not believe so. It is not an area of expertise for me.
+
+The Chair: It would be useful to have some clarity on that. If you could write to us on that issue, I would be very grateful.
+
+Q75 Lord Ashcombe: Very quickly, following up on Lord Rooker’s questions, last year it seemed the demand was, give or take, 31 gigawatts a day. Do we have the capacity, without the interconnectors, to replace that in the UK. Do we have the ability to generate, on our own, 120% or whatever it is of the power need, bearing in mind that we bring in so much from overseas?
+
+Peter Bingham: I guess this would be in a peak-demand scenario.
+
+Lord Ashcombe: Yes, exactly.
+
+Peter Bingham: It depends on the level of renewable output. In a world where there is no renewable output and we have peak demand, are we dependent on imports from Europe? There is some dependency, yes. It is not absolute dependency, as I say. The contribution in the modelling is derated. It is about having a diverse range of supplies and trying to cover all potential weather scenarios. You cannot cover absolutely everything—you cannot gold-plate the system—but we believe a reliable mix is being put forward.
+
+Lord Ashcombe: There was an incident on the south coast that prevented power coming in from France, if I recall rightly, last year or the year before. I think SSE had a receiving plant that blew up. That did not produce a problem because it kept running.
+
+Peter Bingham: There are going to be constraints. There are particular constraints on the transmission network, particularly while it is maintaining its assets and building new assets. That does create constraints on how much we can import or indeed export at any given time. That may be what you are referring to.
+
+Q76 Baroness McIntosh of Pickering: I would like to follow up Lord Rooker’s question and Baroness Coffey’s question from the first session, if I may. There are a number of new interconnectors coming online from Holland, Belgium and other sources. Baroness Coffey raised the very valid point about how London came very close to electricity going down. Is it something that NESO and the regulator would look at favourably, if these were to connect directly into brownfield sites in London to shore up the supply more immediately in London itself, rather than being vulnerable to even more of the vagaries of onward transmission from a different part of the UK?
+
+If there are these brownfield sites, which Baroness Coffey has identified, very close to the Thames, this would seem very logical to pursue. They are new interconnectors. They would resolve a current problem going forward.
+
+Peter Bingham: Interconnectors are essentially brought forward by private developers. It would make sense if you could land those on the banks of the embankment.
+
+Baroness McIntosh of Pickering: They are brownfield sites.
+
+Peter Bingham: They are brownfield sites further down the Thames. I do not know whether that is technically possible.
+
+Baroness McIntosh of Pickering: There is no barrier in regulation to prevent it.
+
+Peter Bingham: There is no barrier in regulation; it is about whether those things are technically possible.
+
+Q77 Earl Russell: The last question is from me. I would like to ask you generally about the other regulatory barriers to deploying storage and low-carbon dispatchable power that remain and the actions that Ofgem is planning to take to address them. There are issues around different business models. There are planning restrictions. There are different energy system regulation requirements. Could you talk about some of the remaining regulatory barriers to deploying storage and low-carbon dispatchable power, if there is anything?
+
+Peter Bingham: Nothing particularly comes to mind. The main challenges at the moment are grid infrastructure and getting connection to the grid. As a regulator, we regulate the network companies, including the transmission companies. Our role is to ensure that those companies are building infrastructure at pace, that we provide the funding, and that we are not a regulatory blocker to the building of connections and network infrastructure. At the moment, we are playing an important role in facilitating this.
+
+We are not involved in the procurement of generation. We are in storage through LDES. We are through our cap and floor mechanism with interconnectors. Generation and low-carbon dispatchable plant is more with government rather than us.
+
+Earl Russell: Are there any particular issues around the storage side that you are working on?
+
+Peter Bingham: We will learn from the first LDES window whether it helped or what barriers or deficiencies the initial regime had. We are looking to learn for future windows.
+
+Earl Russell: On the grid side, would you be able to say a word more about future plans and regulations?
+
+Peter Bingham: On the back of the SSEP, so the strategic spatial energy plan, there will be a strategic network plan, which is the central strategic transmission plan, so the CSNP.
+
+Earl Russell: You have great acronyms.
+
+Peter Bingham: I am tripping over them all. It will be incumbent on Ofgem to make sure that the investment needs from the networks that come through that plan, again, are enabled at pace by us, as the regulator. We are really keen to remove any bottlenecks and ensure that the companies can get on with these projects, access the finance that they need in order to build these projects and deliver the network that we need for the future.
+
+The Chair: Thank you very much. We are at 11.28 am. We will say thank you very much for your time and dealing with our questions.

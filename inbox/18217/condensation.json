@@ -1,0 +1,242 @@
+{
+  "schema_version": 1,
+  "source_id": 18217,
+  "source_sha256": "5c46041a4970c5c44ecff7a6332a65c56593bf780043f95d528afb8de52e77e4",
+  "title": "Who Guards the Constitution? Power, the Civil Service and the Courts",
+  "label": "28 Oct 2026 · Constitutional safeguards",
+  "summary": "Danny Kruger MP gave evidence on what currently protects the UK constitution and where he sees weaknesses. He listed informal Whitehall checks, Parliament, the courts and the sovereign as safeguards; argued the Civil Service has grown into a quasi-independent power and should be reformed so ministers can appoint more senior specialists who will deliver policy; and proposed changes to judicial appointment and human rights law to reduce what he sees as judicial overreach. Peers challenged the risks to impartiality and to judicial independence and urged stronger political leadership and better management instead of politicising appointments.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Strathclyde",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Danny Kruger",
+      "name": "Danny Kruger",
+      "role": "Member of Parliament",
+      "kind": "witness"
+    },
+    {
+      "label": "Baroness Laing of Elderslie",
+      "name": "Baroness Laing of Elderslie",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Bichard",
+      "name": "Lord Bichard",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Murphy of Torfaen",
+      "name": "Lord Murphy of Torfaen",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Waldegrave of North Hill",
+      "name": "Lord Waldegrave of North Hill",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Bellamy",
+      "name": "Lord Bellamy",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Cabinet Secretary",
+      "definition": "The most senior civil servant who runs the Civil Service and advises the Prime Minister and Cabinet."
+    },
+    {
+      "term": "Civil Service Code",
+      "definition": "Rules that set expectations about impartiality, honesty and serving the public for civil servants."
+    },
+    {
+      "term": "Judicial Appointments Commission",
+      "definition": "An independent body that selects judges to make judicial appointments more open and merit-based."
+    },
+    {
+      "term": "Henry VIII powers",
+      "definition": "Legal powers that let ministers change primary legislation by secondary regulation without a new Act of Parliament."
+    },
+    {
+      "term": "Prorogation",
+      "definition": "The formal suspension of Parliament between sessions, which can be politically controversial."
+    },
+    {
+      "term": "Human Rights Act",
+      "definition": "A UK law that incorporates the European Convention on Human Rights into domestic law."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What are the main constitutional safeguards?",
+      "takeaway": "Kruger names informal Whitehall checks, Parliament, the courts and the sovereign as the main safeguards, but warns of weaknesses.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Mr Kruger, what do you see as the key constitutional safeguards and the main weaknesses in how we're governed?"
+        },
+        {
+          "speaker": "Danny Kruger",
+          "text": "The most practical safeguard is the informal decision-making process in government—advice from officials, lawyers, committees—that creates friction and oversight."
+        },
+        {
+          "speaker": "Danny Kruger",
+          "text": "Formally, Parliament (Commons and Lords) is the primary safeguard, especially over Bills and the Budget, though delegated legislation and Henry VIII powers are growing concerns."
+        },
+        {
+          "speaker": "Danny Kruger",
+          "text": "The courts are a safeguard against executive abuse, but there's a danger when they start second-guessing Parliament or elevating international law above domestic statute."
+        },
+        {
+          "speaker": "Danny Kruger",
+          "text": "Finally, the sovereign remains an ultimate backstop: ministers don't want to embarrass the monarch, and that restraint matters."
+        }
+      ]
+    },
+    {
+      "title": "Who should run the Civil Service?",
+      "takeaway": "Kruger argues the Civil Service has become quasi-independent and should be reformed so ministers can appoint senior experts aligned to government policy; peers warn this risks losing impartiality.",
+      "turns": [
+        {
+          "speaker": "Baroness Laing of Elderslie",
+          "text": "You criticised the Cabinet Secretary for calling herself 'steward of democracy'. Was she wrong to say that?"
+        },
+        {
+          "speaker": "Danny Kruger",
+          "text": "Yes. It's unprecedented and suggests the Cabinet Secretary has too much informal power. The Civil Service acts more like an independent body now, which is contrary to the Armstrong view that it serves the government of the day."
+        },
+        {
+          "speaker": "Baroness Laing of Elderslie",
+          "text": "Do you want those senior roles to be openly political appointments?"
+        },
+        {
+          "speaker": "Danny Kruger",
+          "text": "I want impartial public service but more ability for incoming governments to appoint senior officials who share policy aims and have domain expertise—not political cronies, but experts who will deliver."
+        },
+        {
+          "speaker": "Lord Bichard",
+          "text": "I'm uneasy: if ministers appoint senior officials, how can those officials then be impartial? You risk politicising the Civil Service."
+        },
+        {
+          "speaker": "Danny Kruger",
+          "text": "Accountability matters. Right now many senior officials don't see the Secretary of State as their boss. Ministers should be able to appoint or remove senior staff so officials are accountable for delivery."
+        },
+        {
+          "speaker": "Lord Bichard",
+          "text": "You could achieve most aims—better delivery, private office control—by stronger political leadership, better management and more special advisers, without politicising senior appointments."
+        },
+        {
+          "speaker": "Danny Kruger",
+          "text": "I agree on the need for better leadership and more spads, but we already recruit externally. We need easier external appointment across the senior Civil Service to bring in expertise from outside Whitehall."
+        },
+        {
+          "speaker": "Lord Murphy of Torfaen",
+          "text": "How far down would political appointment reach—Perm Secs only, or directors, principal private secretaries and so on?"
+        },
+        {
+          "speaker": "Danny Kruger",
+          "text": "We want flexibility across the senior ranks. Not a mass purge, but Secretaries of State should be able to recruit the private office and senior experts they need, so people know they're on the hook for delivery."
+        },
+        {
+          "speaker": "Lord Waldegrave of North Hill",
+          "text": "A lot of this is about weak political leadership. In earlier times Ministers got on with it and civil servants carried out policy—even when they disagreed privately."
+        },
+        {
+          "speaker": "Danny Kruger",
+          "text": "Agreed. Politics has weakened; post-1997 changes and growth of central Whitehall have shifted power. We're proposing to scrap the current Cabinet Office 'blob' and create a proper department to strengthen PM control."
+        }
+      ]
+    },
+    {
+      "title": "Impartiality, appointments and morale",
+      "takeaway": "Kruger says the Civil Service is demoralised and left-leaning; he wants tougher accountability and smaller, expert teams—peers warn against undermining impartiality.",
+      "turns": [
+        {
+          "speaker": "Danny Kruger",
+          "text": "Surveys and conversations show deep demoralisation in Whitehall. People leave because they can't get things done. We want a leaner service, open to experts moving in and out, not a life-for-life generalist club."
+        },
+        {
+          "speaker": "Lord Bichard",
+          "text": "You praise the Civil Service and want its improvement, but politicising senior posts risks losing public trust that officials will implement policy impartially."
+        },
+        {
+          "speaker": "Danny Kruger",
+          "text": "I'm not proposing party hacks or turning spads into officials. The Civil Service Code and standards would remain. The problem is that many senior officials already lean in one direction; incoming governments should be able to appoint people who will implement policy."
+        },
+        {
+          "speaker": "Lord Waldegrave of North Hill",
+          "text": "You mentioned private offices: ministers should control who sits next to them. That change wouldn't necessarily politicise the whole service."
+        },
+        {
+          "speaker": "Danny Kruger",
+          "text": "Exactly. Some changes are administrative—control over private offices, diaries and boxes—others are about ensuring senior leaders have relevant sector expertise."
+        }
+      ]
+    },
+    {
+      "title": "Courts, judicial appointments and human rights",
+      "takeaway": "Kruger argues judges have overreached via international law and wants more democratic accountability for judicial appointments and reform of human rights law; peers warn against returning to opaque old systems.",
+      "turns": [
+        {
+          "speaker": "Lord Waldegrave of North Hill",
+          "text": "Your leader suggested changes to judicial appointments—I'm worried. In the past Lord Chancellors defended judicial independence. How do you see that balance?"
+        },
+        {
+          "speaker": "Danny Kruger",
+          "text": "Some checks are needed. Historically the Lord Chancellor appointed judges and was politically accountable. Today judges effectively appoint themselves via the Judicial Appointments Commission; that removes democratic accountability."
+        },
+        {
+          "speaker": "Lord Bellamy",
+          "text": "The Judicial Appointments Commission was created because the old 'tap on the shoulder' system was secretive and narrow. It broadened access and merit selection. Are you proposing to roll that back?"
+        },
+        {
+          "speaker": "Danny Kruger",
+          "text": "Not a return to closed, class-based selection. I want appointments to be merit-based and open, but the appointing authority should be accountable to the democratic state, not a self-appointing judicial cartel."
+        },
+        {
+          "speaker": "Danny Kruger",
+          "text": "On law itself: judges increasingly use international law and human rights law to overrule Parliament, which I see as judicial overreach. We're considering reform including replacing the Human Rights Act to restore parliamentary primacy."
+        },
+        {
+          "speaker": "Lord Bellamy",
+          "text": "It's important appointments are open and encourage diversity. Any reform mustn't reduce transparency or widen bias in a different direction."
+        },
+        {
+          "speaker": "Danny Kruger",
+          "text": "Agreed on diversity by merit. My point is accountability: the public must have a political route to influence appointments, not none at all."
+        }
+      ]
+    },
+    {
+      "title": "Can institutions stop an overbearing Prime Minister?",
+      "takeaway": "Kruger says Parliament is the ultimate check; recent events show other parts of the state can also resist governments, but restoring democratic authority to ministers remains his goal.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "If a Prime Minister tried to undermine the constitution, is anything institutional enough to stop them, or do we rely on self-restraint?"
+        },
+        {
+          "speaker": "Danny Kruger",
+          "text": "Parliament is the core safeguard: it can pass laws and constrain the PM. Recent episodes show Parliament and courts can block governments, sometimes in opposition to elected mandates."
+        },
+        {
+          "speaker": "Danny Kruger",
+          "text": "That shows the system has power to resist a PM, but it's not always in the public interest. The bigger task is restoring democratic power to the Government so it can deliver policy while remaining accountable to Parliament and voters."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. We appreciate you giving evidence and your explanations about civil service, courts and parliamentary safeguards."
+        }
+      ]
+    }
+  ]
+}

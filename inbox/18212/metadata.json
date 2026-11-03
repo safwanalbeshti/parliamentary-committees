@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18212,
+  "activity_id": 39147,
+  "document_id": 309053,
+  "meeting_date": "2026-10-28",
+  "meeting_date_display": "28 October 2026",
+  "publication_date": "2026-11-02T12:49:09",
+  "title": "Dunkelflaute and the risks of electricity intermittency",
+  "committee": "Environment and Climate Change Committee",
+  "committees": [
+    {
+      "id": 515,
+      "name": "Environment and Climate Change Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9956,
+      "title": "Dunkelflaute and the risks of electricity intermittency",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Julian Leslie",
+      "role": "Chief Engineer and Director of strategic Energy Planning",
+      "organisation": "NESO"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Julian Leslie",
+    "Earl Russell",
+    "Lord Redwood",
+    "Lord Lennie",
+    "Lord Krebs",
+    "Baroness McIntosh of Pickering",
+    "Baroness Whitaker",
+    "Lord Ashcombe",
+    "Lord Jay of Ewelme",
+    "Baroness Coffey",
+    "Baroness Rafferty",
+    "Lord Trees"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18212/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18212",
+  "source_sha256": "103589685f548c8aa7d32dee757a4d355cb1e23586da239e59a50a7524a2a650",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

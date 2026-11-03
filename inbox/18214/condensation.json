@@ -1,0 +1,288 @@
+{
+  "schema_version": 1,
+  "source_id": 18214,
+  "source_sha256": "4ef915462fc55e6b299cea552c45e162e90a82407431fa80a34348024e008b12",
+  "title": "Planning for a renewables-led grid: risks from Dunkelflaute, storage and interconnectors",
+  "label": "28 October 2026 · Dunkelflaute, intermittency and storage",
+  "summary": "Ofgem’s engineering director, Peter Bingham, told the Lords committee that Britain is moving to a renewables-led system and recognised the supply risks that brings. He explained the current reliability standard for electricity, how capacity modelling treats imports, and why long-duration storage and network connections remain priorities. Ofgem has launched initial schemes for long-duration energy storage and interconnectors, will learn from the first round, and plans further consultations and close work with government and networks to remove barriers.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Baroness Sheehan",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Peter Bingham",
+      "name": "Peter Bingham",
+      "role": "Director for Engineering and Technology, Ofgem",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Ashcombe",
+      "name": "Lord Ashcombe",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Redwood",
+      "name": "Lord Redwood",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Krebs",
+      "name": "Lord Krebs",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Earl Russell",
+      "name": "Earl Russell",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Whitaker",
+      "name": "Baroness Whitaker",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Rooker",
+      "name": "Lord Rooker",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Trees",
+      "name": "Lord Trees",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness McIntosh of Pickering",
+      "name": "Baroness McIntosh of Pickering",
+      "role": "Member of the committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Dunkelflaute",
+      "definition": "A weather period with very low wind and solar generation, creating sustained low renewable output."
+    },
+    {
+      "term": "interconnectors",
+      "definition": "High-voltage cables linking the UK electricity system to other countries so power can be imported or exported."
+    },
+    {
+      "term": "LDES",
+      "definition": "Long-duration energy storage: technologies that can store electricity for many hours or days."
+    },
+    {
+      "term": "NESO",
+      "definition": "National Electricity System Operator: the organisation that models demand, plans capacity and runs scenarios for the grid."
+    },
+    {
+      "term": "loss of load expectation",
+      "definition": "A probabilistic reliability standard showing how often a system might fail to meet demand under planning assumptions."
+    },
+    {
+      "term": "cap and floor",
+      "definition": "A regulatory support model Ofgem uses to give certain projects revenue certainty, with limits on what they can earn and lose."
+    },
+    {
+      "term": "SSEP",
+      "definition": "Strategic Spatial Energy Plan: government-led plan setting the country’s needs for generation, storage and networks."
+    },
+    {
+      "term": "CSNP",
+      "definition": "Central Strategic Network Plan: the planned national transmission network plan that follows the SSEP."
+    },
+    {
+      "term": "SQSS",
+      "definition": "Security and Quality of Supply Standard: technical rules for operating the transmission system safely."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Who is speaking for system engineering?",
+      "takeaway": "Ofgem has engineers in-house to judge technical risks and advise on network and storage planning.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Please introduce yourself for the record."
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "I'm Peter Bingham, Director for Engineering and Technology at Ofgem. I lead engineers who assess and regulate the technical side of the electricity system."
+        }
+      ]
+    },
+    {
+      "title": "How we judge reliability today",
+      "takeaway": "Electricity reliability is planned to a probabilistic standard, not a single 'one-in-X' worst case; NESO runs many scenarios to set required capacity.",
+      "turns": [
+        {
+          "speaker": "Lord Ashcombe",
+          "text": "How big a risk is rising reliance on weather-dependent generation to security of supply?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "We recognise the risk. Renewables are intermittent, so we need dispatchable sources and storage to fill gaps and keep supply secure."
+        },
+        {
+          "speaker": "Lord Ashcombe",
+          "text": "Is there an equivalent to gas's 'one-in-20-year' standard for electricity? What worst-case probability do you plan for?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "Electricity planning uses the government's three-hour loss of load expectation, a probabilistic standard. NESO models tens of thousands of scenarios—different weather, generation and interconnector conditions—to decide needed capacity."
+        },
+        {
+          "speaker": "Lord Ashcombe",
+          "text": "So there's no explicit 'one-in-50' or similar metric for electricity?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "No. The approach is statistical: you have distributions of demand and supply and plan to cover the range where it’s value for money to do so."
+        }
+      ]
+    },
+    {
+      "title": "Long-duration storage: current steps and limits",
+      "takeaway": "Ofgem has opened mechanisms for long-duration storage but the first round focused on more mature technologies; work and consultations will follow for ultra-long solutions.",
+      "turns": [
+        {
+          "speaker": "Lord Krebs",
+          "text": "Why aren't you focused on ultra-long-duration storage (100+ hours) given Dunkelflaute risks?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "The first LDES window sought technologies offering eight hours or more—some projects in the draft set reach about 30 hours. The scheme didn't exclude longer-duration tech, but it emphasised more mature technologies."
+        },
+        {
+          "speaker": "Lord Krebs",
+          "text": "That sounds like 'watch this space'. What scale would be needed to cover days of low renewables?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "Scale needs will be in the SSEP. There are many options—storage, hydrogen, CCUS, unabated gas, interconnection and demand response. Government will choose pathways and then mechanisms to deliver them."
+        },
+        {
+          "speaker": "Earl Russell",
+          "text": "Is special thinking or a special mechanism needed for ultra-long storage?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "Possibly. These projects are capital-intensive and nascent. There may be a case for dedicated support—similar to how CfD auctions had buckets for emergent tech—to seed such technologies."
+        },
+        {
+          "speaker": "Baroness Whitaker",
+          "text": "Who will ensure storage choices are value for money and don't push up consumer bills?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "SSEP pathways trade off affordability, security and emissions. Ofgem wants government to pick the lowest-cost pathway. LDES exists to lower market barriers; we will learn from the first window and consult on future design."
+        },
+        {
+          "speaker": "Baroness Whitaker",
+          "text": "When will we see final determinations from the first LDES round?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "We expect to announce results this year; I'll confirm timings in writing so the committee can include them in its report."
+        }
+      ]
+    },
+    {
+      "title": "Interconnectors: benefits, limits and vulnerabilities",
+      "takeaway": "Interconnectors lower costs and add diversity, but they're derated in planning and not a guaranteed backup if widespread shortages occur.",
+      "turns": [
+        {
+          "speaker": "Lord Rooker",
+          "text": "Interconnectors supplied 15% of power in 2025 and more are coming—how reliable are they in a Dunkelflaute or if cables are damaged?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "Interconnectors give access to a wider market, let us export surplus renewables, and add diversity. NESO derates their contribution in capacity modelling so we don't rely on full import flows in tight scenarios."
+        },
+        {
+          "speaker": "Lord Rooker",
+          "text": "But what if Europe faces the same weather and can't export? Or cables are disrupted?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "That’s why domestic capacity and the capacity market are designed to fill gaps. Interconnectors are reliable historically, but not infallible; planning assumes contingencies."
+        },
+        {
+          "speaker": "Lord Trees",
+          "text": "Can we check whether imports are actually low-carbon? Some bills claim 'low-carbon UK-only' supply."
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "Electricity traded across markets doesn't carry a colour label in that trading. UK suppliers can offer green-labelled UK-produced power, but imports are traded on European markets without that distinction."
+        },
+        {
+          "speaker": "Baroness McIntosh of Pickering",
+          "text": "Would it help to land interconnectors on brownfield sites in London to strengthen London’s supply directly?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "There’s no regulatory barrier—developers choose landing sites and technical feasibility matters. If it’s feasible, it could make sense operationally."
+        },
+        {
+          "speaker": "Lord Ashcombe",
+          "text": "Do we have enough capacity domestically without interconnectors at winter peak?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "It depends on renewable output; modelling accounts for low import scenarios. You can’t cover every imaginable extreme, but the plan aims for a reliable, diverse mix."
+        }
+      ]
+    },
+    {
+      "title": "Regulatory blockers, standards and next steps",
+      "takeaway": "Ofgem sees grid connections as the main barrier, will push faster network investment, learn from LDES, and follow up on technical standard changes.",
+      "turns": [
+        {
+          "speaker": "Earl Russell",
+          "text": "What regulatory barriers remain to deploying storage and low-carbon dispatchable power?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "The dominant challenge is grid infrastructure and connections. Ofgem’s role is to fund and enable transmission companies to build at pace and to remove regulatory bottlenecks."
+        },
+        {
+          "speaker": "Earl Russell",
+          "text": "What specific planning or regulatory actions are you taking?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "After the SSEP, the Central Strategic Network Plan (CSNP) will set network investment needs. Ofgem will make sure funding and regulatory settings allow prompt delivery."
+        },
+        {
+          "speaker": "Lord Redwood",
+          "text": "You approved some changes to voltage tolerances in the SQSS—can you write to us summarising recent NESO standard changes?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "Yes. I wasn't familiar with all the specific documents you mentioned but we did approve widening some voltage tolerances recently; I will write with more detail on developments in standards."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. Please confirm LDES determinations timing and the details on the SQSS changes in writing."
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "I will. And we will share what we learn from the first LDES window and consult on future windows and design changes."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you for your time and answers today."
+        }
+      ]
+    }
+  ]
+}

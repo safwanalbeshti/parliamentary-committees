@@ -1,0 +1,341 @@
+Oral evidence - 28 Oct 2026
+
+Environment and Climate Change Committee
+
+Uncorrected oral evidence: Dunkelflaute and the risks of electricity intermittency
+
+Wednesday 28 October 2026
+
+10 am
+
+Watch the meeting
+
+Members present: Baroness Sheehan (The Chair); Lord Ashcombe; Baroness Coffey; Lord Jay of Ewelme; Lord Krebs; Lord Lennie; Baroness McIntosh of Pickering; Baroness Rafferty; Lord Redwood; Lord Rooker; Earl Russell; Lord Trees; Baroness Whitaker.
+
+Evidence Session No. 5 Heard in Public Questions 47 - 64
+
+Witness
+
+Julian Leslie, Chief Engineer and Director of Strategic Energy Planning, NESO.
+
+USE OF THE TRANSCRIPT
+
+This is an uncorrected transcript of evidence taken in public and webcast on www.parliamentlive.tv.
+
+Any public use of, or reference to, the contents should make clear that neither Members nor witnesses have had the opportunity to correct the record. If in doubt as to the propriety of using the transcript, please contact the Clerk of the Committee.
+
+Members and witnesses are asked to send corrections to the Clerk of the Committee within 14 days of receipt.
+
+17
+
+Examination of witness
+
+Julian Leslie.
+
+Q47 The Chair: Good morning and welcome to the Lords Committee on the Environment and Climate Change. Today is the fourth session in our inquiry into Dunkelflaute weather events and the challenges they present to the Government’s ambition to deliver clean power by 2030.
+
+We have divided this session into two panels. In the first, we will hear from the National Energy System Operator—NESO—and in the second from the regulator, Ofgem.
+
+Before we start, may I remind everyone that the session will be webcast live, and that a transcript will be taken and made public. Witnesses will have the opportunity to make very minor amendments if they so wish.
+
+Members are reminded that they should declare any relevant interests the first time they speak. I will take this opportunity to say that I am a director of Peers for the Planet.
+
+May I welcome our representative from NESO and thank him warmly for taking the time to be with us today? I hand over to you to introduce yourself.
+
+Julian Leslie: Good morning, everybody. It is a pleasure to be here this morning. I am the director of strategic energy planning and chief engineer at the National Energy System Operator, or NESO. We are a relatively new organisation, at just two years old. We are owned by Government but we are independent from Government. We operate today’s electricity but plan for tomorrow’s future energy system. It is great to be here.
+
+The Chair: Thank you very much. In July 2024, NESO commissioned a project to analyse Dunkelflaute events. The final report is not publicly available as it contains confidential information, but the closedown report states—I will just quote a part of it—“Initially, we underestimated the complexity of the problem, but we have successfully navigated these challenges”.
+
+First, how is NESO defining a Dunkelflaute event? What assumptions have you made about the operating capacity of wind and solar?
+
+Julian Leslie: That is a really great question. When we look at the future, whether that be this coming winter or into the future, we look at a whole range of weather scenarios. We use over 40 years of historic weather, and we also work with the Met Office, which I believe has already spoken at this committee. We work with them on a project called UNSEEN, which is really thinking about the future weather patterns of this nation and what that might mean for energy needs and energy production.
+
+In all of that analysis, security of supply is the number one thing. We have to balance across the trilemma of security, affordability and low carbon, but, ultimately, we are never going to put forward a plan that means that security of supply is at risk.
+
+In doing that analysis, we look at all kinds of weather events, from extreme cold to extreme heat, and long-duration periods of no wind or no solar, and then we work out the energy mix that is required for the future. In doing so, when we are thinking about security of supply, we look at what is likely to be expected from solar and wind on those low-sun, low-wind days, and we work out where that energy therefore comes from.
+
+Today, that comes from unabated gas, and that is always there into the future. We have said for many years that unabated gas is a feature of the future energy system. As and when we get the new technologies such as hydrogen to power or power CCS—carbon capture and storage—the more of that that comes on to the system, the more we can displace the unabated gas that is part of the plans currently.
+
+Really, the headline is that we plan for the future. We look at the energy sources and energy mixes. We look at how to derate those in terms of what assumptions we make about their power outputs in these very calm and cloudy days, and then we look at what the alternative sources of energy are.
+
+The Chair: Could you just draw those remarks to a close?
+
+Julian Leslie: Therefore, dispatchable generation is a phrase you will hear us use a lot. Dispatchable generation can be unabated gas; it can be hydrogen to power or power CCS.
+
+The Chair: We have heard a number of witnesses before us, such as RWE in written evidence, Professor Keith Bell to the committee in person and others. They have called for the Government and NESO to define the required level and duration of Dunkelflaute resilience, publishing transparent, whole-system analysis.
+
+We have had repeated calls about how important it is to incentivise investment and investability into longer-term projects so that people have some indication of where the direction of NESO and the Government is going to be leading them. Decisions are imminent now. We have heard that the five to 10-year timeframe by which solutions have to be operable is with us today.
+
+Julian Leslie: Yes, and there are two methods by which we have given that clarity. One is in the clean power 2030 advice and the clean power 2030 action plan. There are requirements in there for dispatchable generation. Also, this summer we have delivered six strategic spatial energy plan pathways to the Secretary of State. We are awaiting a decision as to which of those pathways is to be the chosen one.
+
+This is very different from any analysis that NESO, or previously ESO, has done in that it looks to the future. It looks out to 2050, so as to meet the net zero obligation in 2050. In doing so, it is going to give that 25 or 30-year forward plan as to what the energy mix of this nation could be like. Each of the pathways is secure. It is really awaiting the Secretary of State’s decision as to which is the future direction that they would want to take the nation. Is it more nuclear? Is it more offshore wind?
+
+Then when you look at the pathway as a whole, it is a whole energy system pathway, and therefore the requirements for resilience, security of supply, decarbonisation and affordability are part of each and every one of those pathways.
+
+The Chair: I have a number of supplementary questions but, before I bring them in, can you just be clear that, from NESO’s point of view, you have done everything that is required of you, and the decision now rests with others?
+
+Julian Leslie: Yes. We have created these pathways, which clearly lay out the generation mix across the nation on a spatial basis for the next 25 to 30 years. It is not our decision as NESO. We do not make policy, but we do provide the advice. The pathways are advice to the Government as to the future direction as to where we want this energy system to go.
+
+The Chair: I have one final question. It is about the assumptions that underlie these scenarios and the modelling behind them. They are numerous and varied. When you present these scenarios to Government, is there clarity about the underlying assumptions behind them?
+
+Julian Leslie: Yes. There is a whole raft of data and information, as you might imagine. Some of these assumptions were provided to us by DESNZ as inputs into the strategic spatial energy planning.
+
+When we are doing our security of supply resilience testing, as I said earlier, we look at a whole range of weather scenarios, looking back over 40 years. We do not use an average weather year. We look at the extremities. Really excitingly, we do important work with the Met Office to look to the future and think about what our future climate might look like, and to make sure that our studies and pathways are resilient to the future weather systems as well as the ones in the past.
+
+The Chair: Maybe you have answered this, but if I can just put this directly to you, what is your modelling showing about the likelihood and risk that Dunkelflaute presents, both now and in the future?
+
+Julian Leslie: We look at all these weather scenarios. Dunkelflaute is one of those, but we look at all the others.
+
+The Chair: Dunkelflaute is the subject of this inquiry.
+
+Julian Leslie: Sure, but the security of supply is first and foremost in all our analysis, and therefore that is the basis on which we start our planning assumptions: to ensure that, whatever the scenario that gets thrown upon the system, the system is secure and able to manage that.
+
+That is why we have said for a long time that unabated gas has this role to play. We have about 35,000 megawatts today. That continues through the 2030s. Then, as we get out beyond 2040, that capability needs to increase as our demand across the nation increases. As I said earlier, in those future years, that unabated gas can be replaced by other low-carbon technologies, as and when we can see the progress, cost reductions and suitability of all that.
+
+Q48 Earl Russell: Thank you very much for your evidence. In relation to your relationship with Government and the six spatial energy pathways, I fully recognise that you have sent that to Government and are waiting for the Secretary of State to give you their decision on that.
+
+My question was really about budget and the information you had at hand in terms of preparing that. We all know that there are big cuts coming to DESNZ. Do you feel that you had enough information from Government about their proposed budget cuts in terms of preparing your different options for the pathways? How does that relationship work with Government? Could it be improved?
+
+Julian Leslie: We received a commission to do the work, which set out, in effect, the terms of reference for the strategic spatial energy plan. Along with that, Government gave us assumptions on demand growth across the nation over the years. They also gave us cost and deployment rates per technology type, which again is a key input into that assessment.
+
+When we have done the analysis, we have done a whole-system costing. When the six pathways are lined up against each other, you can see the delta in terms of the cost differential between those different pathways. That is the decision that the Secretary of State is now weighing up, because there are lots of trade-offs. The cheapest pathway may not be the best pathway because it does not give you other opportunities, which is why it is very much a decision for the Government, rather than for NESO, to make those trade-offs.
+
+Q49 Lord Redwood: Thank you very much for your evidence. This question is about the operating capacity of renewables. In order for that not to destabilise the system and to maximise the use of wind and solar, you will presumably need quite a lot of synchronous condensers. You presumably need grid-forming inverters. Can you give the committee some idea of the scale of that investment, the timescale of it and what it might cost?
+
+Julian Leslie: We have been on this journey to get the system ready for a renewable system. In fact, in 2019 we said that by the mid-2020s we will be able to run the system at zero carbon. There was a period earlier this year where we just had one gas-fired power plant running, and the system was safe, secure and stable.
+
+To get there, we have had to procure synchronous condensers and grid-forming inverters with batteries in order to rotate the physical impact of the loss of inertia, to try to replace that in some way.
+
+When you think about it, though, it becomes a huge value proposition for the consumer, because to buy those products is relatively low-cost. They do not produce any carbon, and they displace a whole gas-fired power plant. When you look at the cost-benefit assessments, we have spent money on those things through the market, but the cost-benefit far outweighs the expense. The system is as reliable, if not more reliable, and lower-cost to operate than the alternative.
+
+Lord Redwood: Does an individual new condenser not cost £50 million to £100 million—
+
+The Chair: We have a lot to get through. Please put your question again, but do realise that we have quite a lot to get through.
+
+Lord Redwood: We just need to clarify the cost, because I understood that a new condenser would be £50 million to £100 million, and you might be needing 45 of these across the system.
+
+The Chair: Would you answer that in writing?
+
+Julian Leslie: We can write back. The evidence remains, though, that it is a cheaper alternative than running gas for 250 megawatts, and we do not need those megawatts; we just need the inertia from the system.
+
+Q50 Lord Lennie: Are NESO and/or the Government in a position to set clearer targets for deployment of the storage and low-carbon dispatchable technologies needed for long-duration Dunkelflaute events? If not, what are the principal uncertainties and dependencies that need to be resolved?
+
+Julian Leslie: The strategic spatial energy plan and the pathways that we provided to Government back in August will very clearly lay out the technology types, the volume, the timing and the location as to where those things need to be created on the system.
+
+Lord Lennie: Is it the Government’s choice now?
+
+Julian Leslie: It is for the Government to choose the pathway, which includes the ambition around nuclear, floating offshore wind, offshore wind and the whole package. Each one of our pathways is a complete solution, which includes security of supply, decarbonisation and cost.
+
+Lord Lennie: Do you recommend them in order or do you not make a recommendation? You just set them out and it is for the Government to make their choice.
+
+Julian Leslie: They are choosing the pathways because, obviously, if you have nuclear, you need less storage; if you have more floating offshore wind, you need more storage. There is no one single answer; it depends on the overall energy pathway that the Government decide we should follow.
+
+Q51 Lord Krebs: You have produced four future energy scenarios for 2050, which we have in our notes here. In response to the previous question, you also referred to six strategic options. Could you just explain what the difference and relative importance is? What are you expecting to happen?
+
+Julian Leslie: The future energy scenarios are something that we as NESO, and the Electricity System Operator prior to that, have published for a number of years. It gives an envelope of possibility into the future when you are thinking about new technologies and stakeholder-led feedback, but it is not necessarily optimised on a whole-energy system basis.
+
+The strategic spatial energy plan, following the commission that we were provided from the Government, is a very clear, whole-energy system optimisation when you are looking at geospatial, environmental, societal, cost and deliverability aspects, bringing all that together into these pathways for the strategic spatial energy plan. That is a co-optimised whole-energy system solution that is looking at all the delivery aspects of that.
+
+The other big difference is that the strategic spatial plan is a bit like the clean power 2030 action plan. We consult upon it next year. This time next year, we are hoping that the Government will sign off on the strategic spatial energy plan pathway. That will then be the Government’s policy and that will set the background. Investment, policy decisions, connections and reformed national pricing will all hang off the back of the strategic spatial energy plan.
+
+The Chair: Just on this, I have a very short supplementary question. To what extent do the four future energy scenarios reflect the Climate Change Committee’s balanced pathway? Are they consistent with that for the seventh carbon budget?
+
+Julian Leslie: The future energy scenarios are meeting the carbon budgets, apart from one; one is falling short and does not. The strategic spatial energy plan meets all of the government targets along the way. Even though there are six different pathways, all of them meet security of supply under all the conditions we just spoke about. All of them also meet the various legally binding carbon targets and the net zero by 2050 requirement.
+
+The Chair: When you are developing these scenarios and modifying them, is the aim to tackle climate change and to deliver net zero front and centre of your thinking?
+
+Julian Leslie: We have to balance across the trilemma. We will never put a plan forward that is not secure. Although we have to treat them all equally across the trilemma, of course, all our plans meet security of supply requirements, they meet the legally binding climate targets, and we cost each of those whole-system costs. As the Secretary of State has these pathways in front of her today, she can see the various costs across each of those pathways.
+
+The Chair: I just have one final question. How do you account for the geopolitical insecurities of gas, not just in terms of supply but in terms of cost also? Is that reflected somehow in your scenarios?
+
+Julian Leslie: Yes. When you are looking at the whole-system cost, you have to make assumptions about the forward pricing of gas. Obviously, that is a big variable. Again, we use stakeholder information and input to understand what those costs are.
+
+Q52 Baroness McIntosh of Pickering: I have a small holding in National Grid, Shell and BP.
+
+From what you have told us this morning and from NESO’s future energy pathways report in 2025, there is going to be a long lead time for these alternative technologies. Are we on track in Great Britain to deliver the capacity required to give resilience to a range of Dunkelflaute events? Which technologies need to be prioritised? How are they going to be prioritised in the next 10 years to increase our resilience?
+
+Julian Leslie: Regarding our resilience today, as you know, it is one of the most secure systems anywhere in the world, with a very high level of resilience and reliability. Our future energy plans and the strategic spatial energy plan maintain that level. The metric of loss of load expectation is three hours, which is a Government-set standard; all our pathways meet that.
+
+In reality, when you meet that three-hour loss of load expectation, it turns out to be a 0.1 to 0.2-hour loss of load expectation. That is the same level of standard and resilience that we have today, and we have one of the most resilient systems anywhere in the world today. That remains throughout.
+
+In terms of the new technologies, the strategic spatial energy plan will set out when these new technologies are required, recognising the lead time. We cannot say we need one next week when there is a 15-year lead time on some of these things.
+
+That is the power that the strategic spatial energy plan will have. For the first time ever, we have a whole-system optimised energy plan that looks beyond the next price control and the next five or six years. We are looking out to 2050, understanding what the energy and system needs are in 2050, and then working back from that to say, “If you want this by 2050 or by 2040, then this is when the decision needs to be made”. It is really about bringing that clarity so there is time to develop the decision-making, policy-making, market structures and whatever is required to bring these things to market.
+
+Baroness McIntosh of Pickering: You are saying three hours. We have heard that potentially there could be three consecutive weeks of suppressed wind.
+
+Julian Leslie: The loss of load expectation is a standard. When you bring all of this together, the standard that the Government have set us is that, in theory, you can have up to three hours of loss of load expectation on an individual basis throughout the year. In reality, that turns out to be 0.1 to 0.2 loss of load expectation. It is a complex way that measures the reliability and resilience. We have always had a three-hour loss of load expectation. We have a three-hour loss of load expectation going forward, so I do not expect the resilience or security to waver from that in any way.
+
+Baroness McIntosh of Pickering: If you were to pick technologies, which would you pick and how would you prioritise them?
+
+Julian Leslie: We need dispatchable generation. Whether it is unabated gas, hydrogen to power or power CCS, as long as it is dispatchable so that there is not this reliance on the wind and the sun, then obviously that has a really important role to play.
+
+Baroness McIntosh of Pickering: There was some criticism following the heatwave in June. The report that was conducted by the law firm Eversheds found cultural, governance and control issues at the heart of NESO, with high levels of stress and concern within the control room as to the state of the energy industry and the longer-term ability of the control room to keep the system balanced.
+
+How are you running stress-testing events to determine which technology mixes provide the greatest resilience under varying weather and system events so that, if we have another heatwave of that nature, we can be relaxed about your ability to deal with it?
+
+Julian Leslie: We welcome the Eversheds report and the findings. We have taken on board all their recommendations. It is safe to say, though, as I have said already, that all our forward-looking planning makes sure that, whatever the weather scenario we are receiving, we have a secure and reliable system.
+
+We have mechanisms. We have a capacity mechanism to ensure that capacity is available at four years ahead. There are market structures for that that the Government run to ensure that security of supply.
+
+As I have said already, the strategic spatial energy plans, which are the forward-looking piece, all meet the same level of reliability and security standards that we have today. We are technology-agnostic. It is the characteristics of the technology that are important. If it is dispatchable and not reliant upon the wind, whether that is unabated gas, gas with carbon capture and storage, or the creation and storage of hydrogen and then hydrogen to power, all of those have the same characteristics of electricity and for security of supply.
+
+The Chair: The report highlighted that better communications between management and the control room are necessary. Is that something that you are managing?
+
+Julian Leslie: As I have said, we welcome the report from Eversheds. We have looked at all the recommendations, and with our board we have accepted those recommendations to work on. We have only had the report a week, so we are still working through what those action plans might be.
+
+Q53 Baroness Whitaker: Your future energy scenarios say that there is up to four gigawatts of tidal operation capacity in 2050. That is a bit beyond the 10 years, but there are high upfront costs and a limited subsidy. Presumably, if the subsidy were less limited or better targeted, that might bring the upfront costs down because they could scale up more, and therefore they could come closer than 2050. Is that something that you are examining?
+
+Julian Leslie: Sorry, it is the same answer. The strategic spatial energy plan is setting out the future energy requirements for the nation, so the technology types are provided by Government as to what we should consider in there. That is part of that process. The strategic spatial energy plan is reviewed every three years. As new technologies, whether that be tidal or other, get to be affordable, credible and timely, they may feature in future strategic spatial energy plans.
+
+That is the vehicle now. We have a strategic spatial energy plan. That is a vehicle by which, every three years, we refresh our future vision as to where we are heading for 2050, but obviously some decisions need to be made today, such as to have a nuclear machine by 2040, and that is what the strategic spatial energy plan will do. It will really provide that clarity as to the future direction and then what decisions are needed in the next three years.
+
+Q54 Lord Redwood: In that difficult June period covered by the Eversheds report, how close did you get to breaching thermal and transmission limits? Do you wish to build more margin in for the future?
+
+Julian Leslie: We are still working through the detailed, Ofgem-commissioned report. That will be available to Ofgem before the end of the year. I cannot comment on that until that is concluded.
+
+Q55 Lord Ashcombe: You mentioned that we have one of the most resilient systems. I am interested, first, in how you measure that. Secondly, when we are reliant, for about 10% over any one year, on power coming in from Europe on interconnectors, if suddenly Europe is not there, what happens next? It is a very significant amount of power.
+
+Julian Leslie: In terms of the first question, we measure by the loss of unsupplied energy from the transmission system. Today, our reliability is 99.69%.
+
+Lord Ashcombe: What do you mean by that?
+
+Julian Leslie: If there was a transmission fault on the big highways of the electricity system and we lost a city, for example, how much we lose and the megawatt hours we have lost all gets calculated, compared with the volume of capacity across the year that needs to be delivered. We are at 99.9996% of all that power being delivered.
+
+Lord Ashcombe: What are our closest friends at? Are they the same?
+
+Julian Leslie: Some are the same; some other countries are well below that. Anyway, that is how we measure that.
+
+Interconnectors are a hugely flexible, invaluable tool that we have at our disposal in managing day-to-day operations of the grid. They provide access to low cost and low carbon. Also, when we are producing a lot of low-cost, low-carbon generation, we can export into Europe as well.
+
+However, there is a case, as you say, where we could be experiencing a challenging time in the system as well as across Europe. That is why, in the capacity mechanism, we derate the capacities of those interconnectors. We do not rely on them in our most stressed situation. We do not rely on 100% of that generation or power to come across the interconnector. We rely on much less of that.
+
+Lord Ashcombe: How much do you rely on?
+
+Julian Leslie: It varies on the interconnector. We have done a lot of analysis to understand what the correlation might be between a weather event here and one across Europe. We publish all that information, which again we can share in writing, because it is different per interconnector.
+
+Lord Ashcombe: What happens if, for instance, the Russians, who seem to be taking a lot of interest in interconnectors generally, get their pliers out and cut them all?
+
+Julian Leslie: That is a bit of an extreme situation.
+
+Lord Ashcombe: It is really important that we are not reliant on it at all.
+
+Julian Leslie: Security of supply is still a requirement for Government. Government accountability is for security of supply. That is why in the capacity mechanism we advise the Government as to the volumes of capacity that should be procured through the capacity mechanism, but ultimately that relies on the Government to then make that decision as to the amount we procure. We then administer the process to procure the amount that suits the capacity mechanism.
+
+Q56 Earl Russell: In relation to the Eversheds report, I know it is just out. Some of the accusations before that report was written have turned out to be misguided. It is important that the debate about renewables is not one that turns into a debate that undermines the reliance of our energy system.
+
+On that basis, would you agree with the statement that there is more work that could be done to improve communications between NESO and politicians, to make sure that political discourse is not putting out false accusations about the reliability of our energy system?
+
+The Chair: We may put that to the Minister instead. Would you like to have a stab at it?
+
+Julian Leslie: We are very transparent. We run one of the most transparent energy systems anywhere in the world. A lot of our data is available, so people can dive into it and look at it. In our plans and policies within and around the control room, resilience, reliability and security of supply are the primary things that we will always protect above anything else.
+
+The Chair: This is just a quick supplementary while we are on this. It is on your report on resource adequacy in the 2030s, which says that new low-carbon technologies that can provide clean energy for extended periods are needed, and that, while some investment is coming through, “further action is needed to develop a pipeline of new low-carbon technology projects ready for largescale deployment in the 2030s”. By whom is further action needed?
+
+Julian Leslie: Our job is to provide the advice. For clean power 2030, we provided a generation mix that would work, which included some of these nascent technologies. Again, that was driven by Government. We could see the investments in carbon capture and storage that were happening at the time, and the investments in the hydrogen allocation rounds. We built those into the plan, so now we have certainty about the role that those technologies can play in 2030.
+
+Once you look at the strategic spatial energy plan, we build from that and we look out to 2050. Therefore, there is very clearly a pipeline as to what is required by each of those technologies, depending on the chosen pathway. Then it is for the Government and the market to see that opportunity, embrace that and build towards it.
+
+The Chair: We have heard a fair amount of criticism of NESO’s lack of decisiveness, lack of transparency and openness in the decision, and delay in making those decisions. Something that this committee could really help with is to try to clarify where the blockages are and where we need to press to make sure that the lights do not go out.
+
+Julian Leslie: I can assure you that we have planned so hard to ensure that the lights do not go out, and because we have the unabated gas fleets still available to us, we always have that background of back-up and resilience to that.
+
+In terms of decision-making, we have been very clear. For clean power 2030, we published our report within four months of being asked to publish it, with very clear advice, which then a month later became the clean power 2030 action plan, owned by DESNZ. Chris Stark and the team at the time were then responsible for delivering against that.
+
+As you look to the future and the strategic spatial energy plan, yes, it is a year later than expected, but we had some revised input data a year ago, which meant we had to go back to the drawing board and start over. The quality of this report that we published in August, once you get to see it, is incredible. The quality, resilience and robustness of the data analysis that will be available once a decision is made should give everybody great confidence, and is giving the Government great confidence to date, that the advice we are providing to the Government is sound and based on good analysis and data.
+
+Q57 Lord Jay of Ewelme: I should declare an interest as a former member of the main board of EDF in Paris.
+
+I wanted to ask a question about the strategic spatial energy plan, but you have just answered much of what I was going to ask. It seems to me that there are two main issues with the strategic spatial energy plan. How do you provide the incentives? How do you provide investors with the certainty that they need on existing technologies? At the same time, how do you do the work on the R&D in nascent technologies? Can you do both of those?
+
+Secondly, you say that it is Ofgem or the Minister that make the decisions about this. Do you work with them as they do that? Do they do that on their own? What is the interrelationship when the decisions are made?
+
+Julian Leslie: On the first question, having a plan provides investor certainty. There will be a plan for the first time. It is approved by Government and endorsed by the regulator. Again, we have the policymakers, and the regulator then funds the networks in order to make that happen.
+
+We also have reformed national pricing that is being developed. The advice and guidance from Government from that again refer to the strategic spatial energy plan well over 100 times. They are really putting the SSEP at the heart of that.
+
+The strategic spatial energy plan is also referred to in the national policy statement. From a Planning Inspectorate point of view, if you are bringing forward one of these very large projects, the Planning Inspectorate should refer to the strategic spatial energy plan and whether that project features in there or not. If it does, then it is aligned with the government ambition.
+
+One of the key drivers of the strategic spatial energy plan is to create that long-term investor certainty to build the supply chain, get the skills and development into this country and grow the economy on the back of that.
+
+As NESO, we do not do the research and development into new technologies. That could be something that the Government might be wanting to fund and build up so it gets to a credible level. In the strategic spatial energy plan, deliverability is a key facet to that. Understanding the technology readiness of the technology types that are coming into the SSEP is really important, because it is a plan that we want people to work to. We want credible technologies that can be delivered within the timescales that are stated in the strategic spatial energy plan.
+
+Lord Jay of Ewelme: If there is a technology that is being developed that really is nascent and is just a gleam in the eye, would you take account of that?
+
+Julian Leslie: No. That is why we are on a three-yearly cycle with the strategic spatial energy plan. We can tweak the future years to adapt and to embrace that new technology type.
+
+In terms of working with the Government, the Government commissioned us to do the strategic spatial energy plan. They are part of the governance, along with the Welsh and the Scottish Governments, to understand how we have developed these pathways and what those say. That governance, insight and awareness of what we are doing is very clear. We work very closely together with the Government and Ofgem, because obviously the result of the strategic spatial energy plan leads to network investment. That is why the regulator needs to be fully involved in that.
+
+Q58 Baroness Coffey: Mr Leslie, I am conscious that your boss is giving evidence in the other House at the moment, so I am sure it has not been the most comfortable of weeks.
+
+I wanted to ask a bit more about the strategic spatial energy plan. A fortnight ago, somebody called Craig Dyke, who may well work for you, put out an explanation about the emergency assistance that was requested twice. I appreciate that, although that is not a routine thing, it is not something to be alarmed about. The key thing that stood out to me was that there was not enough electricity in London. We were calling on the French through the interconnectors.
+
+I just wanted to get a sense in terms of engineering. When there are all these different things going on, all the projects that have been approved, interconnectors and stuff that is out at sea, why, from an engineering perspective, is even more not plugged in a lot closer to London? There is quite a lot happening up on the Suffolk coast where I live, but it is not the only place. There is Kent and similar. I just wanted to get a sense of why we could not do a lot more on the brownfield existing sites or indeed create something particularly special for London directly rather than have the supply issues that are ongoing.
+
+Julian Leslie: When we look at the design of the network, we have to take into account the deliverability and the environmental and societal impact of that network. Obviously, this infrastructure is not low-cost. It costs a lot of money. It is not just for London; it is part of the energy mix of the nation, and therefore we have to look at the flows, the costs, the deliverability and the impact on the environment. All those factors come into play.
+
+Once we have a strategic spatial energy plan, we then create the centralised strategic network plan, which takes that energy plan. I hope the Government will approve the pathway very soon. We then overlay that and say, “If that is the pathway for the future, then here is the network that is needed to support that”.
+
+Baroness Coffey: Engineering-wise, you do not think it would make sense to have connections much closer to London, where you have had to deploy emergency assistance because there was not enough electricity available in London.
+
+Julian Leslie: It is a dynamic system. There might have been a system circuit out for maintenance at that time. Most times, obviously, we can and do supply London without emergency assistance, but the system is dynamic and evolving. We are having to invest heavily in the network and maintain what is now an ageing network. I do not know the exact system operation conditions on that day, but there would be a reason for that.
+
+Q59 Baroness Rafferty: Mr Leslie, you mentioned the word “deliverable” in relation to the strategic spatial energy plan. I just wondered about the workforce. Do you have any concerns that we do not have an adequate supply of highly skilled technicians and workers needed to actually deliver the network that you so described?
+
+Julian Leslie: It is not really a question for NESO, but I work very closely with my network colleagues and I know that is a challenge for them. Again, that is why the strategic spatial energy plan and the subsequent centralised strategic network plan is really important, because it gives that longer-term certainty to the supply chain.
+
+On skills and development, you can start to invest with certainty that this is not just for a five-year price control; this is something that is going to be enduring for a number of years. That is why we believe having a 25-year energy plan for the nation is critically important, for all the things we have spoken about this morning, but especially that investment, supply chain and skills development.
+
+Q60 Lord Trees: Thank you very much for coming. I am not an electrical engineer, but I know that we cannot store electricity at scale. I regard the national grid as a wonder of the modern world, so thank you for all you have done historically.
+
+The increasing reliance on intermittent sources of power generation is producing real challenges. What is your assessment of the whole-system costs of developing a resilient, low-carbon electricity network? How will those measures affect energy costs for the consumers?
+
+Julian Leslie: As I said already, even the clean power 2030 action plan had a whole-system cost assessment alongside that, which again, depending on your future pricing of gas, obviously has a big impact on the value of that. We would not have forecast greater than £2 a therm for gas, as it is today, and yet, even in the clean power 2030 action plan, even with all the capital investment, it was still the right thing to do.
+
+As you look at the strategic spatial energy plan looking out to 2050, again we have done a similar whole-system cost of that, which includes the capital, the operation and the fuel cost. Again, you will be able to see the trade-off and the differences between those pathways. It is all factored in as part of our strategic planning.
+
+Lord Trees: One of the problems with relying on more intermittency is that we also need to invest more in storage, alternatives and dispatchable sources. Both have constraint costs, which are very considerable.
+
+There must be a sweet spot, where we have a certain amount of assets for wind and a certain amount of assets for solar. Have you worked out what that sweet spot is? How close to achieving it are we?
+
+Julian Leslie: That is exactly what the strategic spatial energy plan does, but you need to understand what the overarching government policies are around nuclear, floating offshore wind and those other aspects. As I said earlier, if you have much more nuclear, whether it is small modular or another large nuclear generator, then obviously that is running 24/7, so your requirements for storage are less, but it is expensive. It is all part of the strategic spatial energy plan to work out the optimum level depending on the energy mix that we need as a Government while meeting security of supply and a low-carbon, low-cost system for the future.
+
+Lord Trees: For example, do you have a knowledge or an estimate of what would be the maximum amount of wind to provide resilience and an economic optimum?
+
+Julian Leslie: As you might imagine with the six pathways, some of them rely very heavily on wind and solar, and some less so because they are relying much more on nuclear and other low-carbon dispatchable generation. There is no single answer because it depends on the whole-energy system as to what the energy mix we have as a nation is. It is also building on the flexibility that consumers and industry can provide.
+
+It all needs to play into that mix. These pathways are trying to make that balance and trade-off, which is why they are now with the Secretary of State for a decision.
+
+Q61 Lord Redwood: I have seen an estimate that grid costs for a billpayer might go up by about 50% by 2030 to accommodate your obvious need for a very big upgrade and expansion of the grid. Can you comment on that figure? It would be nice for us to have from yourselves some idea of what is going to happen to bills.
+
+Julian Leslie: Obviously, as we invest in the network, there is more to be recovered from the network, but equally the demand is growing on the network, so there are more consumers consuming energy from the network, which affects your cost per megawatt. There is a fine balance.
+
+Again, we can write to you with our latest forecasts. I cannot recall the numbers right now, but we can write to say what that is going to be.
+
+Q62 The Chair: I just want to talk a little bit about demand reduction. Does NESO have a role in influencing the public’s behaviour or communicating with the public when it would be useful for them to boil a kettle before the break, smoothing out demand?
+
+That is quite effective in terms of short-term intermittency requirements. Is there a role for demand reduction for these longer-term events? I am thinking more about future developments such as using household batteries more effectively and the energy stored within them.
+
+Julian Leslie: The way that it works today is that your supplier, whether it be OVO, Octopus or whoever, will be looking at the forward futures over the next 24 hours or so, and looking at where the price spike is high, because we are bringing on the last few of our dispatchable gas generators and driving the price high. Octopus and OVO will say, “If we can reduce the demand across our consumer base, we can reward the consumers for doing so and the cost of supply is less”. That is then reducing the peak, enabling a more resilient system.
+
+It is still very nascent, but, again, we are one of the most advanced in the world, with over 2 million subscribers across those suppliers providing support to the system. Almost daily at the moment, I am getting an email for Octopus asking if I can reduce my demand between 6 pm and 7 pm.
+
+In the clean power 2030 advice, we said that we need about 12,000 megawatts of that service across industry and domestic demand for 2030. That is a huge benefit, because obviously it reduces your reliance on unabated gas over those peak periods.
+
+The Chair: Just on that issue of reducing demand, we could move electricity demand for heating to other sources, such as thermal storage. Is that something that is being looked at seriously? That is a large bulk of demand for electricity at high periods when it is very cold.
+
+Julian Leslie: We are looking at that whole forward look at what that demand might be, looking at the technologies that we will have to heat our homes and how flexible they can be. Again, it is for us to set out the requirements and then for markets to deliver against those requirements.
+
+Q63 Baroness McIntosh of Pickering: There is an issue in rural areas where smart meters do not work. When we have these plans based on demand, can we just bear in mind that the smart meters do not work because the signal is not good enough? Then they come up with all these highfalutin ideas to put in something else that then needs something else. We just feel very aggrieved that we cannot have a system whereby we would benefit from these wonderful things coming out.
+
+Julian Leslie: It is not a role for NESO, but I understand the concern.
+
+Q64 The Chair: I have one final question. The strategic spatial energy plan will map potential electricity and hydrogen generation and storage infrastructure for Britain. The plan is being delivered by NESO and is due in the latter half of 2027. Who sets that timeframe? Is that satisfactory given the urgency for the decisions to be taken immediately?
+
+Julian Leslie: We were commissioned by Government to do the work. There was a change a year into that commission with some better data that we felt was so significant that it was better to pause and to redo the analysis.
+
+As I say, we have delivered our work to the Secretary of State; we did that in August of this year. The Secretary of State is now debating as to which of those pathways to take. We expect to get a decision on that towards the end of this year.
+
+Then throughout 2027, it will become public and we will be consulting upon that chosen pathway. Although it will not be set in stone until the end of 2027, people will get to see the trajectory and direction of travel, and to start to refine and to build their plans, I hope from the early part of next year.
+
+The Chair: Thank you. We wait in anticipation. I very much hope that it will not be the same story as it was with the land use framework, which was put back and put back and put back. This is really important, so I hope NESO will do everything to make sure that it does not hold up delivery. With that, thank you very much for taking the time to be with us today and for being so patient with our questions.

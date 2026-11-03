@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18211,
+  "activity_id": 38855,
+  "document_id": 309030,
+  "meeting_date": "2026-10-27",
+  "meeting_date_display": "27 October 2026",
+  "publication_date": "2026-11-02T11:40:56",
+  "title": "Support for Jurors",
+  "committee": "Justice and Home Affairs Committee",
+  "committees": [
+    {
+      "id": 519,
+      "name": "Justice and Home Affairs Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9957,
+      "title": "Support for Jurors",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Minister of State for Courts and Legal Services",
+      "organisation": "Ministry of Justice"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Operations Director",
+      "organisation": "HM Courts and Tribunals Service"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Sarah Sackman",
+    "Daniel Flury",
+    "Baroness Buscombe",
+    "Lord Anderson of Ipswich",
+    "Lord Moraes",
+    "Baroness Berridge",
+    "Lord Tope",
+    "Lord Bach",
+    "Lord Dubs",
+    "Baroness Hughes of Stretford",
+    "Lord Empey"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18211/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18211",
+  "source_sha256": "d333e20284670295e01214a977b46cbd329c870485edb7204a8f271a94cfab58",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

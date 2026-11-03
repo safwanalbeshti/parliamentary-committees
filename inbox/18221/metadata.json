@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18221,
+  "activity_id": 39188,
+  "document_id": 309102,
+  "meeting_date": "2026-10-27",
+  "meeting_date_display": "27 October 2026",
+  "publication_date": "2026-11-02T16:15:33",
+  "title": "One-off Session on Defence Medical Services",
+  "committee": "Defence Committee",
+  "committees": [
+    {
+      "id": 24,
+      "name": "Defence Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10028,
+      "title": "One-off Session on Defence Medical Services",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Lt Gen (Rtd) Martin Bricknell CB",
+      "role": "",
+      "organisation": ""
+    },
+    {
+      "name": "Major General (Rtd) Timothy Hodgetts CB CBE",
+      "role": "",
+      "organisation": ""
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Lincoln Jopp",
+    "Lt Gen Bricknell",
+    "Maj Gen Hodgetts",
+    "Mike Martin",
+    "Michelle Scrogham",
+    "Jesse Norman",
+    "Graeme Downie",
+    "Derek Twigg",
+    "Ian Roome",
+    "Emma Lewell"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18221/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18221",
+  "source_sha256": "28b0d3e02e0d27b54964e76f9d74442b7633e72b4c0d9c93c2378e180059c9fa",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

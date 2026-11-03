@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18209,
+  "activity_id": 39184,
+  "document_id": 309006,
+  "meeting_date": "2026-10-29",
+  "meeting_date_display": "29 October 2026",
+  "publication_date": "2026-11-02T10:18:38",
+  "title": "Draft Conversion Practices Bill",
+  "committee": "Draft Conversion Practices Bill (Joint Committee)",
+  "committees": [
+    {
+      "id": 851,
+      "name": "Draft Conversion Practices Bill (Joint Committee)",
+      "house": "Joint"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10049,
+      "title": "Draft Conversion Practices Bill",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Stephen Kiely",
+      "role": "Head of Policy and Public Affairs",
+      "organisation": "Stonewall"
+    },
+    {
+      "name": "Kai O'Doherty",
+      "role": "Director of Policy and Research",
+      "organisation": "Galop"
+    },
+    {
+      "name": "Professor Ilias Trispiotis",
+      "role": "Member of Steering Group",
+      "organisation": "Ban Conversion Practices Coalition"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Professor Trispiotis",
+    "Kai O’Doherty",
+    "Stephen Kiely",
+    "Lord Isaac",
+    "Lord Issac",
+    "Baroness Brown of Silvertown",
+    "Olivia Bailey",
+    "Sir Jeremy Wright",
+    "Naz Shah",
+    "Lord Hope of Craighead",
+    "Other countries have done this slightly differently",
+    "Baroness Browning",
+    "Marie Goldman",
+    "Baroness Prentis of Banbury",
+    "Dennis Kavanagh",
+    "Helen Joyce",
+    "Dermot Kehoe",
+    "There are two insights in that for us",
+    "We then have a question for the jury",
+    "This is not an unusual example"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18209/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18209",
+  "source_sha256": "f74728a67a6107281e8e9918cd9053fc4e248f841c4406035955bc35b43e3746",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

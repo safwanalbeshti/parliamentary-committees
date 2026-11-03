@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18208,
+  "activity_id": 38981,
+  "document_id": 308976,
+  "meeting_date": "2026-10-28",
+  "meeting_date_display": "28 October 2026",
+  "publication_date": "2026-11-02T08:30:46",
+  "title": "Work of NESO",
+  "committee": "Energy Security and Net Zero Committee",
+  "committees": [
+    {
+      "id": 664,
+      "name": "Energy Security and Net Zero Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9613,
+      "title": "Work of NESO",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Chief Executive",
+      "organisation": "National Energy System Operator (NESO)"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chief Operating Officer",
+      "organisation": "National Energy System Operator (NESO)"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Fintan Slye",
+    "Kayte O’Neill",
+    "Allied to that, it got me thinking",
+    "Melanie Onn",
+    "Catherine Fookes",
+    "We have some really practical measures on the ground",
+    "Graeme Downie",
+    "Torcuil Crichton",
+    "Mike Reader",
+    "Bradley Thomas",
+    "Lizzi Collinge",
+    "Wera Hobhouse",
+    "Sir Christopher Chope",
+    "Claire Young"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18208/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18208",
+  "source_sha256": "37ad8f2c24c8b8a1815313e54f9fc6a857351381097d6034289d51234eedf5f6",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

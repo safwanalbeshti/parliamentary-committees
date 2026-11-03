@@ -1,0 +1,340 @@
+{
+  "schema_version": 1,
+  "source_id": 18211,
+  "source_sha256": "d333e20284670295e01214a977b46cbd329c870485edb7204a8f271a94cfab58",
+  "title": "Juror support: what’s available, what’s missing",
+  "label": "27 October 2026 · Support for jurors",
+  "summary": "The Minister for Courts and Legal Services and HMCTS operations director told the Lords committee what the department knows about juror welfare, the evidence they relied on, planned national minimum standards, and why the Government favours targeted support rather than a universal counselling offer. Committee members pushed on training for court staff, payments and financial barriers to serving, rules about jurors speaking after trial, how new kinds of evidence affect jurors, and the impact of the Courts and Tribunals Bill on what jurors will see.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Foster of Bath",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Sarah Sackman",
+      "name": "Sarah Sackman KC MP",
+      "role": "Minister of State for Courts and Legal Services, Ministry of Justice",
+      "kind": "witness"
+    },
+    {
+      "label": "Daniel Flury",
+      "name": "Daniel Flury",
+      "role": "Operations Director, HM Courts and Tribunals Service",
+      "kind": "witness"
+    },
+    {
+      "label": "Baroness Buscombe",
+      "name": "Baroness Buscombe",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Anderson of Ipswich",
+      "name": "Lord Anderson of Ipswich",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Moraes",
+      "name": "Lord Moraes",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Berridge",
+      "name": "Baroness Berridge",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Tope",
+      "name": "Lord Tope",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Dubs",
+      "name": "Lord Dubs",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Hughes of Stretford",
+      "name": "Baroness Hughes of Stretford",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Empey",
+      "name": "Lord Empey",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Bach",
+      "name": "Lord Bach",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Crown Court",
+      "definition": "The courts that hear serious criminal trials in England and Wales, including jury trials."
+    },
+    {
+      "term": "magistrates' court",
+      "definition": "Local courts that deal with less serious criminal cases and some preliminary hearings."
+    },
+    {
+      "term": "RASSO",
+      "definition": "Rape and serious sexual offences."
+    },
+    {
+      "term": "jury deliberation room",
+      "definition": "The private room where jurors discuss the evidence and decide a verdict; what happens there is confidential."
+    },
+    {
+      "term": "Operation Soteria",
+      "definition": "A programme improving how rape and sexual offence cases are handled in the criminal justice system."
+    },
+    {
+      "term": "Victim Support",
+      "definition": "A UK charity that provides emotional and practical help to victims and sometimes to jurors after harrowing trials."
+    },
+    {
+      "term": "Samaritans",
+      "definition": "A 24/7 UK helpline that offers listening support for people in distress."
+    },
+    {
+      "term": "juror experience survey",
+      "definition": "An anonymous survey HMCTS runs to collect jurors' feedback about their court experience."
+    },
+    {
+      "term": "national minimum standards",
+      "definition": "Planned baseline rules and information that every juror should receive, to make support consistent across courts."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What the department has learned",
+      "takeaway": "Most jurors report a positive experience, but the Ministry has studied juror needs and will set national minimum standards because current support varies and can be improved.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Welcome. Could you both introduce yourselves for the record?"
+        },
+        {
+          "speaker": "Sarah Sackman",
+          "text": "I'm Sarah Sackman, Minister for Courts and Legal Services."
+        },
+        {
+          "speaker": "Daniel Flury",
+          "text": "I'm Daniel Flury, operations director at HM Courts and Tribunals Service."
+        },
+        {
+          "speaker": "Baroness Buscombe",
+          "text": "What assessment have you made of how well jurors are supported when they find trials distressing?"
+        },
+        {
+          "speaker": "Sarah Sackman",
+          "text": "We know jury service is vital and most jurors report a positive experience. But support has been patchy, so we commissioned research and run a juror experience survey to understand where support must be more consistent."
+        },
+        {
+          "speaker": "Daniel Flury",
+          "text": "Dr Hannah Fawcett and Dr Matt Brooks studied 16 Crown Court centres, testing an end-of-trial intervention, enhanced jury-officer training and a dedicated helpline to see what works."
+        }
+      ]
+    },
+    {
+      "title": "Specialist counselling vs signposting",
+      "takeaway": "A specialist counselling offer had very low take-up in the study, so ministers favour clear signposting and targeted help for the most traumatic trials rather than an expensive universal counselling service.",
+      "turns": [
+        {
+          "speaker": "Baroness Buscombe",
+          "text": "In Scotland the Rivers Centre offers NHS specialist counselling. Are you looking at that model?"
+        },
+        {
+          "speaker": "Daniel Flury",
+          "text": "We're aware of it. HMCTS currently signposts jurors to their GP, Samaritans and charities; we haven't planned to replicate Rivers but will consider options in our response to the Fawcett and Brooks report."
+        },
+        {
+          "speaker": "Sarah Sackman",
+          "text": "The Fawcett and Brooks study covered 17,811 jurors; only ten used the specialist counselling offered. That suggests low national demand, though it can be crucial for the few who need it."
+        },
+        {
+          "speaker": "Lord Anderson of Ipswich",
+          "text": "You mentioned Victim Support helped jurors in the Lucy Letby trial. Was that planned and is it routine?"
+        },
+        {
+          "speaker": "Daniel Flury",
+          "text": "It was ad hoc: Victim Support in Manchester offered post-trial help; judges or HMCTS can arrange charity support for particular distressing trials. It's not routine but HMCTS can arrange and fund it when needed."
+        },
+        {
+          "speaker": "Sarah Sackman",
+          "text": "We agree knowing support exists is itself valuable. Our aim is national minimum standards to make clear what jurors can expect and where to get help."
+        }
+      ]
+    },
+    {
+      "title": "Court staff, training and front-line handling",
+      "takeaway": "Court ushers and jury officers now get trauma-informed training and a grade uplift, but staff can still face distressing calls and need clearer, consistent referral routes for jurors.",
+      "turns": [
+        {
+          "speaker": "Lord Moraes",
+          "text": "What training do court staff get to support jurors?"
+        },
+        {
+          "speaker": "Daniel Flury",
+          "text": "We provide a training workbook for jury bailiffs (last updated 2025), trauma-informed training across HMCTS, and we're preparing further updates as the role has shifted towards listening and de-escalation."
+        },
+        {
+          "speaker": "Baroness Berridge",
+          "text": "Administrative staff regularly get calls from jurors who are struggling. Should there be a routine service rather than relying on signposting?"
+        },
+        {
+          "speaker": "Daniel Flury",
+          "text": "Admin staff often rotate into usher roles and receive the same trauma training. We do make interim payments or lighter duties for staff after harrowing trials, but for jurors we still rely on GP, Samaritans and referral pathways."
+        },
+        {
+          "speaker": "Sarah Sackman",
+          "text": "I recognise their strain. We must improve signposting and spread best practice; staff are not clinicians but we can support them and improve how jurors are referred to clinical help where needed."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Can you write us more about the Samaritans referral pathway and what exactly was provided in the Letby case?"
+        }
+      ]
+    },
+    {
+      "title": "Confidentiality, social media and research into jury deliberation",
+      "takeaway": "Jurors must keep deliberations secret; that limits what researchers or jurors can say, and Scotland's different research rules would need primary legislation to change here.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Why can a member of the public post about open-court evidence but a juror cannot, even after the trial?"
+        },
+        {
+          "speaker": "Sarah Sackman",
+          "text": "The law bars jurors from discussing deliberations and prevents them commenting on open-court material in ways that could cross into deliberation. This protects the integrity of the verdict and jurors themselves."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Does WhatsApp count as social media—can jurors tell family what they saw in open court on a family group?"
+        },
+        {
+          "speaker": "Sarah Sackman",
+          "text": "Debate aside, anything that risks revealing deliberations is prohibited; private messages can be shared outside a group, so jurors should avoid commentary that risks breaching confidentiality."
+        },
+        {
+          "speaker": "Lord Dubs",
+          "text": "Some countries allow therapeutic exceptions so jurors can discuss deliberations with a clinician. Are we considering that?"
+        },
+        {
+          "speaker": "Sarah Sackman",
+          "text": "We know those models but they raise legal and clinical questions about disclosure and confidentiality; no changes are planned. Scotland allows certain research into deliberations, but adopting that would need primary legislation."
+        },
+        {
+          "speaker": "Chair",
+          "text": "So to enable research on deliberation rooms here we'd need Parliament to change the law."
+        },
+        {
+          "speaker": "Sarah Sackman",
+          "text": "Yes, that would require primary legislation to change the confidentiality rules around juror deliberations."
+        }
+      ]
+    },
+    {
+      "title": "Practical barriers: evidence types, expenses, and the system backlog",
+      "takeaway": "More trials now include graphic audio-visual evidence, juror expenses haven't risen since 2010 and cause barriers to participation, and reforms aim to reduce Crown Court backlog by triaging less serious cases to magistrates' courts while boosting magistrates and capacity.",
+      "turns": [
+        {
+          "speaker": "Baroness Berridge",
+          "text": "Will your national standards address the changing diet for jurors—more RASSO cases and video evidence, which can be more traumatic?"
+        },
+        {
+          "speaker": "Daniel Flury",
+          "text": "Yes. RASSO has grown and about 75% of Crown Court trials now include audio-visual material; that fact underpins our trauma-informed training and will inform the standards."
+        },
+        {
+          "speaker": "Sarah Sackman",
+          "text": "We're extending Operation Soteria principles and creating specialist RASSO courts; jurors in those settings will face staff trained in trauma-informed practice, which should help."
+        },
+        {
+          "speaker": "Lord Empey",
+          "text": "When were juror expenses last reviewed and can you change the payment process? Some jurors face large upfront childcare costs."
+        },
+        {
+          "speaker": "Sarah Sackman",
+          "text": "Expenses haven't risen since 2010. The daily rate is £64.95, rising after 10 days; two-thirds of juror spend covers financial loss. We will look at expenses in planning for the next spending review and can make interim payments during long trials."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Interim payments help, but paying expenses promptly up front could reduce barriers and make juries more representative."
+        },
+        {
+          "speaker": "Lord Tope",
+          "text": "Why didn't the Government support Juror Appreciation Week this year?"
+        },
+        {
+          "speaker": "Sarah Sackman",
+          "text": "We publicised and supported the week on social channels and remain committed to juror wellbeing; we'll check and write to the committee about the exact level of formal support."
+        },
+        {
+          "speaker": "Baroness Hughes of Stretford",
+          "text": "The Courts and Tribunals Bill will let more either-way cases stay in magistrates' courts. Will that change the kinds of cases jurors see?"
+        },
+        {
+          "speaker": "Sarah Sackman",
+          "text": "Jury trials remain for the most serious offences. The Bill lets the court allocate appropriate cases so the Crown Court can clear backlog; magistrates will keep cases within their sentencing powers. We will monitor allocations and a review is built into the Bill."
+        },
+        {
+          "speaker": "Baroness Hughes of Stretford",
+          "text": "But if magistrates keep more cases locally, could jurors end up seeing a higher share of serious, distressing matters?"
+        },
+        {
+          "speaker": "Sarah Sackman",
+          "text": "Not really—jury trials are still for the most serious cases. If a case has aggravating features the court will send it to the Crown. We will expand magistrates' capacity too—recruiting more magistrates and legal advisers—so work isn't simply shifted."
+        },
+        {
+          "speaker": "Lord Bach",
+          "text": "Will the juror experience survey be changed to ask about mental health or well-being?"
+        },
+        {
+          "speaker": "Sarah Sackman",
+          "text": "It currently doesn't explicitly ask about wellbeing. Given this inquiry and our standards work, we will add wellbeing questions to get better data."
+        },
+        {
+          "speaker": "Lord Empey",
+          "text": "Please treat juror expenses as urgent—no raise since 2010 is damaging the representativeness of juries."
+        },
+        {
+          "speaker": "Sarah Sackman",
+          "text": "I accept the point. We'll look at uprating and at faster payment mechanisms in the next spending review while balancing other urgent criminal-justice spend."
+        },
+        {
+          "speaker": "Chair",
+          "text": "You said removing the cap on Crown Court sitting days helps the backlog. What else are you doing and will it affect prisons and probation?"
+        },
+        {
+          "speaker": "Sarah Sackman",
+          "text": "We lifted the cap on sitting days, introduced more efficient practices, blitz/case-progression measures, and plan the Courts and Tribunals Bill. The impact assessment models increased pressure on prisons from more finalisations and reduced remand delays; HMPPS impacts are included in the modelling."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. Please send the committee the additional details you offered about Samaritans referrals, Juror Appreciation Week support, the form for hardship payments, and any statistics you can on trials that stop because jurors can't continue."
+        },
+        {
+          "speaker": "Sarah Sackman",
+          "text": "We will write with those details quickly so the committee can use them in its report."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you both for your time and full answers."
+        }
+      ]
+    }
+  ]
+}

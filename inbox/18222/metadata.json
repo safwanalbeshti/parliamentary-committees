@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18222,
+  "activity_id": 39063,
+  "document_id": 309103,
+  "meeting_date": "2026-10-27",
+  "meeting_date_display": "27 October 2026",
+  "publication_date": "2026-11-02T16:16:02",
+  "title": "One-off Session on Defence Medical Services",
+  "committee": "Defence Committee",
+  "committees": [
+    {
+      "id": 24,
+      "name": "Defence Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10028,
+      "title": "One-off Session on Defence Medical Services",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Visiting Fellow",
+      "organisation": "King's College London"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "MD Government Services International",
+      "organisation": "International SOS"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Senior Medical Director",
+      "organisation": "International SOS"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Jesse Norman",
+    "Dr Mann",
+    "Dr Geary",
+    "Ed Button",
+    "Emma Lewell",
+    "Mike Martin",
+    "For example, let’s look at the healthcare estate we have talked about",
+    "Graeme Downie",
+    "Michelle Scrogham",
+    "Derek Twigg",
+    "Ian Roome",
+    "Lt Gen Bricknell",
+    "Maj Gen Hodgetts"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18222/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18222",
+  "source_sha256": "6f632acc62dbb8681d318ffe7c2d3754fcefa0d199de0057fd907056a0ed7176",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

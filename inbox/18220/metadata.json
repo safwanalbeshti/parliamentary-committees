@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18220,
+  "activity_id": 39161,
+  "document_id": 309089,
+  "meeting_date": "2026-10-27",
+  "meeting_date_display": "27 October 2026",
+  "publication_date": "2026-11-02T15:42:01",
+  "title": "Global Health",
+  "committee": "International Development Committee",
+  "committees": [
+    {
+      "id": 98,
+      "name": "International Development Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9883,
+      "title": "Global Health",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Monica Ferro",
+      "role": "Director",
+      "organisation": "UNFPA London representative office"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Technical adviser for MSF's Humanitarian Nutrition Fund",
+      "organisation": "Médecins Sans Frontières"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Post-Doctoral Research Associate, International Public Health",
+      "organisation": "Liverpool School of Tropical Medicine, Malawi"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Assistant Professor, Department of Pathology and Department of Biochemistry",
+      "organisation": "University of Cambridge"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Jerop Limo",
+    "Dr Kaoma",
+    "Abadi Assefa",
+    "Brian Mathew",
+    "Tracy Gilbert",
+    "David Mundell",
+    "Noah Law",
+    "Dr Salje",
+    "Dr de Polnay",
+    "Monica Ferro",
+    "Dr Uadiale",
+    "Dr Sam Rushworth",
+    "David Taylor",
+    "In reality, this is how outbreaks are detected",
+    "Monica Harding",
+    "Tulip Siddiq",
+    "The other thing I would say is",
+    "My last claim would be"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18220/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18220",
+  "source_sha256": "4571e542344468ec1ffbfd762be27208f2b4ee6b85ab90d18a42af9fe355b37f",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

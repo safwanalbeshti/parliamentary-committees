@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18187,
+  "activity_id": 39051,
+  "document_id": 309000,
+  "meeting_date": "2026-10-22",
+  "meeting_date_display": "22 October 2026",
+  "publication_date": "2026-11-02T10:08:31",
+  "title": "Clean Power by 2030: Upgrading the grid",
+  "committee": "Public Accounts Committee",
+  "committees": [
+    {
+      "id": 127,
+      "name": "Public Accounts Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9905,
+      "title": "Clean Power by 2030: Upgrading the grid",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [],
+  "speaker_candidates": [
+    "Chair",
+    "Jonathan Brearley",
+    "Emily Bourne",
+    "Tim Jarvis",
+    "Beatrice Filkin",
+    "Fintan Slye",
+    "Rupert Lowe",
+    "Anna Dixon",
+    "Tim or Beatrice might best answer this",
+    "Chris Kane",
+    "Finally, as a matter of interest",
+    "Again, it comes down to this question",
+    "Joshua Reddaway"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18187/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18187",
+  "source_sha256": "5d976df88251aadde04f026ebda5bee1f84dcca36bdc0b62210cb195adde46b4",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

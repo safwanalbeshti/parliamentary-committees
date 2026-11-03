@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18213,
+  "activity_id": 39174,
+  "document_id": 309073,
+  "meeting_date": "2026-10-28",
+  "meeting_date_display": "28 October 2026",
+  "publication_date": "2026-11-02T12:51:07",
+  "title": "The UK’s constitutional safeguards",
+  "committee": "Constitution Committee",
+  "committees": [
+    {
+      "id": 172,
+      "name": "Constitution Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9861,
+      "title": "The UK’s constitutional safeguards",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Professor Anne Twomey",
+      "role": "Professor Emerita",
+      "organisation": "University of Sydney Law School"
+    },
+    {
+      "name": "Professor Vanessa MacDonnell",
+      "role": "University Research Chair in Democratic Constitutionalism and Associate Professor",
+      "organisation": "University of Ottawa"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Professor Anne Twomey",
+    "Professor Vanessa MacDonnell",
+    "Lord Bellamy",
+    "Lord Waldegrave of North Hill",
+    "Lord Bichard",
+    "Lord Murphy of Torfaen",
+    "Baroness Laing of Elderslie",
+    "Lord Griffiths of Burry Port"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18213/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18213",
+  "source_sha256": "45726d0ff9eb3d7d32bb021bbaccc8449e2c030b54ccee4b12fe6dff5f9be2e7",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}
