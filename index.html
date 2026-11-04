@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Parliamentary Committees, in Plain English</title>
-    <link rel="stylesheet" href="styles.css?v=16" />
+    <link rel="stylesheet" href="styles.css?v=17" />
     <link rel="preload" as="image" href="Energy Resilience/committee_room_4.png" />
   </head>
   <body>
@@ -309,15 +309,6 @@
           <div class="about-copy">
             <h3>This session in a nutshell</h3>
             <p id="aboutSummary"></p>
-            <p class="licence-note">
-              Contains Parliamentary information licensed under the
-              <a
-                href="https://www.parliament.uk/site-information/copyright/open-parliament-licence/"
-                target="_blank"
-                rel="noopener"
-              >Open Parliament Licence v3.0 ↗</a>.
-              This is an independent project and is not endorsed by UK Parliament.
-            </p>
           </div>
         </section>
 
@@ -328,7 +319,14 @@
             type="button"
             aria-expanded="false"
             aria-controls="whatThisIsTip"
-          >What this is</button>
+          >
+            <svg class="what-this-is-icon" viewBox="0 0 16 16" width="15" height="15" aria-hidden="true" focusable="false">
+              <circle cx="8" cy="8" r="7" fill="none" stroke="currentColor" stroke-width="1.5" />
+              <circle cx="8" cy="4.9" r="1" fill="currentColor" />
+              <path d="M8 7.2v4.6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" />
+            </svg>
+            What this is
+          </button>
           <div class="what-this-is-tip" id="whatThisIsTip">
             <p>
               Parliamentary committees publish full transcripts of their evidence sessions, but
@@ -340,6 +338,15 @@
               merged into one voice — nothing here is a direct quote. For the verbatim record,
               follow the official transcript link:
               <a id="aboutSourceLink" href="https://committees.parliament.uk/" target="_blank" rel="noopener">official transcript ↗</a>.
+            </p>
+            <p class="what-this-is-licence">
+              Contains Parliamentary information licensed under the
+              <a
+                href="https://www.parliament.uk/site-information/copyright/open-parliament-licence/"
+                target="_blank"
+                rel="noopener"
+              >Open Parliament Licence v3.0 ↗</a>.
+              This is an independent project and is not endorsed by UK Parliament.
             </p>
           </div>
         </div>

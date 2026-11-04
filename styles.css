@@ -910,7 +910,10 @@ h1 {
 }
 
 .what-this-is-button {
-  padding: 8px 14px;
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 8px 14px 8px 11px;
   border: 1px solid var(--line);
   border-radius: 999px;
   background: var(--panel);
@@ -923,6 +926,10 @@ h1 {
   box-shadow: 0 8px 22px rgba(24, 32, 38, 0.14);
   backdrop-filter: blur(12px);
   cursor: help;
+}
+
+.what-this-is-icon {
+  flex: none;
 }
 
 .what-this-is-button:focus-visible {
@@ -989,6 +996,13 @@ h1 {
 
 .what-this-is-tip p:last-child {
   margin-bottom: 0;
+}
+
+.what-this-is-licence {
+  padding-top: 8px;
+  border-top: 1px solid rgba(244, 242, 232, 0.18);
+  color: rgba(244, 242, 232, 0.72);
+  font-size: 0.72rem;
 }
 
 .what-this-is-tip a {
