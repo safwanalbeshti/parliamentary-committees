@@ -418,36 +418,6 @@ h1 {
   border-left: 1px solid rgba(24, 32, 38, 0.16);
 }
 
-/* ---------- chapter banner ---------- */
-
-.chapter-banner {
-  display: flex;
-  align-items: baseline;
-  gap: 12px;
-  min-height: 44px;
-  padding: 10px 14px;
-  border: 1px solid var(--line);
-  border-left: 4px solid var(--accent);
-  border-radius: var(--radius);
-  background: var(--panel);
-  box-shadow: 0 12px 30px rgba(24, 32, 38, 0.08);
-}
-
-.chapter-label {
-  flex-shrink: 0;
-  font-size: 0.78rem;
-  font-weight: 900;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: #5d6a64;
-}
-
-.chapter-takeaway {
-  color: var(--ink);
-  font-size: 0.86rem;
-  line-height: 1.35;
-}
-
 /* ---------- control panel ---------- */
 
 .control-panel {
@@ -1117,11 +1087,6 @@ h1 {
   .seat-nameplate {
     font-size: 0.62rem;
     padding: 3px 8px;
-  }
-
-  .chapter-banner {
-    flex-direction: column;
-    gap: 4px;
   }
 
   .control-button {
