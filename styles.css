@@ -901,11 +901,12 @@ h1 {
 
 /* ---------- "What this is" ---------- */
 
+/* Last item in the side column, so the tab panel above makes room for it. */
 .what-this-is {
-  position: fixed;
-  right: 18px;
-  bottom: 18px;
+  position: relative;
   z-index: 45;
+  flex: none;
+  align-self: flex-end;
 }
 
 .what-this-is-button {
@@ -993,14 +994,6 @@ h1 {
 .what-this-is-tip a {
   color: #f0c27a;
   font-weight: 800;
-}
-
-/* Below this width the Prev / Next dock is fixed to the bottom; sit above it. */
-@media (max-width: 1080px) {
-  .what-this-is {
-    right: 12px;
-    bottom: 100px;
-  }
 }
 
 /* ---------- animation ---------- */
