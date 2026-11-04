@@ -640,7 +640,7 @@ function selectSession(id) {
   const sourceUrl = session.sourceUrl || "https://committees.parliament.uk/";
   el.sourceLink.href = sourceUrl;
   el.aboutSourceLink.href = sourceUrl;
-  // The link reads "here" in the sentence; the source's status goes in its tooltip.
+  // The link reads "official transcript"; the source's exact status goes in its tooltip.
   if (session.sourceLabel) el.sourceLink.title = session.sourceLabel;
 
   populateSessionPicker();
