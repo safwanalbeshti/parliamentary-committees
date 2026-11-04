@@ -1,0 +1,242 @@
+{
+  "schema_version": 1,
+  "source_id": 18223,
+  "source_sha256": "2083b713bccd16a63f00c0849e3c0eb3b8c60baa4824f22b098c1edb7b14bc1c",
+  "title": "Mandatory payrolling of benefits in kind: readiness, costs and risks",
+  "label": "29 October 2026 · Mandatory payrolling of benefits in kind",
+  "summary": "Witnesses from payroll professionals, payroll-software providers and the CBI gave a mixed verdict on the Government’s plan to force employers to report most employee benefits through payroll in real time. They warned the phased roll-out will increase workload and errors in the short term, that many employers and software suppliers are not ready, and that HMRC’s IT and engagement have been inadequate. They urged more testing, clearer guidance, an extended penalty soft-landing and a rethink about simplification and investment in HMRC systems.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Liddle",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Mathew Akrigg",
+      "name": "Mathew Akrigg",
+      "role": "Policy and Advisory Lead, Chartered Institute of Payroll Professionals (CIPP)",
+      "kind": "witness"
+    },
+    {
+      "label": "Kevin Hart",
+      "name": "Kevin Hart",
+      "role": "CEO & Chair, Business Application Software Developers’ Association (BASDA)",
+      "kind": "witness"
+    },
+    {
+      "label": "Andy Scott",
+      "name": "Andy Scott",
+      "role": "Principal Tax Adviser, Confederation of British Industry (CBI)",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Leigh of Hurley",
+      "name": "Lord Leigh of Hurley",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Wheatcroft",
+      "name": "Baroness Wheatcroft",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Bi",
+      "name": "Baroness Bi",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Carrington of Fulham",
+      "name": "Lord Carrington of Fulham",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Newby",
+      "name": "Lord Newby",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "P11D",
+      "definition": "The current yearly employer return that reports many taxable employee benefits to HMRC."
+    },
+    {
+      "term": "RTI",
+      "definition": "Real Time Information: HMRC's system where payroll data is reported every pay period."
+    },
+    {
+      "term": "PAYE",
+      "definition": "Pay As You Earn: the system employers use to deduct income tax and National Insurance from pay."
+    },
+    {
+      "term": "Class 1A",
+      "definition": "Employer National Insurance charge on some benefits in kind."
+    },
+    {
+      "term": "payroll bureaus",
+      "definition": "Businesses that provide payroll services to employers, often handling report submissions and pay processing."
+    },
+    {
+      "term": "HMRC",
+      "definition": "Her Majesty's Revenue & Customs, the UK tax authority."
+    },
+    {
+      "term": "PAYE settlement agreements",
+      "definition": "An existing option allowing employers to pay tax on minor or irregular benefits on behalf of employees."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What the change is and who was speaking",
+      "takeaway": "The witnesses explained the Government wants most benefits reported through payroll in real time, and set out who they represent.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Today we are looking at the Government’s proposal to make reporting most benefits in kind mandatory in payroll, replacing much of the P11D process."
+        },
+        {
+          "speaker": "Kevin Hart",
+          "text": "I represent BASDA, the trade body for business software developers; our PAYE special interest group is focused on these changes."
+        },
+        {
+          "speaker": "Mathew Akrigg",
+          "text": "I’m from the Chartered Institute of Payroll Professionals (CIPP); I’ve also worked inside HMRC on this project."
+        },
+        {
+          "speaker": "Andy Scott",
+          "text": "I’m the CBI’s principal tax adviser; our members range from small firms to large groups, and I run the employment taxes working group."
+        }
+      ]
+    },
+    {
+      "title": "Short-term impact and readiness",
+      "takeaway": "All three witnesses said the short-term effect will likely be more burden, errors and confusion because many employers and software providers aren’t ready.",
+      "turns": [
+        {
+          "speaker": "Mathew Akrigg",
+          "text": "This is a phased move but it changes where work happens: instead of an annual P11D, employers must handle the same work across each pay period, and that creates friction."
+        },
+        {
+          "speaker": "Kevin Hart",
+          "text": "Payroll software is designed for pay, not benefits valuation and HR data. Most employers expect software to solve everything, but many are unprepared and the data often sits with benefit providers or HR."
+        },
+        {
+          "speaker": "Andy Scott",
+          "text": "It’s a mixed picture: some businesses have voluntarily payrolled benefits for years and will be fine, others—especially with complex benefit structures—face a big task and need more time."
+        },
+        {
+          "speaker": "Mathew Akrigg",
+          "text": "Payroll outsourcers and accountancy firms will also be affected: revenue from P11D work may move into payroll services, increasing ongoing costs for employers."
+        }
+      ]
+    },
+    {
+      "title": "Consultation, testing and the timeline",
+      "takeaway": "Witnesses said HMRC engagement, detailed technical specifications and testing have been too slow; they urged more time and better testing before April.",
+      "turns": [
+        {
+          "speaker": "Baroness Wheatcroft",
+          "text": "This has been planned for some time. Given the lack of effective consultation, can the April deadline be met and what should the Government do now?"
+        },
+        {
+          "speaker": "Andy Scott",
+          "text": "HMRC’s policy team has engaged, but the detailed technical specs for software arrived late. Many members say five or six months’ notice for specs is insufficient; some need 12 months."
+        },
+        {
+          "speaker": "Kevin Hart",
+          "text": "We asked to meet HMRC regularly from early 2024 but weren’t taken up. Crucial things like end-to-end testing were delayed; the main HMRC test system only became available after supplier changes."
+        },
+        {
+          "speaker": "Kevin Hart",
+          "text": "Software suppliers need time to implement and to get into employer systems. Many employers have a year-end or Christmas code freeze when they won’t accept changes."
+        },
+        {
+          "speaker": "Mathew Akrigg",
+          "text": "The crunch is now: software must know exactly what to implement for employers to be educated. Communications so far risk telling employers there’s a small RTI change when it’s much bigger."
+        },
+        {
+          "speaker": "Baroness Bi",
+          "text": "Given code freezes and late specs, would you recommend pushing the deadline from April 2027 to April 2028?"
+        },
+        {
+          "speaker": "Mathew Akrigg",
+          "text": "Politically a further delay is unlikely because of Treasury costings, but practical reliefs and administrative easements should be considered."
+        },
+        {
+          "speaker": "Kevin Hart",
+          "text": "Phase 2 should be deferred: learn from phase 1 and fix the end-of-year process before piling on more complex items like loans and accommodation."
+        }
+      ]
+    },
+    {
+      "title": "Costs, parallel systems and penalties",
+      "takeaway": "Witnesses challenged HMRC’s low cost estimates, warned employers may run systems in parallel for years, and urged an extended penalty soft-landing.",
+      "turns": [
+        {
+          "speaker": "Lord Carrington of Fulham",
+          "text": "With some benefits excluded until later, firms may need to run P11D and payroll reporting in parallel. That seems costly and complex—what about HMRC’s £8 million estimate?"
+        },
+        {
+          "speaker": "Kevin Hart",
+          "text": "That £8 million looks wildly low. From software industry experience we estimate the real cost could be several times higher—perhaps fivefold—because this is a new business function, not a small RTI tweak."
+        },
+        {
+          "speaker": "Mathew Akrigg",
+          "text": "Employers face additional software, admin and reconciliation costs. The supposed one-off saving is mainly the removed P11D fee, but the ongoing burden may just spread across the year."
+        },
+        {
+          "speaker": "Lord Newby",
+          "text": "HMRC’s numbers implied just a few dozen pounds per employer. That’s implausible given the hours and specialist staff some firms have already spent."
+        },
+        {
+          "speaker": "Andy Scott",
+          "text": "One member has quantified 3,500 hours of implementation work, costing far more than HMRC’s implied per-employer figure. There is a big gulf between HMRC’s model and businesses’ experience."
+        },
+        {
+          "speaker": "Lord Newby",
+          "text": "HMRC plans a penalty soft-landing in year one. Will that be enough?"
+        },
+        {
+          "speaker": "Mathew Akrigg",
+          "text": "Soft-landing needs extending through the phased roll-out and year-end process. Penalties should be reserved for deliberate non-compliance, not honest mistakes in a rushed transition."
+        }
+      ]
+    },
+    {
+      "title": "Recommendations and closing points",
+      "takeaway": "Witnesses urged better HMRC engagement, more testing, administrative easements, simplification of benefit rules, and investment in modern HMRC systems.",
+      "turns": [
+        {
+          "speaker": "Andy Scott",
+          "text": "Policymakers should step back and look across the system: simplify rules where possible, consider more flexible PAYE settlement agreements and update legacy allowances to reduce reporting volumes."
+        },
+        {
+          "speaker": "Kevin Hart",
+          "text": "We urged HMRC to engage closely with software providers and benefit suppliers and to invest in better data-exchange systems; RTI is showing its age."
+        },
+        {
+          "speaker": "Mathew Akrigg",
+          "text": "Practical steps: clearer employer guidance, targeted easements for firms and software providers that cannot be ready, and an extended penalty soft-landing."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. Is there anything you want to add that you haven’t said?"
+        },
+        {
+          "speaker": "Kevin Hart",
+          "text": "Only that HMRC needs to be honest about the scale of change and fund the right systems and engagement: otherwise this will be a costly, stressful transition for employers and the tax authority alike."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you to all three witnesses for a thorough session. The committee will reflect on these points as we prepare our report."
+        }
+      ]
+    }
+  ]
+}

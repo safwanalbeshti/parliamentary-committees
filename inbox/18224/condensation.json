@@ -1,0 +1,320 @@
+{
+  "schema_version": 1,
+  "source_id": 18224,
+  "source_sha256": "387c7cc244d1e800f636348edd36680591ee338c6e7a161b0d8097bcfd9b958f",
+  "title": "Why A&E waits keep getting worse — and what ministers and NHS leaders say they'll do",
+  "label": "2 November 2026 · NHS A&E evidence session",
+  "summary": "The committee questioned senior DHSC and NHS England leaders about rising A&E waits, corridor care, higher costs, and poor patient outcomes. Witnesses accepted long waits cause harm, blamed a mix of rising demand, hospital flow and social care shortfalls, and described clinical programmes, data fixes and local leadership drives to reduce corridor care and delayed discharges—but gave no firm date for restoring the 95% four‑hour target and acknowledged data and capacity gaps.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Sir Geoffrey Clifton-Brown",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Samantha Jones",
+      "name": "Samantha Jones OBE",
+      "role": "Permanent Secretary, Department of Health and Social Care",
+      "kind": "witness"
+    },
+    {
+      "label": "Sir Jim Mackey",
+      "name": "Sir Jim Mackey",
+      "role": "Chief Executive Officer, NHS England",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Rowland",
+      "name": "Dr Emma Rowland",
+      "role": "Executive Director, performance and delivery; Chief Operating Officer, Homerton Healthcare Foundation Trust",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Briggs",
+      "name": "Professor Tim Briggs",
+      "role": "Consultant Orthopaedic Surgeon; Chair, Getting It Right First Time (GIRFT) programme, NHS England",
+      "kind": "witness"
+    },
+    {
+      "label": "Anna Dixon",
+      "name": "Anna Dixon",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Rupert Lowe",
+      "name": "Rupert Lowe",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Mr Betts",
+      "name": "Mr Clive Betts",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Matt Turmaine",
+      "name": "Matt Turmaine",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Sarah Green",
+      "name": "Sarah Green",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Tristan Osborne",
+      "name": "Tristan Osborne",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "A&E",
+      "definition": "Accident & Emergency department, where urgent and emergency patients are first assessed and treated."
+    },
+    {
+      "term": "corridor care",
+      "definition": "Patients being treated or waiting in hallways or other non-clinical spaces because no bed is available."
+    },
+    {
+      "term": "ICB",
+      "definition": "Integrated Care Board, the local NHS organisation responsible for planning and buying services."
+    },
+    {
+      "term": "PCN",
+      "definition": "Primary Care Network, a group of local GP practices working together around a population."
+    },
+    {
+      "term": "GIRFT",
+      "definition": "Getting It Right First Time, a clinician-led NHS programme to improve care quality and efficiency."
+    },
+    {
+      "term": "same-day emergency care",
+      "definition": "Care that treats patients who would otherwise be admitted but can be assessed and treated without an overnight stay."
+    },
+    {
+      "term": "urgent treatment centre",
+      "definition": "A local clinic that sees minor injuries and illnesses as an alternative to A&E."
+    },
+    {
+      "term": "better care fund",
+      "definition": "A pooled local health and social care budget aimed at joining up services and reducing delayed transfers."
+    },
+    {
+      "term": "EPR",
+      "definition": "Electronic patient record: hospital software that tracks patients, beds and care in real time."
+    },
+    {
+      "term": "place of safety",
+      "definition": "A setting where somebody in mental health crisis can be assessed safely, sometimes in or outside A&E."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "How bad is the problem and why it matters",
+      "takeaway": "Long A&E waits and corridor care have risen sharply, increase patient harm and are unacceptable to leaders.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Since 2014 the 95% four-hour A&E target has not been hit. Long waits and corridor care have gone up, with serious harm—ONS analysis links 12+ hour waits to higher mortality."
+        },
+        {
+          "speaker": "Samantha Jones",
+          "text": "We share the committee’s alarm. Ministers are focused on ending long waits and corridor care; the Department will provide more detail on structural changes soon."
+        },
+        {
+          "speaker": "Dr Rowland",
+          "text": "Every long wait is a person and family affected. Long waits—especially in A&E and corridors—cause harm and lengthen hospital stays, so our priority is eliminating them."
+        },
+        {
+          "speaker": "Sir Jim Mackey",
+          "text": "We accept the NAO report. This is a whole-system problem: front door demand, hospital flow and discharge all connect. Winter and unexpected demand spikes make it harder."
+        }
+      ]
+    },
+    {
+      "title": "Targets, beds and capacity",
+      "takeaway": "NHS leaders want to meet the 95% standard but give no firm date; more beds would help but funding and staffing are constraints.",
+      "turns": [
+        {
+          "speaker": "Rupert Lowe",
+          "text": "The constitution promises 95% within four hours. When will you achieve that?"
+        },
+        {
+          "speaker": "Sir Jim Mackey",
+          "text": "We aim for it daily but can’t commit a date from today; recovery will take longer than a couple of years given current demand and resources."
+        },
+        {
+          "speaker": "Rupert Lowe",
+          "text": "NAO says 115k–120k beds needed vs ~103k now and you haven’t costed the gap; does that show a lack of seriousness?"
+        },
+        {
+          "speaker": "Sir Jim Mackey",
+          "text": "We know bed and ward costs but not an affordable national plan to open thousands more staffed beds. We’re also trying to reduce bed need by shifting care into same-day and community services."
+        },
+        {
+          "speaker": "Anna Dixon",
+          "text": "Professor Briggs, what’s a safe bed occupancy?"
+        },
+        {
+          "speaker": "Professor Briggs",
+          "text": "About 85% is reasonable; currently we’re higher and about 14.7% of bed days are for patients ready to go, so discharges are vital to free beds."
+        }
+      ]
+    },
+    {
+      "title": "Corridor care: measuring it and tackling it",
+      "takeaway": "Corridor care is being measured more carefully and clinical-led interventions have halved breaches in some trusts, but reporting varies.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "RCEM estimates 16,000 excess deaths linked to long waits. What will you do about corridor care?"
+        },
+        {
+          "speaker": "Professor Briggs",
+          "text": "We set a new definition (45 minutes in an undesignated space) and are measuring it; we’ve worked with trusts and halved corridor cases in targeted sites using GIRFT clinical leadership and whole-team change."
+        },
+        {
+          "speaker": "Rupert Lowe",
+          "text": "How many were in corridors in September?"
+        },
+        {
+          "speaker": "Professor Briggs",
+          "text": "About 3,300 a day and roughly 99,000 a month—probably under-reported versus other figures."
+        },
+        {
+          "speaker": "Samantha Jones",
+          "text": "Ministers demand no tolerance for corridor care and have asked for a clear plan with timelines and responsibilities."
+        },
+        {
+          "speaker": "Matt Turmaine",
+          "text": "How do you spread good practice like West Herts that eradicated corridor care?"
+        },
+        {
+          "speaker": "Dr Rowland",
+          "text": "We visit high-performing sites, take model ED and model discharge practice, and run peer support; leadership and exec engagement are essential."
+        },
+        {
+          "speaker": "Professor Briggs",
+          "text": "GIRFT provides clinical operational standards and teams to help trusts embed the changes—this winter we’re working intensively with 40 trusts."
+        }
+      ]
+    },
+    {
+      "title": "Delayed discharge and social care",
+      "takeaway": "About a third of discharge delays relate to social care, and faster, joined-up discharge processes in hospitals could reclaim many lost bed days.",
+      "turns": [
+        {
+          "speaker": "Anna Dixon",
+          "text": "How much of delayed discharge is social care and what are you doing about joined-up discharges?"
+        },
+        {
+          "speaker": "Samantha Jones",
+          "text": "Roughly a third of delays are social-care related; DHSC and NHS England are working with local authorities through the better care fund and winter planning to unblock capacity."
+        },
+        {
+          "speaker": "Dr Rowland",
+          "text": "A big proportion is pathway-zero process issues—paperwork, transport and ward-round timing. Fixing these hospital processes can free many bed days quickly."
+        },
+        {
+          "speaker": "Professor Briggs",
+          "text": "We run pilots (RiO) to remove avoidable hospital-related delays and aim for lower occupancy over Christmas by improving discharge processes and weekend working."
+        },
+        {
+          "speaker": "Mr Betts",
+          "text": "PCN projects that reduce frailty demand can save money but local ICBs say funding can’t continue—why is that?"
+        },
+        {
+          "speaker": "Professor Briggs",
+          "text": "PCN programmes show big reductions in ED referrals; we’ve asked ICBs to review the evidence—some will continue if they see the local case—and NHS England will follow up where funding decisions threaten proven pilots."
+        }
+      ]
+    },
+    {
+      "title": "Demand, diagnostics and new care models",
+      "takeaway": "A&E demand has risen unexpectedly and patients are clinically more complex, driving up diagnostics and costs; same-day care and neighbourhood work reduce admissions.",
+      "turns": [
+        {
+          "speaker": "Mr Betts",
+          "text": "Why has A&E attendance risen? Is 111 to blame?"
+        },
+        {
+          "speaker": "Sir Jim Mackey",
+          "text": "We’ve seen about a 6% jump in urgent care attendance year-on-year; causes are unclear and fairly uniform nationally—better access to primary care, seasonal factors—no single cause identified."
+        },
+        {
+          "speaker": "Dr Rowland",
+          "text": "Use of 111 rose over summer but referrals to A&E from 111 stayed steady; many people self-present believing they need help."
+        },
+        {
+          "speaker": "Mr Betts",
+          "text": "You’ve increased staff in A&E yet per-patient costs rose and performance plateaued—why?"
+        },
+        {
+          "speaker": "Dr Rowland",
+          "text": "A&E cases are more complex (older, frail, comorbid) so diagnostics like CT/MRI are up ~50%; same-day care removes lower-complexity cases, leaving costlier case-mix in A&E."
+        },
+        {
+          "speaker": "Professor Briggs",
+          "text": "Primary care networks that target frailty cut ED referrals by ~23% in visits I made; shifting care into neighbourhood services reduces demand on hospitals."
+        }
+      ]
+    },
+    {
+      "title": "Data, accountability and preparing for winter",
+      "takeaway": "Leaders are improving realtime data and standards, holding boards to account, and preparing for winter, but data gaps, funding and staffing risks remain.",
+      "turns": [
+        {
+          "speaker": "Anna Dixon",
+          "text": "How much does tech like Bradford’s control centre help?"
+        },
+        {
+          "speaker": "Sir Jim Mackey",
+          "text": "Live bed and flow data is crucial; many trusts lack the EPR and bed-management tech Bradford has. We’re pushing digital upgrades but they cost and take time."
+        },
+        {
+          "speaker": "Tristan Osborne",
+          "text": "Are definitions of delays and corridor care consistent across trusts?"
+        },
+        {
+          "speaker": "Dr Rowland",
+          "text": "Corridor care has a new definition; reporting still varies. For discharge we now use pathway-based reports (P0–P3) to show needs and delays, though the data isn’t perfect."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Has industrial action affected progress?"
+        },
+        {
+          "speaker": "Sir Jim Mackey",
+          "text": "Strikes reduce headroom for improvement, cause short-term disruption and can leave longer-term recovery work unfinished; they complicate delivering change."
+        },
+        {
+          "speaker": "Samantha Jones",
+          "text": "For winter, DHSC and NHSE hold weekly senior review and expect ICBs and councils to sign board assurance; we’ve funded more urgent treatment centres and asked for clear plans on corridor care."
+        },
+        {
+          "speaker": "Professor Briggs",
+          "text": "We’re also pushing seven-day discharge practices—keeping discharge lounges and ward rounds active at weekends to avoid Monday blockages."
+        },
+        {
+          "speaker": "Rupert Lowe",
+          "text": "What enforcement do you have when trusts ignore guidance?"
+        },
+        {
+          "speaker": "Sir Jim Mackey",
+          "text": "We can intervene—replace boards, appoint turnaround directors—but intervention is a last resort and must be proportionate; sometimes national direction risks increasing local clinical risk if done without nuance."
+        },
+        {
+          "speaker": "Chair",
+          "text": "You’ll publish an urgent and elective care strategy soon and the Committee will follow up. Thank you for the evidence this afternoon."
+        }
+      ]
+    }
+  ]
+}

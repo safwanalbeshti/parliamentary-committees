@@ -58,6 +58,6 @@
   "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18218",
   "source_sha256": "769dd7ac16f84f91eddd6ee2f0a00bd5bdb2d83d4786fc27ac2528f20966d880",
   "licence": "Open Parliament Licence v3.0",
-  "packet_status": "awaiting-condensation",
+  "packet_status": "approved",
   "source_document_format": "Html"
 }

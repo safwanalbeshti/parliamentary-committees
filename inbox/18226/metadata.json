@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18226,
+  "activity_id": 39331,
+  "document_id": 309279,
+  "meeting_date": "2026-11-02",
+  "meeting_date_display": "2 November 2026",
+  "publication_date": "2026-11-03T15:24:51",
+  "title": "Draft Conversion Practices Bill",
+  "committee": "Draft Conversion Practices Bill (Joint Committee)",
+  "committees": [
+    {
+      "id": 851,
+      "name": "Draft Conversion Practices Bill (Joint Committee)",
+      "house": "Joint"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10049,
+      "title": "Draft Conversion Practices Bill",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Deputy Jayne Ozanne OBE",
+      "role": "",
+      "organisation": ""
+    },
+    {
+      "name": "Ian Smith",
+      "role": "",
+      "organisation": ""
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Baroness Prentis of Banbury",
+    "Lord Isaac",
+    "Ian Smith",
+    "Deputy Jayne Ozanne",
+    "Sir Jeremy Wright",
+    "Naz Shah",
+    "Danny Beales",
+    "It all comes down to shame. Personally, I think that is a huge driver",
+    "Lord Hope of Craighead",
+    "Baroness Browning"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18226/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18226",
+  "source_sha256": "4ab6c27b5b938f919a6c9761e2eb39923e8b14b257852c4c1217c82fb3f0fd23",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

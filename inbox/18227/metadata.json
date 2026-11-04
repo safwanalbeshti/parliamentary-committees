@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18227,
+  "activity_id": 39249,
+  "document_id": 309284,
+  "meeting_date": "2026-11-02",
+  "meeting_date_display": "2 November 2026",
+  "publication_date": "2026-11-03T15:36:17",
+  "title": "Societal resilience: a national conversation",
+  "committee": "National Security Strategy (Joint Committee)",
+  "committees": [
+    {
+      "id": 111,
+      "name": "National Security Strategy (Joint Committee)",
+      "house": "Joint"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9741,
+      "title": "Societal resilience: a national conversation",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Co-Chair of the National Consortium of Societal Resilience, and Chief Resilience Officer",
+      "organisation": "Suffolk Resilience Forum"
+    },
+    {
+      "name": "Professor Lee Miles",
+      "role": "Professor of Crisis and Disaster Management",
+      "organisation": "Bournemouth University Disaster Management Centre"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Becky Heginbotham-Blount",
+    "Professor Lee Miles",
+    "Baroness Tyler of Enfield",
+    "Mr Tanmanjeet Singh Dhesi",
+    "Lord Arbuthnot of Edrom",
+    "Sarah Champion",
+    "Lord Watts",
+    "Helen Maguire",
+    "Baroness Kidron",
+    "Mike Martin",
+    "Lord Tunnicliffe",
+    "Lord Jack of Courance",
+    "Lord Godson",
+    "The point to end with is"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18227/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18227",
+  "source_sha256": "9b602c6cb16e481ca5d1749aff75c40db042109d6af044162b94ff3681b5d7fc",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

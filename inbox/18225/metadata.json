@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18225,
+  "activity_id": 39122,
+  "document_id": 309187,
+  "meeting_date": "2026-10-29",
+  "meeting_date_display": "29 October 2026",
+  "publication_date": "2026-11-03T11:04:40",
+  "title": "HMRC’s anti-fraud intervention on child benefit",
+  "committee": "Public Accounts Committee",
+  "committees": [
+    {
+      "id": 127,
+      "name": "Public Accounts Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9766,
+      "title": "HMRC’s anti-fraud intervention on child benefit",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Permanent Secretary and Chief Executive",
+      "organisation": "HMRC"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director of Individuals Policy",
+      "organisation": "HMRC"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director General Customer Services",
+      "organisation": "HMRC"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Deputy Director Data/AI and Chair of DEA Board",
+      "organisation": "Public Sector Fraud Authority"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director General Strategy & Policy",
+      "organisation": "HMRC"
+    }
+  ],
+  "speaker_candidates": [
+    "Treasury Committee member also present",
+    "Chair",
+    "John-Paul Marks",
+    "Rupert Lowe",
+    "Cerys McDonald",
+    "Sarah Olney",
+    "Myrtle Lloyd",
+    "Rob Malcomson",
+    "Mr Betts",
+    "Jonathan Athow",
+    "Catherine West"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18225/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18225",
+  "source_sha256": "a7234126700b68957f2480b1df49e059653e194d5023b2ac1d3644baba999490",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

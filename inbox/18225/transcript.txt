@@ -1,0 +1,543 @@
+Oral evidence - 29 Oct 2026
+
+Public Accounts Committee
+
+Oral evidence: HMRC’s anti-fraud intervention on child benefit, HC 102
+
+Thursday 29 October 2026
+
+Ordered by the House of Commons to be published on 29 October 2026.
+
+Watch the meeting
+
+Members present: Sir Geoffrey Clifton-Brown (Chair); Mr Clive Betts; Anna Dixon; Rupert Lowe; Sarah Olney.
+
+Treasury Committee member also present: Catherine West.
+
+Gareth Davies, Comptroller and Auditor General, National Audit Office, Louise Bladen, National Audit Office, and George Osborne, Alternate Treasury Officer of Accounts were in attendance.
+
+Questions 1 - 55
+
+Witnesses
+
+I: John-Paul Marks CB, Permanent Secretary and Chief Executive, HMRC; Cerys McDonald, Director of Individuals Policy, HMRC; Myrtle Lloyd, Director General Customer Services, HMRC; Jonathan Athow, Director General Strategy & Policy, HMRC; Rob Malcomson, Deputy Director Data/AI and Chair of DEA Board, Public Sector Fraud Authority.
+
+Report by the Comptroller and Auditor General
+
+HMRC’s use of travel data to tackle fraud and error in Child Benefit payments (HC31)
+
+Examination of witnesses
+
+Witnesses: John-Paul Marks CB, Cerys McDonald, Jonathan Athow, Myrtle Lloyd and Rob Malcomson.
+
+Q1 Chair: Welcome to this session of the Public Accounts Committee on Thursday 29 October 2026. Child benefit supports around 6.9 million families and 11.7 million children. With £13.3 billion paid out in 2024-25, this makes it one of the largest individual benefits that HMRC pays out. HMRC must protect public money from fraud and error while ensuring that eligible families receive the support on which they rely.
+
+In 2025, HMRC began using Home Office travel data to identify claimants who might have moved overseas and no longer be eligible for child benefit. While this was an innovative attempt to address the estimated £270 million in fraud and error, the roll-out of this intervention was poorly handled and led to avoidable hardship for thousands of legitimate claimants. More than 8,000 eligible claimants had their payments suspended without warning, while many faced a difficult and stressful process to prove their legitimate entitlement.
+
+Today the Committee will examine why HMRC altered the approach used in its pilot without adequately assessing the consequences, whether its governance and safeguards are now strong enough, and how the Government can use data innovatively to tackle fraud and error while protecting payments to legitimate claimants.
+
+Before we start, I would like to extend a very warm welcome to Catherine West, a member of the Treasury Committee who is joining us as our guest. A warm welcome, Catherine, and thank you very much for attending.
+
+John-Paul Marks, unless you wish to make any opening remarks, I am going to turn to our first question. Is there anything that you want to say right at the beginning on this whole matter?
+
+John-Paul Marks: I am happy to say a couple of points up front if it helps, Chair, but I am also happy just to get straight into it.
+
+Chair: You make your couple of points, and then Rupert is going to ask the first question.
+
+John-Paul Marks: First, good morning to the Committee, and thank you for those messages, which we accept in full. I am grateful to the Auditor General and his team for the NAO Report. We have accepted all those recommendations and are in the process of implementing them.
+
+As you say, child benefit is an essential benefit for millions of families in this country, and we are stepping through a process of transforming the experience to make it much more digital and easier to access and stay in touch with us through our app. That is working well, but the error and fraud level is too high. We need to bring it down. We are trying to use innovative approaches to target that on a small number of customers for whom we think that is a higher level of risk. That included, as you say, the Home Office data to identify those who may have left the country but are still claiming.
+
+The pilot was well intended. It was meant to prove the concepts, and I am confident that the exercise has now settled down well in delivery. We can talk about both those points and how I derive that assurance, but I acknowledge that, in the first roll-out phase, we made some mistakes. I wrote to Parliament to apologise for that, and we fixed it fast and put those claims back into payments for those who were disrupted. There are some important lessons, of course, which we will no doubt touch on in this hearing, around risk tolerance, safeguards, guardrails and controls.
+
+It was with good intent. We had discovered a process that was identifying six in 10 claims that were in error and a serious loss to the taxpayer. We wanted to scale it quickly to take advantage of that innovation, but the catchphrase would be, “A little less haste and more speed”. We need to make sure that the guardrails are good through that make-scalable phase to get to business as usual sooner.
+
+We are confident that we can recover the benefits over the scorecard period through the approach that we are taking. We will continue to innovate, using data to drive down error and fraud in child benefit, given that it qualifies our accounts, but again, I emphasise my apology to the customers who were impacted in that first roll-out phase. We have put them back into payment, we have apologised and we have offered redress to any of those customers if they wanted it.
+
+Chair: Thank you very much for those opening remarks, and particularly the apology contained within them. I am sure that that will be heard by those who were denied their payments and then subsequently had them reinstated.
+
+Q2 Rupert Lowe: Thank you to the NAO for an excellent report. It made simple quite a complicated subject. For me, this was a very interesting report, and those were very useful opening comments, John-Paul. You have used data as I would like to see data being used, and I was pretty shocked that, of your 23,794 inquiries, 61% of claims were eligible and 39% ineligible. That seems to be a massive percentage of ineligible claims. As we all know, when you live in a welfare society, or in a society that transfers money from wealthy parts to poor parts, such as Italy, I am afraid that one upshot of that is fraud and misfeasance.
+
+You should not lose confidence in doing what you have done. When I read the Report, I could clearly see that the pilot worked very well. I run lots of businesses, and the key for me here is responsibility and who is taking charge of these projects. The pilot worked very well, and you had tremendous success there.
+
+When I look at page 20, it says, “HMRC explained that the decisions to remove the up-front PAYE checks and change the form for EEA travellers were made in May 2025 during a workshop involving operations staff, operational analysts and policy staff working on the intervention. HMRC told us that staff had felt empowered to make these decisions”. That seems to be where it has all gone wrong.
+
+Are there any minutes of those meetings? Who made those decisions? Do you know who took responsibility for it? Going forward, are you going to implement some form of holding people to account if they do change both the PAYE data and the length that you are, effectively, running your intervention over? That seems to me where it has gone wrong. The Committee is keen to know whether you have minutes of those meetings and who was responsible.
+
+John-Paul Marks: I am happy to talk to that. I am sure that you would expect me to say, but let me make sure that I do, that I am accountable, as the chief executive of HMRC, for the control framework, the governance model and the risk tolerance. It is true that I want accelerated innovation, as you say, to leverage data to deliver better value for the UK taxpayer. I have been talking a lot about empowerment and autonomy for my teams to accelerate that.
+
+At the same time, we need good guardrails and safeguards in place to do it responsibly and well, to take care of our customers as we go through that process. As you say, we got it right in the pilot. I am confident that we are now getting it right in business as usual.
+
+Some of the choices that were made in that first roll-out were outside of that risk tolerance, but that was not understood immediately at the time. As soon as we did understand it, this group on this panel took accountability for fixing it quickly. We put the PAYE check back in to the up-front journey. We added a grace period so that customers did not have their benefits suspended immediately but had more time to engage with us first. We changed the form, so we now ask for two pieces of evidence with a digital journey rather than an analogue one.
+
+We slowed it right down as well in terms of the volumes. There were, as you say, over 20,000 in that first phase. We have now done another 9,000 in more of a hypercare phase to stress-test the moving to scale with more control. That is giving us good confidence that we can now roll this out over the next few years at significant scale and realise, we think, over £250 million of benefits to the taxpayer.
+
+Like you said, I want to encourage innovation. We will come on to the next steps about what else we need to do with data to further reduce the child benefit error and fraud level, but it has to, of course, be done responsibly and with care. We did an internal audit report. The NAO has set out its recommendations. We have accepted all of those. They include more senior oversight, more care on the governance and clarifying the safeguards and controls.
+
+The decisions around the PAYE check and the form were a function of trying to scale it quickly, using contingent resources with the skill level and capability that was available to deploy at the time. All of those were logical, but more assessment of the risk was needed. If you are going to change the treatment from pilot to scale, you need to test it again before you add the volume.
+
+The lessons are well learned. The PSFA is here, and we are sharing this learning cross-Government, so it is not just for HMRC. We have, of course, spoken about this as an executive team, with our director leadership group, because we want a high appetite for innovation and a very low appetite for negative disruption to our customers. That is the balance that we have been trying to strike here.
+
+We did not get the balance right in that first roll-out, hence I wrote to Parliament and apologised. Like you, I do not want a dampening effect where everybody reverts to caution, because the status quo is £250 million of error and fraud every year in the child benefit system currently, which is qualifying our accounts, and we need to get that number down.
+
+Q3 Rupert Lowe: I would rather you crushed error and fraud than crushing honest, decent taxpaying citizens. That is the key balance that you have to get right. Were there any minutes of this meeting? It is not evident to me that anyone was in charge here. Who is in charge now?
+
+John-Paul Marks: I am in charge as the chief executive.
+
+Q4 Rupert Lowe: Who is in charge of and accountable for approving these significant changes to any pilot that you decide to do in the future? It is key to your success.
+
+John-Paul Marks: It relates to the control framework. I have Myrtle with me as my chief customer officer. The delivery of this child benefit exercise has now moved into business as usual. Myrtle is the director general accountable for that, and has a director who leads on benefits and credits and is accountable for the day-to-day delivery of that service. We have more senior oversight. Cerys is the regime owner. Between the policy and the delivery, we have the two senior civil servants here who are accountable for its delivery.
+
+Q5 Rupert Lowe: You now have a proper process in which AI and data improve and you are able to cross-check and use what you have used here very effectively. You are confident that you now have the right process, so you are not going to run a pilot and then find that some joker changes the rules once you have run it. It is interesting. Political people look at things differently. I look at the amount of fraud and error. Other people look at the amount of discomfort that honest people have had to suffer. There are two ways of looking at it. They have suffered inconvenience. You are, hopefully, crushing fraud. That is the key there.
+
+John-Paul Marks: In that first phase, as you say, we stopped 9,000 people from continuing to claim child benefit who had left the country and were not eligible for it. That saved over £50 million, and the non-compliance rate was still 38% to 39%. It was still pretty healthy, but we absolutely acknowledge that the operational processes around the customer experience were not of the standard that we expect.
+
+We monitor social media sentiment every day. We monitor the media every day. We respond to complaints every day. As soon as we picked that up, we paused the process and put those legitimate cases back into payment quickly and made changes to the journey.
+
+We need to keep providing assurance to Parliament and to our customers that the lesson is well learned. A constant focus for us is getting our risk appetite right, and a high appetite, as I say, for innovation to accelerate for better outcomes. Like you, I want to reduce error and fraud as quickly as possible, but in a responsible way.
+
+Q6 Rupert Lowe: It is important, John-Paul, because you are in an omnipotent and almost monopolistic position. The question that other people would have when they look at this Report would be around what guarantee there is that you are not going to make mistakes in terms of other datasets that you are in charge of. This is a key systemic issue for you to get right. Otherwise, you are going to lose the confidence of people who both pay tax and receive benefits. It is important that you get this process sorted out.
+
+John-Paul Marks: Agreed. I am happy to come on to the future of child benefit and other opportunities that we have to use data from universal credit, for example, when customers may be claiming universal credit, which means that their entitlement for child benefit should end. There is a good opportunity there with a good non-compliance rate to enable us to reduce the risk, and similarly for customers who have moved into full-time higher education and are no longer entitled, through student data.
+
+We have good governance and controls. We were just talking with Rob from the Public Sector Fraud Authority around the governance and our DPIAs and governance processes, which, of course, we share across Government to manage that data responsibly and well.
+
+For me, absolutely, the critical learning for the team is always going to be about high empowerment to innovate, but we absolutely need to do that with care, at lower volume, with external scrutiny, good oversight and governance, and put it all in the open so that people can challenge it. We need to also have the self-confidence to scale it quickly, because, as you know, the risk is that, in a high-scrutiny environment, everybody settles down to the lowest common denominator and we coast along. We cannot afford to do that, for multiple reasons that we can come on to.
+
+We have to learn these lessons well. We have discussed it a lot as a senior team, hence the internal audit review and the NAO Report, and are happy to keep the Committee updated on what more we are doing, with third-party data and risking, to reduce risk in the tax system, because it is a fundamental part of our transformation.
+
+Q7 Rupert Lowe: Clearly, this decision was not minuted, but they will be in future.
+
+John-Paul Marks: I can check on exactly the nature of that workshop and the minutes, but the team will have done its documentation of the changes to the journey, because it would be necessary to then implement them. It was at an operational level, and I want to be clear that my operational teams were acting according to the steers that I am giving to the organisation about scaling innovation quickly to realise benefits.
+
+As I said, 9,000 ineligible claims were stopped, saving £50 million, but we had too much disruption on eligible customers, so we put the PAYE check back, paused the process, added a grace period, took customers who moved within the island of Ireland out of the process, and made some other changes to the form and the process.
+
+Taken together, it has now settled down well. In terms of business as usual, we have very low complaints, and the non-compliance rate has gone up from where it was back to closer to what it was in the pilot. We are closer to 50% now, but that is on the first 9,000 claims this year, so we will monitor that carefully and score the benefits in the next few years.
+
+Q8 Chair: This issue goes to the problem of trust in HMRC. There is a tension here between reducing fraud and error, which this Committee is very keen on, and your obligations under your customer charter. This has been damaging for trust.
+
+There have already been conversations about the Chancellor’s statement yesterday on your target of recovering tax debts. You have been given new, unprecedented powers to remove money from people’s bank accounts. There is comment around the fact that HMRC has these unprecedented powers. If you are seen to use them unfairly, this will really damage the public’s trust in HMRC. You rely on trust from the public to get co-operation from them to pay their taxes. I would like you to give this Committee some assurance that you will be very careful about how you use these new, fairly draconian powers.
+
+John-Paul Marks: I am happy to give that assurance. We are coming back to this Committee in December to talk about the NAO’s report on debt, and would be very happy to set out for the Committee, either in writing before or when we are here, our experience on direct deduction already. Of course, it has been used pre pandemic, and we have now restarted some of that. As you say, the Chancellor announced new measures yesterday. We have good time between now and when those are scored to ensure that the guardrails and the safeguards are well understood in the public domain, subject to public scrutiny, and that the lessons from this exercise are applied again in terms of governance, senior oversight, scrutiny and control. Myrtle leads our debt operation and might want to say a couple of things.
+
+On that measure, it is an important addition to reducing debt in this country. We were just looking at some of the numbers, and it is significant. They are small amounts of debt. We do not want to trigger bankruptcy. We do not want to wind up companies. We do not want to burden the court system. At the same time, it is a last resort when we have done everything else, offering people time-to-pay arrangements and any other opportunity to engage with us, but the money is in their account and they are choosing not to pay a small debt. With the right safeguards and a refund-first policy if there is a concern, we can do this well, but I absolutely agree with your point. It needs to be underpinned with confidence and trust so that it is sustainable.
+
+Q9 Chair: I must apologise to our witnesses for not asking you to introduce yourselves, but exactly who you all are and that you were here will be in our minutes.
+
+Thank you for that assurance. If we could have that information well before that hearing in December so that we have time to ask questions about it, that would be really helpful.
+
+There is one other question arising from yesterday’s statement by the Chancellor. You were given longer-term cost and benefit estimates for the autumn Budget, anticipating that the £350 million that it had initially estimated would be saved would reduce. The updated estimate was not given in the Budget yesterday, so what is the latest figure on how much you will recover?
+
+John-Paul Marks: Do you mean from the child benefit exercise?
+
+Chair: Yes.
+
+John-Paul Marks: Cerys, would you do the latest scorecard for that?
+
+Cerys McDonald: Yes, of course. The benefits that were in the original autumn Budget in 2024 were £385 million.
+
+Chair: Sorry, I got the figure slightly wrong.
+
+Cerys McDonald: That is okay; do not worry. That covered the activity that we were planning to do on residency, as well as some other compliance activity, including on tax-free childcare. The benefits from that have been revised down to £305 million. I want to emphasise that the reason for that was that, when the original costing was done back in the autumn Budget 2024, we only had the pilot to go on in terms of building the evidence base to support that costing. There is an improved methodology that has contributed mostly to that revision downwards. It was always our intention to revise that costing at this event, but of course, we have changed the profile of the cases that we would work, so there is a timing effect in there as well. As JP said, we are really confident that we will do the full 70,000 cases that we always predicated that original work on by the end of this scorecard period.
+
+Q10 Sarah Olney: Mr Marks, you talked about scaling innovation more quickly. The Committee welcomes innovation, particularly around tackling fraud and error, but it is surely the case that, where you are being more innovative, you have to put in place greater risk mitigations because you are trying something new. You do not know how it is going to work, so you need to have built a framework to manage the risks around that, which is perhaps a framework with more protection than you would have when doing risk mitigation for your established processes. Did you have that in place for this, particularly in moving from the pilot to the roll-out?
+
+John-Paul Marks: I will be totally honest. It was not strong enough from pilot to first roll-out, and that was one of the conclusions from the NAO’s Report. I agree with you that the move from piloting a proof of concept to then scaling and innovation is almost the riskiest point, because, almost inevitably, having run both innovation programmes and business-as-usual operations, there is a moment where it is like, “How do we do this thing at scale rather than in a pilot environment where everything is a bit Post-it note and you can see it all on a wall, and all the rest of it?”
+
+We accept the recommendations in full in terms of more senior oversight and better governance and control. As I say, as soon as we were aware that some changes had been made that had that impact on the non-compliance rate, we paused the process and fixed those cases quickly. Myrtle may want to say a bit about the framework for governance and control of that journey from innovation to scale.
+
+Q11 Sarah Olney: Just very quickly, can you talk us through what you have learned about your risk management as a result of this process and what you will do differently with your future innovations, which we hope to see?
+
+John-Paul Marks: If I just talk about what we have learned, Myrtle can come in to talk about how we are then mainstreaming that in our operation. We had eight actions out of our internal audit review. We have implemented seven of those, and there is one to go. There were then six NAO recommendations, all of which we have accepted, so the learning is documented and will be controlled.
+
+I have mentioned some of the points already around the fact that, if you are going to change the treatment from the pilot in the scaling phase, you need to test it again before you add the volume. The point around senior oversight governance and control is material. We have made some additional changes around adding more user insight into the delivery to make sure that that is informing continuous improvement.
+
+All of these are pretty established disciplines that we have in our operation, but again, we absolutely emphasise and acknowledge that, in that process from pilot, where it was very controlled, to first roll-out, some logical changes were made to make it scalable, but those had a detrimental impact on customers, which was not understood at the time but soon became clear, which is why we paused it and fixed those quickly.
+
+Myrtle, could you add a bit on the control framework now and what you are doing that would help?
+
+Myrtle Lloyd: One of the things that we learned from the pilot to the scale-out and that we implemented was a period of hypercare, which is where you come out of pilot but you then slowly start scaling up, so you do not go straight to it. In that period of hypercare, every time we sent out a letter, we followed it up with a couple of phone calls to make sure that the communication was understood and going to the right customers.
+
+From that, we learned quite a lot about what to put back into the design of the now business-as-usual and scaling-up process. One of the things that we will be introducing into any new things when we move from pilot to business as usual is that we have this period of scrutiny and hypercare, where we are doing things such as 100% quality checks. We are really looking at colleague capability, making sure that they have the right skills and the capability. That is one thing that we are going to be introducing going forward.
+
+We have also made sure that, within the control framework, we have process ownership that is separate from just the operational space. That allows us to look at the process from end to end, including the customer experience. We are not looking at just the element of the operation or the performance metrics that we are introducing, but at the end-to-end process and the end-to-end customer journey as well.
+
+What we have also introduced into the mix when thinking about any new services or tweaks to business-as-usual services is that it will always have the scrutiny from our customer experience colleagues to make sure that the customer impact is understood at the design phase, and then continuously monitored through our business-as-usual process, in line with our charter working standards.
+
+Q12 Sarah Olney: Mr Malcomson, I can see that you want to come in, and I have a question for you. This is an HMRC issue. I want to ask you more broadly about innovation in the public sector. Is this an isolated example of a poor risk environment, or something that you think is likely to happen in other agencies? What lessons are you taking from this more broadly to strengthen that risk environment where innovation is being planned?
+
+Rob Malcomson: When we are innovating with data, there are always risks that things will not go right in the first instance as well. This is, broadly, an isolated incident. In our experience, through the Digital Economy Act data shares that we have, there have not been similar challenges as they have transitioned into a business-as-usual context.
+
+To the point about how we learn the lessons and still safely innovate, the Digital Economy Act review board has a key role in that process. It can build on the trust points, the risk management points and the innovation points there as well. There is no lesson more important than putting in the right guardrails in the first place, and piloting, innovating and testing as part of that. The oversight of the Digital Economy Act review board, made up of independent experts, civil society representatives and the ICO, really helps to put those initial guardrails in place as we test and innovate. As we heard, the pilot was successful in that.
+
+There are a couple of broader lessons that we have seen from this work as well. One is the point about really, truly, deeply understanding the data and the processes, as well as the limitations of the data that you are using. The advanced passenger information that was used did not cover ferries and channel tunnel crossings, for example. Understanding that and its limitations, as well as the processes, and therefore the impact of any changes, is integral.
+
+The hypercare model that HMRC has developed is a really good model for other public bodies to emulate. We will certainly be advocating for that through guidance, through sharing this insight with our communities of practice, and through writing to accounting officers about this. There is a lot that we can learn from this issue and put in place more broadly. There is a consultation review of the Digital Economy Act code of practice happening in this next 12 months, and we plan to embed the learnings and insight into those more formal processes as well.
+
+Chair: Thank you very much for that answer, Rob. That is very helpful.
+
+Q13 Mr Betts: There are two potential conflicts here. One is to make sure that you are going as hard as you can to deal with fraud, root it out and identify it. On the other hand, you want to make sure that, in doing that, you do not seriously affect people who are not committing fraud but sometimes get caught up in the process. How are you going to keep public confidence as you, presumably, take more and more initiatives to link up data across the public sector to find where there are inconsistencies that identify where things are going wrong, while, at the same time, keeping the public on board with that? Perhaps you could explain the ultimate objectives to me.
+
+John-Paul Marks: I am happy to say a bit. Maybe Cerys can say a bit about what we have planned next on child benefit, because we have more innovation that we need to progress to get this error and fraud exposure down further. We agree that we need to do that in a responsible way that carries public trust. Rob helpfully reflected on some of the learning here that will apply cross-Government, which we will take forward in that approach, for example, during the hypercare phase, when you move from pilot to scale, with additional monitoring of customer sentiment and experience.
+
+One of the things that I have been talking about in HMRC since I took over as permanent secretary is a culture of working more in the open. We are trying to do that generally across everything that we do. We do formal consultation, but my teams are empowered and expected to be engaging with industry experts, looking at private-sector best practice, talking to stakeholders and partners, and stress-testing what we are doing to get their feedback. Cerys might say a bit about how we have been doing that in the context of child benefit. Myrtle does that in the context of what we do generally with our customer operations through our corporate governance with our non-executives, as well as with our stakeholder bodies, and we listen all the time to sentiment.
+
+Where there is a problem, we can quickly pause and reflect on what is driving it. We also measure trust and report on it annually, and we are seeking to improve it year on year. We know that that will come from delivering better outcomes and value for money for the taxpayer, but also being really honest when things do not go well and we have a bump in the road, fixing those issues quickly, apologising for it and explaining why it happened.
+
+We have had this moment on child benefit. We had the conversation around the taxation of the state pension, where, again, we have managed to fix that now and will put it right for the last few years too, and have apologised. Where there are moments in big, complex systems where there are bumps in the road, it is important that leaders such as me are accountable and explain what happened as we fix it. Also, my teams are expected not to work in isolated bunkers but to be very transparent about how we are innovating and using data and other ways to improve outcomes.
+
+Maybe Cerys could say a bit about the child benefit context and give you some examples, because we are doing that well here, but I agree with you that it is very important that we carry on doing so.
+
+Cerys McDonald: JP made some points there around working in the open. When we have been doing downstream compliance, HMRC may have been a bit reticent to share our approach with the public, but we are now doing much more upstream work and using data innovatively. We need to be more confident at bringing third parties and third-sector organisations in, and having more of an open book. We have a stakeholder forum with low-income tax reform groups, Citizens Advice and other bodies that we meet with quarterly, and we now adopt a much more transparent model where we tell them about our plans and get their input and challenge. Importantly, we quite often share customer communications with them and get input about whether how we are approaching the letters works. The input that we get back on that is really effective.
+
+Going back to the point on further innovation, child benefit is really quite unusual as a benefit because it does not have an annual reconfirmation cycle. We rely on people providing us with a notification that their circumstances have changed and that they have fallen out of entitlement. Understandably, when people have busy, chaotic lives, HMRC might not be the first people that they think of to report a change in circumstances, so how we use this data is really important.
+
+The residency risk is one of our biggest risks, but the other big one for us is children who leave full-time, non-advanced education after the age of 16 and, therefore, fall out of entitlement. That is the other big risk where we are really beginning to think much more innovatively about how we come down on that loss to the taxpayer.
+
+In particular, we are not just using data innovatively but thinking about our customer interactions. From next year, parents will get a text message nudge periodically throughout the school year, just to ask them whether their child is still in education. People might tell us that their child intends to go back to school come September, but of course that child might change their mind three or four months in. If we do not check for two years, that is two years of child benefit paid out in error. That is a good example of us trying to be a bit more innovative and nudge customers to do the right thing.
+
+As JP has already alluded to, we are also drawing on data from the Student Loans Company. If we have a young person who has gone into advanced education, that is a good indicator for us, because they might have a student loan, which means that we can intervene early. If a child has claimed benefits in their own right, a data feed from DWP that will shortly become weekly helps us to spot that with a really high accuracy rate to intervene early.
+
+Rob Malcomson: It is worth noting that HMRC has been really open and collaborative in sharing with us what went wrong, the lessons from that and its new hypercare framework. There is an opportunity for some external understanding as data shares scale up into business as usual.
+
+From a Digital Economy Act perspective, as noted in the NAO Report, we are asking for an annual compliance check that everything is still working as intended within that, but there is an opportunity, through consultation, for us to go further. We could require public bodies using these data powers to, effectively, provide a readiness assessment and say, “We have the right SROs in place. We have the right oversight and governance in place here, and we wholly understand how we should be using this data,” and codify further if there are variances.
+
+Through innovation, there will be reasons that you will want to evolve how you use and operationalise the data insights that you might have. Through that variation process, you can make clear where that is an SRO-accountable matter and where that requires further conversation with the Digital Economy Act review board that can provide that oversight.
+
+Q14 Mr Betts: Do you have to work to ensure that your staff do not become risk-averse as a result of this?
+
+John-Paul Marks: As I alluded to earlier, and Cerys also made the point, large public-sector institutions, historically, are at risk of risk aversion in a high-scrutiny environment. There is lots of experience of where things have been difficult historically, not necessarily just with the use of data, but lots of independent reviews. I am sure that the PAC has seen many an example. In that environment, as I say, the risk is that you level down to the lowest common denominator on innovation and take a low-risk appetite to transformation.
+
+That has risks in itself because you tolerate a status quo whereby, for example, child benefit fraud and error is over £250 million a year, which is lost value to the taxpayer that could have otherwise been invested in schools, hospitals and other priorities for the Government.
+
+We are trying to raise the risk tolerance, be more intentional about it, and create an empowered environment for our teams to accelerate innovation. That has a level of risk to it, but we think that it is a way of improving outcomes more quickly. As I said at the beginning, from an accounting officer and PAC value-for-money perspective, this exercise is very strong, with a pilot non-compliance rate of 60%. Even in the first roll-out phase, just under four in 10 claims were in error, which were stopped, and now that has recovered again.
+
+This is a very strong intervention that protects the UK taxpayer, but there have been some important lessons around implementation that must be learned for the future, which goes back to the point on public trust. I am trying to say this continually to my team and thank them for the pilot and the business as usual. I ask us to be thoughtful and take additional care on governance, oversight, control and testing in hypercare phases when we scale in the future, but I am also positive about this exercise because it is good value for money for the UK taxpayer, and I am expecting us to do more of this in the future.
+
+It would be nice not to come back with the bump in the road in the middle of the journey, but I will be honest and say that I expect that there will be moments where that will happen because, in an organisation of the scale of HMRC, I use this phrase “bump in the road” because I am trying to humanise the fact that there will be moments when things do not go well, and I do not want those to be traumatic.
+
+I want us to be confident to say when we are worried and to escalate quickly, as happened in this situation, and the NAO recognised in its Report, so that, as soon as someone flags to me, “We have a problem with child benefit. We have scaled the thing, the success rate has dropped and there are ineligible customers,” we pause the exercise, put it right and apologise, the customer is put back into payment and we move on.
+
+That mature, calm, high-appetite approach to innovation is really going to matter in a world where resources are scarce, we need to improve value for money, and we need better outcomes faster. As I say, your point on public trust is essential. It is probably one of the most important underlying indicators that I would like to improve in HMRC in my time as permanent secretary. We report on it in our annual report. We survey different cohorts to talk about trust. We have seen some improvement for some cohorts, but not for others. Myrtle stewards our customer charter for us brilliantly here with our adjudicator, and again, that is governed, but we would like to get to a future point in time, whether it is 2030 or whenever, where outcomes are up, value for money is proven and people have confidence that we are doing the right thing.
+
+Rob Malcomson: I have seen some really great practice across Government in terms of this principle of co-design, bringing your legal, data governance, operational, policy and SRO colleagues together and really thinking through what you are trying to achieve in the use of the data in the design of the analytics and then the implementation when it is operationalised.
+
+Through that process of bringing people together and understanding the risks, you are able to create meaningful, impactful solutions, but manage those risks and still be innovative. People often say, “No, we do not want to do this,” going to that lower common denominator point, because it is really a lack of understanding of what you are trying to do. In my experience, those principles of getting everybody around the table to really thrash it out is seeing better, more impactful innovation happen with those safe guardrails around it.
+
+Q15 Chair: Before I bring Sarah Olney in—and I do not want to steal Rupert’s sandwiches, because he is going to come on to this as well—I want to just start on this. JP, can I take you to paragraph 2.4 on page 20? This is to do with the senior responsible owner. We have criticised, across Government, not having senior responsible owners in at the beginning and being continuously there throughout the project. You did not have that here.
+
+The second bullet point says, “Key decisions, such as the removal of the upfront PAYE check, were made at inappropriate levels without sufficient oversight”. I am sure that Rupert will come on to the third bullet point there, but I would just like you to address the point that senior enough people were not making decisions and that there was not an SRO there throughout the project.
+
+John-Paul Marks: I tried to address some of that earlier, but I have acknowledged those points from the NAO and agreed that that should have been the case, and it is now. Once we had understood that some changes had been made that had that adverse effect, we reversed and put those cases back into payment quickly.
+
+I recognise and, of course, agree with your point around long-term SROs for programmes that go from inception and pilot through to scale. As I say, the change on the PAYE check was logical at operational level to scale this process, but it had an adverse effect on the non-compliance rate, which was not as understood as it could have been at that time, which is why we put it back very quickly once we had understood that that had occurred.
+
+It goes back to the point around hypercare when you move from pilot to scale with that level of senior oversight. We have accepted that recommendation and, of course, now put that in place. It is the right conclusion. We have had good engagement with the NAO team and we are confident that it is now fixed.
+
+Q16 Sarah Olney: JP, I was surprised to hear you talk about the number of people who had eligible payments and who had their child benefit stopped as a result of this intervention. You described that as a “bump in the road”. I am sure that there will be people who lost their child benefit for which they were eligible as a result of this intervention, who did not get it back for several months, who will have experienced quite considerable financial hardship in that time, and who will have heard you describe it as a bump in the road. I will give you an invitation to perhaps reconsider that phrase.
+
+John-Paul Marks: Forgive me. Let me be very clear to address the point directly. To those individual customers, I apologise. I apologised at the time. I wrote to Parliament at the time to apologise. We put those cases back into payment and we offered redress if there had been financial hardship to any of those customers.
+
+I want to be clear. In using that phrase, I do not mean to relate to any of the individual experiences for the customers affected, and genuinely underline again my apology for that disruption. The phrase is more general in terms of, when undertaking innovation, there will always be moments when things do not always go as you would expect or as you plan. The important thing is to calmly understand what is driving that and respond responsibly and quickly to the learning, and that was the point that I was trying to make.
+
+Q17 Sarah Olney: I found that quite illustrative of perhaps the approach that HMRC took, in terms of thinking about it entirely in terms of its internal processes, with not enough consideration of the potential impact on customers. For you, it is a bump in the road. It interrupted your smooth roll-out of a new process. For the customers, it was very much more than a bump in the road.
+
+Why do you think that, when these changes were made—and we have pinned down that it is the changes that were made to the programme between the pilot and the scale-up—there was such little consideration of what the impact would have been on customers if you were stopping people’s child benefit?
+
+Let us not forget that, for some people who had their child benefit stopped, that will have had a serious impact on their household income. Some will have struggled to feed their children. Some might have had difficulty paying the rent. Some children will have had to forgo perhaps essential shoes and clothing purchases, which, for growing children, is a really serious thing. Why do you think there was such little attention paid to these kinds of impacts when your staff were thinking about changes to the pilot?
+
+John-Paul Marks: First, I agree that the hard reality of cash flow for somebody on benefits and low income must always be understood by us, which is why we talk a lot about trust, our charter and responding to that type of feedback. I do want to underline again that I absolutely understand the point that you are making and would never be complacent about that.
+
+I do not think that the changes that were made at the beginning of the first roll-out had, at any point, any intent to create that effect. It was just not understood as well as it should have been, and it could have been tested at lower volume first, which is the whole point of the pilot. The thinking around the PAYE check was that the team could undertake that final decision-making and mandatory consideration appeal journey, and still scale what was quite a targeted error and fraud exercise in a way that would protect customers.
+
+The pilot had shown that there was good evidence of that and that they could put some of the additional evidence that they wanted to collect into the form, but, as I say, I do not want to particularly defend all of that, because some errors of judgment were made outside of our risk tolerance. As soon as we understood that, we paused, changed the journey and put it right.
+
+Your underlying point, though, is around our customer service culture, customer insight, analytics, empathy, fairness and care. Again, these are principles that we talk about a lot in HMRC. I can give you lots of examples, if you are interested, more generally about the progress we are making in that regard. We absolutely want to reinforce the importance of that leadership in everything that we do.
+
+Q18 Sarah Olney: I have three further questions. First, one of the things that I am really concerned about is that there will have been women in particular who had their child benefit stopped, and who needed that child benefit claim to go towards their eligibility for state pension. Can you provide an undertaking to this Committee that nobody has had their state pension entitlement affected as a result of this?
+
+Cerys McDonald: It is important to draw out that, when we were undertaking this activity, both in the pilot but also in the initial roll-out and now, stopping the payment up front is a suspension to the payment and not a termination of the benefit, so the underlying entitlement is still there at that point. The reason that model was first adopted is that it is a long-standing principle of the way that child benefit compliance has been done historically that we suspend the payment if we have good intelligence that the eligibility may no longer stand. It provides us with a four-week window to engage with the customer and establish whether they have indeed fallen out of entitlement or whether there are good grounds to put them back into payment. During that suspension, it does not affect any underlying record around—
+
+Sarah Olney: So you can make an undertaking to this Committee that no one has had their entitlement to state pension—
+
+Cerys McDonald: Based on all the information that I have understood to date, yes, I can make that undertaking. If, when I take it back to my team, anything comes through that means that that is not true, I will, of course, write to the Committee.
+
+Q19 Sarah Olney: The second question that I have is around the form that went to people who were suspected of no longer being eligible claimants. The form was 17 pages long, if I have that correct. The amount of information that you are asking from people to confirm that they are a claimant includes letters from the school and from GPs. None of this is required up front to establish your initial eligibility for child benefit, so why on earth was it necessary?
+
+Myrtle Lloyd: I can answer that. When we did the pilot, we discovered that there was more information required.
+
+Q20 Sarah Olney: You do not routinely hold this information for people who are eligible for child benefit.
+
+Myrtle Lloyd: Yes, and that is where we went wrong. We put in a lot more—about 73—questions to get the additional information. When we rolled it out the second time and went into hypercare, we took that feedback into account, and the 73 questions are now reduced to 15 key questions.
+
+Q21 Sarah Olney: Are you still asking people to get letters from their children’s school? Why is this necessary?
+
+Myrtle Lloyd: We are not doing that in the new one. We are asking 15 very targeted questions. In terms of the evidence that is required, it is just two pieces of evidence—evidence that you have returned, such as a return ticket, and bank account details showing evidence of transactions in the UK for us to determine that you have been in the UK. The response was not proportionate to the additional evidence that was required, but we have rectified that.
+
+Q22 Sarah Olney: Mr Marks, stopping somebody’s child benefit, as I have made clear, has a really serious impact on families. Before this particular programme, was it routine to stop payments on this level of evidence? Is it appropriate? I fully support any measure to reduce fraud, but is it really appropriate, on such little evidence, to have such a massive impact on household incomes?
+
+John-Paul Marks: It is important that a lot of care is taken, as you say, given the impact, hence the piloting. As Cerys says, it is a suspension pending confirmation of entitlement. We have tried to make it as easy as possible for the customer to ring us and to get in touch so that things can continue. To be clear, at the point at which that happens, we can continue the payment and/or do any backdating to make sure that they are not worse off, but I take your point about cash flow and disruption.
+
+Q23 Sarah Olney: They may have been unable to pay their rent in that time and have been evicted.
+
+John-Paul Marks: Hence the offer of redress and the opportunity to get in touch with us immediately to reconfirm eligibility, if the customer is eligible. I used to run Jobcentre Plus and I absolutely understand the point that you are making around the dependency on the benefits system and making sure that cash flow is flowing and people are getting paid their entitlements on time, which is why, on child benefit, it is very important that this exercise is targeted. As we were saying at the beginning, 7 million families are in receipt of it each year, and we are talking about an error and fraud exercise that targets the 1% highest-risk cohort, where there is a high propensity for claiming the benefit, when you should not be, when you are not in the country.
+
+Cerys McDonald: One of the learnings that we took from the first roll-out and the changes that we have made as we have moved this now into hypercare and into BAU is to no longer suspend the payment up front. We are now writing to the customer, telling them that we think that they may no longer be entitled, and giving them a four-week window to engage with us. We have taken on board that feedback and the concern that you have very clearly expressed, which I totally get.
+
+Q24 Chair: Can I take you to page 32, paragraph 3.4, and the middle bullet point? It says, “HMRC told us it relied on feedback via phone calls, letters and MP representations to identify that this was causing problems for claimants. It has since simplified forms and evidence requirements for the second roll-out”. Why did it take you so long to do that?
+
+John-Paul Marks: The NAO does recognise in its Report that, at the point at which we understood the problem, we fixed it quickly. We paused the process and put those customers back into payment, apologised and offered a redress. If I go through the changes that we have made, they include reinstating the PAYE check, as Cerys said, adding the grace period so that, as Ms Olney says, we do not suspend at the first point any more, and changing that journey to the digital upload of two pieces of evidence—your return ticket and your bank statement to show that you are living in the UK—with stronger guardrails on governance and control. This comes back to the underlying point that we have been making. It is good in the pilot and now working well in business as usual. We need to do more of that in a hypercare phase before we roll out. We have accepted and agree with those recommendations, and have put it all in place.
+
+The first problem was escalated to us in September or October last year. We had put those changes in place by Christmas time, and had immediately paused the journey and engaged with those customers who had been disrupted to put them back into payment and backdate it. That was relatively swift. Of course, it would have been better to have made those changes in the first roll-out phase rather than after the fact, and we have accepted that and apologised.
+
+Q25 Chair: Paragraph 18 on page 10 says that 40% of eligible claimants had their payments automatically reinstated by November 2025, but it goes on to say that HMRC was unable to provide us with average time for reinstating payments. Why can you not provide that information?
+
+John-Paul Marks: It is to do with the average time of reinstating. You can take a sample and look at it, but across the whole cohort, because of the process, it is hard for the analysts to do. We can double-check.
+
+Q26 Chair: JP, I am not very keen on averages because they can cover a wide variation. I would be very happy if you would let us have a letter on that after the hearing, but we want to know what the range was at least, from the very worst to the very best. I do not mind if you do not have the information now; you can write to us.
+
+At the bottom of that same paragraph, paragraph 18—this is slightly going to Sarah’s questions about hardships—it says, “As of April 2026, HMRC had paid a total of £3,200 of compensation to 51 claimants”. That does seem to me to be a pretty low level of compensation. Are you making it unnecessarily difficult for claimants to claim compensation and can they claim interest on late payments?
+
+John-Paul Marks: We can double-check on the journey on compensation. We absolutely want to make our redress process as easy as possible to address hardship or any detrimental impact on customers. It is low partly because we got the payments reinstated and backdated quickly. That covers the point around interest. It was a cash-flow disruption, but the entitlement was still honoured. I recognise that some of it was late.
+
+On redress, as I say, yes, the volume has not been high. Partly, it is a small volume of cases in total, but we have a pretty well-established redress process that we use all the time. Myrtle, I do not know whether you want to say anything else about how the redress process works and the assurance around it, but we have not had any escalation to us or any concern raised by the NAO or our internal audit team to suggest that that is not clear.
+
+Myrtle Lloyd: We did not put a very high bar on, or put any barriers in the way of, the claimants. We got 51. The highest reward that we made was £300 and the lowest was £5.75, but pretty much the speed at which we put people back into payment meant we did not have an overwhelming number. We have had no complaints from that process.
+
+Q27 Chair: We do not know the average time it took to make these reinstatements. Clearly, a month or two is very different to five months or more. When we get those ranges, would you look at making interest payments on those payments that were very much later?
+
+John-Paul Marks: Just to give you a general sense of it, the first roll-out was August to October. As you say, the NAO says that by the end of November we had got the vast majority back into payment and backdated. In the worst case, if you were in the August cohort, you would have been waiting three months, broadly. Is that right?
+
+Myrtle Lloyd: Yes, it is.
+
+Chair: That is helpful.
+
+John-Paul Marks: Forgive me if that is not perfectly accurate, but broadly, the roll-out was August to October. The escalation started in September or October. We had stopped and put it right by the end of November. In a few cases, we were trying to put it right, but we could not get hold of the customer. We tried to get the vast majority done as quickly as we could.
+
+I absolutely take the point around cash flow. This is child benefit. Of course, it is not a means-tested benefit in the same way. There will be quite a range of in the type of customer that we are talking about. Yes, the redress was there, but the volume reflects partly—
+
+Q28 Chair: Some of the sums throughout the report do not add up to 100%. Can you give us reassurance that there are not some cases out there that have not been settled on a much longer timescale than that?
+
+John-Paul Marks: There will be a few cases that are beyond that November date. That will be because there is still a doubt of entitlement, if the customer has not engaged and not come back to us and we suspect that they have left the country. If they come back to us, we can put them back into payment and backdate it, but we cannot do that if they do not confirm that they are indeed in the UK. That is why it is not 100%.
+
+Q29 Rupert Lowe: My question is for Jonathan, who has been silently sitting at the end of the table. Jonathan, am I right in thinking you are chairman of the HMRC professional standards committee?
+
+Jonathan Athow: Yes, that is one of my roles.
+
+Q30 Rupert Lowe: Have you been doing that for a while?
+
+Jonathan Athow: Yes, since I took this role about five years ago.
+
+Q31 Rupert Lowe: We had a look at the HMRC archives. In the summaries for all four meetings for 2025, you do not mention child benefit or travel data at all in any of those meetings. Is there any reason for that?
+
+Jonathan Athow: I believe we did not discuss it until 2026. We did an after-action review, partly to support the evidence that we were gathering about the lessons we needed to learn. We looked at it after the event. Normally, we would not discuss specific interventions at the committee. We look at more broad-brush issues. This goes very much to the point that the Chair made around trust. We look at trust in the round. We will look at our data principles, but we often do not look at specific interventions in this way. We have other routes to do that. We have talked about the digital economy board and other routes to that scrutiny.
+
+Q32 Rupert Lowe: Should part of the process of improving this be that you should look at this thing? I do not know. What do you collectively think?
+
+Jonathan Athow: We need to learn the lessons, and we have done so. We took a paper to the professional standards committee, very much reflecting on what we have heard today, about how we have learned the lessons from that and giving reassurance that we want to innovate, but we want to innovate safely. We did that in 2026 rather than in 2025.
+
+Q33 Rupert Lowe: It was just a question. It just seemed to me logical that that would be a committee that, as part of putting this right, might be involved. Going on, from the point of view of common sense, I found it difficult to understand why, if you are handing out this money in child benefit, you do not ask people to certify each year that they are still eligible. It is mentioned briefly in this Report, but it does not seem obvious that you have a policy on that.
+
+Would it not be wise to ask people who are receiving this money to confirm simply that they qualify each year? You would then have a record of communicating with them. If they are found to be ineligible, you have a basis on which to challenge them. It seems to me illogical for them to fill in one form before the child is 16. It seems that there is a huge interregnum where there is no accountability. Most taxpayers have to fill in a tax return annually. Why are you not asking these people to certify that they are annually eligible?
+
+John-Paul Marks: I absolutely understand the point that you are making. To an extent, we have been trying to target eligibility checks where we think there is risk, such as if we think you might have left the country or if we think your child may have moved into advanced education or made a benefit claim. It is partly because there are 7 million families receiving it, and we do not want to disrupt them with additional burdens if it is unnecessary. Where we can use technology, nudges and prompts and make that more seamless—your point is right—we should try to do so to see if we can get the 2% error and fraud rate closer to 1% and address the qualification on the accounts.
+
+Rupert Lowe: I would strongly recommend that you do it annually. It is not a big burden to ask people to sign annually that they are still eligible for the payment. That way, if they are ineligible, you have the basis to prosecute them. I would have thought it is logic, but that would be my view.
+
+Q34 Chair: Can I just interrupt there? There is quite a lot of bureaucracy involved in what you are requesting. It seems to me that there are two really important points in the path of child benefit. The first is what happens if the parents move abroad. You could address that when you initially approve the claim. You can make it very clear that, if they move abroad, they must notify you; if they do not, there will be consequences. The second point is to reconfirm at 16 the status of the child, whether they are in full-time education or not.
+
+Rob Malcomson: Chair, if I may just add to that, under the Fraud Act, there is fraud by omission as well as fraud by misrepresentation. The absence of telling you that they no longer qualify would still be a basis on which to challenge them on fraudulent grounds. You can look at it from both approaches.
+
+Q35 Chair: I accept that, but inquiries by HMRC have to be proportionate. We do not want to have a disagreement in Committee, but I do think that what I am suggesting, rather than what Rupert is suggesting, is probably the proportionate way of dealing with it.
+
+John-Paul Marks: Can I address both points? Ultimately, we want to reduce error and fraud too, in a way that is both good for the taxpayer and proportionate.
+
+Cerys McDonald: Just building on the points that both of you have made, child benefit is one of the simpler benefits. The entitlement rules are pretty straightforward. For over 98% of parents, until the child hits 16, the circumstances do not change and they remain eligible. It is about trying to strike the right balance, which is why we have been much more focused on the data that we have on residency.
+
+From the age of 16 onwards, there is already an annual reconfirmation. That is at the point that a child hits 16, before they go to sixth form, essentially. We are now building out from that, including more regular nudges to the parents to notify us and remind them that they have to notify us if their child has dropped out, even if they have the intention of going into school. We may well consider bringing forward more confirmations in that part of the child’s lifetime. It is about getting the balance right.
+
+Rupert Lowe: I do not want to disagree with my Chairman—
+
+Chair: We have discussed this. I do not think we want to go on.
+
+Rupert Lowe: Given the high level of people who are claiming ineligibly, I certainly think—
+
+Chair: No. Order. We have discussed this. Let us please move on.
+
+Q36 Rupert Lowe: I will go on to my next point. The tax manual is very long, very complicated and arguably full of more loose ends than a plate full of spaghetti. There are areas where things are not clear. In trying to get some balance between welfare claimants and taxpayers, if a taxpayer or his agent fills in his tax return incorrectly, the penalty for that is interest and penalties. What penalties do these people who have claimed ineligibly suffer? Do you claim the money back? Do you charge them penalties? Is there balance between the taxpayer and the benefit claimant?
+
+John-Paul Marks: If someone makes a claim for child benefit that they are not entitled to, that would trigger a debt, which we would then seek to recover, if we could. If the customer has moved abroad, that is difficult but not always impossible.
+
+To your point on tax more generally, we ask customers to take reasonable care and to avoid error in their reporting. The vast majority do that really well. Where there is late payment of taxation, to protect the cost of money with regard to the Exchequer, interest is charged. The time value of the money is represented there. We could say a bit more on the debt treatment for child benefit, if helpful, but that is the general principle.
+
+Q37 Rupert Lowe: For those who claim ineligibly, what percentage of the money do you recover?
+
+Myrtle Lloyd: We have £122 million in child benefit debt across about 103,200 cases. The median debt value is about £618 per case. The number of customers abroad has been rising. That is one of the reasons for us to look at this area for intervention.
+
+These debts are moved to our debt management function, which I lead as well. We will do the normal debt recovery processes. We offer time-to-pay arrangements. We currently have about £24 million in active time-to-pay. We then will pursue the debt in the same way as we would tax debt. We follow the same process.
+
+Q38 Rupert Lowe: It is a difficult job. Again, with most of these claims—it does not matter what they are—if the penalty for doing it incorrectly is sufficiently big, you find people tend not to abuse the system. If there is no penalty, they tend to abuse the system.
+
+John-Paul Marks: If I may, I would go back to the point the Chair made at the beginning of the hearing around direct deduction. For those small debts, where it is not high value for money and it is timely and costly to pursue it, we face the challenge of struggling to get after all of it. As Myrtle says, we have time-to-pay arrangements for a good proportion, but not all of it.
+
+Where that customer is in the UK and with money in their bank accounts, in terms of fairness to the rest of the taxpayers who have paid their taxes on time, is it not right that HMRC starts to take a deduction from that account to recover the money that is owed to the taxpayer? That is the underlying principle around direct deduction. Of course, we need to have the right safeguards and controls, given the point around cash flow.
+
+This is an example of low-value, high-volume debt that sits on the debt book and degrades. Now, partly because of the announcements the Chancellor made yesterday, we will have more powers to be able to recover it.
+
+Q39 Chair: The point I was making, which is worth questioning you on again, is that it is a very draconian power to be able to take money out of people’s bank accounts. Before you exercise that power, you need to be absolutely clear that you have put in place the appropriate warnings that you are going to do it if they do not comply.
+
+John-Paul Marks: I agree. I am very happy to write to you before we come and see you—I think it is in December—on the NAO’s debt report. We could set out for you how we have used direct deduction before and the current safeguards, and the process we are going to step through to build trust and confidence for the future process. We will be testing at low volume and with senior oversight. We will have a single senior owner end to end. It will be low volume and there will be lots of public reporting, so we can strike the balance. It should be a last resort.
+
+The customer can stop it at any time by getting in touch with us and putting their own time-to-pay arrangement in place. If there is a doubt, we have a refund-first policy to put the money back. It is one of the important innovations necessary to get the debt balance down, which is still currently over £40 billion a year. It is an important value-for-money intervention.
+
+Chair: You could send us a letter on that subject, setting it out fairly fully. I do not disagree that you need the power, because it is the ultimate encouragement to get people to co-operate with you and pay up, but before you use it, you need to be very careful.
+
+Q40 Catherine West: This intervention was focused on risks from people moving abroad. What further changes is HMRC planning to improve its performance?
+
+John-Paul Marks: Do you mean improve our performance generally or would you like us to focus on child benefit and error and fraud? I am happy to do either.
+
+Catherine West: Let us do generally first.
+
+John-Paul Marks: I will do a bit generally, and then Cerys could say a bit on child benefit; Myrtle could do a bit on child benefit transformation.
+
+Generally, HMRC is on an improving trajectory, I am pleased to say. If you take our first strategic objective, we are first and foremost here to collect tax receipts, but we want to make sure we are collecting the tax from those who do not follow the rules, take reasonable care or where there is error. Last year, we had a record yield. It was over £50 billion for the first time. We are making progress. Receipts are ahead of forecasts, yield is at a record high, and debt is falling as a percentage of receipts.
+
+For customer services, Myrtle can say more. I am really pleased to say that our average speed of answer was double-digit, over 20 minutes, 18 months ago or so, but it is now single-digit. It was seven minutes in the last month. That really matters in terms of confidence and trust in the front door to get through to us, if you have a concern, and quite right too.
+
+We have been able to eliminate some backlogs that we faced in things like the construction industry scheme and A1 certificates. We are making good progress on timely repayments. We have a very structured transformation programme on modernisation and reform.
+
+We have improved our security resilience recently. We have seen a nice improvement in our maturity, which we will report on to Parliament. We are on track with a fundamental transformation of HMRC’s core technology infrastructure, which is a software-as-a-service transformation that will be AI-enabled, to drive better outcomes for less cost. That is about shifting the dial so that at least 90% of our customer interactions are digital. From the latest data that I have seen, it is just under 83%. It was around 79% last year. It is going up at a healthy rate, but there is more to do.
+
+Of course, we are a big people organisation. Our engagement score was 60% in the last survey. It is the first time we have hit that level. It is up 4% on the year before. We are continually trying to build capability and confidence within our teams to deliver better public services.
+
+Cerys, you could say a bit about the future of child benefit, and then Myrtle could come in, if there is anything else that she would like to add.
+
+Cerys McDonald: Starting with the customers affected by the entitlement around residency, our priority has absolutely been on scaling up carefully, as we have talked about this morning. More generally across child benefit, we are trying to think in a much more customer-focused way around the touchpoints in people’s lives where their circumstances might change and how we can prompt them to spot that their eligibility might have changed. That goes back to the point that I mentioned earlier about sending text messages to remind parents to tell us if their child has dropped out of education.
+
+We are also really conscious that some customers who receive child benefit pay the high income child benefit charge. Over the last 12 to 18 months, we have rolled out two really important improvements to strengthen their experience. You can now opt to have your high income child benefit charge collected via PAYE rather than having to complete a self-assessment form purely because you are subject to that charge. Those who do use self-assessment to pay that charge now see that charge pre-populated on their SA return, and they just have to verify that they think it is correct.
+
+I hope that gives you a good sense of the customer-centric approach we are taking to continuous improvement.
+
+Q41 Catherine West: In terms of the future, we do not know which direction the economy is going to take. There may be more need for more help for children. I would imagine that you have an approximate figure of people who do not bother to claim the benefit. What predictive AI, etc, is being used to understand the latent need? A lot of people are too scared of all of this to claim benefits. Let us say things do not improve in the economy. What predictive capability do we have to understand whether there might be more liability in there for the Government? That is correct. Benefits are meant to be there as a safety net. Have you done any of that thinking or are we all still being optimistic?
+
+Cerys McDonald: We track the claim rate for child benefit very carefully. It has been falling since 2013. Partly, that is people opting out as a result of the high income child benefit charge, but there is also a bit of customer confusion around the two-child limit. That does not apply to child benefit, but the way it is sometimes presented in the press means that people might feel they are not eligible for child benefit.
+
+We have a really strong comms campaign to encourage parents, particularly new parents, to make that first claim for child benefit. Even if their incomes are above the child benefit charge threshold, there are still good reasons to make the claim, even if you opt out of the payment. It gives your child access to a NINO later down the line and, importantly, can allow individuals to gain access to national insurance credits for future state pension entitlement.
+
+We still put out quite a lot of social media comms and, when parents have their first child, we still have the traditional bit of material that parents get in those early days to encourage take-up. We monitor this very carefully.
+
+Q42 Catherine West: Would you agree that it was a much easier benefit to understand for citizens when Gordon Brown first introduced it and it was universal?
+
+Cerys McDonald: I still think it is an easy benefit to understand and it has very straightforward eligibility criteria. I am a mum myself. I remember the chaos of those first couple of weeks and months. We want to do more to cut through and encourage people to claim via what is now a very straightforward customer journey. It is a digital claim, which can help. A mum can do it at night, for example. It is not overly burdensome.
+
+Q43 Catherine West: What was the figure that you were going to quote for people who choose not to claim it but who are eligible for it?
+
+Cerys McDonald: At the moment, it is at about 87%.
+
+Rob Malcomson: As our Government Digital Service colleagues are modernising digital infrastructure across Government, there will be opportunities, using data and insights, to proactively identify those eligible families that are not claiming this. You could see a world where we have an understanding of children in education and are able to connect that with whether they are in receipt of child benefit, for example. We are on a broader Government journey about being able to connect the plumbing, as it were, to find this type of insight.
+
+Myrtle Lloyd: The process of claiming is hugely transformed and really streamlined. About 90% of our customers claim online, and about 45% of those just go straight through and into payment between three and five days. It is a mixture of awareness and streamlining the process and making it a really good experience.
+
+Q44 Catherine West: When it was first introduced, it was the one benefit for just having children, was it not? It is similar to the state pension, which is because you have reached a certain age. Given that everything is now means-tested, I am just trying to put that in context for those of us who enjoyed the universality of this benefit when it was first introduced.
+
+My question, just to diverge slightly now, is regarding the overseas element of the pilot and the day-to-day running of the scheme. There was quite a lot of confusion over the Northern Ireland situation. That was clear from some of the questions in Parliament.
+
+What other mechanisms have since been introduced to ascertain whether somebody is abroad, apart from day-to-day spending on cards? There was some talk about the different ways that people travel. In Northern Ireland, air travel is frequent compared with if you are living in this part of the UK. What are the learnings, just very briefly?
+
+John-Paul Marks: Once again, I would reinforce the apology to those customers who were affected in Northern Ireland and should not have been. Although the pilot had a sizeable sample, we did not pick up that risk in the pilot as much as we could have. We could have targeted an additional sample in Northern Ireland to make sure that we had taken account of the Windsor framework and got that right. We have now removed from the cohort customers who are moving within the island of Ireland so that they are not disrupted, and I apologise for that. It was 826 customers. Of course, that is backdated and they are back into payment, and the lesson has been well learned.
+
+In terms of your more general question on leveraging data for customers who have moved abroad, there is a suite of opportunities, some of which we now have into delivery, such as airports data, ports data, etc. Where there is other information that we can leverage, we will use that because it will help to increase the success rate and reduce the size of the sample of customers being disrupted who should not be. I do not know whether there is anything else Cerys wants to say on data sources.
+
+Cerys McDonald: Another good source of data for us is school census data, which we get regularly. It does have a lag. A local authority can do a direct referral to us if a family is known to have left the country. We do not rely wholly and exclusively on the Home Office travel data, but it is probably the most powerful in terms of using it at scale to do some of this risking.
+
+Chair: I am sorry. I am going to have to interrupt proceedings. We are going to take a break now. It is 11.50. Could we be back at 11.55? I do not wish any discourtesy to our witnesses or the Committee, but I have to go to ask a question in the Chamber. Clive Betts, my able deputy, will take over when we return. I do not wish any discourtesy to our witnesses.
+
+Sitting suspended.
+
+On resuming—
+
+[Mr Clive Betts took the Chair]
+
+Chair: Welcome back to this session. Thank you, everyone, for your patience while we had that short break. We will now move on to further questions.
+
+Q45 Rupert Lowe: The key question for me on this is about the lessons that have been learned from this chapter more widely across HMRC. I underline that you should not, as you say, JP, give up, because this is a good initiative. Arguably, it could have been executed better.
+
+I see from paragraph 14 on page 9 that you have commissioned an internal audit review, the results of which you now have and which I think I am right in saying that the NAO has seen.
+
+John-Paul Marks: Yes.
+
+Q46 Rupert Lowe: It would be quite interesting, if you were happy, for the Committee to see those minutes. I am assuming you are going to use those as the broad basis for arguably improving the way in which things operate. Is that right?
+
+John-Paul Marks: Exactly right, yes. We have a good internal audit team, and we take those reports into our executive committee and our audit and risk committee. As you say, we want to fix this process and learn from it, but we also want to extrapolate the learning more broadly, including working with the Public Sector Fraud Authority, so we can learn more generally across Government.
+
+Yes, the internal audit report has been shared with the NAO, which sits on our audit and risk committee as well. We can share the outcomes from that report.
+
+Q47 Rupert Lowe: What were the main takeaways from that report?
+
+John-Paul Marks: We have spoken about some of these things already around senior oversight and making sure that it is consistent throughout. It was there at the beginning; it is there now. As we say, we had a level of empowerment as we operationalised that first roll-out when changes were made, which in hindsight we reversed and which we should not have made. It is senior oversight, governance and control. There is that control framework point.
+
+There is the point that was being made around integrating more customer insights, which is fundamental to the establishment of the chief customer office in HMRC, which Myrtle now leads. We are much more user-centric as an organisation than we were a couple of years ago, but we have more to do there. We can give you some examples. We are absolutely trying to hardwire our charter into our approach. If you look at our first-tier complaints, for example, they are down around 40% this year. That is great, but there is more to do.
+
+Yes, the learning is documented. We have covered it well today. It is about risk appetites and being intentional around decisions. If you are going to change the treatment from pilot in scale, you need to test it first at low volume before adding the volume, hence the hypercare phase.
+
+As you were saying earlier in your comments, it is also important to encourage innovation. We have to find a way of doing it whereby we can understand the real-world outcomes for every individual customer. We need to do everything that we can to protect against those and protect the UK taxpayer. That is the balance that we are always trying to strike. This exercise ultimately will prove successful in that way, but as I say, there has been some hard learning, which we have acted on.
+
+Q48 Rupert Lowe: Thank you for that. I have one final question, if the Chairman will allow me. Throughout the Report, it is a mixture of customer and claimant. What do you call the people who are claiming child benefit? Do you call them customers or claimants?
+
+John-Paul Marks: Generally in HMRC we talk about our customers. We talk about customer service as a philosophy of operational delivery, as would be true in a high street bank, supermarket or any other high-volume retail customer service organisation. Many of my teams will be working with the Institute of Customer Service. That concept of service matters. In the benefits system, historically, this lexicon of “claimant” has grown up. That is what you are seeing in there.
+
+Q49 Rupert Lowe: On the basis that English matters, “claimant” is probably more accurate than “customer” in this case. If you are going to apply that, you should probably call the taxpayers “donors”. I am sure they are happy with “taxpayer”. I was just interested because the Report does mix and match.
+
+John-Paul Marks: It does. It is because generally HMRC will use the word “customer”. Generally, in the benefits system, you will hear the word “claimant”. In DWP, although I have not checked for a while, the word “claimant” will be spoken about more. As you know, we are running a tax service, and every business in this country, pretty much, is interacting with us and/or most households. As you say, we want to provide a service to them that makes it as easy as possible for them to comply with the law and pay their taxes on time.
+
+Q50 Chair: I will move on now to the slightly wider experience and talk about the lessons that HMRC have learned from this issue. This is for Rob Malcomson. What was the experience here and how have the lessons been applied across wider Government?
+
+Rob Malcomson: There are additional lessons that have applicability across the public sector. I touched on this a little earlier as well. There is a necessity to understand the data and the processes truly and deeply. Therefore, when you are making changes or variances to how data shares are operating, that should be well understood, with the right oversight and risk management.
+
+We know that things will go wrong in data. There are blind spots in data. It can be incomplete. A key lesson is making sure that people who are working with data understand that it is not a silver bullet and that in and of itself data does not determine a conclusive outcome. It requires further checks and corroboration.
+
+Because of those limitations in data, the importance of really considered customer contact is key. The hypercare model, as I referenced earlier, is a good model for how we can apply those lessons more broadly. We are doing that by sharing these insights and lessons with the counter-fraud community of practice, which is made up of people from right across the public sector. We are doing specific sessions with those who lead counter-fraud work in Government Departments and their ALBs. Mark Cheeseman, as the chief executive of the PSFA, is writing to accounting officers to remind them of these principles.
+
+As we go into the consultation review period for the code of practice, which underpins the Digital Economy Act and the legal gateway through which this data share happened, we are considering how we embed that and codify it into that practice for future.
+
+Q51 Chair: Is there anything more that could be done? Are there any Departments that are not listening to you?
+
+Rob Malcomson: That is a good question. We heard about this principle of layering data in. As we have heard, there will be opportunities to bring in other data insights. Ideally, bringing and combining that data in a safe and proportionate way will help to address the challenges around the level of confidence that there is a problem here.
+
+The optimum way to deal with this type of challenge is through fraud prevention. The idea is that we can bring that data at a point in time to inform our decisions, if there is an issue. That means, if there is a problem, we are catching it sooner and ideally stopping it at the first instance or catching it quicker. That is helpful. It means we are not creating significant debt that then has to be chased as a consequence.
+
+If we can create awareness that we are doing this type of advanced analytics and data sharing, there is, in and of itself, a deterrent effect that comes from that. We should be confident in letting it be known that we are bringing data together to find this because all the academic research and my experience as a practitioner tells me that it is the likelihood of being caught that stops people fraudulently claiming rather than the consequence of being found.
+
+Q52 Chair: If you get all the Departments enthused and wanting to carry this out, looking at the data that they or others may have and cross-checking it, they may come back and say, “Actually, the data is not compatible. It does not relate to each other.” Is that a major struggle in trying to achieve what you are trying to achieve in this way?
+
+Rob Malcomson: It can be, but that is also an issue that you can overcome. There are ways that we can combine data probabilistically. We call it fuzzy matching. You can bring data together and compensate for differences across different datasets. We have proven ways of joining data where you perhaps do not have exact information to work from.
+
+Of course, that is probabilistic confidence, as it were, to talk about data science for a moment. In other words, it does not give you an absolute guarantee that you have found an issue. When we use a combination of data insights to find an issue, we say, “There is something not quite right here, but we are not going to make a decision alone based on the joining of that data. Instead, we are going to make further enquiries and then make a determination.” That is how you compensate for that.
+
+Q53 Chair: When you are going through this—this is my last question—do you identify areas where, if the data were only a bit better, you could do this job of identifying fraud a bit better?
+
+Rob Malcomson: Yes. There are a couple of data quality fundamentals. As the public sector, we do not have a clear and confident understanding of who lives in what property at any one point in time. That is quite difficult to establish. Again, we have to layer up insights to say, “We think Rob Malcomson lives here or here.” The ability to then bring in more insight from what we call a unique reference, like a national insurance number, is a good example. When you have somebody’s national insurance number in two different datasets, joining that up becomes much easier.
+
+If we are in a world where we can bring uniform data specifications together, so we can ask that data is collected from citizens in a uniform way, we can overcome some of those data deficiencies and be more confident as we connect that data together.
+
+Chair: That is something that I am sure the Committee will come back to on other issues as we go forward.
+
+Q54 Catherine West: Let me ask a little follow-up to that. In yesterday’s Budget, there were announcements about more reach, as it were, for HMRC. I am just wondering what the statutory requirements are on consultation, or is it that once it is in the Budget it just comes in?
+
+Jonathan Athow: It depends on the proposal. Normally, if it is anything that requires legislation, we will publish legislation in draft and that will then be part of a consultation process. It will very much depend on the exact measure.
+
+Particularly on some of the issues that we have already touched on around debt, we will want to consult widely on those. We have very good engagement with the Low Incomes Tax Reform Group. It has been really helpful in shaping proposals. We will want to do that because, again, we want to have as many safeguards and protections in place. If consultation will get us there, that is what we will be doing.
+
+Catherine West: What we have seen today is that mistakes can happen.
+
+Q55 Sarah Olney: I have one final question for Mr Malcomson. Thinking about other Departments and their ongoing efforts to innovate, particularly around fraud and loss, what recommendations will you be making that will encourage them to continue innovating, despite, as we have explored today, this particular experience at HMRC? What are the positives that you have taken from this that you are hoping to roll out?
+
+Rob Malcomson: First, there is the principle of truly and deeply understanding the fraud risk or threat that you are facing. Having that deep understanding helps to think about what a real meaningful solution will look like to that problem.
+
+Secondly, we know—we saw it in this pilot and we see it in other contexts—that public sector fraud costs between £55 billion and £81 billion each and every year, and one of our key defences against that is the use of data-sharing analytics. We should be bold and confident in our use of that. If we bring colleagues together and co-design it with, as I mentioned, operation and policy colleagues, counter-fraud experts, lawyers and data governance colleagues, we can crack how to do this work well. Let us lean into that because we see case after case.
+
+In the Public Sector Fraud Authority alone since 2022, the work that I am responsible for, we have audited savings of fraud prevented or detected and brought back into the Exchequer of £1.5 billion. We can show that this work can be done well, can be done effectively and can have real impact. Let us lean into doing more of this, but let us learn the lessons around safeguards and customer contact. Let us make sure we have the right people in the room to think it through before we deploy.
+
+Chair: That brings us to the end of our questions. Thank you all very much for coming and giving evidence to the Committee. We have had an interesting session. We have probably learned that mistakes do happen. When they happen, it is really important that they are not covered up. They need to be put out in the open, shared and put right as quickly as possible, and then we need to learn lessons from them for the future. That is what we have seen today, hopefully. We thank you for trying to explain that to us.
+
+We will now consider the evidence that you have given to us. We will produce a report as a Committee in due course. An uncorrected version of today’s transcript will be online shortly.
