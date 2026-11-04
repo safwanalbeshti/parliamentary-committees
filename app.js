@@ -153,6 +153,8 @@ const el = {
   sessionDate: document.querySelector("#sessionDate"),
   sessionTitle: document.querySelector("#sessionTitle"),
   sourceLink: document.querySelector("#sourceLink"),
+  whatThisIs: document.querySelector("#whatThisIs"),
+  whatThisIsBtn: document.querySelector("#whatThisIsBtn"),
   aboutSourceLink: document.querySelector("#aboutSourceLink"),
   aboutSummary: document.querySelector("#aboutSummary"),
   turnCounter: document.querySelector("#turnCounter"),
@@ -1180,6 +1182,7 @@ function bindControls() {
     button.addEventListener("click", () => activateTab(button.dataset.tab));
   }
 
+  bindWhatThisIs();
   window.addEventListener("keydown", onKeydown);
   window.addEventListener("resize", () => requestAnimationFrame(repositionOverlay));
   compactLayout.addEventListener("change", () => requestAnimationFrame(repositionOverlay));
@@ -1225,6 +1228,29 @@ function onKeydown(event) {
     default:
       break;
   }
+}
+
+/* ---------- "What this is" ---------- */
+
+// Hover or keyboard focus shows the panel through CSS; a click or tap pins it
+// open, which is what touch screens rely on.
+function bindWhatThisIs() {
+  const setOpen = (open) => {
+    el.whatThisIs.classList.toggle("is-open", open);
+    el.whatThisIsBtn.setAttribute("aria-expanded", String(open));
+  };
+  el.whatThisIsBtn.addEventListener("click", () => {
+    setOpen(!el.whatThisIs.classList.contains("is-open"));
+  });
+  document.addEventListener("click", (event) => {
+    if (!el.whatThisIs.contains(event.target)) setOpen(false);
+  });
+  el.whatThisIs.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") {
+      setOpen(false);
+      el.whatThisIsBtn.blur();
+    }
+  });
 }
 
 /* ---------- helpers ---------- */

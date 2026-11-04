@@ -899,6 +899,110 @@ h1 {
   font-weight: 800;
 }
 
+/* ---------- "What this is" ---------- */
+
+.what-this-is {
+  position: fixed;
+  right: 18px;
+  bottom: 18px;
+  z-index: 45;
+}
+
+.what-this-is-button {
+  padding: 8px 14px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--panel);
+  color: #5d6a64;
+  font: inherit;
+  font-size: 0.72rem;
+  font-weight: 900;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  box-shadow: 0 8px 22px rgba(24, 32, 38, 0.14);
+  backdrop-filter: blur(12px);
+  cursor: help;
+}
+
+.what-this-is-button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.what-this-is-tip {
+  position: absolute;
+  right: 0;
+  bottom: calc(100% + 10px);
+  width: min(320px, calc(100vw - 36px));
+  padding: 12px 14px;
+  border-radius: var(--radius);
+  background: #182026;
+  color: #f4f2e8;
+  font-size: 0.78rem;
+  font-weight: 600;
+  line-height: 1.5;
+  box-shadow: 0 18px 38px rgba(24, 32, 38, 0.34);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(5px);
+  transition:
+    opacity 150ms ease,
+    transform 150ms ease,
+    visibility 0s linear 150ms;
+}
+
+/* Bridges the gap to the button, so the pointer can reach the link. */
+.what-this-is-tip::before {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  height: 12px;
+}
+
+.what-this-is-tip::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  right: 26px;
+  border: 6px solid transparent;
+  border-top-color: #182026;
+}
+
+/* :focus-visible, not :focus-within, so a mouse click can close it again. */
+.what-this-is:hover .what-this-is-tip,
+.what-this-is:has(:focus-visible) .what-this-is-tip,
+.what-this-is.is-open .what-this-is-tip {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+  transition:
+    opacity 150ms ease,
+    transform 150ms ease;
+}
+
+.what-this-is-tip p {
+  margin: 0 0 8px;
+}
+
+.what-this-is-tip p:last-child {
+  margin-bottom: 0;
+}
+
+.what-this-is-tip a {
+  color: #f0c27a;
+  font-weight: 800;
+}
+
+/* Below this width the Prev / Next dock is fixed to the bottom; sit above it. */
+@media (max-width: 1080px) {
+  .what-this-is {
+    right: 12px;
+    bottom: 100px;
+  }
+}
+
 /* ---------- animation ---------- */
 
 @keyframes spotlightPulse {
