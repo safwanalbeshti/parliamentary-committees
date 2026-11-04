@@ -48,6 +48,8 @@ CONDENSE_API_URL = os.environ.get(
 )
 CONDENSE_MODEL = os.environ.get("CONDENSE_MODEL", "gpt-5-mini")
 ROOT = Path(__file__).resolve().parents[1]
+# Optional, less condensed retelling that sits beside condensation.json.
+DETAILED_FILE = "condensation.detailed.json"
 
 INDEX_START = "    <!-- GENERATED_SESSIONS_START -->"
 INDEX_END = "    <!-- GENERATED_SESSIONS_END -->"
@@ -797,15 +799,17 @@ def require_string(
     return text
 
 
-def validate_packet(packet: Path) -> tuple[list[str], list[str], dict[str, Any] | None]:
+def validate_packet(
+    packet: Path, filename: str = "condensation.json"
+) -> tuple[list[str], list[str], dict[str, Any] | None]:
     errors: list[str] = []
     warnings: list[str] = []
     metadata = read_json(packet / "metadata.json")
     if not isinstance(metadata, dict):
         return (["metadata.json is missing or invalid."], warnings, None)
-    condensation = read_json(packet / "condensation.json")
+    condensation = read_json(packet / filename)
     if not isinstance(condensation, dict):
-        return (["condensation.json is missing or invalid."], warnings, None)
+        return ([f"{filename} is missing or invalid."], warnings, None)
 
     if condensation.get("schema_version") != 1:
         errors.append("schema_version must be 1.")
@@ -1273,18 +1277,30 @@ def seat_for(kind: str, counters: dict[str, int]) -> str:
     return pool[index % len(pool)]
 
 
-def session_javascript(metadata: dict[str, Any], condensation: dict[str, Any]) -> str:
+def session_javascript(
+    metadata: dict[str, Any],
+    condensation: dict[str, Any],
+    detailed: dict[str, Any] | None = None,
+) -> str:
+    """Compile a session. ``detailed`` is an optional, less condensed retelling
+    of the same hearing; when given, the viewer offers a toggle between the two."""
     counters = {"chair": 0, "member": 0, "witness": 0}
     cast: dict[str, Any] = {}
+    retellings = [condensation] + ([detailed] if detailed else [])
     # A speaker who never actually speaks would sit in Who's who with nothing to
     # jump to, so the cast only carries people who appear in the dialogue.
     speaking = {
         turn["speaker"]
-        for chapter in condensation["chapters"]
+        for retelling in retellings
+        for chapter in retelling["chapters"]
         for turn in chapter["turns"]
     }
+    declared: dict[str, dict[str, Any]] = {}
+    for retelling in retellings:
+        for item in retelling["speakers"]:
+            declared.setdefault(item["label"], item)
     for index, speaker in enumerate(
-        [item for item in condensation["speakers"] if item["label"] in speaking]
+        [item for label, item in declared.items() if label in speaking]
     ):
         kind = speaker["kind"]
         color, soft = PALETTE[index % len(PALETTE)]
@@ -1318,21 +1334,8 @@ def session_javascript(metadata: dict[str, Any], condensation: dict[str, Any]) -
         ", ".join(witness_names) if witness_names else "Oral evidence"
     )
 
-    transcript_lines = [f"# {inquiry or metadata['committee']}"]
-    for chapter in condensation["chapters"]:
-        transcript_lines.extend(
-            [
-                "",
-                f"## {chapter['title']}",
-                f"> {chapter['takeaway']}",
-                "",
-            ]
-        )
-        transcript_lines.extend(
-            f"{turn['speaker']}: {turn['text']}" for turn in chapter["turns"]
-        )
-        transcript_lines.append("")
-    transcript = "\n".join(transcript_lines).strip() + "\n"
+    heading = f"# {inquiry or metadata['committee']}"
+    transcript = transcript_text(heading, condensation)
 
     status_label = metadata.get("transcript_status", "published").capitalize()
     session = {
@@ -1350,13 +1353,23 @@ def session_javascript(metadata: dict[str, Any], condensation: dict[str, Any]) -
     if inquiry:
         session["inquiry"] = inquiry
 
-    glossary = [
-        {"term": str(entry["term"]).strip(), "definition": str(entry["definition"]).strip()}
-        for entry in condensation.get("glossary") or []
-        if isinstance(entry, dict) and entry.get("term") and entry.get("definition")
-    ]
+    glossary = glossary_entries(condensation)
     if glossary:
         session["glossary"] = glossary
+    if detailed:
+        session["versions"] = [
+            {
+                "id": version_id,
+                "label": label,
+                "transcript": transcript_text(heading, retelling),
+                "summary": retelling["summary"],
+                "glossary": glossary_entries(retelling),
+            }
+            for version_id, label, retelling in (
+                ("condensed", "More condensed", condensation),
+                ("detailed", "Less condensed", detailed),
+            )
+        ]
     serialised = json.dumps(session, ensure_ascii=False, indent=2)
     return f"""/*
  * Generated from UK Parliament oral evidence {metadata['parliament_oral_evidence_id']}.
@@ -1366,6 +1379,23 @@ def session_javascript(metadata: dict[str, Any], condensation: dict[str, Any]) -
 window.COMMITTEE_SESSIONS = window.COMMITTEE_SESSIONS || [];
 window.COMMITTEE_SESSIONS.push({serialised});
 """
+
+
+def transcript_text(heading: str, condensation: dict[str, Any]) -> str:
+    lines = [heading]
+    for chapter in condensation["chapters"]:
+        lines.extend(["", f"## {chapter['title']}", f"> {chapter['takeaway']}", ""])
+        lines.extend(f"{turn['speaker']}: {turn['text']}" for turn in chapter["turns"])
+        lines.append("")
+    return "\n".join(lines).strip() + "\n"
+
+
+def glossary_entries(condensation: dict[str, Any]) -> list[dict[str, str]]:
+    return [
+        {"term": str(entry["term"]).strip(), "definition": str(entry["definition"]).strip()}
+        for entry in condensation.get("glossary") or []
+        if isinstance(entry, dict) and entry.get("term") and entry.get("definition")
+    ]
 
 
 def generated_tag(path: Path, root: Path) -> str:
@@ -1413,9 +1443,18 @@ def build_command(args: argparse.Namespace) -> int:
                 print(f"error [{packet.name}]: {error}", file=sys.stderr)
             continue
         assert condensation is not None
+        detailed = None
+        if (packet / DETAILED_FILE).exists():
+            # The longer retelling is optional: if it has gone stale or fails
+            # validation, publish the session without it rather than not at all.
+            detail_errors, _, detailed = validate_packet(packet, DETAILED_FILE)
+            if detail_errors:
+                detailed = None
+                for error in detail_errors:
+                    print(f"warning [{packet.name}]: {DETAILED_FILE} skipped: {error}")
         metadata = read_json(packet / "metadata.json")
         output = root / "sessions" / "generated" / f"oral-evidence-{packet.name}.js"
-        content = session_javascript(metadata, condensation)
+        content = session_javascript(metadata, condensation, detailed)
         generated_files.append(output)
         current = output.read_text(encoding="utf-8") if output.exists() else None
         if current != content:

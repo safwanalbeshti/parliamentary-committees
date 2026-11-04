@@ -51,6 +51,7 @@ function memberKindLabel(name) {
 
 const STORAGE_KEY = "committee-viewer-progress";
 const MENU_MODE_KEY = "committee-viewer-menu-mode";
+const VERSION_KEY = "committee-viewer-version";
 
 /*
  * Terms a general reader is unlikely to know. Each session also carries its own
@@ -158,6 +159,7 @@ const el = {
   turnCounter: document.querySelector("#turnCounter"),
   sessionPickerWrap: document.querySelector("#sessionPickerWrap"),
   sessionPicker: document.querySelector("#sessionPicker"),
+  versionToggle: document.querySelector("#versionToggle"),
   chapterLabel: document.querySelector("#chapterLabel"),
   chapterTakeaway: document.querySelector("#chapterTakeaway"),
   previousBtn: document.querySelector("#previousBtn"),
@@ -181,6 +183,7 @@ let dialogue = [];
 let chapters = [];
 let cast = new Map();
 let currentIndex = 0;
+let versionId = null;
 let menuMode = "inquiry";
 let openCommittee = null;
 
@@ -614,6 +617,7 @@ function findSession(id) {
 
 function selectSession(id) {
   session = findSession(id) || sessions[0];
+  applyVersion();
 
   const parsed = parseTranscript(session.transcript);
   dialogue = parsed.dialogue;
@@ -650,6 +654,59 @@ function selectSession(id) {
   renderChapterList();
   renderCastList();
   renderChapterTicks();
+}
+
+/* ---------- condensed / detailed versions ---------- */
+
+// A session may carry several retellings of different lengths. The chosen one's
+// text, summary and glossary stand in for the session's own while it is shown.
+function applyVersion() {
+  const versions = session.versions || [];
+  if (!versionId) {
+    try {
+      versionId = localStorage.getItem(VERSION_KEY);
+    } catch {
+      /* storage unavailable — fine */
+    }
+  }
+  const chosen = versions.find((v) => v.id === versionId) || versions[0];
+  if (chosen) {
+    session.transcript = chosen.transcript;
+    session.summary = chosen.summary;
+    session.glossary = chosen.glossary;
+  }
+  renderVersionToggle(versions, chosen);
+}
+
+function renderVersionToggle(versions, chosen) {
+  el.versionToggle.hidden = versions.length < 2;
+  el.versionToggle.replaceChildren();
+  for (const version of versions) {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.textContent = version.label;
+    button.setAttribute("aria-pressed", String(version === chosen));
+    button.addEventListener("click", () => switchVersion(version.id));
+    el.versionToggle.append(button);
+  }
+}
+
+// Keep the reader in the same chapter when the length changes.
+function switchVersion(id) {
+  if (!session || (session.versions || []).every((v) => v.id !== id)) return;
+  let chapterIndex = 0;
+  chapters.forEach((chapter, index) => {
+    if (chapter.start <= currentIndex) chapterIndex = index;
+  });
+  versionId = id;
+  try {
+    localStorage.setItem(VERSION_KEY, id);
+  } catch {
+    /* storage unavailable — fine */
+  }
+  selectSession(session.id);
+  const target = chapters[Math.min(chapterIndex, chapters.length - 1)];
+  setCurrent(target ? target.start : 0, { immediate: true });
 }
 
 function parseTranscript(text) {

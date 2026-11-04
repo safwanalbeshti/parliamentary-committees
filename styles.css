@@ -130,6 +130,40 @@ h1 {
   gap: 8px;
 }
 
+.version-toggle[hidden] {
+  display: none;
+}
+
+.version-toggle {
+  display: inline-flex;
+  padding: 3px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--paper);
+}
+
+.version-toggle button {
+  padding: 5px 12px;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--muted);
+  font: inherit;
+  font-size: 0.78rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.version-toggle button[aria-pressed="true"] {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.version-toggle button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
 .session-picker[hidden] {
   display: none;
 }
@@ -1000,6 +1034,7 @@ h1 {
 
   .header-side {
     flex-direction: row;
+    flex-wrap: wrap;
     align-items: center;
   }
 

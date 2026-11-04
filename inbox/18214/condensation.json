@@ -2,9 +2,9 @@
   "schema_version": 1,
   "source_id": 18214,
   "source_sha256": "4ef915462fc55e6b299cea552c45e162e90a82407431fa80a34348024e008b12",
-  "title": "Planning for a renewables-led grid: risks from Dunkelflaute, storage and interconnectors",
-  "label": "28 October 2026 · Dunkelflaute, intermittency and storage",
-  "summary": "Ofgem’s engineering director, Peter Bingham, told the Lords committee that Britain is moving to a renewables-led system and recognised the supply risks that brings. He explained the current reliability standard for electricity, how capacity modelling treats imports, and why long-duration storage and network connections remain priorities. Ofgem has launched initial schemes for long-duration energy storage and interconnectors, will learn from the first round, and plans further consultations and close work with government and networks to remove barriers.",
+  "title": "Ofgem on windless winter weeks: how safe is Britain's power supply?",
+  "label": "28 October 2026 · Ofgem on Dunkelflaute and storage",
+  "summary": "Peers questioned Peter Bingham, Ofgem's engineering director, about what happens when Britain goes days with little wind or sun. He said the risk is planned for, but couldn't say how rare an emergency the system is built to survive. On storage that lasts for days, the answer kept coming back to a national energy plan that isn't finished. He called the undersea cables to other countries reliable but not infallible, and said the real bottleneck is building the grid.",
   "speakers": [
     {
       "label": "Chair",
@@ -21,266 +21,274 @@
     {
       "label": "Lord Ashcombe",
       "name": "Lord Ashcombe",
-      "role": "Member of the committee",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "Lord Redwood",
       "name": "Lord Redwood",
-      "role": "Member of the committee",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "Lord Krebs",
       "name": "Lord Krebs",
-      "role": "Member of the committee",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "Earl Russell",
       "name": "Earl Russell",
-      "role": "Member of the committee",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "Baroness Whitaker",
       "name": "Baroness Whitaker",
-      "role": "Member of the committee",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "Lord Rooker",
       "name": "Lord Rooker",
-      "role": "Member of the committee",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "Lord Trees",
       "name": "Lord Trees",
-      "role": "Member of the committee",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "Baroness McIntosh of Pickering",
       "name": "Baroness McIntosh of Pickering",
-      "role": "Member of the committee",
+      "role": "Committee member",
       "kind": "member"
     }
   ],
   "glossary": [
     {
       "term": "Dunkelflaute",
-      "definition": "A weather period with very low wind and solar generation, creating sustained low renewable output."
-    },
-    {
-      "term": "interconnectors",
-      "definition": "High-voltage cables linking the UK electricity system to other countries so power can be imported or exported."
-    },
-    {
-      "term": "LDES",
-      "definition": "Long-duration energy storage: technologies that can store electricity for many hours or days."
+      "definition": "German for 'dark doldrums': a spell of days or weeks with little wind and little sun, so wind farms and solar panels produce almost nothing."
     },
     {
       "term": "NESO",
-      "definition": "National Electricity System Operator: the organisation that models demand, plans capacity and runs scenarios for the grid."
+      "definition": "The National Energy System Operator, the public body that balances Britain's electricity supply and demand minute by minute and plans for future needs."
     },
     {
-      "term": "loss of load expectation",
-      "definition": "A probabilistic reliability standard showing how often a system might fail to meet demand under planning assumptions."
-    },
-    {
-      "term": "cap and floor",
-      "definition": "A regulatory support model Ofgem uses to give certain projects revenue certainty, with limits on what they can earn and lose."
-    },
-    {
-      "term": "SSEP",
-      "definition": "Strategic Spatial Energy Plan: government-led plan setting the country’s needs for generation, storage and networks."
-    },
-    {
-      "term": "CSNP",
-      "definition": "Central Strategic Network Plan: the planned national transmission network plan that follows the SSEP."
-    },
-    {
-      "term": "SQSS",
-      "definition": "Security and Quality of Supply Standard: technical rules for operating the transmission system safely."
+      "term": "gigawatt hours",
+      "definition": "A measure of energy. One gigawatt hour is roughly what 130,000 homes use in a day."
     }
   ],
   "chapters": [
     {
-      "title": "Who is speaking for system engineering?",
-      "takeaway": "Ofgem has engineers in-house to judge technical risks and advise on network and storage planning.",
+      "title": "How rare a blackout are we planning for?",
+      "takeaway": "Unlike gas, electricity has no 'once in so many years' standard, and Lord Ashcombe struggled to get a clear answer on how bad things are allowed to get.",
       "turns": [
         {
-          "speaker": "Chair",
-          "text": "Please introduce yourself for the record."
+          "speaker": "Lord Ashcombe",
+          "text": "Britain is getting more and more of its power from wind and sun. How big a risk is that to keeping the lights on?"
         },
         {
           "speaker": "Peter Bingham",
-          "text": "I'm Peter Bingham, Director for Engineering and Technology at Ofgem. I lead engineers who assess and regulate the technical side of the electricity system."
+          "text": "We know it's a real issue. Wind and solar come and go, so you need other power stations you can switch on to fill the gaps, and that takes careful planning."
+        },
+        {
+          "speaker": "Lord Ashcombe",
+          "text": "The gas network is built to survive the kind of winter you'd expect once every 20 years. Is there anything like that for electricity?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "No. For electricity, the government's target is that supply shouldn't fall short of demand for more than three hours a year, on average. There isn't a 'once in so many years' measure."
+        },
+        {
+          "speaker": "Lord Ashcombe",
+          "text": "About a tenth of our power comes through cables from Europe. If Europe needs its own power just as we hit a long calm, dark spell, what odds are you planning for?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "NESO, which runs the grid, tests the system against tens of thousands of combinations of weather, breakdowns and conditions in Europe. The aim is to have enough supply in nearly all of them."
+        },
+        {
+          "speaker": "Lord Ashcombe",
+          "text": "You're still not giving me the answer I'm after. What chance of the system really struggling are they prepared to accept?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "It's statistical. You try to make sure the power available covers how high demand might go in almost every case. Past a certain point it's judged not worth the money to cover the last few. That said, we've recently bought more backup capacity than the standard requires."
         }
       ]
     },
     {
-      "title": "How we judge reliability today",
-      "takeaway": "Electricity reliability is planned to a probabilistic standard, not a single 'one-in-X' worst case; NESO runs many scenarios to set required capacity.",
+      "title": "Have the grid's safety rules been loosened?",
+      "takeaway": "Lord Redwood asked about recent changes to the grid's technical safety rules, and Ofgem agreed to write with details.",
       "turns": [
         {
-          "speaker": "Lord Ashcombe",
-          "text": "How big a risk is rising reliance on weather-dependent generation to security of supply?"
+          "speaker": "Lord Redwood",
+          "text": "NESO has recently relaxed some of the technical limits it uses to run the grid safely, presumably to fit in more renewables. Has that made the system riskier?"
         },
         {
           "speaker": "Peter Bingham",
-          "text": "We recognise the risk. Renewables are intermittent, so we need dispatchable sources and storage to fill gaps and keep supply secure."
-        },
-        {
-          "speaker": "Lord Ashcombe",
-          "text": "Is there an equivalent to gas's 'one-in-20-year' standard for electricity? What worst-case probability do you plan for?"
-        },
-        {
-          "speaker": "Peter Bingham",
-          "text": "Electricity planning uses the government's three-hour loss of load expectation, a probabilistic standard. NESO models tens of thousands of scenarios—different weather, generation and interconnector conditions—to decide needed capacity."
-        },
-        {
-          "speaker": "Lord Ashcombe",
-          "text": "So there's no explicit 'one-in-50' or similar metric for electricity?"
-        },
-        {
-          "speaker": "Peter Bingham",
-          "text": "No. The approach is statistical: you have distributions of demand and supply and plan to cover the range where it’s value for money to do so."
-        }
-      ]
-    },
-    {
-      "title": "Long-duration storage: current steps and limits",
-      "takeaway": "Ofgem has opened mechanisms for long-duration storage but the first round focused on more mature technologies; work and consultations will follow for ultra-long solutions.",
-      "turns": [
-        {
-          "speaker": "Lord Krebs",
-          "text": "Why aren't you focused on ultra-long-duration storage (100+ hours) given Dunkelflaute risks?"
-        },
-        {
-          "speaker": "Peter Bingham",
-          "text": "The first LDES window sought technologies offering eight hours or more—some projects in the draft set reach about 30 hours. The scheme didn't exclude longer-duration tech, but it emphasised more mature technologies."
-        },
-        {
-          "speaker": "Lord Krebs",
-          "text": "That sounds like 'watch this space'. What scale would be needed to cover days of low renewables?"
-        },
-        {
-          "speaker": "Peter Bingham",
-          "text": "Scale needs will be in the SSEP. There are many options—storage, hydrogen, CCUS, unabated gas, interconnection and demand response. Government will choose pathways and then mechanisms to deliver them."
-        },
-        {
-          "speaker": "Earl Russell",
-          "text": "Is special thinking or a special mechanism needed for ultra-long storage?"
-        },
-        {
-          "speaker": "Peter Bingham",
-          "text": "Possibly. These projects are capital-intensive and nascent. There may be a case for dedicated support—similar to how CfD auctions had buckets for emergent tech—to seed such technologies."
-        },
-        {
-          "speaker": "Baroness Whitaker",
-          "text": "Who will ensure storage choices are value for money and don't push up consumer bills?"
-        },
-        {
-          "speaker": "Peter Bingham",
-          "text": "SSEP pathways trade off affordability, security and emissions. Ofgem wants government to pick the lowest-cost pathway. LDES exists to lower market barriers; we will learn from the first window and consult on future design."
-        },
-        {
-          "speaker": "Baroness Whitaker",
-          "text": "When will we see final determinations from the first LDES round?"
-        },
-        {
-          "speaker": "Peter Bingham",
-          "text": "We expect to announce results this year; I'll confirm timings in writing so the committee can include them in its report."
-        }
-      ]
-    },
-    {
-      "title": "Interconnectors: benefits, limits and vulnerabilities",
-      "takeaway": "Interconnectors lower costs and add diversity, but they're derated in planning and not a guaranteed backup if widespread shortages occur.",
-      "turns": [
-        {
-          "speaker": "Lord Rooker",
-          "text": "Interconnectors supplied 15% of power in 2025 and more are coming—how reliable are they in a Dunkelflaute or if cables are damaged?"
-        },
-        {
-          "speaker": "Peter Bingham",
-          "text": "Interconnectors give access to a wider market, let us export surplus renewables, and add diversity. NESO derates their contribution in capacity modelling so we don't rely on full import flows in tight scenarios."
-        },
-        {
-          "speaker": "Lord Rooker",
-          "text": "But what if Europe faces the same weather and can't export? Or cables are disrupted?"
-        },
-        {
-          "speaker": "Peter Bingham",
-          "text": "That’s why domestic capacity and the capacity market are designed to fill gaps. Interconnectors are reliable historically, but not infallible; planning assumes contingencies."
-        },
-        {
-          "speaker": "Lord Trees",
-          "text": "Can we check whether imports are actually low-carbon? Some bills claim 'low-carbon UK-only' supply."
-        },
-        {
-          "speaker": "Peter Bingham",
-          "text": "Electricity traded across markets doesn't carry a colour label in that trading. UK suppliers can offer green-labelled UK-produced power, but imports are traded on European markets without that distinction."
-        },
-        {
-          "speaker": "Baroness McIntosh of Pickering",
-          "text": "Would it help to land interconnectors on brownfield sites in London to strengthen London’s supply directly?"
-        },
-        {
-          "speaker": "Peter Bingham",
-          "text": "There’s no regulatory barrier—developers choose landing sites and technical feasibility matters. If it’s feasible, it could make sense operationally."
-        },
-        {
-          "speaker": "Lord Ashcombe",
-          "text": "Do we have enough capacity domestically without interconnectors at winter peak?"
-        },
-        {
-          "speaker": "Peter Bingham",
-          "text": "It depends on renewable output; modelling accounts for low import scenarios. You can’t cover every imaginable extreme, but the plan aims for a reliable, diverse mix."
-        }
-      ]
-    },
-    {
-      "title": "Regulatory blockers, standards and next steps",
-      "takeaway": "Ofgem sees grid connections as the main barrier, will push faster network investment, learn from LDES, and follow up on technical standard changes.",
-      "turns": [
-        {
-          "speaker": "Earl Russell",
-          "text": "What regulatory barriers remain to deploying storage and low-carbon dispatchable power?"
-        },
-        {
-          "speaker": "Peter Bingham",
-          "text": "The dominant challenge is grid infrastructure and connections. Ofgem’s role is to fund and enable transmission companies to build at pace and to remove regulatory bottlenecks."
-        },
-        {
-          "speaker": "Earl Russell",
-          "text": "What specific planning or regulatory actions are you taking?"
-        },
-        {
-          "speaker": "Peter Bingham",
-          "text": "After the SSEP, the Central Strategic Network Plan (CSNP) will set network investment needs. Ofgem will make sure funding and regulatory settings allow prompt delivery."
+          "text": "I don't know the specific changes you mean. We did recently approve one that slightly widens the range of voltage allowed on part of the high-voltage network, to give NESO more room to manoeuvre within safe limits."
         },
         {
           "speaker": "Lord Redwood",
-          "text": "You approved some changes to voltage tolerances in the SQSS—can you write to us summarising recent NESO standard changes?"
+          "text": "Could you write to us about all the changes to these standards over the past year?"
         },
         {
           "speaker": "Peter Bingham",
-          "text": "Yes. I wasn't familiar with all the specific documents you mentioned but we did approve widening some voltage tolerances recently; I will write with more detail on developments in standards."
-        },
+          "text": "Yes, of course."
+        }
+      ]
+    },
+    {
+      "title": "Storage that lasts for days",
+      "takeaway": "Peers pressed Ofgem on how Britain will store enough power to get through long calm spells, and were told much depends on a national plan that's still being written.",
+      "turns": [
         {
-          "speaker": "Chair",
-          "text": "Thank you. Please confirm LDES determinations timing and the details on the SQSS changes in writing."
+          "speaker": "Lord Krebs",
+          "text": "To get through a Dunkelflaute we'd need storage that runs for 100 hours or more. Your new support scheme seems aimed at much shorter storage. Why?"
         },
         {
           "speaker": "Peter Bingham",
-          "text": "I will. And we will share what we learn from the first LDES window and consult on future windows and design changes."
+          "text": "It asked for at least eight hours and set no upper limit. The projects we've provisionally picked go up to 30 hours. I do think there's a case for much longer storage, and we'll consult on opening a future round to it."
+        },
+        {
+          "speaker": "Lord Krebs",
+          "text": "That sounds rather like 'watch this space'."
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "This was the first round, and we'll learn a lot from it. We do plan to consult on what comes next."
+        },
+        {
+          "speaker": "Lord Krebs",
+          "text": "Britain has about 24 gigawatt hours of long-duration storage, and uses around 700 a day. How much would we need to last ten days?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "The government's national energy plan should answer that. Storage is one option alongside gas, hydrogen, cables to other countries and paying big users to cut back. We'll definitely have times with more wind and solar power than we need, and it would be great to store that instead of burning gas later. Turning the plan into real projects is then a job for government."
+        },
+        {
+          "speaker": "Lord Krebs",
+          "text": "So the answer is: there are lots of options, we're thinking about it, and we'll tell you next year."
+        },
+        {
+          "speaker": "Earl Russell",
+          "text": "The longer you want to store energy for, the harder it gets. Does this need fresh thinking across government?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "Absolutely. Storage on that scale, like hydrogen or pumping water uphill, needs huge investment, and batteries don't last long enough yet. Government once kept a separate support pot for very new technologies like tidal power. Something similar could help here."
+        },
+        {
+          "speaker": "Baroness Whitaker",
+          "text": "How will you make sure this investment is good value for bill-payers?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "NESO is setting out possible routes that balance cost, security and cutting carbon. As the regulator, we want the Energy Secretary to pick the one that's cheapest for consumers."
+        },
+        {
+          "speaker": "Baroness Whitaker",
+          "text": "Almost everyone who's given us evidence says the current markets don't work for long-duration storage. Do you agree?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "Our scheme exists precisely because there are obstacles to getting that investment. It's a first attempt to get past them, and there's more to do."
+        },
+        {
+          "speaker": "Baroness Whitaker",
+          "text": "When will we see the results of your first round?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "This year. We'll write and confirm the date."
         },
         {
           "speaker": "Chair",
-          "text": "Thank you for your time and answers today."
+          "text": "Hydrogen and heat storage could last 100 hours or more. Why were none of them chosen?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "I'd need to check, but I don't think any were. The first round only accepted well-proven technologies, so newer ones were effectively shut out."
+        }
+      ]
+    },
+    {
+      "title": "Relying on cables from abroad",
+      "takeaway": "Ofgem says the undersea cables to other countries are reliable and aren't fully counted on in planning, but accepts they aren't infallible.",
+      "turns": [
+        {
+          "speaker": "Lord Rooker",
+          "text": "Last year about 15% of our power came through undersea cables from other countries. Why are we so reliant on them?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "They give us access to a bigger market, which keeps prices down, and let us sell spare wind power abroad. Weather differs between countries, so there's usually somewhere that can help."
+        },
+        {
+          "speaker": "Lord Rooker",
+          "text": "And if our neighbours have the same weather and can't spare any?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "NESO doesn't count on getting their full output, and we make sure there's enough backup capacity in Britain to fill the gap."
+        },
+        {
+          "speaker": "Lord Rooker",
+          "text": "Cables on the seabed are much harder to protect than land links on the continent. Has deliberate damage been taken care of?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "Every source of power has a weak spot. Our job is to have enough variety that losing one cable or one big power station doesn't matter. The cables have been very reliable, but they aren't infallible."
+        },
+        {
+          "speaker": "Lord Trees",
+          "text": "Does anyone check that imported power comes from low-carbon sources?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "I don't believe there's any requirement. Power traded on European markets doesn't come labelled with how it was made. It's not my area of expertise, though."
+        },
+        {
+          "speaker": "Lord Ashcombe",
+          "text": "If we lost the foreign cables at a time of peak demand, could we produce enough power ourselves?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "With no wind or sun and demand at its peak, there's some dependence on imports, but not total dependence. You can't protect against absolutely everything without making the system enormously expensive."
+        },
+        {
+          "speaker": "Baroness McIntosh of Pickering",
+          "text": "Could new cables from the Netherlands and Belgium come ashore along the Thames and feed London directly?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "There's nothing in the regulations to stop it. Private developers choose where cables land, and I don't know whether it's technically possible."
+        }
+      ]
+    },
+    {
+      "title": "What's really holding things up",
+      "takeaway": "Ofgem says the biggest obstacle isn't its own rules but how slowly the grid is being built and projects connected to it.",
+      "turns": [
+        {
+          "speaker": "Earl Russell",
+          "text": "What regulations are still getting in the way of building storage and low-carbon power stations?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "Nothing particular comes to mind. The main problem is the grid: building it and getting new projects connected. Our job is to make sure the grid companies get the money and build quickly, without us holding them up."
+        },
+        {
+          "speaker": "Earl Russell",
+          "text": "And what's coming next on the grid?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "Once the national energy plan is done, there'll be a follow-on plan for the high-voltage grid. We'll make sure the grid companies can raise the money to build what it says we need."
         }
       ]
     }
