@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "source_id": 18231,
+  "source_sha256": "06ae73b83c6d3a3d0bed9aeb101b0a0dcc4d3fb875648dda535ab1e5ef23634d",
+  "title": "Policing basics, leadership and reform: lessons from Sir Andy Cooke",
+  "label": "3 November 2026 · Evidence session with Sir Andy Cooke",
+  "summary": "Sir Andy Cooke, who served until March 2026 as His Majesty’s Chief Inspector of Constabulary and Fire and Rescue Services, reflects on the inspectorate’s work, the state of policing, leadership, recruitment, funding, the White Paper reforms and technology. He stresses the need to get the basics right — answering calls, attending, investigating, supporting victims — and argues for better leadership selection, clearer funding, regional/national coordination (a National Police Service), improved IT and careful use of AI, while urging public and political support for frontline officers.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Dame Karen Bradley",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Sir Andy Cooke",
+      "name": "Sir Andy Cooke QPM DL",
+      "role": "Former His Majesty’s Chief Inspector of Constabulary and Fire and Rescue Services",
+      "kind": "witness"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "White Paper",
+      "definition": "A government plan setting out proposed reforms to policing and how they would work."
+    },
+    {
+      "term": "National Police Service",
+      "definition": "The White Paper’s proposal for a national body to coordinate major policing functions and standards."
+    },
+    {
+      "term": "IOPC",
+      "definition": "Independent Office for Police Conduct, which investigates serious complaints about the police."
+    },
+    {
+      "term": "police covenant",
+      "definition": "A proposed agreement to recognise and support the needs of police officers and staff."
+    },
+    {
+      "term": "PCC",
+      "definition": "Police and Crime Commissioner, the locally elected official who currently appoints chief constables."
+    },
+    {
+      "term": "police uplift",
+      "definition": "A government programme that rapidly recruited tens of thousands of new officers."
+    },
+    {
+      "term": "neighbourhood policing",
+      "definition": "Officers known in the local area who prevent and tackle everyday problems affecting residents’ quality of life."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Role and achievements",
+      "takeaway": "Sir Andy explains his priorities as chief inspector: independence, an outcome focus, and pressing for better neighbourhood policing.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Sir Andy, thank you for coming. Could you briefly say who you are and what you consider your main achievements as chief inspector?"
+        },
+        {
+          "speaker": "Sir Andy Cooke",
+          "text": "I was HM Chief Inspector of Constabulary and Fire and Rescue Services until the end of March 2026. Internally I’m proud of building a cohesive inspectorate with high staff morale. Externally I kept the role sensibly independent, pushed hard for neighbourhood policing and held forces to account — placing more forces into special measures than before where standards were low."
+        },
+        {
+          "speaker": "Chair",
+          "text": "You moved the inspectorate away from tick-box checks. What did you focus on instead?"
+        },
+        {
+          "speaker": "Sir Andy Cooke",
+          "text": "I shifted to an outcome-based approach: inspections assess whether victims are helped, crimes properly investigated, and problems solved — not whether there’s a glossy plan on a shelf. That drove a rise in some performance areas."
+        }
+      ]
+    },
+    {
+      "title": "Getting the basics right",
+      "takeaway": "The public’s confidence depends on routine policing: answering calls, quick attendance, proper investigation and keeping victims informed.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "You’ve emphasised the ‘basics’. What are they, and how well are forces doing them?"
+        },
+        {
+          "speaker": "Sir Andy Cooke",
+          "text": "By basics I mean answering the phone quickly, giving correct advice, attending swiftly, preserving the ‘golden hour’ for evidence, investigating properly and keeping victims informed. Some forces do these well, others badly — it’s a postcode lottery."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Has the focus on neighbourhood policing reduced investigative capacity?"
+        },
+        {
+          "speaker": "Sir Andy Cooke",
+          "text": "It shouldn’t. A neighbourhood officer should have an investigative mindset. Neighbourhood policing is the bedrock: visible, known officers who act to prevent and solve local problems. Too often we’ve seen inexperience, weak supervision and leadership gaps causing failures on the basics."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Is underperformance mainly about money or about capability?"
+        },
+        {
+          "speaker": "Sir Andy Cooke",
+          "text": "Both. You get the police you pay for, but just adding money won’t fix everything. We need structural change, better use of technology and stronger leadership as well as resources."
+        }
+      ]
+    },
+    {
+      "title": "Recruitment, retention and leadership",
+      "takeaway": "Rapid recruitment produced numbers but not always the right experience; retention is weak and senior appointment processes need reform.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "You mentioned recruitment and retention. What went wrong with the uplift and why are people leaving?"
+        },
+        {
+          "speaker": "Sir Andy Cooke",
+          "text": "The uplift returned officers lost after austerity and was necessary, but it was rushed. Some recruits weren’t the right fit and many younger officers are leaving within five years. Workload and stress are big factors; inexperienced supervisors compound problems."
+        },
+        {
+          "speaker": "Chair",
+          "text": "What about leadership at the top — why are so many chiefs suspended or failing?"
+        },
+        {
+          "speaker": "Sir Andy Cooke",
+          "text": "Being a chief is demanding but not impossible. The problem is how chiefs are appointed: one person (a PCC) often selects them, producing small candidate fields and too many home-grown appointments. The White Paper proposes reintroducing a senior appointments panel to broaden and scrutinise choices — I support that."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Should there be minimum frontline experience for those promoted into senior roles?"
+        },
+        {
+          "speaker": "Sir Andy Cooke",
+          "text": "Yes. Frontline experience matters. Direct entry to senior ranks has produced a few successes but many failures. Leaders should have real operational credibility and more structured leadership training throughout their careers."
+        }
+      ]
+    },
+    {
+      "title": "Funding and the White Paper reforms",
+      "takeaway": "Sir Andy backs major White Paper changes — a National Police Service, fewer forces and a fairer funding formula — but stresses local policing must be protected.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Tell us your view on the White Paper and the National Police Service proposal."
+        },
+        {
+          "speaker": "Sir Andy Cooke",
+          "text": "I support most of it. England and Wales have 43 forces; some are too small for modern threats. A National Police Service can coordinate major functions — procurement, IT, counter-terror and nationally important responses — and should reduce waste and raise standards."
+        },
+        {
+          "speaker": "Chair",
+          "text": "I represent a border constituency and worry about losing local control. How do you protect local policing?"
+        },
+        {
+          "speaker": "Sir Andy Cooke",
+          "text": "You must set up strong local policing areas led by local chief superintendents with clear governance — mayors or local councils involved — so day-to-day policing stays local while national functions are centralised."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Is the funding model fair now?"
+        },
+        {
+          "speaker": "Sir Andy Cooke",
+          "text": "No. The current formula relies too much on local council tax and produces big inequities — wealthy council-tax areas get more. The White Paper proposes reviewing the funding formula and that needs to happen."
+        }
+      ]
+    },
+    {
+      "title": "Technology, data and AI",
+      "takeaway": "Policing holds lots of data but needs modern, unified systems and cautious, human-supervised use of AI; legacy IT is a major drain.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "You’ve said policing is 'barely in the foothills' of data insight. What stops them using data better?"
+        },
+        {
+          "speaker": "Sir Andy Cooke",
+          "text": "Policing has fragmented legacy systems bought by 43 forces with different needs; data doesn’t talk across them. Nearly all IT spend goes on running old systems, leaving little to innovate. A national purchaser would give better value and consistency."
+        },
+        {
+          "speaker": "Chair",
+          "text": "What about AI and facial recognition — are there legal and ethical safeguards?"
+        },
+        {
+          "speaker": "Sir Andy Cooke",
+          "text": "There must be statutory clarity and a human in the loop. Don’t arrest someone solely on an algorithm. For facial recognition, the public worry about stores of faces — in practice a match should prompt further enquiries, not automatic action."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Can AI help reduce officer workload?"
+        },
+        {
+          "speaker": "Sir Andy Cooke",
+          "text": "Yes, if used safely and sovereignly. The goal is to free officers from data entry so they spend more time on patrol. But you need proper investment, built-for-policing systems and strong governance to stop misuse."
+        }
+      ]
+    },
+    {
+      "title": "Complaints, misconduct and final message",
+      "takeaway": "Vetting, timelier misconduct investigations and national learning are essential; Sir Andy asks for political and public support for officers.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "On misconduct and complaints: is the system working and is the IOPC effective?"
+        },
+        {
+          "speaker": "Sir Andy Cooke",
+          "text": "The IOPC has improved recently and its director general is doing good work. Professional standards departments can be slow and sometimes give the impression of bias. Using other forces to investigate serious complaints can help, and ongoing vetting must be stronger."
+        },
+        {
+          "speaker": "Chair",
+          "text": "How do we make sure lessons from scandals are learned nationally?"
+        },
+        {
+          "speaker": "Sir Andy Cooke",
+          "text": "The inspectorate must follow up lessons, and forces must stop being insular. When a problem is found in one place, others must adopt fixes rather than saying, 'That’s how we do it here.' A National Police Service can help spread learning."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Any final point you want the committee to take away?"
+        },
+        {
+          "speaker": "Sir Andy Cooke",
+          "text": "Support the police — they get things right 99% of the time in difficult conditions. Fix the basics, reform appointments and funding, invest in modern IT with guarded use of AI, and protect frontline welfare so officers can do the job communities need."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "schema_version": 1,
+  "source_id": 18233,
+  "source_sha256": "af4c8f543ceb327a26ac3242d91d48fa0ceab2b8bc8c4b52c17ede6c52866237",
+  "title": "Refugees, returns and reconstruction: neighbouring states' perspectives on a new Syria",
+  "label": "3 November 2026 · Oral evidence",
+  "summary": "Experts and the ambassadors of Lebanon and Türkiye told the Foreign Affairs Committee that many Syrians remain reluctant to return because basic services, security and livelihoods are not yet guaranteed; host countries have carried a heavy local burden and face strains as donor funds fall; camps in north‑east Syria collapsed chaotically, leaving some third‑country nationals unaccounted for; and the Committee heard practical suggestions for UK support focused on education, health, infrastructure and consular repatriation.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Emily Thornberry",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Cathrine Brun",
+      "name": "Cathrine Brun",
+      "role": "Deputy Director, Centre for Lebanese Studies; Fellow, Faculty of History, University of Cambridge",
+      "kind": "witness"
+    },
+    {
+      "label": "Dawn Chatty",
+      "name": "Dawn Chatty",
+      "role": "Emeritus Professor of Anthropology and Forced Migration, University of Oxford",
+      "kind": "witness"
+    },
+    {
+      "label": "Harmonie Toros",
+      "name": "Harmonie Toros",
+      "role": "Professor in Politics and International Relations, University of Reading",
+      "kind": "witness"
+    },
+    {
+      "label": "Farah Berry",
+      "name": "Farah Berry",
+      "role": "H.E. Farah Berry, Ambassador of the Lebanese Republic to the United Kingdom",
+      "kind": "witness"
+    },
+    {
+      "label": "Haneen Sayed",
+      "name": "Haneen Sayed",
+      "role": "H.E. Haneen Sayed, Minister of Social Affairs of the Lebanese Republic",
+      "kind": "witness"
+    },
+    {
+      "label": "Osman Koray Ertaş",
+      "name": "Osman Koray Ertaş",
+      "role": "H.E. Osman Koray Ertaş, Ambassador of the Republic of Türkiye to the United Kingdom",
+      "kind": "witness"
+    },
+    {
+      "label": "Sir John Whittingdale",
+      "name": "Sir John Whittingdale",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Alex Ballinger",
+      "name": "Alex Ballinger",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Edward Morello",
+      "name": "Edward Morello",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Abtisam Mohamed",
+      "name": "Abtisam Mohamed",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Jessica Toale",
+      "name": "Jessica Toale",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Dan Carden",
+      "name": "Dan Carden",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "al-Hawl",
+      "definition": "A large camp in north‑east Syria that housed many women and children and whose chaotic collapse in early 2026 caused major displacements."
+    },
+    {
+      "term": "al-Roj",
+      "definition": "A smaller north‑east Syria camp still holding women and children, administered by Kurdish forces but under ongoing negotiations about its future."
+    },
+    {
+      "term": "SDF",
+      "definition": "Syrian Democratic Forces, a Kurdish‑led military alliance that controlled parts of north‑east Syria."
+    },
+    {
+      "term": "HTS",
+      "definition": "Hay'at Tahrir al-Sham, an Islamist armed group that held territory in north‑west Syria and features in debates about who is governing parts of Syria."
+    },
+    {
+      "term": "IOM",
+      "definition": "International Organization for Migration, a UN agency that helps organise returns and movement of displaced people."
+    },
+    {
+      "term": "UNHCR",
+      "definition": "United Nations Refugee Agency, which coordinates international responses for refugees."
+    },
+    {
+      "term": "Jordan compact",
+      "definition": "A 2016 international plan to boost Jordan's economy and offer limited legal work permits to Syrians, later judged to have had limited success."
+    },
+    {
+      "term": "second shifts",
+      "definition": "Where schools run two sessions a day so host‑country children attend one shift and refugee children the other, often reducing hours and quality for refugees."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Why most Syrians are cautious about returning",
+      "takeaway": "Many refugees want to return eventually, but they need security, schools, housing and jobs first—'dignified' return is the repeated requirement.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "To start: how has the refugee situation changed since Assad fell?"
+        },
+        {
+          "speaker": "Dawn Chatty",
+          "text": "Syria lost about half its population during the war—roughly 6 million fled abroad, 6 million were displaced internally. After 2024 some elites returned, but the majority remain cautious."
+        },
+        {
+          "speaker": "Dawn Chatty",
+          "text": "People want to return with dignity and safety. Schools, health clinics, hospitals and neighbourhoods were destroyed; many feel those basics aren’t ready yet."
+        },
+        {
+          "speaker": "Cathrine Brun",
+          "text": "Return isn't uniform. Some people have created lives in host countries—young people who grew up abroad may not want to or be able to go back immediately."
+        },
+        {
+          "speaker": "Chair",
+          "text": "What drives the returns we have seen?"
+        },
+        {
+          "speaker": "Cathrine Brun",
+          "text": "Those who could access housing and work tended to go back; many on the fence lack those basics and prefer the predictability, however limited, of life in the host country."
+        },
+        {
+          "speaker": "Dawn Chatty",
+          "text": "Women especially cite safety and freedom concerns. Parents will not return until they can be confident about schools and security for their daughters."
+        }
+      ]
+    },
+    {
+      "title": "Host countries: strains, responses and donor fatigue",
+      "takeaway": "Turkey, Lebanon and Jordan bore heavy, different burdens; donor aid was often short‑term and has fallen, leaving local systems strained.",
+      "turns": [
+        {
+          "speaker": "Abtisam Mohamed",
+          "text": "How have neighbouring countries coped economically and socially with refugees?"
+        },
+        {
+          "speaker": "Dawn Chatty",
+          "text": "Turkey adopted temporary protection and gave access to healthcare and education, even citizenship to some; overall economic effects were mixed and some sectors grew."
+        },
+        {
+          "speaker": "Cathrine Brun",
+          "text": "Macro studies show limited national impact, but local communities and services have been overwhelmed, creating tensions and insecurity."
+        },
+        {
+          "speaker": "Haneen Sayed",
+          "text": "Lebanon hosted the largest number per capita—around 1.5 million refugees on a 4 million population—straining schools, hospitals, water and electricity and depressing wages."
+        },
+        {
+          "speaker": "Haneen Sayed",
+          "text": "We worked with the UN and donors, ran afternoon school shifts and health programmes, but donor funding has fallen and the public system remains weak."
+        },
+        {
+          "speaker": "Cathrine Brun",
+          "text": "Aid often came as short-term humanitarian funding, creating parallel services and NGO dependency rather than strengthening national systems."
+        },
+        {
+          "speaker": "Jessica Toale",
+          "text": "Could donors organise aid better?"
+        },
+        {
+          "speaker": "Dawn Chatty",
+          "text": "Yes. More long‑term investment in health and education systems—so host communities and refugees benefit—would be more effective than short cycles of humanitarian aid."
+        }
+      ]
+    },
+    {
+      "title": "Education, skills and a 'lost generation'",
+      "takeaway": "Many refugee children missed school or only got reduced 'second shift' classes; without fixing education, returning Syrians cannot rebuild the country.",
+      "turns": [
+        {
+          "speaker": "Alex Ballinger",
+          "text": "What about the education refugees received—can it support return or local integration?"
+        },
+        {
+          "speaker": "Cathrine Brun",
+          "text": "Turkey did better on gradual integration into national schools. Lebanon used second‑shift schooling; about 40% of Syrian children in Lebanon attend school and many don't reach secondary level."
+        },
+        {
+          "speaker": "Cathrine Brun",
+          "text": "That creates a risk of a lost generation and deskilled teachers—Syrian teachers couldn't work legally in Lebanon or Jordan, so their skills eroded."
+        },
+        {
+          "speaker": "Dawn Chatty",
+          "text": "Education reform in Syria will be decisive for returns. There's debate about the curriculum; if it becomes more conservative and restricts women's representation, that will deter parents."
+        },
+        {
+          "speaker": "Chair",
+          "text": "So the UK could help with curricula and rebuilding schools?"
+        },
+        {
+          "speaker": "Dawn Chatty",
+          "text": "Exactly. The UK should focus on supporting education and health systems—not just emergency aid—so people feel a dignified path to return."
+        }
+      ]
+    },
+    {
+      "title": "The camps and unaccounted third‑country nationals",
+      "takeaway": "The collapse of al‑Hawl was chaotic; many were displaced, thousands went to prisons in Iraq, and dozens of third‑country nationals—mainly women and children—remain unaccounted for or detained.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Harmonie, tell us what happened in the north‑east camps and why we should worry about British citizens there."
+        },
+        {
+          "speaker": "Harmonie Toros",
+          "text": "In early 2026 al‑Hawl collapsed in chaos after fighting; prisoners from several facilities—about 5,700 men and boys—were transferred to prisons in Iraq by US or US‑backed forces."
+        },
+        {
+          "speaker": "Harmonie Toros",
+          "text": "Al‑Roj still holds mostly women and children—several thousand people in total—and we estimate just over 40 British nationals remain, mostly children."
+        },
+        {
+          "speaker": "Edward Morello",
+          "text": "Have there been repatriations?"
+        },
+        {
+          "speaker": "Harmonie Toros",
+          "text": "Very few. The last UK repatriation I know was in April 2025—one woman and three children. Other countries—France, the Netherlands, Australia, Norway, Finland and the US—have repatriated more citizens."
+        },
+        {
+          "speaker": "Harmonie Toros",
+          "text": "The UK's stated obstacles—no consular presence in Syria—are less persuasive given continued contact with Syrian authorities and an embassy in Iraq; many children are recognised as British and vulnerable."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Is it feasible for the UK to repatriate those children?"
+        },
+        {
+          "speaker": "Harmonie Toros",
+          "text": "Yes. The UK has strong counter‑terror systems and can manage reintegration. Leaving children in harsh camp conditions—or asking them to be separated from mothers—raises serious protection concerns."
+        }
+      ]
+    },
+    {
+      "title": "Opportunities and geopolitical challenges for reconstruction",
+      "takeaway": "Türkiye sees economic opportunities in a stable Syria and is investing in jobs and industrial zones; Lebanon seeks help to make returns sustainable and to rebuild services.",
+      "turns": [
+        {
+          "speaker": "Osman Koray Ertaş",
+          "text": "Türkiye hosted 3.7 million Syrians at peak and still protects about 2.2 million; since 2024 more than 770,000 have voluntarily returned."
+        },
+        {
+          "speaker": "Osman Koray Ertaş",
+          "text": "We want Syria to be stable and investable. We're planning industrial zones in Aleppo and Damascus, reconnecting trade and infrastructure, and aiming to create jobs to make returns sustainable."
+        },
+        {
+          "speaker": "Edward Morello",
+          "text": "Will Turkey keep troops in northern Syria?"
+        },
+        {
+          "speaker": "Osman Koray Ertaş",
+          "text": "Our presence has been with Syrian consent and is shifting towards training and transferring civilian services to Syrian authorities; final decisions will depend on security improvements."
+        },
+        {
+          "speaker": "Farah Berry",
+          "text": "Lebanon thanks the UK for past support. We ask continued help financing schools, hospitals and housing so returns are not just crossings but sustainable lives in dignity."
+        },
+        {
+          "speaker": "Haneen Sayed",
+          "text": "We set out a return plan with IOM/UNHCR support: modest cash assistance to families and removing penalties for overstaying, which has led to 650–700,000 returns from Lebanon since it began."
+        },
+        {
+          "speaker": "Haneen Sayed",
+          "text": "Some refugees will want to stay where they built lives; Lebanon cannot naturalise large numbers, but we can legalise work and residency where appropriate."
+        }
+      ]
+    },
+    {
+      "title": "Practical steps the UK and partners could take",
+      "takeaway": "Witnesses urged the UK to prioritise rebuilding education and health systems, support infrastructure and financial channels, and actively pursue consular repatriation for vulnerable nationals.",
+      "turns": [
+        {
+          "speaker": "Jessica Toale",
+          "text": "Concretely, what should the UK do differently?"
+        },
+        {
+          "speaker": "Dawn Chatty",
+          "text": "Shift funding from short humanitarian cycles to longer‑term support for public education and health so host countries and refugees benefit and returns become realistic."
+        },
+        {
+          "speaker": "Cathrine Brun",
+          "text": "Donors should avoid creating parallel systems; invest in national schools and hospitals and in training Syrian teachers and medical staff so skills are preserved for reconstruction."
+        },
+        {
+          "speaker": "Osman Koray Ertaş",
+          "text": "The UK can cooperate on financial services, infrastructure projects and project‑based support. TİKA and FCDO are already in discussion on specific projects."
+        },
+        {
+          "speaker": "Harmonie Toros",
+          "text": "On the camp issue, the UK should actively track and repatriate British children and vulnerable nationals; many other countries have succeeded and the UK has the capabilities."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Any final disagreements or cautions?"
+        },
+        {
+          "speaker": "Dawn Chatty",
+          "text": "Be cautious about blanket security advice: parts of Damascus and Aleppo are relatively safe now; a nuanced approach helps researchers and practitioners understand the real situation on the ground."
+        },
+        {
+          "speaker": "Haneen Sayed",
+          "text": "Finally: helping Syria rebuild is also in Lebanon’s and the region’s interest—stability there reduces pressure on neighbouring states and creates economic opportunities for all."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you all. Please send any further evidence in writing."
+        }
+      ]
+    }
+  ]
+}

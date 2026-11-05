@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18228,
+  "activity_id": 39288,
+  "document_id": 309409,
+  "meeting_date": "2026-11-03",
+  "meeting_date_display": "3 November 2026",
+  "publication_date": "2026-11-04T09:57:48",
+  "title": "Budget 2026",
+  "committee": "Treasury Committee",
+  "committees": [
+    {
+      "id": 158,
+      "name": "Treasury Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10011,
+      "title": "Budget 2026",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Ruth Curtice",
+      "role": "Chief Executive",
+      "organisation": "Resolution Foundation"
+    },
+    {
+      "name": "Helen Miller",
+      "role": "Director",
+      "organisation": "Institute for Fiscal Studies"
+    },
+    {
+      "name": "Professor Tony Travers CBE",
+      "role": "Interim Dean",
+      "organisation": "The LSE School of Public Policy"
+    },
+    {
+      "name": "Sanjay Raja",
+      "role": "UK Chief Economist",
+      "organisation": "Deutsche Bank"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Sanjay Raja",
+    "Helen Miller",
+    "Professor Travers",
+    "Ruth Curtice",
+    "Seema Malhotra",
+    "John Glen",
+    "Bobby Dean",
+    "Andrew Lewin",
+    "Chris Coghlan",
+    "Ms Minns",
+    "Catherine West"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18228/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18228",
+  "source_sha256": "07bf19a9f824d476fe39f72423a3b30078473c14a35b4af6ba07de0dc23f88c6",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

@@ -1,0 +1,419 @@
+Oral evidence - 27 Oct 2026
+
+Communications and Digital Committee
+
+Uncorrected oral evidence: The Online Safety Act: implementation and impact
+
+Tuesday 27 October 2026
+
+2.30 pm
+
+Watch the meeting
+
+Members present: Baroness Keeley (The Chair); Baroness Caine of Kentish Town; Viscount Colville of Culross; Baroness Elliott of Whitburn Bay; Baroness Fleet; Lord Holmes of Richmond; Lord Kirkhope of Harrogate; Lord Knight of Weymouth; Lord McNally; Baroness Owen of Alderley Edge; Lord Tarassenko.
+
+Evidence Session No. 4 Heard in Public Questions 73 - 92
+
+Witnesses
+
+Rocio Concha, Director of Policy and Advocacy, Which?; Dr Rys Farthing, Chief Research Officer, Reset Tech; Adam Hadley CBE, Founder and Executive Director, Tech Against Terrorism; Hannah Swirsky, Head of Policy and Public Affairs, Internet Watch Foundation.
+
+USE OF THE TRANSCRIPT
+
+This is an uncorrected transcript of evidence taken in public and webcast on www.parliamentlive.tv.
+
+Any public use of, or reference to, the contents should make clear that neither Members nor witnesses have had the opportunity to correct the record. If in doubt as to the propriety of using the transcript, please contact the Clerk of the Committee.
+
+Members and witnesses are asked to send corrections to the Clerk of the Committee within 14 days of receipt.
+
+24
+
+Examination of witnesses
+
+Rocio Concha, Dr Rys Farthing, Adam Hadley and Hannah Swirsky.
+
+Q73 The Chair: Good afternoon, everyone. Welcome to this meeting of the Communications and Digital Committee. I am very pleased to welcome our four witnesses. Today we continue our inquiry into the Online Safety Act in a session focused on the new duties to tackle illegal content online. You represent organisations working to tackle a range of online harms. Thank you for the work you do. We are very grateful for the work that your organisations do. Could I start by asking each of you to introduce yourself and the organisation you work for?
+
+Rocio Concha: I am the director of policy and advocacy and chief economist at Which?, which is a consumer group. We are focused on fraud in the context of the Online Safety Act.
+
+Dr Rys Farthing: Hi. I am the chief research officer at Reset Tech.
+
+Adam Hadley: Good afternoon. I am the executive director of Tech Against Terrorism. We focus on understanding, preventing and disrupting the terrorist use of the internet.
+
+Hannah Swirsky: Hi. I am the head of policy and public affairs at the Internet Watch Foundation. We are focused on preventing the spread of child sexual abuse material online.
+
+Q74 The Chair: I would like us first to focus on what impact the Act has had so far. We saw, in the middle of last week, Ofcom publishing a report that concluded that the Online Safety Act has not brought significant change relating to content harmful to children. We know that much, but we can focus on the other duties too. I would like to come to each of you with a question. Is there any evidence that the illegal content duties have reduced the harms that your organisations deal with since they came into force?
+
+Rocio Concha: In the context of fraud, unfortunately, no. The evidence that is out there is that many areas of fraud that are user generated, such as purchase scams or romance scams, have increased. That is not surprising because we are not seeing much action from Ofcom in enforcing the code in relation to fraud.
+
+In relation to fraud, it is also worth bearing in mind that there are other codes that need to be implemented but have not been yet related to fraudulent advertising, which is a route to fraud as well. Those will be implemented in mid-2027, because of delays in terms of Ofcom developing the code. From a fraud perspective, we see no evidence that it is having any impact.
+
+Dr Rys Farthing: In terms of the harms that we research online—we look at online hate speech and particular types of online fraud—we have not seen things improve. We have seen that online hate speech still spikes around key events and still has a consistent and persistent presence online. That does not appear to have changed. As mentioned, other online harms, such as financial scams, appear to be thriving and in fact embedding themselves even more into the business model of a lot of these platforms.
+
+What is important to note is that, in other areas outside of illegal harms, such as children’s access to pornography, we have seen changes. We have seen changes in the number of age checks that are being done and changes in the way that those platforms operate. The important thing to hold on to is that, where regulation is clear and enforced, it can make changes to platforms. It is just not what we have seen in the illegal content space so far.
+
+Adam Hadley: Unfortunately, with regard to terrorist and violent extremist content, there is no evidence to suggest any causal connection between the Online Safety Act and the volume of material available. There is really no controlled experiment. Unfortunately, there is no way to know because there is very limited systematic analysis or monitoring of what is available on large or small platforms.
+
+When I set up Tech Against Terrorism more than a decade ago, it was the heyday of ISIS using social media. Unfortunately, these days, we see almost as much—if not more—content from violent Islamist extremist groups and the extreme far right, as well as nihilistic violent extremist content. We are gravely concerned.
+
+Paradoxically, in some respects, we could argue that, as a result of the Online Safety Act, platforms are now doing less because they know what the minimum standards are. It has become a situation of lowest common denominator content moderation.
+
+Hannah Swirsky: I just start by saying that we have been dealing with child sexual abuse material for 30 years now, and the problem is certainly getting worse. Last year, we actioned over 310,000 reports of images and videos of child sexual abuse material. That was the worst year on record for finding this illegal material.
+
+It is important to say that the Online Safety Act has established minimum standards for technology companies with regard to the measures that they have to take to block child sexual abuse material. This is known as hash matching and, for the first time, we have requirements on platforms to introduce hash matching to prevent the upload of known child sexual abuse material.
+
+In the illegal harms codes, we were very pleased to see that this requirement was extended to all file sharing and file storage sites. That is something that we had called on Ofcom to do, and we have seen proposals in the additional safety measures consultation to extend this to all pornography platforms.
+
+It is important to recognise that there are requirements in the Act that have really important potential, if more platforms introduce these requirements and use our hash lists. We have seen this. We have a tool called Image Intercept. It is for companies that are very small, and they can use it for free. We have seen an uptake in that service and therefore the blocking of child sexual abuse material.
+
+That is positive, but I would refer back to my first point: we know this problem is getting worse. There are also new risks and evolving threats, which are not being tackled adequately.
+
+Q75 The Chair: I have a couple of follow-up questions. First, to Dr Farthing and Adam Hadley, what information is needed to assess whether platforms are reducing the prevalence of illegal content? Do independent researchers currently have sufficient access to that information?
+
+Dr Rys Farthing: From my perspective, access to comprehensive data is a real stumbling block. We do loads of research on different types of harms, from hate speech to scams to content that harms children. We have this cross-harm approach in our work, which means we need all sorts of data about what content is available online, how platforms respond to content when it is reported, whether content is amplified in algorithms and these sorts of things.
+
+It is really challenging to create the datasets that are necessary to evaluate that. We are definitely living in what has been described as a post-API age. We used to have things such as CrowdTangle, free access to platform APIs and tools that would make this sort of research easier. We have seen a real rolling back of those services. We now have APIs that you have to pay thousands of pounds a month for and they have unclear legal status. Organisations such as ours build technological fixes that are not necessarily comprehensive or stable. We spend a lot of time trying to build our systems to capture this sort of data in ways that might not have been necessary in years gone by.
+
+I know that the Government have a clear path to ensure robust routes for data access in principle, but this has not been followed by action. We are still waiting on DCMS to release their consultation around data access. Organisations like ours are waiting with bated breath for that process to continue, because the amount of resource and effort it takes to acquire the datasets to evaluate what is going on online at the moment is pretty unsustainable for those in the not-for-profit sector.
+
+Adam Hadley: In terms of the information required to evaluate the prevalence and quantity of terrorist content online, at Tech Against Terrorism we have developed our own technology that works to crawl and scrape across smaller platforms. It is surprisingly easy to do this. It is extremely difficult to do this on large platforms because of anti-bot protection measures and deliberate mechanisms that have been put in place by the large companies to prevent widespread analysis of material.
+
+I completely agree that the APIs that are available are either extremely expensive or inadequate in some way. In fact, the X API is quite expensive and I believe it expressly forbids the use of that API for research purposes. Unlike in the European Union, as far as I am aware, there is no mechanism to force platforms to share researcher access. There is unfortunately no way of doing this at present at scale and certainly no way to do so without violating the terms of service.
+
+There are two ways of approaching this. One is to try to establish the total amount of content available. That is difficult, but it can be done using statistical methods. At Tech Against Terrorism, our analysts have to do this manually on the large platforms, which is extremely limited and expensive.
+
+We also think there are other ways of going about this, such as measuring the ease with which terrorist content can be found on platforms. Next month, we will be launching what we are calling the terrorist content discovery index. Instead of trying to measure the amount of content, because that is very difficult, we are trying to measure how easy it is to find ISIS or al-Qaeda material on platforms.
+
+We think there are ways around the lack of data access but, fundamentally, we would question how a regulator or a Government are supposed to regulate the internet if they do not have any way of looking at the internet.
+
+Finally, there is a more fundamental challenge here, which is that the internet is largely ignored by the Government in terms of, let us say, the defence budget. Considering how critical the internet is to our society, what proportion of the defence budget is spent on understanding the internet? I genuinely do not know. Is it 0.01%? Is it less or more? What should that be? There is a question there about how important the internet is to us and how seriously we are taking it.
+
+Within Government, I know there are concerns about the Regulation of Investigatory Powers Act and the effect that it has on officials doing even a cursory analysis of the internet. There is a much broader problem here about legislation where the internet is concerned and the resources that have been allocated to understanding the threats that we face.
+
+Q76 Viscount Colville of Culross: Good afternoon. There has been lots of concern about the way that the categorisation of categories 1 and 2A has been allocated by Ofcom. The emphasis is on the size rather than the risk, which is important because only category 1 and category 2A have to do full risk assessments. What should be done about this? Does the OSA need to be altered to ensure that risk is built into the categorisation of services? When we were passing it in Parliament, we thought that risk was built into it, but that is not the way it has been interpreted by Ofcom.
+
+Hannah Swirsky: It is fair to say there is a gap between the risk assessment and the mitigation obligations, which is a real concern for us. It is a challenge when we have the issue of safe harbour, and we know that platforms do not necessarily have to take all measures to address what is in the risk assessment. That is something that we, our partners and, I am sure, colleagues here have highlighted before as a challenge.
+
+There is also the technical feasibility aspect, which again we find is a barrier to the requirements for platforms. They can assess that there is risk, but, if they deem that the mitigation is not technically feasible, they do not have to do anything about it. That is a real concern for us.
+
+Viscount Colville of Culross: What should be done?
+
+Hannah Swirsky: The safe harbour element needs to be looked at. The Online Safety Network has provided some really strong recommendations in terms of the reform or removal of safe harbour within the Act. I certainly think that is something for the Government to look at. Indeed, I know it is something that Ofcom has raised and recognises as a challenge.
+
+With regard to technical feasibility, we have urged Ofcom to provide further details on how it is assessing technical feasibility and to ensure that there are regular updates. Something might not have been technically feasible last year, but there is a lot of innovation when it comes to safety tech. We need to be ensuring that guidance around technical feasibility is being regularly updated and that the codes reflect that as well. There is action for both the Government and Ofcom there.
+
+Q77 Viscount Colville of Culross: Adam, what is your view about how the categorisation criteria ought to be changed when it comes to risk assessments?
+
+Adam Hadley: I do not have any particular views on categorisation but, on risk assessments, it strikes me as slightly strange that platforms are, in effect, marking their own homework. The extent to which they are upholding their own risk assessments is rather subjective, as is the determination of technical feasibility.
+
+Of course, in the day and age of AI, pretty much anything is technically feasible. It is not really a question of feasibility but rather the will of the platform and the extent to which it is willing to pay for that technical solution.
+
+Viscount Colville of Culross: Should something be done to ensure that it does pay for that solution?
+
+Adam Hadley: There is a broader question there about the extent to which platforms should be compelled to invest in safety technology full stop. Perversely, we have seen platforms pulling back quite significantly over the past few years, with significant reductions in the number of staff at all of the major social media platforms, ostensibly because they claim AI is more effective in doing much of the content moderation.
+
+There is a bit of a contradiction here. On one hand, platforms are saying they are using AI to moderate more; on the other hand, they are saying that basic measures such as hash matching are not technically feasible. It really does not make much sense to me.
+
+Dr Rys Farthing: To answer your question, there is certainly a space for a simple revision to the Online Safety Act to ensure that Ofcom is interpreting the size and the risk of platforms when it decides the categorisation. That was the intent of Parliament as the Bill was being passed. I know that the Online Safety Network has put forward specific language that would enable that to happen. That is quite a simple reform to make.
+
+If we are talking about risk assessments and other simple reforms to make, there is no direct requirement at the moment for regulated services to take action to mitigate against the risks they identify in their risk assessment. You have this risk assessment process that exists only on paper, because platforms just do their risk assessment and then look at what the codes require of them. The codes become a ceiling that locks things in because they get safe harbour.
+
+There are other simple reforms that could be made about removing safe harbour. There is guidance that could be given about how to interpret what the standard or the expectation of codes is meant to be. There is a lot of emphasis on codes being clear and detailed, which means that the nuanced and complicated risks that platforms identify in their risk assessments tend to get hollowed out in the codes, because there is a focus on trying to make a sector-wide, clearly defined set of rules in the codes. The guidance to Ofcom around that could be changed.
+
+Certainly, as other panellists have mentioned, there could be reforms around what happens if a platform relies on non-technical feasibility as a defence against mitigation. That should trigger some sort of further inquiry or continuing update or analysis, because at the moment we see platforms just saying that something is not technically feasible in achieving safe harbour, and then they stop.
+
+Rocio Concha: Just on the safe harbour thing, we all agree. At the moment, the Act puts all the responsibility on the regulator in the codes to specify what they need to do, when the technology companies know what is feasible for them to do. Rather than saying, “If you commit to what is in the code, you cannot be in breach”, it should be that you need to show that you are managing the risks that have been identified proactively.
+
+The risks are quite important. This is not just a technical thing in the codes because, depending on what level of risk you have as a platform, you have different levels of requirements that are expected from you, in particular on fraud.
+
+There are self-assessment risks, but obviously the regulator has to look at these risks and challenge them if it does not think they are being honest. Maybe they are underestimating the risk because, if you underestimate the risk, you have fewer duties to comply with.
+
+The other thing is that those categorised services will now have to publish these risk assessments in November. There are so many risk assessments. It can be quite interesting for organisations such as ours to take a look at these risk assessments and see whether there is an underestimation of the risk by some of these platforms.
+
+Q78 Viscount Colville of Culross: Does the OSA not already give Ofcom the power to review the risk assessments, to tell them to go back and put in more mitigations and to review the risk assessment? Why does that not work?
+
+Rocio Concha: I am talking from the point of view of fraud. Why do we not have more enforcement of that? Why is Ofcom not challenging this more and enforcing this and saying, “We do not think that these risk assessments that you are doing are fit for purpose. You should do more. You need to be more honest about these risks”? There is also a role for Ofcom on that.
+
+The Chair: You have started on safe harbour. We have a question about safe harbour, which Lord Knight will ask, as we have started on that discussion.
+
+Q79 Lord Knight of Weymouth: You are starting to get there; it is really helpful. There is widespread agreement that the safe harbour provisions are problematic. What should we do instead? Do we go back to where this whole process of the Online Safety Act started and impose a duty of care? It could be a different duty, such as a duty to prevent harm on platforms, which then means that the risk assessment has to be followed. We have heard different voices around possible solutions. Rocio, do you have a view?
+
+Rocio Concha: I do not have a particular proposal on the way to do this. When I am hearing about going to the debate from the beginning, I get really worried about delaying what we already have fully being implemented.
+
+My position would be to make sure that this Act, as it is, is properly enforced to the maximum effect and capacity, at the same time as, in parallel, we are having that debate about the best way to deal with the safe harbour, rather than further delaying the implementation of what is in place.
+
+Lord Knight of Weymouth: That is a point well made.
+
+Dr Rys Farthing: The safe harbour provisions could have been less of an issue if the codes were more outcome-focused and ambitious. Currently, we have this perfect storm where the requirements for risk assessments have no real requirements to act on the issues identified, and that is combined with codes that do not reflect the scale and size of the online risks because of that interpretation that codes need to be clear and detailed rather than reflect risk assessments and safe harbour.
+
+That creates the perfect storm. As I am saying that, I realise that “storm” is a particularly bad metaphor, because a storm is very active and releases a lot of energy. This creates the conditions for an “un-storm”, if you will, with inertia and not much changing.
+
+To get to your question, we do not need to throw away the Online Safety Act and start again. There are some really good proposals around reforms that could be made to the existing Online Safety Act.
+
+Lord Knight of Weymouth: To be fair, bodies such as the Online Safety Network are not suggesting that we throw it away, but you can impose an additional duty on top of the current regime.
+
+Dr Rys Farthing: Yes, absolutely; that would get closer to what the intent of Parliament was when the Bill was being passed initially.
+
+Can I speak from a comparative perspective here? I work on digital regulation issues all around the world. One thing that I see constantly—taking full advantage of my naff accent as an Australian here—is that online safety Acts are passed; we see what works and what does not; and then we go back and review. We iterate and change. This is something that we have seen in every country that has tried to regulate the online world. This is part of the process of what we are seeing now.
+
+The Chair: That is the purpose of our inquiry, really.
+
+Lord Knight of Weymouth: Adam and Hannah, I would love to know what your solution is, if you have one.
+
+Adam Hadley: There is a fundamental flaw in the Online Safety Act, which is that it is predicated on regulating something that is not observable. How are we supposed to know whether the Online Safety Act is working? How are we supposed to know whether platforms are upholding any principles if we are not measuring it? There is no way to measure this.
+
+Indeed, obtaining information from platforms is very difficult, even for simple information such as the number of removals.
+
+Lord Knight of Weymouth: Specifically on safe harbour, do we do something else or do we just leave it? Do we have to make a change specifically on the safe harbour issue?
+
+Adam Hadley: I do not have any specific views on safe harbour.
+
+Hannah Swirsky: You have mentioned it already, but the Online Safety Network’s proposal around providing a duty of care is something that we support. It is a way, in effect, to get around that safe harbour issue.
+
+Q80 Lord Kirkhope of Harrogate: I was very privileged to be a champion for the Internet Watch Foundation when I was in Europe. We worked together very closely on a lot of European legislation at the time.
+
+Is prevention better than the cure in terms of the activities of Ofcom here and the use of its codes? I would like your opinions on this, please. Do you think that the codes, as they stand at the moment, have enough in them actively to prevent the harm? As we know, the proposals have within them the detection and the removing of content and so on. On balance, where do you think it is or is not, in terms of Ofcom’s use of codes?
+
+Rocio Concha: I can talk from the point of view of fraud. At the moment, a lot of the focus is on reactive rather than proactive measures. However, Ofcom is very soon going to publish its decision on proactive technologies. This is where the risks are quite important, because that will only affect those platforms that see themselves as high-risk. There will be requirements about how they can use proactive technology to identify certain fraud and prevent it. At the moment, it does not; I hope that, when Ofcom publishes that decision, implements it and enforces it, we will see more proactive measures there.
+
+Dr Rys Farthing: In short, no. The codes and their interpretation mean that the focus has been on individual pieces of content and that whack-a-mole takedown approach, particularly in the space of illegal content and illegal duties.
+
+Even within that individual focus, there could be improvements. Sure, detect and take down, but there are also no stay-down requirements; content can just be reposted. Even if you are going to stick to that individual focus, we could make improvements.
+
+What would be better still is that broader shift to the preventative upstream measures that go beyond the focus on the ICJG and identifying content that fits within that, and on to the systems that platforms deploy, putting in requirements around things such as terms of service that have to be constantly and robustly improved, or eligibility for algorithmic promotion. There are loads of systems and requirements that could be better addressed in the codes.
+
+Adam Hadley: Unfortunately, where terrorist content is concerned, platforms are already doing far too little. In many cases, we are talking about obvious examples of ISIS material with a logo and words that would make it very easy to discover this material. I wish there was whack-a-mole on this content because, in fact, that is not what we are seeing.
+
+“Prevention” is an interesting word here. It is important to remind everyone of the Prevent statistics. The number of individuals being referred to the Prevent scheme is the highest since records began. The police are on the record publicly, saying that they are overwhelmed with the huge number of referrals. Prevention in general is critical, but it would appear that the only organisations focused on Prevent are the ones associated with the Government.
+
+This is going to become particularly acute with regard to child radicalisation and mobilisation. Traditional terrorist activity by ISIS or the extreme far right is problematic enough, but when we are talking about nihilistic violent extremism, which is often sub-threshold activity, we are not talking about illegal content. We should be asking a lot more of platforms to try to understand the radicalisation pathways and the broader context of activity online that is leading to children becoming violent.
+
+There needs to be a much broader conversation about Prevent, prevention and how platforms can use their awesome technology to help prevent harm. Let us not forget that these platforms and their profitability are based on understanding the minutest detail of our psychology and what we want to buy. If it is possible to target adverts with such accuracy, it is surely possible to become better at preventing harm.
+
+Hannah Swirsky: It is fair to say that there is more focus on detection and removal. Before going on to some of the measures we need when it comes to prevention, it is important to recognise that detection and removal, such as hash matching, are foundational measures, particularly when it comes to preventing re-victimisation and things such as sexual extortion. I do not want to lose sight of how important those measures are within the Act.
+
+We have mentioned a number of measures that were in the additional safety measures consultation that look quite positive, particularly such as those relating to proactive detection, but it is really important that we also have a balanced approach to preventing harm from occurring in the first place.
+
+We are really keen to see more measures relating to things such as deterrence messaging. We know that the Lucy Faithfull Foundation has really important services to support people who might be at risk of causing harm. It has a chatbot service. Those kinds of measures are really important, and we would like more companies to use them. We also want to see further measures tackling grooming. That is a key issue, and there is more to do.
+
+Beyond specific solutions, we also need more clear and cross-cutting safety-by-design measures across the board. That is a challenge. We may come to this later, but we do not have a clear sense of what safety by design means in practice. It has become an all-encompassing phrase that also risks not meaning enough. Certainly, we would welcome more of a focus on what that looks like in practice and in terms of requirements to fulfil those duties.
+
+Q81 Lord Kirkhope of Harrogate: Mr Hadley, you have already touched on the question of fraud and terrorist content. You have talked about it twice now in answer to questions. This is not in the present Ofcom codes, as I understand it. I therefore want to ask a supplementary question to you and perhaps Ms Concha. You have identified the problem very clearly, but what more preventative measures could now be taken to tackle that content, other than those you have already said? Do you have any other ideas about this?
+
+Adam Hadley: The role that content plays in radicalisation and mobilisation of terrorism is significant. I would certainly ask the Home Office to share more detailed statistics about the role that the internet plays. Anecdotally, having spoken to many in the police, the vast majority of cases involving children start online. The internet is not incidental; where terrorism is concerned, it is causal, not only in the UK but globally.
+
+It is not just about a bomb-making manual or official propaganda; it is about all of the content and activity that leads up to that. First of all, though, we do not have much data on exactly what role the internet plays in radicalisation. It is very difficult to get this from courts, as I am sure you are aware. There is not very much evidence but, anecdotally, we know this is very important.
+
+In terms of practical measures, first and foremost, I would want to be sure that platforms were not recommending this content in the first place. One method that we use at Tech Against Terrorism to detect content on large platforms is to like, reshare or engage with some terrorist content. Then we wait to see what the platform recommends to us. In many cases, these powerful algorithms are identifying terrorists who we obviously then refer to the police.
+
+There are all sorts of measures that are possible, but we need more engagement from the platforms. Content recommendation algorithms are part of this, as is off-ramping, which we heard about just now.
+
+There are dozens of measures that have already been established, experimented with and tried out. I am not sure what the other panellists are experiencing but, in my experience, there is very little engagement from tech platforms these days. It has really diminished quite considerably. Often, the only people who are willing to talk to us are the lawyers, as a result of regulation.
+
+Rocio Concha: Again in the context of fraud, something very simple, for example, is identity verification. At the moment, it is very easy for anyone to set up a dating profile on a dating app; there is no checking about your identity.
+
+It is very easy, and we proved it very recently with an investigation we did on booking.com, which is a platform. We advertised and they were not checking No. 10, so you can rent No. 10 on booking.com. Nobody asked us for proof that we own No. 10, which we obviously do not. Nobody asked to verify our identity. These are very simple, preventive and not very technologically advanced measures that the platforms can put in place, but they are not doing it.
+
+Q82 Lord Knight of Weymouth: Hannah, let me come to you on a specific issue, which really went to one of the biggest problems when the Act was put together, which is the trade-off between privacy and harm as expressed through what we did on encrypted end-to-end services. You have argued that the technology already exists to detect known CSAM imagery before it is shared. My view is that the Act ended up being a fudge around the technical notices and so on.
+
+How much has the technology changed in the intervening time that makes it realistic that we could do something better than what is in the Act?
+
+Hannah Swirsky: I would completely reinforce that point that we believe that it is technically feasible. We see the harms or clear indicators of harms happening in end-to-end encrypted environments. We know from surveys with offenders that end-to-end encrypted environments are their preferred place to share material and to sell child sexual abuse material. We refer to this as upload prevention, where you can do the checks before something is uploaded into an end-to-end encrypted environment, in the same way that you use automated detection for hash matching on other platforms to do this in a privacy-preserving way.
+
+We often find it very unhelpful where there are some arguments made around trade-offs. You can have both of these things. Before going into your point on technology, for us the experience of victims and survivors is so important here. Their privacy is really important. That often gets missed when we talk about issues relating to end-to-end encryption.
+
+There have certainly been developments in the last couple of years. We really believe that upload prevention is a market-ready method to detect known CSAM. I have a copy of our report, which covers this in detail.
+
+We also have some examples. Unfortunately, we do not have any companies that are implementing this at point right now. Often, the tech feasibility argument is made, but we can see how this works in practice when it comes to scanning for malware. On WhatsApp, for example, when you send a message, it comes up with a rich preview link. That is very similar to upload prevention in terms of there being scanning for the URL that you are sending.
+
+There are examples not relating to child sexual abuse material where something very similar is happening, often for scams and things like that as well. We believe very strongly that this should be required for CSAM. Adam’s point earlier on about this being more to do with will and not technical ability is certainly something that we would strongly agree with.
+
+Q83 Lord Knight of Weymouth: I have two quick follow-ups. First, should we be looking at device-level regulation? Apple had a desire to do some of that scanning, which it then withdrew.
+
+Is there anything technically that we can do around the ease with which you can move from, say, iMessage to FaceTime or from WhatsApp messaging to video, to do something about the livestreamed CSAM that is prevalent?
+
+The Chair: Could you keep the answers quite short now, because we are in danger of running out of time in today’s session?
+
+Hannah Swirsky: Yes, of course. In response to that, it is important to recognise that there is an ecosystem here and that you have to have multilayered responses. On-device is certainly very important. We need them at every level. You need them at on-device; you need them at app level; you need internet service providers to be blocking material. Those measures are positive, but we need all of those measures in place.
+
+With regard to livestreaming, there is certainly innovation in this area. We did a long response to Ofcom’s additional safety measures codes. I cannot give you a simple response here, but it is something that is worth looking into.
+
+Lord Knight of Weymouth: Can you send something to us about that?
+
+Hannah Swirsky: Yes, of course.
+
+Q84 Baroness Owen of Alderley Edge: Has the Online Safety Act improved how platforms have handled reports and complaints about illegal content? If so, to what extent?
+
+Rocio Concha: Again, we have seen no evidence of that. We did a survey of victims of scams in 2024, and 37% of people told us that they found it very difficult to report scams to the platforms. We did the same survey in 2026, and 47% of people told us that it is too difficult to report, so it is getting worse. To give you a benchmark, when we asked victims how easy it is to report to the banks, for example, 19% said that it is too difficult, compared to the 47%. You can see that the banks are doing much better.
+
+In terms of the code making any difference, we have not seen a lot of difference on that.
+
+Dr Rys Farthing: We run projects where we report illegal content en masse around the world and track what happens when content is reported and what the process is. For full disclosure, we do not run that in the UK yet; we are setting that up.
+
+What we have seen in the UK around the reporting of illegal content is that it has not changed. The first issue is that the interface is not great for users. We have in fact seen it become more user-unfriendly in recent years. I checked on Friday to make sure. Reporting content under the UK’s Online Safety Act on Meta takes nine clicks, including identifying which of 17 options of illegal content you are reporting, and providing your name, email, and, again, the link to the content that you are reporting, even if you clicked through from it. It is not a flow that is conducive to regular users.
+
+This is complicated by a trend that we have seen from platforms all around the world where, after a piece of content is reported as illegal, quite often, rather than reviewing it and giving you a decision, they will email back the user who reported it and say, “Can you give us more information? Can you give us a timestamp of where in the video you think the illegal content is? Can you tell us exactly which law you think it has violated?” They expect the user to mount the legal case around the content for them. The user reporting process has not been helpful.
+
+Secondly, the commitment from platforms has been underwhelming as well. Globally, we are seeing that platforms are reversing or stepping backwards on their terms of service and their commitments to which content they adequately moderate and which content they do not, which has not helped in terms of content moderation policies.
+
+The last challenge we see is that determining the threshold of what counts as illegal, particularly in the UK, is a real challenge, even for specialist organisations such as ours. We have in-house legal counsel to help us do this. In the projects that we run, we rely on AI to identify illegal content, and then that goes through two phases of human review to make sure that it works. That is daunting for a specialist organisation with a bunch of tech. I can only imagine how daunting it must be for users, to the extent that it would just put people off using these reporting services. Even where notice and takedown are relied on, it is left as a challenge for the users to resolve.
+
+Q85 Baroness Owen of Alderley Edge: Before you jump in, Mr Hadley, let me add a further question into the mix, because it is merging together and is important for the report. You mentioned that platforms are becoming more user-unfriendly. We are keen to get into how much of the burden of identifying and repeatedly reporting illegal content still falls on specialist organisations, and whether platforms could be required to play a greater role. You have touched on that, Dr Farthing. Can you also touch on that in your answer, Mr Hadley?
+
+Adam Hadley: It is unfair to blame the deterioration of content moderation standards wholly on the Online Safety Act, although it has played a substantial part in doing so. Political pressure from the US to do less, job cuts, diverting money into AI development, and also a lack of clear political will here have all contributed to content moderation standards collapsing.
+
+In terms of the reporting processes, we developed our own tool called the Terrorist Content Analytics Platform, which helps to aggregate and process referrals to platforms. Last month, we shared 30,000 human-verified referrals of terrorist content to platforms; this month it is 100,000. This is a substantial volume of material. All this content is from organisations that are proscribed in the United Kingdom.
+
+I cannot really understate the volume of material that we are coming across, and we report this material to more than 150 platforms. Not a single platform supports any of the work that we are doing. It is completely pro bono—even though you would have thought we were doing them a favour by reporting illegal content to them. In many cases, some of these platforms then completely ignore these referrals. A major social media platform that I will not name completely ignores obvious examples of ISIS material. They really do not care; it is quite remarkable.
+
+As far as I am aware, the burden of reporting appears to be completely on civil society organisations, none of which is funded to do this work. I am not really aware of what the Government are doing to refer content either.
+
+Going back to the point I was making earlier, there is limited open-source intelligence capability. There is not a consolidated approach to open-source intelligence, which is a point that I have made to the Southport inquiry publicly. If we are going to take the internet seriously, we need to have a serious approach to understanding what is on the internet, not relying on underfunded non-profits to do the work on behalf of the Government and platforms.
+
+Q86 Baroness Owen of Alderley Edge: Is there work to block this at ISP level?
+
+Adam Hadley: Somewhat shockingly, there are hundreds of websites operated by ISIS, al-Qaeda and all sorts of organisations. You type in the website name and you can then view an ISIS website. Some of these are protected by services such as Cloudflare. They stay online for quite a considerable amount of time. I obviously will not name any of them. It is surprising how easy it is to find terrorist content online. We wonder how they are allowed to stay online. There seems to be no focus on them at all.
+
+We have worked with the Government in New Zealand—this is public—to help them understand terrorist-operated websites and how to block these. It certainly is possible to block terrorist-operated websites. It obviously would not stop the tenacious user finding them, but it would reduce accidental access. It is completely possible. I am not sure why this is not being done. We provide lists of these terrorist-operated websites to all Governments we work with.
+
+Also, it is unfair completely to blame platforms. There seems to be quite a lot of inertia from the Government side as well.
+
+Hannah Swirsky: When we find CSAM that is hosted in the UK, we do issue a takedown notice. We have that power based on an MoU with the NPCC and the CPS. We find that, when it comes to UK hosts, 88% of the time they will remove that content within 24 hours; last year, the fastest was within one minute. That is positive, but we need the platforms to be doing more of the heavy lifting and not always relying on that.
+
+We have different ways in which the public can report into us. We work very closely with law enforcement. As I mentioned before, when it comes to the ecosystem, we need more players to play a bigger role.
+
+You have mentioned internet service providers. We have a URL list. When there are URLs that are hosting CSAM and not doing anything about it, we will add them to our list and internet service providers will proactively block access, but that is really reliant on voluntary action by internet service providers. It is something that we very much welcome. We work with them, but in order to encourage further action across the board, and also when it comes to other harms as well, it is important to look at what more internet service providers can be doing on that.
+
+I would echo the point around reliance on specialist services and challenges with funding. When we are supporting statutory duties, supporting victims and things like that, it is really important to recognise that and to ensure that it is adequately funded.
+
+Q87 Baroness Elliott of Whitburn Bay: We have heard that the current online safety regime is poorly equipped to deal with the increasingly complex ways in which illegal activity takes place online. To what extent does that reflect your experience? Where, if anywhere, does the current framework fall short?
+
+Hannah Swirsky: First, regarding commercialisation, we see that commercial incentives have a strong influence on the generation and distribution of child sexual abuse material. Often, for service providers, this is part of their income generation. We have seen a real growth in this, particularly in the last year. The amount of commercially driven sites hosting CSAM doubled in 2025 compared with the previous year.
+
+We have payment brand alerts, and we work with financial services to alert them when we see ways in which, for example, you can pay and that is being advertised. We will go and tell that financial company and say, “Look, you need to block this”, but, again, this is based on voluntary action. One area we want to see is the introduction of mandatory duties with regard to financial institutions, to tackle this proactively. That would be a key piece for us, and is a real challenge.
+
+The other area I would mention, which perhaps I can come back to, is with regard to AI, because that is a real gap right now.
+
+The Chair: We can come back to that, yes.
+
+Adam Hadley: Where terrorist content is concerned, it is fundamentally cross-platform. That is the same but different depending on the type of terrorist content we are talking about. Jihadists will share material in a certain way and the extreme far right in another. Content relating to nihilistic violent extremists is also cross-platform.
+
+We provide platforms with URL lists, a bit like the Internet Watch Foundation, and hashes. The technology is there; the data is available. The interest from large platforms is non-existent. We have a URL-sharing API and other services. Quite a large number of small platforms have signed up to these and are quite engaged, but the large platforms are completely not interested, even though there are many examples of content being linked to them.
+
+An example of this is that, in June this year, we found a network of ISIS fundraising that covered Facebook, Instagram, Telegram and WhatsApp. It had been obviously available for at least nine months. This was with ISIS logos, essentially saying, “Fund ISIS”, in Arabic. It was really easy to find. We found it fairly easily.
+
+The cross-platform nature of this is fundamental to terrorist activity, and yet some of the platforms with the most terrorist content are the least engaged with some of these measures. It seems quite strange to me, considering the Online Safety Act is supposed to encourage exactly that sort of tech adoption.
+
+Dr Rys Farthing: I am just reflecting on similarities in the scam space. One thing that we track is networks of scammers, and they are becoming more complicated and co-ordinated. We are seeing a lot more co-ordination of actors, a lot of cross-platform activity and a range of different technologies used, from snatched web domains to inserted web text in websites, which you have pointed to from some of the larger platforms.
+
+In this growing complexity, we still see a response on notice and takedown. You will report a scam ad. A platform will remove the scam ad, but that co-ordinated network behind it on other platforms, and the technology behind it, stays active. You get this response constantly. It is as if the problem is an iceberg, and there is this constant removal of the very visible tip of the iceberg when it becomes obvious, but the complex problem remains underneath that.
+
+Rocio Concha: This is not related to the Online Safety Act, but there is this point about these criminals using different platforms. You stop them at one point and they will choose another point. By the way, they are incredibly innovative in the way that they deliver their criminal activities.
+
+There has been a discussion with the Government about this data-sharing between different platforms, such as banks, telecoms and the Government, to prevent that and to be more proactive about this. This is broader than the Online Safety Act per se. If we are finding this criminal activity in this particular route, can we alert others, because of this particular individual or organisation, and get others to block that? There has been a discussion and some pilots run by the Home Office, but there is far more that needs to be done, with more urgency in that.
+
+Q88 Lord Tarassenko: I have one follow-up question for Adam and then one on generative AI for all four of you. Adam, you made three very interesting statements in the evidence so far, which I will try to link together. First, you said that there is little engagement in terms of terrorist or extremist content from the large tech platforms. Secondly, you said that it is possible to reduce access. Thirdly—and this was a really interesting statement to hear from you—the OSA is not predicated on measuring metrics that are observable.
+
+I will try to link those three together in my question. If it is not the OSA, how would you suggest that we do this? Is it new legislation? Is it other means? How do we reduce access to these terrorist and extremist content platforms?
+
+Adam Hadley: Going back to the first comment that I made, if we do not know what is on the internet, how can we regulate it effectively? If we are relying on risk assessments or transparency reports from platforms, we are going to be in deep trouble.
+
+Clearly, the internet is providing huge economic and social benefits to the country, but adversaries, hostile nation states and terrorist organisations are also using the internet to harm our society, and yet there is no observability.
+
+In the EU, under the Digital Services Act, there is a provision there for researcher access to platforms. It is not particularly good, but it is a start. I am not aware of any provisions that have been enacted here.
+
+The main thing I would say is that we need to understand what is on the internet before we can do anything about it. As far as I am aware, Ofcom does not have the powers to do that. The Home Office would not either. The police certainly do not, or do not have the capacity to do it. Really, no one is looking at the internet. The research community has been defunded for the most part. Many non-profits have gone out of business and have been defunded, so there is not really much data. From the perspective of big platforms, it is probably quite a positive situation because there is less scrutiny. There is almost no information available, except anecdotal, to demonstrate just how bad their content moderation has become.
+
+I would argue that the Government should take this seriously. They should establish a dedicated unit looking at understanding what is on the internet. It should not just be focused on disinformation or one harm; it should bring together all the capabilities. The problem with open-source intelligence is that anyone can do it. The result of that is that capability can become quite fragmented and have limited effect as a result.
+
+Q89 Lord Tarassenko: Just to follow up with everybody on generative AI, since the Online Safety Act was being designed, we have had generative AI really happen, increasing or exacerbating existing harms, new risks, et cetera.
+
+The Internet Watch Foundation has argued that the regulation of AI is a significant gap. Some services may be in the scope of the OSA, but Ofcom has explained that chatbots are not really subject to regulation.
+
+We have some amazing statistics from the Center for Countering Digital Hate. Eight of the 10 leading chatbots were willing to assist accounts posing as teenagers with planning violent attacks, including school shootings, religious bombings and assassinations. How should the existing framework evolve in response to these new risks? Do we need further primary legislation?
+
+Hannah Swirsky: As you have said, AI-generated child sexual abuse material is an evolving and growing risk. We are seeing how harm is now being produced at scale. Victims are having their images used to create new images. We find when it comes to AI-generated material that the vast majority is category A, which is the most severe form of child sexual abuse material. Offenders are using AI to create the worst levels of child sexual abuse material.
+
+As we have pointed out, regulation of AI is largely missing. Only certain in-scope platforms are required to fill duties. There are a couple of things there in terms of next steps. First, we would really urge there to be new primary legislation to address risk relating to AI. AI can be a really important source for good, including when it comes to tackling child sexual abuse material, but we need requirements on AI companies to make their products safe by design, not being in a situation, as we have been in the last year, where a product is opened out to users and then we see vast amounts of harm being created. That is something that the Government had previously committed to in their manifesto. We continue to call for legislation to regulate AI and introduce these requirements.
+
+We also have the Crime and Policing Act, which includes some really important measures, which we fought for and were really pleased to see, relating to a ban on nudification apps, red teaming to test AI models to see whether they can generate this material, and also to bring chatbots into the scope of the Online Safety Act. They are all really important measures, but we are reliant on secondary legislation to operationalise these measures. There is something there that is tangible, and we would just urge swift adoption.
+
+Adam Hadley: As the director-general of MI5 said last week, the threat posed by the terrorist use of AI is significant. I would agree and argue that the use of AI by terrorists and smaller hostile nation states should be a major national security priority.
+
+Two years ago, we released a report assessing the likelihood of terrorists using generative AI for content production. Of course, that has since become ubiquitous. Every terrorist group imaginable is using AI to produce content, but the threat is much graver than this.
+
+Currently in Parliament, the debate around AI focuses on so-called misalignment or existential risk. There are some very well-funded groups that are pushing an agenda that we need to focus on regulating AI so that it does not become superintelligent. Those arguments are valid. We should be deeply concerned about misalignment, but not in the complete absence of discussion and debate about the misuse of AI by hostile actors, whether they be terrorist organisations or hostile nation states.
+
+I am really concerned that the political narrative in this country, and in fact internationally, is focused only on misalignment and not misuse. When misuse does come up, it is usually focused on very deep concerns about CBRNE threats—chemical, biological, et cetera. There are very few measures or mechanisms to establish how safe AI is.
+
+This month, we launched our own counterterrorism AI benchmark, which benchmarks 160 AI models to evaluate which ones would provide meaningful answers for terrorist-type queries, such as, “I am a terrorist. Will you help me conduct a mass casualty attack?” Somewhat concerningly, 6% of models gave a response to that.
+
+The question that we should all be asking is: how safe are the models’ guardrails and how can we measure them? Considering how poorly the Online Safety Act has been implemented with regard to obvious examples of terrorist content, I have no confidence that we will be able to come up with any measure at all to deal with the use of AI.
+
+However, I would say that there are ways of going about this other than regulation, and one of them is through benchmarks. Benchmarks are fundamental to the valuation of the AI industry. We know everything that there is to know about how fast and how clever an AI model is. We know very little about how safe they are. We are calling for government support in relation to safety benchmarks. How do we measure the extent to which a model will support fraud, terrorist requests or hostile activity relating to children’s safety? These do not exist. The AI Security Institute is very well funded, but is focused only on misalignment and chemical and biological weapons.
+
+We really have to step up now, because we may only have a number of months left in which we can influence AI. There are things that we can do, but going back to the point I have made throughout this hearing, if we do not understand what is going on and if we have no observability, how can we hope to mitigate those harms?
+
+It is not just about social media content and what terrorist content there is. It is also about understanding how models are performing. I would hope that, with political pressure and public awareness of which models are safe, we might be able to devise measures to incentivise platforms and AI providers to build better technology before it is too late. Primarily, I would say that benchmarks could be a help to improve this. We should be really worried.
+
+Finally, it is not just about content production by terrorist groups. A couple of weeks ago, Anthropic released its threat report, which highlighted that a militant group in northern Yemen, almost certainly the Houthis, had used Claude Code—they had presumably paid to use Claude Code, which would be a sanctions violation if true—to improve missile guidance technology. A few weeks later, what have we seen? The Houthis have been striking targets in Saudi Arabia and killing people.
+
+This is not a theoretical issue. It is widespread. I am afraid to say that this Parliament does not seem to be focusing on the obvious risks posed by the misuse of AI. It is not just by terrorists; it is also smaller hostile nation states that do not have large budgets but are almost certainly looking to use AI to provide uplift.
+
+Lord Tarassenko: I just want to reassure you that we have met with Kanishka Narayan, the AI Minister, and yesterday with the director of AISI. We did mention some of these topics. You are absolutely right. There are at least some of us who are concerned about these matters.
+
+The Chair: Meetings go on in Parliament that do not always get reported. That is certainly the case here.
+
+Dr Rys Farthing: Thinking about chatbots specifically, the long lesson learned from the impact of technology on society is that some regulation is needed and necessary, alongside industry measures and safety-by-design features.
+
+The Online Safety Act is a really solid piece of legislation. It is a strong foundation, and it would take only a few reforms for it to cover chatbots quite specifically. Alongside some of the reforms that we have spoken about, such as changes to safe harbour, changes to the codes specifically and other measures, it is possible to provide a measure of protection for chatbots from the types of harms that the Online Safety Act looks at specifically.
+
+Rocio Concha: You already include ChatGPT in one of the categorised services. You need to include more of the LLMs. You already include one.
+
+Q90 Baroness Fleet: What you are telling us today is really very helpful. Has Ofcom’s approach to supervision and enforcement been effective in securing meaningful changes from platforms since the illegal content duties came into force? If it has, to what extent?
+
+Hannah Swirsky: There have been specific examples of where supervision and enforcement have been effective. On file storage and filesharing sites, there has been a specific enforcement programme to tackle the platforms that are hosting child sexual abuse material. We have seen some positive action there. We have seen platforms introduce hash matching that were not doing so otherwise. Some platforms have now been made unavailable to UK users because they continue to host that material.
+
+There is another thing that I wanted to reference here. I appreciate that it is not an illegal harm, but there has been some important action relating to access to pornography sites with regard to highly effective age assurance. There is more to be done there, but there has been positive action.
+
+It is also important to recognise that the Online Safety Act is complex and requires a lot of action. We need to get to a point where Ofcom is focused on delivering and on action. One of our concerns with some of the new government measures relating to social media restrictions, for example, is that we do not want to be in a place where we have different regimes, where some codes may be made redundant or Ofcom does not have the resources and is having to reprioritise away from some of these areas. That is an important point to mention.
+
+It is a mixed bag. There have been some positives, but we need to continue and we need further action.
+
+Adam Hadley: Sadly, there is no discernible positive impact from legislation from this country, although the eSafety Commissioner in Australia has encouraged quite a few platforms to approach us. Under Australian law, platforms are obliged to share terrorist content with us so that we can hash list and share it with other platforms for removal. We have had a number of platforms approach us as a result of the Australian legislation.
+
+Dr Rys Farthing: Can I build on that and also speak comparatively? One of the very real debates that is happening now in Australia, which is also revising its Online Safety Act, is the debate about the need for a private right of action. In Australia, there is already a public-facing compliant mechanism that people can use to access eSafety to report content, report harms and seek redress. There are further debates and discussions happening about how you can take that further and whether there should be a private right of action. They are interesting to reflect on.
+
+I have no particular opinion about those yet in the UK context, but if we are thinking about regulating this space, which is an incredibly complicated area, one consideration has to be how to lift some of the weight off the regulator and ensure that there is not a single point of failure, so that enforcement of the Online Safety Act does not depend wholly on Ofcom’s staff count.
+
+Rocio Concha: From a fraud perspective, we have not seen any evidence that Ofcom has enforced the codes. If you do not enforce them, you can have brilliant codes, but the platforms will not do anything about it because there is no deterrent effect.
+
+A private right of action really complements regulators, but it is for the regulators to enforce the codes that they are responsible for. It is obviously about having that complement, but unless the regulator is seen to be determined to implement and enforce the code, the deterrent effect will not be there. That is why we see the platforms not doing much. We are not seeing any difference in any of the harms that we have been discussing today.
+
+Q91 Baroness Fleet: Following on from that, do you think that victims should have a stronger right to seek redress?
+
+Rocio Concha: Of course, I would like victims to have that, but this is not instead of the role of the regulators. By the way, it is not easy in this country for victims to take big tech to court. It is incredibly expensive, and they have unlimited budgets.
+
+Yes, it would be good to have that because of the deterrent effect, but the responsibility is on the regulators to enforce that. If the regulator does not have enough resources because it is being asked to enforce other areas, it should be honest about it and tell you that it does not have the resources and that it has to delay until it has the resources to enforce.
+
+Baroness Fleet: Do you agree with that, Dr Farthing?
+
+Dr Rys Farthing: This is an incredibly difficult area to regulate. Anything that makes access to justice easier for people, as a general rule of thumb, is a good idea.
+
+Q92 Baroness Caine of Kentish Town: This has been a really rich session in terms of the contributions that you have all been making. To a degree, some of the questions are tending to get iterative now in terms of your response, and this is the most iterative one. Of all the shortcomings you have identified, what change do you believe would make the most practical difference to tackling the illegal harms that your organisations deal with? When you identify that, could you just flag whether that is within improving the OSA or outwith, without going into your explanations again?
+
+Rocio Concha: I will be very brief. It is about full enforcement and implementation of the Online Safety Act as it is, and then having this discussion about the safe harbour.
+
+Dr Rys Farthing: I would say removing safe harbour, requiring platforms to mitigate against all the risks that are identified in their risk assessment, and revising the tests that have given rise to this proposal that we have that codes must be clear and detailed over being comprehensive and broadscale.
+
+Alongside those nitty-gritty, specific reforms, there are broader reforms that could fold into the Online Safety Act around more attention to business models and the way that business models pay creators to create this content at the same time as the way they profit from content creators, as well as additional covers for chatbots.
+
+Baroness Caine of Kentish Town: Thank you. We have your evidence to look at as well.
+
+Adam Hadley: The single most impactful thing would be there being an online harms dashboard, generated with data coming from platforms as a result of enforcing Section 154A of the Online Safety Act. To my point throughout this hearing, if we do not have the information and data, we cannot regulate.
+
+Hannah Swirsky: I echo other points being made around safety by design; we would welcome having adoption of a safety-by-design code of practice. We have heard loud and clear that safe harbour is an issue, and we would certainly agree.
+
+With regard to end-to-end encryption, there are measures that Ofcom can take with regard to technical feasibility and using Section 121 powers. That is a really important measure in the Online Safety Act; we would urge Ofcom to use it as soon as possible.
+
+The Chair: Thank you for your contributions. We really appreciate it. We have overrun slightly; I am sorry about that, but you have given us some really sound evidence, with a great richness and depth of answers, so thank you for that.

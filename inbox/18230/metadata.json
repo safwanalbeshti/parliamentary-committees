@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18230,
+  "activity_id": 39274,
+  "document_id": 309545,
+  "meeting_date": "2026-11-03",
+  "meeting_date_display": "3 November 2026",
+  "publication_date": "2026-11-04T12:57:13",
+  "title": "Proposals for backbench debates",
+  "committee": "Backbench Business Committee",
+  "committees": [
+    {
+      "id": 202,
+      "name": "Backbench Business Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9813,
+      "title": "Proposals for backbench debates",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [],
+  "speaker_candidates": [
+    "Representations",
+    "II",
+    "III",
+    "IV",
+    "Chair",
+    "Mike Reader",
+    "Will Stone",
+    "Jim Shannon",
+    "Mary Glindon",
+    "Nesil Caliskan",
+    "Martin Vickers",
+    "Samantha Niblett",
+    "Jonathan Davies"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18230/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18230",
+  "source_sha256": "44af9c041385d9582e00103b31283ab9925dfc6121f4c8a6182833465b49a24a",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

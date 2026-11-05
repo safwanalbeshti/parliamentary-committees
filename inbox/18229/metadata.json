@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18229,
+  "activity_id": 39129,
+  "document_id": 309426,
+  "meeting_date": "2026-10-27",
+  "meeting_date_display": "27 October 2026",
+  "publication_date": "2026-11-04T10:42:25",
+  "title": "The Online Safety Act: implementation and impact",
+  "committee": "Communications and Digital Committee",
+  "committees": [
+    {
+      "id": 170,
+      "name": "Communications and Digital Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9955,
+      "title": "The Online Safety Act: implementation and impact",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Director of Policy and Advocacy",
+      "organisation": "Which?"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chief Research Officer",
+      "organisation": "Reset Tech"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Founder and Executive Director",
+      "organisation": "Tech Against Terrorism"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Head of Policy and Public Affairs",
+      "organisation": "Internet Watch Foundation"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Rocio Concha",
+    "Dr Rys Farthing",
+    "Adam Hadley",
+    "Hannah Swirsky",
+    "That is positive, but I would refer back to my first point",
+    "Viscount Colville of Culross",
+    "Lord Knight of Weymouth",
+    "Lord Kirkhope of Harrogate",
+    "Baroness Owen of Alderley Edge",
+    "Baroness Elliott of Whitburn Bay",
+    "Lord Tarassenko",
+    "The question that we should all be asking is",
+    "Baroness Fleet",
+    "Baroness Caine of Kentish Town"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18229/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18229",
+  "source_sha256": "204bd7b6afc70ec56b450ea4dafb302ed6901346f411d5da26d4177ae96b476c",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}
