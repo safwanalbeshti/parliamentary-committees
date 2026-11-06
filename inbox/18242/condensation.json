@@ -1,0 +1,444 @@
+{
+  "schema_version": 1,
+  "source_id": 18242,
+  "source_sha256": "b98f8424367ef10a0fa237c455a3eacb132c6e2243824ef5086fb25114d8c2a1",
+  "title": "Priorities, pressures and tech: health, social care and the NHS",
+  "label": "4 November 2026 · DHSC oral evidence",
+  "summary": "The new Health Secretary, Yvette Cooper, with Permanent Secretary Samantha Jones and Sir Jim Mackey of NHS England, answered MPs on the department’s priorities—maternity and early years, a national care service, mental health, workforce planning, NHS reorganisation, data and digital systems. The session covered planned standards for maternity and palliative care, the Casey commission on social care, concerns about transparency in the UK–US pharmaceutical arrangements, the need for earlier mental-health intervention, entrenched training bottlenecks, the future of NHS structures and unsettling questions about the Palantir-based federated data platform and public trust. Ministers promised follow-up papers and further detail on workforce plans, devolution alignment, contract reviews and capital spend.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Layla Moran",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Yvette Cooper",
+      "name": "Yvette Cooper MP",
+      "role": "Secretary of State for Health and Social Care",
+      "kind": "witness"
+    },
+    {
+      "label": "Samantha Jones",
+      "name": "Samantha Jones",
+      "role": "Permanent Secretary, Department for Health and Social Care",
+      "kind": "witness"
+    },
+    {
+      "label": "Sir Jim Mackey",
+      "name": "Sir Jim Mackey",
+      "role": "Chief Executive Officer, NHS England",
+      "kind": "witness"
+    },
+    {
+      "label": "Danny Beales",
+      "name": "Danny Beales",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Dr Gardner",
+      "name": "Dr Allison Gardner",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Joe Robertson",
+      "name": "Joe Robertson",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Gregory Stafford",
+      "name": "Gregory Stafford",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Josh Fenton-Glynn",
+      "name": "Josh Fenton-Glynn",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Paulette Hamilton",
+      "name": "Paulette Hamilton",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Andrew George",
+      "name": "Andrew George",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Ben Coleman",
+      "name": "Ben Coleman",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "10-year plan",
+      "definition": "The NHS long-term plan that sets priorities like prevention, community care and digital services."
+    },
+    {
+      "term": "national care service",
+      "definition": "A government vision for a national system for social care, being considered by Baroness Casey's commission."
+    },
+    {
+      "term": "PDEL",
+      "definition": "A Treasury-labelled prevention budget line intended to protect spending on activities that reduce future sickness and costs."
+    },
+    {
+      "term": "ICB",
+      "definition": "Integrated Care Board, the NHS body that plans and pays for local NHS services."
+    },
+    {
+      "term": "NICE",
+      "definition": "The National Institute for Health and Care Excellence, which assesses if treatments should be used on the NHS."
+    },
+    {
+      "term": "Palantir",
+      "definition": "A US commercial software company providing data tools used by the NHS in the federated data platform."
+    },
+    {
+      "term": "FDP",
+      "definition": "Federated Data Platform, the NHS data system built on Palantir software to let trusts use shared analytics."
+    },
+    {
+      "term": "modern services framework",
+      "definition": "A planned set of standards and service design rules the department will publish for areas like maternity and palliative care."
+    },
+    {
+      "term": "section 75",
+      "definition": "A legal mechanism that lets NHS bodies and local authorities pool resources and work jointly for local services."
+    },
+    {
+      "term": "Healthwatch",
+      "definition": "Local independent organisations that represent patients and service users to health and care bodies."
+    },
+    {
+      "term": "single patient record",
+      "definition": "A national aim to make a patient's health record accessible across NHS services in a consistent way."
+    },
+    {
+      "term": "MND",
+      "definition": "Motor neurone disease, a progressive condition used as an example for better co-ordinated care pathways."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "New priorities: maternity, children and prevention",
+      "takeaway": "The Secretary of State has made maternity, early years and prevention central additions to the NHS 10-year plan and will publish standards and an action plan.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "You’ve set maternity and early years as top priorities—are you changing the 10-year plan to reflect that?"
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "The three shifts—prevention, community services and digital—still stand, but I’m adding a clear focus on maternity, neonatal care and early years, plus a renewed prevention emphasis."
+        },
+        {
+          "speaker": "Chair",
+          "text": "What will concretely change on maternity?"
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "We’ll publish an interim maternity action plan before Christmas and a new modern services framework with national maternity and neonatal standards next year."
+        },
+        {
+          "speaker": "Chair",
+          "text": "You mentioned bringing back Sure Start principles—how?"
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "Through the Healthy Babies roll-out: Sure Start-style health services in family hubs to join up maternity and early-years support."
+        }
+      ]
+    },
+    {
+      "title": "Designing a national care service step by step",
+      "takeaway": "Baroness Casey’s commission will set the vision; ministers are preparing practical building blocks—workforce, integration and discharge—while coordinating with her work.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Baroness Casey’s report is delayed—are you already preparing the interim steps so nothing stalls?"
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "Yes. We’re working on the building blocks—workforce, better health–social care integration (dementia, frailty), discharge improvements and palliative care—while staying aligned with the commission."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Will you write to the Committee with more detail on those 'buckets'?"
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "Certainly—happy to set out the building blocks in writing."
+        },
+        {
+          "speaker": "Dr Gardner",
+          "text": "We recommended reviewing section 75 to tie NHS and local authority services together; you rejected a formal review—why?"
+        },
+        {
+          "speaker": "Sir Jim Mackey",
+          "text": "Where local partners want to use section 75 pooled arrangements they work well, but you can’t force local will; it requires purpose and locally agreed plans."
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "No.10 North is leading broader devolution work on powers and pooled funding. The Department is contributing; we’re looking at legislative and practical ways to make local partnership working happen."
+        }
+      ]
+    },
+    {
+      "title": "Pharmaceutical deal and transparency concerns",
+      "takeaway": "MPs pressed for clearer fiscal impacts of the UK–US pharmaceutical agreement; ministers said a contract review and NAO work are under way, and they will engage with committees.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "The Committee has been frustrated by a lack of transparency about the UK–US drug deal’s downstream impact—shouldn’t Parliament see this without waiting for the NAO?"
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "The NAO has a vital role. The deal increases long-term spending on innovative medicines and changed NICE rules; we have been transparent where processes like NICE are involved."
+        },
+        {
+          "speaker": "Chair",
+          "text": "That repeats the press release; what about NHS budgets later on?"
+        },
+        {
+          "speaker": "Samantha Jones",
+          "text": "We’re still determining technical impacts and pilots from the arrangement; commercial details are subject to negotiation across departments and we’re discussing disclosure with the NAO."
+        }
+      ]
+    },
+    {
+      "title": "Prevention, mental health and early intervention",
+      "takeaway": "The Government welcomes a Treasury prevention budget (PDEL) and will publish a mental health strategy before year end, but many details—standards, protection of funds, and targets—remain to be set.",
+      "turns": [
+        {
+          "speaker": "Danny Beales",
+          "text": "What is PDEL and will it be ring-fenced for prevention spending rather than a relabelling?"
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "PDEL is the Treasury’s prevention envelope; it should keep focus on long-term investments, but exact rules are for spending review decisions—our public health teams welcome it."
+        },
+        {
+          "speaker": "Danny Beales",
+          "text": "Will you define prevention tightly so funds aren’t raided?"
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "My definition is broad—primary and secondary prevention and services that cut future costs—yet the Treasury’s criteria will matter; the spending review will set protections."
+        },
+        {
+          "speaker": "Danny Beales",
+          "text": "Will the mental health strategy set waiting-time standards?"
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "We will publish the mental health strategy before year end and it must address waiting lists, but I won’t pre-announce specific targets today—different parts of mental health have different waits."
+        },
+        {
+          "speaker": "Joe Robertson",
+          "text": "Fonagy found over-, mis- and under-diagnosis in neurodevelopmental conditions; how will you make sure the right people get the right care?"
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "We’ll focus on early intervention so support isn’t conditional on diagnosis alone, and we’ll regulate independent diagnostic providers that were operating outside NHS regulation."
+        },
+        {
+          "speaker": "Dr Gardner",
+          "text": "Are 24/7 mental health liaison teams in A&E working effectively to stop people being left in crisis for days?"
+        },
+        {
+          "speaker": "Sir Jim Mackey",
+          "text": "The liaison teams are valuable, but the system often fails after assessment—there isn’t always a place to move people on to; capacity and joined-up community support need building."
+        }
+      ]
+    },
+    {
+      "title": "Workforce, training bottlenecks and NHS reorganisation",
+      "takeaway": "Workforce planning is a priority but delayed: a workforce plan is promised in the new year; training capacity, specialty bottlenecks and ICB/region realignments are major challenges.",
+      "turns": [
+        {
+          "speaker": "Gregory Stafford",
+          "text": "Will you keep clinical leads such as GIRFT leads and not create mass job losses when the NHS changes on 1 April?"
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "I don’t want a cliff-edge loss of clinical leads; clinical leadership will be strengthened and a clinical council set up. Roles may evolve, but we’ll avoid sudden terminations."
+        },
+        {
+          "speaker": "Sir Jim Mackey",
+          "text": "I’ve asked the medical director to reassure GIRFT leads their roles continue beyond April; fixed-term contract issues are being managed so there’s no abrupt loss of clinical leadership."
+        },
+        {
+          "speaker": "Gregory Stafford",
+          "text": "Will you still double medical school places by the end of this Parliament?"
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "We will publish a workforce plan in the new year. Training needs are harder to predict now—AI and changing service models complicate 10-year forecasts—so we are reviewing precise numbers."
+        },
+        {
+          "speaker": "Josh Fenton-Glynn",
+          "text": "There are training bottlenecks: many applicants but fewer specialty posts. Will trusts be supported to add training places in high-demand specialties?"
+        },
+        {
+          "speaker": "Sir Jim Mackey",
+          "text": "The medical training system must be aligned from medical school through specialty training; the workforce plan and ongoing medical training review will address this."
+        },
+        {
+          "speaker": "Josh Fenton-Glynn",
+          "text": "Palliative care and sexual health show acute shortages—are you going to incentivise training and expand posts now?"
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "Palliative care will be covered in the modern services framework and workforce planning; trusts, colleges and the system must work together to deliver more training where need is clear."
+        },
+        {
+          "speaker": "Gregory Stafford",
+          "text": "Does the reorganisation still aim to save £1bn by 2029-30?"
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "We’ve already achieved hundreds of millions of savings and expect further savings towards that figure as transformation continues."
+        },
+        {
+          "speaker": "Gregory Stafford",
+          "text": "How will regions be organised when NHS England functions move into the Department?"
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "National functions will be in an NHS group in the Department; seven regional teams will remain close to local services to manage performance and support local delivery."
+        },
+        {
+          "speaker": "Andrew George",
+          "text": "You can’t wait for the workforce plan to act on safe staffing—will you issue policy statements now?"
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "Yes: some workforce actions and standards can be set now, and we’ll follow up in writing on quantifying shifts from acute to community care."
+        },
+        {
+          "speaker": "Paulette Hamilton",
+          "text": "On Thirlwall and the Countess of Chester, two things worried me: weak safeguarding and maternity being sidelined—how will regulation of managers and culture change fix that?"
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "We accepted Thirlwall’s recommendations, will strengthen safeguarding, publish a maternity action plan before Christmas, and produce the modern services framework next year; we’ll regulate managers as committed."
+        },
+        {
+          "speaker": "Sir Jim Mackey",
+          "text": "Board curiosity and willingness to challenge are crucial; we’re restarting board development work, pushing for diverse composition and limiting multiple board roles where they reduce oversight."
+        }
+      ]
+    },
+    {
+      "title": "Data, Palantir and the federated data platform",
+      "takeaway": "The Department is reviewing the Palantir contract; ministers underline UK data sovereignty and sovereign AI aims but will not pre-empt the contract review—concerns about trust and lock-in were acknowledged.",
+      "turns": [
+        {
+          "speaker": "Ben Coleman",
+          "text": "Palantir’s contract runs to March—are you preparing exit plans and considering open data standards so the NHS isn’t locked into a single supplier?"
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "There is a built-in contract review process we must complete; we want UK data sovereignty and sovereign AI, and we must build flexibility to innovate, but I can’t comment on the live contract here."
+        },
+        {
+          "speaker": "Ben Coleman",
+          "text": "Would you commit to national open data standards so different suppliers can interoperate and trusts are not locked in?"
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "Open standards align with the principles we want—sovereignty plus flexibility—but specific contract outcomes will depend on the review; I’ll take the point on standards away."
+        },
+        {
+          "speaker": "Ben Coleman",
+          "text": "The Office for Statistics Regulation told the NHS it cannot claim clear cause and effect from Palantir; will you stop Palantir from making benefit claims it hasn’t cleared with you?"
+        },
+        {
+          "speaker": "Sir Jim Mackey",
+          "text": "We’ll write to Palantir to require clearance of claimed benefits; there is a contractual route but enforcement looks legally limited—still, we’ll press them to clear claims with us."
+        },
+        {
+          "speaker": "Josh Fenton-Glynn",
+          "text": "Will public trust in data use weigh into the contract decision?"
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "Trust and confidence are essential for any use of health data; they are among the factors in contract assessments, but I’ll not pre-empt the formal review process."
+        },
+        {
+          "speaker": "Ben Coleman",
+          "text": "Will the single patient record be built on the FDP in its present form?"
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "The single patient record is a separate programme; we must ensure interoperability, sovereignty and flexibility for AI development—contract decisions for the FDP won’t decide the record’s technical design today."
+        }
+      ]
+    },
+    {
+      "title": "Patient voice, Winter pressures and follow-ups",
+      "takeaway": "Ministers pledged to strengthen patient representation, tackle corridor care with whole-hospital planning, check capital and underspend figures, and to follow up on several specific items.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Healthwatch was kept; but patient voices are still missing on some ICB boards—what will you do now to ensure meaningful local representation?"
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "We’re appointing a patient experience director in the Department and building a team to strengthen engagement; local accountability through mayors and clinical leadership will be part of the fix."
+        },
+        {
+          "speaker": "Dr Gardner",
+          "text": "Corridor care persists where flow from A&E to wards fails—how will you ensure whole-hospital responses actually remove corridor care?"
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "We’re promoting whole-hospital approaches—trusts like Watford reduced corridor care by coordinating across units and anticipating demand; our urgent and emergency care plan backs that approach."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Accounts showed a small DHSC underspend last year; could some funding have been frontloaded for winter pressures? Please explain the underspend."
+        },
+        {
+          "speaker": "Samantha Jones",
+          "text": "I will check the financial detail with the CFO and write to the Committee next week with the explanation of the underspend and winter funding position."
+        },
+        {
+          "speaker": "Paulette Hamilton",
+          "text": "On specialised pilots—like sickle cell bypass units—will you protect them when ICB budgets tighten?"
+        },
+        {
+          "speaker": "Sir Jim Mackey",
+          "text": "Specialised, small-scale services need national oversight; I’ll take the sickle cell pilot point away and come back to you next week with more detail."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Working-age social care groups feel left out—what will they see from these changes?"
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "We’ll use motor neurone disease pathways as a model for working-age, high-need people: better coordinated assessments, care packages and joined-up services to reduce fragmentation."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. Please follow up on the workforce plan, devolution White Paper links, contract reviews, capital details and the patient-voice steps."
+        },
+        {
+          "speaker": "Yvette Cooper",
+          "text": "We’ll come back in writing on the workforce plan, devolution alignment, the Palantir contract review where appropriate, capital management and the details you asked for."
+        }
+      ]
+    }
+  ]
+}

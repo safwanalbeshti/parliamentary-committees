@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18238,
+  "activity_id": 39305,
+  "document_id": 309940,
+  "meeting_date": "2026-11-04",
+  "meeting_date_display": "4 November 2026",
+  "publication_date": "2026-11-05T12:26:38",
+  "title": "The UK’s constitutional safeguards",
+  "committee": "Constitution Committee",
+  "committees": [
+    {
+      "id": 172,
+      "name": "Constitution Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9861,
+      "title": "The UK’s constitutional safeguards",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Daniel Greenberg",
+      "role": "Parliamentary Commissioner",
+      "organisation": "Standards"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Daniel Greenberg",
+    "Lord Bichard",
+    "Lord Murphy of Torfaen",
+    "Lord Griffiths of Burry Port",
+    "Lord Cryer",
+    "Baroness Laing of Elderslie",
+    "Lord Waldegrave of North Hill",
+    "Baroness Hamwee"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18238/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18238",
+  "source_sha256": "de9b5495530bbfff728fb86fb82ae776f8dd362ef1fc557fd82ac759eb91383f",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

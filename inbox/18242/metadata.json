@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18242,
+  "activity_id": 39325,
+  "document_id": 309969,
+  "meeting_date": "2026-11-04",
+  "meeting_date_display": "4 November 2026",
+  "publication_date": "2026-11-05T15:10:59",
+  "title": "The Work of the Department for Health and Social Care",
+  "committee": "Health and Social Care Committee",
+  "committees": [
+    {
+      "id": 81,
+      "name": "Health and Social Care Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 8743,
+      "title": "The Work of the Department for Health and Social Care",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [],
+  "speaker_candidates": [
+    "Chair",
+    "I will get right into it. Secretary of State, you have set out your priorities",
+    "Yvette Cooper",
+    "Samantha Jones",
+    "Danny Beales",
+    "Dr Gardner",
+    "Sir Jim Mackey",
+    "Joe Robertson",
+    "Ben Coleman",
+    "Gregory Stafford",
+    "Josh Fenton-Glynn",
+    "Paulette Hamilton",
+    "Andrew George",
+    "The hospice sector was quite clear",
+    "To me, then, it was about two things"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18242/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18242",
+  "source_sha256": "b98f8424367ef10a0fa237c455a3eacb132c6e2243824ef5086fb25114d8c2a1",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

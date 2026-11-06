@@ -126,7 +126,7 @@ The JSON is checked automatically.
 ## Official metadata
 
 * Parliament oral-evidence ID: 18219
-* Required source hash: `4571e542344468ec1ffbfd762be27208f2b4ee6b85ab90d18a42af9fe355b37f`
+* Required source hash: `eeaadd16b71ec7e66daf6eb593a427c7195e64c7ec0d05df5f061e39fd9d9c5d`
 * Committee: International Development Committee
 * Subject: Global Health
 * Meeting date: 27 October 2026
@@ -175,7 +175,7 @@ Return exactly this structure:
 {
   "schema_version": 1,
   "source_id": 18219,
-  "source_sha256": "4571e542344468ec1ffbfd762be27208f2b4ee6b85ab90d18a42af9fe355b37f",
+  "source_sha256": "eeaadd16b71ec7e66daf6eb593a427c7195e64c7ec0d05df5f061e39fd9d9c5d",
   "title": "A concise, engaging title",
   "label": "27 October 2026 · A short picker label",
   "summary": "One paragraph explaining what the hearing covered and its main conclusion.",

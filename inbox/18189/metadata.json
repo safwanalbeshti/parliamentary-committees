@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18189,
+  "activity_id": 39369,
+  "document_id": 309942,
+  "meeting_date": "2026-11-04",
+  "meeting_date_display": "4 November 2026",
+  "publication_date": "2026-11-05T13:01:13",
+  "title": "The Work of the Department for Education",
+  "committee": "Education Committee",
+  "committees": [
+    {
+      "id": 203,
+      "name": "Education Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 8727,
+      "title": "The Work of the Department for Education",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Secretary of State",
+      "organisation": "Department for Education"
+    }
+  ],
+  "speaker_candidates": [
+    "Witness",
+    "Chair",
+    "Lucy Powell",
+    "Caroline Voaden",
+    "Manuela Perteghella",
+    "Sureena Brackenridge",
+    "Darren Paffey",
+    "Mark Sewards",
+    "There is all this investment going in now",
+    "Peter Swallow",
+    "Dr Johnson"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18189/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18189",
+  "source_sha256": "114d79a97ec64e2c9bfbb1275bfd5e07aa6da24040d53af64638e9132919f01d",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

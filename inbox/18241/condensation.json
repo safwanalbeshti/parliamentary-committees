@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "source_id": 18241,
+  "source_sha256": "f139497bea4550bc63a15bd5ddf89707328e37e362c4a5178a16dc8e70a5a9c4",
+  "title": "Lessons from the 2026 bluetongue outbreak: testing, vaccines and preparedness",
+  "label": "3 November 2026 · Biosecurity and animal welfare",
+  "summary": "The Committee questioned farming and veterinary representatives and senior officials about the 2026 bluetongue outbreak. Witnesses described heavy animal welfare and financial harms, delays and bottlenecks in testing and reporting, vaccine supply and communications failures, and wider capacity and resilience gaps. They set out needed actions: better demand forecasting and vaccine planning, quicker, digitised reporting, more laboratory capacity and a permanent surge capability at APHA, and clearer, trusted communications to increase vaccine uptake.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Mr Alistair Carmichael",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Cat McLaughlin",
+      "name": "Cat McLaughlin",
+      "role": "Chief policy adviser, animal health and welfare, National Farmers Union",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Rees",
+      "name": "Dr Gwen Rees",
+      "role": "President, British Veterinary Association",
+      "kind": "witness"
+    },
+    {
+      "label": "Sarah Bool",
+      "name": "Sarah Bool",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Henry Tufnell",
+      "name": "Henry Tufnell",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Charlie Dewhirst",
+      "name": "Charlie Dewhirst",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Helena Dollimore",
+      "name": "Helena Dollimore",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Josh Newbury",
+      "name": "Josh Newbury",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Abigail Seager",
+      "name": "Abigail Seager",
+      "role": "Chief Executive Officer, Veterinary Medicines Directorate",
+      "kind": "witness"
+    },
+    {
+      "label": "Richard Lewis",
+      "name": "Richard Lewis",
+      "role": "Chief Executive Officer, Animal and Plant Health Agency",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Horton",
+      "name": "Professor Dan Horton",
+      "role": "Director of Science, The Pirbright Institute",
+      "kind": "witness"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "bluetongue",
+      "definition": "A viral disease of sheep and cattle spread by midges that can cause sickness, death and fertility problems but rarely affects humans."
+    },
+    {
+      "term": "Shamonda virus",
+      "definition": "A related livestock virus recently found in the Channel Islands and Ireland; still new and not fully understood in the UK context."
+    },
+    {
+      "term": "APHA",
+      "definition": "Animal and Plant Health Agency, the Government agency that handles animal disease control in Great Britain."
+    },
+    {
+      "term": "VMD",
+      "definition": "Veterinary Medicines Directorate, the regulator for veterinary medicines and vaccines in the UK."
+    },
+    {
+      "term": "Pirbright Institute",
+      "definition": "A national reference laboratory and research institute that runs diagnostic testing for several animal diseases."
+    },
+    {
+      "term": "RZ",
+      "definition": "Restriction Zone – an area under specific disease controls once a notifiable disease is detected."
+    },
+    {
+      "term": "SAPO",
+      "definition": "Specified Animal Pathogens Order – a legal listing in the Animal Health Act affecting lab handling and designation of certain viruses."
+    },
+    {
+      "term": "clinical confirmation",
+      "definition": "Confirming a disease based on a vet’s examination of signs and context rather than waiting for a laboratory test."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Immediate impacts on farms and vets",
+      "takeaway": "Bluetongue caused serious animal illness and deaths, financial losses, and heavy emotional strain on farmers and vets.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We’ll start with the recent reports of Shamonda virus and how it relates to bluetongue—any immediate thoughts?"
+        },
+        {
+          "speaker": "Dr Rees",
+          "text": "Shamonda is worrying and new to the UK. It was expected eventually; its detection shows surveillance is working, but there’s a lot we don’t yet know."
+        },
+        {
+          "speaker": "Cat McLaughlin",
+          "text": "Farmers are concerned. Many won’t know about Shamonda, there’s no easy control or treatment, and it’s another thing farmers must manage financially and emotionally."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Cat, broadly, what did bluetongue do to farms this year—financially, for welfare, and for the sector?"
+        },
+        {
+          "speaker": "Cat McLaughlin",
+          "text": "Losses included deaths, reproductive failure, milk and growth drops, extra vet bills and labour, plus delayed impacts on next year’s lambing and calving; emotional stress was severe."
+        },
+        {
+          "speaker": "Dr Rees",
+          "text": "Clinically we saw much sicker animals and higher mortality, especially in southwest sheep. Vets could only offer supportive care—no direct treatments—and fertility impacts are a major worry."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Did changes in the veterinary profession affect response capability on the ground?"
+        },
+        {
+          "speaker": "Dr Rees",
+          "text": "Private vets worked extremely hard and weren’t absent, but the profession’s demographics mean fewer farm-experienced vets than in 2001, so broader preparedness needs work."
+        },
+        {
+          "speaker": "Cat McLaughlin",
+          "text": "Farmers often have preventive relationships with private vets now, which helped, but in areas with fewer vets that can stretch capacity during big outbreaks."
+        }
+      ]
+    },
+    {
+      "title": "Testing, reporting and communications",
+      "takeaway": "Delays and mid-outbreak policy changes slowed identification and undermined confidence; better, digitised reporting and clearer messaging are needed.",
+      "turns": [
+        {
+          "speaker": "Sarah Bool",
+          "text": "Despite #BattleBluetongue and warnings, many farmers didn’t vaccinate early—why didn’t the message stick?"
+        },
+        {
+          "speaker": "Dr Rees",
+          "text": "Communicating uncertain risk is hard. Vaccines cost money, margins are tight, and early on vets had limited efficacy data for the new vaccine—many balanced cost vs uncertain benefit."
+        },
+        {
+          "speaker": "Cat McLaughlin",
+          "text": "Misinformation on social media made things harder. The industry-made bluetongue hub helped, but cost, supply problems and timing still stopped earlier uptake."
+        },
+        {
+          "speaker": "Henry Tufnell",
+          "text": "There were three-week test delays in August. What effect did that have?"
+        },
+        {
+          "speaker": "Dr Rees",
+          "text": "Maps of confirmed cases were two to three weeks out of date, so suspicion and real-time risk weren’t shown. Publishing suspected cases later fixed that and helped local conversations."
+        },
+        {
+          "speaker": "Cat McLaughlin",
+          "text": "Some farmers waited much longer than three weeks for lab results in the southwest. That uncertainty increased stress and complicated decision-making on farms."
+        },
+        {
+          "speaker": "Henry Tufnell",
+          "text": "There was a shift to allow private vets to report clinically rather than waiting for tests. Was that handled well?"
+        },
+        {
+          "speaker": "Dr Rees",
+          "text": "The move made sense in context, but it was communicated with very short notice—about 36 hours—so vets felt unprepared and worried about missing something like foot and mouth."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Different devolved policies paid for testing differently. Does that cause problems?"
+        },
+        {
+          "speaker": "Cat McLaughlin",
+          "text": "Yes—exotic diseases don’t respect borders. England’s farmers paying for official tests while Wales and Scotland supported tests feels inequitable; better cross-border reasoning is needed."
+        }
+      ]
+    },
+    {
+      "title": "Vaccines and supply chains",
+      "takeaway": "Vaccine stock followed demand; limited shelf life, pack sizes and forecasting gaps caused shortages—better forecasting and industry engagement are essential.",
+      "turns": [
+        {
+          "speaker": "Charlie Dewhirst",
+          "text": "Europe used lots of vaccine early this year. How do we avoid a repeat in 2027?"
+        },
+        {
+          "speaker": "Dr Rees",
+          "text": "Manufacturers can’t quickly scale production and won’t hold stock without demand certainty. Getting orders and forecasts earlier—farmers and vets committing—would help."
+        },
+        {
+          "speaker": "Cat McLaughlin",
+          "text": "VMD’s five-year vaccine strategy is welcome. Practical issues matter too: 50–100-dose pack sizes are impractical for smallholders and raise waste concerns."
+        },
+        {
+          "speaker": "Charlie Dewhirst",
+          "text": "Was vaccine resale a real problem?"
+        },
+        {
+          "speaker": "Dr Rees",
+          "text": "Anecdotally yes—Facebook Marketplace saw offers—but vaccines need an unbroken cold chain and can lose potency; vets ran broach days to safely share doses at practices."
+        },
+        {
+          "speaker": "Abigail Seager",
+          "text": "Manufacturers matched supply to demand. Early this year GB demand seemed insufficient so stocks moved to Europe; once demand rose we brought nearly 5 million doses in rapidly and more are due."
+        },
+        {
+          "speaker": "Abigail Seager",
+          "text": "The vaccine products in use had provisional marketing authorisations; that gives safety assurance while manufacturers gather full data, which can limit early detail on some uses."
+        }
+      ]
+    },
+    {
+      "title": "Lab capacity, APHA transformation and future resilience",
+      "takeaway": "Bottlenecks came from form-handling, a small specialist APHA verification team and lab submission surges; fixes include digitisation, more lab designation and permanent surge capacity.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "To the officials: you all worked hard, but where were the system bottlenecks and how do we fix them before next season?"
+        },
+        {
+          "speaker": "Professor Horton",
+          "text": "Pirbright ramped up but faced huge submission volumes. Many sample forms lacked required info, and prioritising pre-movement tests added pressure. We didn’t exceed stated lab PCR capacity but had an early bottleneck."
+        },
+        {
+          "speaker": "Richard Lewis",
+          "text": "APHA’s bottleneck was the small Veterinary Exotic Notifiable Diseases Unit that vets to confirm disease and produce certificates. They were swamped checking paper data across multiple systems."
+        },
+        {
+          "speaker": "Professor Horton",
+          "text": "Adding lab partners is possible but requires biosafety licensing, security checks, strict quality assurance and aligned IT systems. Some private labs considered it but found it not financially viable."
+        },
+        {
+          "speaker": "Richard Lewis",
+          "text": "We must digitise. APHA will test an online system this November to remove paper forms and automate checks. Our Bridge to Better programme aims to create permanent outbreak capability rather than relying on unsustainable surge."
+        },
+        {
+          "speaker": "Josh Newbury",
+          "text": "Could bluetongue ever be eradicated here or will it be recurring?"
+        },
+        {
+          "speaker": "Professor Horton",
+          "text": "In theory vaccines can control it; Europe shows comprehensive vaccination reduces impact. Practically, eradication is hard for a vector-borne disease, so preparing for recurring risk is sensible."
+        },
+        {
+          "speaker": "Richard Lewis",
+          "text": "The priority is surge capacity and speed: digital reporting, a permanent outbreak team and stronger lab networks. Those investments are disease-agnostic and improve resilience to future threats."
+        },
+        {
+          "speaker": "Helena Dollimore",
+          "text": "What about companion-animal emergency cover and practice consolidation—does the Veterinary Surgeons Act reform need to define reasonable travel distances?"
+        },
+        {
+          "speaker": "Dr Rees",
+          "text": "Fixed mileage rules would be hard to apply across remote and urban areas. Reform that regulates businesses and allows justification of cover patterns would be more practical; we can follow up with written detail."
+        },
+        {
+          "speaker": "Josh Newbury",
+          "text": "On concurrent threats—could multiple outbreaks overwhelm you?"
+        },
+        {
+          "speaker": "Richard Lewis",
+          "text": "We already handle multiple threats; Bridge to Better is explicitly designed to cope with several simultaneous incidents and to move beyond short-term surge."
+        },
+        {
+          "speaker": "Professor Horton",
+          "text": "Climate change increases vector-borne risks by speeding up virus replication in insects and expanding insect ranges. We must sustain science capacity and international surveillance to spot threats early."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you all. Your evidence highlights practical fixes—forecasted vaccine demand, digitised reporting, more lab partners, and a permanent scalable APHA response—plus better trusted communications to raise early vaccine uptake."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18241,
+  "activity_id": 39335,
+  "document_id": 309949,
+  "meeting_date": "2026-11-03",
+  "meeting_date_display": "3 November 2026",
+  "publication_date": "2026-11-05T13:27:57",
+  "title": "Biosecurity and animal welfare",
+  "committee": "Environment, Food and Rural Affairs Committee",
+  "committees": [
+    {
+      "id": 52,
+      "name": "Environment, Food and Rural Affairs Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 8790,
+      "title": "Biosecurity and animal welfare",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Director of Science",
+      "organisation": "The Pirbright Institute"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chief Executive Officer",
+      "organisation": "Veterinary Medicines Directorate"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chief Executive Officer",
+      "organisation": "Animal and Plant Health Agency"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Cat McLaughlin",
+    "Dr Rees",
+    "Sarah Bool",
+    "Henry Tufnell",
+    "Charlie Dewhirst",
+    "Helena Dollimore",
+    "Abigail Seager",
+    "Richard Lewis",
+    "Professor Horton",
+    "Sarah Dyke",
+    "Josh Newbury"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18241/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18241",
+  "source_sha256": "f139497bea4550bc63a15bd5ddf89707328e37e362c4a5178a16dc8e70a5a9c4",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

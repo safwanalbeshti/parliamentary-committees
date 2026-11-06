@@ -1,0 +1,380 @@
+{
+  "schema_version": 1,
+  "source_id": 18189,
+  "source_sha256": "114d79a97ec64e2c9bfbb1275bfd5e07aa6da24040d53af64638e9132919f01d",
+  "title": "Priorities, SEND reform and skills: Lucy Powell’s first appearance as Education Secretary",
+  "label": "4 November 2026 · Department for Education hearing",
+  "summary": "The new Education Secretary, Lucy Powell, set out her priorities—making technical study equal to academic, reforming SEND, addressing teacher workload and recruitment, and rethinking assessment and the curriculum for an AI era. MPs pressed her on delayed departmental accounts, vocational GCSEs and capital needs, devolution of 16–19 funding, further education finance and VAT, university finances and international students, student loan fairness, alternative provision, appeal rights in SEND changes, Ofsted’s ‘secure fit’ approach and teacher wellbeing. Powell stressed wide consultations, substantial funded investments (capital and workforce), careful timing for legislation and the need to rebuild trust with schools and parents.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Helen Hayes",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Rt Hon Lucy Powell MP",
+      "name": "Lucy Powell",
+      "role": "Secretary of State for Education, Department for Education",
+      "kind": "witness"
+    },
+    {
+      "label": "Caroline Voaden",
+      "name": "Caroline Voaden",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Manuela Perteghella",
+      "name": "Manuela Perteghella",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Sureena Brackenridge",
+      "name": "Sureena Brackenridge",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Darren Paffey",
+      "name": "Darren Paffey",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Mark Sewards",
+      "name": "Mark Sewards",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Peter Swallow",
+      "name": "Peter Swallow",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Dr Caroline Johnson",
+      "name": "Dr Caroline Johnson",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Ofsted",
+      "definition": "The government body that inspects schools and reports on their quality."
+    },
+    {
+      "term": "SEND",
+      "definition": "Special educational needs and disabilities, meaning extra support for some pupils."
+    },
+    {
+      "term": "EHCP",
+      "definition": "Education, Health and Care plan — a statutory plan setting out a child’s assessed needs and support."
+    },
+    {
+      "term": "T-levels",
+      "definition": "A two-year technical qualification for 16–19-year-olds, intended as an alternative to A-levels."
+    },
+    {
+      "term": "Ofqual",
+      "definition": "The regulator that sets rules and standards for qualifications and examinations."
+    },
+    {
+      "term": "NEET",
+      "definition": "A young person Not in Education, Employment or Training."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Opening priorities and delayed accounts",
+      "takeaway": "Powell sets out her priorities—skills for the future, SEND reform and vocational routes—and says the Department’s delayed annual accounts will be published imminently.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Welcome. As it’s your first appearance, would you like to make a short opening statement?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "I’m pleased to be Education Secretary. My priorities are preparing young people for a fast-changing world, expanding technical routes, improving SEND and supporting early years. I’ll work closely with this Committee."
+        },
+        {
+          "speaker": "Chair",
+          "text": "The Department’s annual report due in July still isn’t published. Why the delay and when will it appear?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "They relate to the previous period and are delayed by audit queries with the NAO. I’ve been told they’ll be published very soon and there’s nothing to be alarmed about."
+        }
+      ]
+    },
+    {
+      "title": "Vocational education and practical delivery",
+      "takeaway": "The Government will introduce vocational GCSEs and link them to post-16 routes, but delivering practical courses needs capital investment, teacher recruitment and college partnerships.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "You’ve announced a technical pathway for post-14. How will this succeed where past efforts didn’t?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "Success is quality plus desirability—clear routes from 14 through 16 and beyond. We’ll introduce vocational GCSEs under Ofqual oversight, tie them to post-16 courses like V-levels and boost practical assessment and teacher support."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Should success be measured by more pupils taking these subjects, or better quality for the pupils who already choose vocational routes?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "Both: better outcomes and being an attractive option. We may see fewer tech-award entries as weak BTECs are replaced by higher-quality GCSEs; that’s fine if outcomes improve."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Construction GCSEs need workshops and space. How will schools afford capital and specialist staff? Will FE colleges educate 14-year-olds?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "Some schools already run on-site hubs. We’ll encourage partnerships with FE colleges and mayors and fund teacher recruitment—especially in design & technology—and support day-release models with colleges."
+        },
+        {
+          "speaker": "Chair",
+          "text": "How will you prevent AI from undermining assessments in vocational qualifications?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "AI is a big issue. Ofqual and I agree that awarding must retain human judgment; we’ll increase practical assessment and rigorous teacher assessment so qualifications remain credible."
+        }
+      ]
+    },
+    {
+      "title": "Devolution and further education funding",
+      "takeaway": "Powell supports devolution of 16–19 funding to mayoral authorities but says protections, national expectations and accountability are being designed to prevent postcode lotteries; FE funding pressures remain a concern.",
+      "turns": [
+        {
+          "speaker": "Caroline Voaden",
+          "text": "You plan to devolve 16–19 funding to mayoral strategic authorities, but many areas have no mayor. How do you avoid a postcode lottery?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "We’ll set national expectations, qualifications and outcomes alongside devolution. Trailblazer areas will go first; elsewhere we’ll support local influence until structures are ready so there isn’t a drop in access."
+        },
+        {
+          "speaker": "Caroline Voaden",
+          "text": "Will there be a national accountability mechanism if mayoral authorities fall short?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "Yes. A White Paper on devolution and accountability is coming. We are designing clear lines of accountability for areas and for providers."
+        },
+        {
+          "speaker": "Caroline Voaden",
+          "text": "FE colleges are underfunded and face pay and recruitment problems. Will funding rise?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "Milburn’s review, due soon, looks at international comparisons and funding. We’re considering funding and measures, and working with colleges on barriers such as the resit cycle in maths and English."
+        },
+        {
+          "speaker": "Chair",
+          "text": "On VAT, colleges face disadvantages versus schools. What representations are you making to the Treasury?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "VAT is a Treasury matter; I make my case strongly in regular talks. I continue to press them on the unfairness colleges raise."
+        }
+      ]
+    },
+    {
+      "title": "Universities, international students and student loans",
+      "takeaway": "University finances are mixed; the department is working to boost international students and maintain tuition alignment with inflation. Powell recognises Plan 2 loan issues but cites fiscal limits on changes.",
+      "turns": [
+        {
+          "speaker": "Manuela Perteghella",
+          "text": "Universities are closing courses and making redundancies. Are you happy with how they’re managing financially?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "Universities are autonomous and the picture is uneven. Declines in international students have hit some. We’re helping with visa rules and extended graduate visas and working to keep fees in line with costs."
+        },
+        {
+          "speaker": "Manuela Perteghella",
+          "text": "Should the Home Office be a co-owner of the international education strategy?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "We already work closely with the Home Office. We need to ensure confidence in the student visa route and curb low-quality franchising that risks undermining the system."
+        },
+        {
+          "speaker": "Dr Caroline Johnson",
+          "text": "You said plan 2 student loans are a top in-tray issue, but the Budget did nothing for graduates. Are you disappointed?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "I care strongly about plan 2 fairness. Changes cost money and affect the Government’s debt position because the loan book is part of public finances. The Budget prioritised within tight fiscal limits."
+        },
+        {
+          "speaker": "Dr Caroline Johnson",
+          "text": "Reports suggest cheaper fees for some EU students. Is that the right priority ahead of graduate help?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "There’s no agreement yet. We’re negotiating a package with the EU, including Erasmus participation, and will assess overall effects on domestic students and finances before deciding."
+        }
+      ]
+    },
+    {
+      "title": "SEND reforms, appeals and alternative provision",
+      "takeaway": "Powell defended taking time to finalise SEND legislation, promised publication of the Bill early next year alongside policy responses, inclusion standards and specialist provision packages, and described major funded measures to expand specialist places and early support.",
+      "turns": [
+        {
+          "speaker": "Sureena Brackenridge",
+          "text": "You’ve said SEND reform needs more recognition of context and to rebuild trust. What changes to Ofsted do you want?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "I want Ofsted to balance consistent standards with inspectors’ professional judgment and to recognise context—schools with high SEND or disadvantage shouldn’t be penalised by data alone."
+        },
+        {
+          "speaker": "Sureena Brackenridge",
+          "text": "Will you address the ‘secure fit’ grading that looks overly data-driven?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "Yes. ‘Secure fit’ and how data limits judgments are part of the review. We’ll propose a package that restores trust and professional judgment."
+        },
+        {
+          "speaker": "Sureena Brackenridge",
+          "text": "When will the SEND Bill be published? Some reports say it’s delayed."
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "We’re taking time to get this right. We expect to publish the Bill early next year and will publish, with it, a full policy response, national inclusion standards and specialist provision packages."
+        },
+        {
+          "speaker": "Mark Sewards",
+          "text": "Parents worry about appeals if they disagree with an individual support plan (ISP). Will there be a right of appeal or will disputes head straight to court?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "We’re working through the right balance. The reforms aim to give clearer local specialist packages and better early help so fewer families need appeals. We will set out recourse in the Bill and accompanying materials."
+        },
+        {
+          "speaker": "Manuela Perteghella",
+          "text": "Removing tribunals’ power to name a specific placement worries parents. Why remove that power?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "Tribunals sometimes order placements where no vacancy exists. We want local SEND plans and specialist packages to make suitable places available so decisions are based on realistic, local provision."
+        },
+        {
+          "speaker": "Mark Sewards",
+          "text": "Will parents still be able to challenge an inappropriate placement?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "We’ll publish the packages and standards so expectations are clear and will set out dispute routes. We’re aiming to reduce adversarial processes but also provide accountability; details will be in the forthcoming documents."
+        },
+        {
+          "speaker": "Peter Swallow",
+          "text": "Alternative provision (AP) outcomes at key stage 4 are poor. How will reforms reduce long-term AP placements and NEET risk?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "AP should be short-term or outreach. The SEND reforms, earlier help, inclusion in schools and better curriculum pathways should reduce long-term AP reliance and improve post-16 chances."
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "On funding, we’ve committed substantial sums: £1.4bn for experts in schools, £3.7bn capital for 60,000 specialist places, and workforce investment; we’re supporting local authorities on deficits tied to SEND plans."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Will the Department aim for financial sustainability so local authorities don’t keep accumulating SEND deficits?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "Yes. The reforms are designed to create a sustainable system across education and health. We’ll continue the approach we’ve begun to address deficits while reforming provision."
+        }
+      ]
+    },
+    {
+      "title": "Workforce, wellbeing, assessment and other pressures",
+      "takeaway": "Powell acknowledged teacher burnout, highlighted improving recruitment and retention data, pledged reforms to Ofsted, curriculum and assessment for AI-era skills, and said the Department is reviewing school estates amid falling birth rates.",
+      "turns": [
+        {
+          "speaker": "Caroline Voaden",
+          "text": "Three quarters of teachers report burnout and many plan to leave. What’s being done to improve recruitment, retention and wellbeing?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "Recruitment is exceeding some targets and the latest leaver rate is lower than pre-pandemic. We’re tackling workload via curriculum reform, Ofsted changes, incentives for heads and support for schools with high needs."
+        },
+        {
+          "speaker": "Caroline Voaden",
+          "text": "Will place-based missions (Mission North East, Mission Coastal) tackle teacher and head recruitment in deprived and coastal areas?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "Yes. They’ll use local action plans and incentives, including a headteacher incentive scheme, to tackle recruitment barriers; they’ll draw on lessons from the London Challenge, though not at the same scale."
+        },
+        {
+          "speaker": "Mark Sewards",
+          "text": "Primary rolls are falling. Will the Department publish an education estates strategy to repurpose space?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "We will publish a framework on estates planning. Falling rolls open opportunities for nurseries, family hubs or SEND space in primaries; we’re asking officials to produce a strategic plan."
+        },
+        {
+          "speaker": "Peter Swallow",
+          "text": "PISA shows mixed results and concerns about skills in an AI age. How will schools prepare pupils for AI and media literacy?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "Our curriculum review emphasises digital, media and oracy skills; we’ll include those themes in new qualifications and assessments and take part in OECD’s proposed AI/media literacy measures."
+        },
+        {
+          "speaker": "Sureena Brackenridge",
+          "text": "You expanded free school meals, but holiday hunger remains. Will all children on free school meals be eligible for the HAF holiday clubs?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "Expanding free school meals was a major budget move. Passporting HAF to all newly eligible families would be costly; we keep it under review but can’t commit to full passporting now."
+        },
+        {
+          "speaker": "Dr Caroline Johnson",
+          "text": "You said you reduced curriculum content. Isn’t that lowering aspiration?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "No. The aim is less overcrowding so teachers can teach topics in depth, raising understanding and allowing time for reading and core skills—higher quality, not dumbing down."
+        },
+        {
+          "speaker": "Caroline Voaden",
+          "text": "Cuts were made to adoption support funding. Will you review and restore funding so adopted children get continuous support?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "The Government have committed £55m and a 10% increase to the fund, plus new adoption pots. I’ll keep these under review and continue supporting adoptive families."
+        },
+        {
+          "speaker": "Darren Paffey",
+          "text": "We need a stronger workforce strategy for social care roles around children in care. Will you develop that further?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "Yes. Josh MacAlister is prioritising this—vacancies and agency use are down and recruitment is improving. We’re expanding foster places and professional development for social workers."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. We’ll look closely at the SEND standards and the Bill when published. Any final comment?"
+        },
+        {
+          "speaker": "Rt Hon Lucy Powell MP",
+          "text": "We’re reshaping routes, inclusion and assessment for today’s world. I want to rebuild trust with schools and parents, and I welcome the Committee’s scrutiny as we publish the detailed plans."
+        }
+      ]
+    }
+  ]
+}

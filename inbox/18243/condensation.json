@@ -1,0 +1,328 @@
+{
+  "schema_version": 1,
+  "source_id": 18243,
+  "source_sha256": "a36215d5918fd4fa8e5c8bcece89c0c781a957baa7aec1715e2e3359e0a1d640",
+  "title": "Preparing for Dunkelflaute: Balancing renewables, storage, gas and the grid",
+  "label": "3 November 2026 · Dunkelflaute and electricity security",
+  "summary": "Ministers from the Department for Energy Security and Net Zero explained how government and system operators view “Dunkelflaute” — periods of very low wind and solar — and outlined policies to keep the lights on while expanding clean power. They said there is no single scientific definition of Dunkelflaute, described six alternative national energy pathways under consideration, and set out work on capacity markets, long‑duration storage, hydrogen, biomethane, carbon capture, and the urgent need to upgrade the transmission grid. They stressed trade-offs between speed, cost and security, and promised more detail next year on the strategic plan, hydrogen strategy and gas‑security assessments.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Baroness Sheehan",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Michael Shanks",
+      "name": "Michael Shanks",
+      "role": "Minister for Energy, Department for Energy Security and Net Zero",
+      "kind": "witness"
+    },
+    {
+      "label": "Bill Jones",
+      "name": "Bill Jones",
+      "role": "Deputy Director for Future Electricity Security, Department for Energy Security and Net Zero",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Krebs",
+      "name": "Lord Krebs",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Redwood",
+      "name": "Lord Redwood",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Whitaker",
+      "name": "Baroness Whitaker",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Rafferty",
+      "name": "Baroness Rafferty",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Lennie",
+      "name": "Lord Lennie",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Ashcombe",
+      "name": "Lord Ashcombe",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Trees",
+      "name": "Lord Trees",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Rooker",
+      "name": "Lord Rooker",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Jay of Ewelme",
+      "name": "Lord Jay of Ewelme",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Earl Russell",
+      "name": "Earl Russell",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Coffey",
+      "name": "Baroness Coffey",
+      "role": "Member of the committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Dunkelflaute",
+      "definition": "A weather period with very low wind and solar generation, often in winter, that reduces renewable electricity output."
+    },
+    {
+      "term": "NESO",
+      "definition": "National Energy System Operator, the body that plans and operates the electricity system for Great Britain."
+    },
+    {
+      "term": "Ofgem",
+      "definition": "The UK energy regulator that oversees markets and network costs."
+    },
+    {
+      "term": "Capacity Market",
+      "definition": "A government scheme that pays providers to be available to supply or reduce demand at times of system stress."
+    },
+    {
+      "term": "Contracts for Difference (CfD)",
+      "definition": "A support scheme that guarantees low‑carbon generators a stable price for electricity, giving investment certainty."
+    },
+    {
+      "term": "Long‑duration energy storage (LDES)",
+      "definition": "Technologies that can store and discharge electricity for many hours to days, used to cover long low‑renewable periods."
+    },
+    {
+      "term": "Strategic Spatial Energy Plan (SSEP)",
+      "definition": "The government's plan, informed by NESO, setting possible national pathways for where and how to deploy energy infrastructure."
+    },
+    {
+      "term": "Cap and floor scheme",
+      "definition": "Ofgem’s regulatory model used to support large electricity transmission projects, partly limiting investor returns."
+    },
+    {
+      "term": "CCUS",
+      "definition": "Carbon capture, utilisation and storage: technology that captures CO2 from power or industry to store it underground."
+    },
+    {
+      "term": "DCO",
+      "definition": "Development Consent Order: planning consent for nationally significant infrastructure projects such as major transmission links."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What is Dunkelflaute and how risky is it?",
+      "takeaway": "Ministers accept Dunkelflaute means extended low wind and solar and is a genuine planning issue, but say there's no single agreed definition and the system already plans for such stresses.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "You said the capacity market will meet demand during a Dunkelflaute. How are you defining a Dunkelflaute period?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "We characterise it as a period of low wind and low sun, often in winter with higher demand, but there isn't one universally accepted definition."
+        },
+        {
+          "speaker": "Chair",
+          "text": "If the Met Office says three weeks at 20% wind is a one‑in‑40‑year event, can our system cope?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "The system is designed with redundancies to handle strains. NESO and operators plan for many weather and outage scenarios; Dunkelflaute is one of them."
+        },
+        {
+          "speaker": "Bill Jones",
+          "text": "NESO already includes Dunkelflaute in its planning. It’s an ongoing challenge, becoming more relevant as renewables grow, but not new to the system."
+        }
+      ]
+    },
+    {
+      "title": "The Strategic Spatial Energy Plan and timing",
+      "takeaway": "Government has six NESO pathways and will publish its chosen pathway and environmental assessments early next year, with a final decision by end of 2027.",
+      "turns": [
+        {
+          "speaker": "Lord Krebs",
+          "text": "Ofgem and NESO couldn't say which technologies the plan will favour. Can you explain the strategic spatial energy plan (SSEP) and timing?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "NESO gave us six pathways with costs and land‑use impacts. The Secretary of State will announce a preferred pathway in the first quarter of next year and a final decision by late 2027."
+        },
+        {
+          "speaker": "Lord Krebs",
+          "text": "Will the plan favour proven technologies first, since it's updated every three years?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "The first plan will favour deployable, lower‑cost options to protect affordability, but won't shut out emerging tech; it's a broad design to guide grid investment."
+        },
+        {
+          "speaker": "Lord Krebs",
+          "text": "When will investors get enough clarity to commit to new factories and supply chains?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "The plan gives line‑of‑sight: industry will see the chosen pathway early next year and the alternatives in the environmental appraisal, which supports investment decisions."
+        }
+      ]
+    },
+    {
+      "title": "Capacity market, auctions and storage",
+      "takeaway": "The Capacity Market is technology‑neutral and prioritises availability; government is considering reforms to better value long and ultra‑long storage, but changes need evidence and time.",
+      "turns": [
+        {
+          "speaker": "Baroness Whitaker",
+          "text": "Does the Capacity Market reform plan to reward ultra‑long‑duration storage and low‑carbon dispatchable power?"
+        },
+        {
+          "speaker": "Bill Jones",
+          "text": "The Capacity Market buys availability for security of supply; it's technology neutral. It wasn't meant to pick winners—other mechanisms bring new tech forward."
+        },
+        {
+          "speaker": "Baroness Whitaker",
+          "text": "So new tech needs separate support before joining the Capacity Market?"
+        },
+        {
+          "speaker": "Bill Jones",
+          "text": "Yes—CfDs, bespoke business models, R&D funding. We're actively thinking about reforms to value long‑duration characteristics, but changes need industry evidence. Proposals are planned next year."
+        },
+        {
+          "speaker": "Baroness Rafferty",
+          "text": "Are auctions the best way to secure capacity?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "Auctions give price competition and investor certainty. We run auctions four years and one year ahead; rules are kept under review to reflect new technologies."
+        },
+        {
+          "speaker": "Chair",
+          "text": "The Renewables Investors Group says storage longer than 9.5 hours gets little extra credit. Will you change that?"
+        },
+        {
+          "speaker": "Bill Jones",
+          "text": "We are reviewing de‑rating factors and valuation of longer duration. But ultra‑long technologies aren't yet operating at scale, so it's premature to finalise changes now."
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "Ofgem's cap and floor has delivered ~7GW of long‑duration projects; there will be a second window. UKRI has £28m for ultra‑long‑duration storage R&D to help build evidence."
+        }
+      ]
+    },
+    {
+      "title": "Gas, hydrogen, biomethane and CCUS: transition and costs",
+      "takeaway": "Gas will remain a strategic, dispatchable back‑up for years. Government is exploring options—refurbishment, CCUS, strategic reserve—and will publish further gas‑security work next year.",
+      "turns": [
+        {
+          "speaker": "Lord Rooker",
+          "text": "Ofgem/NESO say unabated gas will back us until low‑carbon alternatives arrive—do you have a plan to displace unabated gas, and by when?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "Gas remains important for decades. We want to reduce its role, add CCUS where feasible, expand storage and other dispatchable options—but we can't give a one‑line switch‑off date."
+        },
+        {
+          "speaker": "Lord Jay of Ewelme",
+          "text": "What about the cost of extending gas plants' lives and the effect on bills compared with alternatives?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "Refurbishment can be cheaper than new build, but gas plants also have capital costs. Overall, systems with more renewables, nuclear and storage are cheaper long term than a gas‑dependent system."
+        },
+        {
+          "speaker": "Bill Jones",
+          "text": "Gas capacity sits at ~35GW but runs fewer hours now; that reduces revenue and complicates investability. The Capacity Market helps, but decisions on new build versus refurb are complex."
+        },
+        {
+          "speaker": "Lord Ashcombe",
+          "text": "What about hydrogen storage, CCUS, and using excess wind to make hydrogen?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "We back hydrogen and CCUS pilots like Net Zero Teesside. The hydrogen strategy is imminent; we're pragmatic about realistic deployment rather than headline targets. Offshore storage is likely."
+        },
+        {
+          "speaker": "Baroness Rafferty",
+          "text": "And biomethane—will it scale?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "Biomethane helps use waste and injects into the gas grid, but it's finite and small scale. Green Gas Support will add plants but expectations should be realistic."
+        },
+        {
+          "speaker": "Baroness Coffey",
+          "text": "The UK has very little gas storage compared with EU states. Will you commit to a strategic storage decision soon?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "We issued an interim response and will publish a fuller assessment; strategic storage is an option but costs billions and we must weigh resilience versus price for consumers."
+        }
+      ]
+    },
+    {
+      "title": "The transmission grid and investment trade‑offs",
+      "takeaway": "Ministers say decades of underinvestment left the grid constrained; connections reform cleared queues but major network upgrades, like Sea Link, are urgent and costly, with trade‑offs for bills.",
+      "turns": [
+        {
+          "speaker": "Lord Redwood",
+          "text": "You hinted at an excess of wind in Scotland and grid blockage. How will you unblock connections and what will it cost?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "The grid is resilient but underinvested. We've reformed connections, clearing 300GW of a 700GW queue, and must upgrade transmission—it's expensive but cheaper than curtailing renewables and running gas."
+        },
+        {
+          "speaker": "Lord Ashcombe",
+          "text": "How long before major links and synchronous equipment arrive so spilled wind can be used?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "Projects like Sea Link have got DCO approval now. Building major transmission takes years; we must invest now to avoid even greater costs later from constraints."
+        },
+        {
+          "speaker": "Earl Russell",
+          "text": "How will government help the UK build supply chains so turbines and turbines' parts aren't delayed by global demand?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "We're mapping supply chains and seeking to onshore more manufacturing to reduce reliance on global bottlenecks and improve security of delivery."
+        },
+        {
+          "speaker": "Chair",
+          "text": "To finish, do you accept the scale of the challenge and will you give clarity next year?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "Yes. The challenge is large but manageable. We'll publish the SSEP pathway next year, a hydrogen strategy soon, and further gas‑security work in due course."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you both for clear, candid answers. That concludes our public session."
+        }
+      ]
+    }
+  ]
+}

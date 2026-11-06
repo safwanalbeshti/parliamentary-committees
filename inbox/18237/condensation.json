@@ -1,0 +1,252 @@
+{
+  "schema_version": 1,
+  "source_id": 18237,
+  "source_sha256": "fef8c9fe0d4e23c55a739df6f5e3870d391ab008d6847b1cc06543933b216187",
+  "title": "Public inquiries: what they reveal and how to make them work",
+  "label": "4 November 2026 · Constitutional safeguards",
+  "summary": "Two former inquiry chairs, Sir Brian Langstaff and Sir John Saunders, told the committee that public inquiries are essential to democratic accountability but have weak points: who decides to hold them, how they are run (too adversarial or too slow), and how recommendations are followed through. They discussed differences between inquiries, concerns about trust when officials mislead or records go missing, delays in compensation, and proposed practical changes — clearer controls on calling inquiries, better follow-up on recommendations, faster action on risks, safer organisational cultures, and better public engagement.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Strathclyde",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Sir Brian Langstaff",
+      "name": "Sir Brian Langstaff",
+      "role": "Former senior judge; chair, Infected Blood Inquiry",
+      "kind": "witness"
+    },
+    {
+      "label": "Sir John Saunders",
+      "name": "Sir John Saunders",
+      "role": "Former senior judge; chair, Manchester Arena Inquiry",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Bichard",
+      "name": "Lord Bichard",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Laing of Elderslie",
+      "name": "Baroness Laing of Elderslie",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Hamwee",
+      "name": "Baroness Hamwee",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Burnett of Maldon",
+      "name": "Lord Burnett of Maldon",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Waldegrave of North Hill",
+      "name": "Lord Waldegrave of North Hill",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Griffiths of Burry Port",
+      "name": "Lord Griffiths of Burry Port",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Jones of Penybont",
+      "name": "Lord Jones of Penybont",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "public interest immunity",
+      "definition": "A legal claim by the government to withhold evidence from a public hearing for national security or similar reasons."
+    },
+    {
+      "term": "coroner",
+      "definition": "A judicial officer who investigates violent or unexplained deaths and can hold inquests."
+    },
+    {
+      "term": "Inquiries Act",
+      "definition": "The 2005 law that sets out how public inquiries in the UK are established and run."
+    },
+    {
+      "term": "Article 2",
+      "definition": "The right to life in the European Convention on Human Rights, which can require effective investigations of deaths."
+    },
+    {
+      "term": "DHSC",
+      "definition": "Department of Health and Social Care, the UK government department responsible for health policy."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Why inquiries matter",
+      "takeaway": "Public inquiries are important tools of democratic accountability but they work only if their findings are acted on.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Do public inquiries play a substantial constitutional role in a democracy?"
+        },
+        {
+          "speaker": "Sir Brian Langstaff",
+          "text": "Yes. Parliament holds the Government to account, but it can't investigate everything in detail. Inquiries answer big public questions and show whether the Executive failed, which is vital for public trust."
+        },
+        {
+          "speaker": "Sir John Saunders",
+          "text": "I agree. My inquiry began as a coroner's inquest and because the Government wanted to withhold evidence under public interest immunity, a public inquiry became necessary to allow families and the public to see the truth."
+        }
+      ]
+    },
+    {
+      "title": "Who decides whether an inquiry happens?",
+      "takeaway": "Currently Ministers decide to set up inquiries, which can create a political tension over when and whether one is held.",
+      "turns": [
+        {
+          "speaker": "Sir John Saunders",
+          "text": "The Home Secretary has the power to order inquiries, and that can matter. In one case the Home Secretary initially refused a public inquiry; the courts pushed the issue back and a public inquiry followed."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Should that decision sit with the Home Secretary or elsewhere?"
+        },
+        {
+          "speaker": "Sir John Saunders",
+          "text": "I wondered whether a coroner could decide, subject to judicial review. But there's a democratic argument: Ministers are accountable to Parliament, so that matters."
+        },
+        {
+          "speaker": "Sir Brian Langstaff",
+          "text": "I recommended a parliamentary-controlled system to decide when public concern justifies an inquiry. Leaving the decision solely to the minister whose department is involved risks conflicts of interest."
+        },
+        {
+          "speaker": "Lord Jones of Penybont",
+          "text": "Is there any non-political mechanism to take that choice out of ministers' hands?"
+        },
+        {
+          "speaker": "Sir John Saunders",
+          "text": "Not easily; democratic pressures—Parliament, the Opposition, and public demand—are the usual checks. The process should remain accountable to Parliament."
+        }
+      ]
+    },
+    {
+      "title": "How inquiries are run: scope, style and evidence",
+      "takeaway": "Inquiries vary; scope must be set carefully and the adversarial, lawyer-led style can slow or distort inquiry work.",
+      "turns": [
+        {
+          "speaker": "Baroness Hamwee",
+          "text": "Should the Government give reasons for accepting or rejecting recommendations and should chairs stay involved to track progress?"
+        },
+        {
+          "speaker": "Sir John Saunders",
+          "text": "Yes on follow-up. Also, set the inquiry's scope sharply up front. We're too adversarial: long, repetitive questioning and many lawyers make inquiries slow and hostile."
+        },
+        {
+          "speaker": "Sir Brian Langstaff",
+          "text": "In my inquiry we used counsel to the inquiry to ask most questions, which helped control repetition and preserve collaboration. But different inquiries need different styles."
+        },
+        {
+          "speaker": "Lord Burnett of Maldon",
+          "text": "Do inquiries risk becoming 'hunting grounds' that force witnesses to be defensive?"
+        },
+        {
+          "speaker": "Sir John Saunders",
+          "text": "Absolutely. Lawyers naturally close off escape routes with long questioning. As chair you can cut through, but the adversarial approach can make people defensive and slow things down."
+        },
+        {
+          "speaker": "Sir Brian Langstaff",
+          "text": "Some inquiries uncover wrongdoing and that will harm trust, but thorough public investigation can restore trust if it leads to effective change."
+        }
+      ]
+    },
+    {
+      "title": "The implementation gap: recommendations and compensation",
+      "takeaway": "Inquiries often end with accepted recommendations, but implementation is patchy and slow, which damages trust, especially for victims awaiting compensation.",
+      "turns": [
+        {
+          "speaker": "Lord Bichard",
+          "text": "Did you find things so bad they threatened constitutional democracy?"
+        },
+        {
+          "speaker": "Sir Brian Langstaff",
+          "text": "Yes. In the Infected Blood case people were misled, documents went missing or were destroyed, and official lines were repeated without proper foundation. That undermines trust."
+        },
+        {
+          "speaker": "Baroness Laing of Elderslie",
+          "text": "Why were your recommendations accepted but compensation delayed?"
+        },
+        {
+          "speaker": "Sir Brian Langstaff",
+          "text": "It was a mix of practical and political delay. Setting up the compensation body and staffing it takes time, and priorities were set that pushed some payments far down the list. That slow start mattered because many claimants are terminally ill."
+        },
+        {
+          "speaker": "Sir John Saunders",
+          "text": "I addressed implementation by holding a follow-up hearing a few months after my interim report to ask, 'Have you started?' That prompted activity, but the Home Office resisted that approach."
+        },
+        {
+          "speaker": "Baroness Hamwee",
+          "text": "So should there be a standard follow-up mechanism in the law?"
+        },
+        {
+          "speaker": "Sir Brian Langstaff",
+          "text": "Yes. The Inquiries Act lacks a formal follow-up. I recommended Parliament should control a system to respond to public concern and track implementation of recommendations."
+        }
+      ]
+    },
+    {
+      "title": "Restoring trust: safety culture, risk and communication",
+      "takeaway": "To prevent repeat failures, public bodies must adopt a stronger safety culture, respond quickly to risks, involve affected people, and communicate clearly.",
+      "turns": [
+        {
+          "speaker": "Lord Waldegrave of North Hill",
+          "text": "How can we make accountability work day-to-day, and handle the gap between Ministers and technical experts?"
+        },
+        {
+          "speaker": "Sir Brian Langstaff",
+          "text": "We need a better approach to risk and patient safety. Where risk exists, act early rather than waiting for certainty. Managers must be accountable for how they respond to concerns."
+        },
+        {
+          "speaker": "Sir Brian Langstaff",
+          "text": "Create a culture like aviation: everyone responsible for safety, with whistleblower protections and plural expert advice rather than deferring to one 'white coat'."
+        },
+        {
+          "speaker": "Lord Griffiths of Burry Port",
+          "text": "What about communicating the inquiry's work to the public so they understand why it takes time?"
+        },
+        {
+          "speaker": "Sir John Saunders",
+          "text": "Keep communication open with victims and the public while preserving the inquiry's impartiality. The press can help hold authorities to account, but they can also misrepresent if they lack detail."
+        },
+        {
+          "speaker": "Sir Brian Langstaff",
+          "text": "We ran an engagement team that met hundreds of affected people across the UK; keeping those most interested informed helps broader public understanding and builds trust."
+        },
+        {
+          "speaker": "Lord Jones of Penybont",
+          "text": "To finish: is there any realistic way to remove the political element in starting inquiries?"
+        },
+        {
+          "speaker": "Sir Brian Langstaff",
+          "text": "Parliament must remain sovereign, but the mechanism for initiating inquiries should include parliamentary oversight so decisions are not left solely to the department involved."
+        },
+        {
+          "speaker": "Sir John Saunders",
+          "text": "There's no perfect depoliticised route. The democratic process, pressure from Parliament, victims and the public is the practical check. We should focus on improving that process and follow-up."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you both. We've heard practical suggestions: clearer decision rules, sharper scopes, less adversarial hearings when possible, compulsory follow-up, quicker action on risk, and better engagement with victims and the public."
+        }
+      ]
+    }
+  ]
+}

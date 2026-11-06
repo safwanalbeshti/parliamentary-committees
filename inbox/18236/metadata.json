@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18236,
+  "activity_id": 39296,
+  "document_id": 309927,
+  "meeting_date": "2026-11-04",
+  "meeting_date_display": "4 November 2026",
+  "publication_date": "2026-11-05T11:33:24",
+  "title": "Equalities impacts of proposed reforms to routes to settlement",
+  "committee": "Women and Equalities Committee",
+  "committees": [
+    {
+      "id": 328,
+      "name": "Women and Equalities Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10067,
+      "title": "Equalities impacts of proposed reforms to routes to settlement",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Head of Policy, Campaigns and Research",
+      "organisation": "Southall Black Sisters"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Head of Policy and Change",
+      "organisation": "Coram Children’s Legal Centre"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director of Policy and Advocacy",
+      "organisation": "Immigration Law Practitioners' Association"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chair",
+      "organisation": "Immigration Lawyers Practitioners Association (ILPA)"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Dr Siddiqui",
+    "Kevin McKenna",
+    "Anita Hurrell",
+    "Andrea Als",
+    "Sabrina Galella",
+    "Dame Nia Griffith",
+    "Richard Quigley",
+    "Alex Brewer",
+    "Nadia Whittome",
+    "That creates two routes for victims of domestic abuse"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18236/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18236",
+  "source_sha256": "c2cc6f40831a9439b7a2d4270a67a55b6eb77e3188ca2f58e96b8f74fd83f6a7",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

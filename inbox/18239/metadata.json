@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18239,
+  "activity_id": 38964,
+  "document_id": 309943,
+  "meeting_date": "2026-10-27",
+  "meeting_date_display": "27 October 2026",
+  "publication_date": "2026-11-05T13:02:57",
+  "title": "Children and Young People's Mental Health",
+  "committee": "Health and Social Care Committee / Education Committee",
+  "committees": [
+    {
+      "id": 81,
+      "name": "Health and Social Care Committee",
+      "house": "Commons"
+    },
+    {
+      "id": 203,
+      "name": "Education Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9627,
+      "title": "Children and Young People's Mental Health",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Senior Operations Manager",
+      "organisation": "Compass UK"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Group Chief Executive",
+      "organisation": "Talk Listen Change"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chief Executive",
+      "organisation": "Northampton Saints Foundation"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "co-founder and CEO",
+      "organisation": "The Well Centre Charity"
+    }
+  ],
+  "speaker_candidates": [
+    "Education Committee Members present",
+    "Health and Social Care Committee Members present",
+    "Chair",
+    "Michelle Hill",
+    "Arjan Bains",
+    "John Poyton",
+    "Jordan Letts",
+    "Manuela Perteghella",
+    "Mark Sewards",
+    "Caroline Voaden",
+    "Darren Paffey",
+    "Dr Caroline Johnson",
+    "Peter Swallow",
+    "Jess Asato",
+    "Josh Fenton-Glynn"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18239/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18239",
+  "source_sha256": "dabd831f91337dde2325c0aab9a16619f8b17f5029df37a676a747d29f707883",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

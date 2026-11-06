@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "source_id": 18220,
-  "source_sha256": "4571e542344468ec1ffbfd762be27208f2b4ee6b85ab90d18a42af9fe355b37f",
-  "title": "Lives, labs and rights: how sudden aid cuts have shaken global health",
-  "label": "27 October 2026 · Global Health session",
-  "summary": "Witnesses from community health groups, UNFPA, MSF and academic research described the rapid shock from large donor cuts—sudden service closures, lost data and jobs, rising risks to children and to infectious disease control—and debated what governments and donors should do next: safeguard core services, shore up local partners, protect diagnostics and surveillance, and press multilaterals to be accountable while not abandoning bilateral support.",
+  "source_sha256": "eeaadd16b71ec7e66daf6eb593a427c7195e64c7ec0d05df5f061e39fd9d9c5d",
+  "title": "When the Money Stops: How Cuts to International Aid Are Hurting Global Health",
+  "label": "27 October 2026 · Global Health inquiry",
+  "summary": "Committee members questioned health practitioners, researchers and UN staff about sudden cuts in donor funding—especially US aid—and how those cuts have disrupted services for HIV, sexual and reproductive health, maternal care, nutrition and infectious disease surveillance. Witnesses described immediate service interruptions, staffing losses, data problems, rising risks of infectious disease spread and a political backlash against rights-based services. They also suggested practical steps: protect core services, invest in data and diagnostics, support local organisations, expand private-sector partnerships, and maintain multilateral support while keeping some direct bilateral funding.",
   "speakers": [
     {
       "label": "Chair",
@@ -21,7 +21,7 @@
     {
       "label": "Dr Natasha Kaoma",
       "name": "Dr Natasha Kaoma",
-      "role": "Co-Founder and CEO, Copper Rose, Zambia",
+      "role": "CEO, Copper Rose, Zambia",
       "kind": "witness"
     },
     {
@@ -39,278 +39,294 @@
     {
       "label": "Dr Kirrily de Polnay",
       "name": "Dr Kirrily de Polnay",
-      "role": "Technical adviser for MSF’s Humanitarian Nutrition Fund, Médecins Sans Frontières",
+      "role": "Technical adviser, Humanitarian Nutrition Fund, Médecins Sans Frontières",
       "kind": "witness"
     },
     {
       "label": "Dr Jeanne Salje",
       "name": "Dr Jeanne Salje",
-      "role": "Assistant Professor, Department of Pathology and Department of Biochemistry, University of Cambridge",
+      "role": "Assistant Professor, University of Cambridge (infectious disease research)",
       "kind": "witness"
     },
     {
       "label": "Dr Kennedy Uadiale",
       "name": "Dr Kennedy Uadiale",
-      "role": "Post-Doctoral Research Associate, International Public Health, Liverpool School of Tropical Medicine (based in Malawi)",
+      "role": "Post-Doctoral Research Associate, Liverpool School of Tropical Medicine (based in Malawi)",
       "kind": "witness"
-    },
-    {
-      "label": "Tracy Gilbert",
-      "name": "Tracy Gilbert",
-      "role": "Committee Member",
-      "kind": "member"
-    },
-    {
-      "label": "Monica Harding",
-      "name": "Monica Harding",
-      "role": "Committee Member",
-      "kind": "member"
-    },
-    {
-      "label": "Noah Law",
-      "name": "Noah Law",
-      "role": "Committee Member",
-      "kind": "member"
     },
     {
       "label": "Brian Mathew",
       "name": "Brian Mathew",
-      "role": "Committee Member",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Tracy Gilbert",
+      "name": "Tracy Gilbert",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "David Mundell",
       "name": "David Mundell",
-      "role": "Committee Member",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "Dr Sam Rushworth",
       "name": "Dr Sam Rushworth",
-      "role": "Committee Member",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "Tulip Siddiq",
       "name": "Tulip Siddiq",
-      "role": "Committee Member",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "David Taylor",
       "name": "David Taylor",
-      "role": "Committee Member",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Noah Law",
+      "name": "Noah Law",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Monica Harding",
+      "name": "Monica Harding",
+      "role": "Committee member",
       "kind": "member"
     }
   ],
   "glossary": [
     {
       "term": "SRHR",
-      "definition": "Sexual and reproductive health and rights—services and the legal and policy framework that lets people access contraception, safe childbirth and related care."
+      "definition": "Sexual and reproductive health and rights: health services and the legal and social rights around reproduction and sexuality."
     },
     {
       "term": "PEPFAR",
-      "definition": "U.S. President's Emergency Plan for AIDS Relief, a major US programme funding HIV services in many countries."
-    },
-    {
-      "term": "USAID",
-      "definition": "United States Agency for International Development, the US government department that funds global development and health programmes."
+      "definition": "The US President's Emergency Plan for AIDS Relief, a major funder of HIV programmes."
     },
     {
       "term": "WISH",
-      "definition": "Women's Integrated Sexual Health programmes funded in part by UK aid to expand reproductive health services in partner countries."
-    },
-    {
-      "term": "ODA",
-      "definition": "Official Development Assistance—government aid to support the economic development and welfare of low- and middle-income countries."
+      "definition": "A UK-funded family planning programme (Women’s Integrated Sexual Health) supporting contraceptive services in several countries."
     },
     {
       "term": "AMR",
-      "definition": "Antimicrobial resistance—when bacteria and other microbes no longer respond to medicines that used to kill them."
+      "definition": "Antimicrobial resistance: when infections stop responding to available antibiotics."
     },
     {
       "term": "Fleming Fund",
-      "definition": "A UK ODA programme that supported laboratory capacity and surveillance for antimicrobial resistance in low- and middle-income countries."
+      "definition": "A UK ODA programme that supported laboratory networks and surveillance for antimicrobial resistance."
     },
     {
-      "term": "Global Fund",
-      "definition": "A major global financier of programs to fight HIV, TB and malaria."
-    },
-    {
-      "term": "UNAIDS",
-      "definition": "The United Nations programme coordinating global action on HIV and AIDS."
-    },
-    {
-      "term": "Supplies Partnership",
-      "definition": "UNFPA's global programme, supported by donors including the UK, to procure and deliver contraceptives and reproductive health supplies."
+      "term": "UNFPA",
+      "definition": "United Nations Population Fund, which focuses on family planning, maternal health and population data."
     }
   ],
   "chapters": [
     {
-      "title": "Sudden cuts, sudden gaps",
-      "takeaway": "Rapid donor funding withdrawals caused immediate service gaps, job losses and confusion for people who rely on HIV and reproductive health services.",
+      "title": "The sudden funding shock",
+      "takeaway": "Abrupt donor cuts—especially from the US—left clinics, staff and community programmes suddenly without money and created panic.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "We're hearing from frontline witnesses about big funding drops and the effects on global health—please introduce yourselves and say what you see on the ground."
+          "text": "We’re starting the inquiry into global health. Please introduce yourselves briefly and the organisations you represent."
         },
         {
           "speaker": "Jerop Limo",
-          "text": "I run a youth HIV support organisation in Nairobi. After the big US cuts, young people panicked—some texted me saying 'we're going to die'. Long-standing HIV services that had become trusted were suddenly disrupted."
-        },
-        {
-          "speaker": "Chair",
-          "text": "Did you and the Kenyan Government know in advance about the cuts?"
-        },
-        {
-          "speaker": "Jerop Limo",
-          "text": "No. I sat with Government on sustainability committees in 2024 but neither they nor we expected such an abrupt withdrawal. The system had to be integrated quickly and that caused chaos and people lost contact with care."
+          "text": "I run a Kenyan youth HIV organisation in Nairobi that supports adolescents living with HIV—helping them get medicines and psychosocial support beyond what clinics provide."
         },
         {
           "speaker": "Dr Natasha Kaoma",
-          "text": "In Zambia we lost scale at community level: Copper Rose used to reach 200,000 people a year; now it's about 45,000. About 84% of HIV funding in Zambia came from PEPFAR and much of SRH funding from the US and European donors—so cuts hit communities hard."
+          "text": "I lead Copper Rose in Zambia, a youth-led, women-led group working on reproductive health, mental health and economic opportunities for young people."
         },
         {
           "speaker": "Abadi Assefa",
-          "text": "In Ethiopia FGAE lost 40% of its budget in 2025. We lost 162 technical staff and withdrew from 366 public health facilities—people and outpatient follow-up vanished with the funding."
-        },
-        {
-          "speaker": "Dr Natasha Kaoma",
-          "text": "Data access also collapsed: key health records and monitoring systems had been hosted on US government servers. When funding stopped, access to those systems was lost, undermining planning and trust."
+          "text": "I’m Executive Director of the Family Guidance Association of Ethiopia, a long-standing family planning NGO working across clinics, public services and with displaced people."
         },
         {
           "speaker": "Chair",
-          "text": "You referred to deaths and projections—what did you mean?"
-        },
-        {
-          "speaker": "Dr Natasha Kaoma",
-          "text": "A modelling study (Open Forum Infectious Diseases, 2025) that Ministry staff qualified estimated 32,000 preventable deaths in the first three months after the cuts; if disruption lasted four years it projected about 330,400 deaths. These are stark warnings."
-        }
-      ]
-    },
-    {
-      "title": "Rights, politics and community services",
-      "takeaway": "Political and ideological shifts—plus funding changes—have narrowed what can be said or funded, undermining sexual and reproductive health rights and services.",
-      "turns": [
-        {
-          "speaker": "Tracy Gilbert",
-          "text": "Have you seen ideological resistance to your work? What can the UK do to help?"
+          "text": "Jerop, what did you see when donor funding was cut?"
         },
         {
           "speaker": "Jerop Limo",
-          "text": "Yes. In Kenya a presidential remark stressing only 'male and female' stirred attacks on organisations serving queer people. Government restricted language—'rights' became politically sensitive—so services and CSE (comprehensive sexuality education) initiatives were curtailed."
+          "text": "The cuts hit like a shock. Young people texted me in panic: 'We’re going to die.' Clinics, community services and patient-friendly providers we’d relied on suddenly disappeared or changed overnight."
+        },
+        {
+          "speaker": "Jerop Limo",
+          "text": "Kenya moved to ‘integration’—putting HIV and other services into one primary care system. That sounds sensible on paper but can’t be done overnight. The result has been confusion and people getting lost from care."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Did the Kenyan Government know this was coming?"
+        },
+        {
+          "speaker": "Jerop Limo",
+          "text": "No. We had even worked with government on sustainability plans in 2024, but neither civil society nor government expected such a rapid withdrawal."
         },
         {
           "speaker": "Dr Natasha Kaoma",
-          "text": "In Zambia the word 'rights' was removed from Government SRH documents: 'SRHR' became 'SRH'. 'Gender' language was replaced with 'sex' in policy texts. Funding cuts forced civil society into survival fundraising, reducing advocacy capacity."
+          "text": "In Zambia the effect was similar: donor funding covered most HIV and sexual health programming. When it dropped we lost community outreach, standalone sexual health centres and preventive work that reached hundreds of thousands."
         },
         {
-          "speaker": "Abadi Assefa",
-          "text": "We see foreign actors using funding and influence to shape policy; there's less transparency about MOUs and new drafts that emphasise family values. That coordinated push worries us and affects service provision."
-        },
-        {
-          "speaker": "Monica Ferro",
-          "text": "UNFPA sees this as part political anxiety about demographics. Rights language is being contested in several countries. The UK, with diplomatic influence, can be a strong defender of SRHR and support accountability for multilateral funding."
-        },
-        {
-          "speaker": "Tulip Siddiq",
-          "text": "So what practical steps do you want from the UK?"
-        },
-        {
-          "speaker": "Monica Ferro",
-          "text": "Reclaim 'rights' and 'choices' language, challenge misinformation with evidence, broaden coalitions beyond health, and make the human consequences of rollbacks and cuts visible to policymakers."
+          "speaker": "Dr Natasha Kaoma",
+          "text": "A modelling study suggested tens of thousands of preventable deaths from short service interruptions; longer disruptions could be catastrophic—especially for children."
         }
       ]
     },
     {
-      "title": "Research, labs and the threat of AMR",
-      "takeaway": "Research and lab networks have been weakened by cuts, raising the risk of antimicrobial resistance and slower outbreak detection.",
-      "turns": [
-        {
-          "speaker": "Dr Jeanne Salje",
-          "text": "I study neglected bacterial infections. Sudden research funding stops meant trials and diagnostic work froze—patients in TB studies lost treatment paths and trust, increasing risks of onward transmission and drug resistance."
-        },
-        {
-          "speaker": "David Taylor",
-          "text": "Can you give a concrete example?"
-        },
-        {
-          "speaker": "Dr Jeanne Salje",
-          "text": "My South African colleague Bavesh Kana saw NIH-funded TB trials stop; medicines were in freezers but staff couldn't administer them. He later found rising numbers of resistant TB strains among those cohorts."
-        },
-        {
-          "speaker": "Dr Jeanne Salje",
-          "text": "Diagnostic capacity matters: an Ebola outbreak had a two-and-a-half-week delay in identification because the wrong species test was used—sequencing later confirmed Ebola. Weak labs and disrupted networks slow detection."
-        },
-        {
-          "speaker": "Dr Kennedy Uadiale",
-          "text": "The Fleming Fund supported AMR labs; when that funding stopped some hospitals could not deliver lab results for months. For AMR we need continuous surveillance; abrupt funding stops break that chain and make policy-making harder."
-        },
-        {
-          "speaker": "Noah Law",
-          "text": "How should the UK help on AMR and diagnostics?"
-        },
-        {
-          "speaker": "Dr Kennedy Uadiale",
-          "text": "Champion rapid, affordable surveillance approaches, invest in laboratory networks and workforce, and support transitions so countries are not left with equipment but no staff or reagents."
-        },
-        {
-          "speaker": "Dr Jeanne Salje",
-          "text": "Also protect institutions that set standards and provide reference materials—the UK has strengths here and if those capabilities recede it weakens global testing quality."
-        }
-      ]
-    },
-    {
-      "title": "Responses, opportunities and what to protect next",
-      "takeaway": "Witnesses urged protecting humanitarian and core SRH funding, supporting local partners, investing in data and workforce, and balancing multilateral and bilateral funding with accountability.",
+      "title": "What fell apart: clinics, staff and rights",
+      "takeaway": "Services, trained staff and data systems collapsed in many places; at the same time political pushback narrowed the language and scope of reproductive rights.",
       "turns": [
         {
           "speaker": "Brian Mathew",
-          "text": "Are there any opportunities from the funding shock?"
+          "text": "Natasha, what were the immediate consequences for communities and for sustaining past gains?"
         },
         {
           "speaker": "Dr Natasha Kaoma",
-          "text": "Yes: use existing government systems instead of rebuilding, engage the private sector for commodities and services, invest in digital training to reduce repeated costs, and prioritise local organisations for sustainable delivery."
-        },
-        {
-          "speaker": "David Mundell",
-          "text": "What could a Government do quickly to help sustainability?"
+          "text": "We lost scale: programmes that once reached 200,000 people fell to tens of thousands. Staff were laid off—UNAIDS estimated many thousands lost jobs—and data systems hosted on donor servers became inaccessible."
         },
         {
           "speaker": "Dr Natasha Kaoma",
-          "text": "In Zambia I'd introduce small service fees and reform national health insurance to generate revenue, while protecting the poorest—this could help steady financing for services."
+          "text": "That’s not just numbers. It means fewer community workers to fight stigma, fewer clinics, and less prevention—so gains on HIV targets and child services can slip back."
+        },
+        {
+          "speaker": "Tracy Gilbert",
+          "text": "Have you seen political or ideological resistance to your work, and how has that affected services?"
         },
         {
           "speaker": "Jerop Limo",
-          "text": "Kenya's wake-up is an opportunity: the state must prioritise health funding, properly resource social health insurance, and support community-based civil society which is the bridge to people, especially marginalised youth."
+          "text": "Yes. In Kenya political statements narrowed the space for talking about rights. Organisations were attacked and programmes on safe abortion or youth sexuality education were constrained."
+        },
+        {
+          "speaker": "Dr Natasha Kaoma",
+          "text": "In Zambia the word 'rights' has been removed from official documents; 'gender' language is being replaced. That creates fear—organisations spend energy surviving rather than advocating."
         },
         {
           "speaker": "Abadi Assefa",
-          "text": "Ethiopia is pushing domestic resource mobilisation and public-private partnerships, and has increased SRHR budgeting, but gaps remain. Civil society is expected to generate local income and cross-subsidise services."
+          "text": "In Ethiopia we’ve seen external actors pushing family-values agendas and engaging parliamentarians and religious leaders. Lack of transparency on agreements worries us because it can change policies."
         },
         {
-          "speaker": "Dr Kirrily de Polnay",
-          "text": "MSF sees the worst cases when prevention and basic care are missing. We urge the UK to protect existing humanitarian and nutrition funds, keep accountability for multilateral spending, and ensure funds reach local actors."
+          "speaker": "Chair",
+          "text": "Abadi, what did the cuts mean for your services?"
+        },
+        {
+          "speaker": "Abadi Assefa",
+          "text": "We lost a big chunk of our budget, had to reduce staff and withdraw services from many facilities. In some areas girls have missed contraceptives after sexual violence and some young people share antiretroviral drugs because of stockouts."
+        }
+      ]
+    },
+    {
+      "title": "How governments and groups are responding — risks and possible solutions",
+      "takeaway": "Governments are trying to fill gaps through integration, domestic funding and private sector engagement; witnesses urged investment in data, diagnostics, local organisations and workforce.",
+      "turns": [
+        {
+          "speaker": "David Mundell",
+          "text": "Are there any positive changes or opportunities from this shock?"
+        },
+        {
+          "speaker": "Dr Natasha Kaoma",
+          "text": "Opportunities exist: use existing systems rather than rebuild, strengthen health insurance, scale private-sector provision of medicines, and invest in digital training to retain workforce skills."
+        },
+        {
+          "speaker": "Jerop Limo",
+          "text": "A positive is that governments woke up to over-reliance on donors and some are prioritising health and integrating services. But integration must protect specialist, patient-friendly community services."
+        },
+        {
+          "speaker": "Abadi Assefa",
+          "text": "Ethiopia is pushing country ownership and domestic resource mobilisation: small taxes and private sector partnerships are being explored and civil society is urged to diversify income."
+        },
+        {
+          "speaker": "Noah Law",
+          "text": "How should the UK’s Foreign, Commonwealth & Development Office (FCDO) help local groups find private partners and develop data systems?"
+        },
+        {
+          "speaker": "Dr Natasha Kaoma",
+          "text": "Start with data: fund country-level data to show where gaps are. Offer blended finance for proven local businesses, and support data protection laws so health data can be used safely for digital and AI tools."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Monica, what does UNFPA do and how has the UK supported you?"
         },
         {
           "speaker": "Monica Ferro",
-          "text": "UNFPA is focusing on local delivery—already delivering roughly 38% of funds via national partners and aiming for 45%—and on partnering with development banks to prioritise maternal health in big loans and investments."
+          "text": "UNFPA focuses on family planning, maternal health, ending gender-based violence and demographic data. The UK is a major donor and backs our supplies partnership that gets contraceptives and maternal supplies to many countries."
         },
         {
-          "speaker": "Chair",
-          "text": "A final point from the Committee: investing only via multilaterals risks gaps. Should the UK spread its approach?"
+          "speaker": "Dr Kirrily de Polnay",
+          "text": "From MSF’s perspective, when primary care, prevention and labs fail the sickest people end up in our hospitals. That’s costlier and more complex care. We ask the UK to protect funding for nutrition and frontline services."
+        },
+        {
+          "speaker": "Monica Harding",
+          "text": "Do people in donor countries still support international health spending?"
+        },
+        {
+          "speaker": "Monica Ferro",
+          "text": "Yes. The UK public donates and responds to appeals for crises and maternal health; public generosity is strong and often increases when governments cut funding."
+        }
+      ]
+    },
+    {
+      "title": "Research, diagnostics and the multilateral vs bilateral debate",
+      "takeaway": "Cuts to research and lab funding risk worse outbreaks and antimicrobial resistance; witnesses warned that relying only on multilaterals risks losing direct partnerships and local labs.",
+      "turns": [
+        {
+          "speaker": "David Taylor",
+          "text": "Jeanne, how have research and diagnostics been affected?"
         },
         {
           "speaker": "Dr Jeanne Salje",
-          "text": "Yes for research partnerships: bilateral research funds like Newton and GCRF built scientist-to-scientist long-term links; without them, those vital collaborations and training pipelines weaken."
+          "text": "Overnight grant stops left labs and trials unable to operate. For diseases like TB that means interrupted treatment, more transmission and rising drug resistance. Loss of funding for lab networks harms outbreak detection."
+        },
+        {
+          "speaker": "Dr Jeanne Salje",
+          "text": "We need sustained funding for reagents, trained staff and regional networks—not just machines in a room—to detect outbreaks early and prevent spread."
+        },
+        {
+          "speaker": "Brian Mathew",
+          "text": "Is the move to put more UK money into multilaterals a problem for your work?"
+        },
+        {
+          "speaker": "Dr Jeanne Salje",
+          "text": "Yes, if it replaces direct, long-term research partnerships. Programmes like Newton and GCRF helped scientist-to-scientist links that build local capacity; losing those reduces real partnerships."
         },
         {
           "speaker": "Dr Kennedy Uadiale",
-          "text": "And multilaterals must be supported to maintain standards and technical guidance, but the UK should also keep direct support where that secures local labs, workforce and service continuity."
+          "text": "From Malawi: lab and surveillance funding cuts (including the Fleming Fund) left hospitals unable to produce lab results for months and stalled AMR policy meetings. Rapid affordable surveillance approaches the UK supports could help."
+        },
+        {
+          "speaker": "Noah Law",
+          "text": "What should multilaterals do better?"
+        },
+        {
+          "speaker": "Dr Kennedy Uadiale",
+          "text": "Support standards, sustain in-country technical support and keep technical working groups running. The WHO and UNICEF need backing to maintain national action plans and emergency preparedness."
         },
         {
           "speaker": "Chair",
-          "text": "Thank you. We heard about loss of services, threats to rights, and risks to disease control. We'll follow up on civil society impacts and accountability. Please pass our thanks to your teams."
+          "text": "Any final specific asks for the UK Government?"
+        },
+        {
+          "speaker": "Dr Kirrily de Polnay",
+          "text": "Protect existing nutrition and primary care funding, keep supporting local partners, and maintain accountability for money routed through multilaterals."
+        },
+        {
+          "speaker": "Monica Ferro",
+          "text": "Use the UK’s diplomatic voice to defend rights-based services, back local actors, and invest in maternal health as a development and humanitarian priority."
+        },
+        {
+          "speaker": "Jerop Limo",
+          "text": "Invest in community workers, make the social health insurance real by ensuring services actually work, and reconnect with civil society as an essential partner."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you all. This evidence underlines the fragility of progress when funding stops, the political pressures on rights, and the practical fixes we should press for: protected core funding, diagnostics and data, support for local partners, workforce investment and careful multilateral engagement."
         }
       ]
     }

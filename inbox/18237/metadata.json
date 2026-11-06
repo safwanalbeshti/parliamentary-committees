@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18237,
+  "activity_id": 39304,
+  "document_id": 309930,
+  "meeting_date": "2026-11-04",
+  "meeting_date_display": "4 November 2026",
+  "publication_date": "2026-11-05T11:46:03",
+  "title": "The UK’s constitutional safeguards",
+  "committee": "Constitution Committee",
+  "committees": [
+    {
+      "id": 172,
+      "name": "Constitution Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9861,
+      "title": "The UK’s constitutional safeguards",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Sir Brian Langstaff",
+      "role": "former senior judge, president of the Employment Appeal Tribunal and chair",
+      "organisation": "Infected Blood Inquiry"
+    },
+    {
+      "name": "Sir John Saunders",
+      "role": "former senior judge and chair",
+      "organisation": "Manchester Arena Inquiry"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Sir Brian Langstaff",
+    "Sir John Saunders",
+    "Lord Bichard",
+    "Baroness Laing of Elderslie",
+    "This was not an unfamiliar experience from the inquiry’s evidence",
+    "Baroness Hamwee",
+    "Lord Burnett of Maldon",
+    "One great aspect for me of being chairman of the inquiry was this",
+    "Lord Waldegrave of North Hill",
+    "Lord Griffiths of Burry Port",
+    "Lord Jones of Penybont"
+  ],
+  "transcript_status": "corrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18237/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18237",
+  "source_sha256": "fef8c9fe0d4e23c55a739df6f5e3870d391ab008d6847b1cc06543933b216187",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

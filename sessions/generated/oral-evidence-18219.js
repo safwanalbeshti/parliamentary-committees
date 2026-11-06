@@ -1,6 +1,6 @@
 /*
  * Generated from UK Parliament oral evidence 18219.
- * Source status: Published. Source hash: 4571e542344468ec1ffbfd762be27208f2b4ee6b85ab90d18a42af9fe355b37f
+ * Source status: Published. Source hash: eeaadd16b71ec7e66daf6eb593a427c7195e64c7ec0d05df5f061e39fd9d9c5d
  * Contains Parliamentary information licensed under the Open Parliament Licence v3.0.
  */
 window.COMMITTEE_SESSIONS = window.COMMITTEE_SESSIONS || [];
@@ -11,7 +11,7 @@ window.COMMITTEE_SESSIONS.push({
   "date": "27 October 2026",
   "sourceUrl": "https://committees.parliament.uk/oralevidence/18219/html/",
   "sourceLabel": "Official published transcript",
-  "summary": "Witnesses from Kenya, Zambia, Ethiopia, UNFPA, MSF and UK academic and research bodies described how rapid donor funding cuts—especially from US programmes—and rising political resistance to sexual and reproductive rights have harmed clinics, community services, data systems and research. They gave concrete examples of lost jobs and services, risks to children and to outbreak detection, and urged faster domestic funding, stronger local partnerships, protection of humanitarian and diagnostic capacity, and targeted UK action to support data, workforce and local civil society.",
+  "summary": "Witnesses from Kenya, Zambia, Ethiopia and international organisations described how abrupt US and other donor funding cuts have disrupted HIV, sexual and reproductive health services, staff and data systems, and damaged research and outbreak detection. They warned that political rollbacks on sexual and reproductive rights have worsened access. Governments are trying integration, domestic resource mobilisation and private-sector partnerships, but witnesses urged a mixed funding approach, protection of multilateral programmes, local partnership and investment in diagnostics, data and the health workforce.",
   "room": {
     "image": "Energy Resilience/committee_room_4.png",
     "width": 2788,
@@ -82,7 +82,7 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#6f5c91",
       "soft": "#ebe2f5"
     },
-    "Dr Natasha Kaoma": {
+    "Dr Kaoma": {
       "name": "Dr Natasha Kaoma",
       "role": "Co-Founder and CEO, Copper Rose, Zambia",
       "description": "",
@@ -115,9 +115,9 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#287079",
       "soft": "#d9eeee"
     },
-    "Dr Kirrily de Polnay": {
+    "Dr de Polnay": {
       "name": "Dr Kirrily de Polnay",
-      "role": "Technical adviser, Médecins Sans Frontières (MSF)",
+      "role": "Technical adviser for MSF’s Humanitarian Nutrition Fund, Médecins Sans Frontières",
       "description": "",
       "kind": "witness",
       "seats": [
@@ -126,9 +126,9 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#b17b2e",
       "soft": "#f5e8c4"
     },
-    "Dr Jeanne Salje": {
+    "Dr Salje": {
       "name": "Dr Jeanne Salje",
-      "role": "Assistant Professor, Department of Pathology and Biochemistry, University of Cambridge",
+      "role": "Assistant Professor, Department of Pathology and Department of Biochemistry, University of Cambridge",
       "description": "",
       "kind": "witness",
       "seats": [
@@ -137,7 +137,7 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#8a5a78",
       "soft": "#f0e2ec"
     },
-    "Dr Kennedy Uadiale": {
+    "Dr Uadiale": {
       "name": "Dr Kennedy Uadiale",
       "role": "Post-Doctoral Research Associate, International Public Health, Liverpool School of Tropical Medicine (based in Malawi)",
       "description": "",
@@ -148,8 +148,8 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#5c676d",
       "soft": "#e5e8e8"
     },
-    "Brian Mathew": {
-      "name": "Brian Mathew",
+    "Tracy Gilbert": {
+      "name": "Tracy Gilbert",
       "role": "Committee Member",
       "description": "",
       "kind": "member",
@@ -159,8 +159,8 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#315f72",
       "soft": "#d7edf0"
     },
-    "Tracy Gilbert": {
-      "name": "Tracy Gilbert",
+    "David Mundell": {
+      "name": "David Mundell",
       "role": "Committee Member",
       "description": "",
       "kind": "member",
@@ -170,8 +170,8 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#6f5c91",
       "soft": "#ebe2f5"
     },
-    "David Mundell": {
-      "name": "David Mundell",
+    "Noah Law": {
+      "name": "Noah Law",
       "role": "Committee Member",
       "description": "",
       "kind": "member",
@@ -181,8 +181,8 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#4c7b5d",
       "soft": "#dff0dd"
     },
-    "Noah Law": {
-      "name": "Noah Law",
+    "Tulip Siddiq": {
+      "name": "Tulip Siddiq",
       "role": "Committee Member",
       "description": "",
       "kind": "member",
@@ -191,72 +191,42 @@ window.COMMITTEE_SESSIONS.push({
       ],
       "color": "#9b543e",
       "soft": "#f2e0d7"
-    },
-    "David Taylor": {
-      "name": "David Taylor",
-      "role": "Committee Member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member5"
-      ],
-      "color": "#287079",
-      "soft": "#d9eeee"
-    },
-    "Tulip Siddiq": {
-      "name": "Tulip Siddiq",
-      "role": "Committee Member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member6"
-      ],
-      "color": "#b17b2e",
-      "soft": "#f5e8c4"
     }
   },
-  "transcript": "# Global Health\n\n## Who spoke and the immediate shock\n> Witnesses described sudden donor cuts—especially from US programmes—and how those shocks reached clinics, community workers and people living with HIV overnight.\n\nChair: We are starting our inquiry into global health. Could each witness introduce themselves briefly?\nJerop Limo: I run AYARHEP in Nairobi, a youth HIV organisation. We provide social support and link young people to the health system.\nDr Natasha Kaoma: I lead Copper Rose in Zambia. We work on youth reproductive and mental health and economic opportunities for women and young people.\nAbadi Assefa: I am Executive Director of the Family Guidance Association of Ethiopia, working since 1966 across clinics, public, private and refugee services.\nChair: Thank you. Jerop, what did you see on the ground after the funding cuts?\nJerop Limo: I’ve worked in HIV for a decade and live with HIV. Overnight young people panicked when US funding dropped—clinics and specialist community services were suddenly disrupted.\nChair: Did the Kenyan Government have advance notice?\nJerop Limo: No. We’d been in government committees on sustainability but none of us expected cuts to arrive so fast; neither did the Government appear prepared.\n\n\n## Concrete damage to services, jobs and data\n> Cuts reduced community outreach and staffing, removed specialised clinics, and in places data systems and servers went offline, leaving people without medicines or follow-up.\n\nDr Natasha Kaoma: In Zambia our outreach fell from 200,000 people a year to 45,000. Many standalone sexual health and DREAMS centres closed; community prevention disappeared.\nDr Natasha Kaoma: A modelling paper estimated 32,000 preventable deaths in three months after cuts, and 330,400 if disruptions continued over four years; children are hit especially hard.\nAbadi Assefa: In Ethiopia our budget dropped by 40% in 2025. We lost 162 technical staff and withdrew from 366 public facilities. Teens share antiretrovirals in some places; contraceptive stockouts led to pregnancies and early marriage.\nChair: The Committee was also told data systems were affected. What happened?\nDr Natasha Kaoma: Some monitoring systems and patient data were hosted on US servers. When US funding stopped, access to those systems was lost, and many government data staff were laid off.\nChair: It was said—rather bitterly—that DOGE wiped data that wasn’t theirs to delete.\nJerop Limo: Yes, and when you combine that with integration of services—pushing specialised HIV or youth services into general primary care—people get lost in the transition.\nBrian Mathew: Natasha, what does this mean for sustaining gains you’d made?\nDr Natasha Kaoma: We’ve lost technical staff and momentum. Forecasting for drug procurement was disrupted and commodity pipelines are at risk; the policy work we’d driven has stalled without funding.\n\n\n## Politics, rights and the chilling effect\n> Beyond money, political shifts narrowed what governments and organisations can say or do on sexual and reproductive rights, increasing stigma and cutting services.\n\nTracy Gilbert: Have you faced ideological resistance to your work, and how can the UK help?\nJerop Limo: Yes. After public statements from leaders, language and services on rights were restricted. In Kenya, the word 'rights' or 'comprehensive sexuality education' became taboo; providers and clinics were attacked.\nDr Natasha Kaoma: In Zambia similar shifts happened: 'rights' was stripped out of official discussion, 'gender' replaced with 'sex' in documents, and anti-CSE movements pushed back on school programmes. CSOs now spend more time fundraising than advocating.\nAbadi Assefa: We also see foreign actors influencing policy and targeting parliamentarians, religious leaders and health staff with disinformation to roll back SRHR in the region.\nTulip Siddiq: How should the UK respond to ideological pressure?\nMonica Ferro: The UK should use its diplomatic influence, publicly defend non-negotiable rights and support local civil society and accurate evidence to counter misinformation.\n\n\n## Research, labs and detecting new threats\n> Cuts also hit research and laboratory networks, weakening tuberculosis care, antimicrobial resistance surveillance and outbreak detection.\n\nDr Jeanne Salje: Research projects often provided care and diagnostics. When grants stopped abruptly, clinical trials and treatment chains broke—raising risks of drug-resistant TB and more community transmission.\nDr Jeanne Salje: The Fleming Fund supported hundreds of labs; its reduction and other funding losses jeopardise surveillance and the ability to spot outbreaks quickly.\nDavid Taylor: You mentioned delays in outbreak detection; can you give an example?\nDr Jeanne Salje: In one recent Ebola event an initial test for a different species returned negative, and sequencing two-and-a-half weeks later identified Ebola—an example of how weaker diagnostics and networks delay responses.\nDr Kennedy Uadiale: In Malawi the Fleming Fund withdrawal left labs without staff or supplies for months. Surveillance meetings stopped, and our ability to study decision-making on AMR weakened because the forums disappeared.\nNoah Law: How can the UK help on this research and lab front?\nDr Kennedy Uadiale: Champion affordable rapid AMR surveillance approaches, keep funding research partnerships, and support workforce and laboratory supplies so surveillance and quality of care continue.\n\n\n## Where to from here: practical fixes and UK choices\n> Witnesses urged practical steps: protect humanitarian and diagnostic funding, fund local partners, invest in data and workforce, explore private sector and social insurance, and use UK diplomacy to defend rights.\n\nDavid Mundell: Are there any opportunities from these shocks?\nJerop Limo: The shock forced governments to wake up and consider domestic financing and integration. But integration must be done gradually and funded, otherwise people get lost.\nDr Natasha Kaoma: Invest in data systems, digital training for community health workers, and involve the private sector and blended finance. Local organisations should get sustained funding—we remain on the ground regardless.\nAbadi Assefa: Ethiopia is pursuing domestic resource mobilisation and some taxation to support emergency and SRHR programmes, plus private manufacturing partnerships and cross-subsidy models at NGOs.\nDr Kirrily de Polnay: From MSF’s view: protect humanitarian funding and upstream prevention—if basic services fail children and mothers end up needing much more complex and costly hospital care.\nMonica Ferro: UNFPA asks the UK to keep funding supplies and use its multilateral influence to support maternal health, defend rights, and press multilaterals to channel funds to local partners.\nChair: A final point on UK policy: is concentrating ODA through multilaterals a problem?\nDr Jeanne Salje: If it reduces bilateral research partnerships and university links, it hurts long-term scientist-to-scientist capacity building and training of the next generation.\nDr Kirrily de Polnay: Multilaterals matter, but many fragile contexts still need direct support and accountability; donors should ensure money reaches local needs quickly and transparently.\nChair: Thank you all. We will follow up with written questions. Please pass on our thanks to your teams for the work you do in very difficult circumstances.\n",
+  "transcript": "# Global Health\n\n## A sudden funding shock and immediate consequences\n> Abrupt US and other donor cuts left clinics, community programmes, staff and national data systems scrambling and in some places led to medicine stockouts and service closures.\n\nChair: We are investigating global health today. To start, please introduce yourselves and your organisations.\nJerop Limo: I run AYARHEP in Nairobi, a youth-focused organisation supporting adolescents living with HIV with clinical links and community support.\nDr Kaoma: I'm Natasha Kaoma, CEO of Copper Rose in Zambia. We work on reproductive and mental health plus youth economic opportunity and community health.\nAbadi Assefa: I'm Abadi Assefa of FGAE in Ethiopia, a 60-year family planning organisation working across public, private and refugee settings.\nChair: Jerop, what changes have you seen recently and how did government respond?\nJerop Limo: A year ago communities woke to sudden messages: US funding cuts. Clinics and community programmes we relied on were disrupted. Kenya moved quickly to 'integration'—folding HIV and specialised services into ordinary primary care—but that cannot happen overnight and many young people were lost from care.\nDr Kaoma: In Zambia we saw scale vanish. We reached 200,000 people before; now many organisations reach far fewer. Essential community services and dedicated sexual health centres were closed, and thousands of staff lost jobs.\nAbadi Assefa: Ethiopia lost a large share of overseas funding. FGAE faced a big budget cut, thousands of staff contracts were affected and we had to withdraw from many community clinics—people lost follow-up, commodities and outreach.\nChair: You also mentioned data — what happened to systems and records?\nDr Kaoma: Large amounts of health data were held on donor servers. When that funding stopped, access to some systems and staff who managed data was lost, raising trust issues and hurting planning.\n\n\n## Political backlash and rollbacks on rights\n> Cuts were followed by political moves narrowing language and services on sexual and reproductive rights, increasing stigma and reducing access for young people and marginalised groups.\n\nTracy Gilbert: Have you faced ideological resistance and what can the UK do to counter rollbacks on rights?\nJerop Limo: Yes. Kenyan leaders publicly framed gender narrowly, stigmatising queer people and limiting talk of 'rights'. Organisations offering safe abortion or youth services were attacked and some closed.\nDr Kaoma: In Zambia the word 'rights' was dropped from official documents: SRHR became SRH. 'Gender' language was replaced by narrower terms. Anti-rights movements targeted comprehensive sexuality education and local advocacy capacity has shrunk as groups scramble for survival funding.\nAbadi Assefa: We have also seen external actors pushing family-value narratives and influencing parliamentarians and religious leaders. Lack of transparency over some MOUs worries us.\nMonica Ferro: At the UNFPA we see a global rise in 'demographic anxiety' narratives that narrow SRHR. The UK can use its diplomatic voice to defend rights and fund evidence-based programmes.\n\n\n## What governments and organisations are trying — and what could help\n> Countries are pursuing integration, domestic funding and private-sector solutions, but witnesses said those require careful planning, investment in data, workforce and community organisations.\n\nDavid Mundell: Natasha, any positives from the funding change? Can anything constructive come of it?\nDr Kaoma: Some systems and policies already exist and can be reused. Opportunities include private-sector engagement for supplies, digital training platforms to reduce repeated training costs, and stronger national insurance or modest service fees to raise revenue.\nNoah Law: How should FCDO help to build private partnerships, local sourcing and digital data safely?\nDr Kaoma: Invest in data first. Fund tested local health businesses, support data protection laws and platforms, and offer blended finance that combines grants with patient private investment.\nJerop Limo: A positive is that governments have woken up to reliance on donors. They must actualise social health insurance, restore trust in services, and continue to fund community groups and peer educators who bridge clinics and patients.\nAbadi Assefa: Ethiopia is pushing domestic resource mobilisation, modest new taxes for emergency response, local manufacturing partnerships and cross-subsidy models in civil society to keep services for those who cannot pay.\n\n\n## Research, diagnostics and the case for mixed funding\n> Cuts damaged labs, surveillance and long-term research partnerships; witnesses urged protecting diagnostics, AMR surveillance and a mix of bilateral and multilateral funding with strong local partnerships and accountability.\n\nDr Salje: From the research view, sudden cuts stopped trials and diagnostics overnight. In South Africa TB trials lost funding and patients lost care; that risks more transmission and faster drug resistance.\nDr de Polnay: As MSF, we see downstream effects: when prevention and basic services fail, we receive sicker children—malnutrition cases that could have been avoided with routine care, vaccination and simple treatments.\nDr Uadiale: The Fleming Fund withdrawal left lab networks and AMR surveillance weakened. In Malawi a hospital went months without lab results because the systems and supplies stopped. That undermines outbreak detection and quality of care.\nNoah Law: Is multilateral spending enough now that bilaterals have reduced?\nDr Salje: Multilaterals are vital, but scientist-to-scientist partnerships, Newton and GCRF-style funding, and direct support for labs and standards are best delivered through mixed funding. Some research and long-term partnerships need bilateral backing.\nMonica Ferro: UNFPA has scaled some work via multilateral channels and partnerships with development banks, but we also hit the ground through local partners. The UK can protect core humanitarian and SRHR funding while pushing multilateral accountability.\nTulip Siddiq: On UN reform: are you worried about merging UNFPA and UN Women?\nMonica Ferro: We are waiting on member-state decisions. Our concern is that merging the two agencies risks diluting specialised services for women and SRHR; reform should strengthen, not weaken, those services.\nChair: Quickly: what one practical priority would you want the UK Government to act on?\nDr de Polnay: Protect humanitarian and nutrition funding and ensure supplies and frontline services are funded — prevention saves lives and money downstream.\nDr Salje: Keep funding diagnostic labs, reference standards and research partnerships so outbreaks and AMR can be detected early.\nDr Uadiale: Champion rapid, affordable AMR surveillance and support workforce retention at country level.\nDr Kaoma: Invest in data systems, digital training and local organisations — they keep services running when donors leave.\nJerop Limo: Support community-level organisations and peer-led care; they are essential for adherence and reaching marginalised people.\nMonica Ferro: Use UK diplomatic weight to defend SRHR language and access, and ensure multilateral funding reaches local partners and midwives on the ground.\nChair: Thank you all. Your testimony shows the immediate harms of abrupt funding change and clear priorities for UK and global action: protect basic services and data, back local partners, and maintain research and diagnostics capacity.\n",
   "inquiry": "Global Health",
   "glossary": [
     {
-      "term": "SRHR",
-      "definition": "Sexual and reproductive health and rights — services and policies that let people decide about sex, contraception, pregnancy and related health care."
-    },
-    {
       "term": "USAID",
-      "definition": "United States Agency for International Development — a major US foreign aid agency funding health programmes."
+      "definition": "United States Agency for International Development, a major US foreign aid agency."
     },
     {
       "term": "PEPFAR",
-      "definition": "The US President’s Emergency Plan for AIDS Relief, a large donor programme for HIV/AIDS."
+      "definition": "The US President's Emergency Plan for AIDS Relief, a major funder of HIV programmes."
     },
     {
-      "term": "Global Fund",
-      "definition": "An international financing organisation that funds programmes for HIV, TB and malaria."
+      "term": "SRHR",
+      "definition": "Sexual and reproductive health and rights — services and legal rights related to sex, contraception, abortion and reproductive care."
     },
     {
       "term": "WISH",
-      "definition": "The UK-funded Women’s Integrated Sexual Health programme supporting family planning and sexual health services."
+      "definition": "A UK-funded global programme that supports sexual and reproductive health services in multiple countries."
     },
     {
       "term": "Fleming Fund",
-      "definition": "UK-funded programme that supported antimicrobial resistance (AMR) labs and surveillance in low- and middle-income countries."
+      "definition": "A UK-funded programme that supported laboratory networking and antimicrobial resistance surveillance in low- and middle-income countries."
     },
     {
       "term": "AMR",
-      "definition": "Antimicrobial resistance — when bacteria or other microbes stop responding to treatments, making infections harder to treat."
+      "definition": "Antimicrobial resistance — when bacteria and other microbes stop responding to treatments, making infections harder to treat."
     },
     {
-      "term": "CSE",
-      "definition": "Comprehensive sexuality education — age-appropriate lessons about bodies, relationships and sexual health."
+      "term": "comprehensive sexuality education (CSE)",
+      "definition": "School-based education about sexual health, relationships and rights designed to help young people make informed choices."
     },
     {
-      "term": "DREAMS centres",
-      "definition": "Community health and youth centres set up under specific HIV prevention programmes for adolescent girls."
-    },
-    {
-      "term": "IPPF",
-      "definition": "International Planned Parenthood Federation, a global network of family planning organisations."
+      "term": "domestic resource mobilisation",
+      "definition": "Actions by a country to raise money from its own taxpayers or domestic sources to fund public services."
     }
   ]
 });

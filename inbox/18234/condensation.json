@@ -1,0 +1,354 @@
+{
+  "schema_version": 1,
+  "source_id": 18234,
+  "source_sha256": "36b84639a03d743e21c3e51c0e2d6fb1df4c2bc9ae4980e221a0f09ee486dc85",
+  "title": "Fixing systems, protecting customers: DWP on devolution, safeguarding, benefits and modernisation",
+  "label": "DWP annual report — key issues",
+  "summary": "The Permanent Secretary, Dame Sarah Healey, and senior DWP officials gave a first account of priorities after her arrival: modernising old IT, improving culture and safeguarding, handling devolution of services and budgets to local authorities, tackling fraud and error, and delivering service reform including the new Jobs and Careers Service. They acknowledged serious mistakes affecting claimants, defended some operational choices, promised steps to improve training, transparency and cross-department working, and warned that fixes are complex and take time.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Debbie Abrahams",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Dame Sarah Healey",
+      "name": "Dame Sarah Healey DCB CVO",
+      "role": "Permanent Secretary, Department for Work and Pensions",
+      "kind": "witness"
+    },
+    {
+      "label": "Catherine Vaughan",
+      "name": "Catherine Vaughan",
+      "role": "Director General, Finance, Department for Work and Pensions",
+      "kind": "witness"
+    },
+    {
+      "label": "Neil Couling",
+      "name": "Neil Couling",
+      "role": "Director General, Services and Fraud, Department for Work and Pensions",
+      "kind": "witness"
+    },
+    {
+      "label": "Katherine Green",
+      "name": "Katherine Green",
+      "role": "Director General for Labour Market and Skills, Department for Work and Pensions",
+      "kind": "witness"
+    },
+    {
+      "label": "Mr Bedford",
+      "name": "Mr Peter Bedford",
+      "role": "Member of the Work and Pensions Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Rushanara Ali",
+      "name": "Rushanara Ali",
+      "role": "Member of the Work and Pensions Committee",
+      "kind": "member"
+    },
+    {
+      "label": "John Milne",
+      "name": "John Milne",
+      "role": "Member of the Work and Pensions Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Liz Twist",
+      "name": "Liz Twist",
+      "role": "Member of the Work and Pensions Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Patrick Hurley",
+      "name": "Patrick Hurley",
+      "role": "Member of the Work and Pensions Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Damien Egan",
+      "name": "Damien Egan",
+      "role": "Member of the Work and Pensions Committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "accounting officer",
+      "definition": "The official who is legally responsible to Parliament for how a Department spends public money."
+    },
+    {
+      "term": "mayoral strategic authority (MSA)",
+      "definition": "A regional local government area, typically led by a mayor, responsible for devolved services and budgets."
+    },
+    {
+      "term": "safeguarding",
+      "definition": "Actions to protect vulnerable people from harm, abuse or deaths in interactions with public services."
+    },
+    {
+      "term": "EHRC",
+      "definition": "Equality and Human Rights Commission, the regulator that can investigate public bodies for discrimination."
+    },
+    {
+      "term": "carer’s allowance",
+      "definition": "A means-tested benefit for people who provide regular care to someone with substantial needs."
+    },
+    {
+      "term": "targeted case review (TCR)",
+      "definition": "A DWP process that reviews selected cases to find and correct fraud, error or underpayments."
+    },
+    {
+      "term": "universal credit (UC)",
+      "definition": "A main working-age benefit that combines several legacy benefits into a single monthly payment."
+    },
+    {
+      "term": "state pension age (SPA)",
+      "definition": "The age at which someone becomes eligible to claim the State Pension."
+    },
+    {
+      "term": "PIP",
+      "definition": "Personal Independence Payment, a disability benefit for people with long-term health conditions."
+    },
+    {
+      "term": "alternative payment arrangements (APA)",
+      "definition": "Ways of paying benefits to prevent harming a vulnerable person, for example where a partner may be abusive."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "First impressions: scale, legacy systems and culture",
+      "takeaway": "The new Permanent Secretary sees a vast department with committed staff, old IT and a need for cultural change led by better systems, leadership and training.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Dame Sarah, you’ve been permanent secretary about 100 days. What surprised you and what would you change?"
+        },
+        {
+          "speaker": "Dame Sarah Healey",
+          "text": "DWP’s scale and local presence are striking: 95,000 staff, 23 million customers and hundreds of millions of payments. Staff are committed, but many work with very old IT and inflexible processes that hold them back."
+        },
+        {
+          "speaker": "Dame Sarah Healey",
+          "text": "I want to modernise back-office systems, finish jobs and careers reform, and make sure we adopt useful new technology safely. Culture change needs leadership, policy, compliance and staff development together, not just processes."
+        },
+        {
+          "speaker": "Mr Bedford",
+          "text": "Your customer survey shows worryingly low trust and respect scores. How will you restore customer confidence?"
+        },
+        {
+          "speaker": "Dame Sarah Healey",
+          "text": "We must learn from local pathfinders that give staff flexibility, improve digital contact options and modernise systems so individual circumstances are better handled. I’ll rely on Neil for operational details."
+        },
+        {
+          "speaker": "Neil Couling",
+          "text": "Surveys mix frustration at outcomes with service quality. We do difficult decisions—sometimes denying claims—and that affects satisfaction. We’re trying to improve both decisions and how we communicate them."
+        }
+      ]
+    },
+    {
+      "title": "Devolution: opportunities and accountability",
+      "takeaway": "Devolving budgets can improve local support and employer links, but requires new accountability, data sharing and systems to manage fiscal devolution.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Is devolution an opportunity or a risk, and are you putting it on your risk register?"
+        },
+        {
+          "speaker": "Dame Sarah Healey",
+          "text": "It’s an opportunity: mayors can join up services and tailor support. DWP already devolved £3.1 billion in the integrated settlement, but fiscal devolution will need new accountability arrangements so Parliament still has oversight."
+        },
+        {
+          "speaker": "Rushanara Ali",
+          "text": "How will you ensure local areas that underperform are fixed quickly and that good practice spreads?"
+        },
+        {
+          "speaker": "Dame Sarah Healey",
+          "text": "We have an outcomes framework in the integrated settlement and a history from local government on interventions. We must build a self-improving system where MSAs learn from each other, not just wait for national direction."
+        },
+        {
+          "speaker": "Catherine Vaughan",
+          "text": "We’re creating a What Works centre for local employment support from January and improving data sharing by mayoral area so local authorities can compare performance and learn from pilots."
+        }
+      ]
+    },
+    {
+      "title": "Safeguarding, investigations and culture change",
+      "takeaway": "DWP accepts failures, is rolling out training and a policy framework, but an EHRC investigation and multiple legacy mistakes show change will take time and close oversight.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "There were 110 deaths and 55 serious harms last year linked to DWP contact. How will you change culture so safeguarding is a priority?"
+        },
+        {
+          "speaker": "Dame Sarah Healey",
+          "text": "We’ve increased safeguarding training and will publish a policy framework. Culture change needs leadership, role modelling, staff capability and systems that encourage honest reporting rather than blame."
+        },
+        {
+          "speaker": "Chair",
+          "text": "What about the EHRC investigation into disability assessments?"
+        },
+        {
+          "speaker": "Neil Couling",
+          "text": "We couldn’t reach an agreement under section 23 so EHRC started a section 20 investigation two years ago. We’re co-operating but are limited in what we can say while it’s ongoing."
+        },
+        {
+          "speaker": "Rushanara Ali",
+          "text": "What about civil service pensions failures affecting ex-staff?"
+        },
+        {
+          "speaker": "Dame Sarah Healey",
+          "text": "That is a Cabinet Office-run issue. We’re pressing Cabinet Office and offering expert help. It’s unacceptable that former staff face hardship; we’ve supported with hardship loans and continue to push for fixes."
+        },
+        {
+          "speaker": "Chair",
+          "text": "How many frontline staff have done level 1 safeguarding?"
+        },
+        {
+          "speaker": "Neil Couling",
+          "text": "About 17,500 staff have completed level 1; roughly 16,000 are front-facing. Everyone also has broader vulnerability training. New careers advisers in jobcentres had level 1 in induction."
+        },
+        {
+          "speaker": "Chair",
+          "text": "You removed an IPR/deaths breakdown from this year’s report—please explain in writing."
+        },
+        {
+          "speaker": "Dame Sarah Healey",
+          "text": "Yes—we will write back with an explanation."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Why won’t you record domestic abuse as a specific category in the system?"
+        },
+        {
+          "speaker": "Neil Couling",
+          "text": "We decided not to record it as an obvious label because UC accounts are accessible to both partners; an open record risks disclosure and could make victims less safe. That informed our cautious approach."
+        },
+        {
+          "speaker": "Chair",
+          "text": "The Committee pressed for alternative payment arrangements to protect victims; this remains a concern."
+        },
+        {
+          "speaker": "Neil Couling",
+          "text": "That issue—payments and named-account risks—is separate from recording; we can discuss APAs and what systems would safely support them."
+        }
+      ]
+    },
+    {
+      "title": "Carer’s allowance, reassessments and state pension communications",
+      "takeaway": "DWP is running reassessments, redesigning carer’s allowance to deliver a Budget-taper change, and improving state pension communications—but legacy systems slow implementation and cause continuing problems for claimants.",
+      "turns": [
+        {
+          "speaker": "John Milne",
+          "text": "Reassessments aimed to finish by March 2029 but early progress was tiny. Where are you now and will you meet the deadline?"
+        },
+        {
+          "speaker": "Dame Sarah Healey",
+          "text": "We started slowly to ensure accuracy. Earlier figures were low but we’ve ramped up—officially the count moved from about 2,000 to orders of 7,000 as processes and staff were added—and we intend to meet the deadline."
+        },
+        {
+          "speaker": "Neil Couling",
+          "text": "We’ve moved from zero to around 250 staff on the exercise; the pattern will be non-linear: small at first, then a hockey-stick ramp-up. That’s how we avoid repeating mistakes."
+        },
+        {
+          "speaker": "John Milne",
+          "text": "The Sayce review found many carers were not at fault. Why have only 8.3% had their outcomes changed?"
+        },
+        {
+          "speaker": "Neil Couling",
+          "text": "Our earlier modelling expected a low percent of changes. Reassessments are complex: one issue was incorrect averaging guidance; another was clearing verification prompts (VEP) we previously had limited resource to pursue. We’re addressing both."
+        },
+        {
+          "speaker": "Dame Sarah Healey",
+          "text": "We’re replacing the old carer’s allowance IT to deliver the Budget’s taper. That will take years because the system is too dated to be adapted quickly, so implementation is slow but necessary to get it right."
+        },
+        {
+          "speaker": "Liz Twist",
+          "text": "On state pension age (SPA) communications, one in five people mis-estimate their SPA. What targets do you have to improve awareness?"
+        },
+        {
+          "speaker": "Dame Sarah Healey",
+          "text": "We agreed an action plan with the Ombudsman and ran a multi-channel campaign, including Pension Awareness Week and letters. We’re on track with the plan and will follow up on specific awareness targets in writing."
+        },
+        {
+          "speaker": "Neil Couling",
+          "text": "People often don’t recall letters, so we use radio, social media and digital tools too. Some groups—low paid, not in work—are harder to reach, which the action plan addresses with targeted channels."
+        },
+        {
+          "speaker": "Liz Twist",
+          "text": "Forecasting errors were linked to HMRC systems. Will your governance with HMRC prevent repeats and can you share their validated numbers?"
+        },
+        {
+          "speaker": "Neil Couling",
+          "text": "Forecasts are HMRC’s responsibility. We now have shared governance arrangements—our directors meet HMRC’s—and they provide annual assurance about national insurance records. We’ll ask HMRC for a note to the Committee."
+        }
+      ]
+    },
+    {
+      "title": "Fraud, error, tech and service modernisation",
+      "takeaway": "DWP aims to cut fraud and error to 2.8%, is investing in verification and a new Fraud Authority, but complex benefits, legacy IT and cautious use of AI mean progress is possible but hard and will take years.",
+      "turns": [
+        {
+          "speaker": "Mr Bedford",
+          "text": "You reported £9.9 billion of overpayments and £1.2 billion underpayments in 2025–26. How will you bring losses down and what targets do you have?"
+        },
+        {
+          "speaker": "Dame Sarah Healey",
+          "text": "We aim to reduce fraud and error to 2.8% (from 3.2%). Measures include the Public Authorities (Fraud, Error and Recovery) Act, more verification officers in jobcentres, expanded recovery tools and targeted case review programmes."
+        },
+        {
+          "speaker": "Neil Couling",
+          "text": "Big benefits like universal credit ask many questions and so create more scope for error or fraud than the state pension. Some fraud is a by-product of having targeted, means-tested rules that save money overall."
+        },
+        {
+          "speaker": "John Milne",
+          "text": "Should DWP separate fraud and error for public clarity?"
+        },
+        {
+          "speaker": "Neil Couling",
+          "text": "Categories blur in practice. Many interventions cut both fraud and error. We publish breakdowns and are transparent; the priority is cost-effective action where most loss occurs."
+        },
+        {
+          "speaker": "Patrick Hurley",
+          "text": "How are you using AI and machine learning without worsening errors or opening cyber risks?"
+        },
+        {
+          "speaker": "Dame Sarah Healey",
+          "text": "We’re cautious: we’ll only deploy proven technology to support, not replace, human decisions. DWP has a responsible AI framework and uses AI for staff and customer support where it helps."
+        },
+        {
+          "speaker": "Catherine Vaughan",
+          "text": "On cyber and security, we use GovAssure, NIST and other frameworks; enterprise security covers cyber, personnel and supply chain risk so we know our maturity and where to invest."
+        },
+        {
+          "speaker": "Neil Couling",
+          "text": "We experiment with machine learning to target reviews and are aware that AI is also used against us. We test tools carefully before scaling and monitor for bias or error."
+        },
+        {
+          "speaker": "Mr Bedford",
+          "text": "You’re mid-way in an 11-year service modernisation programme. How do you avoid the new systems becoming quickly outdated?"
+        },
+        {
+          "speaker": "Dame Sarah Healey",
+          "text": "We break modernisation into separate modular projects, build systems to be updatable, and adopt commercial best practice. We engage with industry and learn from other sectors while recognising DWP’s scale and security needs."
+        },
+        {
+          "speaker": "Katherine Green",
+          "text": "On the Jobs and Careers Service soft launch, you’ll see careers advisers integrated with jobcentres, new digital tools like chatbots and CV builders, more outreach and trials to decide what works before full rollout."
+        },
+        {
+          "speaker": "Damien Egan",
+          "text": "How will the service help people long in work but displaced by change?"
+        },
+        {
+          "speaker": "Katherine Green",
+          "text": "We’ll personalise support by need, not just time since last job. We offer in-job upskilling, link to Skills England and local services, and test whether flexibility like longer ‘permitted periods’ is needed for some claimants."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thanks—all officials committed to follow up on several points in writing, including missing data, HMRC forecasts and further details on safeguarding and timelines."
+        }
+      ]
+    }
+  ]
+}
