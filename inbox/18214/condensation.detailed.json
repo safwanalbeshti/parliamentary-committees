@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "source_id": 18214,
+  "source_sha256": "4ef915462fc55e6b299cea552c45e162e90a82407431fa80a34348024e008b12",
+  "title": "Ofgem on windless winter weeks: how safe is Britain's power supply?",
+  "label": "28 October 2026 · Ofgem on Dunkelflaute and storage",
+  "summary": "Peers questioned Peter Bingham, Ofgem's engineering director, about what happens when Britain goes days with little wind or sun. He said the risk is planned for, but couldn't say how rare an emergency the system is built to survive. On storage that lasts for days, the answer kept coming back to a national energy plan that isn't finished. He called the undersea cables to other countries reliable but not infallible, and said the real bottleneck is building the grid.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Baroness Sheehan",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Peter Bingham",
+      "name": "Peter Bingham",
+      "role": "Director for Engineering and Technology, Ofgem",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Ashcombe",
+      "name": "Lord Ashcombe",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Redwood",
+      "name": "Lord Redwood",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Krebs",
+      "name": "Lord Krebs",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Earl Russell",
+      "name": "Earl Russell",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Whitaker",
+      "name": "Baroness Whitaker",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Rooker",
+      "name": "Lord Rooker",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Trees",
+      "name": "Lord Trees",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness McIntosh of Pickering",
+      "name": "Baroness McIntosh of Pickering",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Dunkelflaute",
+      "definition": "German for 'dark doldrums': a spell of days or weeks with little wind and little sun, so wind farms and solar panels produce almost nothing."
+    },
+    {
+      "term": "NESO",
+      "definition": "The National Energy System Operator, the public body that balances Britain's electricity supply and demand minute by minute and plans for future needs."
+    },
+    {
+      "term": "gigawatt hours",
+      "definition": "A measure of energy. One gigawatt hour is roughly what 130,000 homes use in a day."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "How rare a blackout are we planning for?",
+      "takeaway": "Unlike gas, electricity has no 'once in so many years' standard, and Lord Ashcombe struggled to get a clear answer on how bad things are allowed to get.",
+      "turns": [
+        {
+          "speaker": "Lord Ashcombe",
+          "text": "Britain is getting more and more of its power from wind and sun. How big a risk is that to keeping the lights on?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "We know it's a real issue. Wind and solar come and go, so you need other power stations you can switch on to fill the gaps, and that takes careful planning."
+        },
+        {
+          "speaker": "Lord Ashcombe",
+          "text": "The gas network is built to survive the kind of winter you'd expect once every 20 years. Is there anything like that for electricity?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "No. For electricity, the government's target is that supply shouldn't fall short of demand for more than three hours a year, on average. There isn't a 'once in so many years' measure."
+        },
+        {
+          "speaker": "Lord Ashcombe",
+          "text": "About a tenth of our power comes through cables from Europe. If Europe needs its own power just as we hit a long calm, dark spell, what odds are you planning for?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "NESO, which runs the grid, tests the system against tens of thousands of combinations of weather, breakdowns and conditions in Europe. The aim is to have enough supply in nearly all of them."
+        },
+        {
+          "speaker": "Lord Ashcombe",
+          "text": "You're still not giving me the answer I'm after. What chance of the system really struggling are they prepared to accept?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "It's statistical. You try to make sure the power available covers how high demand might go in almost every case. Past a certain point it's judged not worth the money to cover the last few. That said, we've recently bought more backup capacity than the standard requires."
+        }
+      ]
+    },
+    {
+      "title": "Have the grid's safety rules been loosened?",
+      "takeaway": "Lord Redwood asked about recent changes to the grid's technical safety rules, and Ofgem agreed to write with details.",
+      "turns": [
+        {
+          "speaker": "Lord Redwood",
+          "text": "NESO has recently relaxed some of the technical limits it uses to run the grid safely, presumably to fit in more renewables. Has that made the system riskier?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "I don't know the specific changes you mean. We did recently approve one that slightly widens the range of voltage allowed on part of the high-voltage network, to give NESO more room to manoeuvre within safe limits."
+        },
+        {
+          "speaker": "Lord Redwood",
+          "text": "Could you write to us about all the changes to these standards over the past year?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "Yes, of course."
+        }
+      ]
+    },
+    {
+      "title": "Storage that lasts for days",
+      "takeaway": "Peers pressed Ofgem on how Britain will store enough power to get through long calm spells, and were told much depends on a national plan that's still being written.",
+      "turns": [
+        {
+          "speaker": "Lord Krebs",
+          "text": "To get through a Dunkelflaute we'd need storage that runs for 100 hours or more. Your new support scheme seems aimed at much shorter storage. Why?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "It asked for at least eight hours and set no upper limit. The projects we've provisionally picked go up to 30 hours. I do think there's a case for much longer storage, and we'll consult on opening a future round to it."
+        },
+        {
+          "speaker": "Lord Krebs",
+          "text": "That sounds rather like 'watch this space'."
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "This was the first round, and we'll learn a lot from it. We do plan to consult on what comes next."
+        },
+        {
+          "speaker": "Lord Krebs",
+          "text": "Britain has about 24 gigawatt hours of long-duration storage, and uses around 700 a day. How much would we need to last ten days?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "The government's national energy plan should answer that. Storage is one option alongside gas, hydrogen, cables to other countries and paying big users to cut back. We'll definitely have times with more wind and solar power than we need, and it would be great to store that instead of burning gas later. Turning the plan into real projects is then a job for government."
+        },
+        {
+          "speaker": "Lord Krebs",
+          "text": "So the answer is: there are lots of options, we're thinking about it, and we'll tell you next year."
+        },
+        {
+          "speaker": "Earl Russell",
+          "text": "The longer you want to store energy for, the harder it gets. Does this need fresh thinking across government?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "Absolutely. Storage on that scale, like hydrogen or pumping water uphill, needs huge investment, and batteries don't last long enough yet. Government once kept a separate support pot for very new technologies like tidal power. Something similar could help here."
+        },
+        {
+          "speaker": "Baroness Whitaker",
+          "text": "How will you make sure this investment is good value for bill-payers?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "NESO is setting out possible routes that balance cost, security and cutting carbon. As the regulator, we want the Energy Secretary to pick the one that's cheapest for consumers."
+        },
+        {
+          "speaker": "Baroness Whitaker",
+          "text": "Almost everyone who's given us evidence says the current markets don't work for long-duration storage. Do you agree?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "Our scheme exists precisely because there are obstacles to getting that investment. It's a first attempt to get past them, and there's more to do."
+        },
+        {
+          "speaker": "Baroness Whitaker",
+          "text": "When will we see the results of your first round?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "This year. We'll write and confirm the date."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Hydrogen and heat storage could last 100 hours or more. Why were none of them chosen?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "I'd need to check, but I don't think any were. The first round only accepted well-proven technologies, so newer ones were effectively shut out."
+        }
+      ]
+    },
+    {
+      "title": "Relying on cables from abroad",
+      "takeaway": "Ofgem says the undersea cables to other countries are reliable and aren't fully counted on in planning, but accepts they aren't infallible.",
+      "turns": [
+        {
+          "speaker": "Lord Rooker",
+          "text": "Last year about 15% of our power came through undersea cables from other countries. Why are we so reliant on them?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "They give us access to a bigger market, which keeps prices down, and let us sell spare wind power abroad. Weather differs between countries, so there's usually somewhere that can help."
+        },
+        {
+          "speaker": "Lord Rooker",
+          "text": "And if our neighbours have the same weather and can't spare any?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "NESO doesn't count on getting their full output, and we make sure there's enough backup capacity in Britain to fill the gap."
+        },
+        {
+          "speaker": "Lord Rooker",
+          "text": "Cables on the seabed are much harder to protect than land links on the continent. Has deliberate damage been taken care of?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "Every source of power has a weak spot. Our job is to have enough variety that losing one cable or one big power station doesn't matter. The cables have been very reliable, but they aren't infallible."
+        },
+        {
+          "speaker": "Lord Trees",
+          "text": "Does anyone check that imported power comes from low-carbon sources?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "I don't believe there's any requirement. Power traded on European markets doesn't come labelled with how it was made. It's not my area of expertise, though."
+        },
+        {
+          "speaker": "Lord Ashcombe",
+          "text": "If we lost the foreign cables at a time of peak demand, could we produce enough power ourselves?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "With no wind or sun and demand at its peak, there's some dependence on imports, but not total dependence. You can't protect against absolutely everything without making the system enormously expensive."
+        },
+        {
+          "speaker": "Baroness McIntosh of Pickering",
+          "text": "Could new cables from the Netherlands and Belgium come ashore along the Thames and feed London directly?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "There's nothing in the regulations to stop it. Private developers choose where cables land, and I don't know whether it's technically possible."
+        }
+      ]
+    },
+    {
+      "title": "What's really holding things up",
+      "takeaway": "Ofgem says the biggest obstacle isn't its own rules but how slowly the grid is being built and projects connected to it.",
+      "turns": [
+        {
+          "speaker": "Earl Russell",
+          "text": "What regulations are still getting in the way of building storage and low-carbon power stations?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "Nothing particular comes to mind. The main problem is the grid: building it and getting new projects connected. Our job is to make sure the grid companies get the money and build quickly, without us holding them up."
+        },
+        {
+          "speaker": "Earl Russell",
+          "text": "And what's coming next on the grid?"
+        },
+        {
+          "speaker": "Peter Bingham",
+          "text": "Once the national energy plan is done, there'll be a follow-on plan for the high-voltage grid. We'll make sure the grid companies can raise the money to build what it says we need."
+        }
+      ]
+    }
+  ]
+}
