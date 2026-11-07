@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18249,
+  "activity_id": 39322,
+  "document_id": 310120,
+  "meeting_date": "2026-11-03",
+  "meeting_date_display": "3 November 2026",
+  "publication_date": "2026-11-06T15:33:50",
+  "title": "Consumer protection",
+  "committee": "Business, Innovation, Science and Trade Committee",
+  "committees": [
+    {
+      "id": 365,
+      "name": "Business, Innovation, Science and Trade Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9573,
+      "title": "Consumer protection",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Head of Consumer Rights and Food Policy",
+      "organisation": "Which?"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Lead Officer for eCommerce",
+      "organisation": "Chartered Trading Standards Institute"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Mr Reynolds",
+    "Sue Davies",
+    "Sarah Edwards",
+    "Antonia Bance",
+    "David MacKenzie",
+    "Dan Aldridge"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18249/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18249",
+  "source_sha256": "8e68e46210018d6dafd1dcce4ef188c7a39edfa08d0ddd6e44b2948739f1d8e7",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

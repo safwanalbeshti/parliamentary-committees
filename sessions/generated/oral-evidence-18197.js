@@ -1,6 +1,6 @@
 /*
  * Generated from UK Parliament oral evidence 18197.
- * Source status: Published. Source hash: 9a2cfa74f693565f5a452bb05a250e9ea435b49aa0b24578ff2b34d1e5457149
+ * Source status: Published. Source hash: e0a45fb17485a7e2451e8a19bb4a9708fba1651f56b9c8751959f6dda065a788
  * Contains Parliamentary information licensed under the Open Parliament Licence v3.0.
  */
 window.COMMITTEE_SESSIONS = window.COMMITTEE_SESSIONS || [];
@@ -11,7 +11,7 @@ window.COMMITTEE_SESSIONS.push({
   "date": "27 October 2026",
   "sourceUrl": "https://committees.parliament.uk/oralevidence/18197/html/",
   "sourceLabel": "Official published transcript",
-  "summary": "Minster Stephen Morgan and DEFRA directors gave evidence on fisheries negotiations, disease outbreaks and animal welfare, drought and water resilience, and major problems with the Sustainable Farming Incentive (SFI). Officials stressed following science in fisheries talks, work to support farmers through bluetongue and TB outbreaks, and measures to boost drought resilience; they admitted SFI window 2 was oversubscribed, that first-come first-served caused distress, and promised to scrap that approach while explaining limited budgets and reallocation across ELMs.",
+  "summary": "Ministers and officials from DEFRA told MPs they are trying to support fishing communities, tackle animal disease, speed up water resilience and fix problems with environmental payments. The session exposed clear tensions: fish stock negotiations and Norway access, high costs for farmers from bluetongue and TB testing, a controversial pig-stunning consultation, and a major failure in the Sustainable Farming Incentive window that left many farmers without support. DEFRA accepts lessons must be learned and promises policy work, more engagement and further detail in coming weeks.",
   "room": {
     "image": "Energy Resilience/committee_room_4.png",
     "width": 2788,
@@ -73,7 +73,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Stephen Morgan": {
       "name": "Stephen Morgan MP",
-      "role": "Parliamentary Under-Secretary of State, Department for Environment, Food and Rural Affairs",
+      "role": "Parliamentary Under-Secretary of State, DEFRA (Minister for Food, Fisheries and Farming)",
       "description": "",
       "kind": "witness",
       "seats": [
@@ -84,7 +84,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Mike Rowe": {
       "name": "Mike Rowe",
-      "role": "Farming Director, Department for Environment, Food and Rural Affairs",
+      "role": "Farming Director, Department for Environment, Food and Rural Affairs (DEFRA)",
       "description": "",
       "kind": "witness",
       "seats": [
@@ -95,7 +95,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Gareth Baynham-Hughes": {
       "name": "Gareth Baynham-Hughes",
-      "role": "Director of Marine and Fisheries, Department for Environment, Food and Rural Affairs",
+      "role": "Director of Marine and Fisheries, Department for Environment, Food and Rural Affairs (DEFRA)",
       "description": "",
       "kind": "witness",
       "seats": [
@@ -104,8 +104,8 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#9b543e",
       "soft": "#f2e0d7"
     },
-    "Sarah Bool": {
-      "name": "Sarah Bool",
+    "Sarah Dyke": {
+      "name": "Sarah Dyke",
       "role": "Member of the committee",
       "description": "",
       "kind": "member",
@@ -115,8 +115,8 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#287079",
       "soft": "#d9eeee"
     },
-    "Helena Dollimore": {
-      "name": "Helena Dollimore",
+    "Sarah Bool": {
+      "name": "Sarah Bool",
       "role": "Member of the committee",
       "description": "",
       "kind": "member",
@@ -126,8 +126,8 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#b17b2e",
       "soft": "#f5e8c4"
     },
-    "Sarah Dyke": {
-      "name": "Sarah Dyke",
+    "Josh Newbury": {
+      "name": "Josh Newbury",
       "role": "Member of the committee",
       "description": "",
       "kind": "member",
@@ -137,8 +137,8 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#8a5a78",
       "soft": "#f0e2ec"
     },
-    "Ben Goldsborough": {
-      "name": "Ben Goldsborough",
+    "Henry Tufnell": {
+      "name": "Henry Tufnell",
       "role": "Member of the committee",
       "description": "",
       "kind": "member",
@@ -148,8 +148,8 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#5c676d",
       "soft": "#e5e8e8"
     },
-    "Terry Jermy": {
-      "name": "Terry Jermy",
+    "Charlie Dewhirst": {
+      "name": "Charlie Dewhirst",
       "role": "Member of the committee",
       "description": "",
       "kind": "member",
@@ -159,8 +159,8 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#315f72",
       "soft": "#d7edf0"
     },
-    "Josh Newbury": {
-      "name": "Josh Newbury",
+    "Ben Goldsborough": {
+      "name": "Ben Goldsborough",
       "role": "Member of the committee",
       "description": "",
       "kind": "member",
@@ -170,8 +170,8 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#6f5c91",
       "soft": "#ebe2f5"
     },
-    "Henry Tufnell": {
-      "name": "Henry Tufnell",
+    "Helena Dollimore": {
+      "name": "Helena Dollimore",
       "role": "Member of the committee",
       "description": "",
       "kind": "member",
@@ -180,70 +180,69 @@ window.COMMITTEE_SESSIONS.push({
       ],
       "color": "#4c7b5d",
       "soft": "#dff0dd"
+    },
+    "Terry Jermy": {
+      "name": "Terry Jermy",
+      "role": "Member of the committee",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member2"
+      ],
+      "color": "#9b543e",
+      "soft": "#f2e0d7"
     }
   },
-  "transcript": "# The future of farming\n\n## Fisheries: who negotiates and who decides?\n> DEFRA officials lead negotiations using scientific advice; ministers set priorities but made no firm promise on a fisheries strategy or on changing access deals with Norway.\n\nChair: Who leads the year-end fisheries negotiations for the UK?\nStephen Morgan: DEFRA officials lead the detailed talks; I set the negotiation principles and engage with industry and counterparts as needed.\nChair: Will you produce a UK fishing strategy in the next 12 months?\nStephen Morgan: I agree there is no clear strategy at the moment. I'm keen to work with officials and the sector to set a long-term vision, but I didn't commit to a 12-month deadline today.\nChair: ICES advised a zero TAC for Northern Shelf cod. That treats three biological sub-stocks as one; do you accept that approach?\nGareth Baynham-Hughes: We start from the science. ICES set up a 'tiger team' to study sub-stock questions and gave scenarios for negotiations. A zero TAC is very difficult because of bycatch and impacts on other fisheries; negotiations must reflect the science.\nChair: Norway caught much more whitefish in UK waters than we did in theirs last year. Will the UK seek a fairer balance?\nGareth Baynham-Hughes: Some parts of the fleet benefit from reciprocal access and others feel disadvantaged. We will press for the best UK position with Norway, taking industry inputs into account.\nChair: Fishermen say large foreign trawlers are taking small saithe, hurting Shetland. Is that acceptable?\nGareth Baynham-Hughes: We know catch composition and local pressures matter; spatial or targeted closures are among the measures we can consider. These issues are on the table for negotiation.\nChair: Fuel costs are forcing boats to stop fishing. Other EU states are giving state aid. Will the UK help?\nStephen Morgan: We recognise fishermen's pressures. There is existing fuel tax support and we're reviewing options, including whether to reallocate existing funds, but there's no live UK equivalent to those EU aids yet.\nChair: Will any SPS deal with the EU affect UK fisheries management?\nStephen Morgan: I can't discuss negotiation detail here, but protecting British interests and our sovereign fishing policy remains vital.\n\n\n## Animal disease and welfare: bluetongue, TB and stunning\n> DEFRA supported vaccine supply and testing for bluetongue, will publish the TB strategy next stage before Christmas, and opened a consultation on pig stunning despite industry concerns about the evidence base.\n\nSarah Bool: Bluetongue caused thousands of cases this year and big disposal costs. What support will you give affected farmers?\nStephen Morgan: We worked with industry to ensure vaccine supply, improved testing, helped fallen stock processes, and published heat maps. We're doing lessons learned and monitoring the situation closely.\nSarah Bool: Some countries subsidise bluetongue vaccines. Will the UK do the same?\nStephen Morgan: At present we are not subsidising vaccines or making them mandatory; uptake decisions remain between farmers and vets. We emphasise clear communication to encourage vaccination.\nSarah Dyke: On TB: when will you respond to the June control strategy and improve testing accuracy?\nStephen Morgan: We have adopted the strategy and will publish the next stage before Christmas. We are developing cattle and badger vaccines, expanding testing, and establishing an industry-government board to drive delivery.\nMike Rowe: Officials are exploring all tools, including wider use of interferon-gamma testing and private blood tests to spot infection earlier and reduce unnecessary culling.\nJosh Newbury: You opened a consultation about phasing out CO2 stunning for pigs in favour of argon or electric systems, but the Animal Welfare Committee notes worrying welfare signals. Is the evidence strong enough?\nStephen Morgan: The consultation is intended to gather industry evidence before Ministers decide. I encourage stakeholders to respond; I will convene a summit to discuss pig sector pressures and implementation risks.\nMike Rowe: The consultation follows the Animal Welfare Committee's recommendation; it's the step to collect more evidence from industry about welfare, practicality and cost.\nChair: The pig sector fears a Christmas backlog of animals if abattoirs can't convert quickly. Will your summit address this immediate welfare risk?\nStephen Morgan: Yes. I want to work with processors and industry to identify short-term solutions and longer-term market forecasting to avoid backlogs that create welfare issues.\n\n\n## Water, drought and wildfires: reservoirs and licences\n> DEFRA increased funding for on-farm water measures and is working across government to speed up licences and planning, but system and planning barriers remain.\n\nTerry Jermy: Farmers need water licences and planning changes fast. When will getting abstraction licences and building reservoirs become easier?\nStephen Morgan: We have a £15m water management grant and set milestones through the farming and food partnership board with MHCLG and the Environment Agency to speed up planning and abstraction processes.\nMike Rowe: We're looking at smart abstraction pilots and automatic river monitoring to cut licence complexity and at where finance can speed reservoir construction; results should start showing next year.\nHelena Dollimore: You reallocated £50m into SFI for drought resilience. Was that ring-fenced for drought measures?\nStephen Morgan: We made £50m available; details of applications will be published next month.\nMike Rowe: We didn't ring-fence the £50m inside SFI because system changes would have delayed opening; we prioritised getting help out quickly but will consider tighter ring-fencing next year.\nHelena Dollimore: Farmers helped fight wildfires with firebreaks. Will DEFRA support farmers in preparedness and give local resilience forums better links to landowners?\nStephen Morgan: We praised farmers' actions at the wildfire summit and are adding wildfire-focused actions into environmental schemes and improving local preparedness through local resilience forums.\n\n\n## SFI window 2: oversubscription and fallout\n> SFI window 2 closed within hours, leaving many farmers without agreements; DEFRA accepts the process failed in practice, will scrap first-come, first-served, and is reviewing budgets and exceptional cases.\n\nSarah Bool: How many expiring agreements did you expect, how many applied in window 2, and what budget covered it?\nMike Rowe: We had in excess of 20,000 expiring agreements. Window 2 received about 12,200 applications. The budget was increased from about £180m to around £253m after extra allocations, but demand still outstripped supply.\nSarah Bool: So thousands who expected to renew missed out. Why keep first-come, first-served knowing demand was high?\nStephen Morgan: I have already said we will move away from first-come, first-served. The scheme design was set before my appointment but I accept the distress caused and will learn lessons.\nChair: The NFU estimates expiring agreements were worth £520m but SFI windows total £310m—a £210m gap. Where does that money go?\nMike Rowe: There isn't 'missing' money. The wider farming budget is finite; some historic agreements move into higher tier or landscape recovery and the overall spending envelope is allocated across the ELMs suite.\nSarah Bool: DEFRA added an exceptions process for people who had technical problems. How many will be accepted and what will it cost?\nMike Rowe: RPA is reviewing two groups—those needing digital help and those reporting system issues—and will contact applicants individually. Our estimate is the cost is under £5m, depending on outcomes.\nJosh Newbury: SFI is public money for public goods, unlike Basic Payment. Will you track how many farms end up with no ELM revenue by 2027?\nMike Rowe: We have 84,000 live ELM revenue agreements now. The exact number without revenue by 2027 depends on next year's scheme design; we will model and publish data as plans solidify.\nChair: Farmers feel confidence in DEFRA's delivery has been damaged. How will you rebuild trust?\nStephen Morgan: By co-designing the scheme with industry and parliamentarians, publishing clearer proposals early, scrapping first-come, first-served and fixing RPA/technical issues so people can plan.\n\n\n## Higher tier, landscape recovery and uplands\n> Higher tier and landscape recovery are delivering but are complex; officials will simplify administration, tackle common-land software issues, and handle upland HLS expiries case by case.\n\nJosh Newbury: Is countryside stewardship higher tier and landscape recovery delivering value for money and access for smaller farms?\nMike Rowe: We're opening higher tier with new single-action agreements and an expression-of-interest process; since launching we've approved 751 agreements worth £31.8m. Landscape recovery is novel and complex—56 projects in development, three in implementation—so we're advising Ministers how to speed delivery.\nJosh Newbury: Projects like Greater Sedgemoor are ready to implement but waiting. Can DEFRA prioritise getting those on the ground?\nStephen Morgan: Yes. I'll review their status and press officials to move ready projects to implementation and address the two-year withdrawal concern that discourages farmers from joining.\nHenry Tufnell: What about uplands like Dartmoor and HLS expiries? Farmers fear cliff-edge losses and blanket de-stocking.\nMike Rowe: We are taking a cohort-by-cohort approach driven by SSSI condition. Natural England advises on site condition; transitions will vary by area rather than a single national rule.\nStephen Morgan: I want place-based, community-led work in uplands—Hilary Cottam's efforts are an example—and I will press for tailored solutions rather than blunt reductions.\nMike Rowe: Common land eligibility is a legacy issue in the systems. The RPA is piloting access to higher tier on common land; SFI currently excludes it but we're working to fix that.\n\n\n## Abattoirs, markets and sector growth plans\n> DEFRA accepts local abattoir closures are a problem, wants to ease regulation, produce sector growth plans (horticulture, poultry) and explore private finance for nature markets, but funding is limited.\n\nHelena Dollimore: Local abattoirs are disappearing. Will DEFRA treat them as vital infrastructure and fund or support them?\nStephen Morgan: We work with an abattoir working group and task-and-finish groups to reduce regulatory burdens and examine what support might help; the Smaller Abattoir Fund closed but we are considering options.\nBen Goldsborough: Protected horticulture needs SIC codes to access EII support for energy. Will you press other Departments to fix that so growers can compete?\nStephen Morgan: Horticulture is a priority in our sector growth plans. The partnership board has cross-Government membership; if a SIC code change is warranted it will be raised and pursued.\nBen Goldsborough: DEFRA's roadmap expects private nature markets to help fund environmental land management—how will you make those markets work for upland and smaller farms?\nMike Rowe: We published 'Growing Places' and set up a working group to identify where private finance works and remove barriers. It's patchy now; we'll try to scale successful models and protect public funding where private finance can't operate.\nChair: Finally, there's concern about optics: DEFRA funding part of the Rothbury Estate purchase while many farmers missed SFI offers. How do you respond?\nMike Rowe: That funding was outside the farming budget and tied to international biodiversity commitments. We must balance international obligations with domestic priorities and ensure tenant impacts are managed.\nChair: Thank you. We'll follow up on outstanding issues—wool market, milking goats, and detailed SFI data—by correspondence.\nStephen Morgan: Thank you. We will provide further detail and work with the Committee while we implement lessons and plans for the future.\n",
+  "transcript": "# The future of farming\n\n## Fisheries: engagement, negotiations and Norway access\n> DEFRA says negotiations will follow science; fishing communities want a clear strategy and fairer access deals with Norway.\n\nChair: You were reappointed as a Minister — does being a Parliamentary Under-Secretary change how you can do the job?\nStephen Morgan: No — the grades differ but my role is the same: listen to the sector, act on evidence and support resilience across farming and fisheries.\nChair: Our report suggested regional management groups and a sea-use framework — you rejected those. Why?\nStephen Morgan: We already engage through regional fisheries groups and the MMO. I want engagement to be meaningful and drive a thriving, sustainable industry.\nChair: Will you produce a fisheries strategy within 12 months?\nStephen Morgan: I recognise we lack a clear fisheries strategy; I'll work with officials and the sector to set a long-term vision, and I'm meeting the APPG soon.\nChair: Who leads the year-end quota negotiations?\nStephen Morgan: DEFRA officials lead them; Gareth sets out the science-led parameters I approve and I will engage where needed.\nGareth Baynham-Hughes: Our starting point is ICES science. It set up a tiger team on northern shelf cod; advisers sent us a letter thanking UK scientists for their input.\nChair: ICES advised a zero TAC for northern shelf cod. Is treating three sub-stocks as one sensible?\nGareth Baynham-Hughes: ICES manages those sub-stocks as a single northern-shelf stock for TAC setting. Scientists are still working on sub-stock uncertainty and recovery potential.\nChair: Norway caught 22,581 tonnes of whitefish in UK waters last year; the UK took 9,496 tonnes in Norwegian waters — how did that imbalance happen?\nStephen Morgan: I raised the issue in Norway and recognise the concerns. Access is reciprocal under current arrangements and is under review in these negotiations.\nGareth Baynham-Hughes: There is an overall balance in access but some parts of the UK fleet — Shetland, for example — feel disadvantaged. We’re engaging with the sector to secure the best UK position.\nChair: Saithe: large foreign trips can take big shares of quota and catch immature fish. Does last year's deal help or hinder the stock?\nGareth Baynham-Hughes: We factor catch composition and stock condition into TACs. Bycatch and spatial measures are part of the conversation—these are live, complicated issues.\nChair: Fuel costs are forcing boats to stay ashore. Will you match EU state aids to help our fleet?\nStephen Morgan: We’re monitoring fuel pressures and have existing tax-based fuel support. Calls exist to reallocate funds like the coastal growth fund; we’re looking at options.\nGareth Baynham-Hughes: The sector asked if money could be reallocated. Officials are working through whether that is possible; any change is a ministerial decision.\nChair: Will an SPS agreement with the EU affect the UK’s sovereign fisheries management?\nGareth Baynham-Hughes: We are not worried about losing sovereign fishing policy since we left the CFP; we will protect UK interests.\n\n\n## Animal disease: bluetongue, TB and testing\n> DEFRA expanded testing and supported vaccine supply for bluetongue, rejects subsidising vaccines, will publish next TB delivery steps before Christmas.\n\nSarah Dyke: Bluetongue this year has been devastating—high disposal costs and fertility losses. What support will you give affected farmers?\nStephen Morgan: I’ve visited affected farms. DEFRA helped secure vaccine supply, eased some admin, funded veterinary support, expanded testing and improved case maps; we’re doing lessons learned work.\nSarah Dyke: Some EU countries subsidise vaccination. Will you?\nStephen Morgan: We’re not moving to mandatory or subsidised vaccination now; vaccination is a farm decision with vets. Costs are typically £2.50–£3 per dose.\nSarah Dyke: Communication delays left farmers feeling they lost the chance to vaccinate early. Who was responsible?\nStephen Morgan: DEFRA led a partnership response—APHA, Pirbright, NFU—and ran webinars and blogs. There are lessons to learn and we will improve communications.\nSarah Dyke: On bovine TB: when will you respond to the June control strategy and how will you reduce false reactors on tests?\nStephen Morgan: We’ve adopted the TB control strategy and will publish the next steps before Christmas. We’re developing cattle vaccines, rolling out badger vaccination and expanding interferon-gamma testing.\nMike Rowe: Work is underway on blood testing and other measures to improve detection and limit unnecessary slaughter; we’ll look at options the Committee raised.\n\n\n## Abattoirs and slaughter welfare: CO2 consultation and capacity\n> DEFRA has launched a consultation to phase out CO2 stunning for pigs as part of an animal welfare roadmap; industry warns evidence is weak and abattoir capacity is constrained.\n\nJosh Newbury: You’ve opened a consultation on replacing CO2 with argon or electric stunning, but trials show welfare problems and practical challenges. Is the evidence strong enough?\nStephen Morgan: The consultation reflects the animal welfare strategy; we’ve engaged industry and want views. The consultation will gather the evidence to inform Ministers.\nMike Rowe: The consultation is to collect industry evidence on methods and impacts. It follows the Animal Welfare Committee’s recommendations and will inform decisions.\nJosh Newbury: Industry says there were no proper trials and abattoirs may need two to three years and major conversions. Meanwhile 15,000 pigs are already backed up on farms—will your planned summit address the immediate welfare risk?\nStephen Morgan: I’ll convene industry, processors and others at a summit to discuss market monitoring, forecasting and how Government can help avoid short-term welfare problems.\nCharlie Dewhirst: Argon and nitrogen are produced largely abroad; relying on imports could affect food security. Do you accept supply-chain risks?\nStephen Morgan: We’ll look at those logistical concerns as part of the consultation and follow-up with industry.\nHelena Dollimore: Small abattoirs are collapsing; around 2,500 in the 1970s to 200 today. Will you treat abattoirs as critical infrastructure and consider a dedicated fund?\nStephen Morgan: We work with an abattoir group and task forces; we’re exploring regulatory relief and other measures. The closed Smaller Abattoir Fund is under review for alternatives.\nMike Rowe: We’re also looking at reducing inspection burdens and other proportionate regulatory changes to help smaller abattoirs survive.\n\n\n## Water, reservoirs and drought resilience\n> Government has funds for on-farm reservoirs but planning and abstraction licences cause delays; cross-government action is underway to speed approvals.\n\nTerry Jermy: Farmers need fast decisions on abstraction licences now — seed orders are due but licences expire next March. When will the process be easier?\nStephen Morgan: We announced a £15m water-management grant; the detail is coming next month. We’re working across Government, including MHCLG, to speed planning and licensing and set milestones agreed at the partnership board.\nMike Rowe: We’re taking a system-wide look: planning, Natural England screening, Environment Agency licences and tech solutions like smart abstraction monitoring are all on the table.\nHelena Dollimore: You announced £50m reallocated to SFI for drought resilience; why wasn’t that ring-fenced for reservoirs?\nMike Rowe: We prioritised getting applications open quickly; ring-fencing would have required system changes that would have slowed delivery. We’ll consider options for next year.\n\n\n## SFI and ELMs: the failed window and the fallout\n> Window 2 of SFI closed within hours and left many farmers without agreements; DEFRA accepts lessons must be learned and will change first-come, first-served, but funding constraints remain central.\n\nSarah Bool: Window 2 opened at 10am and shut within six hours. How many expiring agreements did you expect and what budget did you set?\nMike Rowe: We had over 20,000 expiring agreements and expected high demand. Window 2 received around 12,200 applications. The scheme’s budget was increased from about £180m to roughly £253m after extra funding.\nSarah Bool: The NFU says expiring agreements were worth £520m but the two windows had £310m — where’s the £210m gap?\nMike Rowe: Those figures assume every expiring agreement would transfer into SFI; some land moves to higher-tier schemes or landscape recovery. Money isn’t ‘missing’ but the funding envelope is finite and allocations were reassessed.\nChair: You kept first come, first served despite clear signs of oversubscription. Why wasn’t the window paused and redesigned?\nStephen Morgan: The scheme design and timetable were set before my appointment. I accept lessons must be learned. I’ve committed to end first-come, first-served and to co-design changes with the sector.\nSarah Bool: Farmers were left without certainty; many say DEFRA set them up to fail. How will you prevent a repeat?\nMike Rowe: We’ll scrap first-come, first-served, review actions, payment rates and caps, and work with stakeholders on a fairer allocation system for next year.\nSarah Bool: RPA is checking exceptions reported after closure. How many cases and will those applicants get agreements?\nMike Rowe: There are two groups—those who asked for digital help and those who reported system issues. RPA is checking case by case; our preliminary estimate of affected payments is under £5m but the figure will be clarified.\nJosh Newbury: SFI funds public goods, not basic income. But many farms may now have no public support. How will you support farms left outside the schemes?\nMike Rowe: SFI never aimed to be universal income support. We are trying to spread finite public money where it produces the best environmental outcomes while supporting productivity through other policies.\nBen Goldsborough: Private nature markets are supposed to fill gaps. Farmers say those markets don’t exist for upland or small farms. What are you doing?\nMike Rowe: We published 'Growing Places' and set up a private-finance working group to identify where markets work, the barriers and conditions for success. It’s early work but a priority.\n\n\n## Uplands, Landscape Recovery and countryside stewardship\n> Upland communities fear cliff-edge funding and heavy-handed conservation rules; DEFRA pledges local engagement, targeted transitions and legal reviews.\n\nHenry Tufnell: What will uplands look like in 20 years? Is livestock central or a problem to manage?\nStephen Morgan: I want uplands to be productive and nature-rich. It’s not binary: grazing management must be tailored by place. Dr Hilary Cottam’s community-led work on Dartmoor is a useful model.\nHenry Tufnell: There are 5,400 higher-level stewardship agreements expiring in 2027–28. Will Natural England and RPA have capacity to replace them without cliff edges?\nMike Rowe: We’re taking a cohort-by-cohort approach: some expiring agreements can move straight into higher tier; others need tailored handling, especially where SSSIs are involved. Natural England is working through cohorts now.\nHenry Tufnell: Dartmoor figures show proposed de-stocking levels of around 76% in some places. Is that DEFRA policy or Natural England’s?\nMike Rowe: Natural England advises on SSSI condition and required actions. We are working with them and local groups to find solutions that reduce overwintering pressure but avoid one-size-fits-all measures.\nChair: Common land is still excluded from SFI because of legacy software issues. When will that be fixed?\nMike Rowe: RPA is piloting fixes to put higher-tier stewardship on the system and address common-land eligibility. It’s an old technical barrier and we're working to resolve it.\nJosh Newbury: Landscape Recovery has 56 projects in development but only three in implementation. Why so slow?\nStephen Morgan: The projects are complex, involve many landowners and carry long-term public money. We’re advising on simplifying governance and speeding up transitions where we can.\nMike Rowe: Landscape Recovery is innovative and therefore implementation is harder than SFI. Ministers have asked for practical advice to open the pipeline without diluting outcomes.\nChair: We will follow up in writing on many of these issues. Thank you for coming today.\n",
   "inquiry": "The future of farming",
   "glossary": [
     {
       "term": "TAC",
-      "definition": "Total Allowable Catch: the limit set for how much of a fish stock can be caught in a year."
+      "definition": "Total allowable catch: the amount of a fish species that countries agree may be caught in a year."
     },
     {
       "term": "ICES",
-      "definition": "International Council for the Exploration of the Sea: independent scientists who advise on fish stock health."
+      "definition": "International Council for the Exploration of the Sea: provides scientific advice on marine stocks."
     },
     {
       "term": "MMO",
-      "definition": "Marine Management Organisation: the UK regulator that engages with the fishing industry."
+      "definition": "Marine Management Organisation: UK regulator for marine activities, including fisheries."
     },
     {
       "term": "SFI",
-      "definition": "Sustainable Farming Incentive: a DEFRA scheme that pays farmers for actions that deliver public environmental benefits."
+      "definition": "Sustainable Farming Incentive: a DEFRA payment scheme that pays farmers for specific environmental actions."
     },
     {
       "term": "ELMs",
-      "definition": "Environmental Land Management schemes: the set of public schemes (including SFI, higher tier, landscape recovery) that pay for environmental outcomes on farms."
+      "definition": "Environmental Land Management schemes: DEFRA’s suite of public-money-for-public-goods farming schemes including SFI, Higher Tier and Landscape Recovery."
     },
     {
       "term": "APHA",
-      "definition": "Animal and Plant Health Agency: DEFRA's agency responsible for animal disease testing and control."
+      "definition": "Animal and Plant Health Agency: government agency that tests and responds to animal disease outbreaks."
     },
     {
       "term": "Pirbright",
-      "definition": "The Pirbright Institute: a UK research centre working on animal infectious diseases."
+      "definition": "The Pirbright Institute: research centre that works on infectious animal diseases and testing."
     },
     {
-      "term": "SPS",
-      "definition": "Sanitary and Phytosanitary agreement: trade rules on food safety and animal/plant health between countries."
-    },
-    {
-      "term": "NFU",
-      "definition": "National Farmers' Union: the main farming membership organisation in England and Wales."
+      "term": "SPS agreement",
+      "definition": "Sanitary and Phytosanitary agreement: trade rules on animal and plant health measures affecting imports and exports."
     },
     {
       "term": "RPA",
-      "definition": "Rural Payments Agency: DEFRA's agency that runs farm payments and manages scheme applications."
+      "definition": "Rural Payments Agency: body that administers payments to farmers on behalf of DEFRA."
     },
     {
       "term": "SSSI",
-      "definition": "Site of Special Scientific Interest: a legally protected area for wildlife or geology."
+      "definition": "Site of Special Scientific Interest: protected areas designated for conservation of wildlife or geology."
     },
     {
-      "term": "HLS",
-      "definition": "Higher Level Stewardship: an older agri-environment agreement due to expire and transition into new schemes."
+      "term": "Landscape recovery",
+      "definition": "An ELM scheme that funds long-term, large-scale environmental projects involving multiple landowners."
     },
     {
-      "term": "landscape recovery",
-      "definition": "An ELMs scheme funding long-term, large-scale environmental projects across multiple landowners."
-    },
-    {
-      "term": "countryside stewardship",
-      "definition": "An agri-environment scheme for targeted land management actions, part of the ELMs suite."
-    },
-    {
-      "term": "EII",
-      "definition": "Energy Intensive Industry compensation: support for businesses facing high energy costs, tied to industrial classifications."
+      "term": "Countryside stewardship",
+      "definition": "A higher-tier ELM payment that supports targeted on-farm environmental actions."
     }
   ]
 });

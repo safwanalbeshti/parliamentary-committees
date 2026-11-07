@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "source_id": 18247,
+  "source_sha256": "2e4e224f5af0465f2579351640f47e2181b77f4355e0598feb1074fead6440e5",
+  "title": "Why Oxford–Milton Keynes trains still haven't started: staffing dispute and readiness",
+  "label": "4 November 2026 · East West Rail: delivery and delay",
+  "summary": "Witnesses told the Transport Committee that most physical work to open the Oxford–Milton Keynes section of East West Rail is complete — stations, train modifications and much driver training — but passenger services have been blocked for 744 days mainly by an unresolved union dispute about the role and pay of a second safety‑critical member of staff on trains. The Department, operator Chiltern and the unions are negotiating; officials and managers say the remaining steps are routine (final training, safety validation and approvals) and expect a resolution in weeks rather than years, though no date was set.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Ruth Cadbury",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Tony Baxter",
+      "name": "Tony Baxter",
+      "role": "Interim Managing Director, Chiltern Railways",
+      "kind": "witness"
+    },
+    {
+      "label": "Eddie Dempsey",
+      "name": "Eddie Dempsey",
+      "role": "General Secretary, RMT Union",
+      "kind": "witness"
+    },
+    {
+      "label": "Dave Calfe",
+      "name": "Dave Calfe",
+      "role": "General Secretary, ASLEF",
+      "kind": "witness"
+    },
+    {
+      "label": "Jodie Lofthouse",
+      "name": "Jodie Lofthouse",
+      "role": "Programme Director for East West Rail, Department for Transport",
+      "kind": "witness"
+    },
+    {
+      "label": "Alex Mayer",
+      "name": "Alex Mayer",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Steff Aquarone",
+      "name": "Steff Aquarone",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Olly Glover",
+      "name": "Olly Glover",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Joe Morris",
+      "name": "Joe Morris",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Daniel Francis",
+      "name": "Daniel Francis",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "DOO",
+      "definition": "Driver-only operation: the driver is the sole safety‑critical staff member responsible for doors and dispatch."
+    },
+    {
+      "term": "DCO",
+      "definition": "Driver-controlled operation: the driver controls the train but a second staff member can be present with other duties."
+    },
+    {
+      "term": "CSI",
+      "definition": "Customer Service Inspector: the operator's proposed second on-board person focused on customer service and visibility, not dispatch."
+    },
+    {
+      "term": "ORR",
+      "definition": "Office of Rail and Road: the rail safety regulator that approves operating methods."
+    },
+    {
+      "term": "GBR",
+      "definition": "Great British Railways: planned national rail body intended to provide a strategic overview and single employer role."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Why no passenger services yet",
+      "takeaway": "Most infrastructure and trains are ready, but services are blocked mainly by an unresolved staffing dispute.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "The line between Oxford and Milton Keynes opened 744 days ago — why has no passenger service yet run?"
+        },
+        {
+          "speaker": "Eddie Dempsey",
+          "text": "There were technical delays and a late contract award after the election, but for us the key issue is staffing: formal consultation on staff arrangements only started in July, and we're still negotiating what the second person on board will do."
+        },
+        {
+          "speaker": "Jodie Lofthouse",
+          "text": "I share residents' frustration. The Department and Chiltern have completed much of the mobilisation: driver training, train modifications and station work, but we still need an agreed operating model before we set a service date."
+        },
+        {
+          "speaker": "Tony Baxter",
+          "text": "Chiltern has done the train modifications, recruited and trained drivers, and largely finished station fit-out at Winslow — the remaining blocking point is reaching agreement with the unions on the method of operation."
+        }
+      ]
+    },
+    {
+      "title": "The unions' safety argument",
+      "takeaway": "RMT wants a second safety‑critical staff member with full guard responsibilities; the operator proposes CSIs with limited safety duties — the disagreement is small in pay but central to safety and roles.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "RMT, is this dispute primarily about passenger safety or about jobs and timing?"
+        },
+        {
+          "speaker": "Eddie Dempsey",
+          "text": "It's about passenger safety. We want a second safety‑critical person able to carry out full guard duties: evacuation, protecting the line and managing the platform‑train interface."
+        },
+        {
+          "speaker": "Alex Mayer",
+          "text": "How many staff are we talking about and what's the pay difference?"
+        },
+        {
+          "speaker": "Eddie Dempsey",
+          "text": "Fewer than 40 people. The difference in pay for a second safety‑critical role is about £5,000 each; the total cost to resolve it is roughly £150k–£200k a year."
+        },
+        {
+          "speaker": "Alex Mayer",
+          "text": "Is dispatch the main safety concern — why can't the driver handle doors and dispatch?"
+        },
+        {
+          "speaker": "Eddie Dempsey",
+          "text": "Drivers can operate doors, but the platform‑train interface is where many injuries occur; having another trained person to manage dispatch, accessibility and incidents gives extra assurance and can prevent traps and drags."
+        },
+        {
+          "speaker": "Steff Aquarone",
+          "text": "The ORR considers DOO safe in many cases — why do you disagree with the regulator?"
+        },
+        {
+          "speaker": "Eddie Dempsey",
+          "text": "My experience as a driver and safety rep tells me having staff on board who can carry out full safety duties matters, especially at night and for vulnerable passengers; this is as much about the kind of railway we want as about formal regulation."
+        },
+        {
+          "speaker": "Dave Calfe",
+          "text": "ASLEF is waiting for the RMT to conclude its talks; we will then discuss driver arrangements. We support a properly crewed railway and aren't rushing into a separate dispute."
+        }
+      ]
+    },
+    {
+      "title": "Operational readiness and other issues",
+      "takeaway": "Train and station work is almost done; outstanding items are union agreement, final training, safety validations and regulatory approvals.",
+      "turns": [
+        {
+          "speaker": "Tony Baxter",
+          "text": "We've taken on the 196 trains, completed modifications, recruited 44 drivers and finished most station fit‑outs; Winslow handover is in progress and some legal lease issues are now resolved."
+        },
+        {
+          "speaker": "Alex Mayer",
+          "text": "How long after an agreement would it take to start services?"
+        },
+        {
+          "speaker": "Tony Baxter",
+          "text": "It's difficult to give a firm date because some final steps need partners' input, but the remaining tasks — updating training, final driver route and train training, and safety validation with the ORR — are routine."
+        },
+        {
+          "speaker": "Jodie Lofthouse",
+          "text": "The Department supported appointing Chiltern as operator; risks like industrial relations were on our registers and we set escalation routes when they materialised."
+        },
+        {
+          "speaker": "Daniel Francis",
+          "text": "Does public ownership of Chiltern from September 2026 change the prospects?"
+        },
+        {
+          "speaker": "Tony Baxter",
+          "text": "Not materially. Industrial relations are generally good; being publicly owned doesn't remove the need for approvals and agreements, but we continue to work closely with the Department."
+        },
+        {
+          "speaker": "Dave Calfe",
+          "text": "One practical lesson: use existing depots. Drivers were initially based at Banbury but work was moved to Bletchley — using the existing depot at Bletchley would have been more efficient."
+        }
+      ]
+    },
+    {
+      "title": "Lessons learned and next steps",
+      "takeaway": "Officials say key lessons are earlier operator involvement and integrated delivery; all parties say they want a quick resolution and expect weeks rather than years, but no firm start date was given.",
+      "turns": [
+        {
+          "speaker": "Jodie Lofthouse",
+          "text": "Key lessons for future phases: bring the operator in earlier, adopt a systems view with all delivery partners, and give the delivery body a strong integration role to avoid late changes."
+        },
+        {
+          "speaker": "Tony Baxter",
+          "text": "Early operating involvement avoids small late changes that cumulatively delay delivery — that includes station fit‑outs and detail design for services."
+        },
+        {
+          "speaker": "Olly Glover",
+          "text": "What will each of you do next to get the dispute resolved and services running, and when do you think that will happen?"
+        },
+        {
+          "speaker": "Dave Calfe",
+          "text": "ASLEF will engage fully once RMT and Chiltern conclude discussions. I can't give a precise timescale because we're waiting on those talks."
+        },
+        {
+          "speaker": "Tony Baxter",
+          "text": "Chiltern is focused on negotiations, will keep liaising with the Department and will speed through final ratifications once there is agreement; we don't expect it to be years."
+        },
+        {
+          "speaker": "Jodie Lofthouse",
+          "text": "The Department will continue to advise Ministers and support Chiltern; it's for Ministers to decide any further action but our objective is to get services running quickly."
+        },
+        {
+          "speaker": "Eddie Dempsey",
+          "text": "We're in good faith negotiations and hopeful common sense will prevail; we think this could be wrapped up in weeks."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you all. The meeting was illuminating — please follow up in writing if you want to add anything. We'll suspend briefly before the next panel."
+        }
+      ]
+    }
+  ]
+}

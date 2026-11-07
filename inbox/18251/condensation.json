@@ -1,0 +1,292 @@
+{
+  "schema_version": 1,
+  "source_id": 18251,
+  "source_sha256": "2e075826f5b366574f68be1664b6a91f77c72e9cb012f79b4afb202d59292812",
+  "title": "Prison culture: how we got to a 'permacrisis' and what could help",
+  "label": "3 November 2026 · Prison culture evidence",
+  "summary": "Dame Anne Owers, former Chief Inspector of Prisons and former Independent Reviewer of Prison Capacity, explained why she calls the current situation a 'permacrisis'. She said rising sentences and under-funded community services (‘not prison’) drive demand, staffing is inexperienced and under-trained, purposeful activity has fallen, probation is strained, oversight recommendations are often unimplemented, and removing Crown immunity would improve accountability. She argued for an independent forward-looking capacity body, better training, more third-sector partnership, and structured sentences with community support.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Foster of Bath",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Dame Anne Owers",
+      "name": "Dame Anne Owers",
+      "role": "Former Chief Inspector of Prisons; former Independent Reviewer of Prison Capacity; Chair of the Howard League",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Tope",
+      "name": "Lord Tope",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Berridge",
+      "name": "Baroness Berridge",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Bertin",
+      "name": "Baroness Bertin",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Hogan-Howe",
+      "name": "Lord Hogan-Howe",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Buscombe",
+      "name": "Baroness Buscombe",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Bach",
+      "name": "Lord Bach",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Hughes of Stretford",
+      "name": "Baroness Hughes of Stretford",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Dubs",
+      "name": "Lord Dubs",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Anderson of Ipswich",
+      "name": "Lord Anderson of Ipswich",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Empey",
+      "name": "Lord Empey",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Probation Service",
+      "definition": "The part of the criminal justice system that supervises offenders in the community and delivers rehabilitation services."
+    },
+    {
+      "term": "Tagging",
+      "definition": "Electronic monitoring of offenders (location or sobriety) used after release to enforce conditions."
+    },
+    {
+      "term": "Independent Monitoring Boards (IMB)",
+      "definition": "Local volunteer boards that monitor the day-to-day life and treatment of prisoners in each prison."
+    },
+    {
+      "term": "Remand",
+      "definition": "Holding someone in custody before trial or sentencing."
+    },
+    {
+      "term": "Parole",
+      "definition": "Conditional release from prison before the end of a sentence, usually with supervision."
+    },
+    {
+      "term": "Crown immunity",
+      "definition": "Legal protection that can limit suing or fining public bodies for failures that private bodies could face."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Diagnosis: the 'permacrisis' in prisons",
+      "takeaway": "Prison pressure comes from rising sentence lengths and weak community services; capacity is more than physical beds.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Dame Anne, could you introduce yourself and briefly say how we get out of the prison capacity crisis?"
+        },
+        {
+          "speaker": "Dame Anne Owers",
+          "text": "I was Chief Inspector of Prisons, then ran the Independent Police Complaints Commission, chaired Independent Monitoring Boards, and now chair the Howard League. I wrote a review calling the situation a 'permacrisis'—not a single spike but ongoing crises."
+        },
+        {
+          "speaker": "Lord Tope",
+          "text": "You recommended five actions in your review. Which government responses were not accepted and how are the others progressing?"
+        },
+        {
+          "speaker": "Dame Anne Owers",
+          "text": "Many recommendations were accepted 'in principle' but practice lagged. Two big drivers keep raising demand: much longer sentences recently, and lack of investment in ‘not prison’ services—mental health, housing, drugs treatment, employment—so people cycle back in."
+        },
+        {
+          "speaker": "Dame Anne Owers",
+          "text": "I recommended an independent advisory body to test capacity strategies and to assess the effects of policy changes on prisons and probation; I haven't seen that created yet."
+        }
+      ]
+    },
+    {
+      "title": "Sentencing and the limits of 'early release'",
+      "takeaway": "Sentence lengths have grown; simply releasing people early isn't a solution without structured community support.",
+      "turns": [
+        {
+          "speaker": "Lord Empey",
+          "text": "Longer sentences are political. Would shorter sentences reduce prison numbers, or is that simplistic?"
+        },
+        {
+          "speaker": "Dame Anne Owers",
+          "text": "Short sentences generally don't work as a solution—unless you invest heavily in community services. We've relied on 'early release' to manage capacity, but that term hides a problem: public experience looks random."
+        },
+        {
+          "speaker": "Dame Anne Owers",
+          "text": "I'd prefer talking about 'conditional release' and structured sentences: a planned split between time in custody and supervised community time that depends on real work in prison and the community."
+        }
+      ]
+    },
+    {
+      "title": "Tagging, probation and 'not prison' services",
+      "takeaway": "Tagging and enforcement have limits; without housing, health and treatment in the community, people return to prison.",
+      "turns": [
+        {
+          "speaker": "Baroness Bertin",
+          "text": "On tagging: victims fear early release schemes because tags aren't always fitted or enforced. What do you think?"
+        },
+        {
+          "speaker": "Dame Anne Owers",
+          "text": "Tagging has enforcement value and new tech (geofencing, sobriety tags) can help, but it's still enforcement not support. People released often need housing, mental-health care, addiction services and work—those are stretched in the community."
+        },
+        {
+          "speaker": "Lord Hogan-Howe",
+          "text": "Sobriety tags and geofencing can reduce offending and reassure victims. Has the future of monitoring been planned?"
+        },
+        {
+          "speaker": "Dame Anne Owers",
+          "text": "The technology helps, but without tackling root causes—homelessness, addiction, poor healthcare—you won't make communities safer in the long run."
+        },
+        {
+          "speaker": "Baroness Berridge",
+          "text": "You urged more planning with the third sector. How well can charities engage now?"
+        },
+        {
+          "speaker": "Dame Anne Owers",
+          "text": "Third-sector groups have been vital but are often treated as add-ons, hit by funding volatility and procurement complexity. They must be genuine partners, involved in planning and resourcing, not just delivery."
+        }
+      ]
+    },
+    {
+      "title": "Staffing, governors and purposeful activity",
+      "takeaway": "Rapid staff turnover and low training reduce experienced officers; purposeful activity and vocational training have fallen, affecting safety and rehabilitation.",
+      "turns": [
+        {
+          "speaker": "Lord Bach",
+          "text": "What are the main problems with prison staff, and any solutions?"
+        },
+        {
+          "speaker": "Dame Anne Owers",
+          "text": "Staffing is a real problem. About 31% of main prison officers have been there less than three years; only 25% have more than ten. In 2010, it was 13% under three years and 56% over ten. That loss of experience matters."
+        },
+        {
+          "speaker": "Dame Anne Owers",
+          "text": "We need better recruitment, screening so people understand the job, more initial and ongoing training, and better respect for the profession—without necessarily copying long academic routes used abroad."
+        },
+        {
+          "speaker": "Lord Bach",
+          "text": "Would making the role more professional and valued help recruitment and retention?"
+        },
+        {
+          "speaker": "Dame Anne Owers",
+          "text": "Yes—public understanding and respect help; so does investment in training and career paths."
+        },
+        {
+          "speaker": "Baroness Hughes of Stretford",
+          "text": "Purposeful activity has declined. Is this lack of activity down to money, staff attitude, or difficulty?"
+        },
+        {
+          "speaker": "Dame Anne Owers",
+          "text": "It's a mix: more prisoners stretch budgets, which effectively cuts education when numbers rise; vocational training has fallen; Covid and inexperience have normalised long lock-up times—inspectorate surveys found about 34% locked up 22 hours a day."
+        },
+        {
+          "speaker": "Dame Anne Owers",
+          "text": "Good purposeful activity reduces violence and reoffending. Practical vocational work often engages people who distrust classroom teaching."
+        },
+        {
+          "speaker": "Lord Dubs",
+          "text": "Governors say excessive central bureaucracy limits them. Are governors overloaded and should they have more autonomy?"
+        },
+        {
+          "speaker": "Dame Anne Owers",
+          "text": "Governors feel tied by central rules. More local autonomy could help, but it needs matched investment in training and stability—too many governors change posts quickly so plans never land."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Should governors have more say in recruiting staff?"
+        },
+        {
+          "speaker": "Dame Anne Owers",
+          "text": "Yes. Governors could better select staff who fit the local culture and demand; interview processes also need to test if candidates understand the job."
+        }
+      ]
+    },
+    {
+      "title": "Oversight, accountability and safety",
+      "takeaway": "Inspections and boards highlight problems but lack enforcement; removing Crown immunity would increase accountability; safety is undermined by violence, self-harm and drugs.",
+      "turns": [
+        {
+          "speaker": "Lord Anderson of Ipswich",
+          "text": "Last year we found chief inspector recommendations are often ignored and IMBs have less capacity. Do you agree, and what should change? Also, is there still a role for Crown immunity?"
+        },
+        {
+          "speaker": "Dame Anne Owers",
+          "text": "I agree there's a tension: independent inspectors must report truthfully, but often their recommendations aren't acted on. We need better formal reporting on what has actually been implemented, to Parliament for example."
+        },
+        {
+          "speaker": "Dame Anne Owers",
+          "text": "IMBs are valuable because they're permanent local eyes and ears, but recruitment to unpaid voluntary roles is hard. They should be used alongside inspections to track trends, not just snapshots."
+        },
+        {
+          "speaker": "Dame Anne Owers",
+          "text": "On Crown immunity: I'm uncomfortable with it. The police and NHS don't have it; private prisons face fire-safety rules public ones sometimes don't. Removing or limiting immunity would sharpen accountability."
+        },
+        {
+          "speaker": "Baroness Buscombe",
+          "text": "Violence, drug drones, and staff assaults are rising. Should we be clearer and tougher with government about the scale of the risk?"
+        },
+        {
+          "speaker": "Dame Anne Owers",
+          "text": "Prison safety has worsened: assaults rose and self-harm has rocketed, especially in women's prisons. Drugs fuel debts and violence. Evidence shows prisons with more purposeful activity have less violence—so the answers link back to activity, drugs control and staffing."
+        },
+        {
+          "speaker": "Chair",
+          "text": "You said many reports don't change things. How do we give inspector reports real teeth?"
+        },
+        {
+          "speaker": "Dame Anne Owers",
+          "text": "We shouldn't criminalise inspection, but require clearer follow-up: an independent forward-looking capacity body, mandatory public reporting on actions taken, and parliamentary scrutiny of implementation would help."
+        },
+        {
+          "speaker": "Lord Empey",
+          "text": "Is there evidence that rehabilitation and purposeful activity then cut reoffending, or is it mainly about population mix?"
+        },
+        {
+          "speaker": "Dame Anne Owers",
+          "text": "Both matter. Reoffending depends on who is in prison—short-term 'revolving door' prisoners vs longer-term—and on what you do with them. More purposeful activity correlates with less violence and should help rehabilitation, but outcomes also depend on strong community support."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Any final takeaways for the committee?"
+        },
+        {
+          "speaker": "Dame Anne Owers",
+          "text": "Treat capacity as more than beds: invest in community services, strengthen probation, involve and resource the third sector, train and stabilize staff and governors, create an independent forward-looking capacity adviser, and end rules that shield the service from accountability like Crown immunity."
+        }
+      ]
+    }
+  ]
+}

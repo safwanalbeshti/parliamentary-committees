@@ -1,0 +1,280 @@
+{
+  "schema_version": 1,
+  "source_id": 18253,
+  "source_sha256": "5460dd090b7dec713285033582f2094cb1f3a7068d63ae24eb5c6e99761873c5",
+  "title": "Families, failures and a fix: why inquests often don't stop repeat deaths",
+  "label": "3 November 2026 · Learning from Inquests",
+  "summary": "Bereaved family members gave stark examples of inquests that failed to bring change: late disclosure, unequal access to legal help, and prevention of future deaths (PFD) reports that rarely produce enforcement. Experts from INQUEST and the Preventable Deaths Tracker explained that PFDs are a tiny fraction of all inquests, responses are inconsistent, and there is no national system to collect, analyse and follow up inquest findings. They recommended a digital national inquest database and an independent oversight body to spot trends, force follow-up and report to Parliament.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Catherine Atkinson",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Johnny Santer",
+      "name": "Johnny Santer",
+      "role": "Campaign director, family of Gabriel (campaigning on multi-storey car park deaths)",
+      "kind": "witness"
+    },
+    {
+      "label": "Richard Caseby",
+      "name": "Richard Caseby",
+      "role": "Father of Matthew (died in private mental health hospital); campaigner",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Kate Szymankiewicz",
+      "name": "Dr Kate Szymankiewicz",
+      "role": "GP and mother of Ruth (died in NHS-commissioned private mental health unit)",
+      "kind": "witness"
+    },
+    {
+      "label": "Deborah Coles",
+      "name": "Deborah Coles",
+      "role": "Executive Director, INQUEST (charity supporting families after state-related deaths)",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Georgia Richards",
+      "name": "Dr Georgia Richards",
+      "role": "Founder and Director, Preventable Deaths Tracker; academic, King's College London",
+      "kind": "witness"
+    },
+    {
+      "label": "Tessa Munt",
+      "name": "Tessa Munt",
+      "role": "Member of Parliament for Wells and Mendip Hills",
+      "kind": "member"
+    },
+    {
+      "label": "Vikki Slade",
+      "name": "Vikki Slade",
+      "role": "Member of Parliament for Mid Dorset and North Poole",
+      "kind": "member"
+    },
+    {
+      "label": "Warinder Juss",
+      "name": "Warinder Juss",
+      "role": "Member of Parliament for Wolverhampton West",
+      "kind": "member"
+    },
+    {
+      "label": "Tony Vaughan",
+      "name": "Tony Vaughan",
+      "role": "Member of Parliament for Folkestone and Hythe",
+      "kind": "member"
+    },
+    {
+      "label": "Mrs Russell",
+      "name": "Mrs Russell",
+      "role": "Member of Parliament for Congleton in Cheshire",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "inquest",
+      "definition": "A public fact-finding hearing led by a coroner to establish who died, when, where and how."
+    },
+    {
+      "term": "PFD",
+      "definition": "Prevention of Future Deaths report: a coroner’s recommendation to prevent similar deaths in future."
+    },
+    {
+      "term": "coroner",
+      "definition": "The judicial officer who investigates sudden or unexplained deaths and may hold an inquest."
+    },
+    {
+      "term": "Article 2 inquest",
+      "definition": "An inquest required where the state may bear responsibility for a death (higher duty to investigate)."
+    },
+    {
+      "term": "CQC",
+      "definition": "Care Quality Commission, the health and social care regulator for England."
+    },
+    {
+      "term": "ACCT",
+      "definition": "Prison suicide prevention process (Assessment, Care in Custody and Teamwork)."
+    },
+    {
+      "term": "Hillsborough Law",
+      "definition": "A proposed change to allow early legal funding for families in some inquests involving public bodies."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "How inquests felt to families",
+      "takeaway": "Families described inquests as retraumatising, unequal and often powerless to trigger real change.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We asked witnesses with lived experience to explain why the coronial follow-up system needs to change."
+        },
+        {
+          "speaker": "Johnny Santer",
+          "text": "My son Gabriel died falling from a multi-storey car park in 2020. The inquest process was chaotic: I didn’t get the coroner’s bundle until the night before, and I had no lawyer then."
+        },
+        {
+          "speaker": "Richard Caseby",
+          "text": "My son Matthew died after escaping a private mental health unit and being struck by a train. I had to use my investigative background to uncover evidence and then rely on legal aid to get representation."
+        },
+        {
+          "speaker": "Dr Kate Szymankiewicz",
+          "text": "Our daughter Ruth died in a privately run NHS-commissioned eating-disorder unit. The jury found unlawful killing, yet the coroner declined to issue a PFD and nothing meaningful changed."
+        },
+        {
+          "speaker": "Tessa Munt",
+          "text": "Did you have realistic expectations about what an inquest could do before you started?"
+        },
+        {
+          "speaker": "Johnny Santer",
+          "text": "I knew the basic questions a coroner asks, but not how to turn an inquest into prevention. Representation makes a huge difference: after I saw a barrister get a PFD in a similar case, I realised what could be done."
+        },
+        {
+          "speaker": "Richard Caseby",
+          "text": "I underestimated how adversarial inquests can be. Public bodies turn up with teams of lawyers funded by the state. Families are expected to be ‘at the heart’ but often are not."
+        },
+        {
+          "speaker": "Dr Kate Szymankiewicz",
+          "text": "We only found INQUEST by chance; without that help we wouldn't have known to seek legal aid. The coroner initially seemed focused on narrow outcomes and not the systemic issues we wanted explored."
+        }
+      ]
+    },
+    {
+      "title": "Prevention of Future Deaths reports: rare and limited",
+      "takeaway": "PFDs cover only a tiny share of inquests, coroners have wide discretion, and PFDs lack enforcement and consistent follow-up.",
+      "turns": [
+        {
+          "speaker": "Vikki Slade",
+          "text": "Only Richard’s case got a PFD. How useful was it, and why is enforcement a problem?"
+        },
+        {
+          "speaker": "Richard Caseby",
+          "text": "The PFD highlighted fence height, record-keeping and risk-assessment failures. It helped: the Priory later raised fences and was prosecuted. But I could push because of my resources; many families can't."
+        },
+        {
+          "speaker": "Johnny Santer",
+          "text": "Gabriel’s death did not get a PFD. There are many virtually identical multi-storey car park deaths—Georgia’s tracker shows dozens—but no consistent action from operators like Q-Park."
+        },
+        {
+          "speaker": "Dr Kate Szymankiewicz",
+          "text": "Even when juries find unlawful killing and list systemic failures, coroners sometimes decline PFDs after providers promise fixes; but there is often no checking that promises are kept."
+        },
+        {
+          "speaker": "Dr Georgia Richards",
+          "text": "PFDs are issued in about 1.7% of inquests. Coroners decide whether to write one; courts confirmed that discretion in a 2022 legal case. That creates big geographic variation."
+        },
+        {
+          "speaker": "Deborah Coles",
+          "text": "PFDs can matter—there are successful campaigns such as Awaab’s law and Seni’s law—but many reports are formulaic, and organisations treat them as reputation-management rather than a safety duty."
+        },
+        {
+          "speaker": "Warinder Juss",
+          "text": "Would coroners be required to issue PFDs where culpability is found?"
+        },
+        {
+          "speaker": "Dr Georgia Richards",
+          "text": "No statutory threshold forces a PFD. The coroner’s discretion, uneven practice and lack of enforcement mean many important lessons are never captured or acted on."
+        }
+      ]
+    },
+    {
+      "title": "Data and oversight gaps",
+      "takeaway": "There is no national database of all inquests; that prevents systematic analysis, trend-spotting and timely action.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "What follow-up systems already exist and what is missing?"
+        },
+        {
+          "speaker": "Dr Georgia Richards",
+          "text": "There’s no single statutory database of all inquests. My Preventable Deaths Tracker collects every PFD since 2013 and tracks responses, but it’s privately funded and not a substitute for a national system."
+        },
+        {
+          "speaker": "Dr Georgia Richards",
+          "text": "We found that responses improved from under a third to about two-thirds after the chief coroner started publishing non-response lists. For 2024 some reports show 92% with responses published—but publication rules and templates are now changing in ways that risk reversing progress."
+        },
+        {
+          "speaker": "Deborah Coles",
+          "text": "Without a national system, narrative conclusions—where juries describe systemic failures—are lost unless highlighted by charities or families. There is no routine follow-up to check whether recommended changes happen on the ground."
+        },
+        {
+          "speaker": "Tony Vaughan",
+          "text": "What models exist abroad?"
+        },
+        {
+          "speaker": "Dr Georgia Richards",
+          "text": "Australia, Canada and others have national coronial databases. Australia’s system grew after a royal commission into deaths in custody. These systems enable trend analysis and policy response; we could adopt a similar statutory database."
+        },
+        {
+          "speaker": "Mrs Russell",
+          "text": "Is your tracker public?"
+        },
+        {
+          "speaker": "Dr Georgia Richards",
+          "text": "Yes, but it has limited funding, and some content sits behind a paywall because there was no Government funding after the Committee’s 2024 evidence session. We need a publicly funded digital system."
+        },
+        {
+          "speaker": "Deborah Coles",
+          "text": "A national oversight mechanism (NOM) would need the database to feed it: collect recommendations and inquest findings, analyse themes, and crucially follow up with powers to require information and work with regulators."
+        }
+      ]
+    },
+    {
+      "title": "Practical reforms families and experts want",
+      "takeaway": "Proposals include a national database, an independent oversight body to follow up recommendations, early legal funding, digitalisation and clearer coroner guidance.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "If you could give Government one message about improving learning from inquests, what would it be?"
+        },
+        {
+          "speaker": "Dr Kate Szymankiewicz",
+          "text": "Keep the human cost front and centre: create an oversight mechanism that actually makes change happen and brings Ministers from relevant Departments together."
+        },
+        {
+          "speaker": "Johnny Santer",
+          "text": "Families just want lessons learned so others don’t die the same way. If private companies face no real consequence they won’t act—there needs to be power and accountability."
+        },
+        {
+          "speaker": "Richard Caseby",
+          "text": "End the cliff-edge after PFDs: appoint a commissioner for prevention of future deaths with a small secretariat to spot recurring failings and hold organisations to account."
+        },
+        {
+          "speaker": "Deborah Coles",
+          "text": "The NOM should be independent, able to request information, follow up implementation, and report to Parliament. Families must be part of its governance so lived experience shapes priorities."
+        },
+        {
+          "speaker": "Dr Georgia Richards",
+          "text": "Digitalise and publish in real time: a statutory national database of all inquests is the foundation. With live dashboards you can spot trends quickly and evaluate policies such as Hillsborough Law."
+        },
+        {
+          "speaker": "Tessa Munt",
+          "text": "What about legal representation?"
+        },
+        {
+          "speaker": "Deborah Coles",
+          "text": "Early access to legal aid saves families retraumatisation and improves scrutiny. The trigger point for funding should be earlier than now so families get advice before pre-inquest hearings."
+        },
+        {
+          "speaker": "Dr Georgia Richards",
+          "text": "And evaluate policies: a national database lets you measure whether changes actually reduce similar deaths rather than just producing a report that gathers dust."
+        },
+        {
+          "speaker": "Chair",
+          "text": "That concludes the session. Thank you all for your courage and for your practical proposals."
+        },
+        {
+          "speaker": "Deborah Coles",
+          "text": "Please act. Families have campaigned for decades; an independent mechanism would finally make learning from deaths consistent, transparent and accountable."
+        },
+        {
+          "speaker": "Dr Georgia Richards",
+          "text": "We already have tools and international examples. With modest investment we can stop this being a postcode lottery and save lives."
+        }
+      ]
+    }
+  ]
+}

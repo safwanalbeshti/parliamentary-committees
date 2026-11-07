@@ -126,7 +126,7 @@ The JSON is checked automatically.
 ## Official metadata
 
 * Parliament oral-evidence ID: 18197
-* Required source hash: `9a2cfa74f693565f5a452bb05a250e9ea435b49aa0b24578ff2b34d1e5457149`
+* Required source hash: `e0a45fb17485a7e2451e8a19bb4a9708fba1651f56b9c8751959f6dda065a788`
 * Committee: Environment, Food and Rural Affairs Committee
 * Subject: The future of farming
 * Meeting date: 27 October 2026
@@ -167,7 +167,7 @@ Return exactly this structure:
 {
   "schema_version": 1,
   "source_id": 18197,
-  "source_sha256": "9a2cfa74f693565f5a452bb05a250e9ea435b49aa0b24578ff2b34d1e5457149",
+  "source_sha256": "e0a45fb17485a7e2451e8a19bb4a9708fba1651f56b9c8751959f6dda065a788",
   "title": "A concise, engaging title",
   "label": "27 October 2026 · A short picker label",
   "summary": "One paragraph explaining what the hearing covered and its main conclusion.",

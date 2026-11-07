@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18248,
+  "activity_id": 39293,
+  "document_id": 310110,
+  "meeting_date": "2026-11-04",
+  "meeting_date_display": "4 November 2026",
+  "publication_date": "2026-11-06T15:05:12",
+  "title": "Delivering East West Rail",
+  "committee": "Transport Committee",
+  "committees": [
+    {
+      "id": 153,
+      "name": "Transport Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10058,
+      "title": "Delivering East West Rail",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Chief Executive Officer",
+      "organisation": "East West Rail Co."
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Railway Operations Director",
+      "organisation": "East West Rail Co."
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Capital Delivery Manager, North West and Central",
+      "organisation": "Network Rail"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Interim Director of East West Rail Sponsorship",
+      "organisation": "Department for Transport"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Programme Director for East West Rail",
+      "organisation": "Department for Transport"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Ben Rule",
+    "David Hughes",
+    "Jodie Lofthouse",
+    "Rosemary Hopkins",
+    "Christian Irwin",
+    "Dr Arthur",
+    "There are two problems there and these are the constraints that Ben talks about",
+    "Olly Glover",
+    "Alex Mayer",
+    "Samantha Dixon",
+    "Daniel Francis",
+    "Joe Morris"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18248/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18248",
+  "source_sha256": "4b3cc461c7f1bf946b3c706fee5e53dd802f4b93d1288ddafb01da3c1b9f181e",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

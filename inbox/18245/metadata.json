@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18245,
+  "activity_id": 39329,
+  "document_id": 310047,
+  "meeting_date": "2026-11-03",
+  "meeting_date_display": "3 November 2026",
+  "publication_date": "2026-11-06T09:36:26",
+  "title": "Humanitarian situation in Ukraine",
+  "committee": "International Development Committee",
+  "committees": [
+    {
+      "id": 98,
+      "name": "International Development Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10014,
+      "title": "Humanitarian situation in Ukraine",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Senior Advocacy and Policy Advisor",
+      "organisation": "Humanitarian NGO Platform in Ukraine"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director",
+      "organisation": "Alliance UA CSO"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director General",
+      "organisation": "Ukrainian Red Cross Society"
+    }
+  ],
+  "speaker_candidates": [
+    "Joint Committee on Human Rights member present",
+    "II",
+    "Chair",
+    "Dr Moshynets",
+    "Dr Moore",
+    "Tracy Gilbert",
+    "David Mundell",
+    "Tulip Siddiq",
+    "Noah Law",
+    "Mila Leonova",
+    "Alina Belobra",
+    "Illya Kletskovskyy",
+    "Alex Sobel",
+    "David Taylor",
+    "I will be open with you",
+    "Brian Mathew"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18245/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18245",
+  "source_sha256": "50fe8b6f75ec1238e75a05510af95309026e2b9e69fcc43e039abd4e6f023aa1",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18250,
+  "activity_id": 39323,
+  "document_id": 310121,
+  "meeting_date": "2026-11-03",
+  "meeting_date_display": "3 November 2026",
+  "publication_date": "2026-11-06T15:34:52",
+  "title": "Consumer protection",
+  "committee": "Business, Innovation, Science and Trade Committee",
+  "committees": [
+    {
+      "id": 365,
+      "name": "Business, Innovation, Science and Trade Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9573,
+      "title": "Consumer protection",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Minister for the Future of Work",
+      "organisation": "Department for Business, Innovation, Science and Trade"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Executive Director for Consumer Protection",
+      "organisation": "Competition and Markets Authority"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Deputy Director, Product Regulation Policy",
+      "organisation": "Department for Business, Innovation, Science and Trade"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chief Executive of the Office for Product Safety and Standards",
+      "organisation": "Department for Business, Innovation, Science and Trade"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Deputy Director, Consumer Policy",
+      "organisation": "Department for Business, Innovation, Science and Trade"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Kate Dearden",
+    "Dan Aldridge",
+    "Antonia Bance",
+    "Sarah Edwards",
+    "Sophie George",
+    "Emma Cochrane",
+    "Mr Reynolds",
+    "Tony Thomas"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18250/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18250",
+  "source_sha256": "c3e4950d682bb049c2d380ed22332fb9611df9bd5ea7dd238460dc938837f852",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

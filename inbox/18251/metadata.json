@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18251,
+  "activity_id": 39333,
+  "document_id": 310133,
+  "meeting_date": "2026-11-03",
+  "meeting_date_display": "3 November 2026",
+  "publication_date": "2026-11-06T16:37:32",
+  "title": "Prison culture: governance, leadership and staffing",
+  "committee": "Justice and Home Affairs Committee",
+  "committees": [
+    {
+      "id": 519,
+      "name": "Justice and Home Affairs Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 8565,
+      "title": "Prison culture: governance, leadership and staffing",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [],
+  "speaker_candidates": [
+    "The Chair",
+    "Dame Anne Owers",
+    "Lord Tope",
+    "Baroness Berridge",
+    "Baroness Bertin",
+    "Lord Hogan-Howe",
+    "Baroness Buscombe",
+    "Lord Bach",
+    "Baroness Hughes of Stretford",
+    "Lord Dubs",
+    "Lord Anderson of Ipswich",
+    "Lord Empey"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18251/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18251",
+  "source_sha256": "2e075826f5b366574f68be1664b6a91f77c72e9cb012f79b4afb202d59292812",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18252,
+  "activity_id": 39170,
+  "document_id": 310137,
+  "meeting_date": "2026-11-03",
+  "meeting_date_display": "3 November 2026",
+  "publication_date": "2026-11-06T17:10:04",
+  "title": "Learning from Inquests",
+  "committee": "Justice Committee",
+  "committees": [
+    {
+      "id": 102,
+      "name": "Justice Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10073,
+      "title": "Learning from Inquests",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Mr Richard Caseby",
+      "role": "",
+      "organisation": ""
+    },
+    {
+      "name": "Dr Kate Szymankiewicz",
+      "role": "",
+      "organisation": ""
+    },
+    {
+      "name": "Mr Johnny Santer",
+      "role": "",
+      "organisation": ""
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Sir Ashley Fox",
+    "Dr Shastri-Hurst",
+    "Vikki Slade",
+    "Tessa Munt",
+    "Warinder Juss",
+    "Mrs Russell",
+    "Janet Daby",
+    "Tony Vaughan",
+    "Johnny Santer",
+    "Richard Caseby",
+    "Dr Szymankiewicz",
+    "The chief coroner’s guidance already states",
+    "Deborah Coles",
+    "Dr Richards"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18252/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18252",
+  "source_sha256": "5460dd090b7dec713285033582f2094cb1f3a7068d63ae24eb5c6e99761873c5",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

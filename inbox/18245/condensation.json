@@ -1,0 +1,334 @@
+{
+  "schema_version": 1,
+  "source_id": 18245,
+  "source_sha256": "50fe8b6f75ec1238e75a05510af95309026e2b9e69fcc43e039abd4e6f023aa1",
+  "title": "Humanitarian strain and rising drug resistance: Ukraine’s health and aid challenges",
+  "label": "3 November 2026 · Humanitarian situation in Ukraine",
+  "summary": "Witnesses from Ukraine described how a fast-tracked health reform, war damage to infrastructure, and shortages of key antibiotics have combined to make infections—especially antibiotic-resistant ones—harder to treat. They warned that hospital consolidation, staff shortages and disrupted supply chains accelerate antimicrobial resistance (AMR) and harm civilians. Civil society and the Red Cross are frontline responders but face fatigue, funding and logistics limits. Witnesses urged realistic, locally adapted plans, stronger supply and diagnostics, better donor coordination, and greater UK and WHO support.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Sarah Champion",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Dr Elena Moshynets",
+      "name": "Dr Elena Moshynets",
+      "role": "Leading Research Fellow, Institute of Molecular Biology and Genetics, National Academy of Sciences of Ukraine",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Luke Moore",
+      "name": "Dr Luke Moore",
+      "role": "Consultant in Infectious Diseases, Chelsea and Westminster Hospital; academic at Imperial College London",
+      "kind": "witness"
+    },
+    {
+      "label": "Alina Belobra",
+      "name": "Alina Belobra",
+      "role": "Senior Advocacy and Policy Advisor, Humanitarian NGO Platform in Ukraine",
+      "kind": "witness"
+    },
+    {
+      "label": "Mila Leonova",
+      "name": "Mila Leonova",
+      "role": "Director, Alliance UA civil society organisation",
+      "kind": "witness"
+    },
+    {
+      "label": "Illya Kletskovskyy",
+      "name": "Illya Kletskovskyy",
+      "role": "Director General, Ukrainian Red Cross Society",
+      "kind": "witness"
+    },
+    {
+      "label": "Tracy Gilbert",
+      "name": "Tracy Gilbert",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "David Mundell",
+      "name": "David Mundell",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Tulip Siddiq",
+      "name": "Tulip Siddiq",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Noah Law",
+      "name": "Noah Law",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Alex Sobel",
+      "name": "Alex Sobel",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "David Taylor",
+      "name": "David Taylor",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Brian Mathew",
+      "name": "Brian Mathew",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AMR",
+      "definition": "Antimicrobial resistance: when bacteria stop responding to antibiotics, making infections harder to treat."
+    },
+    {
+      "term": "reserve antibiotics",
+      "definition": "Powerful, last‑resort antibiotics reserved for infections that do not respond to common drugs."
+    },
+    {
+      "term": "IPC",
+      "definition": "Infection prevention and control: the hospital practices that stop infections spreading between patients and staff."
+    },
+    {
+      "term": "IDP",
+      "definition": "Internally Displaced Person: someone forced to move within their country because of conflict or disaster."
+    },
+    {
+      "term": "WHO",
+      "definition": "World Health Organization: the UN agency that sets international public-health guidance."
+    },
+    {
+      "term": "FCDO",
+      "definition": "Foreign, Commonwealth & Development Office: the UK Government department managing foreign aid and policy."
+    },
+    {
+      "term": "UKDI",
+      "definition": "UK Defence Innovation: a UK Ministry of Defence fund that supports research and innovation, including health projects."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "How war and reform have weakened Ukraine’s health system",
+      "takeaway": "A rapid health reform pushed during wartime, plus staff shortages and hospital consolidation, has reduced access to care and made infection control much harder.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We’re focusing on the humanitarian situation in Ukraine; please introduce yourselves and give an overview of the health situation."
+        },
+        {
+          "speaker": "Dr Elena Moshynets",
+          "text": "I lead biofilm and antimicrobial resistance research in Ukraine. Ukraine started major healthcare reform in 2022 but it was rolled out during the full‑scale invasion and hasn’t been adapted for wartime realities."
+        },
+        {
+          "speaker": "Dr Elena Moshynets",
+          "text": "The reform expects hospitals to meet new standards and to consolidate services, but there’s not enough money, staff or infrastructure to do that—especially in regional hospitals."
+        },
+        {
+          "speaker": "Dr Elena Moshynets",
+          "text": "Staff shortages are severe—one nurse can be responsible for 40–60 beds—so basic infection prevention and control (IPC) is extremely hard to maintain."
+        },
+        {
+          "speaker": "Chair",
+          "text": "So consolidation increases pressure on the remaining hospitals and can spread healthcare‑associated infections?"
+        },
+        {
+          "speaker": "Dr Elena Moshynets",
+          "text": "Exactly. Concentrating patients without more staff or better IPC risks more transmission of drug‑resistant infections."
+        }
+      ]
+    },
+    {
+      "title": "Antibiotic shortages, prescribing dilemmas and rising resistance",
+      "takeaway": "Hospitals lack many essential and reserve antibiotics; clinicians often must prescribe what’s available or ask patients to buy drugs, which fuels resistance and ethical dilemmas.",
+      "turns": [
+        {
+          "speaker": "Tracy Gilbert",
+          "text": "Dr Moore, can you explain antimicrobial resistance and why it’s a particular problem in Ukraine?"
+        },
+        {
+          "speaker": "Dr Luke Moore",
+          "text": "Bacteria reproduce very quickly and learn to survive antibiotics. Resistance undermines surgery, cancer treatment and many routine procedures—not just simple infections."
+        },
+        {
+          "speaker": "Dr Luke Moore",
+          "text": "Conflict increases the problem: mass casualties, damaged clinics, displaced patients and fewer healthcare workers spread resistant bugs more easily."
+        },
+        {
+          "speaker": "Tulip Siddiq",
+          "text": "Elena, how easy is it to get antibiotics in Ukraine, and does that affect resistance?"
+        },
+        {
+          "speaker": "Dr Elena Moshynets",
+          "text": "It’s complicated. Many reserve antibiotics aren’t registered or are too costly, so hospitals buy cheap drugs in stock, or doctors ask patients to buy medicines—even though care is meant to be free."
+        },
+        {
+          "speaker": "Dr Elena Moshynets",
+          "text": "Sometimes doctors avoid doing diagnostics because even if a culture shows what drug would work, the hospital can’t afford it. That drives poor antibiotic choices and more resistance."
+        },
+        {
+          "speaker": "Dr Luke Moore",
+          "text": "There are also issues with counterfeit or degraded drugs because supply chains and cold storage are disrupted in conflict zones."
+        },
+        {
+          "speaker": "Tulip Siddiq",
+          "text": "You mentioned reserve antibiotics—how large is the mismatch between need and purchases?"
+        },
+        {
+          "speaker": "Dr Elena Moshynets",
+          "text": "A public health paper found nearly half of war wound infections are gram‑negative multi‑drug resistant; yet in 2024 Ukrainian hospitals bought only about 1.37% of antibiotics from the reserve group—mainly because of price."
+        }
+      ]
+    },
+    {
+      "title": "Coordination, diagnostics and what international actors can do",
+      "takeaway": "WHO and donors should help countries adapt guidance to local realities, fund diagnostics and reserve drugs, and share low‑cost practical lessons between nations.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "What should the WHO and countries do to prepare for AMR in conflicts?"
+        },
+        {
+          "speaker": "Dr Luke Moore",
+          "text": "WHO asked countries to make national AMR action plans; many did, but plans are often copies of others’ policies that don’t fit local reality. WHO should review these plans and promote shared, practical learning."
+        },
+        {
+          "speaker": "Dr Luke Moore",
+          "text": "We also need diagnostics and scaled‑down tech that can work near frontlines—rapid tests or portable devices—to get the right drug to the right patient."
+        },
+        {
+          "speaker": "Dr Elena Moshynets",
+          "text": "Guidelines must be adapted to local resistance patterns, diagnostic capacity and what drugs are actually available. Otherwise clinicians are left with impossible choices."
+        },
+        {
+          "speaker": "David Mundell",
+          "text": "How is your UK‑Ukraine collaboration funded? Could UK departments do more?"
+        },
+        {
+          "speaker": "Dr Luke Moore",
+          "text": "We formed a network supported by small grants and recently by UK Defence Innovation (UKDI), which is part of the MOD. UKDI has been very supportive, but more coordinated funding—FCDO, health departments—would help."
+        }
+      ]
+    },
+    {
+      "title": "The wider humanitarian picture: attacks, blackouts and daily life",
+      "takeaway": "Long‑range strikes, drone 'human safaris', and attacks on energy, water and warehouses have worsened access to services, disrupted supply chains and raised protection risks for civilians.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Shifting to wider humanitarian needs: Alina, what’s the situation now for civilians?"
+        },
+        {
+          "speaker": "Alina Belobra",
+          "text": "This year is an aggravated protection crisis. Longer‑range missiles and drones have increased civilian casualties, and attacks on energy and logistics cut people off from services and disrupt medical supplies."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Put me in the shoes of a woman with two schoolchildren and a husband fighting—what’s a day like?"
+        },
+        {
+          "speaker": "Alina Belobra",
+          "text": "Air raid alerts are constant. Schools move underground, but underground sites are also being targeted. Livelihoods shrink, travel is risky, and accessing healthcare or markets can be dangerous or unaffordable."
+        },
+        {
+          "speaker": "Noah Law",
+          "text": "Illya, how are attacks on energy, water and transport affecting lives and humanitarian access?"
+        },
+        {
+          "speaker": "Illya Kletskovskyy",
+          "text": "Warehouses have been hit, logistics are overstretched and fuel shortages impede movement. The attacks look like economic warfare: damaging warehouses from medical stores to toy warehouses to cause broader disruption."
+        },
+        {
+          "speaker": "Noah Law",
+          "text": "Are humanitarian warehouses being targeted specifically?"
+        },
+        {
+          "speaker": "Illya Kletskovskyy",
+          "text": "Not always specifically; the attacks hit a range of civilian infrastructure and supply chains, which still damages humanitarian response and livelihoods."
+        }
+      ]
+    },
+    {
+      "title": "Local NGOs and Red Cross: frontline responders under strain",
+      "takeaway": "Local NGOs and Red Cross volunteers are the backbone of response—doing evacuations, shelter repairs, medical outreach—but they face fatigue, funding gaps, border delays and logistics limits.",
+      "turns": [
+        {
+          "speaker": "Brian Mathew",
+          "text": "How is civil society responding to these challenges?"
+        },
+        {
+          "speaker": "Alina Belobra",
+          "text": "Local NGOs lead evacuations, provide mental‑health support, repair shelters and run transit sites. Many evacuees are ‘self‑evacuees’ who fall through official systems and exhaust their resources."
+        },
+        {
+          "speaker": "Mila Leonova",
+          "text": "When the war began volunteers became professionalised NGOs handling millions in programmes. They now want to be part of development and recovery, not just recipients of short‑term humanitarian funds."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Illya, how are volunteers coping?"
+        },
+        {
+          "speaker": "Illya Kletskovskyy",
+          "text": "Volunteer numbers rose sharply in 2022, but sustaining people over five years causes trauma, fatigue and burnout. Volunteers need structured support, rostering and mental‑health care to stay effective."
+        },
+        {
+          "speaker": "David Taylor",
+          "text": "Are border delays for UK charities and supplies a big problem?"
+        },
+        {
+          "speaker": "Illya Kletskovskyy",
+          "text": "Yes—Poland is a major hub and queues and customs slow deliveries. Procuring locally helps, but some items (generators, boilers) still need imports and face months‑long waits."
+        },
+        {
+          "speaker": "Mila Leonova",
+          "text": "We urge donors to use local markets and local civil society where possible, and to build pooled funds that let national NGOs access finance quickly."
+        },
+        {
+          "speaker": "Alex Sobel",
+          "text": "Has UK World Bank support reached civil society directly?"
+        },
+        {
+          "speaker": "Mila Leonova",
+          "text": "World Bank loans typically go through Government or private sector; we want better ways to include civil society in those funding streams and pooled mechanisms to bridge humanitarian and development needs."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Final thoughts: what are the most urgent practical asks for the UK and international community?"
+        },
+        {
+          "speaker": "Dr Elena Moshynets",
+          "text": "Fund and ensure availability of reserve antibiotics, and create a nationally coordinated list and procurement for those drugs so clinicians can follow evidence‑based guidelines."
+        },
+        {
+          "speaker": "Dr Luke Moore",
+          "text": "Support diagnostics and practical tech that work near frontlines, and help WHO facilitate country‑to‑country learning about low‑cost, effective AMR measures."
+        },
+        {
+          "speaker": "Mila Leonova",
+          "text": "Invest in local civil society, use Ukrainian markets where possible, and link humanitarian aid to recovery and jobs so people can stay in their communities."
+        },
+        {
+          "speaker": "Illya Kletskovskyy",
+          "text": "Sustain support for volunteers and Red Cross operations, speed up cross‑border logistics, and plan for winter risks to energy and water infrastructure."
+        },
+        {
+          "speaker": "Alina Belobra",
+          "text": "Ensure services reach older and vulnerable people at the frontline who can’t travel, and design flexible funding and policies that respond to on‑the‑ground realities."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you all—this was stark but vital. We will reflect these practical asks to Government and partners."
+        }
+      ]
+    }
+  ]
+}

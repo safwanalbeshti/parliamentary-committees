@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18247,
+  "activity_id": 39292,
+  "document_id": 310108,
+  "meeting_date": "2026-11-04",
+  "meeting_date_display": "4 November 2026",
+  "publication_date": "2026-11-06T15:03:38",
+  "title": "Delivering East West Rail",
+  "committee": "Transport Committee",
+  "committees": [
+    {
+      "id": 153,
+      "name": "Transport Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10058,
+      "title": "Delivering East West Rail",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Interim Managing Director",
+      "organisation": "Chiltern Railways"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "General Secretary",
+      "organisation": "RMT Union"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "General Secretary",
+      "organisation": "ASLEF"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Programme Director for East West Rail",
+      "organisation": "Department for Transport"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Eddie Dempsey",
+    "Dave Calfe",
+    "Jodie Lofthouse",
+    "Tony Baxter",
+    "Alex Mayer",
+    "Steff Aquarone",
+    "Olly Glover",
+    "Joe Morris",
+    "Daniel Francis",
+    "David Calfe"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18247/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18247",
+  "source_sha256": "2e4e224f5af0465f2579351640f47e2181b77f4355e0598feb1074fead6440e5",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

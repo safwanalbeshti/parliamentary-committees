@@ -1,0 +1,262 @@
+{
+  "schema_version": 1,
+  "source_id": 18249,
+  "source_sha256": "8e68e46210018d6dafd1dcce4ef188c7a39edfa08d0ddd6e44b2948739f1d8e7",
+  "title": "Black Friday, broken pricing and weak enforcement",
+  "label": "3 November 2026 · Consumer protection: Black Friday and online risks",
+  "summary": "Witnesses from Which? and the Chartered Trading Standards Institute told MPs that many Black Friday offers aren’t genuine, consumers lack reliable protections for some modern payment methods, and enforcement is under-resourced. The session covered misleading reference pricing (RRP), fake discounts, online scam advertising on social platforms, the limits of trading standards and the Competition and Markets Authority (CMA), and payment gaps such as pay-by-bank.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Liam Byrne",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Mr Reynolds",
+      "name": "Mr Joshua Reynolds",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Sarah Edwards",
+      "name": "Sarah Edwards",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Antonia Bance",
+      "name": "Antonia Bance",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Dan Aldridge",
+      "name": "Dan Aldridge",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Sue Davies",
+      "name": "Sue Davies",
+      "role": "Head of Consumer Rights and Food Policy, Which?",
+      "kind": "witness"
+    },
+    {
+      "label": "David MacKenzie",
+      "name": "David MacKenzie",
+      "role": "Lead Officer for E-Commerce, Chartered Trading Standards Institute",
+      "kind": "witness"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Black Friday",
+      "definition": "A major retail sales period in late November, commonly marketed as a time for big discounts."
+    },
+    {
+      "term": "Recommended retail price (RRP)",
+      "definition": "A price manufacturers suggest retailers charge; it’s used in adverts to claim savings."
+    },
+    {
+      "term": "Trading standards",
+      "definition": "Local authority departments that enforce consumer protection and product safety laws."
+    },
+    {
+      "term": "Ofcom",
+      "definition": "The UK's communications regulator, which oversees some online harms and advertising rules."
+    },
+    {
+      "term": "CMA",
+      "definition": "Competition and Markets Authority, the UK regulator that enforces competition and consumer law at national level."
+    },
+    {
+      "term": "Online Safety Act",
+      "definition": "UK law that gives Ofcom powers to tackle harmful or illegal online content, including scam ads."
+    },
+    {
+      "term": "Digital Markets, Competition and Consumers Act (DMCC)",
+      "definition": "Recent law giving new powers to tackle unfair practices in digital markets."
+    },
+    {
+      "term": "Section 75",
+      "definition": "A legal protection that can make a credit card provider jointly liable for purchases over £100 when using a credit card."
+    },
+    {
+      "term": "Chargeback",
+      "definition": "A voluntary bank scheme that lets a cardholder seek a refund through their card provider for some problems."
+    },
+    {
+      "term": "Pay-by-bank",
+      "definition": "Direct bank transfer from a customer’s account to a seller; it often lacks card protections."
+    },
+    {
+      "term": "Drip pricing",
+      "definition": "Showing a low headline price then adding compulsory fees later in the checkout."
+    },
+    {
+      "term": "Primary authority",
+      "definition": "A system where one local authority advises a national company on compliance, acting as lead regulator."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Most Black Friday ‘deals’ aren’t unique bargains",
+      "takeaway": "Which? found the majority of advertised Black Friday offers could be found at the same or lower prices at other times.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Three big firms—Amazon, John Lewis and TikTok—refused to attend today’s hearing, which is disappointing given the complaints about Black Friday marketing."
+        },
+        {
+          "speaker": "Mr Reynolds",
+          "text": "Sue, I’ve seen examples: a John Lewis Samsung washing machine listed at a Black Friday price that was on sale 61% of the year, an Amazon toaster that was cheaper two months before Black Friday, and a TV with an RRP never actually used in the past year. What are the worst examples you’ve seen?"
+        },
+        {
+          "speaker": "Sue Davies",
+          "text": "Our monitoring last year of 175 Black Friday deals across eight retailers found 83% could be bought at the same or lower price at other times. Many advertised bargains are misleading rather than genuine special offers."
+        },
+        {
+          "speaker": "Chair",
+          "text": "That’s 80% plus of deals not being true deals?"
+        },
+        {
+          "speaker": "Sue Davies",
+          "text": "Yes. We see fake reference pricing—‘was’ prices or RRPs presented as if they were the usual price when they’re not—and tactics like drip pricing and countdown clocks that pressure shoppers."
+        },
+        {
+          "speaker": "Mr Reynolds",
+          "text": "If John Lewis or others are misleading customers, why do they keep doing it?"
+        },
+        {
+          "speaker": "Sue Davies",
+          "text": "Because, largely, they can get away with it. The law and enforcement aren’t strong enough to deter misleading pricing in many cases."
+        },
+        {
+          "speaker": "Mr Reynolds",
+          "text": "You flagged Currys and Very as problems as well?"
+        },
+        {
+          "speaker": "Sue Davies",
+          "text": "Yes—those and Sports Direct repeatedly use reference prices to suggest larger discounts than are real."
+        }
+      ]
+    },
+    {
+      "title": "Enforcement is stretched and legally awkward",
+      "takeaway": "Trading standards are under-resourced and current legal tests make it hard to act against misleading pricing.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Why is enforcement failing? Is it resources or the law?"
+        },
+        {
+          "speaker": "Sue Davies",
+          "text": "Both. Local trading standards have been cut hard—our FOI work showed in places one person can be responsible for hundreds of laws—so they lack capacity. Also legal hurdles exist for proving a price misled the 'average consumer' in a transactional decision."
+        },
+        {
+          "speaker": "David MacKenzie",
+          "text": "Local authorities use primary authority partnerships where one council advises a big company, which helps in some sectors. But enforcement teams are tiny compared with the multinationals they must police, creating a large imbalance."
+        },
+        {
+          "speaker": "Sue Davies",
+          "text": "We need legal updates—making it easier to act on misleading reference pricing—and more resources so trading standards can investigate properly rather than being spread thin across product safety, rogue traders and other duties."
+        }
+      ]
+    },
+    {
+      "title": "Social platforms, scam ads and AI make the problem worse",
+      "takeaway": "Scam advertising and AI-generated fakes on social platforms compound misleading pricing and need Ofcom and platform action.",
+      "turns": [
+        {
+          "speaker": "Antonia Bance",
+          "text": "TikTok's retail ad revenue is surging. Are consumers more at risk of scams on social platforms during Black Friday, and where are those risks appearing?"
+        },
+        {
+          "speaker": "David MacKenzie",
+          "text": "Yes. Alongside pricing tricks, scammers use AI to create fake reviews, fake influencer endorsements and misleading ads on marketplaces and social shops. Platforms should be using their own tech to stop this."
+        },
+        {
+          "speaker": "Sue Davies",
+          "text": "Which? pressed for scam ads to be covered by the Online Safety Act. Ofcom now has powers, but it must enforce them. We still see scam advertising across social media and need stronger action and platform accountability."
+        },
+        {
+          "speaker": "Antonia Bance",
+          "text": "So platforms like TikTok Shop need to be more active in policing adverts and removing scams?"
+        },
+        {
+          "speaker": "David MacKenzie",
+          "text": "Absolutely—these tech firms can and should deploy AI and moderation to reduce illicit listings, fake endorsements and scam ads on their services."
+        }
+      ]
+    },
+    {
+      "title": "New laws help but enforcement and scope need strengthening",
+      "takeaway": "The DMCC/DMCC-style powers and CMA fines are a start, but more focused enforcement and legal clarity are required.",
+      "turns": [
+        {
+          "speaker": "Dan Aldridge",
+          "text": "Is the Digital Markets, Competition and Consumers Act and CMA work delivering consumer protection, or could it be faster and tougher?"
+        },
+        {
+          "speaker": "David MacKenzie",
+          "text": "There’s a good start: the CMA has imposed around £12 million in fines and secured refunds in cases. But it’s only the start—cases take time, trading standards still must do much local work, and we need to target the biggest harms."
+        },
+        {
+          "speaker": "Dan Aldridge",
+          "text": "So it helps, but it needs to be 'turbocharged'—more resources and sharper enforcement priorities?"
+        },
+        {
+          "speaker": "David MacKenzie",
+          "text": "Yes. We must prioritise areas of highest consumer detriment and make sure regulators and local teams have the powers and funding to act quickly."
+        },
+        {
+          "speaker": "Mr Reynolds",
+          "text": "Are there quick legal fixes—for example, banning the use of RRPs?"
+        },
+        {
+          "speaker": "David MacKenzie",
+          "text": "That’s one idea. If RRPs serve no legitimate purpose, removing or strictly limiting them would stop a common route to fake discounts."
+        }
+      ]
+    },
+    {
+      "title": "Payment protections and a short note on fireworks",
+      "takeaway": "New payment methods like pay-by-bank leave protection gaps; fireworks enforcement is mostly effective but antisocial use is the bigger problem.",
+      "turns": [
+        {
+          "speaker": "Mr Reynolds",
+          "text": "On pay-by-bank (open banking direct transfers): should consumers be worried because they lose card protections like section 75 and chargeback?"
+        },
+        {
+          "speaker": "Sue Davies",
+          "text": "Yes—we’re concerned. One in eight people don’t realise pay-by-bank lacks card protections. If a seller goes bust or goods are faulty, consumers could lose large sums. We need a baseline level of protection for these payments."
+        },
+        {
+          "speaker": "David MacKenzie",
+          "text": "There are bank refund rules for some frauds, but not for common problems like supplier insolvency or contract breaches. The differences between debit/credit protections and pay-by-bank need clarifying and possibly expanding."
+        },
+        {
+          "speaker": "Mr Reynolds",
+          "text": "Does section 75 still make sense given new payment routes and intermediaries like PayPal complicating coverage?"
+        },
+        {
+          "speaker": "David MacKenzie",
+          "text": "Section 75 hasn’t fully kept pace. Adding intermediaries can remove protections. We need clarity from the Financial Ombudsman and possible updates to reflect modern payments."
+        },
+        {
+          "speaker": "Chair",
+          "text": "A final quick point on fireworks: would tighter rules drive an illicit market?"
+        },
+        {
+          "speaker": "David MacKenzie",
+          "text": "Bans can increase black markets—scale is hard to predict. Scotland restricted sales and the number of legitimate retailers fell, but we haven’t seen evidence of a huge illicit supply increase. The main issue remains antisocial use rather than legal retail supply."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thanks—these points will go to Ministers as we press for legal tightening, clearer payment protections and better-funded enforcement."
+        }
+      ]
+    }
+  ]
+}
