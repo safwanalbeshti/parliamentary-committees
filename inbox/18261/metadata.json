@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18261,
+  "activity_id": 39048,
+  "document_id": 310455,
+  "meeting_date": "2026-11-04",
+  "meeting_date_display": "4 November 2026",
+  "publication_date": "2026-11-09T13:41:25",
+  "title": "Low-energy computing",
+  "committee": "Science and Technology Committee (Commons)",
+  "committees": [
+    {
+      "id": 135,
+      "name": "Science and Technology Committee (Commons)",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9739,
+      "title": "Low-energy computing",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Professor Tony Kenyon",
+      "role": "Director",
+      "organisation": "Neuroware, the UK Innovation and Knowledge Centre for Neuromorphic Computing Hardware"
+    },
+    {
+      "name": "Dr Tanya Mangoma",
+      "role": "Chief Product Officer",
+      "organisation": "Analogue Insight"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair[JE1]",
+    "Dr Mangoma",
+    "Chair[JE2]",
+    "Chair",
+    "Professor Kenyon",
+    "Neuromorphic computing offers a different way of doing things",
+    "Freddie van Mierlo",
+    "Maya Ellis",
+    "Kit Malthouse",
+    "Tom Collins",
+    "Daniel Zeichner",
+    "Dr Mangoma[KB35]",
+    "Dr Mangoma[KB36]",
+    "Kit Malthouse[KB37]",
+    "Chair[KB38]",
+    "Martin Wrigley",
+    "Dr Mangoma[KB39]",
+    "Chair[KB40]",
+    "Dr Mangoma[KB41]",
+    "Chair[KB42]",
+    "Chair[KB43]",
+    "Chair[JH53]",
+    "Dr Silverstone",
+    "Professor Littlejohns",
+    "Professor Littlejohns[MK70]",
+    "Kit Malthouse[MK71]",
+    "Professor Littlejohns[JE96]",
+    "Dr Silverstone[JE98]",
+    "Professor Littlejohns[JE99]",
+    "I will give you an example which is kind of adjacent",
+    "Martin Wrigley[JE100]"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18261/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18261",
+  "source_sha256": "bba152e3aaba003e1e8fe01d609c0620333bc9bff6fbeced9ecb66e9113074e3",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

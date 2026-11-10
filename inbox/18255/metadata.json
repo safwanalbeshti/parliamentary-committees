@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18255,
+  "activity_id": 39302,
+  "document_id": 310329,
+  "meeting_date": "2026-11-04",
+  "meeting_date_display": "4 November 2026",
+  "publication_date": "2026-11-09T08:46:30",
+  "title": "HM Treasury and the economics of climate and nature",
+  "committee": "Environmental Audit Committee",
+  "committees": [
+    {
+      "id": 62,
+      "name": "Environmental Audit Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9753,
+      "title": "HM Treasury and the economics of climate and nature",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Senior Fellow",
+      "organisation": "Institute for Government"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Emeritus Professor of Political Economy, School of Sociological Studies; Visiting Professor at the Global School of Sustainability and the Suntory and Toyota International Centres for Economics and Related Disciplines (STICERD)",
+      "organisation": "Department of Politics and International Relations, University of Sheffield; The London School of Economics and Political Science"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Jill Rutter",
+    "Professor Jacobs",
+    "Barry Gardiner",
+    "Chris Hinchliff",
+    "Julia Buckley",
+    "John Whitby"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18255/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18255",
+  "source_sha256": "adba6789f7507757df1435040063114f4e9bf05e2f3d0f6eb00ae7428d3970ab",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

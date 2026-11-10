@@ -1,0 +1,324 @@
+{
+  "schema_version": 1,
+  "source_id": 18256,
+  "source_sha256": "4ce965ee72832d73feb62242f496e49b463b7e4fa576cdf27565407d5da43e58",
+  "title": "Who will keep the lights on? Gas supply, green gas and a fair transition",
+  "label": "4 November 2026 · Managing the future of UK oil and gas",
+  "summary": "The Committee questioned gas network operators, biomethane industry leaders and trade bodies about UK gas supply, storage, the potential of biomethane, hydrogen’s role, costs of keeping the network running and how to avoid unfairly burdening remaining gas users as demand falls. Witnesses agreed gas will remain important for years, said UK biomethane could grow substantially and boost jobs, and warned that decommissioning or a rapid switch could leave vulnerable people and workers exposed without a clear national plan.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Bill Esterson",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Dr Needle",
+      "name": "Dr Angela Needle",
+      "role": "Director of Strategy, Cadent",
+      "kind": "witness"
+    },
+    {
+      "label": "Jenny Phillips",
+      "name": "Jenny Phillips",
+      "role": "Director of Energy Delivery, National Gas",
+      "kind": "witness"
+    },
+    {
+      "label": "Charles McAllister",
+      "name": "Charles McAllister",
+      "role": "Director, Green Gas Taskforce",
+      "kind": "witness"
+    },
+    {
+      "label": "Mike Foster",
+      "name": "Mike Foster",
+      "role": "Chief Executive, Energy and Utilities Alliance",
+      "kind": "witness"
+    },
+    {
+      "label": "Rhea Wolfson",
+      "name": "Rhea Wolfson",
+      "role": "Secretary, GMB Scotland",
+      "kind": "witness"
+    },
+    {
+      "label": "Torcuil Crichton",
+      "name": "Torcuil Crichton",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Graeme Downie",
+      "name": "Graeme Downie",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Catherine Fookes",
+      "name": "Catherine Fookes",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Wera Hobhouse",
+      "name": "Wera Hobhouse",
+      "role": "Member of Parliament",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "biomethane",
+      "definition": "Methane made by processing organic waste or crops in digesters and upgraded so it can be put into the gas network."
+    },
+    {
+      "term": "NESO",
+      "definition": "National Energy Systems Operator, the body that models future UK energy demand and scenarios."
+    },
+    {
+      "term": "FSRU",
+      "definition": "Floating Storage and Regasification Unit—an LNG ship that can store and turn liquid gas back into gas for networks."
+    },
+    {
+      "term": "LNG",
+      "definition": "Liquefied natural gas cooled to a liquid for shipping and then turned back into gas at port before entering the grid."
+    },
+    {
+      "term": "Green Gas Support Scheme",
+      "definition": "A UK subsidy scheme that pays for biomethane production if it meets greenhouse-gas standards."
+    },
+    {
+      "term": "Boiler Upgrade Scheme",
+      "definition": "A UK government grant scheme to help households buy heat pumps instead of gas boilers."
+    },
+    {
+      "term": "Clean Heat Market Mechanism",
+      "definition": "A UK policy that charges boiler makers unless enough low-carbon heating is installed; critics call it a 'boiler tax'."
+    },
+    {
+      "term": "linepack",
+      "definition": "The volume of gas held in the transmission network at any time, used to balance short-term demand changes."
+    },
+    {
+      "term": "hybrid heat pump",
+      "definition": "A combined system with a smaller heat pump plus a gas boiler for peak or hot-water needs, lowering emissions versus boiler-only."
+    },
+    {
+      "term": "decommissioning",
+      "definition": "The process of taking gas network infrastructure out of use and safely removing or mothballing it."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "How much UK gas do we have and what does it serve?",
+      "takeaway": "Domestic production is useful but limited; imports, storage and the network all play key roles in meeting peak winter demand.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "To start: how much can the UK rely on domestic gas for electricity, heat and industry?"
+        },
+        {
+          "speaker": "Dr Needle",
+          "text": "We have North Sea gas and growing biomethane potential, but imports will remain part of the mix."
+        },
+        {
+          "speaker": "Jenny Phillips",
+          "text": "On average UK production covers about 40–45% of demand. Daily peak domestic output is roughly 100 million cubic metres, but winter peak can hit 500 million—so domestic covers about 20% then."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Does Government policy favour imports over domestic production?"
+        },
+        {
+          "speaker": "Jenny Phillips",
+          "text": "We need imports in winter. Policy should ensure markets attract LNG and interconnector flows; domestic supply helps security but doesn’t remove the need to import."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Can increasing domestic production bring prices down?"
+        },
+        {
+          "speaker": "Jenny Phillips",
+          "text": "Evidence from Jackdaw suggests not necessarily for price, but more domestic supply improves energy security."
+        }
+      ]
+    },
+    {
+      "title": "Biomethane: how big could it be and what would it change?",
+      "takeaway": "Biomethane can grow a lot, provide stable-priced gas, create local jobs, and displace some imports—if policy and funding are clear.",
+      "turns": [
+        {
+          "speaker": "Charles McAllister",
+          "text": "There are 140 biomethane plants now, enough to decarbonise about 1 million homes invisibly."
+        },
+        {
+          "speaker": "Charles McAllister",
+          "text": "Our analysis says the UK has sustainable feedstock to reach about 120 TWh of biomethane by 2050—over ten times today; NESO found a similar 109 TWh for GB."
+        },
+        {
+          "speaker": "Chair",
+          "text": "How realistic is that tenfold increase?"
+        },
+        {
+          "speaker": "Charles McAllister",
+          "text": "Realistic: the supply chain exists. If Government set a long-term policy framework, bigger plants and co-products could cut costs."
+        },
+        {
+          "speaker": "Charles McAllister",
+          "text": "Average UK production cost is about £90/MWh today; with scale and valorising co-benefits we estimate roughly a 25% cost reduction could be achievable."
+        },
+        {
+          "speaker": "Chair",
+          "text": "What about jobs and local benefits?"
+        },
+        {
+          "speaker": "Charles McAllister",
+          "text": "If maximised, biomethane could support about 57,000 jobs nationwide—skilled engineering roles, spread across constituencies and keeping 85p of every £1 in the UK supply chain."
+        },
+        {
+          "speaker": "Dr Needle",
+          "text": "Networks can take biomethane where there’s demand; sometimes reinforcement is needed but costs are not huge and are usually paid by producers today."
+        },
+        {
+          "speaker": "Charles McAllister",
+          "text": "Working closely with gas networks is vital—without the networks biomethane would be costlier to deliver."
+        }
+      ]
+    },
+    {
+      "title": "Storage, system flexibility and energy security",
+      "takeaway": "The UK's storage model is flexible daily balancing rather than huge seasonal stores; diversity of supply (LNG, interconnectors, storage) supports security, but policy clarity is needed.",
+      "turns": [
+        {
+          "speaker": "Graeme Downie",
+          "text": "We have less UK and EU storage than in previous years—what does that mean for security this winter?"
+        },
+        {
+          "speaker": "Jenny Phillips",
+          "text": "GB storage operates differently to continental sites: ours fill and empty quickly and provide daily flexibility. They help the market balance every day."
+        },
+        {
+          "speaker": "Jenny Phillips",
+          "text": "UK supply is five sources: domestic production, Norway, interconnectors, LNG and storage/linepack. Together they provide the flexibility needed—if markets and contracts work."
+        },
+        {
+          "speaker": "Graeme Downie",
+          "text": "What about floating storage regasification units (FSRUs) or a strategic reserve?"
+        },
+        {
+          "speaker": "Jenny Phillips",
+          "text": "FSRUs can be part of an answer; they provide short-term supply. The Government’s gas system transition consultation should set a security standard and then options—FSRUs, strategic sites, contracts—can be compared."
+        },
+        {
+          "speaker": "Dr Needle",
+          "text": "We run annual exercises for outages, cyber or supply shortages to test responses and protect vulnerable customers—preparedness matters."
+        }
+      ]
+    },
+    {
+      "title": "Emissions, hydrogen and the role of gas to 2050",
+      "takeaway": "Gas is expected to remain part of the net‑zero system alongside hydrogen and biomethane; hydrogen will need clear policy support and biomethane has strict carbon requirements.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "How green is biomethane compared with LNG or North Sea gas?"
+        },
+        {
+          "speaker": "Charles McAllister",
+          "text": "Biomethane avoids emissions that would otherwise be released by rotting waste; UK projects must demonstrate at least a 70% carbon saving to get support, and many do better."
+        },
+        {
+          "speaker": "Dr Needle",
+          "text": "Simpler: biomethane is short-cycle carbon—plants regrow—so burning it doesn't add fossil carbon to the atmosphere the way long-cycle fossil gas does."
+        },
+        {
+          "speaker": "Chair",
+          "text": "What about nitrogen oxide (NOx) from burning methane?"
+        },
+        {
+          "speaker": "Dr Needle",
+          "text": "Boiler standards reduce NOx emissions; network operators don't manufacture boilers, so technical detail would come from appliance specialists."
+        },
+        {
+          "speaker": "Catherine Fookes",
+          "text": "Can hydrogen substitute gas for heating?"
+        },
+        {
+          "speaker": "Dr Needle",
+          "text": "Hydrogen has a role—NESO’s holistic scenario includes around 100 TWh—particularly for industry and power where electrification is hard. It can be made in the UK, including from surplus wind, but policy and funding certainty are needed."
+        },
+        {
+          "speaker": "Dr Needle",
+          "text": "The existing network can carry 100% hydrogen if repurposed, or a blend around 20%, but you can't carry both natural gas and hydrogen in the same pipes without change."
+        }
+      ]
+    },
+    {
+      "title": "Costs, decommissioning risk and the workforce",
+      "takeaway": "Shrinking the gas system without a clear national plan risks high bills for remaining users, unfair cost distribution and disrupted careers; hybrids and biomethane were suggested as pragmatic bridges.",
+      "turns": [
+        {
+          "speaker": "Torcuil Crichton",
+          "text": "If fewer people use gas, who pays to maintain the network? Some estimates say £100bn."
+        },
+        {
+          "speaker": "Jenny Phillips",
+          "text": "Transmission’s recent price control was about £5bn over five years; electricity had much larger recent allowances. Keeping networks safe costs money—about £12.50 on bills was cited for transmission recovery."
+        },
+        {
+          "speaker": "Mike Foster",
+          "text": "If decommissioning happens the costs should be spread widely—general taxation is fairer than leaving the last users to carry the bill."
+        },
+        {
+          "speaker": "Mike Foster",
+          "text": "Today an average domestic contribution for the gas network is around £122/year. If customer numbers halve, fixed costs might double; if only a few million remain, fixed charges could become very large for those households."
+        },
+        {
+          "speaker": "Mike Foster",
+          "text": "I advise against a policy that ends with cutting people off from gas—heating, hot water and cooking depend on it for many households."
+        },
+        {
+          "speaker": "Rhea Wolfson",
+          "text": "Workers need a real, funded national plan. Skills are transferable but without clear demand the jobs for trained staff don’t materialise and people leave the sector."
+        },
+        {
+          "speaker": "Mike Foster",
+          "text": "Heat pump roll-out is too slow—about 45,000 installs a year at current rates—far short of what decarbonisation targets imply. Hybrids are being installed only in the hundreds."
+        },
+        {
+          "speaker": "Mike Foster",
+          "text": "Hybrids (small heat pump + gas boiler) cut carbon by c.80% and are cheaper to install than full heat pumps; they could be a pragmatic stepping stone. I argued for subsidies for hybrids to increase uptake."
+        },
+        {
+          "speaker": "Wera Hobhouse",
+          "text": "Is policy certainty good enough? Announcements have been inconsistent."
+        },
+        {
+          "speaker": "Mike Foster",
+          "text": "Industry needs certainty. I recommended scrapping the Clean Heat Market Mechanism (the so-called boiler tax) and supporting hybrids to get more homes moving now."
+        },
+        {
+          "speaker": "Chair",
+          "text": "What are the clearest near-term asks to Government?"
+        },
+        {
+          "speaker": "Charles McAllister",
+          "text": "Publish the future biomethane framework so investors build. The sector responds quickly to clarity and cheap small incentives—140 plants were built when previous support existed."
+        },
+        {
+          "speaker": "Dr Needle",
+          "text": "Set clear gas-system transition rules so networks and suppliers know what investments are needed and how costs will be recovered."
+        },
+        {
+          "speaker": "Rhea Wolfson",
+          "text": "A jobs-first plan with training, no forced redundancies and credible replacement jobs is essential before large-scale decommissioning."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. Please send any further evidence—this will inform our recommendations to Ministers."
+        }
+      ]
+    }
+  ]
+}

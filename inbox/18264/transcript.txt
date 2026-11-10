@@ -1,0 +1,344 @@
+﻿
+
+
+
+
+
+
+Oral evidence - 04 Nov 2026
+
+Financial Services Regulation Committee
+
+Uncorrected oral evidence: Regulatory sandboxes in financial services
+
+Wednesday 4 November 2026
+
+10 am
+
+Watch the meeting
+
+Members present: Baroness Noakes (The Chair); Baroness Bowles of Berkhamsted; Lord Davies of Brixton; Baroness Donaghy; Lord Eatwell; Lord Griffiths of Fforestfach; Lord Hill of Oareford; Lord Hollick; Lord Lilley; Lord Sharkey; Lord Smith of Kelvin; Lord Turnbull.
+
+Evidence Session No. 3 Heard in Public Questions 26 - 39
+
+Witnesses
+
+Sebastian McDermott, Co-chair, Fintech Founders; Chris Bosworth, Founder, Finclusion; Will Mason, Founder and CEO, Infact; Oliver Quie, Co-founder and CEO, Innerworks.
+
+USE OF THE TRANSCRIPT
+
+This is an uncorrected transcript of evidence taken in public and webcast on www.parliamentlive.tv.
+
+Any public use of, or reference to, the contents should make clear that neither Members nor witnesses have had the opportunity to correct the record. If in doubt as to the propriety of using the transcript, please contact the Clerk of the Committee.
+
+Members and witnesses are asked to send corrections to the Clerk of the Committee within 14 days of receipt.
+
+Examination of witnesses
+
+Sebastian McDermott, Chris Bosworth, Will Mason and Oliver Quie.
+
+The Chair: Welcome to today’s meeting, which is the third oral evidence session as part of the committee’s inquiry into regulatory sandboxes. I want to thank Mr McDermott, Mr Bosworth, Mr Mason and Mr Quie—if that is the right way to say it—for attending.
+
+The session is open to the public. It is broadcast live and subsequently accessible via the public parliamentary website. A verbatim transcript will be taken of the evidence and that will be put on to the parliamentary website.
+
+I will start by asking Mr McDermott to introduce himself, and I understand you will be making a few opening remarks.
+
+Sebastian McDermott: Yes, I think each of us will do a quick intro.
+
+The Chair: After you have made your opening remarks, I will ask the other three to briefly introduce themselves and the organisations they are associated with, and then we will go straight to questions. I will start with you, Mr McDermott.
+
+Sebastian McDermott: Great. Hello, everyone. Thanks for having us. My name is Seb. I am the co-chair of Fintech Founders, which is a group that we are all a part of. There are about 700 entrepreneurs all focused on fintech in the UK who are part of the group.
+
+My background is that I founded two mortgage services businesses, and I now invest in financial services. On my involvement with the sandbox, I have been involved with several firms who have decided not to participate, largely because the application process is perceived to be arduous. There is a perceived risk of not being authorised by engaging and a view that, in a principles-based framework, you should be able to innovate without a sandbox.
+
+The Chair: I will ask the other three to introduce themselves briefly and then we will start with questions. Mr Quie?
+
+Oliver Quie: Hi everybody. My name is Oliver. I am co-founder of Innerworks. We are a device intelligence and agent identification company, meaning that when a user enters a financial ecosystem, we help establish whether the user is a human or an AI agent and where the authoriser is geolocated. We are an example of a UK company that would argue we have a mission critical value proposition to financial security. We are not part of a UK regulatory sandbox but have been drawn into programmes abroad, so I hope that we can contribute into the factors that have led to that. Our interest is in the regulator participating more in technical evaluation of vendors like ourselves.
+
+Will Mason: I am Will Mason, the founder and CEO of Infact. We are a regulated credit reference agency, so we compete with Experian, Equifax and TransUnion. We were authorised in 2024 and, 11 months into our authorisation process, the FCA tried to push us into the sandbox, which we chose not to do and ultimately were successfully authorised. It is our strong belief that innovation does not happen in a box and that the sandboxes are great for specific activities of testing with the regulator, but we would like to see innovation pushed out more broadly across the FCA rather than happening in the innovation department. It needs to happen across the whole building.
+
+Chris Bosworth: Hi. I am Chris Bosworth, one of the founders of Finclusion. We are a consumer credit regulated business. We provide mobility through vehicle financing to underserved communities across the UK. We also did not participate in the sandbox, partly for some of the reasons mentioned before—an arduous, expensive process—and we were directly authorised through the normal channels in February of this year.
+
+The Chair: Let us start with the big picture, and I think I probably know how you are going to respond to this. The UK has been very successful in fostering its fintech companies for some time, and much credit has been claimed for the role of sandboxes in that. How important have sandboxes been in the contribution to the success of fintech in the UK? If there are barriers, should it be easier to get into sandboxes or should we just look to other ways of encouraging innovation? Would you like to start from Fintech Founders, because you have an overview?
+
+Sebastian McDermott: There are more important factors, like access to capital, access to talent, than sandboxes themselves I think that sandboxes have helped in some areas, but I would not say it is one of the top 10 factors.
+
+The Chair: Does any of you have any particular views?
+
+Chris Bosworth: I can give a consumer credit perspective as a lender. If you look at some of the success stories that have happened in lending in the UK financial services over the last 10 years, a lot of those companies benefited from originally being under the OFT rather than the FCA. Very few partook in sandboxes because they just did not exist, so the success stories you see today are 10, 11, 12 years in the making before these things were available and probably before a lot of these things were FCA regulated, but I do think that was a big benefit. The firm I was at previously—I cannot speak on its behalf—originally was OFT regulated, which was a much lower bar. It allowed it to find its feet before it moved into FCA regulation, by which time it was already quite a large company.
+
+The sandboxes in general—and you can see this from the participants in sandboxes—with the cost involved and the complexity of the application, are really aimed at much larger companies. It is not the first step, as many people would make you think it is. A lot of NatWest entities go through the sandbox. There is Revolut, but Revolut was already a huge business in Lithuania at the time. A sandbox is very difficult for us as a business that started last year. It is not for us, basically. That is not who it is for.
+
+Lord Sharkey: I will ask a general question following on from that. How should the performance or the benefits of sandboxes be assessed? It would help the committee enormously if we had a clearer view about how they perform and how that should be measured.
+
+Will Mason: One of the things that definitely detracted from us thinking about the sandbox was that we do something relatively complex and we need to bring institutions together to share data with us so that we can provide it back to them. That is the role of a credit bureau. That fundamentally does not work in a sandbox environment. We need to be able to do that in the open market.
+
+What I know has caused the deliberation of other firms not going through the sandbox is that there is no clear pathway to actually being authorised. The expectation is you apply to be in the sandbox and then afterwards you potentially apply to become a fully authorised firm. There should be a clear pathway to effectively turning out of the sandbox and into being a fully authorised firm.
+
+The only real parallel that I have, from a working experience, is that we operate our own sandbox from a development perspective, where you have engineers building against our code base, and there is a clear checklist of things that need to be achieved before you can go into production. We would love to see the same thing happen from a sandbox perspective.
+
+Oliver Quie: I can give you one more point there. Technical benchmarking is the obvious equaliser here. There should not be barriers to participation in these programmes that are significant, but there should be an extremely high bar for an understanding of what a performant company is.
+
+Not all of us are tech-enabled companies, but many of us are. I would be able to give a list of specific quantified metrics about whether my products worked or not. I think that there needs to be a very important distinction between companies that are compliant through the existence of a control versus a control that actually works. Regulatory sandboxes are a perfect environment to have a list of quantified criteria about whether the people participating have built products that are truly contributing towards enforcing regulation in the way that you think it should be done.
+
+Chris Bosworth: I can add to that. There are a number of metrics. As Oliver and Will alluded to, you could look at it as: how many of those companies did progress to being fully authorised? There is also a question of the sandbox identifying ones that should not be authorised as well, so perhaps that is not necessarily always the key metric.
+
+On the constrained resources of the FCA, personally I would have some review on return. Maybe that is just me as a financial services entrepreneur, but what is the return on my investment? At a time when the normal authorisation pathways are not meeting SLA, I hear a number of fellow entrepreneurs struggling to get Annex 1 permissions at the moment, and they have not even had a case officer appointed. It feels a bit odd that there is all this investment going into performative innovation when truly innovative companies cannot get a case officer to go through the normal channel.
+
+I think a lot of it is about where you put your resources, and if you measured performance on a return basis you probably would not put them in sandboxes if you were running the FCA.
+
+Lord Sharkey: I am struck by the phrase “performative innovation”. A question that arises, though, is to do with regulation itself. Is there any sign of improved regulation emerging as a result of sandbox experience?
+
+Will Mason: I think the sandboxes on stablecoins appear to be creating some good feedback for the Government on how to legislate around stablecoin, but I am not aware of any others.
+
+Sebastian McDermott: Where something sits outside the regulatory perimeter and the question is “Should we bring it in?”, that is a good use case for a regulatory sandbox. As I said in the opening statement, the fact that we have a principles-based or outcomes-based regulatory system suggests that you should be able to innovate and then show how this is satisfying the principles, and then you are in a good place.
+
+Lord Hollick: Will, in your opening remarks you referenced the rather narrow focus of the sandbox. I rather inferred from that that a wider lens might make for a more effective sandbox. Do you think that is the right direction of travel?
+
+Will Mason: I think sandboxes are naturally narrowly focused because someone will apply to do something that is narrow, constrained and effectively within this box that the regulator has established. What we as Infact do is constrained with controls, as Oliver was talking about, but we are required to work with multiple parties across the industry to do what we do, and the sandboxes themselves are unsuitable for that.
+
+To Chris’s point, we generally perceive that sandboxes are very useful for incumbents and useful for the regulator in creating innovation theatre. It has been used as a political tool to an extent. We would welcome a regulator that is more broadly innovative, across the whole regulator.
+
+We are going through something slightly separate at the moment, but the FCA is in the process of designating credit reference agencies and effectively creating a higher order regulatory privilege that we will unlikely be able to partake of in the first instance, where we are effectively the only competitor to Experian, Equifax and TransUnion. That is an example of the FCA trying to innovate in one place, in the innovation department, and killing innovation in other areas of the building.
+
+Lord Hollick: Chris, you have stepped up in an area of car finance, which has been scarred by the experience over the last decade or so—a major operational and regulatory failure. That is a bold move. Why did you not use the sandbox to navigate through the regulatory problems that your sector has experienced?
+
+Chris Bosworth: I probably should say that I used to work at Close Brothers who are on the other side of that.
+
+Lord Hollick: I noticed that as well.
+
+Chris Bosworth: Yes, that was at the time when some of those cases were occurring. The reason we did not go through the sandbox was effectively that the application process for the sandbox was as arduous, if not more arduous, as the actual full authorisation process.
+
+Lord Hollick: When you say that do you mean in time or detail or cost?
+
+Chris Bosworth: Time and cost, I would say. As a start-up company, you have finite resources and you need to decide where to put them. We assessed the cost of applying to the sandbox versus the cost of applying for authorisation. They were roughly the same. This comes from a compliance consultant, so we did not test this, but I think Will had this experience as well.
+
+There is a perception that if you apply for direct authorisation and the FCA thinks you are not quite there, it will push you into the sandbox. It was almost like there was no benefit of going sandbox first. You might as well go for full authorisation. If you are not where the FCA thinks you need to be, it is going to put you in a sandbox anyway, so you might as well do that. Our team all have 20-plus-years’ experience. We have seen from both sides what was going on in the industry. For instance, we designed a product with no commission payable because, as you know, commission is at the nub of that issue, and actually we got directly authorised in a relatively short period of time, so it worked well for us.
+
+I think that the sandbox is just a bit off-putting if you do not have NatWest money. You have to have a lot of resources to participate in a sandbox.
+
+Lord Turnbull: I think the phrase “innovation theatre” is worth the entrance fee and the journey today. It is strange to have a group of non-enthusiasts telling us about sandboxes. The bit I would like some help with is not the process of getting into it; I think I sort of understand that. A company finds customers, technology, assets, wants to see if it can make a go of it and gets into discussion with the regulator who comes up with a package with some waivers of regulation. The bit that I do not understand is, once you are in it, what happens then? How do you progress through it and out of it? Suppose the company finds some package of what it is bringing, and the regulatory changes, and it is a success, what happens then? Does the FCA say, “Good on you, mate, carry on”? Do they say, “This was really interesting. It is so good, we should open this up to more people”? Or do they say, “Well, you have had your phase with some help, but now you can go back and play with the big boys with a full regulatory regime”? It is not clear what stage the people going through it are at and how they progress from where they are now.
+
+Chris Bosworth: I could not agree more. That is actually the main nub of the problem. It is not clearly delineated what you are supposed to achieve in these sandboxes, how you get out of them and what happens when you do. I think Will alluded to that a little bit as well. That is one of the fundamental issues with the sandboxes. It is very unclear what happens afterwards or what success looks like within that sandbox environment.
+
+Will Mason: There are obviously quite a few different sandboxes and some of them are very clearly time constrained with cohorts, like the FCA’s supercharged sandbox where you get a period of time with NVIDIA compute and its synthetic data. There are obvious benefits for start-ups who do not have the financial power to go and buy NVIDIA compute. If they really want to test something, it is probably a very good space to be able to test with that technology. Afterwards, I guess they lose access to NVIDIA compute and then they have to go and raise money to get it again.
+
+From a regulatory sandbox perspective, our experience was that they tried to push us into the sandbox. I think it is because they did not understand our business model. That may be partly our fault. What we were doing was not novel, not new to the market. We have the same business model as three very established companies and we were doing things exactly the same way. Our technology is very different but it is still easy to understand.
+
+When they tried to push us into it, the case officer we were dealing with said, “You go and do the sandbox for a period of time, and at the end you will have to come back and apply for authorisation and there is no guarantee you will be accepted”. Beyond that, it was not particularly clear, and it would have been a completely separate application process. We spent a lot of time and a lot of money on our authorisation application. We would have had to have done the same again with sandbox. Meanwhile, we have investors to answer to and a finite amount of cash.
+
+Lord Turnbull: Is it rather like these road junctions, “Do not enter the box until your way out is clear”? If it is not clear and it is not clear that the cost of getting to grips with regulation is any more or less, I cannot see quite what these things are doing.
+
+Will Mason: We would very much welcome—certainly on some of the sandboxes that have been running for a long time—a deeply introspective retrospective of what the success has been of the sandboxes and a review. In the same way that all of us probably sit down and review things that have gone well and gone badly for the last quarter, sit down and review the things that have gone well and the things that have gone badly and try to improve it from there. Certainly, clear pathways to fully productionised regulatory permissions is one thing that we would like to see from the regulatory sandbox.
+
+Lord Turnbull: From the papers I have seen, the last time there was a review was 2017. There has not really been an assessment of the merits, the demerits, who it suits, who it does not suit. Is that something that we need?
+
+Oliver Quie: The best-case scenario being authorisation is inherently something that could have been achieved without the sandbox. There needs to be something that you can only get in that environment. That is the very point of building one. We have seen from programmes abroad that we understand there will be value from participating and that there are multiple clear potential outcomes that could involve regulatory authorisation. However, I would definitely point the committee towards programmes in the UAE, and in Singapore in particular. There is one called the Spark programme, where as a company participating you can understand that an independent third party is going to assess the credibility of my technology, how financially sensible and sound my company is, and make introductions into particular target ecosystems that are of value to that jurisdiction’s economy.
+
+Those are all assessments that could only have happened—and those companies would only take that risk of trying us—because of that sandbox environment. That value proposition to a company that is building at the frontier is just not present in the UK, or it is not communicated in that way, which is why all the companies we are seeing emerging in UK sandboxes are known brands. These are not companies working at the frontier of innovation at all.
+
+Baroness Bowles of Berkhamsted: That leads on very much to what I was thinking. When sandboxes were invented in financial services, the idea was that something that was a very new model was tested for safety. Then the logical conclusion was that, once the model itself was safe, authorisation would follow on somewhere or another. Now I am totally confused as to what they are really for, in the sense of who is benefiting most. Is it the regulators, firms or consumers? Are they related to fundamentally testing new things or is it just a kind of authorisation adjunct?
+
+Sebastian McDermott: I agree. There are lots of use cases for sandboxes themselves but, as Oliver was saying, if the main goal of a sandbox is authorisation or not, when there is a body that does that as a job, the sandbox becomes a bit of a “don’t know” bucket for the main regulatory approvals process.
+
+However, a sandbox, as Oliver said, where it is a way for firms to get together and test something to see if the regulator wants to get behind it—where the outcome is not a question of authorisation, it is a question of, would this be good for the market—diverting resource away from authorisation sandboxes to those kinds of sandboxes would be good.
+
+Baroness Bowles of Berkhamsted: Those kinds of sandboxes are not happening?
+
+Chris Bosworth: There are theme sandboxes, but they tend to be more for the benefit of the regulator in identifying the regulatory perimeter than, say, a start-up company. There is the sustainable finance sandbox that they are just launching at the moment that is really looking at the consulting firms that decide whether an investment is ESG compliant or not, and trying to work out how the regulation around those ratings should work. That is clearly for the benefit of the regulator.
+
+I think that the companies participate in that to get a rubber stamp and maybe to get on the front foot in case the regulatory environment changes and they need additional permissions, but again they will all be very big companies that are already doing that product because that is how you participate in a UK sandbox. It is not for start-ups. It is not an innovation pathway. The FCA has innovation pathways as well, by the way. There is also a little bit of confusion between its innovation pathway and sandbox approach. As Will says, both of those seems to conflict with the overall organisation approach. As you said, this is probably because it has been going on for 20 years essentially with not much oversight. People go down their own route and maybe it is not looked at holistically across the whole organisation.
+
+Baroness Bowles of Berkhamsted: You mentioned a very interesting word, “oversight”. How would you expect that a sandbox could be overseen? What could we do?
+
+Chris Bosworth: Personally, as someone with finite resources who runs a business, I think very hard about where I put my resources. I feel like if I look at the FCA from the outside, there are a lot of tentacles going in a lot of different directions that do not seem to me to be consistent. That may not have been explained very well to me. Maybe I just do not understand it, but you have the innovation pathways going in one direction, sandboxes going in another direction, and the core FCA authorisation going in another direction. We are part of the early and high growth oversight body, and that goes in a slightly different direction to core regulation. There are a lot of tentacles and, as a small company trying to do something innovative within the UK, that is a challenge.
+
+Baroness Bowles of Berkhamsted: It has got quite confused. You have not been in sandboxes but, looking at it where competitors or others have been in sandboxes, does that give them an advantage—for example, saying to investors, “We have been in the sandbox”?
+
+Chris Bosworth: My perception is that there are not many people who have been through the sandbox that are in the sort of investment corridor that we are all in. If you were, you would not have spent the money on going into a sandbox. A lot of the companies have already gone through that. They have already got a lot of resources. They are well-known names, basically.
+
+Baroness Bowles of Berkhamsted: It seems to me to be a different animal from what I thought it was when I went into it, being explained all those years ago.
+
+Lord Eatwell: The whole point of this sandbox thing was to reduce regulatory risk. That is what it was for, so that when you chaps come along with something new, you do not spend an enormous amount of money developing your new thing and then having it turned down. That was the basic idea. I saw from the Fintech Founders annual survey—which is excellent, by the way, congratulations—that the main regulatory barriers facing innovative firms are regulation and scaling. Scaling we know about. We know about the financial issues there. I noticed that two of you have been very successful with venture capital firms in the UK, which is striking because most get their money from the US. If we are going to reduce regulatory risk—given the positions that you are in—what would be the two things that you would like to see happen to encourage innovation and reduce the possibility that you spend a lot of money on something that then gets turned down? What would you like to see happen?
+
+Sebastian McDermott: For me, it would be speeding up the main authorisation process. It is a lot faster than it was maybe two years ago, but you are still looking at nine months, roughly. If we could bring that down to six months, and if we could make sure that—
+
+Lord Eatwell: Three months less burn, right?
+
+Sebastian McDermott: That would be the main thing for me, to speed that up. Where something sits outside the regulatory perimeter—like stablecoins, for example—I think sandboxes are helpful, but that innovation would be happening anyway. I do not think they are fostering innovation. They are more the regulator saying, “Should we authorise this or not?” But for me it is really getting the main authorisation process faster.
+
+Lord Eatwell: What would you like to do, Mr Quie?
+
+Oliver Quie: I only have one point, which is that sandboxes can completely remove the phenomenon of “nobody gets fired for buying IBM”. People should get fired for not buying credible technology. Vendors have a conflict of interest in arguing how well their thing works, and buyers and large firms can decide who they would like to king-make. They will often make a strategic decision that is not based on the performance of the new provider. The regulator and the sandbox is an ideal environment to put people head to head, based off a criterion that you find meaningful, and let the market decide how credible they want to be by demonstrating where they invest and what they adopt.
+
+Lord Eatwell: What you are saying is that they tend to diminish the role of the disruptor.
+
+Oliver Quie: Oh my goodness, I have been in the room with some of the highest regulated financial services companies. I will give you an example of where we provide a geolocation signal. We will tell you the person who is executing a transaction and where they geolocated in that moment. They want to use the provider that will not tell them that because they do not want to be seen to be processing transactions from sanctioned jurisdictions. They want to show they have the control that is in place—that they are compliant. They do not possibly want us to do the job it says it does. A regulator can delete that phenomenon by saying, “You have to use the thing that works”. That is how you end up adopting a new provider who has very credible technology but just is not a known name yet.
+
+Lord Eatwell: Any suggestions to reduce regulatory risk?
+
+Will Mason: One of the things we found surprising going through the process—my co-founder and I have been doing this for 15-plus years—was that the fundamental lack of trust in us as individuals basically drove the process on and on and on. If you go through other accreditation processes, it starts from principles of trust and that can be eroded very quickly, and you can have your accreditation taken away, which is absolutely fine. If we do something wrong, you can take our authorisation away, but make it easy to start trading. That is my response.
+
+Lord Eatwell: Mr Bosworth, your suggestion?
+
+Chris Bosworth: Yes, very similar to that. You mentioned burn. The biggest risk when you set up a business—we had to do this last year, raising money—is the question to the investor: “Well, here is our business plan. It starts from the moment we are regulated. We cannot tell you when that is going to be. Would you like to invest in our company?” It is an interesting dynamic.
+
+A bit like Will, I think that some form of provisional licensing is the way forward that allows you to trade on a limited, small level, but at least prove that the market exists, prove that your product has a market, and generate a little bit of revenue within a controlled framework. To me, that is what a sandbox should be doing, rather than it being an opaque thing to one side with synthetic data, completely removed from the real world and then you may or may not be allowed to reinsert yourself into the real world later on. I think that having some form of provisional licensing that allows you to start doing what you wanted to do under a higher level of supervision, to make sure that you are not doing something you should not be doing, would work.
+
+Baroness Bowles of Berkhamsted: I thought that is what they were supposed to be.
+
+Lord Lilley: Could you tell us a little about the authorisation process? Forget about sandboxes. What has to be authorised, the product or both at once, and why does it have to be authorised? Why can you not just do things as long as you obey the law?
+
+Chris Bosworth: I can give you our experience. As a consumer credit lender, you have to be authorised to lend someone money. I would not be obeying the law if I just started—I think it is called loan sharking—giving money up, so you have to do it. As Seb was talking about, the whole process is quite interesting because a big chunk of the process for us was that there was no process. We were waiting for case officers to be appointed because the FCA did not have sufficient resources. At least one-third of our end-to-end process was zero interaction, waiting. We made an application. We waited several months for a case officer to be appointed to our case. I think that is the general experience.
+
+The Chair: When was that?
+
+Chris Bosworth: Just last year, so 2025. I think that is a problem and it has got worse. We have a few other entrepreneurs, part of the group that apply for Annex 1 permissions at the moment—the money laundering permissions, which is, theoretically, a smaller remit than, say, consumer credit—and they are waiting three months now for a case officer.
+
+There is a big problem about the speed of the process, but actually, once the process starts, our experience was good. We had a knowledgeable case officer, a knowledgeable team. The fact that we were an experienced team could come across. You could have the right discussions. We were challenged, but you want to be challenged.
+
+There should be a threshold to lend people money. As I say, we deal with underserved communities. There is a reason those communities are underserved. They are hard to lend money to responsibly. The threshold level is a good level, but you want the opportunity to actually engage with someone, show what you are doing and where it comes from, and from an outcomes-based perspective, which is the way the regulator in this country works. We deliver good outcomes for our customers. Once you are in that process and you demonstrate that, it is a very good process, but waiting several months to begin that process is not helpful when you have investors paying all the bills.
+
+Also there is the scale that you have to have to be authorised. You have to have everything in place before the authorisation is granted. We had a team of people waiting to deal with customers. They were twiddling their thumbs waiting for our authorisation to come through. It is a vicious circle. We cannot get authorised unless we have those people in those seats. That is the challenge, fundamentally.
+
+Lord Lilley: I have a slightly different follow-up question. In part, the idea of sandboxes was sold to us by those who support them as a way of testing whether there is a need for regulation, not a need for authorisation, not a process of authorisation. Some new product comes along, stablecoins or something, and the idea is you let them go forward on a modest scale and the innovator then says, “Oh, it is going off in that direction because we have no rule dealing with that”. Therefore, it is about testing rules and absence of rules rather than testing the companies as to whether they need to be authorised. Is there a case for that kind of sandbox as something that tests the need for rules?
+
+Sebastian McDermott: Maybe, but who would ever put their hand up for that if you are a company? I could see the regulator doing that and we are almost running task forces to do that but—
+
+Lord Lilley: They might if it was a new product like stablecoins.
+
+Sebastian McDermott: Yes.
+
+Lord Lilley: If we are working in an environment where you are not allowed to do anything unless you are given permission—which is an environment I regret, but that seems to be the basic environment—in those cases you would volunteer to find out.
+
+Sebastian McDermott: Yes, if something sits outside the regulatory perimeter. I think the outcomes-based regulatory framework is great, and it encourages asking for forgiveness rather than permission, if you have a new innovation or a new way to underwrite a customer and it sits within the current framework, rather than going into a sandbox and saying, “I want to do this. What do you think?” Doing it, showing that it works and then, in a catch-up with your FCA correspondent, showing that it is a good thing, is always going to be the better choice, in my view.
+
+Lord Hill of Oareford: I think it was you, Mr Mason, who said that the FCA wanted to try to get you into the sandbox.
+
+Will Mason: Yes.
+
+Lord Hill of Oareford: Why do you think the FCA wanted you in there?
+
+Will Mason: It was not made 100% clear. I would not necessarily like to speculate. Ultimately, we did not really change anything. We became fully authorised with a written apology from the FCA. As I said before, the reason the sandbox did not work for us is that we need multiple entities to work with us at the same time, and they would absolutely need us to be able to do that not in a sandbox.
+
+To Chris’s point, I think maybe one of the challenges is that the FCA expects you to be fully ready—bums on seats. One of the things it wanted from us was that we had fully signed-up contracts with lots of lenders saying they were going to give us lots of data. Obviously, they are not going to do that until we are authorised. That was probably one of the challenges. One of the big issues was that it was month 11 of a 12-month process when it came out, and our perception at the time was that they had left it too late.
+
+Lord Hill of Oareford: Did the FCA accept your disinclination to go into the sandbox with good grace?
+
+Will Mason: No. It was minded to refuse the application. We refused to withdraw and we employed some consultants.
+
+Lord Hill of Oareford: I want to get to the bottom of what you are saying—you may not all be saying quite the same thing—as to whether in your ideal world you would blow up sandboxes and divert the money into speeding up the core process or whether you think there is some utility, potentially, if they were reconfigured. I cannot work out if you think of them as broadly irrelevant or in some way harmful.
+
+Chris Bosworth: I can give my view. It is very similar to what your colleagues over here were saying before. What I do not like about them is the way they are communicated. The common person probably does not know what the FCA sandbox is, but the average person who knows about the FCA sandbox thinks it is an innovation route for innovative companies to test ideas and as a pathway to regulation. It is not. The sandboxes that work are the theme sandboxes for the benefit of the regulator to work out where the perimeter should sit and whether a company should be authorised or not—stablecoins, say, the sustainable finance one they are just about to launch—but they are for the benefit of the regulator. The participants will be large companies and that is where, in my view, the sandbox framework sort of works.
+
+However, do not roll out the two or three start-ups that have ever been in a sandbox and say, “This is how we are fostering innovation in the UK; it is through these sandboxes”, because it is not. The regulatory sandbox is dysfunctional, yes.
+
+Lord Hill of Oareford: Any other comments?
+
+Will Mason: There are aspects of sandboxes that I think do work well, like the supercharge sandbox where they give you compute and they give you access to synthetic data, which can be very expensive for start-ups to access. I think it was notable in the AI live testing sandbox that the press release said eight participants had been accepted into cohort 2, named four large incumbents whom you would all know, and then did not name the four challengers. They were in a footnote at the bottom, which gives credence to the idea that these are for established firms, not necessarily for innovation and disruption.
+
+One of the things that has come out—obviously interesting things have come out of a sandbox recently—is the liability gap on agentic payments. That has been very useful to unpick where the liability gap sits when a consumer is effectively instructing an AI to make a payment on their behalf. At the end of it, there is no resolution. There is a known gap and, hopefully, some evidence to support regulation, legislation or something. That area is useful where you are trying to unpick a very specific problem, but the regulatory sandbox as a catch-all for things that they do not quite understand is not great.
+
+Lord Griffiths of Fforestfach: My impression from all the evidence is that the culture of sandboxes is far from ideal because there is a huge amount of suspicion. You are in business, you are innovative, you want to get on with it and so on, and the regulators look down on you slightly and feel, “What you are really trying to do is to get away with something, and if we did not really regulate you, you would be off by yourself and before we know we have a financial crisis” or something like that”.
+
+My first question is: is that right? The actual climate is a long way from the way the regulators describe what they feel they are doing. Secondly, what would you recommend from the point of view of public policy we could do to help change that climate so that it becomes much more positive? Instead of looking at it in detail—as two of you have done but then you walk away—you say, “Okay, I can see how what they are asking for now could benefit the business going forward”. Maybe we can start with Chris and then go to Will.
+
+Chris Bosworth: Yes. There is definitely a concept of guilty until proven innocent, and I think Will alluded to that. Arguably, perhaps in our businesses, we were the beneficiaries of that because the whole exec team had 20 years’ experience in consumer credit. I remember thinking in that process, “If I was a 25 year-old trying to do this, there is no way I would have got through it”. I alluded to the Close Brothers thing, which you could argue should have been a negative in some ways but it was seen as a positive, “Oh, you have worked in one of these big banks. Therefore, we can trust you because you have been through that bureaucracy.” That is probably not helpful for other firms but in our case it actually was quite helpful. I think that is definitely the case.
+
+To not repeat the same point, the whole provisional licensing concept would be really positive. The idea of being able to soft test in the real world rather than in a vacuum is much more valuable, with higher levels of constraint. It has to be different from being fully authorised. As I say, the case officers are very knowledgeable once you get access to one. Perhaps partnering with the actual case officers earlier in that process would be good; the people who are ultimately going to look at the full authorisation later on, what are they looking for? I guess then being a bit more open around that: what are their concerns? Are they concerns that could be fixed?
+
+The authorisation process itself is a little bit different from that. It is, “You have done this wrong and we are minded to refuse”. It is not collaborative. It is not, “If you could just change that, we would be happy with it”. That is not how it works. It is yes or no, basically. Having a phase that is a bit more collaborative and a bit more open—whether you call that a sandbox, because I do not know, maybe the name is too tainted—to me would be really valuable.
+
+Lord Lilley: The idea of provisional authorisation is interesting. We had a previous person talking about sandboxes fairly favourably but saying that, because they allowed things to happen which may subsequently be found to be improper, they had to have insurance and resources in case they had to compensate people who bought something that was then disqualified. How would that operate under provisional licensing?
+
+Chris Bosworth: That could be something that the FCA provides. As a small new entrant company, we are talking about 100 customers. Even if there is a customer detriment that is £1,000 per customer, that is £100,000. It would be far easier for that to be insured at an FCA level than for me as a loss-making start-up to find insurance for. That itself could be a valid argument for how you aggregate that risk. The vast majority are not going to be problematic. It is the one outlier that is problematic. Therefore, to aggregate that risk at a regulator level would be much easier than at start-up level.
+
+Lord Davies of Brixton: Thank you so much. This has been really informative. The construct we started with perhaps was that sandboxes were for innovation. Then we had some witnesses who told us about the dangers, but you are coming at it from a completely different angle. They did not really work for you and you are all relatively small—growing, of course. Would it be possible, from your knowledge, to assemble another group of four innovators who had a really positive experience with sandboxes?
+
+Sebastian McDermott: There is another panel I think where it is exclusively people who have been through the sandboxes. We cannot guarantee that they will all be positive.
+
+The Chair: We are trying to put a panel together.
+
+Lord Davies of Brixton: One of the other suggestions has grown that sandboxes—and I think some of you have hinted at this already—are really there to benefit the regulator rather than the innovators. They have these panel sandboxes, which presumes some people are being excluded. Have any of you been excluded or have you just not gone near that? I think the experience of people who have been excluded would be an interesting perspective to get.
+
+Chris Bosworth: Yes, we have never applied. I do know firms—again, to get the rubber stamping that Oliver alluded to—that have tried to twist their business model into being something that the theme sandbox was looking for and then they get excluded, but probably rightly so. No, I do not have personal experience of that.
+
+Oliver Quie: I do not think that exclusion is as big an issue as access and visibility. When I have seen programmes that are based on the original UK sandbox concept, there has just been better execution in the UAE and Singapore. It has been physically easy to access these places. You can go and have a meeting, and the regulator is physically next to innovation hubs where they provide subsidies for start-ups to be based. Sorry to be so bricks and mortar, but the fact that as a new entrant into the market we were able to go and have a conversation with policymakers with ease of access was very meaningful. They were very proactive in contacting UK companies to come and access programmes that were just being poorly executed here.
+
+Again, on a similar note, the culture of exclusion or culture of innovation theatre is not a phenomenon that should be blamed on sandboxes. It is perfectly present within normal market forces. If you look at corporate innovation programmes, there is no shortage of vapourware where companies are claiming to build things that they have not because the optics are brilliant. I do not think that is at all the fault of the UK sandbox. A lot of this conversation today has been around execution rather than whether the phenomenon itself is worth pursuing.
+
+Lord Davies of Brixton: There is a flavour in some of your answers that it is all in favour of the small new start-ups and the established names we have heard of. It was the suggestion that they were the usual suspects and not really that important, but I do not really know where innovation comes from. Obviously, some comes from small start-ups, but are the big names—familiar names—innovating, from your perspective?
+
+Will Mason: Yes, there is very strong innovation coming out of non-start-ups. Incumbents are able to innovate, and increasingly so. We work with banks and we see them pushing for and driving innovation. Apart from anything else, it is great for retaining high-performing staff if they are able to do something different. Yes, the industry broadly is capable of innovation.
+
+Sebastian McDermott: There is lots of innovation going on in the UK, and apologies if we are coming across a bit gloomy. It is not really the FCA’s job to create innovation, and you cannot really bottle it.
+
+Baroness Bowles of Berkhamsted: I have one little follow-up question there. On the larger firms going into the sandbox, how much is that resulting in or a consequence of them gifting the technology that they are actually testing in the sandbox in a way that smaller companies cannot, so that it is tested by others? Is that something you have come across?
+
+Will Mason: I do not think so. It is the ability and the time and resources to be able to engage in it. As Seb said, we have been relatively gloomy. The fact that we have a regulator who is willing to engage in the concept of a sandbox is a great thing. That it is willing to spin up various sandboxes to try to achieve different things is a great thing—that it is willing to try to address innovation.
+
+It needs to review the progress—how it has performed over the last 10 years, how each of them have performed as cohorts and what they have gone on to achieve. It needs to reflect on that and drive some sort of change into the way the sandboxes are constructed at the moment, to really push the market forward in a time where innovation is happening at a faster and faster pace.
+
+Lord Davies of Brixton: I have one quick question. You have referred to the expense of getting into a sandbox. That is the expense to you. You are not being charged fees, but it involves you in a lot of work, which you have to fund.
+
+Chris Bosworth: Yes, it is like any application. Whether that is for full authorisation or for a sandbox, the premise is that you have a lot of resources. These applications are massive and they are complicated. For an application to a sandbox we are talking thousands of pages of material, so there is a time and normally professional services expense in putting that together.
+
+Lord Hill of Oareford: Roughly—and you may not want to for commercial reasons—what figure do you have in your head as to what the cost of that application is for a start-up business?
+
+Chris Bosworth: As I say, we looked at both the full authorisation and sandbox. They were roughly the same. The explicit costs were in the tens of thousands. Obviously, once you factor in the time and the fact that you have to have your whole team sat there, you are close to seven figures, basically.
+
+Baroness Donaghy: I think it was Oliver that said that sandboxes were about execution rather than innovation. If part of the regulator’s job is to encourage growth, how do you think they should provide, say, a concierge service? If you do not think that they are the ones that should provide it, who do you think should do it in the UK?
+
+Oliver Quie: I think that the regulator can identify a need, and innovators are very good at wrapping their resources around some kind of urgent requirements. For example, if you were to present issues about authenticating AI agents within financial services, it provides a lot of focus and will provide great outputs if there are objective success criteria about what was a helpful contribution from the companies that participated.
+
+Being narrow and focused in use case and providing objective success criteria, the regulator is the only stakeholder within the market that can even attempt to do that objectively. When we talk about growth, you need people building new technology and people adopting it, and you want that to happen in a way that is as fair as possible, and innovators who are trying to build real technology will encourage being regulated in that way.
+
+On the practical execution that I mentioned before, the committee should evaluate the success of programmes abroad that were based on the original UK concept as well. I feel that it would be very relevant to not discard the overall concept and see that a lot of the work that the UK did has actually manifested itself, just not necessarily here.
+
+Baroness Donaghy: Anyone else about a concierge service?
+
+Chris Bosworth: As I said before, having a more collaborative approach with a case officer-type individual would be beneficial before you go into that binary discussion of “Are you at the level we expect or not?”, which is what the full authorisation is. That is not what is provided in the regulatory sandbox at the moment. It is a lot more around data and theoretical and scenario planning, scenario testing and things like that. It is having a literal concierge to go through your application and look at it from a case officer perspective but in a collaborative way. That is the big cost. Most of us have paid professional consultants to do that exercise and most of those probably are ex-FCA case officers. If that could be done within the concept, that would be really valuable.
+
+Sebastian McDermott: That is exactly what happens. People leave the FCA, set up consulting firms to help firms work with the FCA—“They cannot tell you that, but here is what they will be thinking”—and you are paying 50 grand for that service.
+
+Lord Lilley: Do they have to be authorised?
+
+Sebastian McDermott: A sandbox for them.
+
+Baroness Donaghy: I must say, I loved Seb’s description of outcomes-based asking for forgiveness rather than permission. It is a kind of Catholic financial control, is it not? Thinking more of the Sally Army approach, could we be more actively supportive of innovation of financial institutions in this country? If it is not the FCA that will do that, because of its objectivity tests, is there an argument for saying that somebody else should do it, apart from expensive ex-employees of the FCA?
+
+Sebastian McDermott: There is a lot to be said for provisional licences, for making it faster, and trusting that the outcomes-based process will hold people to account. A lot of the fintech explosion that we are benefiting from or that we have benefited from stems from 15 or 20 years ago, where you could get licensed very quickly and get out there and start trading. I think that bringing that back would help a lot.
+
+Lord Smith of Kelvin: I am interested in competition. If you develop a brilliant idea as a relatively small business, you jump into the sandbox, you tell them everything, open your hearts and so on about the new product, and then you come out with a developed product, can competition get hold of that immediately? I am a big bank. Can I read things and say, “That is a hell of a good idea”, and go in and smash them?
+
+Will Mason: No, not as far as I know. I believe it would be fully confidential. You can choose to join showcases and demonstrate your wares coming out of the supercharged sandbox or the AI live-testing sandbox, but I believe that it is treated very confidentially.
+
+The Chair: The last question is from Lord Hollick.
+
+Lord Hollick: Oliver, on a slightly different topic, when this committee looked into crypto, one of the concerns that we had was the inability to identify who is on the other side of the trade. The same issue came up rather forcefully last week when the Binance heist was able to spirit away billions of dollars. Does your technology enable you to identify in real time who is on the other side of a trade of a digital exchange?
+
+Oliver Quie: I draw the distinction between authentication and identification here. We could be able to trace the devices and geolocations of the threat actors who have stolen or laundered funds. We contributed towards what was previously the largest ever crypto heist, of $1.5 billion 18 months ago, and now that looks very small in relation to the $6.5 billion stolen last week.
+
+Lord Lilley: You contributed towards it?
+
+Chris Bosworth: The investigation.
+
+Oliver Quie: Yes, an important distinction there. We were partnered with the investigators who were looking for the threat actors who stole the funds, and we helped contribute data that was tracing the specific devices and geolocations of the fraudsters who took the funds. Therefore, anonymity and authentication can come together.
+
+Lord Hollick: In real terms, could you have spotted that there was a heist going on that started in North Korea?
+
+Oliver Quie: Yes.
+
+Lord Hollick: Why was your technology—
+
+Oliver Quie: There is very little incentive for crypto companies to adopt effective authentication.
+
+Lord Hollick: I know that they prefer to remain anonymous. They see it as one of the advantages. However, the Exchange itself—as we were talking about last week—has been robbed. Surely it has an interest in using your service to find out in real time whether it is a bad actor on the other side.
+
+Oliver Quie: In a case like this, yes, there is an alignment of interest in that nobody wants a hack or stolen funds, but there are huge profits to be made off enabling growth at all costs, not wanting to know where your users really are. It is exactly the case where a regulator can intervene. If I were to look in a slightly different use case at how age verification was introduced for the adult industry, suddenly you see a skyrocketing use of VPN services in the UK so that it looks like you are accessing from a jurisdiction where age verification is not needed. The policy should have been that the adult industry has to adopt VPN detection. The lack of consultation with the tech industry here was remarkable. In the case that you have just brought up of Binance, if it had been forced to adopt technologies where you could know exactly where your users were geolocated and it was regulated, and whether that signal was functional, it might be a different story.
+
+The Chair: We have gone down a little rabbit hole that is not related to regulatory sandboxes, so I will call this evidence session to a close.
+
+Oliver Quie: I enjoyed the conversation, though.
+
+The Chair: I thank the four of you very much for coming in. It has been a very interesting session with rather different perspectives on sandboxes than we have heard in much of our other evidence. We are very grateful to you for coming along this morning.

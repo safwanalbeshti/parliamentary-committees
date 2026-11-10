@@ -1,0 +1,284 @@
+{
+  "schema_version": 1,
+  "source_id": 18255,
+  "source_sha256": "adba6789f7507757df1435040063114f4e9bf05e2f3d0f6eb00ae7428d3970ab",
+  "title": "Can the Treasury think long-term on climate and nature?",
+  "label": "4 November 2026 · Treasury, climate and nature",
+  "summary": "The committee questioned Jill Rutter and Professor Michael Jacobs about whether HM Treasury’s focus on fiscal control and short-term Budget processes blocks long-term investment in climate adaptation and nature recovery. Witnesses said the Treasury’s power and the Budget process can disrupt long-term plans, the Office for Budget Responsibility (OBR) and scoring rules bias short horizons, and better cross-departmental institutions, clearer targets, and new budgeting tools are needed to align investment with long-term climate and nature goals.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Mr Toby Perkins",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Jill Rutter",
+      "name": "Jill Rutter",
+      "role": "Senior Fellow, Institute for Government",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Jacobs",
+      "name": "Professor Michael Jacobs",
+      "role": "Emeritus Professor of Political Economy, University of Sheffield; Visiting Professor, LSE",
+      "kind": "witness"
+    },
+    {
+      "label": "Barry Gardiner",
+      "name": "Barry Gardiner",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Chris Hinchliff",
+      "name": "Chris Hinchliff",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Julia Buckley",
+      "name": "Julia Buckley",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "John Whitby",
+      "name": "John Whitby",
+      "role": "Member of the committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Budget",
+      "definition": "The Chancellor’s annual fiscal statement and package of tax and spending decisions, with quick enactment and limited external scrutiny."
+    },
+    {
+      "term": "Green Book",
+      "definition": "The Treasury guidance on how government appraises public projects, including value-for-money tests."
+    },
+    {
+      "term": "OBR",
+      "definition": "Office for Budget Responsibility, the public body that scores fiscal policies and produces fiscal forecasts."
+    },
+    {
+      "term": "Climate Change Act",
+      "definition": "The UK law (2008) that sets legally binding carbon budgets and targets."
+    },
+    {
+      "term": "Environment Act",
+      "definition": "The 2021 law that sets environmental targets, which are not legally enforced in the same way as carbon budgets."
+    },
+    {
+      "term": "Office for the Prime Minister and Cabinet",
+      "definition": "A new central unit intended to coordinate priorities and strategy across government."
+    },
+    {
+      "term": "adaptation sub-committee",
+      "definition": "The body that advises on climate adaptation under the Climate Change Act."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "How the Treasury’s role and the Budget shape climate policy",
+      "takeaway": "The Treasury’s power and the unique Budget process give it outsized influence, and that can undermine steady, long-term climate and nature investment.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Please introduce yourselves and say whether the Treasury’s focus on fiscal control stops long-term investment for climate and nature."
+        },
+        {
+          "speaker": "Jill Rutter",
+          "text": "I’m Jill Rutter, Senior Fellow at the Institute for Government; I used to work at the Treasury and DEFRA. The Treasury isn’t opposed to long-term spending in principle, but its control of fiscal totals and short-term habits can create barriers."
+        },
+        {
+          "speaker": "Jill Rutter",
+          "text": "The Treasury does many things beyond spending—tax, growth policy and financial services—and those other roles affect how it treats environmental spending."
+        },
+        {
+          "speaker": "Chair",
+          "text": "We heard policy keeps changing — EV policy, the green homes grant switched off quickly — which deters investors. Do you agree?"
+        },
+        {
+          "speaker": "Jill Rutter",
+          "text": "Yes. Rapid switches harm market confidence. The green homes grant showed you need time to build accredited suppliers; turning schemes off wastes firms’ investment in skills and capacity."
+        },
+        {
+          "speaker": "Professor Jacobs",
+          "text": "I’m Michael Jacobs. The Treasury includes officials, the Chancellor and processes. A determined Chancellor can steer things, but the Budget process is unique and problematic."
+        },
+        {
+          "speaker": "Professor Jacobs",
+          "text": "In a Budget the Chancellor can announce tax and subsidy changes with little scrutiny, which can disrupt markets and long-term planning."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Does the Treasury’s ‘challenge’ role help or hinder when policies require big upfront spending and long-term benefits?"
+        },
+        {
+          "speaker": "Professor Jacobs",
+          "text": "Two problems: the Treasury is mainly the assessor, not the policy proposer; and short spending cycles and rules push Departments to favour things that pay off quickly rather than long-term investments."
+        },
+        {
+          "speaker": "Jill Rutter",
+          "text": "There have been improvements: multi-year spending rounds and a longer capital period help, and the Government reduced the discount rate to favour long-term projects. But Budget process oddities remain."
+        }
+      ]
+    },
+    {
+      "title": "How fiscal scoring and the OBR bias short horizons",
+      "takeaway": "The way the OBR and Treasury score policies focuses benefits into short windows, discouraging investments that pay off after five years.",
+      "turns": [
+        {
+          "speaker": "Barry Gardiner",
+          "text": "The NEF says five-year spending rules work against preventative investment. How should Ministers tackle that?"
+        },
+        {
+          "speaker": "Professor Jacobs",
+          "text": "Technically, the OBR model ignores effects beyond five years and assumes small multipliers and crowding out, so long-payoff investments look unattractive in fiscal scoring."
+        },
+        {
+          "speaker": "Barry Gardiner",
+          "text": "So what should we recommend to Government about the OBR and scoring?"
+        },
+        {
+          "speaker": "Professor Jacobs",
+          "text": "Review the OBR’s model and its assumptions. We wrote to an expert suggesting that. This Committee suggesting a review would carry weight."
+        },
+        {
+          "speaker": "Jill Rutter",
+          "text": "Publication of longer-term fiscal assessments would help. Government could use a 10-year projection in spending reviews so prevention benefits show up earlier."
+        },
+        {
+          "speaker": "Professor Jacobs",
+          "text": "Also, OBR’s fiscal risks reports look long-term but currently give little space to environmental risks; that should change so fiscal risks include climate-related scenarios."
+        },
+        {
+          "speaker": "Barry Gardiner",
+          "text": "On targets: the Seventh Carbon Budget set costs for decarbonisation. Do we need similar clear delivery and financing plans for nature?"
+        },
+        {
+          "speaker": "Professor Jacobs",
+          "text": "Yes. A key legal difference matters: the Climate Change Act’s carbon targets are legally binding; Environment Act targets are not—so they lack the same enforcement power."
+        },
+        {
+          "speaker": "Barry Gardiner",
+          "text": "How do we handle benefits that fall to a different Department or to households, like retrofit saving health and social costs?"
+        },
+        {
+          "speaker": "Jill Rutter",
+          "text": "This is a cross-government problem. If a policy is a clear prime‑ministerial priority and a Department pushes it, you get progress. Otherwise Departments fear spending for other people’s gains."
+        }
+      ]
+    },
+    {
+      "title": "Institutional fixes: cross-department units and delivery tools",
+      "takeaway": "Better cross-government institutions—joint offices, strategy and delivery units, and ringfenced prevention budgets—would align incentives and improve delivery.",
+      "turns": [
+        {
+          "speaker": "Professor Jacobs",
+          "text": "Bring Treasury officials into policy formation. The Office of Climate Change (OCC) in 2007 was an effective cross‑departmental model that built buy-in and innovation."
+        },
+        {
+          "speaker": "Jill Rutter",
+          "text": "Joint co‑production is missing now. Departments often find Treasury initiatives have overtaken their work because the Budget can fast-track measures."
+        },
+        {
+          "speaker": "Professor Jacobs",
+          "text": "We used to have Public Service Agreement targets in spending reviews, with named accounting officers and cross-department responsibility. That structure helped hold people accountable."
+        },
+        {
+          "speaker": "Barry Gardiner",
+          "text": "Should the Treasury publish environmental impact assessments again like in 2021?"
+        },
+        {
+          "speaker": "Jill Rutter",
+          "text": "Publication matters only if it affects decisions. Ask the Treasury whether those assessments changed outcomes or were just compliance paperwork."
+        },
+        {
+          "speaker": "Chris Hinchliff",
+          "text": "Is the Treasury’s orthodox economic thinking equipped to handle escalating climate risks that already impose large costs?"
+        },
+        {
+          "speaker": "Professor Jacobs",
+          "text": "If political priority rises, yes. But economists often discount the future; Green Book and value-for-money rules must be used to make adaptation a priority now."
+        },
+        {
+          "speaker": "Jill Rutter",
+          "text": "We recommend wiring climate resilience into accounting officers’ duties so every Department must test spending for climate risk and future retrofit costs."
+        },
+        {
+          "speaker": "Chris Hinchliff",
+          "text": "Should the OBR and Bank of England change approach to reflect these risks?"
+        },
+        {
+          "speaker": "Professor Jacobs",
+          "text": "OBR is constrained by fiscal rules and its model; the Bank has an independent role and has done more under some governors than others. Both relationships with government should be reviewed."
+        },
+        {
+          "speaker": "Jill Rutter",
+          "text": "Don’t overburden the OBR. It’s small and technical; government and national risk bodies should lead horizon-scanning, with the OBR reflecting risks in fiscal analysis."
+        }
+      ]
+    },
+    {
+      "title": "Practical recommendations and accountability",
+      "takeaway": "Fix scoring horizons, create cross‑department strategy and delivery units, set binding targets where possible, ringfence prevention budgets, and make accounting officers responsible for climate resilience.",
+      "turns": [
+        {
+          "speaker": "John Whitby",
+          "text": "Does the Treasury have levers to deliver cross-department priorities, or should the centre do more?"
+        },
+        {
+          "speaker": "Jill Rutter",
+          "text": "The centre should. The new Office for the Prime Minister and Cabinet (OPMC) could drive priorities and co‑ordinate with the Treasury, rather than expecting Treasury to deliver everything."
+        },
+        {
+          "speaker": "Professor Jacobs",
+          "text": "Put strategy and delivery functions in OPMC: a strategy unit to develop ideas and a delivery unit to check progress. That combination worked in earlier governments."
+        },
+        {
+          "speaker": "Julia Buckley",
+          "text": "Does No.10 North help regional alignment for growth and climate policy?"
+        },
+        {
+          "speaker": "Professor Jacobs",
+          "text": "Yes—combined authorities and regional bodies are where land use, emergencies and many resilience issues are handled; No.10 North can co‑ordinate but they must be resourced."
+        },
+        {
+          "speaker": "Julia Buckley",
+          "text": "How to ensure monitoring feeds back into funding decisions?"
+        },
+        {
+          "speaker": "Jill Rutter",
+          "text": "Use independent bodies like the adaptation sub-committee and regular league tables to pressure Departments; assign political costs for poor preparedness."
+        },
+        {
+          "speaker": "Professor Jacobs",
+          "text": "Use a dedicated prevention budget—announced in the Budget—to fund resilience. Clarify its criteria and let Parliament and this Committee scrutinise it."
+        },
+        {
+          "speaker": "Jill Rutter",
+          "text": "An idea: charge Departments an insurance-style risk premium in their budgets that falls if they invest to reduce future risk. That would make contingent liabilities visible."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Final thoughts?"
+        },
+        {
+          "speaker": "Jill Rutter",
+          "text": "The Treasury’s powers matter, but government-wide political leadership, institutional design to join up Departments, and clearer long-term scoring are what will unlock investment."
+        },
+        {
+          "speaker": "Professor Jacobs",
+          "text": "Recommend: review OBR modelling horizons, reinstate cross‑department targets or binding delivery plans, set clear prevention budgets, and put strategy and delivery functions in OPMC."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you both—this will help shape our recommendations and the next session with Ministers."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18258,
+  "activity_id": 38999,
+  "document_id": 310379,
+  "meeting_date": "2026-11-03",
+  "meeting_date_display": "3 November 2026",
+  "publication_date": "2026-11-09T11:20:04",
+  "title": "Inquiry into the recommendations of the Infected Blood Inquiry (Stage 1)",
+  "committee": "Public Administration and Constitutional Affairs Committee",
+  "committees": [
+    {
+      "id": 327,
+      "name": "Public Administration and Constitutional Affairs Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9497,
+      "title": "Inquiry into the recommendations of the Infected Blood Inquiry (Stage 1)",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Dr Emma Ireton",
+      "role": "",
+      "organisation": ""
+    },
+    {
+      "name": "Dr Rebecca McKee",
+      "role": "",
+      "organisation": ""
+    },
+    {
+      "name": "Professor Richard Kirkham",
+      "role": "",
+      "organisation": ""
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Dr McKee",
+    "Dr Ireton",
+    "Professor Kirkham",
+    "Luke Taylor",
+    "John Lamont",
+    "Peter Lamb",
+    "Sam Carling"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18258/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18258",
+  "source_sha256": "14636be825633829c87fd179879eebcadb2d3967a12f41be6e163942a4e3728b",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

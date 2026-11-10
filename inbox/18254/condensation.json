@@ -1,0 +1,258 @@
+{
+  "schema_version": 1,
+  "source_id": 18254,
+  "source_sha256": "d523c8e6e1481bc7bcdf08e99bff57c07ffcf79711b24230382757ea8aaa4795",
+  "title": "Industry views on Treasury climate and nature economics: costs, certainty and competitiveness",
+  "label": "4 November 2026 · HM Treasury and the economics of climate and nature",
+  "summary": "Representatives from the motor, ceramics and energy industries told the Environmental Audit Committee that Treasury tax and fiscal policy is inconsistent and often undermines investment in decarbonisation. They praised some supply-side support, warned that high electricity and gas costs damage competitiveness, challenged the timing and design of electric-vehicle taxation, and urged recycling of carbon revenues and clearer long-term signals to enable industrial transition.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Mr Toby Perkins",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Matthew Croucher",
+      "name": "Matthew Croucher",
+      "role": "Chief Economist, The Society of Motor Manufacturers & Traders Limited",
+      "kind": "witness"
+    },
+    {
+      "label": "Andrew McDermott",
+      "name": "Andrew McDermott",
+      "role": "Deputy Chief Executive, Ceramics UK",
+      "kind": "witness"
+    },
+    {
+      "label": "Adam Berman",
+      "name": "Adam Berman",
+      "role": "Director of Policy and Advocacy, Energy UK",
+      "kind": "witness"
+    },
+    {
+      "label": "Barry Gardiner",
+      "name": "Barry Gardiner",
+      "role": "Member of Parliament and Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Jonathan Davies",
+      "name": "Jonathan Davies",
+      "role": "Member of Parliament and Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Sammy Wilson",
+      "name": "Sammy Wilson",
+      "role": "Member of Parliament and Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Manuela Perteghella",
+      "name": "Manuela Perteghella",
+      "role": "Member of Parliament and Committee Member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "eVED",
+      "definition": "New way to tax electric vehicles based on miles driven rather than a traditional vehicle excise duty."
+    },
+    {
+      "term": "ZEV mandate",
+      "definition": "Government rule requiring carmakers to sell a rising share of zero-emission vehicles."
+    },
+    {
+      "term": "BICS",
+      "definition": "British Industrial Competitiveness Scheme, a UK support scheme to lower industrial electricity costs for some firms."
+    },
+    {
+      "term": "Contracts for Difference",
+      "definition": "A Government scheme that guarantees a stable price to electricity generators to encourage investment in renewables."
+    },
+    {
+      "term": "Warm Homes Plan",
+      "definition": "A UK Government programme to help households with energy bills and home decarbonisation measures."
+    },
+    {
+      "term": "Boiler Upgrade Scheme",
+      "definition": "A subsidy programme to help homeowners replace fossil-fuel boilers with heat pumps and other low-carbon systems."
+    },
+    {
+      "term": "emissions trading scheme",
+      "definition": "A system where firms buy and sell permits to emit greenhouse gases, putting a price on emissions."
+    },
+    {
+      "term": "carbon border adjustment mechanism",
+      "definition": "A tax on imports based on their carbon content to protect domestic producers from cheaper, higher-carbon imports."
+    },
+    {
+      "term": "spark gap",
+      "definition": "The price difference between electricity and gas that affects the attractiveness of switching to electric heating."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Overall view: policies are mixed and timing matters",
+      "takeaway": "All three industries welcome some support but say tax and fiscal policy is inconsistent, sends mixed signals, and often raises costs that harm competitiveness.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We are looking at whether Treasury tax and fiscal policies give industries clear incentives to invest in lower-carbon practices. Gentlemen, your quick verdict?"
+        },
+        {
+          "speaker": "Matthew Croucher",
+          "text": "Short answer: no. There are helpful measures—DRIVE35 support for EVs, for example—but overall the UK is an expensive place to do business, particularly because energy costs are high."
+        },
+        {
+          "speaker": "Andrew McDermott",
+          "text": "From ceramics' view it is similar: the framework isn't coherent. Policies add cost to meet environmental aims but often weaken competitiveness and can push production abroad rather than cut global emissions."
+        },
+        {
+          "speaker": "Adam Berman",
+          "text": "Treasury understands the opportunity of the energy transition and has backed supply-side schemes, but the demand side—getting homes and businesses to electrify—isn't consistently supported in fiscal policy."
+        },
+        {
+          "speaker": "Chair",
+          "text": "So the common theme is inconsistent signals and high energy costs limiting investment in decarbonisation?"
+        },
+        {
+          "speaker": "Matthew Croucher",
+          "text": "Yes—especially timing. The eVED announcement in 2028 came when the industry and consumers need encouragement, not a new tax signal."
+        }
+      ]
+    },
+    {
+      "title": "Motors, EVs and taxation: mixed messages and practical barriers",
+      "takeaway": "Manufacturers back electrification but warn that planning, taxes, charging costs and residual values still make the transition costly and uncertain.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Matthew, the SMMT represents the whole motor industry. Do Treasury policies support your members to move to EVs while keeping the industry competitive?"
+        },
+        {
+          "speaker": "Matthew Croucher",
+          "text": "Not coherently. Support has been stop-start: zero-rated VED and the plug-in grant were removed and then partly reinstated. eVED due in 2028 looks like an EV tax at the wrong time."
+        },
+        {
+          "speaker": "Jonathan Davies",
+          "text": "Should the UK have pushed more for hydrogen like Japan, rather than following the global move to battery electrics?"
+        },
+        {
+          "speaker": "Matthew Croucher",
+          "text": "Industry is split but the global trend is towards electrification. Hydrogen has niche uses; infrastructure is almost non-existent here for hydrogen vehicles."
+        },
+        {
+          "speaker": "Jonathan Davies",
+          "text": "If the ZEV mandate slowed, what would that mean?"
+        },
+        {
+          "speaker": "Matthew Croucher",
+          "text": "Manufacturers would welcome a gentler trajectory. There are many new BEV models, but consumers still need incentives and public charging is often costly compared with home charging."
+        },
+        {
+          "speaker": "Matthew Croucher",
+          "text": "We also need clarity on eVED implementation—things like eVED Connect and how vehicle connectivity data will be used raise privacy and practical questions."
+        }
+      ]
+    },
+    {
+      "title": "Energy costs and electrification: demand-side support is missing",
+      "takeaway": "Energy UK says supply-side policy (like Contracts for Difference) has worked, but high electricity prices and weak demand-side incentives are blocking wider electrification.",
+      "turns": [
+        {
+          "speaker": "Adam Berman",
+          "text": "Supply-side support has delivered large-scale renewables, but the big gap is demand: households and businesses need clearer long-term incentives to electrify."
+        },
+        {
+          "speaker": "Manuela Perteghella",
+          "text": "Are the Warm Homes Plan and Boiler Upgrade Scheme enough, especially for off-grid homes?"
+        },
+        {
+          "speaker": "Adam Berman",
+          "text": "They help, and recent increases for off-grid homes are welcome, but uptake of heat pumps is still tiny and the 'spark gap'—electricity vs gas prices—must close to make electrification broadly attractive."
+        },
+        {
+          "speaker": "Manuela Perteghella",
+          "text": "What practical steps would encourage people to install heat pumps and retrofit homes?"
+        },
+        {
+          "speaker": "Adam Berman",
+          "text": "A long-term glide path: stable subsidies that phase down predictably, more installers and accreditation, financing options, and a clear plan to lower electricity operating costs over time."
+        },
+        {
+          "speaker": "Adam Berman",
+          "text": "Small, abrupt cuts to programmes and grants create uncertainty. We need a joined-up plan—planning, installers, finance and electricity-costs working together."
+        }
+      ]
+    },
+    {
+      "title": "Competitiveness, carbon pricing and revenue recycling",
+      "takeaway": "Taxes that raise costs without targeted recycling risk pushing production abroad; industries ask for level playing fields, clearer carbon-leakage protection and use of revenues to support decarbonisation.",
+      "turns": [
+        {
+          "speaker": "Sammy Wilson",
+          "text": "Do environmental taxes in your sectors actually change investment, as the Treasury claims?"
+        },
+        {
+          "speaker": "Andrew McDermott",
+          "text": "Not positively in ceramics. Energy can be up to 50% of production cost; taxes that raise costs make us uncompetitive and drive output offshore rather than fund genuine decarbonisation."
+        },
+        {
+          "speaker": "Andrew McDermott",
+          "text": "We see imports rising while domestic output falls. Territorial emissions fall, but consumption emissions—emissions tied to what we buy—can rise. Policy monitoring misses that."
+        },
+        {
+          "speaker": "Matthew Croucher",
+          "text": "The motor sector is improving environmental performance, but high UK electricity costs—many times EU averages—make electrifying industrial processes, like paint shops, very expensive."
+        },
+        {
+          "speaker": "Adam Berman",
+          "text": "The electricity sector shows a balanced approach can work: carbon pricing plus targeted subsidies like Contracts for Difference drove down emissions from generation steeply."
+        },
+        {
+          "speaker": "Sammy Wilson",
+          "text": "Should carbon-tax revenue be recycled to help industries decarbonise?"
+        },
+        {
+          "speaker": "Andrew McDermott",
+          "text": "Yes. The EU ETS has clearer revenue-recycling to support industry. In the UK we have hit-and-miss schemes; more systematic recycling is needed to preserve competitiveness."
+        },
+        {
+          "speaker": "Adam Berman",
+          "text": "I agree that a mix of 'stick' and 'carrot' is needed. A carrot-only approach would be far costlier. But revenue use should be targeted to lower operating costs—especially electricity—for industry to invest."
+        },
+        {
+          "speaker": "Manuela Perteghella",
+          "text": "Could fossil-fuel revenues—like those from Jackdaw—be ringfenced to fund the transition?"
+        },
+        {
+          "speaker": "Adam Berman",
+          "text": "They could and that makes sense for transition and regional just transition support, but those revenues are relatively small versus the total investment needed—private capital will fund most of it."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Final practical asks from you three?"
+        },
+        {
+          "speaker": "Matthew Croucher",
+          "text": "Give industry long-term certainty on tax and regulation, consult more on timing—especially for eVED—and tackle public-charging costs and residual-value risks for EVs."
+        },
+        {
+          "speaker": "Andrew McDermott",
+          "text": "Make electricity cheaper for industry, broaden access to schemes like BICS, and adopt metrics that include imports and consumption emissions so policy doesn't simply offshore emissions."
+        },
+        {
+          "speaker": "Adam Berman",
+          "text": "Set a clear long-term electrification plan, close the spark gap to favour electricity for heat, support installer capacity and finance, and use targeted revenue recycling to ease the transition."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you—your evidence on timing, costs, competitiveness and the need for clearer long-term signals will feed into our report."
+        }
+      ]
+    }
+  ]
+}

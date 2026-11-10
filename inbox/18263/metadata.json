@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18263,
+  "activity_id": 39265,
+  "document_id": 310485,
+  "meeting_date": "2026-11-03",
+  "meeting_date_display": "3 November 2026",
+  "publication_date": "2026-11-09T13:59:42",
+  "title": "The Online Safety Act: implementation and impact",
+  "committee": "Communications and Digital Committee",
+  "committees": [
+    {
+      "id": 170,
+      "name": "Communications and Digital Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9955,
+      "title": "The Online Safety Act: implementation and impact",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Founder",
+      "organisation": "5Rights Foundation"
+    },
+    {
+      "name": "Professor Lorna Woods OBE",
+      "role": "Emeritus Professor of Internet Law",
+      "organisation": "Law School, University of Essex"
+    },
+    {
+      "name": "Sir Jeremy Wright",
+      "role": "Member for Kenilworth and Southam",
+      "organisation": "UK Parliament"
+    },
+    {
+      "name": "Damian Collins OBE",
+      "role": "Former Member and Chair of the Joint Committee on the Draft Online Safety Bill",
+      "organisation": "UK Parliament"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Sir Jeremy Wright",
+    "Professor Lorna Woods",
+    "Damian Collins",
+    "Baroness Kidron",
+    "To be the voice of pragmatism",
+    "I largely agree with my colleagues",
+    "The third is a culture question about Ofcom",
+    "The Lord Bishop of Winchester",
+    "One other point on the DSA",
+    "Lord Holmes of Richmond",
+    "The question at the time was very much",
+    "Lord Tarassenko",
+    "Viscount Colville of Culross",
+    "Lord Kirkhope of Harrogate",
+    "Baroness Fleet",
+    "Lord Knight of Weymouth",
+    "There are two dependencies. The first is",
+    "Baroness Owen of Alderley Edge",
+    "Baroness Caine of Kentish Town"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18263/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18263",
+  "source_sha256": "ba95cf04c6688254a6d509f2b280c8451f18ec52b4db747e61284ba67bf8029d",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

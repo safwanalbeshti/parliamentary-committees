@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18259,
+  "activity_id": 38908,
+  "document_id": 310422,
+  "meeting_date": "2026-11-04",
+  "meeting_date_display": "4 November 2026",
+  "publication_date": "2026-11-09T12:35:39",
+  "title": "The dual role of the Lord Advocate",
+  "committee": "Scottish Affairs Committee",
+  "committees": [
+    {
+      "id": 136,
+      "name": "Scottish Affairs Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9993,
+      "title": "The dual role of the Lord Advocate",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Dr Tickell",
+    "Dr McCormick",
+    "John Cooper",
+    "Susan Murray",
+    "Douglas McAllister",
+    "Dave Doogan",
+    "Lillian Jones",
+    "Douglas Lumsden",
+    "Kenneth Stevenson",
+    "Kirsteen Sullivan",
+    "Malcolm McMillan",
+    "Michael Clancy",
+    "There are advantages in the dual role"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18259/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18259",
+  "source_sha256": "4275554de72ffe2d65bcd4fb6fdaaa2763101545dfb178501c1a7a3ecb5b7c11",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

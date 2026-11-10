@@ -1,0 +1,278 @@
+{
+  "schema_version": 1,
+  "source_id": 18265,
+  "source_sha256": "e8b13e44247874a58baa4a7ebf9a988be4dee862c9a9e4b7b52a4e1b183d9b5d",
+  "title": "How regulatory sandboxes help — and where they fall short",
+  "label": "Regulatory sandboxes · ScaleUp Institute",
+  "summary": "Irene Graham of the ScaleUp Institute explains how regulatory sandboxes let fintechs test products with realistic data, helping market entry and fundraising. Sandboxes are useful at different stages, but firms worry about cost, duplication with authorisation, and transparency. The FCA’s new scale-up unit and moves to continuous access improve things, but Graham recommends clearer links to authorisation, better sharing of lessons, and faster routes to international markets.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Baroness Noakes (The Chair)",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Irene Graham",
+      "name": "Irene Graham",
+      "role": "CEO, ScaleUp Institute",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Sharkey",
+      "name": "Lord Sharkey",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Hollick",
+      "name": "Lord Hollick",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Turnbull",
+      "name": "Lord Turnbull",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Bowles of Berkhamsted",
+      "name": "Baroness Bowles of Berkhamsted",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Lilley",
+      "name": "Lord Lilley",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Hill of Oareford",
+      "name": "Lord Hill of Oareford",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Griffiths of Fforestfach",
+      "name": "Lord Griffiths of Fforestfach",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Davies of Brixton",
+      "name": "Lord Davies of Brixton",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Donaghy",
+      "name": "Baroness Donaghy",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Smith of Kelvin",
+      "name": "Lord Smith of Kelvin",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "sandbox",
+      "definition": "A controlled environment where firms can test financial products using realistic or live data under regulator oversight."
+    },
+    {
+      "term": "FCA",
+      "definition": "Financial Conduct Authority, the main UK regulator for financial services and consumer protection."
+    },
+    {
+      "term": "scale-up unit",
+      "definition": "A dedicated team in the FCA that manages relationships with fast-growing financial firms and helps speed regulatory processes."
+    },
+    {
+      "term": "open banking",
+      "definition": "Rules that let banks share customer data with other firms, with customer consent, to encourage competition and new services."
+    },
+    {
+      "term": "Innovate UK",
+      "definition": "A UK government agency that funds and supports innovative businesses across many sectors."
+    },
+    {
+      "term": "unicorn",
+      "definition": "A private company valued at $1 billion or more."
+    },
+    {
+      "term": "NHS",
+      "definition": "National Health Service — the UK's publicly funded health system."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What the ScaleUp Institute does and why sandboxes matter",
+      "takeaway": "Sandboxes let companies test regulated products with realistic data, helping them refine offers and access markets.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Please introduce yourself and explain how the ScaleUp Institute engages with regulatory sandboxes."
+        },
+        {
+          "speaker": "Irene Graham",
+          "text": "I'm CEO of the ScaleUp Institute. We work across the UK to help companies scale—addressing access to markets, talent, finance and infrastructure—and we advise governments, local authorities and firms."
+        },
+        {
+          "speaker": "Irene Graham",
+          "text": "Sandboxes matter because they let fintechs and banks test products using realistic or live data within a regulatory setting so they can refine services and understand regulatory requirements before full market launch."
+        },
+        {
+          "speaker": "Lord Sharkey",
+          "text": "When are sandboxes most useful, and when might other regulatory engagement be better?"
+        },
+        {
+          "speaker": "Irene Graham",
+          "text": "They're useful at both start-up and later stages. For new services or partnerships with large banks you want to test in a regulated, data-rich setting. But innovation pathways and other routes can work alongside sandboxes; it isn't either/or."
+        },
+        {
+          "speaker": "Lord Sharkey",
+          "text": "Has anyone measured whether sandboxes actually deliver outcomes? The FCA's last big review was in 2017."
+        },
+        {
+          "speaker": "Irene Graham",
+          "text": "We track outcomes and can share evidence. Many firms that tested in sandboxes later raised funds or formed partnerships. Not every test succeeds, but successful validation in a sandbox often helped firms attract investment."
+        }
+      ]
+    },
+    {
+      "title": "Who uses sandboxes and what they gain",
+      "takeaway": "Around 200 firms have entered the FCA sandbox; firms use it to validate products, win partners, and signal credibility to investors.",
+      "turns": [
+        {
+          "speaker": "Lord Hollick",
+          "text": "Start-ups we heard from said the sandbox duplicates authorisation work and costs them early on. Do you see that?"
+        },
+        {
+          "speaker": "Irene Graham",
+          "text": "Some firms experience duplication and cost, which is valid feedback, but many benefit: testing yields validation that supports fundraising. The experience varies by firm and product."
+        },
+        {
+          "speaker": "Lord Turnbull",
+          "text": "How many fintechs are there and how many have been through the sandbox?"
+        },
+        {
+          "speaker": "Irene Graham",
+          "text": "About 2,500 fintech firms nationwide. Roughly 200 businesses have entered the FCA sandbox so far; we can provide updated figures and case studies."
+        },
+        {
+          "speaker": "Lord Turnbull",
+          "text": "Are entrants mainly small start-ups or established companies testing new lines?"
+        },
+        {
+          "speaker": "Irene Graham",
+          "text": "Both. The sandbox serves early-stage firms and established players. It's roughly balanced, maybe skewed toward smaller firms, and firms can use it more than once."
+        },
+        {
+          "speaker": "Lord Lilley",
+          "text": "Could the apparent benefit you describe be because your members are already later-stage and better placed to use the sandbox?"
+        },
+        {
+          "speaker": "Irene Graham",
+          "text": "Some of our members are later-stage, but benefits are seen across stages. Usage and success depend on firm specifics, so the picture is nuanced."
+        },
+        {
+          "speaker": "Lord Turnbull",
+          "text": "Can you name sandbox success stories?"
+        },
+        {
+          "speaker": "Irene Graham",
+          "text": "Examples include Zilch and Salary Finance. We can supply more names and evidence of funding or partnerships that followed sandbox participation."
+        }
+      ]
+    },
+    {
+      "title": "Costs, alternatives and improvements",
+      "takeaway": "Firms worry about cost and duplication; improvements include the FCA's scale-up unit, continuous access, clearer links to authorisation, and faster market routes.",
+      "turns": [
+        {
+          "speaker": "Baroness Bowles of Berkhamsted",
+          "text": "Are accelerators before or after sandboxes? At what stage should a firm go into a sandbox?"
+        },
+        {
+          "speaker": "Irene Graham",
+          "text": "There’s no fixed order. Accelerators, bank programmes and the sandbox are part of a richer set of options. Firms choose the route that fits their product and readiness."
+        },
+        {
+          "speaker": "Baroness Donaghy",
+          "text": "You praised the FCA's new scale-up unit and say sandboxes are now open-access rather than cohort-only. How does that help firms?"
+        },
+        {
+          "speaker": "Irene Graham",
+          "text": "Open access removes a timing barrier and the scale-up unit provides account management—direct regulatory contact for fast-growing firms. That should reduce friction and help navigation."
+        },
+        {
+          "speaker": "Baroness Donaghy",
+          "text": "What remains slow or costly and how fast should it be?"
+        },
+        {
+          "speaker": "Irene Graham",
+          "text": "The slow parts are the links between testing, formal authorisation and getting into procurement or markets. Faster pathways are needed where a product is proven—especially to reach buyers like large banks or public bodies."
+        },
+        {
+          "speaker": "Lord Hill of Oareford",
+          "text": "Can sandboxes be improved further?"
+        },
+        {
+          "speaker": "Irene Graham",
+          "text": "Yes. Keep them, broaden digital and AI testing, keep improving access, and work internationally to speed market access. The scale-up unit is a helpful recent development."
+        },
+        {
+          "speaker": "Lord Griffiths of Fforestfach",
+          "text": "The US scales faster without sandboxes. Why is that?"
+        },
+        {
+          "speaker": "Irene Graham",
+          "text": "The US advantage is depth of growth capital and large-scale institutional funding. Singapore and others also learned from the UK's sandbox model; market size and capital matter a lot."
+        },
+        {
+          "speaker": "Irene Graham",
+          "text": "Also, corporate venturing and acquisitions are more common in the US, which speeds scaling via partnerships and buy‑outs—something the UK could encourage further."
+        }
+      ]
+    },
+    {
+      "title": "Selection, transparency and next steps",
+      "takeaway": "Selection is competitive but open; transparency needs balance between learning and protecting commercial data; the Institute will provide follow-up evidence.",
+      "turns": [
+        {
+          "speaker": "Lord Davies of Brixton",
+          "text": "Does the FCA pick winners by choosing cohort members for challenge panels, which could exclude good ideas?"
+        },
+        {
+          "speaker": "Irene Graham",
+          "text": "The challenge route is like any open competition: applicants submit and a selection is made on merit. Firms can reapply or use other routes; having multiple access channels helps avoid unfair exclusion."
+        },
+        {
+          "speaker": "Lord Smith of Kelvin",
+          "text": "Are sandboxes transparent enough so the wider market benefits from lessons learned?"
+        },
+        {
+          "speaker": "Irene Graham",
+          "text": "There's room to improve. Regulators should publish aggregated lessons while protecting commercially sensitive or personal data. Balancing public insight and competitive confidentiality is key."
+        },
+        {
+          "speaker": "Chair",
+          "text": "You offered to send more evidence on outcomes and successful firms. Anything else you’d add?"
+        },
+        {
+          "speaker": "Irene Graham",
+          "text": "We'll send detailed case studies, funding and partnership outcomes. Also note: some unicorns now use the sandbox even if they didn't scale solely because of it; evidence will show the range of impacts."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you—this has been helpful. We'll expect your follow-up evidence on numbers, success stories and how sandboxes link to authorisation and market access."
+        }
+      ]
+    }
+  ]
+}

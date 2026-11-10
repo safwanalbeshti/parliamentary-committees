@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18260,
+  "activity_id": 39047,
+  "document_id": 310440,
+  "meeting_date": "2026-11-03",
+  "meeting_date_display": "3 November 2026",
+  "publication_date": "2026-11-09T13:27:20",
+  "title": "Neuroscience and digital childhoods",
+  "committee": "Science and Technology Committee (Commons)",
+  "committees": [
+    {
+      "id": 135,
+      "name": "Science and Technology Committee (Commons)",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9718,
+      "title": "Neuroscience and digital childhoods",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Minister for Creative Industries, Media and Online Safety",
+      "organisation": "Department for Digital, Culture, Media and Sport"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Minister for Public Health and Patient Safety",
+      "organisation": "Department of Health and Social Care"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Minister for Early Education",
+      "organisation": "Department for Education"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director of Mental Health and Disabilities and Women's Health",
+      "organisation": "Department of Health and Social Care"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chief Scientific Adviser",
+      "organisation": "Department for Education"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Deputy Director for User Safety Policy",
+      "organisation": "Department for Digital, Culture, Media and Sport"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Emily Darlington",
+    "Tabitha Jay",
+    "Dame Diana Johnson",
+    "Daniel Okubo",
+    "Ian Murray",
+    "Paul Waugh",
+    "Michael Thomas",
+    "Kit Malthouse",
+    "Freddie van Mierlo",
+    "Martin Wrigley",
+    "The policy question here was",
+    "Tom Collins",
+    "Samantha Niblett"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18260/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18260",
+  "source_sha256": "6ff1b09bafb20c449cf38c561cc45cd3dd1a410ff6a8a5f2eb5413177d61984f",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

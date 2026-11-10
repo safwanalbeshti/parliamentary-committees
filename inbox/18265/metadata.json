@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18265,
+  "activity_id": 39370,
+  "document_id": 310527,
+  "meeting_date": "",
+  "meeting_date_display": "",
+  "publication_date": "2026-11-09T15:44:15",
+  "title": "Regulatory sandboxes in financial services",
+  "committee": "Financial Services Regulation Committee",
+  "committees": [
+    {
+      "id": 697,
+      "name": "Financial Services Regulation Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10006,
+      "title": "Regulatory sandboxes in financial services",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "CEO",
+      "organisation": "ScaleUp Institute"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Irene Graham",
+    "Lord Sharkey",
+    "Lord Hollick",
+    "Lord Turnbull",
+    "Baroness Bowles of Berkhamsted",
+    "Lord Eatwell",
+    "Lord Lilley",
+    "Lord Hill of Oareford",
+    "Lord Griffiths of Fforestfach",
+    "Lord Davies of Brixton",
+    "Baroness Donaghy",
+    "Lord Smith of Kelvin"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18265/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18265",
+  "source_sha256": "e8b13e44247874a58baa4a7ebf9a988be4dee862c9a9e4b7b52a4e1b183d9b5d",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

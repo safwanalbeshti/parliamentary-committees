@@ -1,0 +1,326 @@
+{
+  "schema_version": 1,
+  "source_id": 18264,
+  "source_sha256": "62156c021b164cae30789c52a1e41c0a7915c0fcefa90d838a23e5b2765e2fe0",
+  "title": "Do regulatory sandboxes help UK fintechs, or just make good headlines?",
+  "label": "Regulatory sandboxes · Fintech",
+  "summary": "Witnesses from start-up and scale-up fintechs told the committee that UK sandboxes have some uses but are not the main driver of fintech success. They described sandboxes as costly, confusing, and often better suited to large incumbents than small innovators. The witnesses recommended faster authorisation, clearer paths out of sandboxes, provisional licences for limited real‑world trading, technical benchmarking, and learning from better-executed programmes overseas.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Baroness Noakes",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Sebastian McDermott",
+      "name": "Sebastian McDermott",
+      "role": "Co-chair, Fintech Founders",
+      "kind": "witness"
+    },
+    {
+      "label": "Chris Bosworth",
+      "name": "Chris Bosworth",
+      "role": "Founder, Finclusion",
+      "kind": "witness"
+    },
+    {
+      "label": "Will Mason",
+      "name": "Will Mason",
+      "role": "Founder and CEO, Infact",
+      "kind": "witness"
+    },
+    {
+      "label": "Oliver Quie",
+      "name": "Oliver Quie",
+      "role": "Co‑Founder and CEO, Innerworks",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Sharkey",
+      "name": "Lord Sharkey",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Hollick",
+      "name": "Lord Hollick",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Bowles of Berkhamsted",
+      "name": "Baroness Bowles of Berkhamsted",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Turnbull",
+      "name": "Lord Turnbull",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Eatwell",
+      "name": "Lord Eatwell",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Hill of Oareford",
+      "name": "Lord Hill of Oareford",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Griffiths of Fforestfach",
+      "name": "Lord Griffiths of Fforestfach",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Lilley",
+      "name": "Lord Lilley",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Davies of Brixton",
+      "name": "Lord Davies of Brixton",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Donaghy",
+      "name": "Baroness Donaghy",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Smith of Kelvin",
+      "name": "Lord Smith of Kelvin",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "regulatory sandbox",
+      "definition": "A controlled testing environment where firms can try new financial products with some regulatory oversight and possibly temporary waivers."
+    },
+    {
+      "term": "FCA",
+      "definition": "Financial Conduct Authority, the UK regulator for financial services."
+    },
+    {
+      "term": "OFT",
+      "definition": "Office of Fair Trading, the earlier regulator that supervised some lenders before the FCA existed."
+    },
+    {
+      "term": "authorisation",
+      "definition": "Formal permission from the FCA allowing a firm to operate in regulated financial activities."
+    },
+    {
+      "term": "case officer",
+      "definition": "The FCA staff member assigned to handle a firm's authorisation or regulatory case."
+    },
+    {
+      "term": "provisional licence",
+      "definition": "A suggested limited, supervised permission to trade while full authorisation is being processed."
+    },
+    {
+      "term": "supercharged sandbox",
+      "definition": "An FCA sandbox variant that gives participants extra tools such as computing power and synthetic data for testing."
+    },
+    {
+      "term": "stablecoin",
+      "definition": "A type of digital token intended to keep a stable value, often backed by assets or other mechanisms."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Opening: what sandboxes actually do",
+      "takeaway": "Witnesses said sandboxes help in narrow cases but are not a main reason for UK fintech success; authorisation speed and access to capital and talent matter more.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We are looking at regulatory sandboxes. How important have they been to UK fintech success, and should entry be easier or should other approaches be used?"
+        },
+        {
+          "speaker": "Sebastian McDermott",
+          "text": "Sandboxes have helped in places, but things like capital and talent are bigger factors. They're not in my top ten drivers of success."
+        },
+        {
+          "speaker": "Chris Bosworth",
+          "text": "From a consumer-lending view, many successful firms grew before sandboxes existed under the OFT, which had a lower bar than the FCA. Sandboxes often suit larger firms—not bootstrapped start-ups."
+        },
+        {
+          "speaker": "Will Mason",
+          "text": "We were authorised without using the sandbox. For our business—building a credit bureau—you need full, open-market data-sharing, which a sandbox can't deliver."
+        },
+        {
+          "speaker": "Oliver Quie",
+          "text": "Our device-authentication firm didn't use a UK sandbox; we found more useful technical evaluation abroad. Sandboxes should enable technical benchmarking, not just paperwork."
+        }
+      ]
+    },
+    {
+      "title": "Practical barriers: cost, clarity and pathways",
+      "takeaway": "Start-ups find sandboxes expensive, time-consuming and unclear about how to progress to full authorisation.",
+      "turns": [
+        {
+          "speaker": "Lord Sharkey",
+          "text": "How should sandbox performance be measured?"
+        },
+        {
+          "speaker": "Will Mason",
+          "text": "Measure whether sandboxes produce clear routes to authorisation. For us, the sandbox was not compatible with the multi-party data sharing a credit bureau needs."
+        },
+        {
+          "speaker": "Oliver Quie",
+          "text": "There should be objective technical metrics in sandboxes so vendors are judged by performance, not reputation. That would level the playing field."
+        },
+        {
+          "speaker": "Chris Bosworth",
+          "text": "Metrics should include how many participants progress to authorisation, and also how many the sandbox correctly filters out. But resources are limited, so ask about return on investment."
+        },
+        {
+          "speaker": "Lord Hollick",
+          "text": "Why did your firm not use the sandbox for car-finance lending?"
+        },
+        {
+          "speaker": "Chris Bosworth",
+          "text": "The sandbox application was as arduous and costly as full authorisation. As a small start-up we chose direct authorisation; for us it was faster and more sensible."
+        },
+        {
+          "speaker": "Lord Turnbull",
+          "text": "What actually happens once a firm is in a sandbox—how do they exit?"
+        },
+        {
+          "speaker": "Will Mason",
+          "text": "That's the problem: the exit path is unclear. You may have to reapply for full authorisation with no guarantee. Firms need a defined checklist like development sandboxes have."
+        },
+        {
+          "speaker": "Lord Turnbull",
+          "text": "Has there been a proper review of sandboxes?"
+        },
+        {
+          "speaker": "Will Mason",
+          "text": "Not recently—last major review was years ago. The FCA should run retrospectives: cohort outcomes, who benefited, and how to improve."
+        },
+        {
+          "speaker": "Sebastian McDermott",
+          "text": "If the goal is authorisation, that's already a separate FCA job. Sandboxes are better used where activity sits outside the current regulatory perimeter."
+        }
+      ]
+    },
+    {
+      "title": "How sandboxes could be reformed",
+      "takeaway": "Witnesses proposed speeding up authorisation, provisional licences for limited real trading, technical benchmarks, clearer oversight and learning from overseas programmes.",
+      "turns": [
+        {
+          "speaker": "Baroness Bowles of Berkhamsted",
+          "text": "Who benefits from sandboxes—the regulator, firms or consumers?"
+        },
+        {
+          "speaker": "Sebastian McDermott",
+          "text": "There are good use cases: testing things outside the perimeter. But if sandboxes become a side-channel for authorisation, they confuse resource allocation."
+        },
+        {
+          "speaker": "Chris Bosworth",
+          "text": "I favour provisional licensing: let start-ups trade at small scale under supervision to prove market fit and build revenue, rather than opaque sandbox tests with synthetic data."
+        },
+        {
+          "speaker": "Lord Eatwell",
+          "text": "What practical steps would reduce regulatory risk for innovators?"
+        },
+        {
+          "speaker": "Sebastian McDermott",
+          "text": "Speed the core authorisation process—cut months off waiting times. Faster decisions reduce cash burn and investor uncertainty."
+        },
+        {
+          "speaker": "Will Mason",
+          "text": "Trust applicants more initially and take enforcement away if they later break rules. The process felt like 'guilty until proven innocent'; reverse that where safe."
+        },
+        {
+          "speaker": "Oliver Quie",
+          "text": "Introduce technical benchmarking and clear objective success criteria in sandboxes. Regulators are best placed to set those criteria objectively."
+        },
+        {
+          "speaker": "Lord Lilley",
+          "text": "How would provisional licensing handle consumer compensation if things go wrong?"
+        },
+        {
+          "speaker": "Chris Bosworth",
+          "text": "Aggregate risk at the regulator level or provide a regulator-backed insurance layer for sandbox trading; it's easier than each start-up buying costly policies."
+        },
+        {
+          "speaker": "Baroness Donaghy",
+          "text": "Should the FCA provide a concierge service to help applicants?"
+        },
+        {
+          "speaker": "Chris Bosworth",
+          "text": "Yes—early collaborative dialogue with the eventual case officer would reduce wasted effort and repeated applications. Right now many firms hire ex-FCA consultants to bridge that gap."
+        },
+        {
+          "speaker": "Will Mason",
+          "text": "Also keep and expand sandbox features that work—like the supercharged sandbox that provides compute and synthetic data for expensive tests—while fixing pathways to production."
+        }
+      ]
+    },
+    {
+      "title": "Culture, competition and tech examples",
+      "takeaway": "Regulatory culture feels cautious; better execution, openness and tech benchmarking would help. International programmes have been more active and the witnesses urged learning from them.",
+      "turns": [
+        {
+          "speaker": "Lord Griffiths of Fforestfach",
+          "text": "Is the regulator’s attitude 'guilty until proven innocent' and how to change it?"
+        },
+        {
+          "speaker": "Chris Bosworth",
+          "text": "There is suspicion. Large teams with bank experience often get trust; younger founders may struggle. More collaborative early phases would help."
+        },
+        {
+          "speaker": "Lord Davies of Brixton",
+          "text": "Do sandboxes mainly benefit big, known firms?"
+        },
+        {
+          "speaker": "Sebastian McDermott",
+          "text": "Many UK sandbox participants are established names. Frontier innovators have tended to go to programmes abroad where regulators are more active in tech assessment."
+        },
+        {
+          "speaker": "Oliver Quie",
+          "text": "Examples from Singapore and the UAE show better execution: regulators placing sandboxes close to innovation hubs, running credible assessments, and making useful introductions."
+        },
+        {
+          "speaker": "Lord Hill of Oareford",
+          "text": "Why did the FCA try to push Infact into the sandbox?"
+        },
+        {
+          "speaker": "Will Mason",
+          "text": "They didn't fully grasp our model; we needed industry-wide data access that a sandbox couldn't offer. The FCA told us we might be 'minded to refuse' unless we went into sandbox—yet later apologised and authorised us."
+        },
+        {
+          "speaker": "Lord Smith of Kelvin",
+          "text": "Could sandbox confidentiality be abused by incumbents who copy ideas?"
+        },
+        {
+          "speaker": "Will Mason",
+          "text": "Confidentiality is maintained. But showcasing and PR around sandbox projects often favour well-known firms with resources to engage."
+        },
+        {
+          "speaker": "Lord Hollick",
+          "text": "Oliver, your firm works on identifying actors in online trades. Could that have helped recent crypto exchange thefts?"
+        },
+        {
+          "speaker": "Oliver Quie",
+          "text": "Yes—we've worked with investigators on large crypto heists, tracing devices and geolocation. But crypto platforms often lack incentives to adopt strong authentication; regulation could change that."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. We will close; your perspectives are a helpful counterpoint to previous evidence that celebrated sandboxes as a quick route to innovation."
+        }
+      ]
+    }
+  ]
+}

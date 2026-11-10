@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18257,
+  "activity_id": 39218,
+  "document_id": 310334,
+  "meeting_date": "2026-11-04",
+  "meeting_date_display": "4 November 2026",
+  "publication_date": "2026-11-09T09:23:18",
+  "title": "Managing the future of UK oil and gas",
+  "committee": "Energy Security and Net Zero Committee",
+  "committees": [
+    {
+      "id": 664,
+      "name": "Energy Security and Net Zero Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9414,
+      "title": "Managing the future of UK oil and gas",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Mike Foster",
+      "role": "Chief Executive",
+      "organisation": "Energy and Utilities Alliance"
+    },
+    {
+      "name": "Rhea Wolfson",
+      "role": "Secretary",
+      "organisation": "GMB Scotland"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Jenny Phillips",
+    "Dr Needle",
+    "Charles McAllister",
+    "Wera Hobhouse",
+    "Graeme Downie",
+    "Catherine Fookes",
+    "NESO’s plan is that you would need roughly a third, a third, a third",
+    "Torcuil Crichton",
+    "This is what is happening",
+    "Rhea Wolfson",
+    "Mike Foster",
+    "That then leads you to the obvious question"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18257/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18257",
+  "source_sha256": "4ce965ee72832d73feb62242f496e49b463b7e4fa576cdf27565407d5da43e58",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

@@ -1,0 +1,310 @@
+{
+  "schema_version": 1,
+  "source_id": 18259,
+  "source_sha256": "4275554de72ffe2d65bcd4fb6fdaaa2763101545dfb178501c1a7a3ecb5b7c11",
+  "title": "Should Scotland split the Lord Advocate’s dual role?",
+  "label": "4 November 2026 · The dual role of the Lord Advocate",
+  "summary": "The Committee heard legal experts and law‑reform figures about whether Scotland’s Lord Advocate should keep both jobs—chief public prosecutor and senior government legal adviser—or be split into two roles. Witnesses agreed the current arrangement raises perception problems and practical tensions but disagreed about the best response. Some argued for splitting to protect independence and clarify responsibilities; others said splitting carries complex trade‑offs and recommended careful public consultation and further review before any change.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Patricia Ferguson",
+      "role": "Chair of the Scottish Affairs Committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Dr Tickell",
+      "name": "Dr Andrew Tickell",
+      "role": "Senior Lecturer in Law, Glasgow Caledonian University",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr McCormick",
+      "name": "Dr Conor McCormick",
+      "role": "Reader in Law, Queen’s University Belfast",
+      "kind": "witness"
+    },
+    {
+      "label": "Michael Clancy",
+      "name": "Michael Clancy",
+      "role": "Director of Law Reform, Law Society of Scotland",
+      "kind": "witness"
+    },
+    {
+      "label": "Malcolm McMillan",
+      "name": "Malcolm McMillan",
+      "role": "Former Chief Executive, Scottish Law Commission",
+      "kind": "witness"
+    },
+    {
+      "label": "John Cooper",
+      "name": "John Cooper",
+      "role": "Member of the Scottish Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Susan Murray",
+      "name": "Susan Murray",
+      "role": "Member of the Scottish Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Douglas McAllister",
+      "name": "Douglas McAllister",
+      "role": "Member of the Scottish Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Dave Doogan",
+      "name": "Dave Doogan",
+      "role": "Member of the Scottish Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lillian Jones",
+      "name": "Lillian Jones",
+      "role": "Member of the Scottish Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Douglas Lumsden",
+      "name": "Douglas Lumsden",
+      "role": "Member of the Scottish Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Kenneth Stevenson",
+      "name": "Kenneth Stevenson",
+      "role": "Member of the Scottish Affairs Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Kirsteen Sullivan",
+      "name": "Kirsteen Sullivan",
+      "role": "Member of the Scottish Affairs Committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Lord Advocate",
+      "definition": "Scotland’s senior Law Officer who currently acts both as head of public prosecutions and as the Scottish Government’s chief legal adviser."
+    },
+    {
+      "term": "Solicitor General",
+      "definition": "The Lord Advocate’s deputy and the second senior Law Officer in Scotland."
+    },
+    {
+      "term": "Scotland Act 1998",
+      "definition": "The law that created the Scottish Parliament and defines which legal powers are devolved to Scotland."
+    },
+    {
+      "term": "Crown Office and Procurator Fiscal Service",
+      "definition": "Scotland’s prosecution service, responsible for deciding and running criminal prosecutions."
+    },
+    {
+      "term": "recusal",
+      "definition": "When an officeholder removes themselves from a specific case because of a conflict or appearance of bias."
+    },
+    {
+      "term": "indictment",
+      "definition": "The formal charging document that starts a criminal trial in a higher court."
+    },
+    {
+      "term": "judicial review",
+      "definition": "A court process to check whether a public body has acted lawfully."
+    },
+    {
+      "term": "contempt of court",
+      "definition": "Actions or statements that risk prejudicing an active court case or obstructing justice."
+    },
+    {
+      "term": "Advocate General for Scotland",
+      "definition": "The UK Government’s legal adviser on Scots law, a separate role created at devolution."
+    },
+    {
+      "term": "Director of Public Prosecutions (DPP)",
+      "definition": "In England and Wales, the independent head of prosecutions, separate from the Attorney General."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Scope and opening positions",
+      "takeaway": "Witnesses set out that the Committee will focus narrowly on whether the Lord Advocate’s two jobs should be split and note devolution didn’t fully settle that question.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We will focus narrowly on whether to split the Lord Advocate’s dual role—chief prosecutor and government legal adviser—and won’t rehearse individual cases."
+        },
+        {
+          "speaker": "Dr Tickell",
+          "text": "I’m a senior lecturer in law. The Scotland Act didn’t spell out every Law Officer duty; at devolution they largely carried the old office into the new system without reworking all its parts."
+        },
+        {
+          "speaker": "Dr McCormick",
+          "text": "I’m a reader in law. At devolution the big discussion was which law functions moved to Scotland, not the detailed split between advising government and prosecuting."
+        },
+        {
+          "speaker": "John Cooper",
+          "text": "Is there any case for keeping the dual role—advantages we shouldn’t lose?"
+        },
+        {
+          "speaker": "Dr Tickell",
+          "text": "People argue the Lord Advocate’s place in Cabinet lets them speak for resourcing and legal constraints directly to ministers; that can help shape policy because legal choices have budget consequences."
+        },
+        {
+          "speaker": "Dr McCormick",
+          "text": "Wearing both hats can create a positive dynamic: being an independent prosecutor can reinforce credibility when you advise government, and vice versa. It’s not all downside."
+        }
+      ]
+    },
+    {
+      "title": "Advantages and the practical case for staying united",
+      "takeaway": "Keeping one office can help government access legal advice and align prosecution priorities with broader policy, but views differ on how important that is.",
+      "turns": [
+        {
+          "speaker": "John Cooper",
+          "text": "Should the Lord Advocate sit in Cabinet to help shape policy?"
+        },
+        {
+          "speaker": "Dr Tickell",
+          "text": "Any Law Officer being in the room is useful—devolution is legally complex and ministers need immediate legal input about what they can or can’t do."
+        },
+        {
+          "speaker": "Dr McCormick",
+          "text": "There’s value in the combined role because it can make legal advice seem more credible: a prosecutor who is independent gives weight to later legal arguments to ministers."
+        },
+        {
+          "speaker": "Douglas McAllister",
+          "text": "Could the Lord Advocate’s dual perspective help decisions like safer drug consumption rooms—both law and enforcement?"
+        },
+        {
+          "speaker": "Dr Tickell",
+          "text": "Yes. The Lord Advocate often makes big policy-style prosecutorial choices—deciding public‑interest prosecutions is political in effect, and being in government can help deliver those policies."
+        },
+        {
+          "speaker": "Dave Doogan",
+          "text": "But we shouldn’t confuse political party activity with legal advice—should Law Officers be apolitical advisers in Cabinet?"
+        },
+        {
+          "speaker": "Dr Tickell",
+          "text": "Historically Law Officers sometimes had clear political roles; whether you want a more political adviser or a neutral lawyer is a matter of what government wants."
+        }
+      ]
+    },
+    {
+      "title": "Risks: perception of bias, workload and safeguards",
+      "takeaway": "The main worry is public perception of bias when one person advises the Government and prosecutes; statutory safeguards exist but transparency and recusal practice are contested.",
+      "turns": [
+        {
+          "speaker": "Susan Murray",
+          "text": "What are the main risks of keeping the dual role?"
+        },
+        {
+          "speaker": "Dr Tickell",
+          "text": "Perception of bias is central: a reasonable observer might see a conflict when the same person sits in Cabinet and later decides on prosecutions; that undermines trust even if no impropriety occurred."
+        },
+        {
+          "speaker": "Dr McCormick",
+          "text": "Workload is cited too, but I’m less convinced: the Lord Advocate is a top figure who can delegate. The deeper issue is the tension between independence and serving a political executive."
+        },
+        {
+          "speaker": "Lillian Jones",
+          "text": "What safeguards already protect prosecutorial independence?"
+        },
+        {
+          "speaker": "Dr Tickell",
+          "text": "The Scotland Act protects prosecutorial functions and says those decisions must be independent; the Crown Office also has internal processes and now published guidance on recusal."
+        },
+        {
+          "speaker": "Dr McCormick",
+          "text": "You also have judicial review and human rights oversight. If someone thinks a decision lacked independence they can challenge it in court."
+        },
+        {
+          "speaker": "Douglas Lumsden",
+          "text": "When the Lord Advocate recuses, does she really step out—does she stop being updated on the case?"
+        },
+        {
+          "speaker": "Dr Tickell",
+          "text": "Practice varies. Recent guidance describes handing decisions to Crown counsel, but historical disclosures show the Law Officer can sometimes still be aware of factual developments—hence confusion about what recusal means."
+        }
+      ]
+    },
+    {
+      "title": "Operation Branchform, disclosures and public trust",
+      "takeaway": "High‑profile cases (notably Operation Branchform) exposed tensions about when and what the Lord Advocate can tell ministers; experts call for clearer, earlier guidance and better public communication.",
+      "turns": [
+        {
+          "speaker": "Douglas McAllister",
+          "text": "Was it appropriate that the Lord Advocate gave the First Minister confidential updates about Branchform, including an indictment?"
+        },
+        {
+          "speaker": "Dr Tickell",
+          "text": "The Crown Office says those disclosures were factual, often after an event, and aimed to prepare ministers for questions or remind them about contempt rules. Still, people reasonably worry about fairness and timing."
+        },
+        {
+          "speaker": "Douglas McAllister",
+          "text": "If the Lord Advocate was recused, should she have been sharing that information at all?"
+        },
+        {
+          "speaker": "Dr Tickell",
+          "text": "That’s the heart of the debate: some see recusal as full removal from the loop; others see continuing administrative responsibility. The guidance published in August 2026 tries to clarify this, but it came late."
+        },
+        {
+          "speaker": "Dr McCormick",
+          "text": "England and Wales show a parallel: the Attorney General can receive factual updates even where they have no prosecutorial role. The key is limiting disclosures to factual material and keeping strategy out."
+        },
+        {
+          "speaker": "Kirsteen Sullivan",
+          "text": "Have Branchform and other recent cases damaged public trust?"
+        },
+        {
+          "speaker": "Dr Tickell",
+          "text": "Yes, they increased public confusion and scepticism. The smaller size of Scotland amplifies perceptions of closeness between politicians and prosecutors."
+        },
+        {
+          "speaker": "Dr McCormick",
+          "text": "Mitigations—clearer guidance, better public education about rules—help, but perception alone may not justify a full constitutional overhaul without weighing consequences."
+        }
+      ]
+    },
+    {
+      "title": "Options, international lessons and next steps",
+      "takeaway": "There’s no consensus: some witnesses favour splitting the role, others urge caution and wide consultation; the Committee was told to expect further Scottish Government review and that any change must be carefully designed.",
+      "turns": [
+        {
+          "speaker": "Kenneth Stevenson",
+          "text": "On balance, should the role be split?"
+        },
+        {
+          "speaker": "Dr Tickell",
+          "text": "Yes—I favour splitting. Both functions are important and demanding; having separate, focused officeholders would reduce perception problems and be more practical."
+        },
+        {
+          "speaker": "Dr McCormick",
+          "text": "I disagree. Splitting risks losing direct accountability to Parliament and creates complex trade‑offs between independence and political oversight. Any change needs careful mapping of all functions."
+        },
+        {
+          "speaker": "Malcolm McMillan",
+          "text": "I was asked by the Scottish Government to research this. I started open‑minded: splitting is attractive in principle but messy in practice. My view is we must map roles in detail and consult before deciding."
+        },
+        {
+          "speaker": "Michael Clancy",
+          "text": "The Law Society calls for a public consultation: evidence‑based reform is essential if the Government considers change. Consultation helps spot unintended consequences and craft sustainable law."
+        },
+        {
+          "speaker": "Susan Murray",
+          "text": "What do international examples tell us?"
+        },
+        {
+          "speaker": "Malcolm McMillan",
+          "text": "Other countries vary: some small states keep combined roles; others (England & Wales, Ireland, Malta) have split or different supervisor models. There’s no one‑size‑fits‑all—options must be tested against Scotland’s circumstances."
+        },
+        {
+          "speaker": "Chair",
+          "text": "The First Minister has appointed Lord Boyd to review roles and functions next year; witnesses urged that review be thorough and that public consultation follow before any legislation."
+        }
+      ]
+    }
+  ]
+}

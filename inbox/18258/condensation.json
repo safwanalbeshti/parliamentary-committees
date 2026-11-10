@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "source_id": 18258,
+  "source_sha256": "14636be825633829c87fd179879eebcadb2d3967a12f41be6e163942a4e3728b",
+  "title": "Fixing the gap between inquiry reports and action",
+  "label": "3 November 2026 · Infected Blood recommendations — Stage 1",
+  "summary": "Experts told the Committee that the UK runs many more public inquiries than before, they last longer, and while most recommendations are formally accepted, far fewer are implemented. The witnesses said the problem is not the Act itself but weak decision-making, no central learning or independent verification, and a cultural divide between inquiries and government. They proposed practical fixes: clearer guidance for Ministers, implementation plans and independent monitors, a central unit to track lessons, and better support for affected families.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lauren Edwards",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Dr Rebecca McKee",
+      "name": "Dr Rebecca McKee",
+      "role": "Associate Director, Institute for Government",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Emma Ireton",
+      "name": "Dr Emma Ireton",
+      "role": "Associate Professor in Law, Nottingham Trent University",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Richard Kirkham",
+      "name": "Professor Richard Kirkham",
+      "role": "Senior Lecturer in Public Law, University of Sheffield",
+      "kind": "witness"
+    },
+    {
+      "label": "Sam Carling",
+      "name": "Sam Carling",
+      "role": "Member of the Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Peter Lamb",
+      "name": "Peter Lamb",
+      "role": "Member of the Committee",
+      "kind": "member"
+    },
+    {
+      "label": "John Lamont",
+      "name": "John Lamont",
+      "role": "Member of the Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Luke Taylor",
+      "name": "Luke Taylor",
+      "role": "Member of the Committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Inquiries Act",
+      "definition": "The 2005 UK law that sets out how statutory public inquiries are set up and run."
+    },
+    {
+      "term": "statutory inquiry",
+      "definition": "A formal public inquiry set up under the Inquiries Act with legal powers to take evidence."
+    },
+    {
+      "term": "non-statutory inquiry",
+      "definition": "A public review set up without the legal powers of the Inquiries Act, often quicker or narrower in scope."
+    },
+    {
+      "term": "implementation monitor",
+      "definition": "An independent person or office that checks whether inquiry recommendations are actually put into practice."
+    },
+    {
+      "term": "implementation plan",
+      "definition": "A document assigning who will do each recommendation, with timings and measures of success."
+    },
+    {
+      "term": "PACAC",
+      "definition": "Public Administration and Constitutional Affairs Committee, a Commons committee that can scrutinise inquiries."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "How many inquiries and why it matters",
+      "takeaway": "There are many more inquiries now, they run longer, and most recommendations are accepted but not implemented.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "To start, how many inquiries has the Institute for Government tracked, and how many recommendations have they produced?"
+        },
+        {
+          "speaker": "Dr Rebecca McKee",
+          "text": "Since 2005 we've tracked 63 inquiries across the UK. From 1990–2024, 54 inquiries produced about 3,175 recommendations. There are more inquiries running at once and they last longer than they used to."
+        },
+        {
+          "speaker": "Dr Rebecca McKee",
+          "text": "Many recommendations are accepted in whole or part—one tracker shows 85% accepted—but far fewer are actually implemented. That implementation gap causes repeated failures and extra cost."
+        },
+        {
+          "speaker": "Professor Richard Kirkham",
+          "text": "The rise in inquiries reflects wider public expectations, less trust in politicians, and strains on public services. It's not just inquiries: complaints and ombudsman workloads are rising too."
+        }
+      ]
+    },
+    {
+      "title": "Why inquiries multiply and take so long",
+      "takeaway": "Ministers make political, often opaque choices about setting up inquiries and get little practical guidance.",
+      "turns": [
+        {
+          "speaker": "John Lamont",
+          "text": "Why are we seeing this explosion of inquiries? Is it public demand, politics, or the 2005 Act?"
+        },
+        {
+          "speaker": "Dr Rebecca McKee",
+          "text": "Decisions to launch inquiries are political and often made without clear guidance. Ministers are 'adrift'—there's limited support, little evidence on what works, and a tendency to copy past inquiries rather than choose the right model."
+        },
+        {
+          "speaker": "Dr Emma Ireton",
+          "text": "The Inquiries Act itself is fine. The real problem is a growing habit of treating the inquiry as the solution. An inquiry finds facts and recommends; it doesn't have the job of delivering change—that's the Government's role."
+        },
+        {
+          "speaker": "Dr Emma Ireton",
+          "text": "Without clarity at the start about whether the aim is detailed fault-finding, system reform, or truth-telling, Ministers pick the 'gold standard' model by default and projects become costly and slow."
+        }
+      ]
+    },
+    {
+      "title": "Designing inquiries to deliver usable recommendations",
+      "takeaway": "Inquiries should build implementability into their work from day one, testing draft recommendations with those who must act on them.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "How do we stop inquiries producing recommendations that can't be implemented?"
+        },
+        {
+          "speaker": "Dr Emma Ireton",
+          "text": "Chairs should think about implementation while gathering evidence, test draft recommendations with implementers, and avoid producing measures that are unrealistic or ignore budgets and other policies."
+        },
+        {
+          "speaker": "Dr Rebecca McKee",
+          "text": "Some inquiries already run seminars or expert sessions to test ideas. We need that to be routine: check budget impacts, interactions with other recommendations, and whether frontline staff can carry changes out."
+        },
+        {
+          "speaker": "Professor Richard Kirkham",
+          "text": "There are useful models in other bodies—like the Health Services Safety Investigations Body—that offer practical guidance on making recommendations effective. Inquiries should tap that expertise."
+        }
+      ]
+    },
+    {
+      "title": "Bridging the gap after a report: monitoring and learning",
+      "takeaway": "Independent implementation monitors and a central learning unit are needed to verify action and prevent repeated inquiries about the same failures.",
+      "turns": [
+        {
+          "speaker": "Peter Lamb",
+          "text": "What should the wider accountability architecture include so recommendations actually lead to change?"
+        },
+        {
+          "speaker": "Dr Emma Ireton",
+          "text": "Three things are missing: bottom-up verified information about what happens on the ground, continuity of knowledge between inquiry teams and implementers, and a system-wide unit that tracks lessons across all inquiries."
+        },
+        {
+          "speaker": "Dr Rebecca McKee",
+          "text": "We recommend an implementation plan agreed before an inquiry closes, with clear owners, timelines and minimum standards. An implementation monitor—often appointed for 3–4 years, as in Australia—would verify progress and report to Parliament."
+        },
+        {
+          "speaker": "Professor Richard Kirkham",
+          "text": "Other countries use ombudsmen or audit bodies to follow up. Canada and Quebec have asked ombudsmen to monitor implementation; it worked when those offices had powers and resources."
+        },
+        {
+          "speaker": "Dr Rebecca McKee",
+          "text": "We also need a public, comprehensive tracker that includes independent verification, not just government self-reports. Dashboards are a start but must show scrutiny, not just tick-boxes."
+        }
+      ]
+    },
+    {
+      "title": "Parliament's role and limits",
+      "takeaway": "Parliament should scrutinise early decisions and act as a backstop, but it cannot be the sole monitor without extra resources.",
+      "turns": [
+        {
+          "speaker": "Luke Taylor",
+          "text": "What can Parliament and Select Committees uniquely do in this accountability architecture?"
+        },
+        {
+          "speaker": "Dr Rebecca McKee",
+          "text": "Parliament can and should scrutinise the initial decision to hold an inquiry and the terms of reference. Committees can call Ministers, demand papers, and act as a democratic backstop when implementation monitors run into problems."
+        },
+        {
+          "speaker": "Dr Emma Ireton",
+          "text": "Select Committees should not be asked to replace technical monitors. Their strength is holding Ministers to account publicly—asking why accepted recommendations aren't being delivered—while an expert monitor verifies the detailed progress."
+        },
+        {
+          "speaker": "Dr Rebecca McKee",
+          "text": "The difficulty is capacity: Committees are busy and under-resourced. Turning them into day-to-day monitors would dilute their core functions unless Parliament accepts extra resources or uses a mixed model of monitors plus committee scrutiny."
+        }
+      ]
+    },
+    {
+      "title": "Supporting victims and avoiding needless burden",
+      "takeaway": "Families should be heard and supported, but they must not be left to monitor implementation; the state should take that on and use trauma-informed inquiry design.",
+      "turns": [
+        {
+          "speaker": "Sam Carling",
+          "text": "Victims and families suffer retrauma when participating in long inquiries. How do we let them inform the process without overburdening them?"
+        },
+        {
+          "speaker": "Dr Emma Ireton",
+          "text": "Start by being honest about what an inquiry can and cannot do. Involve survivors early in designing the process, listen actively, and use trauma-informed procedures so participation doesn't become additional harm."
+        },
+        {
+          "speaker": "Dr Rebecca McKee",
+          "text": "Crucially, don't make families the monitors. Many groups end up tracking implementation because official oversight is missing. Independent implementation monitors must shoulder that work so families can focus on contributing evidence."
+        },
+        {
+          "speaker": "Professor Richard Kirkham",
+          "text": "Any new monitoring role must have real powers, resources and independence. Otherwise you'll see the same problem: good recommendations that quietly disappear."
+        }
+      ]
+    }
+  ]
+}
