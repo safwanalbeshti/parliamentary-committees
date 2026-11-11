@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18268,
+  "activity_id": 39259,
+  "document_id": 310831,
+  "meeting_date": "2026-11-04",
+  "meeting_date_display": "4 November 2026",
+  "publication_date": "2026-11-10T16:18:38",
+  "title": "Multilateralism",
+  "committee": "International Relations and Defence Committee",
+  "committees": [
+    {
+      "id": 360,
+      "name": "International Relations and Defence Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9772,
+      "title": "Multilateralism",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Professor Robert Trager",
+      "role": "Co-Director",
+      "organisation": "Oxford Martin AI Governance Initiative, University of Oxford"
+    },
+    {
+      "name": "Dr Claire Melamed",
+      "role": "Vice-President for AI and Digital Co-operation",
+      "organisation": "UN Foundation"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Professor Robert Trager",
+    "Dr Claire Melamed",
+    "Baroness Crawley",
+    "Baroness Fraser of Craigmaddie",
+    "Baroness Prashar",
+    "Lord Grocott",
+    "Lord Bruce of Bennachie",
+    "Lord Houghton of Richmond",
+    "Lord Lamont of Lerwick"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18268/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18268",
+  "source_sha256": "d8d3ff1f6395ef063213790637e1565ead37aaf44f8bfbb42e94f386e4d19ce9",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

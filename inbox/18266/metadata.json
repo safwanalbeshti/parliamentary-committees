@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18266,
+  "activity_id": 39497,
+  "document_id": 310815,
+  "meeting_date": "2026-11-10",
+  "meeting_date_display": "10 November 2026",
+  "publication_date": "2026-11-10T15:37:06",
+  "title": "The use of Artificial Intelligence and EdTech in Education",
+  "committee": "Education Committee",
+  "committees": [
+    {
+      "id": 203,
+      "name": "Education Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9642,
+      "title": "The use of Artificial Intelligence and EdTech in Education",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Chris Loveday",
+      "role": "Interim Chief Operating Officer and Deputy Principal",
+      "organisation": "City of Portsmouth College"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Head of Equality and Policy",
+      "organisation": "University and College Union (UCU)"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chief Executive Officer",
+      "organisation": "Association of Employment and Learning Providers (AELP)"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Senior Policy Manager",
+      "organisation": "Association of Colleges (AoC)"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Cath Sezen",
+    "Ben Rowland",
+    "Mary Meekings",
+    "Chris Loveday",
+    "Jodie Gosling",
+    "Manuela Perteghella",
+    "That would be a plea to the Committee",
+    "Peter Swallow",
+    "Darren Paffey",
+    "Michael Webb",
+    "Charlotte Armstrong",
+    "Professor Banks",
+    "Lewis Wilson"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18266/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18266",
+  "source_sha256": "403db3afc0bdc76d3e903e12c8600e2852c9542122252ccef543efff1c42ba56",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

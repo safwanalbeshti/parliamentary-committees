@@ -1,0 +1,272 @@
+{
+  "schema_version": 1,
+  "source_id": 18268,
+  "source_sha256": "d8d3ff1f6395ef063213790637e1565ead37aaf44f8bfbb42e94f386e4d19ce9",
+  "title": "Can the UN Anchor Global AI Rules? Practical paths and political limits",
+  "label": "4 November 2026 · Multilateralism and AI",
+  "summary": "Witnesses from the UN Foundation and Oxford discussed what the UN has done on AI, where it can add most value, what practical standards and verification are realistic, and how the UK might lead. They agreed the UN’s strengths are inclusivity and legitimacy, that progress will be a mix of coalitions and UN processes, and that technical measures (safety cases, tamper-evident logs, trusted execution) plus verification capacity and political will are needed — possibly galvanized by a crisis.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Robertson of Port Ellen",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Professor Robert Trager",
+      "name": "Professor Robert Trager",
+      "role": "Co-Director, Oxford Martin AI Governance Initiative, University of Oxford",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Claire Melamed",
+      "name": "Dr Claire Melamed",
+      "role": "Vice-President for AI and Digital Co-operation, UN Foundation",
+      "kind": "witness"
+    },
+    {
+      "label": "Baroness Crawley",
+      "name": "Baroness Crawley",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Fraser of Craigmaddie",
+      "name": "Baroness Fraser of Craigmaddie",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Prashar",
+      "name": "Baroness Prashar",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Grocott",
+      "name": "Lord Grocott",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Bruce of Bennachie",
+      "name": "Lord Bruce of Bennachie",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Houghton of Richmond",
+      "name": "Lord Houghton of Richmond",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Lamont of Lerwick",
+      "name": "Lord Lamont of Lerwick",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Independent International Scientific Panel on AI",
+      "definition": "A UN-linked group of leading scientists convened to assess AI capabilities, risks and evidence for policy-makers."
+    },
+    {
+      "term": "Global Digital Compact",
+      "definition": "A UN process to agree shared digital principles and cooperation, currently under review."
+    },
+    {
+      "term": "AI Security Institute",
+      "definition": "A UK government-backed body that tests and assesses frontier AI models before deployment."
+    },
+    {
+      "term": "trusted execution environment",
+      "definition": "A secure area in hardware/software where code runs so its actions can be recorded and protected from tampering."
+    },
+    {
+      "term": "soft law",
+      "definition": "Non-binding norms, codes or standards (not formal treaties) that shape behaviour internationally."
+    },
+    {
+      "term": "frontier AI models",
+      "definition": "The most advanced, high-capability AI systems that push computing and capability limits."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What the UN has actually done",
+      "takeaway": "The UN has created inclusive forums and scientific assessment capacity; it can set principles but moves slower on technical rules.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We’re looking at the UN’s role on AI. Is it just a talking shop, or has it produced concrete results?"
+        },
+        {
+          "speaker": "Professor Robert Trager",
+          "text": "The UN has done real work. It set up a High‑Level Advisory Body and, importantly, an Independent International Scientific Panel on AI that produced a balanced scientific report accepted across many states."
+        },
+        {
+          "speaker": "Professor Robert Trager",
+          "text": "The UN’s strengths are universality and legitimacy — it can state principles that most governments recognise — but it’s slower delivering detailed, technical governance."
+        },
+        {
+          "speaker": "Dr Claire Melamed",
+          "text": "I defend the 'talking shop' role: convening everyone is a necessary start. The UN brings inclusivity and a decades‑old normative framework on rights and development."
+        },
+        {
+          "speaker": "Dr Claire Melamed",
+          "text": "There are concrete wins: the independent scientific panel, the Global Dialogue, human rights and UNESCO AI guidance, and a technical regulatory framework for autonomous vehicles agreed in Geneva."
+        }
+      ]
+    },
+    {
+      "title": "Where practical progress is likely",
+      "takeaway": "Coalitions of willing states will target tractable, urgent areas (e.g., frontier models, military uses, technical standards) while the UN holds broader norms.",
+      "turns": [
+        {
+          "speaker": "Baroness Fraser of Craigmaddie",
+          "text": "Which AI issues will get traction at the UN? Technical things like autonomous vehicles, or big risk statements?"
+        },
+        {
+          "speaker": "Dr Claire Melamed",
+          "text": "We must split 'AI governance' into parts: supply chains, sectoral rules (health, justice), and generic rules for frontier models. Target areas should be both important and tractable now."
+        },
+        {
+          "speaker": "Dr Claire Melamed",
+          "text": "We’re seeing middle powers form coalitions. For example, a group convening in Barbados issued 'A Call for Control of Frontier AI Models' — that’s how progress often starts."
+        },
+        {
+          "speaker": "Professor Robert Trager",
+          "text": "Yes. Coalitions can write codes of practice quickly and have outsized influence. The EU AI Act’s code section was crafted by a very small, intense group and changes behaviour."
+        },
+        {
+          "speaker": "Professor Robert Trager",
+          "text": "But the technology is moving fast. There’s a tension between enduring principles and quickly changing detailed practices; both are needed."
+        }
+      ]
+    },
+    {
+      "title": "Principles and technical measures",
+      "takeaway": "Key practical principles: require safety cases from developers, verifiable records of system behaviour, and secure hosting to allow auditing.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "What basic principles should guide AI standards and regulation?"
+        },
+        {
+          "speaker": "Professor Robert Trager",
+          "text": "Start with a safety case: companies must demonstrate a system is safe before deployment. But 'safe' and how often to reassess are contested as models change constantly."
+        },
+        {
+          "speaker": "Professor Robert Trager",
+          "text": "We also need to know what systems actually do. Tamper‑evident logs or black‑box records could let providers prove if they did or didn’t cause an incident."
+        },
+        {
+          "speaker": "Professor Robert Trager",
+          "text": "Technically feasible solutions exist: trusted execution environments, cryptographic proof of actions and automated oversight of internal deployments — these must be developed and mandated."
+        },
+        {
+          "speaker": "Dr Claire Melamed",
+          "text": "Agreed. As hardware and verification tech mature, large markets and key governments will need to require them for widespread adoption to embed these protections."
+        },
+        {
+          "speaker": "Dr Claire Melamed",
+          "text": "We also lack consensus on which risks to prioritise. Some are near-term — cybercrime, infrastructure attacks — and some are longer‑term catastrophic risks. Policymaking must reflect both."
+        }
+      ]
+    },
+    {
+      "title": "Politics, the UK’s role, and inclusion of developing states",
+      "takeaway": "The UK has unique technical expertise and can be a coalition and capacity builder, especially to help developing countries benefit and handle risks.",
+      "turns": [
+        {
+          "speaker": "Baroness Prashar",
+          "text": "How is the UK engaging at the UN, and how should it help shape norms and standards?"
+        },
+        {
+          "speaker": "Dr Claire Melamed",
+          "text": "The UK has been cautious — partly to protect the AI Security Institute’s privileged access to frontier models — but it has strong assets and could use its G20 presidency to lead practical coalitions."
+        },
+        {
+          "speaker": "Professor Robert Trager",
+          "text": "The UK government has deep, rare expertise within its Civil Service and the AI Security Institute. That credibility lets it upskill others and act as a bridge between the US ecosystem and wider global governance."
+        },
+        {
+          "speaker": "Lord Bruce of Bennachie",
+          "text": "How can AI help developing countries, and could the UK be a catalyst given aid cuts?"
+        },
+        {
+          "speaker": "Professor Robert Trager",
+          "text": "Think infrastructure and access: models and data centres need huge investment. The UK could help pool resources to provide shared access and define 'safety' in local contexts."
+        },
+        {
+          "speaker": "Dr Claire Melamed",
+          "text": "There’s potential in tying data centres to renewable energy investment in Africa, and past UK-led development work (AI for Development) gives a base to build wider, equitable adoption programs."
+        }
+      ]
+    },
+    {
+      "title": "Weapons, crises and verification",
+      "takeaway": "Military use complicates cooperation; norms, non‑proliferation thinking, verification tech and trusted processes are needed — and a crisis might force political action.",
+      "turns": [
+        {
+          "speaker": "Lord Houghton of Richmond",
+          "text": "How do we handle military uses and weaponisation when states seek advantage? Can human agency still be the safety backstop?"
+        },
+        {
+          "speaker": "Professor Robert Trager",
+          "text": "You can’t legislate away conflict. Non‑proliferation is the useful analogy: limit spread of dangerous systems. Also, build technical oversight — secure environments, whistleblower-like notification systems and rules about what can leave classified systems."
+        },
+        {
+          "speaker": "Dr Claire Melamed",
+          "text": "Norms matter. They don’t replace law, but norms create incentives to comply. The UN is central to norm‑setting even if legal instruments lag."
+        },
+        {
+          "speaker": "Lord Grocott",
+          "text": "Do we need a catastrophe to act, like 9/11 or Sputnik moments?"
+        },
+        {
+          "speaker": "Professor Robert Trager",
+          "text": "Sometimes a clear demonstration of capability shifts policy quickly. Other times it takes a politicised event. We should prepare verification tech in advance — that’s what sped arms treaties in the past."
+        },
+        {
+          "speaker": "Dr Claire Melamed",
+          "text": "Prepare both technologically and institutionally. Trust and fast channels for incident reporting and coordinated response are as important as the tech itself. The UK can help build those networks."
+        },
+        {
+          "speaker": "Lord Lamont of Lerwick",
+          "text": "Is 'soft law' a problem? Much UN AI work is non‑binding."
+        },
+        {
+          "speaker": "Professor Robert Trager",
+          "text": "Soft law is often the right instrument. The Financial Action Task Force shows how non‑binding rules plus peer review and naming can change state behaviour — but soft law must be the right kind, with teeth and updating mechanisms."
+        },
+        {
+          "speaker": "Lord Lamont of Lerwick",
+          "text": "But isn’t that process politicised?"
+        },
+        {
+          "speaker": "Professor Robert Trager",
+          "text": "Yes, it can be political; that’s both a criticism and a reason it can influence behaviour. Smaller rule‑setting clubs can be effective if they link to broader adoption incentives."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Final practical question: if a crisis happens, what should the UK do now to be ready?"
+        },
+        {
+          "speaker": "Dr Claire Melamed",
+          "text": "Invest now in verification technology, strengthen the AI Security Institute and build trusted networks and response protocols across governments and companies so a technical response can be mobilised quickly."
+        },
+        {
+          "speaker": "Professor Robert Trager",
+          "text": "Also prepare legal and oversight frameworks for classified/defence uses, make auditing and tamper‑evident records standard, and be ready to scale coalitions that can act faster than slow treaty processes."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you both. The committee found this very helpful; please check the transcript for any corrections."
+        }
+      ]
+    }
+  ]
+}

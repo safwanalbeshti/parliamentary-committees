@@ -1,0 +1,306 @@
+{
+  "schema_version": 1,
+  "source_id": 18266,
+  "source_sha256": "403db3afc0bdc76d3e903e12c8600e2852c9542122252ccef543efff1c42ba56",
+  "title": "AI and EdTech in Post‑16 Education: Opportunities, Risks and What Needs Fixing",
+  "label": "10 November 2026 · FE and HE panels",
+  "summary": "Two panels of FE and HE experts told the Committee that AI is already changing colleges and universities: it can save time, personalise learning and create rich simulations, but it also raises major problems—uneven access, rising workload, unclear governance, threats to assessment integrity and risks for vulnerable students. Witnesses called for clear guardrails and training, faster qualification updates, investment in infrastructure and principled national guidance that preserves institutional autonomy.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Helen Hayes",
+      "role": "Chair of the Education Committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Cath Sezen",
+      "name": "Cath Sezen",
+      "role": "Director of Education Policy, Association of Colleges",
+      "kind": "witness"
+    },
+    {
+      "label": "Ben Rowland",
+      "name": "Ben Rowland",
+      "role": "Chief Executive Officer, Association of Employment and Learning Providers",
+      "kind": "witness"
+    },
+    {
+      "label": "Mary Meekings",
+      "name": "Mary Meekings",
+      "role": "Head of Equality and Policy, University and College Union (UCU)",
+      "kind": "witness"
+    },
+    {
+      "label": "Chris Loveday",
+      "name": "Chris Loveday",
+      "role": "Interim Chief Operating Officer and Deputy Principal, City of Portsmouth College",
+      "kind": "witness"
+    },
+    {
+      "label": "Charlotte Armstrong",
+      "name": "Charlotte Armstrong",
+      "role": "Policy Manager, Higher Education Policy Institute",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Banks",
+      "name": "Professor Simon Banks",
+      "role": "Vice‑Dean, Education, King's College London",
+      "kind": "witness"
+    },
+    {
+      "label": "Michael Webb",
+      "name": "Michael Webb",
+      "role": "Director of AI, Jisc (national education technology body)",
+      "kind": "witness"
+    },
+    {
+      "label": "Lewis Wilson",
+      "name": "Lewis Wilson",
+      "role": "Vice‑President for Higher Education, National Union of Students",
+      "kind": "witness"
+    },
+    {
+      "label": "Jodie Gosling",
+      "name": "Jodie Gosling",
+      "role": "Member of the Education Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Darren Paffey",
+      "name": "Darren Paffey",
+      "role": "Member of the Education Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Manuela Perteghella",
+      "name": "Manuela Perteghella",
+      "role": "Member of the Education Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Peter Swallow",
+      "name": "Peter Swallow",
+      "role": "Member of the Education Committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "T-level",
+      "definition": "A technical post‑16 qualification in England designed to prepare students for skilled work or study."
+    },
+    {
+      "term": "V-level",
+      "definition": "A proposed vocational level qualification intended to sit alongside T-levels for specific occupational skills."
+    },
+    {
+      "term": "NEET",
+      "definition": "Young people not in education, employment or training."
+    },
+    {
+      "term": "SEND",
+      "definition": "Special educational needs and disabilities—additional support some learners require."
+    },
+    {
+      "term": "EAL",
+      "definition": "English as an additional language—learners whose first language is not English."
+    },
+    {
+      "term": "DfE",
+      "definition": "Department for Education, the government department responsible for education policy in England."
+    },
+    {
+      "term": "Ofqual",
+      "definition": "The exams and qualifications regulator in England."
+    },
+    {
+      "term": "LLM",
+      "definition": "Large language model—a type of AI that generates text, like ChatGPT."
+    },
+    {
+      "term": "Agentic AI",
+      "definition": "AI that can take actions on a user’s behalf, such as controlling software or browsing the web."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Where AI is already helping — and where it isn't",
+      "takeaway": "AI is used across operational tasks, lesson preparation and specialised training, but benefits are uneven and depend on training, infrastructure and subject.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "To start: how is AI and edtech affecting further education and what should FE do to prepare students for an AI‑rich world?"
+        },
+        {
+          "speaker": "Cath Sezen",
+          "text": "It’s early but colleges are keen. Staff use AI for lesson prep, engagement and to support students with SEND; around 40,000 people are enrolled on digital qualifications, and some digital technical excellence colleges focus on AI skills."
+        },
+        {
+          "speaker": "Chris Loveday",
+          "text": "AI touches teachers’ workload and back‑office tasks. We must teach safe, effective use—misinformation, bias and 'hallucination' are real issues—and keep options for learners who don’t want to use tech."
+        },
+        {
+          "speaker": "Mary Meekings",
+          "text": "Staff responses vary hugely: some build tools, some reject them. Many educators feel they’re self‑teaching AI and sometimes buying access themselves. The worst outcome would be AI replacing human teaching."
+        },
+        {
+          "speaker": "Ben Rowland",
+          "text": "Our providers report fastest gains in admin (timetables), then teaching prep, then learning; assessment lags behind. Practical providers are experimenting and benefiting from partner‑built tools."
+        }
+      ]
+    },
+    {
+      "title": "Curriculum, qualifications and digital equity",
+      "takeaway": "Qualifications can and should include AI and digital literacy, but curriculum updates move slowly and unequal access to devices and premium AI risks widening gaps.",
+      "turns": [
+        {
+          "speaker": "Jodie Gosling",
+          "text": "With new V‑levels and other reforms, how will AI affect their success?"
+        },
+        {
+          "speaker": "Cath Sezen",
+          "text": "Digital T‑levels are being updated for AI; V‑levels can mix with other subjects. But rapidly changing tech clashes with slow qualification rules—we need quicker updating processes."
+        },
+        {
+          "speaker": "Ben Rowland",
+          "text": "AI opens rich simulation for vocational training—affordable virtual workplace practice, Metaverse Learning and Bodyswaps-style tools—but teachers need to know how to use them."
+        },
+        {
+          "speaker": "Chris Loveday",
+          "text": "Two lenses matter: curriculum content and student experience. Four equity pillars are essential—keyboard device, internet access, a safe account and access to a reliable LLM—otherwise the poverty gap becomes a chasm."
+        },
+        {
+          "speaker": "Mary Meekings",
+          "text": "We must avoid creating a digital underclass or replacing human teaching. Staff need time and support to adopt tech; workload is already very high in FE."
+        }
+      ]
+    },
+    {
+      "title": "Support for vulnerable learners and SEND",
+      "takeaway": "AI can help learners with SEND and EAL if designed accessibly and with human oversight, but risks include dependency, poor data sharing and lack of staff time.",
+      "turns": [
+        {
+          "speaker": "Peter Swallow",
+          "text": "How do we balance AI's benefits for SEND learners with the risk of overreliance?"
+        },
+        {
+          "speaker": "Chris Loveday",
+          "text": "We built a multilingual LLM with accessibility options—voice‑to‑text, contrast modes—to support but not replace TAs. Human judgement and guardrails are essential to avoid dependency."
+        },
+        {
+          "speaker": "Cath Sezen",
+          "text": "Simple digital tweaks—fonts, backgrounds—can make big accessibility gains. Colleges also need better, timely information on students' needs, like up‑to‑date EHCP details, to prepare support."
+        },
+        {
+          "speaker": "Ben Rowland",
+          "text": "Tailoring teaching materials with AI (TeacherMatic and similar) helps teachers and SEND learners. But money earmarked for extra learner support isn’t always reaching small providers—claims processes need fixing."
+        },
+        {
+          "speaker": "Mary Meekings",
+          "text": "Guardrails and human accountability must be in place. We must not hand over decisions about learners to machines; government guidance would help."
+        }
+      ]
+    },
+    {
+      "title": "Workload, assessment and academic integrity",
+      "takeaway": "AI can reduce some routine tasks but often shifts workload; assessment systems need redesign to remain meaningful and inclusive in an AI world.",
+      "turns": [
+        {
+          "speaker": "Manuela Perteghella",
+          "text": "The Government says AI can cut teacher workload—do we see that in practice?"
+        },
+        {
+          "speaker": "Chris Loveday",
+          "text": "It can—if staff are trained, institutions prepare the prompts and vet outputs. But poor guidance makes adoption increase work rather than reduce it: 'bad in, bad out' accelerates problems."
+        },
+        {
+          "speaker": "Mary Meekings",
+          "text": "Our union workload surveys show workload rising year on year. Teachers are working late and the evidence that AI is reducing load isn't there yet for many staff."
+        },
+        {
+          "speaker": "Darren Paffey",
+          "text": "How should post‑16 assessment change given AI?"
+        },
+        {
+          "speaker": "Chris Loveday",
+          "text": "Reintroduce and assess human skills—critical thinking, presentations—and mix supervised exams, practical assessments and orals so we certify abilities AI can’t easily fake."
+        },
+        {
+          "speaker": "Ben Rowland",
+          "text": "Assessment lags behind other gains: in our survey fewer providers saw improvement in assessment. Ofqual, awarding bodies and providers are not yet aligned on new approaches."
+        },
+        {
+          "speaker": "Cath Sezen",
+          "text": "For vocational routes the key is proving people can do the job. This is an opportunity to rethink assessment away from pure coursework that AI can mimic."
+        }
+      ]
+    },
+    {
+      "title": "Higher education: learning, research, staffing and governance",
+      "takeaway": "In HE student use of AI is widespread and mixed in effect; universities must train staff and students, rethink assessment and research practices, and seek principled national guidance rather than one‑size rules.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Turning to higher education: with near‑universal student AI use, does it harm or help deep subject learning?"
+        },
+        {
+          "speaker": "Lewis Wilson",
+          "text": "Students use AI in many ways—not just to generate essays but to draft, summarise and compensate for less time with staff. That risks long‑term skills erosion if time pressures persist."
+        },
+        {
+          "speaker": "Professor Banks",
+          "text": "Impact depends on how students use it and whether institutions train them. For AI‑literate students it multiplies learning; for others it can become outsourcing of the thinking process."
+        },
+        {
+          "speaker": "Charlotte Armstrong",
+          "text": "HEPI surveys show 49% of students say AI improves their experience, 16% say it makes it worse. Those who feel worse often report guilt—they know it may hurt their learning but use it for speed."
+        },
+        {
+          "speaker": "Michael Webb",
+          "text": "There are brilliant, specific examples—interactive simulations in green chemistry, embedded AI tutors—but practice is patchy and depends on institutional capacity and funding."
+        },
+        {
+          "speaker": "Peter Swallow",
+          "text": "What about research and PhDs? Is AI a threat or asset?"
+        },
+        {
+          "speaker": "Professor Banks",
+          "text": "AI accelerates ideation and some labour‑intensive steps, but human ownership of methods and authorship must remain. Maths has been rocked—AI solved many theorem proofs quickly—so disciplines vary in risk and benefit."
+        },
+        {
+          "speaker": "Jodie Gosling",
+          "text": "Will AI reduce academic jobs or just change skills needed?"
+        },
+        {
+          "speaker": "Charlotte Armstrong",
+          "text": "Staff need time and training. The best evidence suggests AI will change baseline expectations and require upskilling, not mass job cuts—human teaching remains the top driver of student experience."
+        },
+        {
+          "speaker": "Michael Webb",
+          "text": "Staff feel a 'loss of craft' for certain tasks, but a practical approach is: use AI for the parts that don’t add value to your professional identity and keep the rest—training is key."
+        },
+        {
+          "speaker": "Lewis Wilson",
+          "text": "Students worry front‑line staff cuts and poorly resourced chatbots will erode support. Reasonable adjustments and disability obligations must not be lost to automated systems."
+        },
+        {
+          "speaker": "Darren Paffey",
+          "text": "Should there be national rules on AI for universities, or keep it to institutions?"
+        },
+        {
+          "speaker": "Michael Webb",
+          "text": "Universities need flexibility; sector diversity is large. National guidance should be principles‑based rather than prescriptive so institutions can apply it to their subjects and students."
+        },
+        {
+          "speaker": "Charlotte Armstrong",
+          "text": "Many institutions want guidance on values and equality implications. A principles and ethics framework—like Ireland’s approach—would help without undermining autonomy."
+        },
+        {
+          "speaker": "Professor Banks",
+          "text": "I agree: institutions need sector‑level principles and practical support to build their own policies; a one‑size regulatory overlay would misfire."
+        }
+      ]
+    }
+  ]
+}
