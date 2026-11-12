@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18269,
+  "activity_id": 39441,
+  "document_id": 311097,
+  "meeting_date": "2026-11-10",
+  "meeting_date_display": "10 November 2026",
+  "publication_date": "2026-11-11T12:06:31",
+  "title": "Proposals for backbench debates",
+  "committee": "Backbench Business Committee",
+  "committees": [
+    {
+      "id": 202,
+      "name": "Backbench Business Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9813,
+      "title": "Proposals for backbench debates",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [],
+  "speaker_candidates": [
+    "Representations",
+    "II",
+    "III",
+    "Chair",
+    "Marie Goldman",
+    "Dr Mullan",
+    "Mary Glindon",
+    "Mr Dillon",
+    "Jim Shannon",
+    "Will Stone",
+    "Jonathan Davies",
+    "Ruth Jones",
+    "We know what social media is like",
+    "Alison Hume"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18269/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18269",
+  "source_sha256": "053d123255a6b3bdd1632faf851c3f06efd428251545721d4b4d7939ee6f1459",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

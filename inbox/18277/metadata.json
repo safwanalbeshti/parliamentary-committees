@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18277,
+  "activity_id": 39389,
+  "document_id": 311301,
+  "meeting_date": "2026-11-11",
+  "meeting_date_display": "11 November 2026",
+  "publication_date": "2026-11-11T16:33:34",
+  "title": "The Northern Ireland Troubles Bill: Follow-up",
+  "committee": "Northern Ireland Affairs Committee",
+  "committees": [
+    {
+      "id": 120,
+      "name": "Northern Ireland Affairs Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10085,
+      "title": "The Northern Ireland Troubles Bill: Follow-up",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Chief Commissioner",
+      "organisation": "Independent Commission for Reconciliation and Information Recovery (ICRIR)"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Interim Chief Executive Officer",
+      "organisation": "Independent Commission for Reconciliation and Information Recovery (ICRIR)"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Assistant Commissioner for Investigations",
+      "organisation": "Independent Commission for Reconciliation and Information Recovery (ICRIR)"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Sir Declan Morgan",
+    "Adam Jogee",
+    "Claire Hanna",
+    "Mr Kohler",
+    "Sir Alec Shelbrooke",
+    "Amanda Logan",
+    "Ronnie Armour",
+    "Simon Hoare",
+    "Chris Bloore"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18277/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18277",
+  "source_sha256": "3051eba418a899bdfbde5fc212e259112b937e4966791d6a8807452606deebfa",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

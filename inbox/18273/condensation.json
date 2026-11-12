@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "source_id": 18273,
+  "source_sha256": "869c28f1d59c0f2d301e287195d63bfeb8a5c6b189c3fcee10a9f69253947b80",
+  "title": "Faster finance, clearer coordination: scaling UK defence exports",
+  "label": "10 November 2026 · Defence exports panel",
+  "summary": "The witnesses—senior figures from ADS, Babcock and SRT Marine—said UK defence exports are growing, especially into Europe, but SMEs are being held back by slow public finance, complex licensing and inconsistent whole-of-government support. They urged faster delivery from UK Export Finance, clearer fast-track timelines for export licensing and better, sustained Team UK leadership across departments.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Liam Byrne",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Nathan Mathiot",
+      "name": "Nathan Mathiot",
+      "role": "Director of Policy and Public Affairs, ADS Group Ltd",
+      "kind": "witness"
+    },
+    {
+      "label": "Gareth Hedicker",
+      "name": "Gareth Hedicker",
+      "role": "Chief Operating Officer, Marine, Babcock International",
+      "kind": "witness"
+    },
+    {
+      "label": "Simon R Tucker",
+      "name": "Simon R Tucker",
+      "role": "Chief Executive Officer, SRT Marine Systems",
+      "kind": "witness"
+    },
+    {
+      "label": "Antonia Bance",
+      "name": "Antonia Bance",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Leigh Ingham",
+      "name": "Leigh Ingham",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Nesil Caliskan",
+      "name": "Nesil Caliskan",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Mr Reynolds",
+      "name": "Mr Joshua Reynolds",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Charlie Maynard",
+      "name": "Charlie Maynard",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Dan Aldridge",
+      "name": "Dan Aldridge",
+      "role": "Member of Parliament",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "UKEF",
+      "definition": "UK Export Finance, the government's export credit agency that underwrites loans and bonds to support UK exports."
+    },
+    {
+      "term": "DSRB",
+      "definition": "A proposed multilateral defence bank that would pool international finance for defence projects."
+    },
+    {
+      "term": "MDM",
+      "definition": "The Government's new Multilateral Defence Mechanism for mobilising capital and coordinating defence finance."
+    },
+    {
+      "term": "Team UK",
+      "definition": "A shorthand used for coordinated action by UK departments, diplomacy and industry to win defence contracts."
+    },
+    {
+      "term": "G2G",
+      "definition": "Government-to-Government deals, where national governments agree defence partnerships or purchases."
+    },
+    {
+      "term": "ECJU",
+      "definition": "Export Control Joint Unit, the UK body which advises on export licences for controlled defence items."
+    },
+    {
+      "term": "export licensing",
+      "definition": "The government process for approving cross-border transfers of defence or dual-use goods and technology."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Outlook: growth and market shift",
+      "takeaway": "UK defence exports are growing, shifting toward Europe, and present opportunities across shipbuilding and surveillance.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Let's start broadly: what do the next five years look like for UK defence exports?"
+        },
+        {
+          "speaker": "Nathan Mathiot",
+          "text": "Defence exports have grown about a third over the past decade. On a five-year rolling basis we were at roughly £10.8 billion in 2025 and expect steady growth, increasingly into Europe."
+        },
+        {
+          "speaker": "Gareth Hedicker",
+          "text": "We see particular growth in shipbuilding and maritime protection. Babcock is in several multibillion-pound export campaigns—Denmark, New Zealand, Chile and Indonesia are examples."
+        },
+        {
+          "speaker": "Simon R Tucker",
+          "text": "From my company’s angle, demand is huge. We've grown rapidly and won big contracts—Indonesia’s coastguard system financed with UKEF, a Kuwait deal—our pipeline is about £2.5 billion."
+        }
+      ]
+    },
+    {
+      "title": "Finance: UKEF helps but is too slow for SMEs",
+      "takeaway": "UKEF has useful tools and bigger capital now, but slow delivery and large bonding requirements squeeze SMEs' cashflow and investment decisions.",
+      "turns": [
+        {
+          "speaker": "Antonia Bance",
+          "text": "Is the scale and speed of UKEF support sufficient for you?"
+        },
+        {
+          "speaker": "Simon R Tucker",
+          "text": "The options are broad and UKEF enabled our Indonesia deal, but speed is the issue. Loan agreements can take a year or two from contract signing—that's crippling for SMEs."
+        },
+        {
+          "speaker": "Simon R Tucker",
+          "text": "We face big bonds—for a pending $800m contract they'd want an $80m bond. UKEF will support a percentage, but the timing uncertainty forces firms to slow hires or rely on investors."
+        },
+        {
+          "speaker": "Nathan Mathiot",
+          "text": "Government increased UKEF capacity this year—£50bn extra into a defence fund—but the customer experience matters. More money won't help if the process is slow or unpredictable."
+        },
+        {
+          "speaker": "Gareth Hedicker",
+          "text": "UKEF was essential for our £4bn Indonesia framework. Larger firms who contract with SMEs don't always expose the same cashflow issues to those suppliers, but SMEs feel it."
+        },
+        {
+          "speaker": "Chair",
+          "text": "So the money can exist but slow execution creates a real vulnerability?"
+        },
+        {
+          "speaker": "Simon R Tucker",
+          "text": "Exactly. Customers may wait now, but competition will arrive. The financing delay risks losing sales or eroding a firm's ability to invest and scale."
+        }
+      ]
+    },
+    {
+      "title": "Multilateral options: DSRB vs the MDM",
+      "takeaway": "Witnesses prefer more finance options; they would welcome DSRB membership but see MDM as complementary if it is well-resourced.",
+      "turns": [
+        {
+          "speaker": "Leigh Ingham",
+          "text": "Are you worried the UK won't join the DSRB and so miss access to multilateral defence capital?"
+        },
+        {
+          "speaker": "Simon R Tucker",
+          "text": "Any move that reduces export financing options is bad. If another country offers better packages, customers will take them—even if our product is stronger."
+        },
+        {
+          "speaker": "Nathan Mathiot",
+          "text": "ADS wanted the UK to consider joining DSRB alongside the MDM. They solve different problems—DSRB for pooled finance, MDM for other capital mobilisation. Ideally you use both."
+        },
+        {
+          "speaker": "Gareth Hedicker",
+          "text": "For our big deals it's often Government-to-Government partnership plus finance. Finance matters, but integrated long-term partnership and sovereign capability are equally important."
+        }
+      ]
+    },
+    {
+      "title": "Team UK, competition and how other countries act",
+      "takeaway": "When Team UK is well aligned across departments and industry it performs strongly; competitors like France act more proactively and centrally.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "How do we compare with the French who get presidential-level involvement, or South Korea with joined-up campaigning?"
+        },
+        {
+          "speaker": "Nathan Mathiot",
+          "text": "When Team UK is joined up we are world class, but consistency is the problem. France tends to back winners with central leadership and willingness to package civil and military offers together."
+        },
+        {
+          "speaker": "Gareth Hedicker",
+          "text": "We win when Government, industry and academia share a clear plan and timing. The challenge is keeping that integration consistent across many campaigns."
+        },
+        {
+          "speaker": "Simon R Tucker",
+          "text": "We're more 'farmers' than 'hunters'—we wait for processes to move. The French actively chase and push through problems. Sometimes we had to rent a room in Indonesia to get everyone in one place to finish paperwork."
+        },
+        {
+          "speaker": "Nesil Caliskan",
+          "text": "Is the lack of proactiveness mainly a Government-side agility problem, not industry?"
+        },
+        {
+          "speaker": "Nathan Mathiot",
+          "text": "There has been organisational change—defence export work moved from DBT to MOD—and that injected some inertia. Establishing a single accountable defence export function was right, but wiring between departments needs sharpening."
+        }
+      ]
+    },
+    {
+      "title": "Controls, SMEs and final recommendations",
+      "takeaway": "Firms want clearer timelines for export licensing, better resourcing, more proactive Government engagement and faster, predictable UKEF processes to help SMEs scale.",
+      "turns": [
+        {
+          "speaker": "Dan Aldridge",
+          "text": "If you could change one thing about export controls to make them faster or clearer, what would it be?"
+        },
+        {
+          "speaker": "Simon R Tucker",
+          "text": "Speed and incentives. Processes sometimes stretch to the final day—push earlier decisions and give caseworkers incentives to act faster so commercial deals don't stall."
+        },
+        {
+          "speaker": "Nathan Mathiot",
+          "text": "Resourcing is key, and set clear deadlines for advisory departments. A quick 'no' with reasons is better than indefinite delay that kills a commercial opportunity."
+        },
+        {
+          "speaker": "Charlie Maynard",
+          "text": "On a different point: ADS members maintain Typhoons for Saudi Arabia while strikes continue in Yemen. Can firms know whether their maintenance supports strikes on civilians?"
+        },
+        {
+          "speaker": "Nathan Mathiot",
+          "text": "ADS expects members to follow the licensing regime and legal obligations. The specific operational question about how jets or munitions have been used is one we should write to the companies about—BAE and others."
+        },
+        {
+          "speaker": "Mr Reynolds",
+          "text": "How well does the Government's market prioritisation line up with industry views of the best export opportunities?"
+        },
+        {
+          "speaker": "Nathan Mathiot",
+          "text": "There's partial alignment but not perfect overlap: commercial priorities vary by capability and don't always match defence diplomacy goals. A shared, targeted list helps but needs constant upkeep."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Final advice in one line: what should Government do tomorrow to grow exports faster?"
+        },
+        {
+          "speaker": "Simon R Tucker",
+          "text": "Be more proactive—come alongside industry and act like you're doing a deal, not just administering paperwork."
+        },
+        {
+          "speaker": "Gareth Hedicker",
+          "text": "Be seamless and consistent across departments, and ask industry for ideas on where to add value."
+        },
+        {
+          "speaker": "Nathan Mathiot",
+          "text": "Treat exports as a national endeavour—not just commercial outcomes—and fix the customer experience: faster finance, clearer timelines, joined-up leadership."
+        }
+      ]
+    }
+  ]
+}

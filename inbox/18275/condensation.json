@@ -1,0 +1,270 @@
+{
+  "schema_version": 1,
+  "source_id": 18275,
+  "source_sha256": "35bd84b24104f8a58ee6956c32384941e58dd6be9cac6eac8505fecc819efab8",
+  "title": "Why UK SMEs struggle to export: costs, complexity and patchy support",
+  "label": "10 November 2026 · UK export support services",
+  "summary": "SMEs across manufacturing and food & drink say exporting is getting harder because of higher costs, new tariffs and complex rules. Government support helps in places—trade missions, business export managers and embassies can open doors—but it is uneven, hard to find and shrinking. Food and drink firms want more practical matchmaking and small-budget programmes; manufacturers say trade deals often favour services and big firms. Finance, currency volatility and time-consuming processes are persistent barriers.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Liam Byrne",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Lucy Monks",
+      "name": "Lucy Monks",
+      "role": "International Affairs Director, Federation of Small Businesses",
+      "kind": "witness"
+    },
+    {
+      "label": "Balwinder Dhoot",
+      "name": "Balwinder Dhoot",
+      "role": "Director of Sustainability and Growth, Food and Drink Federation",
+      "kind": "witness"
+    },
+    {
+      "label": "Nick Cockayne",
+      "name": "Nick Cockayne",
+      "role": "Managing Director, Rappa Fencing Ltd",
+      "kind": "witness"
+    },
+    {
+      "label": "Nick Smith",
+      "name": "Nick Smith",
+      "role": "Chairman, Avon Specialty Metals",
+      "kind": "witness"
+    },
+    {
+      "label": "Dan Aldridge",
+      "name": "Dan Aldridge",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Alison Griffiths",
+      "name": "Alison Griffiths",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Antonia Bance",
+      "name": "Antonia Bance",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Nesil Caliskan",
+      "name": "Nesil Caliskan",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Mr Reynolds",
+      "name": "Mr Joshua Reynolds",
+      "role": "Committee Member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "UK Export Finance",
+      "definition": "The UK government's export credit agency that provides loans, guarantees and insurance to help UK exporters."
+    },
+    {
+      "term": "free trade agreement",
+      "definition": "A government-to-government deal that lowers tariffs and trade barriers between countries."
+    },
+    {
+      "term": "SPS agreement",
+      "definition": "Rules on sanitary and phytosanitary measures—health and safety checks on food and plants at borders."
+    },
+    {
+      "term": "REACH",
+      "definition": "An EU chemical regulation that UK firms had to adjust to as a non-EU entity after Brexit."
+    },
+    {
+      "term": "tariff",
+      "definition": "A tax or duty charged on goods moving between countries."
+    },
+    {
+      "term": "letter of credit",
+      "definition": "A bank guarantee used in international trade that assures payment to a seller if conditions are met."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "How hard is exporting for UK SMEs?",
+      "takeaway": "Exporting is getting harder: weak export growth, higher costs and border rules are pushing small firms out of markets they used to serve.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Let's start broadly: Lucy, what does the current exporting environment look like for SMEs?"
+        },
+        {
+          "speaker": "Lucy Monks",
+          "text": "It's tough. Our data shows export growth has been negative since about 2019 and recent global shocks have made things worse. Tariffs, higher transport costs due to conflicts, and new overseas rules are reducing SME exports."
+        },
+        {
+          "speaker": "Dan Aldridge",
+          "text": "How many SMEs would like to export but don't?"
+        },
+        {
+          "speaker": "Lucy Monks",
+          "text": "From a survey a couple of years ago, about a third of non-exporting SMEs said they'd like to export. Also, many businesses that used to export have stopped."
+        },
+        {
+          "speaker": "Dan Aldridge",
+          "text": "Why are they stopping—Brexit, tariffs, or proximity to markets?"
+        },
+        {
+          "speaker": "Lucy Monks",
+          "text": "Multiple reasons. Proximity matters—EU trade used to be straightforward. New paperwork, costs and regulations made some passive exporters withdraw rather than learn new rules."
+        },
+        {
+          "speaker": "Nick Smith",
+          "text": "For my business in aerospace, the US tariffs have been very damaging: two years ago 40% of exports were to the US, now it's 3%. Tariffs on materials pushed buyers and suppliers to other routes."
+        },
+        {
+          "speaker": "Nick Cockayne",
+          "text": "We're a small manufacturer and have grown from £5.1m to over £8m. Exports rose from £200k to £1.5m because we actively sought overseas business—but finding effective help was hard and inconsistent."
+        }
+      ]
+    },
+    {
+      "title": "What support works — and what doesn't",
+      "takeaway": "Direct, practical help matters: relationship-building, business export managers and local embassy support can open markets, but funding and capacity have been cut and support is uneven.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Nick, what government support helped you and where did it fail?"
+        },
+        {
+          "speaker": "Nick Cockayne",
+          "text": "Business export managers were great: they learned our product, opened doors and got us invited to key events like CattleCon in the US where we won a major prize. That led to real sales."
+        },
+        {
+          "speaker": "Nick Cockayne",
+          "text": "But government funding has dropped; business export manager numbers were halved earlier this year, and some reverse trade missions funding was removed. UK stands at big European shows can be underwhelming too."
+        },
+        {
+          "speaker": "Alison Griffiths",
+          "text": "Is embassy support consistent across countries?"
+        },
+        {
+          "speaker": "Nick Smith",
+          "text": "It varies. In Japan we grew because we hired a Japanese speaker to get past gatekeepers. Embassies help in the US, Australia and Thailand, but much of business is still manufacturer-to-manufacturer relationships."
+        },
+        {
+          "speaker": "Nick Cockayne",
+          "text": "We had excellent embassy help in the US and Thailand, but in Europe we often had to just crack on ourselves—support there felt limited."
+        },
+        {
+          "speaker": "Balwinder Dhoot",
+          "text": "For food and drink the problem is complexity: health certificates, origin rules and labelling make exports among the hardest. Market-access work from DEFRA helps, but manufacturers need more commercial matchmaking—finding buyers and facilitating deals."
+        },
+        {
+          "speaker": "Mr Reynolds",
+          "text": "Which government services are most and least useful?"
+        },
+        {
+          "speaker": "Balwinder Dhoot",
+          "text": "Market access work helps producers, but businesses selling branded or processed products need help finding buyers. Export promotion that brings buyers to suppliers works well but costs money."
+        },
+        {
+          "speaker": "Lucy Monks",
+          "text": "A key issue is awareness: the support that exists isn't always visible or easy to navigate. The Department has improved SME guidance, but businesses that want to scale up and aren't in priority sectors fall into a gap."
+        }
+      ]
+    },
+    {
+      "title": "Trade deals, sectors and who benefits",
+      "takeaway": "Firms feel trade deals and industrial strategy focus on services and big companies, leaving many SMEs unsure how they benefit unless help is translated into practical, local support.",
+      "turns": [
+        {
+          "speaker": "Antonia Bance",
+          "text": "Are the Government focusing too narrowly on priority sectors?"
+        },
+        {
+          "speaker": "Balwinder Dhoot",
+          "text": "There are choices to make, but food and drink is the biggest UK manufacturing sector and is present across every region. Prioritising other sectors while withdrawing general support risks missing growth in places outside the chosen sectors."
+        },
+        {
+          "speaker": "Antonia Bance",
+          "text": "How much would fixing that cost?"
+        },
+        {
+          "speaker": "Balwinder Dhoot",
+          "text": "We estimate an England-level programme to plug the gap could be about £2.6m—modest nationally—and would deliver strong returns if focused on export support and matchmaking."
+        },
+        {
+          "speaker": "Nick Cockayne",
+          "text": "From SMEs' view, free trade agreements often feel irrelevant—'they affect the 1%'. SMEs want practical, local advice: who to meet, how to price, and how to get into trade shows—not abstract deal headlines."
+        },
+        {
+          "speaker": "Lucy Monks",
+          "text": "Agreed. Trade chapters for SMEs and on-the-ground translation of FTA benefits are vital so smaller firms can see and use opportunities."
+        },
+        {
+          "speaker": "Balwinder Dhoot",
+          "text": "Also, trade deals should be informed by better data. For example, high tariffs kept some products out of markets so data wrongly showed there was no trade to liberalise—data-driven market identification is needed."
+        }
+      ]
+    },
+    {
+      "title": "Finance, time and practical barriers",
+      "takeaway": "Finance and paperwork are big practical obstacles: UKEF is improving but hard to access; banks ignore small export deals; currency volatility and long application times eat management time.",
+      "turns": [
+        {
+          "speaker": "Nesil Caliskan",
+          "text": "Is UK Export Finance serving SMEs well? Do they qualify easily?"
+        },
+        {
+          "speaker": "Lucy Monks",
+          "text": "UKEF has improved outreach and tailored products, but awareness was low and some SMEs find eligibility thresholds or complexity off-putting. It will take time to see results."
+        },
+        {
+          "speaker": "Nick Cockayne",
+          "text": "We used UKEF but only found it by searching. The process was complex and took over a year to get a half‑million‑pound trade loan. For a small business, that level of time commitment is huge—one person drove it nearly full time."
+        },
+        {
+          "speaker": "Nick Cockayne",
+          "text": "Also, banks often won't prioritise small letters of credit under about £10m, so smaller deals take longer and get less attention."
+        },
+        {
+          "speaker": "Mr Reynolds",
+          "text": "How about currency risk—does that bite?"
+        },
+        {
+          "speaker": "Nick Smith",
+          "text": "Currency volatility matters a lot. We buy in different currencies and sell in others; a sudden dollar‑pound move can swing a month's results. Firms need practical help with hedging and managing that risk."
+        },
+        {
+          "speaker": "Chair",
+          "text": "To finish: what's the single most practical thing government could do that would help SMEs export more?"
+        },
+        {
+          "speaker": "Balwinder Dhoot",
+          "text": "Create a small, targeted, data‑driven export programme for food and drink—match buyers with suppliers, simplify border friction, and fund buyer visits."
+        },
+        {
+          "speaker": "Nick Cockayne",
+          "text": "Keep business export managers and fund reverse missions; put someone in a room to introduce SMEs to the right distributors and buyers."
+        },
+        {
+          "speaker": "Lucy Monks",
+          "text": "Translate trade deals for SMEs, fund local matchmaking, and raise awareness of existing support so small firms know what help is available and how to access it."
+        },
+        {
+          "speaker": "Nick Smith",
+          "text": "Give better visibility of major buyers abroad and practical help on currency and contracts—help firms find the people with real purchasing power."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you all. This evidence—on costs, fragmentation of support, and the need for practical outreach—will really help our inquiry."
+        }
+      ]
+    }
+  ]
+}

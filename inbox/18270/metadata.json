@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18270,
+  "activity_id": 38937,
+  "document_id": 311162,
+  "meeting_date": "2026-10-20",
+  "meeting_date_display": "20 October 2026",
+  "publication_date": "2026-11-11T13:42:12",
+  "title": "General Election Planning",
+  "committee": "Administration Committee",
+  "committees": [
+    {
+      "id": 2,
+      "name": "Administration Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9437,
+      "title": "General Election Planning",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [],
+  "speaker_candidates": [
+    "Chair",
+    "Kim McGrath",
+    "Karen Walker",
+    "Karen Lacey",
+    "We always do an annual survey",
+    "Marie Goldman",
+    "Mary Glindon",
+    "Alberto Costa",
+    "Kirsteen Sullivan",
+    "Tessa Munt",
+    "Bambos Charalambous",
+    "Mr Barros-Curtis"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18270/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18270",
+  "source_sha256": "b000c027419a5e9519cfe37d3188d1ba1e5eb54e10e134b786c7e8e59dd063bb",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

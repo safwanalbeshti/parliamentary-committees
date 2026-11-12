@@ -1,0 +1,334 @@
+{
+  "schema_version": 1,
+  "source_id": 18271,
+  "source_sha256": "63e2bee057d1bdd3744322e37084e1a893ceaa4f9a1ff6939fca03ea3a20df6c",
+  "title": "Russia: repression at home, hybrid attacks abroad, and how the West should respond",
+  "label": "10 November 2026 · Russia inquiry",
+  "summary": "Former Russian political prisoner Vladimir Kara‑Murza described assassination attempts, imprisonment and the scale of political repression in Russia and urged that political prisoners be written into any ceasefire. A second panel—former Baltic ministers and a Chatham House expert—debated whether to call Russia’s covert attacks ‘hybrid warfare’ or something stronger, the difficulty of attributing sabotage, how those attacks aim to weaken Western support for Ukraine, and practical ideas for deterrence including clearer escalation “rungs”, coalitions of the willing and a strengthened northern security grouping.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Sir John Whittingdale",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Vladimir Kara-Murza",
+      "name": "Vladimir Kara-Murza",
+      "role": "Russian opposition politician, author and former political prisoner",
+      "kind": "witness"
+    },
+    {
+      "label": "Gabrielius Landsbergis",
+      "name": "Gabrielius Landsbergis",
+      "role": "Former Foreign Minister of Lithuania (2020–24), visiting fellow, Stanford University",
+      "kind": "witness"
+    },
+    {
+      "label": "Marija Golubeva",
+      "name": "Marija Golubeva",
+      "role": "Former Minister of the Interior of Latvia, fellow at the Robert Bosch Academy",
+      "kind": "witness"
+    },
+    {
+      "label": "Grégoire Roos",
+      "name": "Grégoire Roos",
+      "role": "Director, Europe, Russia and Eurasia Programmes, Chatham House",
+      "kind": "witness"
+    },
+    {
+      "label": "Alex Ballinger",
+      "name": "Alex Ballinger",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Abtisam Mohamed",
+      "name": "Abtisam Mohamed",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Jessica Toale",
+      "name": "Jessica Toale",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Richard Foord",
+      "name": "Richard Foord",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Fleur Anderson",
+      "name": "Fleur Anderson",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Magnitsky sanctions",
+      "definition": "Targeted visa bans and asset freezes against individuals responsible for human-rights abuses or corruption."
+    },
+    {
+      "term": "FSB",
+      "definition": "Russia’s main security service, successor to the KGB."
+    },
+    {
+      "term": "gulag",
+      "definition": "Soviet-era term for the system of political prisons; used here to mean Russia’s network of political imprisonment."
+    },
+    {
+      "term": "OSCE",
+      "definition": "Organisation for Security and Co‑operation in Europe, an intergovernmental security body."
+    },
+    {
+      "term": "Parliamentary Assembly of the Council of Europe",
+      "definition": "A forum where European parliamentarians meet to discuss rights, democracy and the rule of law."
+    },
+    {
+      "term": "hybrid warfare",
+      "definition": "A mix of covert attacks, cyberattacks, disinformation and sabotage that stops short of open military invasion."
+    },
+    {
+      "term": "Joint Expeditionary Force (JEF)",
+      "definition": "A UK‑led security grouping of northern European countries used for rapid military cooperation."
+    },
+    {
+      "term": "article 5",
+      "definition": "NATO’s mutual defence clause requiring allies to consider an attack on one as an attack on all."
+    },
+    {
+      "term": "coalition of the willing",
+      "definition": "A smaller group of countries acting together when larger institutions cannot agree."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Who Vladimir Kara‑Murza is and why he speaks",
+      "takeaway": "Kara‑Murza described long-term opposition activity, two poisonings, a 25‑year sentence for speech, and his release in a major prisoner swap.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Mr Kara‑Murza, will you introduce yourself and tell us about your experience as an opponent of Putin?"
+        },
+        {
+          "speaker": "Vladimir Kara-Murza",
+          "text": "I worked with Boris Nemtsov as an opposition politician and helped push the original Magnitsky sanctions. I was poisoned twice—2015 and 2017—by agents later identified by Bellingcat and others. Both times I nearly died."
+        },
+        {
+          "speaker": "Vladimir Kara-Murza",
+          "text": "When Putin launched the full‑scale invasion of Ukraine in 2022, Russia criminalised dissent, shut independent media and arrested opponents. I was arrested in April 2022 and sentenced to 25 years for five public speeches."
+        },
+        {
+          "speaker": "Vladimir Kara-Murza",
+          "text": "In August 2024 I was unexpectedly freed in a large east‑west prisoner exchange organised by the US and Germany that released 16 people, half of them Russian political prisoners."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Since leaving Russia, have threats continued?"
+        },
+        {
+          "speaker": "Vladimir Kara-Murza",
+          "text": "Yes. The FBI warned me in November 2025 there is an active assassination order from Russia. I get regular warnings, but I try not to live in fear and focus on my advocacy."
+        }
+      ]
+    },
+    {
+      "title": "The scale and human cost of repression",
+      "takeaway": "Kara‑Murza urged keeping political prisoners central to diplomacy and any ceasefire, noting thousands of cases and dozens of deaths in custody.",
+      "turns": [
+        {
+          "speaker": "Vladimir Kara-Murza",
+          "text": "Memorial counts over 5,800 politically motivated criminal cases in Russia; roughly 2,000 people have been verified as political prisoners under the Council of Europe definition."
+        },
+        {
+          "speaker": "Vladimir Kara-Murza",
+          "text": "Since February 2022 at least 69 political prisoners have died in custody. This is about saving lives, not abstract politics. Any ceasefire must include release of captives—Ukrainian detainees, stolen children and Russian political prisoners."
+        },
+        {
+          "speaker": "Alex Ballinger",
+          "text": "What can the UK do now to help political prisoners and push for their inclusion in negotiations?"
+        },
+        {
+          "speaker": "Vladimir Kara-Murza",
+          "text": "Keep silent where necessary during talks, but insist publicly and in private that any deal includes releases. The 2024 exchange succeeded because Western states insisted Russia free Russian political prisoners as well as their own citizens."
+        },
+        {
+          "speaker": "Vladimir Kara-Murza",
+          "text": "I also appeal for continued public attention—political prisoners’ worst fear is to be forgotten. Parliaments and public campaigns matter."
+        }
+      ]
+    },
+    {
+      "title": "How the West’s policy and messaging look from inside",
+      "takeaway": "Kara‑Murza warned Western policy is split between appeasement and vilifying all Russians; he urged firm stance against Putin while keeping dialogue with Russian society.",
+      "turns": [
+        {
+          "speaker": "Alex Ballinger",
+          "text": "You wrote that Western policy is incoherent. Can you explain?"
+        },
+        {
+          "speaker": "Vladimir Kara-Murza",
+          "text": "Yes. Two dangerous extremes exist: some want business as usual with Putin; others try to vilify all Russians. We need a middle way—stand firm against Putin while maintaining dialogue with Russians who oppose the regime."
+        },
+        {
+          "speaker": "Vladimir Kara-Murza",
+          "text": "Recent examples worry me: Canada and France easing sanctions on key Kremlin associates with no concessions in return sends the wrong signal and weakens accountability."
+        },
+        {
+          "speaker": "Jessica Toale",
+          "text": "What practical support would help the exiles and opposition?"
+        },
+        {
+          "speaker": "Vladimir Kara-Murza",
+          "text": "Moral support matters. Fund independent media and civil society in exile; support institutional dialogue platforms like the Council of Europe’s opposition platform, and keep political prisoners on the agenda."
+        }
+      ]
+    },
+    {
+      "title": "Can Putin be replaced, and how should the West prepare?",
+      "takeaway": "Kara‑Murza believes change will be sudden and unpredictable; the West should prepare for a post‑Putin transition and condition offers to elites on rupturing with the regime.",
+      "turns": [
+        {
+          "speaker": "Abtisam Mohamed",
+          "text": "Do you see a pathway for a change of Government in Russia, and is Putin preparing a successor?"
+        },
+        {
+          "speaker": "Vladimir Kara-Murza",
+          "text": "When governments can’t be changed at the ballot box, change comes suddenly. Putin is paranoid and trusts no one; I don’t think he is grooming a successor. The regime is personalist and will likely fragment when he goes."
+        },
+        {
+          "speaker": "Vladimir Kara-Murza",
+          "text": "The West should prepare now: plans for transitional governance, legal accountability and support for civil society when the window opens—those months will be brief and chaotic."
+        },
+        {
+          "speaker": "Abtisam Mohamed",
+          "text": "Are there divisions among elites we could exploit?"
+        },
+        {
+          "speaker": "Vladimir Kara-Murza",
+          "text": "There is infighting and resentment among elites who lost Western assets to sanctions. A credible path back to markets could be offered, but only with clear conditions: public break with the regime and the war."
+        }
+      ]
+    },
+    {
+      "title": "What ‘hybrid warfare’ means and why it matters",
+      "takeaway": "Panelists agreed Russia uses covert attacks, sabotage, cyber and disinformation to weaken European cohesion and test thresholds, and that attribution is hard but vital.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Is the term 'hybrid warfare' helpful to describe Russia’s activity in Europe?"
+        },
+        {
+          "speaker": "Marija Golubeva",
+          "text": "I still find it useful because it distinguishes sub‑threshold attacks from conventional war; the response needs to be different, though we must recognise the serious danger."
+        },
+        {
+          "speaker": "Gabrielius Landsbergis",
+          "text": "Words matter. Calling these acts 'hybrid' has sometimes allowed only weak responses. I prefer 'war' or 'state terrorism' in some cases, because that would trigger stronger deterrence."
+        },
+        {
+          "speaker": "Grégoire Roos",
+          "text": "Russia likes ambiguous tools: low cost, high effect, hard to attribute. They hire locals, use cyber and disinformation to stir unrest and shift attention away from Ukraine."
+        },
+        {
+          "speaker": "Marija Golubeva",
+          "text": "Targets tend to be energy, transport and other infrastructure that hold Europe together. The goal is breaking EU and NATO cohesion and returning Europe to dependence on Russian fossil fuels."
+        },
+        {
+          "speaker": "Gabrielius Landsbergis",
+          "text": "Operationally the aim is to limit our ability to help Ukraine and to create leverage in any negotiations—if we fear escalation, we may be easier to pressure."
+        },
+        {
+          "speaker": "Jessica Toale",
+          "text": "Should NATO set defined red lines for hybrid attacks?"
+        },
+        {
+          "speaker": "Marija Golubeva",
+          "text": "Yes: NATO needs an escalation framework with rungs. Also allies should share more about their sovereign cyber actions to avoid dangerous blind spots."
+        },
+        {
+          "speaker": "Grégoire Roos",
+          "text": "Attribution must be more robust and better communicated. E3 coordination (UK, France, Germany) could help, but political changes in capitals make quick joint action harder."
+        },
+        {
+          "speaker": "Richard Foord",
+          "text": "How can states inform the public without revealing sources or sounding alarmist?"
+        },
+        {
+          "speaker": "Grégoire Roos",
+          "text": "Publish enough evidence to justify decisions while protecting sources. Invest in public pedagogy so voters trust attribution when it's made."
+        },
+        {
+          "speaker": "Marija Golubeva",
+          "text": "Governments must also combat the immediate flood of disinformation—poisoning of large language models and fake sites exploit any attribution gap to sow doubt."
+        }
+      ]
+    },
+    {
+      "title": "Deterrence, coalitions and the prospects for ceasefire talks",
+      "takeaway": "Experts urged clearer escalation rules, better attribution, coalitions like JEF and the coalition of the willing to shore up Ukraine, and warned political shifts in Europe could weaken support.",
+      "turns": [
+        {
+          "speaker": "Alex Ballinger",
+          "text": "Has the coalition of the willing lived up to expectations for Ukraine?"
+        },
+        {
+          "speaker": "Gabrielius Landsbergis",
+          "text": "It helped politically but failed to produce the decisive military or financial support expected. It must become a 'coalition of the doing'—countries taking concrete responsibility."
+        },
+        {
+          "speaker": "Grégoire Roos",
+          "text": "Politically it sent important signals and helped synchronise sanctions early on. Militarily its impact is limited; more coordination and clarity on instruments are needed."
+        },
+        {
+          "speaker": "Fleur Anderson",
+          "text": "What would credible security guarantees look like in a ceasefire?"
+        },
+        {
+          "speaker": "Grégoire Roos",
+          "text": "Five tests: preserve Ukraine’s army; define who judges violations; specify which instruments guarantors will provide; set durable timescales; and make enforcement and reimposition of sanctions rapid and irreversible."
+        },
+        {
+          "speaker": "Gabrielius Landsbergis",
+          "text": "If NATO membership for Ukraine is impossible now, an interim option is a strengthened northern/central umbrella—JEF expanded—to bring Ukraine closer to European security structures under UK leadership."
+        },
+        {
+          "speaker": "Marija Golubeva",
+          "text": "Prepare for political shifts: the French election could change EU funding. Allies should form variable coalitions of the willing, share intelligence, and build joint response centres to anticipate threats."
+        },
+        {
+          "speaker": "Gabrielius Landsbergis",
+          "text": "Ultimately, Russia’s plan counts on Western funding gaps. Europe should guarantee multi‑year financing for Ukraine so Putin cannot wait out Western support."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. Any final points?"
+        },
+        {
+          "speaker": "Vladimir Kara-Murza",
+          "text": "Keep political prisoners central in policy and talks. Stand firm on sanctions and accountability, but keep channels to Russian society and prepare for a post‑Putin transition."
+        },
+        {
+          "speaker": "Gabrielius Landsbergis",
+          "text": "Secure money for Ukraine now, strengthen coalitions that will act, and make clear the conditions for any easing of sanctions: a public break with the regime and the war."
+        },
+        {
+          "speaker": "Marija Golubeva",
+          "text": "Define escalation rungs, share cyber strategies, and invest in joint intelligence fusing so hybrid attacks can be foreseen and deterred."
+        },
+        {
+          "speaker": "Grégoire Roos",
+          "text": "Improve attribution transparency where possible, coordinate E3 responses, and make sanctions enforcement faster and harder to unwind."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you all; the Committee will follow developments closely and may call you again."
+        }
+      ]
+    }
+  ]
+}

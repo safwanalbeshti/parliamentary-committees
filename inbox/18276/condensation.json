@@ -1,0 +1,304 @@
+{
+  "schema_version": 1,
+  "source_id": 18276,
+  "source_sha256": "d0145aa995a5327f8e99b73b6f2833f6cea981490a2ecda8f2a83d4d4f0f9429",
+  "title": "Building homes, planning power and local government: Rayner and Riordan before the Committee",
+  "label": "11 November 2026 · MHCLG evidence session",
+  "summary": "Secretary of State Angela Rayner and Permanent Secretary Tom Riordan answered MPs on housing delivery (including the 1.5 million homes pledge), social and council housebuilding, planning reforms, new towns, devolution and local government reorganisation, rough sleeping funding, and problems from organised crime exploiting planning. Rayner rejects abandoning the 1.5 million target despite admitting it is challenging; she defended planning changes and set a timeline for new towns and leasehold reform, while ministers committed extra rough-sleeping funding and steps on fire and supported-housing issues.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Ms Abena Oppong-Asare",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Angela Rayner",
+      "name": "Rt Hon Angela Rayner MP",
+      "role": "Secretary of State for Housing, Communities and Local Government",
+      "kind": "witness"
+    },
+    {
+      "label": "Tom Riordan",
+      "name": "Tom Riordan",
+      "role": "Permanent Secretary, Ministry of Housing, Communities and Local Government",
+      "kind": "witness"
+    },
+    {
+      "label": "Gagan Mohindra",
+      "name": "Mr Gagan Mohindra",
+      "role": "Committee member (MP for South West Hertfordshire)",
+      "kind": "member"
+    },
+    {
+      "label": "Lewis Cocking",
+      "name": "Lewis Cocking",
+      "role": "Committee member (MP for Broxbourne)",
+      "kind": "member"
+    },
+    {
+      "label": "Mr Brash",
+      "name": "Mr Jonathan Brash",
+      "role": "Committee member (MP for Hartlepool)",
+      "kind": "member"
+    },
+    {
+      "label": "Will Forster",
+      "name": "Mr Will Forster",
+      "role": "Committee member (MP for Woking)",
+      "kind": "member"
+    },
+    {
+      "label": "Andrew Cooper",
+      "name": "Andrew Cooper",
+      "role": "Committee member (MP for Mid Cheshire)",
+      "kind": "member"
+    },
+    {
+      "label": "Chris Curtis",
+      "name": "Chris Curtis",
+      "role": "Committee member (MP for Milton Keynes North)",
+      "kind": "member"
+    },
+    {
+      "label": "Alan Strickland",
+      "name": "Alan Strickland",
+      "role": "Committee member (MP for Newton Aycliffe and Spennymoor)",
+      "kind": "member"
+    },
+    {
+      "label": "Sagal Abdi-Wali",
+      "name": "Sagal Abdi-Wali",
+      "role": "Committee member (MP for Holborn and St Pancras)",
+      "kind": "member"
+    },
+    {
+      "label": "Ashley Dalton",
+      "name": "Ashley Dalton",
+      "role": "Committee member (MP for West Lancashire)",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "local plan",
+      "definition": "A local authority's blueprint saying where housing and development should go in its area."
+    },
+    {
+      "term": "Right to Buy",
+      "definition": "A scheme that lets council tenants buy their homes, with rules on how councils keep and use the receipts."
+    },
+    {
+      "term": "unitary authority",
+      "definition": "A single local council that replaces separate county and district councils for an area."
+    },
+    {
+      "term": "exempt accommodation",
+      "definition": "Special housing for people with support needs that has different rules on housing benefit and regulation."
+    },
+    {
+      "term": "local government reorganisation (LGR)",
+      "definition": "Government-led changes to council structures, such as creating unitary authorities or combined authorities."
+    },
+    {
+      "term": "new towns",
+      "definition": "Planned, large-scale new settlements designed and designated by government to deliver thousands of homes."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The 1.5 million homes pledge: ambition vs reality",
+      "takeaway": "Rayner insists the 1.5 million homes target remains the Government’s aim but admits it's a stretch given higher construction costs and global shocks.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "You set a 1.5 million homes target. With current pressures and higher building costs, what is now a realistic target before the next election?"
+        },
+        {
+          "speaker": "Angela Rayner",
+          "text": "I won't concede defeat on 1.5 million. Costs have risen—construction is about 40% pricier—and the global situation has made delivery harder, but we've built 437,900 homes since we took office and starts are up. I'm chairing a national housing delivery board next week to speed things up."
+        },
+        {
+          "speaker": "Tom Riordan",
+          "text": "Putting a percentage chance on hitting 1.5 million is hard. The key is consistent planning and delivery: get local plans in place, keep decisions steady, and bring multidisciplinary teams together. Some areas show it can be done; the target is stretching but we should keep the ambition."
+        },
+        {
+          "speaker": "Gagan Mohindra",
+          "text": "Given your local-government experience, do you see the 1.5 million as achievable? Where should we look for evidence that delivery is on track?"
+        },
+        {
+          "speaker": "Tom Riordan",
+          "text": "The starts rising and the social-and-affordable-homes funding (£40bn committed overall, a big £10bn package pushed quickly out) show progress. But it remains a very stretching target and depends on consistent local leadership and developer confidence."
+        }
+      ]
+    },
+    {
+      "title": "Social housing, councils and housing associations",
+      "takeaway": "Government is tilting funding towards council housebuilding but still supports housing associations; capacity and funding remain constraints.",
+      "turns": [
+        {
+          "speaker": "Andrew Cooper",
+          "text": "Are you shifting policy to prioritise council housebuilding over housing associations, and can councils actually scale up?"
+        },
+        {
+          "speaker": "Angela Rayner",
+          "text": "We're supporting councils more—changes to Right to Buy, keeping receipts, capacity funding (£63m), and the £10bn social-and-affordable grant—but housing associations still play a key role. Some councils lack capacity; we’re helping them build it."
+        },
+        {
+          "speaker": "Andrew Cooper",
+          "text": "Is there a risk delivery slows if you push too much toward councils that transferred stock and lack developer capacity?"
+        },
+        {
+          "speaker": "Angela Rayner",
+          "text": "That's why allocations were shared; we funded both councils and associations. The aim is more social-rent homes overall, not disadvantaging housing associations."
+        }
+      ]
+    },
+    {
+      "title": "Planning changes and organised crime concerns",
+      "takeaway": "Ministers say planning reforms make decisions more objective and speed delivery; MPs worry councillors' powers have been reduced and criminals are exploiting planning weaknesses.",
+      "turns": [
+        {
+          "speaker": "Lewis Cocking",
+          "text": "You've been accused of removing councillors' powers to determine planning applications via a national scheme of delegation. Is that true?"
+        },
+        {
+          "speaker": "Angela Rayner",
+          "text": "No. We reintroduced mandatory local plans and made decision criteria more objective. Some officers will approve minor, clearly defined cases under consistent rules; councillors still decide significant schemes. The aim is consistency and fewer speculative one-off decisions."
+        },
+        {
+          "speaker": "Lewis Cocking",
+          "text": "Councils are cancelling planning meetings and say call-ins are harder. Residents feel developers can submit applications for any bit of land."
+        },
+        {
+          "speaker": "Angela Rayner",
+          "text": "Most councils adopted the new regime; a small number missed the 31 October deadline and by doing so lose powers they might otherwise have exercised. I’m willing to explain the changes locally to concerned residents."
+        },
+        {
+          "speaker": "Alan Strickland",
+          "text": "Serious organised-crime gangs are exploiting planning rules: applicants don't need full identity details and councils can't always investigate funding sources. Will you act?"
+        },
+        {
+          "speaker": "Tom Riordan",
+          "text": "The planning system intentionally looks at land use, not the applicant. It is an offence to knowingly give false information and local authorities have enforcement powers. But where criminality is suspected, councils must work closely with police; we will keep the system under review."
+        },
+        {
+          "speaker": "Angela Rayner",
+          "text": "I recognise the problem. We've set up a group to look at how planning and law enforcement can better spot and stop criminals using planning, and to strengthen local plans and enforcement."
+        }
+      ]
+    },
+    {
+      "title": "New towns, devolution and local government reorganisation",
+      "takeaway": "New towns are still planned but not immediate; devolution is led strategically by No.10 North while MHCLG handles delivery, and LGR has been paused for careful review.",
+      "turns": [
+        {
+          "speaker": "Chris Curtis",
+          "text": "When will the first new town be designated? The consultation seemed slow."
+        },
+        {
+          "speaker": "Tom Riordan",
+          "text": "Decisions and announcements are due early next year—not June—so nearer January. The Government aims for spades in the ground on at least three new towns this Parliament."
+        },
+        {
+          "speaker": "Ashley Dalton",
+          "text": "On devolution and 'rewiring the state', who leads decisions and who resolves disputes between councils and mayors?"
+        },
+        {
+          "speaker": "Angela Rayner",
+          "text": "No.10 North sets the overall strategy and convenes Ministers; my Department leads the devolution programme and negotiates deals. Ultimately big political disputes could land at the Prime Minister or National Economic Council, but the aim is to solve them locally."
+        },
+        {
+          "speaker": "Will Forster",
+          "text": "You paused local government reorganisation (LGR). What have you learned and when will people see benefits?"
+        },
+        {
+          "speaker": "Angela Rayner",
+          "text": "I paused decisions to examine the papers and avoid mistakes; LGR can be contentious and litigated. We want the reform to be durable, to realise savings and better service integration; some areas will see elections this year and vesting next year."
+        },
+        {
+          "speaker": "Lewis Cocking",
+          "text": "Is there solid evidence unitary councils and metro mayors save money or work in rural shire areas?"
+        },
+        {
+          "speaker": "Tom Riordan",
+          "text": "Evidence varies. North Yorkshire shows significant savings; other cases are mixed. The key benefits are service integration (waste, social care, skills and transport) and clearer local accountability, but gains take time to materialise."
+        },
+        {
+          "speaker": "Chris Curtis",
+          "text": "What about councils vetoing devolution deals and blocking regional benefit?"
+        },
+        {
+          "speaker": "Angela Rayner",
+          "text": "The Government has used a 'carrot' of funding and powers to encourage deals. I wanted stronger protections against vetoes but didn't get that amendment through the Lords. Areas refusing deals must answer why they block investment."
+        }
+      ]
+    },
+    {
+      "title": "Homelessness, rough sleeping and other urgent issues",
+      "takeaway": "Ministers announced multi-year rough-sleeping funding, plan licensing for supported housing, will introduce leasehold reform, and have provided extra fire and enforcement support.",
+      "turns": [
+        {
+          "speaker": "Sagal Abdi-Wali",
+          "text": "The Chancellor added £432m to rough-sleeping funding, taking it to £874m. How will this be phased and delivered with local authorities and mayors?"
+        },
+        {
+          "speaker": "Angela Rayner",
+          "text": "The extra £432m covers years 2 and 3 so local areas can plan beyond winter. We've given immediate money for this winter and the rest was announced at the Budget to ensure sustained, predictable funding for local teams."
+        },
+        {
+          "speaker": "Andrew Cooper",
+          "text": "Prison early-release and returning asylum flows risk more homelessness. How are you coordinating with Justice and other Departments?"
+        },
+        {
+          "speaker": "Angela Rayner",
+          "text": "My interministerial group includes the MoJ and probation. Ministers are working to ensure pre-release plans, accommodation and probation support are in place so released prisoners don't end up sleeping rough and reoffending."
+        },
+        {
+          "speaker": "Tom Riordan",
+          "text": "The two extra years of funding is crucial: it lets local authorities recruit stable teams and plan. Delivery varies across places; we’ll convene councils and prison governors in high-need areas to improve execution."
+        },
+        {
+          "speaker": "Mr Brash",
+          "text": "On Grenfell: previous administrations delayed making the police investigation public. Why the delay?"
+        },
+        {
+          "speaker": "Angela Rayner",
+          "text": "Decisions were taken on legal advice to protect the police investigation. When the case moved to the CPS and the legal situation changed, we published the information."
+        },
+        {
+          "speaker": "Mr Brash",
+          "text": "Fire funding is uneven: Cleveland Fire faces a shortfall. Will you consider interim help before a full funding review in 2029?"
+        },
+        {
+          "speaker": "Angela Rayner",
+          "text": "We’ve increased funding (3.8% to Cleveland) and put in immediate support—£45m for equipment after wildfires—and will look at further help where needed. I’ll arrange a meeting with your office to discuss specifics."
+        },
+        {
+          "speaker": "Will Forster",
+          "text": "Leasehold reform: will the Bill be introduced before Christmas? Will it include an independent regulator for property managers?"
+        },
+        {
+          "speaker": "Angela Rayner",
+          "text": "Yes, we intend to introduce the leasehold and commonhold Bill before Christmas. It’s large and technical, so carry-over is possible. We are committed to a single independent regulator for property managing agents and are drafting the details."
+        },
+        {
+          "speaker": "Sagal Abdi-Wali",
+          "text": "When will licensing for exempt accommodation be up and working? Does the regime look strong enough?"
+        },
+        {
+          "speaker": "Angela Rayner",
+          "text": "We launched an eight-week consultation on draft regulations on 15 October and expect licensing by 2027. I’m not satisfied current oversight is strong enough, so the Department is working with DWP to tighten rules and clamp down on rogue providers."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. The Committee will continue to work with you, and we want updates on the national housing delivery board, new towns progress and the organised-crime/planning follow-up."
+        },
+        {
+          "speaker": "Angela Rayner",
+          "text": "We welcome the Committee's scrutiny and will keep you informed. The Department values the constructive role you play and we look forward to further sessions."
+        }
+      ]
+    }
+  ]
+}

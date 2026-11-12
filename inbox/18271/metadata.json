@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18271,
+  "activity_id": 39446,
+  "document_id": 311178,
+  "meeting_date": "2026-11-10",
+  "meeting_date_display": "10 November 2026",
+  "publication_date": "2026-11-11T14:09:35",
+  "title": "Russia",
+  "committee": "Foreign Affairs Committee",
+  "committees": [
+    {
+      "id": 78,
+      "name": "Foreign Affairs Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9929,
+      "title": "Russia",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Vladimir Kara-Murza",
+      "role": "",
+      "organisation": ""
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Witness",
+    "Chair",
+    "Vladimir Kara-Murza",
+    "The principle behind the legislation was very simple",
+    "My five counts of criminal offence were five public speeches that I had made",
+    "Alex Ballinger",
+    "Abtisam Mohamed",
+    "Jessica Toale",
+    "Richard Foord",
+    "Gabrielius Landsbergis",
+    "Marija Golubeva",
+    "Grégoire Roos",
+    "Fleur Anderson",
+    "The second is what I would call automaticity against authority"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18271/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18271",
+  "source_sha256": "63e2bee057d1bdd3744322e37084e1a893ceaa4f9a1ff6939fca03ea3a20df6c",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

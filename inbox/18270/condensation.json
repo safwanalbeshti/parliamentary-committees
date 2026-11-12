@@ -1,0 +1,344 @@
+{
+  "schema_version": 1,
+  "source_id": 18270,
+  "source_sha256": "b000c027419a5e9519cfe37d3188d1ba1e5eb54e10e134b786c7e8e59dd063bb",
+  "title": "Preparing MPs and their offices for a post-election surge",
+  "label": "20 October 2026 · General Election Planning",
+  "summary": "The panel from IPSA (Independent Parliamentary Standards Authority) and the House’s Members’ HR team reviewed how they supported MPs through the big turnover after the 2024 election. They said planning from late 2023, repurposing staff, named account managers, a cash advance and extended winding-up helped, but finding constituency offices, doing lease due diligence, getting London accommodation, recruiting trusted staff and handling equipment and FOI pressures remain tricky. They described pilots (IPSA-held leases, a pool of vetted temporary caseworkers, inter-office staff loans) and suggested clearer milestones, earlier candidate guidance and centralised services for the next election.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Nick Smith",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Karen Walker",
+      "name": "Karen Walker",
+      "role": "Chief Executive and Accounting Officer, Independent Parliamentary Standards Authority (IPSA)",
+      "kind": "witness"
+    },
+    {
+      "label": "Karen Lacey",
+      "name": "Karen Lacey",
+      "role": "Director of MP Services, Independent Parliamentary Standards Authority (IPSA)",
+      "kind": "witness"
+    },
+    {
+      "label": "Kim McGrath",
+      "name": "Kim McGrath",
+      "role": "Head of Members’ HR advice service, House of Commons",
+      "kind": "witness"
+    },
+    {
+      "label": "Marie Goldman",
+      "name": "Marie Goldman",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Mary Glindon",
+      "name": "Mary Glindon",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Alberto Costa",
+      "name": "Alberto Costa",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Kirsteen Sullivan",
+      "name": "Kirsteen Sullivan",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Tessa Munt",
+      "name": "Tessa Munt",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Bambos Charalambous",
+      "name": "Bambos Charalambous",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Mr Barros-Curtis",
+      "name": "Mr Alex Barros-Curtis",
+      "role": "Committee Member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "IPSA",
+      "definition": "Independent Parliamentary Standards Authority, which manages MPs’ pay, expenses and some services for their offices."
+    },
+    {
+      "term": "winding-up period",
+      "definition": "A fixed period after an election when departing MPs wrap up their parliamentary work and contracts."
+    },
+    {
+      "term": "constituency office",
+      "definition": "The local office an MP runs to meet constituents and handle casework."
+    },
+    {
+      "term": "Travel Office",
+      "definition": "The parliamentary office that books MPs' travel and accommodation."
+    },
+    {
+      "term": "staffing support fund",
+      "definition": "IPSA’s fund to help MPs pay for temporary or new staff."
+    },
+    {
+      "term": "inter-office staff loan scheme",
+      "definition": "A scheme allowing departing MPs' staff to work temporarily for new MPs to keep experienced people in the system."
+    },
+    {
+      "term": "FOI",
+      "definition": "Freedom of Information request, a public request for official documents or data."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "How IPSA and the House responded to 2024",
+      "takeaway": "IPSA started planning in late 2023, repurposed staff into election roles, and provided tailored support for new, returning and departing MPs.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "You told us your 2024 response was your most successful. What made it work?"
+        },
+        {
+          "speaker": "Karen Walker",
+          "text": "We planned from late 2023, reused our existing staff in election roles rather than hiring surge workers, learned from past elections, and gave tailored support to new, returning and departing MPs."
+        },
+        {
+          "speaker": "Karen Walker",
+          "text": "We gave every new MP a named account manager, offered a cash advance option, phased onboarding, more induction, and worked closely with House services to be joined-up."
+        },
+        {
+          "speaker": "Karen Lacey",
+          "text": "That agility helped us handle a record turnover: 350 MPs changed and 51% were first-time MPs."
+        },
+        {
+          "speaker": "Karen Walker",
+          "text": "Our post-election survey showed mixed but generally positive feedback: about 45% rated support highly, some rated it lower, and 23% didn’t answer."
+        }
+      ]
+    },
+    {
+      "title": "Finding and running constituency offices",
+      "takeaway": "Securing offices is one of the hardest tasks; IPSA is trialling holding leases to reduce the burden but due diligence and timing create challenges.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Many new MPs found setting up constituency offices overwhelming. How can IPSA simplify that?"
+        },
+        {
+          "speaker": "Karen Lacey",
+          "text": "We’ve simplified the property-registration process and shifted responsibility from a central property team to individual account managers to speed things up and give direct support."
+        },
+        {
+          "speaker": "Karen Lacey",
+          "text": "We’re trialling IPSA taking on leases: we’ve signed two leases so far and have five in the pipeline—this removes the admin burden for MPs."
+        },
+        {
+          "speaker": "Marie Goldman",
+          "text": "Why is IPSA’s lease due diligence challenging?"
+        },
+        {
+          "speaker": "Karen Lacey",
+          "text": "Because IPSA must survey buildings, pay legal fees and negotiate right-to-occupy terms—it’s more resource-intensive than an MP signing their own lease, but it protects staff and public money."
+        },
+        {
+          "speaker": "Marie Goldman",
+          "text": "Is IPSA lowering standards for MPs who take their own leases?"
+        },
+        {
+          "speaker": "Karen Lacey",
+          "text": "No. Our aim is to help MPs conduct proper checks or take the lease on their behalf so staff have safe premises."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Could IPSA keep a list of available offices and offer turnkey handovers from departing MPs?"
+        },
+        {
+          "speaker": "Karen Walker",
+          "text": "Yes—we’re asking for two-month break clauses on leases and want to create property lists so a new MP can choose to take an existing secure, equipped office or have IPSA hold the lease."
+        },
+        {
+          "speaker": "Karen Lacey",
+          "text": "Boundary changes complicate this: some offices won’t suit every incoming MP, but a handover option could save time and public money."
+        },
+        {
+          "speaker": "Karen Walker",
+          "text": "Dilapidations after the 2024 election cost over £1 million. Being leaseholder would reduce those handover costs in future."
+        }
+      ]
+    },
+    {
+      "title": "Money, London accommodation and early logistics",
+      "takeaway": "IPSA provided a £2,000 cash advance and faster access to payment cards and pre-booked hotels; it’s centralising services to avoid MPs fronting costs.",
+      "turns": [
+        {
+          "speaker": "Mary Glindon",
+          "text": "Some new MPs had tax and student loan surprises—how will you inform candidates pre-election?"
+        },
+        {
+          "speaker": "Karen Lacey",
+          "text": "We can work with parties, the House and HMRC to give clearer, general information to candidates about personal tax implications of becoming an MP."
+        },
+        {
+          "speaker": "Karen Walker",
+          "text": "We offered a £2,000 cash advance in 2024—124 MPs used it—deducted from their first salary. That helped people who’d spent money campaigning."
+        },
+        {
+          "speaker": "Karen Walker",
+          "text": "We also issued payment cards within two weeks and pre-booked hotels through the Travel Office so MPs didn’t have to pay up front; the Travel Office now pays hotels directly."
+        },
+        {
+          "speaker": "Alberto Costa",
+          "text": "Could IPSA arrange family-friendly London accommodation beyond hotel rooms?"
+        },
+        {
+          "speaker": "Karen Lacey",
+          "text": "Yes. We capture MPs’ needs and can broaden bookings to apartments. We’re also exploring whether IPSA could hold London leases, though personal arrangements make that trickier."
+        },
+        {
+          "speaker": "Karen Walker",
+          "text": "We’re centralising services—broadband, utilities, stationery—so MPs don’t have to use personal funds and claim back later."
+        },
+        {
+          "speaker": "Mary Glindon",
+          "text": "Could the cash advance be larger or repaid over a longer time?"
+        },
+        {
+          "speaker": "Karen Walker",
+          "text": "We’ll review whether £2,000 was enough and whether repayment terms should change, balancing support for MPs with responsible use of public money."
+        }
+      ]
+    },
+    {
+      "title": "Recruiting staff, temporary support and training",
+      "takeaway": "Given the surge of new MPs, the House runs HR guidance and IPSA pilots a vetted pool of temporary caseworkers and inter-office staff loans to speed office readiness.",
+      "turns": [
+        {
+          "speaker": "Marie Goldman",
+          "text": "Recruiting staff fast was a top worry. What help did you offer?"
+        },
+        {
+          "speaker": "Kim McGrath",
+          "text": "We had best-practice recruitment guides, in-party sessions warning MPs not to rush hiring, dedicated HR drop-ins during induction, and an HR room at Portcullis House staffed by advisers."
+        },
+        {
+          "speaker": "Kim McGrath",
+          "text": "Cases handled by Members’ HR doubled after the election—going from about 175 to 350 a month—and have since climbed as MPs seek help early."
+        },
+        {
+          "speaker": "Kirsteen Sullivan",
+          "text": "Could a temporary pool of vetted staff help with email and casework before MPs get full teams?"
+        },
+        {
+          "speaker": "Karen Walker",
+          "text": "Yes—we’re piloting a pool of trained, vetted caseworkers tied to the staffing support fund. We’ve hired partners to build that pipeline so people are ready at the next election."
+        },
+        {
+          "speaker": "Karen Walker",
+          "text": "We also run an inter-office staff loan scheme letting departing MPs’ experienced staff temporarily work for new MPs, which helps continuity for constituents."
+        },
+        {
+          "speaker": "Kim McGrath",
+          "text": "We advise new MPs to recruit an office manager first—the best single step to avoid early chaos—and we plan to give candidates HR guidance earlier, even before elections."
+        },
+        {
+          "speaker": "Kim McGrath",
+          "text": "We’re publishing a recruitment booklet for new MPs and will hand it to everyone entering Parliament or at by-elections."
+        }
+      ]
+    },
+    {
+      "title": "Winding up, equipment and public scrutiny",
+      "takeaway": "IPSA extended the winding-up to four months and paid a four-month loss-of-office sum to departing MPs, but equipment rules, lease timings and FOI/press handling need clearer guidance and milestones.",
+      "turns": [
+        {
+          "speaker": "Bambos Charalambous",
+          "text": "How did you change the winding-up process and loss-of-office payments?"
+        },
+        {
+          "speaker": "Karen Lacey",
+          "text": "We extended the winding-up period to four months and had an experienced account manager team supporting departing MPs through redundancy, property exits and finance."
+        },
+        {
+          "speaker": "Karen Walker",
+          "text": "We also paid the winding-up/loss-of-office payment—equal to four months’ salary—to departing MPs, including those who stood down or lost their seat, mostly paid by end of October 2024."
+        },
+        {
+          "speaker": "Bambos Charalambous",
+          "text": "Some departing MPs said equipment was thrown away instead of being allowed to buy it. Why are rules restrictive?"
+        },
+        {
+          "speaker": "Karen Lacey",
+          "text": "There are different rules: IPSA-funded equipment can be kept for a fee or donated, but parliamentary equipment that connects to Parliament’s network can’t be reissued for security reasons. PDS now supplies more kit, which clarifies the process."
+        },
+        {
+          "speaker": "Kirsteen Sullivan",
+          "text": "Could House devices be wiped so MPs could buy them?"
+        },
+        {
+          "speaker": "Kim McGrath",
+          "text": "Technically possible but it costs a few hundred pounds per item; colleagues in digital services would need to weigh security, cost and public value."
+        },
+        {
+          "speaker": "Mr Barros-Curtis",
+          "text": "New MPs also face FOIs and public scrutiny on expenses. Can IPSA change tone and context in its publications to reduce misuse and help MPs cope?"
+        },
+        {
+          "speaker": "Karen Walker",
+          "text": "Yes. We’re consulting on transparency and plan clearer context-setting material—such as a booklet on what IPSA funds—to explain staffing costs and counter misleading summaries. We will support MPs facing malicious FOIs or press attacks."
+        },
+        {
+          "speaker": "Tessa Munt",
+          "text": "Many departing MPs delayed clearing offices and that blocked rooms for new MPs. Could we reinstate a packing-up system so offices can be cleared quickly after an election?"
+        },
+        {
+          "speaker": "Kim McGrath",
+          "text": "I know there’s a five working-day requirement to clear offices; the House manages the practical detail. I’ll try to follow up on clearance statistics so the Committee can look at it."
+        },
+        {
+          "speaker": "Karen Lacey",
+          "text": "We learned some departing MPs used the full four months, which delayed handovers; next time we want clearer milestones and lease planning to speed transitions."
+        }
+      ]
+    },
+    {
+      "title": "Next steps and unresolved issues",
+      "takeaway": "IPSA and the House will expand pilots (leases, staff pools), improve candidate guidance, centralise more services and refine transparency and equipment rules before the next general election.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "To wrap up: what are the concrete steps you’ll take before the next election?"
+        },
+        {
+          "speaker": "Karen Walker",
+          "text": "We’ll expand the lease trial, centralise more services so MPs don’t front costs, pilot the vetted caseworker pool, refine the cash-advance and repayment terms, and improve transparency materials for FOIs and press context."
+        },
+        {
+          "speaker": "Karen Lacey",
+          "text": "We’ll create lists of available constituency offices for handovers, simplify property forms, set clearer winding-up milestones and continue to support departing staff’s employability."
+        },
+        {
+          "speaker": "Kim McGrath",
+          "text": "We’ll publish and distribute a recruitment guide earlier, deliver more candidate briefings about employer responsibilities, and keep building HR support and training for staff transitions."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thanks to all three of you for practical, evidence-based answers. We’ll follow up on office-clearance timings and take this into our next session."
+        }
+      ]
+    }
+  ]
+}

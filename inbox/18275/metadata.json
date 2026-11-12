@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18275,
+  "activity_id": 39538,
+  "document_id": 311204,
+  "meeting_date": "2026-11-10",
+  "meeting_date_display": "10 November 2026",
+  "publication_date": "2026-11-11T14:33:30",
+  "title": "UK export support services",
+  "committee": "Business, Innovation, Science and Trade Committee",
+  "committees": [
+    {
+      "id": 365,
+      "name": "Business, Innovation, Science and Trade Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10032,
+      "title": "UK export support services",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Director of International Affairs",
+      "organisation": "Federation of Small Businesses"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director of Sustainability and Growth",
+      "organisation": "The Food and Drink Federation"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Managing Director",
+      "organisation": "Rappa Fencing Ltd"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chairman",
+      "organisation": "Avon Specialty Metals"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Lucy Monks",
+    "Dan Aldridge",
+    "Nick Smith",
+    "Nick Cockayne",
+    "Balwinder Dhoot",
+    "Mr Reynolds",
+    "Alison Griffiths",
+    "Antonia Bance",
+    "Nesil Caliskan"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18275/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18275",
+  "source_sha256": "35bd84b24104f8a58ee6956c32384941e58dd6be9cac6eac8505fecc819efab8",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

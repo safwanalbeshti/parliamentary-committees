@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18274,
+  "activity_id": 39537,
+  "document_id": 311203,
+  "meeting_date": "2026-11-10",
+  "meeting_date_display": "10 November 2026",
+  "publication_date": "2026-11-11T14:31:58",
+  "title": "UK export support services",
+  "committee": "Business, Innovation, Science and Trade Committee",
+  "committees": [
+    {
+      "id": 365,
+      "name": "Business, Innovation, Science and Trade Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10032,
+      "title": "UK export support services",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Senior Policy Manager",
+      "organisation": "Make UK"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director of International Trade",
+      "organisation": "British Chambers of Commerce"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director",
+      "organisation": "Universities UK"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Steven Lynch",
+    "Antonia Bance",
+    "Jamie Arrowsmith",
+    "Maxwell Green",
+    "Mr Reynolds",
+    "Dan Aldridge",
+    "Leigh Ingham",
+    "Charlie Maynard",
+    "Nesil Caliskan"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18274/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18274",
+  "source_sha256": "e4ade2c948df7216f0ce07e0f8a1b77124c2b57316b7b024d3bfd644278c0c96",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}
