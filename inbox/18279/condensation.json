@@ -1,0 +1,360 @@
+{
+  "schema_version": 1,
+  "source_id": 18279,
+  "source_sha256": "76f5e92ff988e1007d411a29749403bd2d30ddfb078eead9ebc8ac9a4863e29e",
+  "title": "Budget 2026: leaks, growth bets and the choices ahead",
+  "label": "11 November 2026 · Budget 2026 evidence",
+  "summary": "The Chancellor, John Healey, with senior Treasury officials, faced questions about a Budget-day leak, why the Budget was deliberately limited in scale, how its measures aim to support business, AI and energy, and how he plans to meet defence and spending pressures over the coming years. The session covered leak investigations, enterprise incentives (including founders’ relief), energy support targeting, devolved powers, headroom and the forthcoming spending review; witnesses defended judgments while acknowledging uncertainty and the need for further work.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Dame Meg Hillier",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "John Healey",
+      "name": "John Healey",
+      "role": "Chancellor of the Exchequer, HM Treasury",
+      "kind": "witness"
+    },
+    {
+      "label": "James Bowler",
+      "name": "James Bowler",
+      "role": "Permanent Secretary, HM Treasury",
+      "kind": "witness"
+    },
+    {
+      "label": "Dharmesh Nayee",
+      "name": "Dharmesh Nayee",
+      "role": "Director of Strategy, Planning and Budget, HM Treasury",
+      "kind": "witness"
+    },
+    {
+      "label": "John Glen",
+      "name": "John Glen",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Ms Minns",
+      "name": "Ms Julie Minns",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Dame Siobhain McDonagh",
+      "name": "Dame Siobhain McDonagh",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Bobby Dean",
+      "name": "Bobby Dean",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Jim Dickson",
+      "name": "Jim Dickson",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Seema Malhotra",
+      "name": "Seema Malhotra",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Andrew Lewin",
+      "name": "Andrew Lewin",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Dame Harriett Baldwin",
+      "name": "Dame Harriett Baldwin",
+      "role": "Committee Member",
+      "kind": "member"
+    },
+    {
+      "label": "Catherine West",
+      "name": "Catherine West",
+      "role": "Committee Member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "OBR",
+      "definition": "Office for Budget Responsibility, the UK's independent fiscal forecaster."
+    },
+    {
+      "term": "National Wealth Fund",
+      "definition": "A government investment fund set up to back big UK projects and strategic industries."
+    },
+    {
+      "term": "British Business Bank",
+      "definition": "A government-owned bank that supports small and medium-sized businesses with finance."
+    },
+    {
+      "term": "founders’ relief",
+      "definition": "A new proposed tax break to reduce capital gains tax for company founders on some sales."
+    },
+    {
+      "term": "CGT",
+      "definition": "Capital Gains Tax, a tax on profits when someone sells an asset like company shares."
+    },
+    {
+      "term": "EMI",
+      "definition": "Enterprise Management Incentives, a tax-advantaged share scheme for employees in smaller companies."
+    },
+    {
+      "term": "datacentre compact",
+      "definition": "A new policy to approve datacentres only if they bring local benefits and meet tests."
+    },
+    {
+      "term": "headroom",
+      "definition": "The fiscal buffer the Chancellor keeps between planned borrowing and the government's fiscal rules."
+    },
+    {
+      "term": "spending review",
+      "definition": "A Government process to set departmental budgets over multiple years."
+    },
+    {
+      "term": "business rates",
+      "definition": "A tax on non-domestic properties such as shops and offices, paid by businesses."
+    },
+    {
+      "term": "household energy payment",
+      "definition": "The Budget’s £100 direct payment to most households in England to help with winter energy bills."
+    },
+    {
+      "term": "NATO",
+      "definition": "North Atlantic Treaty Organization, a military alliance to which the UK commits defence spending targets."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Leak on Budget day and security",
+      "takeaway": "A late Budget leak to Bloomberg prompted a formal investigation; Treasury officials say controls have tightened but the cause must be found.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We need to start with the leak: Bloomberg published market-sensitive details about a temporary bank surcharge before your speech. Mr Bowler, how serious was that?"
+        },
+        {
+          "speaker": "James Bowler",
+          "text": "Bloomberg had the shape of the surcharge—temporary and under a certain level—but not the exact number. It's regrettable. We're investigating how it happened and have tightened Budget security since last year."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Did widening the circle of people in the last 48 hours help the leak happen?"
+        },
+        {
+          "speaker": "James Bowler",
+          "text": "Those compartments must expand slightly to deliver a Budget. We keep named-person lists and tight controls, and I've asked the Government Security Group to review communications for those with access."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Are you afraid to involve the FCA?"
+        },
+        {
+          "speaker": "James Bowler",
+          "text": "No. We'll share the investigation outcome with the FCA in full; we work closely with them."
+        },
+        {
+          "speaker": "John Healey",
+          "text": "This matters to me personally. Leaks have real consequences—market moves and decisions by households. I introduced national security style controls for this Budget and expect the investigative result to be shared with the Committee."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Do you think you'll find the leaker?"
+        },
+        {
+          "speaker": "James Bowler",
+          "text": "It's not inevitable we won't find who did it. The Government Security Group has resources and the Cabinet Secretary's backing to get to the bottom of it."
+        }
+      ]
+    },
+    {
+      "title": "Why this was a 'breathing-space' Budget",
+      "takeaway": "The Chancellor framed the Budget as modest and targeted because of global shocks, especially the middle-east conflict and higher debt interest, prioritising stability and investment over big tax changes.",
+      "turns": [
+        {
+          "speaker": "John Glen",
+          "text": "The OBR found no Budget measures that move the growth dial. Which measures do you think will drive growth?"
+        },
+        {
+          "speaker": "John Healey",
+          "text": "I called this a 'breathing-space' Budget because the middle-east conflict raised energy and debt costs. The Budget backs business investment, AI, energy and devolution—measures I expect to lift growth over time, even if not all are OBR-scored now."
+        },
+        {
+          "speaker": "John Glen",
+          "text": "Founders’ relief got criticism for cliffs and distortions. Are you worried it may encourage selling rather than growing firms?"
+        },
+        {
+          "speaker": "John Healey",
+          "text": "No. We consulted widely, are finalising technical details this month, and see it as part of a package—also changes to EMI and backing scaleups—to reward founders and encourage reinvestment here."
+        },
+        {
+          "speaker": "Dharmesh Nayee",
+          "text": "Founders’ relief targets a gap: we start many firms but scale-up is weaker. We judged a targeted, capped relief better than an open-ended scheme to support founders who reinvest."
+        },
+        {
+          "speaker": "Jim Dickson",
+          "text": "You put about £700m into AI security and related funds. Given private sector scale, is that enough?"
+        },
+        {
+          "speaker": "John Healey",
+          "text": "Government's role isn't to match private cash but to build frameworks: AI safety, sovereignty, datacentre rules and an AI Economics Institute to measure labour impacts and protect data. The datacentre compact ensures community benefits before approval."
+        }
+      ]
+    },
+    {
+      "title": "Energy help and targeting",
+      "takeaway": "The Government chose a quick, simple £100 household payment via council tax bands A–D plus VAT and duty cuts; critics say many off-grid and low-income households may still miss out.",
+      "turns": [
+        {
+          "speaker": "Bobby Dean",
+          "text": "The Resolution Foundation called living-standards forecasts 'catastrophic'. Did the Budget do enough to help households?"
+        },
+        {
+          "speaker": "John Healey",
+          "text": "We extended VAT off electricity, cut fuel duty temporarily, removed standing charges, and added a £100 direct payment to 20m households in January. These are short-term reliefs plus measures to bring cheaper renewable energy in future."
+        },
+        {
+          "speaker": "Ms Minns",
+          "text": "Council tax bands were set in 1991. Was A–D the best targeting method? Many off-grid or vulnerable households may miss out."
+        },
+        {
+          "speaker": "John Healey",
+          "text": "We chose council tax bands because it was fast and reaches nine in ten of the poorest households; there is also a £100m local hardship fund for gaps like off-grid households. Officials will keep reviewing targeting options."
+        },
+        {
+          "speaker": "James Bowler",
+          "text": "Longer term, better linking tax records and welfare data could allow much finer targeting, but that requires systems work after the immediate crisis is handled."
+        },
+        {
+          "speaker": "Bobby Dean",
+          "text": "Hundreds of thousands of low-income households still miss out. Will you fix that?"
+        },
+        {
+          "speaker": "John Healey",
+          "text": "I stand by the judgment made for urgent, direct help. I welcome Committee evidence if we've missed local delivery gaps—I'll look into specific cases."
+        }
+      ]
+    },
+    {
+      "title": "Headroom, spending review and defence funding",
+      "takeaway": "The Chancellor used fiscal headroom to smooth shocks, committed to increasing defence to 3% (on path to 3.5% by 2035), and plans a joint No.10–No.11 multi-year spending review next year, accepting tough reprioritisation.",
+      "turns": [
+        {
+          "speaker": "Jim Dickson",
+          "text": "You cut headroom from £22bn to £15bn for this year. Is that risky?"
+        },
+        {
+          "speaker": "John Healey",
+          "text": "We used the buffer for this shock and plan to rebuild headroom to over £20bn by 2030-31. It's a judgement: use it when needed and rebuild it when you can."
+        },
+        {
+          "speaker": "John Glen",
+          "text": "With average headroom since 2010 around £29–30bn, aren't you leaving the UK exposed?"
+        },
+        {
+          "speaker": "John Healey",
+          "text": "It's a judgment call. I prioritised handling current shocks while planning to rebuild headroom before the next fiscal rules year. The spending review next year will set further priorities."
+        },
+        {
+          "speaker": "Dame Harriett Baldwin",
+          "text": "Defence is rising to 3% by 2030 on the way to 3.5% by 2035. How confident are you we can spend effectively and meet NATO scoring rules?"
+        },
+        {
+          "speaker": "John Healey",
+          "text": "We fully funded the Defence Investment Plan in this Budget and set up a joint Treasury-MOD taskforce to speed procurement reform, attract private capital, and ensure spending delivers capability and NATO credit where possible."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Will the spending review be jointly signed off by No.10 and No.11, and will No.10 representatives appear before this Committee?"
+        },
+        {
+          "speaker": "John Healey",
+          "text": "It will be jointly run and framed by a 10-year plan. I can't commit for No.10 but will pass on your request that they participate in Committee scrutiny; ultimately the Chancellor is accountable."
+        }
+      ]
+    },
+    {
+      "title": "Devolution, local growth and preventive spending",
+      "takeaway": "The Budget advances fiscal devolution and a new ring‑fenced 'preventive' spending pot, but officials said capacity-building and evaluation criteria need more work.",
+      "turns": [
+        {
+          "speaker": "Jim Dickson",
+          "text": "How much growth will fiscal devolution deliver and when will we know?"
+        },
+        {
+          "speaker": "John Healey",
+          "text": "We can't give a single number now. Devolution lets local leaders combine investment and private funding; we expect meaningful impacts within a few years and will press the OBR for assessment evidence ahead of the next Budget."
+        },
+        {
+          "speaker": "Ms Minns",
+          "text": "Professor Tony Travers warned only a few authorities may have capacity. How will you build that capacity?"
+        },
+        {
+          "speaker": "John Healey",
+          "text": "The Budget includes £150m for capacity building, and we will set up local accountability mechanisms—local accounting officers and scrutiny committees—plus national minimum standards where needed."
+        },
+        {
+          "speaker": "Seema Malhotra",
+          "text": "You announced a ring‑fenced preventive DEL for long-term social spending. How will you define and audit it?"
+        },
+        {
+          "speaker": "John Healey",
+          "text": "It's early. The spending review process will define criteria and evaluation methods. The idea is to protect proven long-term prevention spending—like homelessness or serious crime prevention—so it isn't repeatedly reprioritised away."
+        },
+        {
+          "speaker": "Dharmesh Nayee",
+          "text": "The ring-fence aims to make funding harder to reallocate and easier to track, so preventive programmes are sustained and measurable over the long term."
+        }
+      ]
+    },
+    {
+      "title": "Tax choices, small businesses and safeguards",
+      "takeaway": "The Chancellor defended targeted revenue choices—bank and sector levies to fund reliefs, changes to capital allowances and business rates relief—while officials promised more technical work and safeguards for vulnerable taxpayers.",
+      "turns": [
+        {
+          "speaker": "Seema Malhotra",
+          "text": "What strategy underpinned the individual and business tax changes and simplifying administration?"
+        },
+        {
+          "speaker": "John Healey",
+          "text": "No broad tax rises. We funded targeted help—household payments and business rates relief—by tightening some business tax timings and levying specific sectors. Measures aim to boost investment and scale‑ups, not be headline-grabbing across-the-board changes."
+        },
+        {
+          "speaker": "Dame Harriett Baldwin",
+          "text": "HMRC will have more collection powers that could catch vulnerable people into self-assessment. What safeguards do you want?"
+        },
+        {
+          "speaker": "John Healey",
+          "text": "The pension tax allowance was designed to keep many pensioners out of self-assessment. For specific vulnerable cases, I expect HMRC to act with care; if MPs identify cases where the system fails, I'll look into them."
+        },
+        {
+          "speaker": "Dame Siobhain McDonagh",
+          "text": "Small hospitality firms welcome the rise in the relief threshold. Is replacing business rates still government policy?"
+        },
+        {
+          "speaker": "John Healey",
+          "text": "Yes—we remain committed to replacing business rates and want reforms in the 10-year plan, but the reliefs and freezes in this Budget were intended to give immediate breathing space to high-street businesses."
+        },
+        {
+          "speaker": "Catherine West",
+          "text": "What about very small microbusinesses hit by VAT admin burdens?"
+        },
+        {
+          "speaker": "John Healey",
+          "text": "We raised the trading allowance from £1k to £3k to help casual and very small traders. VAT registration thresholds remain a complex balance; many small firms can reclaim VAT on inputs, but we will keep the administration burden under review."
+        }
+      ]
+    }
+  ]
+}

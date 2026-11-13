@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18281,
+  "activity_id": 39200,
+  "document_id": 311901,
+  "meeting_date": "2026-11-03",
+  "meeting_date_display": "3 November 2026",
+  "publication_date": "2026-11-12T16:20:58",
+  "title": "Maintenance and enforcement in public spaces",
+  "committee": "Built Environment Committee",
+  "committees": [
+    {
+      "id": 518,
+      "name": "Built Environment Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10051,
+      "title": "Maintenance and enforcement in public spaces",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Director",
+      "organisation": "Central"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Managing Director",
+      "organisation": "Create Streets"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director of Operations",
+      "organisation": "Clean Up Britain"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "The second question is actually even more fundamental",
+    "David Milner",
+    "Patricia Brown",
+    "Ed Lennox",
+    "Several things happened",
+    "Lord Cameron of Dillington",
+    "Baroness Miller of Chilthorne Domer",
+    "Lord Bailey of Paddington",
+    "Take Oxford Street, for example",
+    "Lord Porter of Spalding",
+    "Baroness Lawrence of Clarendon",
+    "Baroness Barran",
+    "Lord Bassam of Brighton",
+    "Lord Ravensdale",
+    "Baroness Griffin of Princethorpe"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18281/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18281",
+  "source_sha256": "9925d46544e9502a70d22cf7d0ef6946bb000f5e5e130df3f54a7cad97fd5d8e",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

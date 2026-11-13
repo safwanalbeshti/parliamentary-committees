@@ -126,7 +126,7 @@ The JSON is checked automatically.
 ## Official metadata
 
 * Parliament oral-evidence ID: 18262
-* Required source hash: `bba152e3aaba003e1e8fe01d609c0620333bc9bff6fbeced9ecb66e9113074e3`
+* Required source hash: `b2ed3ba3256c76fced910d769124587202154288968213bbc54585ed2d105db8`
 * Committee: Science and Technology Committee (Commons)
 * Subject: Low-energy computing
 * Meeting date: 4 November 2026
@@ -144,10 +144,8 @@ These are automatically detected and may contain errors. Use only labels that ar
 clearly real speakers in the source transcript.
 
 * II
-* Chair[JE1]
-* Dr Mangoma
-* Chair[JE2]
 * Chair
+* Dr Mangoma
 * Professor Kenyon
 * Neuromorphic computing offers a different way of doing things
 * Freddie van Mierlo
@@ -155,26 +153,10 @@ clearly real speakers in the source transcript.
 * Kit Malthouse
 * Tom Collins
 * Daniel Zeichner
-* Dr Mangoma[KB35]
-* Dr Mangoma[KB36]
-* Kit Malthouse[KB37]
-* Chair[KB38]
 * Martin Wrigley
-* Dr Mangoma[KB39]
-* Chair[KB40]
-* Dr Mangoma[KB41]
-* Chair[KB42]
-* Chair[KB43]
-* Chair[JH53]
 * Dr Silverstone
 * Professor Littlejohns
-* Professor Littlejohns[MK70]
-* Kit Malthouse[MK71]
-* Professor Littlejohns[JE96]
-* Dr Silverstone[JE98]
-* Professor Littlejohns[JE99]
 * I will give you an example which is kind of adjacent
-* Martin Wrigley[JE100]
 
 `Neuromorphic computing offers a different way of doing things` is not a speaker and must be ignored.
 `I will give you an example which is kind of adjacent` is not a speaker and must be ignored.
@@ -186,7 +168,7 @@ Return exactly this structure:
 {
   "schema_version": 1,
   "source_id": 18262,
-  "source_sha256": "bba152e3aaba003e1e8fe01d609c0620333bc9bff6fbeced9ecb66e9113074e3",
+  "source_sha256": "b2ed3ba3256c76fced910d769124587202154288968213bbc54585ed2d105db8",
   "title": "A concise, engaging title",
   "label": "4 November 2026 · A short picker label",
   "summary": "One paragraph explaining what the hearing covered and its main conclusion.",

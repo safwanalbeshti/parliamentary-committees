@@ -39,7 +39,7 @@ Examination of witnesses
 
 Witnesses: Professor Tony Kenyon and Dr Tanya Mangoma.
 
-Chair[JE1]: Welcome to the Science and Technology Committee’s second evidence session in our inquiry into the exciting area of low-energy computing. This inquiry grew out of our “Under the Microscope” initiative, through which researchers drew our attention to the potential of neuromorphic computing and silicon photonics. In our first session, we explored the science behind these technologies and their potential to make computing more energy efficient, and the implications of that.
+Chair: Welcome to the Science and Technology Committee’s second evidence session in our inquiry into the exciting area of low-energy computing. This inquiry grew out of our “Under the Microscope” initiative, through which researchers drew our attention to the potential of neuromorphic computing and silicon photonics. In our first session, we explored the science behind these technologies and their potential to make computing more energy efficient, and the implications of that.
 
 Today, we are going to turn to their practical application and the industry perspective. We want to understand where these technologies could deliver meaningful benefits, how soon they might be adopted more widely and what barriers stand in their way. To help us understand that, I am really pleased to welcome our first panel. I am going to ask each of these industry experts to introduce themselves and their organisations as they explain the neuromorphic technology that they use. Dr Mangoma, can you introduce yourself and explain the technology you are using and what is so special about it?
 
@@ -47,33 +47,33 @@ Dr Mangoma: Thank you for having us. My name is Tanya Mangoma. I am the chief pr
 
 I have a PhD in neuromorphic computing and, since graduating, I have been trying to commercialise the technology within the UK, facing many barriers, but overcoming some. Hopefully today I will be able to share more about what is happening in the ecosystem and how we could help as Analogue, but also as personalities.
 
-Chair[JE2]: Thank you. When you talk about analogue and neuromorphic computing, can you say a little about how that works? What do you mean by it?
+Chair: Thank you. When you talk about analogue and neuromorphic computing, can you say a little about how that works? What do you mean by it?
 
 Dr Mangoma: In computing, there are two types: digital, which is basically on and off, and analogue, which is basically signal processing, which is the analogue part. For signal processing, this was done years ago and SpiNNaker was actually one of the examples—I do not know if you are aware of Steve Furber and what he did in Manchester with SpiNNaker. He made digital compute look like analogue signal because he wanted to replicate spiking neural networks in compute. For my PhD I used technologies, chips and materials that inherently work as spiking neural networks so you do not have to emulate them. You actually emulate the brain; you do not have to simulate what they do in software.
 
-Chair: They work as spiking neural networks[JB3].
+Chair: They work as spiking neural networks.
 
 Dr Mangoma: Yes.
 
-Chair: What is the “spiking[JB4]”?
+Chair: What is the “spiking”?
 
 Dr Mangoma: There are neural networks as we know them at the moment, then there are spiking neural networks, which bring in a time component so that, all of a sudden, you have an event-based kind of compute that you can harness. No longer do you train something and keep it trained. At the moment, you train an LLM and train ChatGPT, and then you have to wait for OpenAI to train another model before it is released. A spiking neural network trains as you do work in real time. That is where you get the spiking plasticity, or spiking neural network, coming in.
 
-Chair: That is fascinating, and we can see some of the implications already. Professor Kenyon, will you tell me about yourself, your organisation and the neuromorphic technology that you use[JB5]?
+Chair: That is fascinating, and we can see some of the implications already. Professor Kenyon, will you tell me about yourself, your organisation and the neuromorphic technology that you use?
 
 Professor Kenyon: I am Tony Kenyon. I have three hats on, I suppose. First, I am a professor in the electronic and electrical engineering department at UCL. Secondly, I have formed a spin-out company to commercialise novel neuromorphic-adjacent memories. Thirdly, I am director of a national innovation and knowledge centre—IKC—called Neuroware, which is looking to translate technologies in neuromorphic computing hardware from the lab through to early-stage demonstrators and ultimately all the way through commercialisation to real-world impact. That centre encompasses nine universities plus the National Physical Laboratory. We have somewhere between 30 to 40 industry partners of various types. We have also an extensive international network. We have been working since October 2025—so we are just over a year old—and we have another four years to run.
 
-Chair: Great. We have identified some of the implications. I want to go into that a little more deeply but, for our benefit, is it true to say that neuromorphic computing looks to emulate how the brain works more closely than digital computing? Would you agree with that as a very high-level summary[JB6][JB7]?
+Chair: Great. We have identified some of the implications. I want to go into that a little more deeply but, for our benefit, is it true to say that neuromorphic computing looks to emulate how the brain works more closely than digital computing? Would you agree with that as a very high-level summary?
 
 Dr Mangoma: Yes.
 
 Professor Kenyon: That is partly true. Yes, there are elements that we would like to emulate but there are also lessons that we want to take from the brain that we can apply in different ways. An example would be that the speed at which the brain does the compute is on a biological timescale. If we interface that with photonics, where we have much higher data rates, we can then start to work in different applications at very high speeds and take inspiration. An example that people often talk about is flying. When we built a flying machine, although jets do not flap their wings, we took inspiration from birds. That is the sort of idea: we want to emulate some things but then go further.
 
-Chair: Excellent. What are the biggest material benefits that neuromorphic computing can offer the UK—which would you identify[JB8][JB9]?
+Chair: Excellent. What are the biggest material benefits that neuromorphic computing can offer the UK—which would you identify?
 
 Dr Mangoma: To start off with there is the low-energy compute aspect of it.
 
-Chair: May I ask you to speak up a bit, or come forward towards the microphone[JB10]?
+Chair: May I ask you to speak up a bit, or come forward towards the microphone?
 
 Dr Mangoma: Okay, I’ll speak up a bit. In neuromorphic computing the big area that is noticeable is the energy aspect. As soon as you have neuromorphic, or brain-like, computing, you automatically have lower energy consumption when you are doing AI influence and training, in general. That is well established and well acknowledged. That is the first way we would benefit from having neuromorphic computing.
 
@@ -87,7 +87,7 @@ A concrete example is a technology known as an event camera, in which there are 
 
 Chair: That is great; we will come back to examine it in more detail. I should declare an interest: I am an electrical engineer and a fellow of the Institution of Engineering and Technology, which is one of the reasons I find this discussion so interesting, especially your points about how it takes much less signal and data to share the changes rather than to share or generate everything.
 
-Finally, on the application that jumps out, as Dr Mangoma mentioned, around reducing the power requirement, I have in my notes that a human brain uses 20 W of power to process data that would take around 1 MW of power to process in a data centre: that is to say, the human brain uses 2% of the power that existing compute does. Surely, that would revolutionise and have a real impact on the value of existing data centre infrastructure investments, which is in the trillions of dollars or pounds. Is that true[RH11]?
+Finally, on the application that jumps out, as Dr Mangoma mentioned, around reducing the power requirement, I have in my notes that a human brain uses 20 W of power to process data that would take around 1 MW of power to process in a data centre: that is to say, the human brain uses 2% of the power that existing compute does. Surely, that would revolutionise and have a real impact on the value of existing data centre infrastructure investments, which is in the trillions of dollars or pounds. Is that true?
 
 Dr Mangoma: Absolutely, that is true. To clarify why that is, current data centres are built on digital compute. That means that the compute aspect is on one end, the memory is on another, and the data is moving between them. The memory is always on, so it is always consuming power, and the data is always moving. If it is moving from one server to another, from one data facility to another or from one compute edge to another, that all consumes energy. That is where all the energy is going. It is not going into compute; it is going into just moving the data and the storage of the memory, which is volatile.
 
@@ -95,33 +95,33 @@ The brain does not separate memory and compute—they are one thing and exist in
 
 The second aspect comes with things such as spiking neural networks. The timing dependency of that spike goes to what you were talking about on signal processing: which signal is important? What information should we move? What data should we generate? That is where that comes in, to cut even further what data is moved between the two boundaries.
 
-Chair: That is fascinating. It also speaks to the investment in RAM that AI companies are making. I think Elon Musk[RH12] spoke about that—was it him or someone else?
+Chair: That is fascinating. It also speaks to the investment in RAM that AI companies are making. I think Elon Musk spoke about that—was it him or someone else?
 
-Freddie van Mierlo: It was Sam Altman[RH13].
+Freddie van Mierlo: It was Sam Altman.
 
-Chair: Sam Altman was saying that we should not have RAM in our computers, because it is so expensive and valuable that it should be saved for data centres. This whole new way of doing things would mean that that trade-off, or that demand, would not be needed[RH14].
+Chair: Sam Altman was saying that we should not have RAM in our computers, because it is so expensive and valuable that it should be saved for data centres. This whole new way of doing things would mean that that trade-off, or that demand, would not be needed.
 
 Dr Mangoma: Indeed. I would also like to highlight that the RAM technology used at the moment is DRAM. Look at the economy in South Korea and how much it has been propped up by those technologies—SK Hynix and Samsung, and what they have managed to do; then look at the technology when it comes to, for example, ReRAM and non-volatile memory technologies. In UK universities, that IP has actually been secured and how much we are not doing about it is quite saddening.
 
-Chair: What did you call the RAM used[EB15]?
+Chair: What did you call the RAM used?
 
-Dr Mangoma: ReRAM—resistive RAM. It is one of the many types[EB16].
+Dr Mangoma: ReRAM—resistive RAM. It is one of the many types.
 
 Professor Kenyon: That is the type of memory that my spin-out is trying to commercialise.
 
-Chair: I am sure that we will come to that[EB17][EB18].
+Chair: I am sure that we will come to that.
 
 Maya Ellis: Thank you for explaining that so clearly; it is fascinating and very exciting. My question is about the bigger picture. You have talked to us about the technical possibilities of it, and they seem very clear. What are you finding in terms of the political reception to this and where the barriers are? We got a sense from you in your initial notes that the IP is there and needs a focus. What is the reception to it?
 
-We talked about data centres. In current ecosystems, there is an awful lot of talk about AI. Is there resistance to this because it is something different and new? Is there an appetite, but it is not getting enough funding? What does the landscape look like for building this[EB19]?
+We talked about data centres. In current ecosystems, there is an awful lot of talk about AI. Is there resistance to this because it is something different and new? Is there an appetite, but it is not getting enough funding? What does the landscape look like for building this?
 
 Dr Mangoma: There are two areas, especially when you talk about the UK. The UK can do a lot of the materials science research, and that is where we hold the majority of the IP. But to commercialise that IP, you need to go to a foundry service, and the foundries have specific recipes they will allow you to use. We do not have access to those. If you want to commercialise anything you do in research or the IP, the biggest bottleneck is that no one is opening the door for us to TSMC, UMC or GlobalFoundries to say, “We want to use this technology that is made in the UK, and for it to be available for everyone else to use, then we will have the licensing rights.” As a result, we cannot commercialise anything being built in the UK. That is the first part.
 
 The second part is when you talk about what the UK manufacturing ecosystem can actually do. We have companies such as Pragmatic, which is a small foundry—one of the few foundries in the UK—that does a different type of compute paradigm that also exhibits neuromorphic capabilities. Even for them, if you ask them, “Is there any funding to bring neuromorphic capabilities in manufacturing that are scalable in the UK?”, they do not have a programme running or funding for it. Again, the technologies and all the bits exist, but there is no end-to-end thought process for infrastructure to bring it into commercialisation.
 
-There is another part about the market itself. If you look at where neuromorphic computing should start and where it would most benefit, it is in defence. I looked up a couple of numbers in the UK for where the defence budget is spent and their requirements for edge computing and “sense, detect, act”. There is funding for it, but they do not actually communicate—or we do not have access to them to say, “This is a technology we can offer you.” All those things exist and are needed in the UK, but everything is fragmented[EB20].
+There is another part about the market itself. If you look at where neuromorphic computing should start and where it would most benefit, it is in defence. I looked up a couple of numbers in the UK for where the defence budget is spent and their requirements for edge computing and “sense, detect, act”. There is funding for it, but they do not actually communicate—or we do not have access to them to say, “This is a technology we can offer you.” All those things exist and are needed in the UK, but everything is fragmented.
 
-Maya Ellis: Just to drill it down, how does that break down? How much of this is about Government funding, and how much of it is about private sector appetite for this in the UK? What is your ask—where do you need the support to come from[EB21]?
+Maya Ellis: Just to drill it down, how does that break down? How much of this is about Government funding, and how much of it is about private sector appetite for this in the UK? What is your ask—where do you need the support to come from?
 
 Professor Kenyon: There are a couple of things to unpick there. I will start by saying that things are better now than they were, say, seven or eight years ago. When we were spinning out our company, we could not get investment, because the perception was that the UK does not do semiconductors. That has changed, and the fact we are having this discussion is an example of that.
 
@@ -167,29 +167,29 @@ Dr Mangoma: TSMC: Taiwan Semiconductor Manufacturing Company. Basically, when ev
 
 Kit Malthouse: It makes something like 90% of the world’s chips. It is the reason China does not invade Taiwan.
 
-Dr Mangoma: Exactly. It is one of a handful of companies that can mass manufacture chips for everything that we do, from defence or telephones to AI chips—anything that you can think of. We do not have the capability in the UK and we should not try to emulate that capability, but then those companies are the only people who can take the research from our labs and put it into their systems to say, “Okay, for the next 90% of chips that are going to be made, we will use IP from Cambridge, from neuromorphic computing”, because we have actually made that happen. To get to that goal of GlobalFoundries or TSMC working with us, that cannot be from me, because who am I—it has to come from Government[GW22].
+Dr Mangoma: Exactly. It is one of a handful of companies that can mass manufacture chips for everything that we do, from defence or telephones to AI chips—anything that you can think of. We do not have the capability in the UK and we should not try to emulate that capability, but then those companies are the only people who can take the research from our labs and put it into their systems to say, “Okay, for the next 90% of chips that are going to be made, we will use IP from Cambridge, from neuromorphic computing”, because we have actually made that happen. To get to that goal of GlobalFoundries or TSMC working with us, that cannot be from me, because who am I—it has to come from Government.
 
 Professor Kenyon: I will just add that GlobalFoundries is the name of one of those foundries. It is No. 5 in the hierarchy.
 
-Tom Collins: Help me understand how the technology path works here. In my understanding, this neuromorphic computation is in effect functional filtering creating sparse datasets. I thought that would need a different architecture up and down the whole system, but it sounds like you think that it could be implemented in mainstream applications quite quickly. Explain that distinction for me, if that is okay[GW23].
+Tom Collins: Help me understand how the technology path works here. In my understanding, this neuromorphic computation is in effect functional filtering creating sparse datasets. I thought that would need a different architecture up and down the whole system, but it sounds like you think that it could be implemented in mainstream applications quite quickly. Explain that distinction for me, if that is okay.
 
 Dr Mangoma: Absolutely. I will take SpiNNaker as an example. When we think about application datasets, we think about LLMs and how they are done currently, like in ChatGPT and matrix multiplication. Here, we are doing it ever so slightly differently, and we are training it faster and doing it event based. The stack is already developed. That is why I bring up SpiNNaker. Nvidia already has the software part and the hardware part. That is already done and everything implemented. The University of Manchester has already made the full stack for that. It also offers the training with conventional computing versus the training with spiking neural networks, shows how much better and faster it is. All that is already done—the stack and the compatibility is there—but for use cases, for event-based sense or event, things are needed.
 
-Chair: Thank you. That is really helpful[GW24].
+Chair: Thank you. That is really helpful.
 
-Daniel Zeichner: Good morning. It is fantastic hearing about low-energy computing; we are a high-energy Committee, so we want to find ways in which we can help elicit what is needed. Following on from my colleague, does the UK have the industrial capacity to do the manufacturing at commercial scale? What would that look like? Explain it to me[GW25].
+Daniel Zeichner: Good morning. It is fantastic hearing about low-energy computing; we are a high-energy Committee, so we want to find ways in which we can help elicit what is needed. Following on from my colleague, does the UK have the industrial capacity to do the manufacturing at commercial scale? What would that look like? Explain it to me.
 
-Professor Kenyon: It is a complex system in semiconductors. I do not think that any country, with the possible exception of Taiwan, has the capability to do the full stack of fabrication at the most advanced level of technology. However, there are opportunities. I think what you need to do is to build partnerships. That is how it works in semiconductors. One country might be very strong in design—the UK is very strong in that space—and another country very strong in the fabrication of the chips, which might be Taiwan. Packaging is something else, and actually putting that into systems is something else again. It is a very globalised industry, and I do not think that that is going to change anytime soon[GW26].
+Professor Kenyon: It is a complex system in semiconductors. I do not think that any country, with the possible exception of Taiwan, has the capability to do the full stack of fabrication at the most advanced level of technology. However, there are opportunities. I think what you need to do is to build partnerships. That is how it works in semiconductors. One country might be very strong in design—the UK is very strong in that space—and another country very strong in the fabrication of the chips, which might be Taiwan. Packaging is something else, and actually putting that into systems is something else again. It is a very globalised industry, and I do not think that that is going to change anytime soon.
 
 A lot of the discussion is about the concept of sovereignty. What does sovereignty mean? It is a difficult thing to pin down, but I think in this space, the conversations are going along the lines of, “What we really want is to make sure that we have ownership of some part of that chain.” An example that I can give is the Dutch company ASML. It manufactures the tools that are used to create or write the very small structures—on the nanometre scale—that are in the most advanced chips. It is the only company in the world that can do that. It is fantastically expensive to develop that technology, and it has taken 20-plus years to do so. No one else can do it, so ASML owns that part of the supply chain.
 
-Kit Malthouse: Sorry to interrupt, but when you say “write”, do you mean that ASML has a machine that actually inscribes or lays down the little bits[GW27]—
+Kit Malthouse: Sorry to interrupt, but when you say “write”, do you mean that ASML has a machine that actually inscribes or lays down the little bits—
 
-Professor Kenyon: It is a light beam, so yes[GW28].
+Professor Kenyon: It is a light beam, so yes.
 
-Kit Malthouse: Basically, it is etching out on a tiny little wafer of what the photons will run down[GW29].
+Kit Malthouse: Basically, it is etching out on a tiny little wafer of what the photons will run down.
 
-Professor Kenyon: Well, it creates the structure, so it will create a mask, essentially. You take the wafer that has had that mask written on it, and then you etch through the mask to create the transistors and so on—with a resolution of nanometres[GW30][GW31].
+Professor Kenyon: Well, it creates the structure, so it will create a mask, essentially. You take the wafer that has had that mask written on it, and then you etch through the mask to create the transistors and so on—with a resolution of nanometres.
 
 Daniel Zeichner: How did ASML alight on that particular part? Who decided that and what made it happen? What could we do here?
 
@@ -209,7 +209,7 @@ Professor Kenyon: There are several things—do you want to answer that?
 
 Dr Mangoma: I would emphasise three areas where the UK is really good when it comes to capabilities. Obviously, there is photonics. There is also neuromorphic, but there is also silicon carbide, which is down in Wales. Power electronics and silicon carbide, which is based in Wales, is a big cluster. Across all three of them we are very lucky to have smaller foundries. We cannot do the high-scale technologies that need us to have conversations with Taiwan to be able to manufacture, but for neuromorphic computing and small chips that can go into, for example, drones, we could use Pragmatic because we can actually manufacture and have that sovereignty here. That is the ownership.
 
-We[DB32] have SpiNNaker, the top to bottom software and hardware developed already. We have capability to manufacture here in Durham in Pragmatic. That is something that we can own and actually deploy in the UK. So that is sovereignty right there. Similar applies to CORNERSTONE photonics and silicon carbide in Wales. Those are the three clusters that have everything: manufacturing, deployment, the people who know the technology and have the experience, plus the materials research that backs all of this. So that is something highly defensible.
+We have SpiNNaker, the top to bottom software and hardware developed already. We have capability to manufacture here in Durham in Pragmatic. That is something that we can own and actually deploy in the UK. So that is sovereignty right there. Similar applies to CORNERSTONE photonics and silicon carbide in Wales. Those are the three clusters that have everything: manufacturing, deployment, the people who know the technology and have the experience, plus the materials research that backs all of this. So that is something highly defensible.
 
 Daniel Zeichner: Very good. So, you are confident that we have the skills. Are they skills that have been developed here or are we bringing in people from elsewhere?
 
@@ -223,11 +223,11 @@ Professor Kenyon: Massive. It is probably the biggest challenge. A lot of things
 
 Daniel Zeichner: What would you suggest is the best way of helping bridge that gap?
 
-Professor Kenyon: In September, NeuroWare IKC published a road map for neuromorphic computing going out to 2050, and that made a series of recommendations. We had 26 across five different application areas. I have copies of that, so I can leave a digest of that with you if you would like to read it. That has a number of recommendations for Government, which are around investment, but sustained investment—for example, NeuroWare has a five-year term, so extending that[DB33].
+Professor Kenyon: In September, NeuroWare IKC published a road map for neuromorphic computing going out to 2050, and that made a series of recommendations. We had 26 across five different application areas. I have copies of that, so I can leave a digest of that with you if you would like to read it. That has a number of recommendations for Government, which are around investment, but sustained investment—for example, NeuroWare has a five-year term, so extending that.
 
 On thinking about a national neuromorphic strategy, we have strategies in semiconductors and around quantum and other areas. Neuromorphic, a technology that exists, would benefit from having a strategy. Commissioning a feasibility study on shared prototyping facilities would cut across, as well as neuromorphic, other areas in semiconductors. I am sure you hear the same things from other people in that area.
 
-On funding[DB34] national testbeds, as we develop these new technologies, we need to have testbeds to really prove their mettle and their application. I mentioned the Government potentially acting as an early customer through public procurement funding. To your question about whether we are bringing people in from outside the UK, the UK could fund training—for example, for centres for doctoral training in this space—and then, for example, include neuromorphic computing in discussions of the AI Energy Council.
+On funding national testbeds, as we develop these new technologies, we need to have testbeds to really prove their mettle and their application. I mentioned the Government potentially acting as an early customer through public procurement funding. To your question about whether we are bringing people in from outside the UK, the UK could fund training—for example, for centres for doctoral training in this space—and then, for example, include neuromorphic computing in discussions of the AI Energy Council.
 
 Daniel Zeichner: Thank you; that is very helpful. I think that is quite a long list that we can push forward. I want to go back to something Tanya said a bit earlier on the opportunities of combining neuromorphic computing with silicon photonics. Can you say a little bit about that? What are the technical challenges with that?
 
@@ -285,19 +285,19 @@ Dr Mangoma: There is no resistance. I did visit Taiwan in 2025 with the Governme
 
 Kit Malthouse: So you want a Government Minister to take the two of you to Taiwan and get you in to see the chief technology officer at TSMC, to say, “Look at this thing.” It is that simple.
 
-Dr Mangoma[KB35]: We have already done that. I will give you an example. In 2025 I went to Taiwan with the UK adviser for science and technology back at the time—I think he just retired. He was in the room with the people from TSMC, and I made this exact ask: “We have the IP in our universities. We want you to take this IP into foundries.” They said, “Let us think about it.” They then asked me, “Who in the UK is going to take care of this?” At that point we were just figuring out what the UK Semiconductor Centre was going to be, so we did not have an answer. I could not say as an individual, “You’re going to talk to me, TSMC, because I’m important.” It needed that Government body to be able to go there.
+Dr Mangoma: We have already done that. I will give you an example. In 2025 I went to Taiwan with the UK adviser for science and technology back at the time—I think he just retired. He was in the room with the people from TSMC, and I made this exact ask: “We have the IP in our universities. We want you to take this IP into foundries.” They said, “Let us think about it.” They then asked me, “Who in the UK is going to take care of this?” At that point we were just figuring out what the UK Semiconductor Centre was going to be, so we did not have an answer. I could not say as an individual, “You’re going to talk to me, TSMC, because I’m important.” It needed that Government body to be able to go there.
 
 Following on from that, TSMC put me in touch with their German counterparts. We had a discussion, but it all came down to, “Who are you to ask us to do all this?” That is what it comes down to. We are universities; we are not Government. We do not have the power to ask such big organisations to do us a favour; it is up to you guys to do it.
 
 Kit Malthouse: So the science itself is not yet compelling enough for them—that is what you are saying.
 
-Dr Mangoma[KB36]: They are developing the science themselves, but we have already solved it.
+Dr Mangoma: They are developing the science themselves, but we have already solved it.
 
-Kit Malthouse[KB37]: Right, so they are saying, “We may get there before you, so we won’t need you at all.”
+Kit Malthouse: Right, so they are saying, “We may get there before you, so we won’t need you at all.”
 
 Professor Kenyon: Yes, and I think they also want to see the end use. They want to be able to see that there is a market for it, because TSMC make things for other people, so we want to get into that chain. Yes, we want to speak to them, but we also want to have the people who are making things speaking to TSMC.
 
-Chair[KB38]: Okay; that is fascinating. Martin, you have a particular question before we wrap up.
+Chair: Okay; that is fascinating. Martin, you have a particular question before we wrap up.
 
 Martin Wrigley: I am very excited by all this stuff. This is radically new. I learnt electrical engineering in 1984, when von Neumann machines were exactly what we learned about. If I were Nvidia, I would see what you are doing and think, “You’re about to eat my lunch,” and I would buy the lot of you. What is the protection against that?
 
@@ -307,53 +307,53 @@ Martin Wrigley: Which they buy.
 
 Professor Kenyon: Which they can potentially buy.
 
-Dr Mangoma[KB39]: I will give you an example of a company that I am a big fan of. Fractile is a start-up company that is based in the UK. It is run by Walter Goodwin. When they started, they wanted to use some of the technologies we are talking about today, but at foundry level, these technologies were not available, so they pivoted.
+Dr Mangoma: I will give you an example of a company that I am a big fan of. Fractile is a start-up company that is based in the UK. It is run by Walter Goodwin. When they started, they wanted to use some of the technologies we are talking about today, but at foundry level, these technologies were not available, so they pivoted.
 
 Fractile knew that this was the line they wanted to go down. They were trying to do computer and memory technology, which is basically computer and memory together but not as neuromorphic, just close enough together. They knew that they wanted to do this, and they have built a company that has raised hundreds of millions of pounds. If we get that IP for them and offer it to them, they could be the first people to use this and make a company that is using the most novel memory technologies built here in the UK. That is one example right there of why Nvidia will not get it, because if we get our IP and then we back our own companies in the UK—
 
-Chair[KB40]: But you are not addressing Martin’s question, which is, what is to stop Nvidia buying this?
+Chair: But you are not addressing Martin’s question, which is, what is to stop Nvidia buying this?
 
-Dr Mangoma[KB41]: If companies like Fractile end up using our memory technologies, and then they are the ones who have the IP rights, Nvidia cannot steal it from them. They can buy Fractile, if they want—
+Dr Mangoma: If companies like Fractile end up using our memory technologies, and then they are the ones who have the IP rights, Nvidia cannot steal it from them. They can buy Fractile, if they want—
 
-Chair[KB42]: You are kind of answering the question: there is nothing to stop them, is there?
+Chair: You are kind of answering the question: there is nothing to stop them, is there?
 
 Martin Wrigley: In essence, unless you manage to get sufficient industrial and commercial take-up prior to anybody like Nvidia, which has more cash than it knows what to do with, noticing, you are extremely vulnerable—unless we have golden shares in what you are doing.
 
 Professor Kenyon: That is probably true across many industries, but particularly in semiconductors in general.
 
-Chair[KB43]: There is a process for monitoring transactions and sales; indeed, with DeepMind there was a Government review. Could you send us the names of companies that have been bought? You named one earlier.
+Chair: There is a process for monitoring transactions and sales; indeed, with DeepMind there was a Government review. Could you send us the names of companies that have been bought? You named one earlier.
 
-Kit Malthouse: I just looked it up. I don’t think SpiNNaker has been boug[KB44]ht.
+Kit Malthouse: I just looked it up. I don’t think SpiNNaker has been bought.
 
 Dr Mangoma: SpiNNaker is interested in our work.
 
 Kit Malthouse: SpiNNcloud Systems was a German spin-off in Dresden in 2021, but SpiNNaker itself, the Manchester spin-out, is still—
 
-Professor Kenyon: SpiNNaker is not a spin-out; SpiNNaker is the system. It is an academic system. SpiNNcloud was commercialising that. They then took on the upgrade of SpiNNaker to SpiNNaker2 and scaled it 10 times. That is now in Dresden. I think SpiNNcloud have just changed their name, but they are running that[AM45].
+Professor Kenyon: SpiNNaker is not a spin-out; SpiNNaker is the system. It is an academic system. SpiNNcloud was commercialising that. They then took on the upgrade of SpiNNaker to SpiNNaker2 and scaled it 10 times. That is now in Dresden. I think SpiNNcloud have just changed their name, but they are running that.
 
-Chair: Could you let us know which companies have been targets, and we can look at what protections are in place. One of Kit’s points was about why companies like Nvidia are not buying up all these Great British companies. We also need to look at the extent to which you think there is lobbying to prevent UK investment in these areas, given the likelihood of competition with existing, very deeply entrenched business models. Is that a possibility[AM46]?
+Chair: Could you let us know which companies have been targets, and we can look at what protections are in place. One of Kit’s points was about why companies like Nvidia are not buying up all these Great British companies. We also need to look at the extent to which you think there is lobbying to prevent UK investment in these areas, given the likelihood of competition with existing, very deeply entrenched business models. Is that a possibility?
 
 Professor Kenyon: Yes, it is a possibility. Speaking from the perspective of investors, if an investor is investing in an early-stage company in the UK and it is bought out by a US company at huge profit, that is fine for them. It is not good for the country, but it is fine for them.
 
-Chair: We recognise that, which is why we are asking about what protections there are and whether there are targets in the UK. I am struck by the fact that you are not identifying particular defence or other Departments that should be procuring this. It does not seem like you have the ministerial or Government support in terms of procurement. We are running out of time, but do you agree with that[AM47]?
+Chair: We recognise that, which is why we are asking about what protections there are and whether there are targets in the UK. I am struck by the fact that you are not identifying particular defence or other Departments that should be procuring this. It does not seem like you have the ministerial or Government support in terms of procurement. We are running out of time, but do you agree with that?
 
 Professor Kenyon: We are engaging with different Government Departments and different sectors, particularly defence and security. We have had a lot of conversations.
 
-Chair: Do you have any orders[AM48]?
+Chair: Do you have any orders?
 
 Professor Kenyon: No, we do not have orders yet.
 
-Chair: Okay, so you are not having the procurement pull-through[AM49].
+Chair: Okay, so you are not having the procurement pull-through.
 
 Professor Kenyon: No, not yet.
 
-Chair: DSIT as was told us that the UK committed £20 million funding to neuromorphic computing up to 2030. Will that deliver sovereign commercial capability in this key area[AM50]?
+Chair: DSIT as was told us that the UK committed £20 million funding to neuromorphic computing up to 2030. Will that deliver sovereign commercial capability in this key area?
 
-Professor Kenyon: No, that is not enough to deliver it[AM51].
+Professor Kenyon: No, that is not enough to deliver it.
 
 Dr Mangoma: It is not enough. As was mentioned before, it takes £100 million to be able to go from lab to foundry. That is before you do all the other stuff like marketing and everything.
 
-Chair: In our report on science diplomacy, we identified sovereign capability as a key ambition for this Government. Given that the current funding will not deliver sovereign capability, is it fair to say that the UK’s sovereign capability ambitions are not being funded in this area[AM52]?
+Chair: In our report on science diplomacy, we identified sovereign capability as a key ambition for this Government. Given that the current funding will not deliver sovereign capability, is it fair to say that the UK’s sovereign capability ambitions are not being funded in this area?
 
 Professor Kenyon: That is fair to say. What we are able to do is seed some activity in that space that may end up as sovereign capability. That is essentially the limit of what we can do with that sort of money over that sort of timescale.
 
@@ -363,9 +363,9 @@ Examination of witnesses
 
 Witnesses: Professor Callum Littlejohns and Dr Josh Silverstone.
 
-Chair[JH53]: Welcome to the second panel of the Science and Technology Committee’s hearing on neuromorphic computing.
+Chair: Welcome to the second panel of the Science and Technology Committee’s hearing on neuromorphic computing.
 
-Freddie van Mierlo: Thank you both for being with us. I am a complete novice, so please talk to me like I am an eight-year-old—that is always a good rule for politicians anyway. Could you briefly explain your organisation and what you do? Could you also start by helping me to understand what silicon photonics is[JH54]?
+Freddie van Mierlo: Thank you both for being with us. I am a complete novice, so please talk to me like I am an eight-year-old—that is always a good rule for politicians anyway. Could you briefly explain your organisation and what you do? Could you also start by helping me to understand what silicon photonics is?
 
 Dr Silverstone: Thank you for having me. I would like to give a bit of my personal background, because it feeds nicely into this discussion. I am a Canadian, and I came to the UK—to Bristol—for my PhD about 15 years ago. My PhD was about how to build the largest scale photonic devices that have ever been built in photonic quantum computers. I joined a group with Professor Jeremy O’Brien in Bristol, and I worked on the first architectures for photonic quantum computers ever—with linear optics, anyway.
 
@@ -375,9 +375,9 @@ Fast forward some years, and I had an academic career. I started my first compan
 
 I started Hartley Ultrafast a few years ago in Bristol. It is a neuromorphic computing company that uses photonics. It uses the combination of analogue, photonic and electronic systems to deliver AI inference faster than anybody else on Earth can. We are looking at applications in spaces of the economy where time is of the absolute essence, whether it is in the financial system, across defence, in process control, in the network stack—you name it.
 
-We have a bunch of patents pending in the US, and we are taking on a load of international investment to make these dreams a reality. It turns out that there are a great many similarities between trying to build a photonic quantum computer and trying to build an unadjectivised photonic computer. We are taking the best practice—the tricks—that we have learned collectively in making quantum computers work, and we are applying those to accelerating AI in this way[JH55].
+We have a bunch of patents pending in the US, and we are taking on a load of international investment to make these dreams a reality. It turns out that there are a great many similarities between trying to build a photonic quantum computer and trying to build an unadjectivised photonic computer. We are taking the best practice—the tricks—that we have learned collectively in making quantum computers work, and we are applying those to accelerating AI in this way.
 
-Freddie van Mierlo: There is a lot there, and I am sure other colleagues will want to come in on the financial element and building a business, but I really want to drill down on what you are doing. Can you explain to me what photonics is[JH56]?
+Freddie van Mierlo: There is a lot there, and I am sure other colleagues will want to come in on the financial element and building a business, but I really want to drill down on what you are doing. Can you explain to me what photonics is?
 
 Dr Silverstone: Photonics is the technology of light, in the same way that electronics is the technology of electricity. Photonics means many things to many people. For the purposes of this discussion, we will talk about photonics with respect to communications and computing. In particular, at Hartley we are focused on the computing piece. Photonics has been used for communications since the dawn of time—optical signalling—but the computation use is a new one. People have not really cracked it yet.
 
@@ -413,13 +413,13 @@ Slightly alarmingly for me—I have eaten, drunk and breathed silicon photonics 
 
 Freddie van Mierlo: I have one more question. Why are you in the UK? You said that you are Canadian. Bristol is a wonderful city—I studied there, and I love it—but is that enough for you to be in the UK and to make this a place where you build this technology and a company?
 
-Dr Silverstone: Yes, that’s why I mentioned it. I think it is and it could be more so, but yes, certainly we have a lot going for us here. To latch on to some of the language around entrepreneurship recently, I am relatively bloody-minded about this. I am doing something like what we would call an A/B test—you know, do one thing and compare it to another thing—on whether you can build a big optical computing company here in the UK 10 years later on from this PsiQuantum story that I told you about[MK57].
+Dr Silverstone: Yes, that’s why I mentioned it. I think it is and it could be more so, but yes, certainly we have a lot going for us here. To latch on to some of the language around entrepreneurship recently, I am relatively bloody-minded about this. I am doing something like what we would call an A/B test—you know, do one thing and compare it to another thing—on whether you can build a big optical computing company here in the UK 10 years later on from this PsiQuantum story that I told you about.
 
-Ultimately, companies like mine are only its people. We talk about the regulatory environment, and the various resources and access and incentives, but ultimately, we are just people and the UK has a real wealth of skill in this space. Furthermore, different from the other side of the Atlantic, we potentially have access to a very large group of very bright people across Europe. If I could make one point, it is that easier access to those people is a real benefit to us[MK58].
+Ultimately, companies like mine are only its people. We talk about the regulatory environment, and the various resources and access and incentives, but ultimately, we are just people and the UK has a real wealth of skill in this space. Furthermore, different from the other side of the Atlantic, we potentially have access to a very large group of very bright people across Europe. If I could make one point, it is that easier access to those people is a real benefit to us.
 
-Freddie van Mierlo: Point well made[MK59][MK60][MK61].
+Freddie van Mierlo: Point well made.
 
-Tom Collins: I would like to talk about manufacturing and the capabilities in the UK, but maybe we ought to pick an application first. I am afraid that I am not an expert either, but as far as I can tell, we have quantum photonics, let’s say classical non-quantum photonics and integrated photonics, which are a combination of classic integrated electronics with photonic capabilities or functionality. Which of those is most mature? Which is most ready for deployment at this point[MK62][MK63]?
+Tom Collins: I would like to talk about manufacturing and the capabilities in the UK, but maybe we ought to pick an application first. I am afraid that I am not an expert either, but as far as I can tell, we have quantum photonics, let’s say classical non-quantum photonics and integrated photonics, which are a combination of classic integrated electronics with photonic capabilities or functionality. Which of those is most mature? Which is most ready for deployment at this point?
 
 Professor Littlejohns: Well, conventional integrated photonics for telecoms is being deployed; it is already in data centres around the world. The underpinning technology for that is not too dissimilar to what you need for quantum as well. If there is infrastructure so that you can build conventional silicon photonics circuits, it is almost exactly the same thing that you can use to build quantum circuits.
 
@@ -427,33 +427,33 @@ Josh mentioned PsiQuantum earlier; they are using integrated photonics for their
 
 On what we can do now in the UK, we are one of the world leaders in innovation research. The Photonics Leadership Group puts us third in photonics in the world, behind the two usual suspects. We can support companies through CORNERSTONE, doing proof-of-concept prototypes—for example, what I showed you earlier. Evidence, like university—we have spoken to more than 30 companies, and we have done a survey of 100 companies. Consistently, we get the same message—the challenge is scaling up. We can prove something works, and we can raise a few million. Turning that into a £100 million company is a massive challenge in this country. We do not have the infrastructure to support it.
 
-We can go to the world’s largest foundries once we reach mass-manufacturing stage, but there is a huge gap between one chip and 1 million wafers. There is an infrastructure gap that needs to be filled there[MK64][MK65].
+We can go to the world’s largest foundries once we reach mass-manufacturing stage, but there is a huge gap between one chip and 1 million wafers. There is an infrastructure gap that needs to be filled there.
 
-Tom Collins: Presumably, those big foundries will pool the technology once it has reached that mid-level of scale and the potential is really demonstrable, right? We have got applications[MK66][MK67].
+Tom Collins: Presumably, those big foundries will pool the technology once it has reached that mid-level of scale and the potential is really demonstrable, right? We have got applications.
 
-Professor Littlejohns: Yes, and that is already happening, so we can see that. But these mass-manufacturing facilities would have standard processes, so they will have something very locked down, because they care about yield and price. If your technology can adopt to that, you might be able to get in; Josh can speak to that better than me. If you want to try something different and you want to innovate, at the moment you can only do that in university, and you can prove it works once. What we need to be able to do is to take that thing that we have proven works once, prove we can make it a thousand times, and then you have a case that is compelling for the big foundries to start talking to you. Without that intermediate stage, they are just not interested[MK68].
+Professor Littlejohns: Yes, and that is already happening, so we can see that. But these mass-manufacturing facilities would have standard processes, so they will have something very locked down, because they care about yield and price. If your technology can adopt to that, you might be able to get in; Josh can speak to that better than me. If you want to try something different and you want to innovate, at the moment you can only do that in university, and you can prove it works once. What we need to be able to do is to take that thing that we have proven works once, prove we can make it a thousand times, and then you have a case that is compelling for the big foundries to start talking to you. Without that intermediate stage, they are just not interested.
 
-Tom Collins: With[MK69] the previous panel, we talked about how the UK has some niche capability in silicon; we are not at absolute zero. Where do you see the seeds of potential in the UK at the moment, or are they not in the UK? Where are the seeds of possibility for us to develop silicon photonics manufacturing, or to start to scale to that mid-level?
+Tom Collins: With the previous panel, we talked about how the UK has some niche capability in silicon; we are not at absolute zero. Where do you see the seeds of potential in the UK at the moment, or are they not in the UK? Where are the seeds of possibility for us to develop silicon photonics manufacturing, or to start to scale to that mid-level?
 
-Professor Littlejohns[MK70]: I run a facility—well, use a facility—at the University of Southampton, and there are comparable facilities in Glasgow. They are used by companies. A large number of companies have grown in the past few years, and we are seeing some significant investments in them. For example, a company called Salience Labs announced, I think only last month, a $125 million series B investment. It makes optical switches but uses international facilities.
+Professor Littlejohns: I run a facility—well, use a facility—at the University of Southampton, and there are comparable facilities in Glasgow. They are used by companies. A large number of companies have grown in the past few years, and we are seeing some significant investments in them. For example, a company called Salience Labs announced, I think only last month, a $125 million series B investment. It makes optical switches but uses international facilities.
 
-Kit Malthouse[MK71]: The scale in the UK is tiny, though. Has Apple not just put about $30 billion into some photonics company—Broadcom, or whatever it is called?
+Kit Malthouse: The scale in the UK is tiny, though. Has Apple not just put about $30 billion into some photonics company—Broadcom, or whatever it is called?
 
-Professor Littlejohns: There are multibillion deals going on. I can think of five or six that are happening this year[MK72].
+Professor Littlejohns: There are multibillion deals going on. I can think of five or six that are happening this year.
 
-Tom Collins: We said in the first session that sovereignty is a word that means everything at the moment, but what we want to dig at is security and resilience—our ability to keep progressing this. It sounds as though that will come if we can scale, but scale is the big thing we need to pursue. Is that correct? How would you describe it[MK73]?
+Tom Collins: We said in the first session that sovereignty is a word that means everything at the moment, but what we want to dig at is security and resilience—our ability to keep progressing this. It sounds as though that will come if we can scale, but scale is the big thing we need to pursue. Is that correct? How would you describe it?
 
-Professor Littlejohns: It is about scaling up, not necessarily mass manufacture, which would likely still need international partnerships. If you have the scale-up facilities and all those companies proving their products at huge volumes, who knows what the future holds? Something that is very important to make clear, however, is that in integrated photonics everything is much bigger than in electronics. It is still relatively small, though[MK74].
+Professor Littlejohns: It is about scaling up, not necessarily mass manufacture, which would likely still need international partnerships. If you have the scale-up facilities and all those companies proving their products at huge volumes, who knows what the future holds? Something that is very important to make clear, however, is that in integrated photonics everything is much bigger than in electronics. It is still relatively small, though.
 
 Tom Collins: In terms of physical volume?
 
-Professor Littlejohns: No, in the physical size of things. That is very important: we spoke about ASML’s tool that costs £350 million to buy, and we do not need that for photonics. Everything is at least an order of magnitude bigger, so we do not need the most advanced, extremely expensive equipment, which would take us 20 years to catch up on. We need something with a lower resolution so that we have the potential to do it in this country; in fact, we are already doing it at very low volume, very flexibly. That is quite an important distinction to make: we are not playing catch-up in photonics in the same way as we are in electronics[MK75].
+Professor Littlejohns: No, in the physical size of things. That is very important: we spoke about ASML’s tool that costs £350 million to buy, and we do not need that for photonics. Everything is at least an order of magnitude bigger, so we do not need the most advanced, extremely expensive equipment, which would take us 20 years to catch up on. We need something with a lower resolution so that we have the potential to do it in this country; in fact, we are already doing it at very low volume, very flexibly. That is quite an important distinction to make: we are not playing catch-up in photonics in the same way as we are in electronics.
 
 Tom Collins: That is really helpful. When you look at the really micro scale—the stuff a couple of decades into Moore’s law—it is incredibly specialist to work at that scale. You are saying that our potential to build manufacturing capacity is actually very realistic. Although we can see many orders of magnitude between where we are and where we could be, are there a few orders of magnitude that we should be pursuing and that should be within reach?
 
 Professor Littlejohns: In photonics, yes, because we are fundamentally limited by the wavelength of the light we are using. We cannot make things smaller—they do not work—so we do not need the same drive for higher resolution as you do in electronics.
 
-One thing to add is that there is already mass manufacture of integrated photonics happening in the UK, in Northern Ireland, through Seagate. I think it provided evidence a year or so ago saying that it is actually Europe’s largest manufacturer of integrated lasers, because it uses little integrated chips in its recording heads for hard drives. That is just for its own products, though; it is not accessible to start-ups and other companies[MK76].
+One thing to add is that there is already mass manufacture of integrated photonics happening in the UK, in Northern Ireland, through Seagate. I think it provided evidence a year or so ago saying that it is actually Europe’s largest manufacturer of integrated lasers, because it uses little integrated chips in its recording heads for hard drives. That is just for its own products, though; it is not accessible to start-ups and other companies.
 
 Dr Silverstone: I can add a bit of colour there. My company, Hartley, is partnered with GlobalFoundries, which has come up again. To be clear, GlobalFoundries is a company. It is carving a niche for itself outside this race to the most advanced nodes that we have discussed with TSMC, for example, and it bottoms out at 22 nanometres of gate length.
 
@@ -481,61 +481,61 @@ Chair: That would be great.
 
 Kit Malthouse: This is not a VHS-Betamax situation, where there is an existing technology that might be inferior but is so widely adopted that nobody really wants to switch.
 
-Professor Littlejohns: No, it is being deployed. In data centres, photonics has played a key role for a long time over long distances. We are now seeing the distances shrink so that is what integrated photonics is all about: getting chip-to-chip interconnects and the optics closer and closer. It is happening[RM77].
+Professor Littlejohns: No, it is being deployed. In data centres, photonics has played a key role for a long time over long distances. We are now seeing the distances shrink so that is what integrated photonics is all about: getting chip-to-chip interconnects and the optics closer and closer. It is happening.
 
-Kit Malthouse: So in the end, photonics will win[RM78]?
+Kit Malthouse: So in the end, photonics will win?
 
-Professor Littlejohns: Yes. All the market projections are telling us that[RM79].
+Professor Littlejohns: Yes. All the market projections are telling us that.
 
-Kit Malthouse: It is just a question of whether British photonics wins[RM80]?
+Kit Malthouse: It is just a question of whether British photonics wins?
 
 Professor Littlejohns: Exactly.
 
-Chair: I remember photonics—or optical connectivity—coming to telecoms when I was working in the sector, and it has been quite extensive since then. Before I go to Daniel, it is being deployed and it is an £18 billion sector, so do you have orders? Are the British Government or the British private sector procuring from you? How is that driving the sector[RM81]?
+Chair: I remember photonics—or optical connectivity—coming to telecoms when I was working in the sector, and it has been quite extensive since then. Before I go to Daniel, it is being deployed and it is an £18 billion sector, so do you have orders? Are the British Government or the British private sector procuring from you? How is that driving the sector?
 
-Dr Silverstone: We are not yet in a position to be sending products out; we are still in the marshalling phase. We are pulling technology together to make that possible, but through the AI hardware plan, the Government are well lined up to be a first customer[RM82].
+Dr Silverstone: We are not yet in a position to be sending products out; we are still in the marshalling phase. We are pulling technology together to make that possible, but through the AI hardware plan, the Government are well lined up to be a first customer.
 
-Chair: Do you find the AI hardware plan helpful[RM83][RM84]?
+Chair: Do you find the AI hardware plan helpful?
 
 Dr Silverstone: The AI hardware plan is unusual, perhaps, in not being overly prescriptive. That is really helpful.
 
-Chair: Does the AI hardware plan give you confidence that there will be customers for your products[RM85]?
+Chair: Does the AI hardware plan give you confidence that there will be customers for your products?
 
 Dr Silverstone: If I require the Government to be there to buy my product, then I have failed. The Government can be a bridge to markets that would be hard to access otherwise, but if the Government are the customer, that does not work for me.
 
 In fact, in the context of building really ambitious British businesses, at this juncture we have the end of Moore’s law, which is why we are all worrying about the energy, speed and performance problem in compute. Moore’s law has powered computing almost without anybody really thinking about it for 50-odd years. We are now running out of nanometres to build smaller and smaller digital transistors. It is not a particular market motivation; it is really physics that is leading us to consider new ways of doing computing, and neuromorphic has floated to the top.
 
-Chair: You make a good point that Moore’s law, which was the doubling of transistors on silicon every 18 months, is coming up to the limits of physics, so that is another reason why neuromorphic computing and photonics are huge opportunities. I am just trying to get an idea of where your market is. You say you are not looking for the Government to procure silicon photonics or support it[RM86]?
+Chair: You make a good point that Moore’s law, which was the doubling of transistors on silicon every 18 months, is coming up to the limits of physics, so that is another reason why neuromorphic computing and photonics are huge opportunities. I am just trying to get an idea of where your market is. You say you are not looking for the Government to procure silicon photonics or support it?
 
-Dr Silverstone: I think the Government can provide that bridge, but ultimately we need to find customers in the big world. At the start, I mentioned some of the verticals that we are looking at. Those verticals are most interesting to us because of the advantage that we bring in time. We are looking at really fast computing. But, indeed, computing is a technology that cuts across the whole economy[RM87][RM88].
+Dr Silverstone: I think the Government can provide that bridge, but ultimately we need to find customers in the big world. At the start, I mentioned some of the verticals that we are looking at. Those verticals are most interesting to us because of the advantage that we bring in time. We are looking at really fast computing. But, indeed, computing is a technology that cuts across the whole economy.
 
-Daniel Zeichner: We have touched on some of the scaling issues already, but I would like you to comment again on what stage in the journey, in your view, most companies here are failing[RM89].
+Daniel Zeichner: We have touched on some of the scaling issues already, but I would like you to comment again on what stage in the journey, in your view, most companies here are failing.
 
 Professor Littlejohns: It is in the scale-up phase. We are great at innovating and coming up with new things, but actually deploying that is a huge challenge. It is in that phase of proving that it can be manufactured reliably and at big enough volumes that it becomes an interesting product. That is what the data we have gathered is telling us: the companies are saying that that is what their challenge is.
 
-It is not just us saying this. The Council for Science and Technology wrote to the Prime Minister pointing to this as a challenge and recommending investment in a national photonics pilot line. The “UK AI Hardware Plan” says similar things; it identifies photonics as a UK strength, and that is very clear. It identifies integrated photonics as strategically important to AI, and that is also very clear. It also identifies pilot-scale infrastructure as a “constraint”—I am quoting the document there. It also[JE90]—
+It is not just us saying this. The Council for Science and Technology wrote to the Prime Minister pointing to this as a challenge and recommending investment in a national photonics pilot line. The “UK AI Hardware Plan” says similar things; it identifies photonics as a UK strength, and that is very clear. It identifies integrated photonics as strategically important to AI, and that is also very clear. It also identifies pilot-scale infrastructure as a “constraint”—I am quoting the document there. It also—
 
-Daniel Zeichner: Can you say a bit more about what the national pilot line would achieve? I think I heard Dr Silverstone suggesting that that may not be enough either—I may have misunderstood you[JE91].
+Daniel Zeichner: Can you say a bit more about what the national pilot line would achieve? I think I heard Dr Silverstone suggesting that that may not be enough either—I may have misunderstood you.
 
-Dr Silverstone: This is a complex system—all of us together—and a pilot line fills a really important role in that system. That role is certainly at the earlier stages of technology development. We are able to deal directly with GlobalFoundries, which is incredibly unusual. Most companies of our size, at our stage, are not able to do that, so they require engagement in other ways. Indeed, for some of the applications that we are looking at, it would be invaluable to have a UK manufacturing capability on this thing. No photonics exists in a vacuum without the electronics. It is not the final piece of the puzzle there, but if I projected the impression that I did not think it was important[JE92]—
+Dr Silverstone: This is a complex system—all of us together—and a pilot line fills a really important role in that system. That role is certainly at the earlier stages of technology development. We are able to deal directly with GlobalFoundries, which is incredibly unusual. Most companies of our size, at our stage, are not able to do that, so they require engagement in other ways. Indeed, for some of the applications that we are looking at, it would be invaluable to have a UK manufacturing capability on this thing. No photonics exists in a vacuum without the electronics. It is not the final piece of the puzzle there, but if I projected the impression that I did not think it was important—
 
-Daniel Zeichner: I misunderstood that, in that case. Who does the pilot programme? What would the Government need to do for it[JE93]?
+Daniel Zeichner: I misunderstood that, in that case. Who does the pilot programme? What would the Government need to do for it?
 
-Professor Littlejohns: It is predominantly an infrastructure investment, so you need to build the facilities, and it is capital intensive, so companies like Josh’s cannot afford to build this on their own. Government can play a role in building a national shared infrastructure that is managed centrally by a team, but the companies pay to access it and they might buy 5% or 10% of the time, so you accumulate access to this facility[JE94].
+Professor Littlejohns: It is predominantly an infrastructure investment, so you need to build the facilities, and it is capital intensive, so companies like Josh’s cannot afford to build this on their own. Government can play a role in building a national shared infrastructure that is managed centrally by a team, but the companies pay to access it and they might buy 5% or 10% of the time, so you accumulate access to this facility.
 
-Daniel Zeichner: Basically—I am obviously being provocative here—the private sector will not take the risk; the Government have to take the risk[JE95].
+Daniel Zeichner: Basically—I am obviously being provocative here—the private sector will not take the risk; the Government have to take the risk.
 
-Professor Littlejohns[JE96]: It is Government who have the ability to take the risk because of the economic impact of the hundreds of companies that they can support and the jobs that that creates[JE97].
+Professor Littlejohns: It is Government who have the ability to take the risk because of the economic impact of the hundreds of companies that they can support and the jobs that that creates.
 
 Daniel Zeichner: I understand the point.
 
-Dr Silverstone[JE98]: It is not just about taking risk; it is about taking risk here. If we want this to grow here, we have to put our backs into it. I am really confident that this capability exists elsewhere—I have engaged with it before—but it does not exist here.
+Dr Silverstone: It is not just about taking risk; it is about taking risk here. If we want this to grow here, we have to put our backs into it. I am really confident that this capability exists elsewhere—I have engaged with it before—but it does not exist here.
 
-Professor Littlejohns[JE99]: That is a very important point, because it can anchor the companies here. Earlier we spoke about what is stopping Nvidia from just buying everybody. To be honest, there is not much—there is an NSI Act—but if there are compelling reasons to stay in the UK, of which infrastructure is one, then they might invest in the companies, but they will stay in the UK, and the real value will be here in the high-value jobs and the R&D.
+Professor Littlejohns: That is a very important point, because it can anchor the companies here. Earlier we spoke about what is stopping Nvidia from just buying everybody. To be honest, there is not much—there is an NSI Act—but if there are compelling reasons to stay in the UK, of which infrastructure is one, then they might invest in the companies, but they will stay in the UK, and the real value will be here in the high-value jobs and the R&D.
 
 I will give you an example which is kind of adjacent: the spin-out from the University of Southampton making hollow-core fibres. That was bought by Microsoft, but they built a facility 10 miles up the road because they want to access the local fibre infrastructure, skills and talent. That is the kind of anchoring effect that infrastructure can have. Not only do you have the infrastructure itself, but it anchors the talent, brings in investors and you get a community of start-ups being built around it. We see it in other countries. Imec in Belgium is a prime example of huge scale-up infrastructure covering all of semiconductors. They have a massive start-up environment built around them. We can do that here in the UK in photonics.
 
-Martin Wrigley[JE100]: This all sounds fascinating. From what I am hearing from colleagues’ questions, we are struggling to see where you fit in. We all roughly understand that, with today’s computers, you have Intel, which builds the CPUs and chips; you have IBM as was, which builds the boxes, and you have Microsoft to put the software on top. We understand those value chains.
+Martin Wrigley: This all sounds fascinating. From what I am hearing from colleagues’ questions, we are struggling to see where you fit in. We all roughly understand that, with today’s computers, you have Intel, which builds the CPUs and chips; you have IBM as was, which builds the boxes, and you have Microsoft to put the software on top. We understand those value chains.
 
 You are talking about specific applications and building things that are fast. I am picturing you as where Cray used to be, building supercomputers, finding those edge things and building them round so they do not have such big buses and it does not take so long for electrons to move around the machine, and building systems for share exchanges, where microseconds matter. Is there a massive market there? Your application-specific devices are limited in their global reach. Are we looking at medium-scale companies that are coming out of what you are doing here, being very specific, or is this a fundamentally technology-changing issue across the entire value chain?
 
@@ -561,294 +561,60 @@ Professor Littlejohns: The evidence we have gathered is telling us that there is
 
 Martin Wrigley: When I was working in telecoms, we always used to look for—not the magic bullet, but the product that leads it all. I cannot remember what we called it, but we looked for the new thing—the new text messaging or the new killer app. To persuade Government to invest in it, we need to hear, “This is the thing that will save defence”, “This is the thing that will save satellites”, “This is the thing that will save the space industry”, or whatever it may be. I am not hearing that.
 
-Tom Collins: You mentioned defence. I can see that being a very poignant area where we need fast decision making on complex problems. The pilot line seems like a really good, tangible ask. If you were to define that pilot line a bit more tightly, how many units per year would it have capacity for and by what year[AD101]?
+Tom Collins: You mentioned defence. I can see that being a very poignant area where we need fast decision making on complex problems. The pilot line seems like a really good, tangible ask. If you were to define that pilot line a bit more tightly, how many units per year would it have capacity for and by what year?
 
 Professor Littlejohns: Good question. It would be of the order of 10,000 to 20,000 wafers a year. It would probably take three to four years, at least to build something new. What we have worked on with industry is building a tangential R&D facility that could produce outputs much quicker.
 
-Tom Collins: So by 2032[AD102]?
+Tom Collins: So by 2032?
 
 Professor Littlejohns: Sooner, possibly—turn of the decade, say. We have done an economic analysis and it starts to show the real impact of at least £1 billion per year GVA by about 2035, and that is accelerating.
 
-Chair: That is very helpful[AD103][AD104].
+Chair: That is very helpful.
 
-Freddie van Mierlo: Paint me a picture of the future. We could have fusion, or limitless power, and AI, or limitless knowledge, and you could be producing limitless speed and capacity for computing. That is quite exciting and also slightly terrifying[AD105].
+Freddie van Mierlo: Paint me a picture of the future. We could have fusion, or limitless power, and AI, or limitless knowledge, and you could be producing limitless speed and capacity for computing. That is quite exciting and also slightly terrifying.
 
-Dr Silverstone: Yeah—let’s do it[AD106]!
+Dr Silverstone: Yeah—let’s do it!
 
 Professor Littlejohns: I think photonics will underpin all of that.
 
-Chair: Great, thank you very much. A limitless future is a very positive note on which to not quite end. As I mentioned earlier, we looked at science diplomacy and sovereignty in our report. I am not sure I heard this directly, but is this an opportunity for the UK to have sovereign capability in silicon, a key part of the AI stack, that we do not have now[AD107]?
+Chair: Great, thank you very much. A limitless future is a very positive note on which to not quite end. As I mentioned earlier, we looked at science diplomacy and sovereignty in our report. I am not sure I heard this directly, but is this an opportunity for the UK to have sovereign capability in silicon, a key part of the AI stack, that we do not have now?
 
 Professor Littlejohns: The short answer is, yes, it is for photonics. We touched on defence. It is absolutely crucial for sovereign capabilities in defence. For the record, a pilot line facility will be able to serve the volumes needed in defence.
 
-Chair: What is the sovereign capability? Is it in the circuits, the silicon stack and the compute[AD108]?
+Chair: What is the sovereign capability? Is it in the circuits, the silicon stack and the compute?
 
 Professor Littlejohns: Yes, exactly—the hardware. We can build secure telecoms and sensors for defence. That can be manufactured in photonics in the UK.
 
-Chair: That is a key ambition of the Government, who said that we wanted to have sovereign capability in silicon and in chips[AD109].
+Chair: That is a key ambition of the Government, who said that we wanted to have sovereign capability in silicon and in chips.
 
 Professor Littlejohns: But not for electronics, just to clarify. We still need international partnerships for that area, for sure.
 
 Dr Silverstone: I would add that, in the context of computing, our ambition should be to build a network of friendly manufacturers worldwide. I do not think we are going to be able to corner all of this.
 
-Chair: Okay, so friendly manufacturers who share our values, as I think is the phrase—or, rather, countries that share our values. In the evidence I have seen, I think you said you think this will have an impact in five to seven years. Is that what you were saying[AD110]?
+Chair: Okay, so friendly manufacturers who share our values, as I think is the phrase—or, rather, countries that share our values. In the evidence I have seen, I think you said you think this will have an impact in five to seven years. Is that what you were saying?
 
 Dr Silverstone indicated assent.
 
-Chair: As I mentioned earlier, we have trillions going into data centre investment. The IPOs of Anthropic and OpenAI are coming, which also involve trillions. You are talking about something that could fundamentally change the business model—that would create a lot of enemies, I imagine. Is there a way that the five to seven years could become two to three years, or is that just physically impossible? How can you compete with the vested interests of the existing business model? Could you try to answer that[JB111] just quickly, because we only have a couple of minutes?
+Chair: As I mentioned earlier, we have trillions going into data centre investment. The IPOs of Anthropic and OpenAI are coming, which also involve trillions. You are talking about something that could fundamentally change the business model—that would create a lot of enemies, I imagine. Is there a way that the five to seven years could become two to three years, or is that just physically impossible? How can you compete with the vested interests of the existing business model? Could you try to answer that just quickly, because we only have a couple of minutes?
 
 Dr Silverstone: From our perspective, two to three-year horizons are possible, but a great deal more capital would be required.
 
-Chair: What order of capital[JB112][JB113]?
+Chair: What order of capital?
 
 Dr Silverstone: In the £100 million scale.
 
-Chair: In the £100 million scale to bring it down to two to three years[JB114].
+Chair: In the £100 million scale to bring it down to two to three years.
 
 Dr Silverstone: You have heard about the state that we are at. Just for your reference, we have taken in the order of £10 million to date, so we are talking about 10x on that.
 
-Chair: So 10x on that could build the timescales down to two to three years[JB115]?
+Chair: So 10x on that could build the timescales down to two to three years?
 
 Dr Silverstone: I think so.
 
-Chair: Okay. That is interesting. Professor Littlejohns[JB116]?
+Chair: Okay. That is interesting. Professor Littlejohns?
 
-Professor Littlejohns: The impact of the pilot line might take that long because you need to build it, but the impact of the technology is happening now. Other companies are commercialising, deploying and selling this stuff. If there were commitment for this, it would help us to go and build the international partnerships for mass manufacture, because they know what is coming. That could help to accelerate it[JB117].
+Professor Littlejohns: The impact of the pilot line might take that long because you need to build it, but the impact of the technology is happening now. Other companies are commercialising, deploying and selling this stuff. If there were commitment for this, it would help us to go and build the international partnerships for mass manufacture, because they know what is coming. That could help to accelerate it.
 
 Chair: To accelerate that timeline. I think that has really given us something to think about: if, with the right levels of investment, we have the capability to upend the existing business models for AI and compute, that is a really positive story, and something that we need to think about, as a Committee.
 
 We have gone over time a little, but it has been very interesting and we have learned a lot. I thank our panellists for sharing their expertise.
-
-[JE1]<TimeTag ServerDate="04 November 2026" ServerTime="09:30:00" ServerTimeZone="09:30:00" LocalTime="GMT" />
-
-[JE2]<TimeTag ServerDate="04 November 2026" ServerTime="09:30:00" ServerTimeZone="09:30:00" LocalTime="GMT" />
-
-[JB3]<TimeTag ServerDate="04 November 2026" ServerTime="09:34:49" ServerTimeZone="09:34:49" LocalTime="GMT" />
-
-[JB4]<TimeTag ServerDate="04 November 2026" ServerTime="09:34:52" ServerTimeZone="09:34:52" LocalTime="GMT" />
-
-[JB5]<TimeTag ServerDate="04 November 2026" ServerTime="09:35:33" ServerTimeZone="09:35:33" LocalTime="GMT" />
-
-[JB6]<TimeTag ServerDate="04 November 2026" ServerTime="09:37:05" ServerTimeZone="09:37:05" LocalTime="GMT" />
-
-[JB7]<TimeTag ServerDate="04 November 2026" ServerTime="09:37:03" ServerTimeZone="09:37:03" LocalTime="GMT" />
-
-[JB8]<TimeTag ServerDate="04 November 2026" ServerTime="09:38:09" ServerTimeZone="09:38:09" LocalTime="GMT" />
-
-[JB9]<TimeTag ServerDate="04 November 2026" ServerTime="09:38:13" ServerTimeZone="09:38:13" LocalTime="GMT" />
-
-[JB10]<TimeTag ServerDate="04 November 2026" ServerTime="09:38:24" ServerTimeZone="09:38:24" LocalTime="GMT" />
-
-[RH11]<TimeTag ServerDate="04 November 2026" ServerTime="09:42:15" ServerTimeZone="09:42:15" LocalTime="GMT" />
-
-[RH12]<TimeTag ServerDate="04 November 2026" ServerTime="09:43:46" ServerTimeZone="09:43:46" LocalTime="GMT" />
-
-[RH13]<TimeTag ServerDate="04 November 2026" ServerTime="09:43:48" ServerTimeZone="09:43:48" LocalTime="GMT" />
-
-[RH14]<TimeTag ServerDate="04 November 2026" ServerTime="09:44:06" ServerTimeZone="09:44:06" LocalTime="GMT" />
-
-[EB15]<TimeTag ServerDate="04 November 2026" ServerTime="09:44:33" ServerTimeZone="09:44:33" LocalTime="GMT" />
-
-[EB16]<TimeTag ServerDate="04 November 2026" ServerTime="09:44:37" ServerTimeZone="09:44:37" LocalTime="GMT" />
-
-[EB17]<TimeTag ServerDate="04 November 2026" ServerTime="09:44:48" ServerTimeZone="09:44:48" LocalTime="GMT" />
-
-[EB18]<TimeTag ServerDate="04 November 2026" ServerTime="09:44:48" ServerTimeZone="09:44:48" LocalTime="GMT" />
-
-[EB19]<TimeTag ServerDate="04 November 2026" ServerTime="09:45:37" ServerTimeZone="09:45:37" LocalTime="GMT" />
-
-[EB20]<TimeTag ServerDate="04 November 2026" ServerTime="09:47:18" ServerTimeZone="09:47:18" LocalTime="GMT" />
-
-[EB21]<TimeTag ServerDate="04 November 2026" ServerTime="09:47:31" ServerTimeZone="09:47:31" LocalTime="GMT" />
-
-[GW22]<TimeTag ServerDate="04 November 2026" ServerTime="09:55:16" ServerTimeZone="09:55:16" LocalTime="GMT" />
-
-[GW23]<TimeTag ServerDate="04 November 2026" ServerTime="09:55:52" ServerTimeZone="09:55:52" LocalTime="GMT" />
-
-[GW24]<TimeTag ServerDate="04 November 2026" ServerTime="09:56:47" ServerTimeZone="09:56:47" LocalTime="GMT" />
-
-[GW25]<TimeTag ServerDate="04 November 2026" ServerTime="09:57:02" ServerTimeZone="09:57:02" LocalTime="GMT" />
-
-[GW26]<TimeTag ServerDate="04 November 2026" ServerTime="09:57:57" ServerTimeZone="09:57:57" LocalTime="GMT" />
-
-[GW27]<TimeTag ServerDate="04 November 2026" ServerTime="09:58:42" ServerTimeZone="09:58:42" LocalTime="GMT" />
-
-[GW28]<TimeTag ServerDate="04 November 2026" ServerTime="09:58:44" ServerTimeZone="09:58:44" LocalTime="GMT" />
-
-[GW29]<TimeTag ServerDate="04 November 2026" ServerTime="09:58:49" ServerTimeZone="09:58:49" LocalTime="GMT" />
-
-[GW30]<TimeTag ServerDate="04 November 2026" ServerTime="09:59:06" ServerTimeZone="09:59:06" LocalTime="GMT" />
-
-[GW31]<TimeTag ServerDate="04 November 2026" ServerTime="09:59:07" ServerTimeZone="09:59:07" LocalTime="GMT" />
-
-[DB32]<TimeTag ServerDate="04 November 2026" ServerTime="10:00:57" ServerTimeZone="10:00:57" LocalTime="GMT" />
-
-[DB33]<TimeTag ServerDate="04 November 2026" ServerTime="10:03:23" ServerTimeZone="10:03:23" LocalTime="GMT" />
-
-[DB34]<TimeTag ServerDate="04 November 2026" ServerTime="10:03:51" ServerTimeZone="10:03:51" LocalTime="GMT" />
-
-[KB35]<TimeTag ServerDate="04 November 2026" ServerTime="10:14:19" ServerTimeZone="10:14:19" LocalTime="GMT" />
-
-[KB36]<TimeTag ServerDate="04 November 2026" ServerTime="10:14:19" ServerTimeZone="10:14:19" LocalTime="GMT" />
-
-[KB37]<TimeTag ServerDate="04 November 2026" ServerTime="10:14:32" ServerTimeZone="10:14:32" LocalTime="GMT" />
-
-[KB38]<TimeTag ServerDate="04 November 2026" ServerTime="10:14:32" ServerTimeZone="10:14:32" LocalTime="GMT" />
-
-[KB39]<TimeTag ServerDate="04 November 2026" ServerTime="10:14:19" ServerTimeZone="10:14:19" LocalTime="GMT" />
-
-[KB40]<TimeTag ServerDate="04 November 2026" ServerTime="10:14:32" ServerTimeZone="10:14:32" LocalTime="GMT" />
-
-[KB41]<TimeTag ServerDate="04 November 2026" ServerTime="10:14:19" ServerTimeZone="10:14:19" LocalTime="GMT" />
-
-[KB42]<TimeTag ServerDate="04 November 2026" ServerTime="10:14:32" ServerTimeZone="10:14:32" LocalTime="GMT" />
-
-[KB43]<TimeTag ServerDate="04 November 2026" ServerTime="10:14:32" ServerTimeZone="10:14:32" LocalTime="GMT" />
-
-[KB44]<TimeTag ServerDate="04 November 2026" ServerTime="10:19:36" ServerTimeZone="10:19:36" LocalTime="GMT" />
-
-[AM45]<TimeTag ServerDate="04 November 2026" ServerTime="10:20:24" ServerTimeZone="10:20:24" LocalTime="GMT" />
-
-[AM46]<TimeTag ServerDate="04 November 2026" ServerTime="10:20:53" ServerTimeZone="10:20:53" LocalTime="GMT" />
-
-[AM47]<TimeTag ServerDate="04 November 2026" ServerTime="10:21:44" ServerTimeZone="10:21:44" LocalTime="GMT" />
-
-[AM48]<TimeTag ServerDate="04 November 2026" ServerTime="10:21:46" ServerTimeZone="10:21:46" LocalTime="GMT" />
-
-[AM49]<TimeTag ServerDate="04 November 2026" ServerTime="10:21:51" ServerTimeZone="10:21:51" LocalTime="GMT" />
-
-[AM50]<TimeTag ServerDate="04 November 2026" ServerTime="10:22:17" ServerTimeZone="10:22:17" LocalTime="GMT" />
-
-[AM51]<TimeTag ServerDate="04 November 2026" ServerTime="10:22:21" ServerTimeZone="10:22:21" LocalTime="GMT" />
-
-[AM52]<TimeTag ServerDate="04 November 2026" ServerTime="10:22:58" ServerTimeZone="10:22:58" LocalTime="GMT" />
-
-[JH53]<TimeTag ServerDate="04 November 2026" ServerTime="10:24:33" ServerTimeZone="10:24:33" LocalTime="GMT" />
-
-[JH54]<TimeTag ServerDate="04 November 2026" ServerTime="10:25:16" ServerTimeZone="10:25:16" LocalTime="GMT" />
-
-[JH55]<TimeTag ServerDate="04 November 2026" ServerTime="10:28:39" ServerTimeZone="10:28:39" LocalTime="GMT" />
-
-[JH56]<TimeTag ServerDate="04 November 2026" ServerTime="10:28:54" ServerTimeZone="10:28:54" LocalTime="GMT" />
-
-[MK57]<TimeTag ServerDate="04 November 2026" ServerTime="10:35:27" ServerTimeZone="10:35:27" LocalTime="GMT" />
-
-[MK58]<TimeTag ServerDate="04 November 2026" ServerTime="10:36:10" ServerTimeZone="10:36:10" LocalTime="GMT" />
-
-[MK59]<TimeTag ServerDate="04 November 2026" ServerTime="10:36:12" ServerTimeZone="10:36:12" LocalTime="GMT" />
-
-[MK60]<TimeTag ServerDate="04 November 2026" ServerTime="10:36:12" ServerTimeZone="10:36:12" LocalTime="GMT" />
-
-[MK61]<TimeTag ServerDate="04 November 2026" ServerTime="10:36:14" ServerTimeZone="10:36:14" LocalTime="GMT" />
-
-[MK62]<TimeTag ServerDate="04 November 2026" ServerTime="10:36:48" ServerTimeZone="10:36:48" LocalTime="GMT" />
-
-[MK63]<TimeTag ServerDate="04 November 2026" ServerTime="10:36:47" ServerTimeZone="10:36:47" LocalTime="GMT" />
-
-[MK64]<TimeTag ServerDate="04 November 2026" ServerTime="10:38:29" ServerTimeZone="10:38:29" LocalTime="GMT" />
-
-[MK65]<TimeTag ServerDate="04 November 2026" ServerTime="10:38:29" ServerTimeZone="10:38:29" LocalTime="GMT" />
-
-[MK66]<TimeTag ServerDate="04 November 2026" ServerTime="10:38:41" ServerTimeZone="10:38:41" LocalTime="GMT" />
-
-[MK67]<TimeTag ServerDate="04 November 2026" ServerTime="10:38:39" ServerTimeZone="10:38:39" LocalTime="GMT" />
-
-[MK68]<TimeTag ServerDate="04 November 2026" ServerTime="10:39:27" ServerTimeZone="10:39:27" LocalTime="GMT" />
-
-[MK69]<TimeTag ServerDate="04 November 2026" ServerTime="10:39:22" ServerTimeZone="10:39:22" LocalTime="GMT" />
-
-[MK70]<TimeTag ServerDate="04 November 2026" ServerTime="10:39:29" ServerTimeZone="10:39:29" LocalTime="GMT" />
-
-[MK71]<TimeTag ServerDate="04 November 2026" ServerTime="10:39:29" ServerTimeZone="10:39:29" LocalTime="GMT" />
-
-[MK72]<TimeTag ServerDate="04 November 2026" ServerTime="10:40:47" ServerTimeZone="10:40:47" LocalTime="GMT" />
-
-[MK73]<TimeTag ServerDate="04 November 2026" ServerTime="10:41:10" ServerTimeZone="10:41:10" LocalTime="GMT" />
-
-[MK74]<TimeTag ServerDate="04 November 2026" ServerTime="10:41:36" ServerTimeZone="10:41:36" LocalTime="GMT" />
-
-[MK75]<TimeTag ServerDate="04 November 2026" ServerTime="10:42:06" ServerTimeZone="10:42:06" LocalTime="GMT" />
-
-[MK76]<TimeTag ServerDate="04 November 2026" ServerTime="10:43:24" ServerTimeZone="10:43:24" LocalTime="GMT" />
-
-[RM77]<TimeTag ServerDate="04 November 2026" ServerTime="10:49:52" ServerTimeZone="10:49:52" LocalTime="GMT" />
-
-[RM78]<TimeTag ServerDate="04 November 2026" ServerTime="10:49:53" ServerTimeZone="10:49:53" LocalTime="GMT" />
-
-[RM79]<TimeTag ServerDate="04 November 2026" ServerTime="10:49:58" ServerTimeZone="10:49:58" LocalTime="GMT" />
-
-[RM80]<TimeTag ServerDate="04 November 2026" ServerTime="10:50:01" ServerTimeZone="10:50:01" LocalTime="GMT" />
-
-[RM81]<TimeTag ServerDate="04 November 2026" ServerTime="10:50:24" ServerTimeZone="10:50:24" LocalTime="GMT" />
-
-[RM82]<TimeTag ServerDate="04 November 2026" ServerTime="10:50:53" ServerTimeZone="10:50:53" LocalTime="GMT" />
-
-[RM83]<TimeTag ServerDate="04 November 2026" ServerTime="10:50:58" ServerTimeZone="10:50:58" LocalTime="GMT" />
-
-[RM84]<TimeTag ServerDate="04 November 2026" ServerTime="10:50:58" ServerTimeZone="10:50:58" LocalTime="GMT" />
-
-[RM85]<TimeTag ServerDate="04 November 2026" ServerTime="10:51:18" ServerTimeZone="10:51:18" LocalTime="GMT" />
-
-[RM86]<TimeTag ServerDate="04 November 2026" ServerTime="10:52:59" ServerTimeZone="10:52:59" LocalTime="GMT" />
-
-[RM87]<TimeTag ServerDate="04 November 2026" ServerTime="10:53:37" ServerTimeZone="10:53:37" LocalTime="GMT" />
-
-[RM88]<TimeTag ServerDate="04 November 2026" ServerTime="10:53:36" ServerTimeZone="10:53:36" LocalTime="GMT" />
-
-[RM89]<TimeTag ServerDate="04 November 2026" ServerTime="10:53:47" ServerTimeZone="10:53:47" LocalTime="GMT" />
-
-[JE90]<TimeTag ServerDate="04 November 2026" ServerTime="10:55:01" ServerTimeZone="10:55:01" LocalTime="GMT" />
-
-[JE91]<TimeTag ServerDate="04 November 2026" ServerTime="10:55:13" ServerTimeZone="10:55:13" LocalTime="GMT" />
-
-[JE92]<TimeTag ServerDate="04 November 2026" ServerTime="10:56:01" ServerTimeZone="10:56:01" LocalTime="GMT" />
-
-[JE93]<TimeTag ServerDate="04 November 2026" ServerTime="10:56:11" ServerTimeZone="10:56:11" LocalTime="GMT" />
-
-[JE94]<TimeTag ServerDate="04 November 2026" ServerTime="10:56:39" ServerTimeZone="10:56:39" LocalTime="GMT" />
-
-[JE95]<TimeTag ServerDate="04 November 2026" ServerTime="10:56:46" ServerTimeZone="10:56:46" LocalTime="GMT" />
-
-[JE96]<TimeTag ServerDate="04 November 2026" ServerTime="10:56:46" ServerTimeZone="10:56:46" LocalTime="GMT" />
-
-[JE97]<TimeTag ServerDate="04 November 2026" ServerTime="10:56:57" ServerTimeZone="10:56:57" LocalTime="GMT" />
-
-[JE98]<TimeTag ServerDate="04 November 2026" ServerTime="10:56:46" ServerTimeZone="10:56:46" LocalTime="GMT" />
-
-[JE99]<TimeTag ServerDate="04 November 2026" ServerTime="10:56:46" ServerTimeZone="10:56:46" LocalTime="GMT" />
-
-[JE100]<TimeTag ServerDate="04 November 2026" ServerTime="10:56:46" ServerTimeZone="10:56:46" LocalTime="GMT" />
-
-[AD101]<TimeTag ServerDate="04 November 2026" ServerTime="11:05:24" ServerTimeZone="11:05:24" LocalTime="GMT" />
-
-[AD102]<TimeTag ServerDate="04 November 2026" ServerTime="11:05:49" ServerTimeZone="11:05:49" LocalTime="GMT" />
-
-[AD103]<TimeTag ServerDate="04 November 2026" ServerTime="11:06:16" ServerTimeZone="11:06:16" LocalTime="GMT" />
-
-[AD104]<TimeTag ServerDate="04 November 2026" ServerTime="11:06:28" ServerTimeZone="11:06:28" LocalTime="GMT" />
-
-[AD105]<TimeTag ServerDate="04 November 2026" ServerTime="11:06:28" ServerTimeZone="11:06:28" LocalTime="GMT" />
-
-[AD106]<TimeTag ServerDate="04 November 2026" ServerTime="11:06:34" ServerTimeZone="11:06:34" LocalTime="GMT" />
-
-[AD107]<TimeTag ServerDate="04 November 2026" ServerTime="11:07:17" ServerTimeZone="11:07:17" LocalTime="GMT" />
-
-[AD108]<TimeTag ServerDate="04 November 2026" ServerTime="11:07:49" ServerTimeZone="11:07:49" LocalTime="GMT" />
-
-[AD109]<TimeTag ServerDate="04 November 2026" ServerTime="11:08:13" ServerTimeZone="11:08:13" LocalTime="GMT" />
-
-[AD110]<TimeTag ServerDate="04 November 2026" ServerTime="11:08:55" ServerTimeZone="11:08:55" LocalTime="GMT" />
-
-[JB111]<TimeTag ServerDate="04 November 2026" ServerTime="11:09:58" ServerTimeZone="11:09:58" LocalTime="GMT" />
-
-[JB112]<TimeTag ServerDate="04 November 2026" ServerTime="11:10:02" ServerTimeZone="11:10:02" LocalTime="GMT" />
-
-[JB113]<TimeTag ServerDate="04 November 2026" ServerTime="11:10:02" ServerTimeZone="11:10:02" LocalTime="GMT" />
-
-[JB114]<TimeTag ServerDate="04 November 2026" ServerTime="11:10:10" ServerTimeZone="11:10:10" LocalTime="GMT" />
-
-[JB115]<TimeTag ServerDate="04 November 2026" ServerTime="11:10:22" ServerTimeZone="11:10:22" LocalTime="GMT" />
-
-[JB116]<TimeTag ServerDate="04 November 2026" ServerTime="11:10:26" ServerTimeZone="11:10:26" LocalTime="GMT" />
-
-[JB117]<TimeTag ServerDate="04 November 2026" ServerTime="11:10:52" ServerTimeZone="11:10:52" LocalTime="GMT" />

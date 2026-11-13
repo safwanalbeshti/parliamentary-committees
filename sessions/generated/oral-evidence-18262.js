@@ -1,6 +1,6 @@
 /*
  * Generated from UK Parliament oral evidence 18262.
- * Source status: Published. Source hash: bba152e3aaba003e1e8fe01d609c0620333bc9bff6fbeced9ecb66e9113074e3
+ * Source status: Published. Source hash: b2ed3ba3256c76fced910d769124587202154288968213bbc54585ed2d105db8
  * Contains Parliamentary information licensed under the Open Parliament Licence v3.0.
  */
 window.COMMITTEE_SESSIONS = window.COMMITTEE_SESSIONS || [];
@@ -11,7 +11,7 @@ window.COMMITTEE_SESSIONS.push({
   "date": "4 November 2026",
   "sourceUrl": "https://committees.parliament.uk/oralevidence/18262/html/",
   "sourceLabel": "Official published transcript",
-  "summary": "Researchers and start-ups explained two related routes to much lower‑energy computing—neuromorphic chips that work like brains, and silicon photonics that move and process data with light—and set out technical promise, UK strengths (research, specific clusters and prototype foundries) and key barriers: the gap from lab to manufacturing, limited patient capital, and lack of coordinated government action to get UK IP into commercial foundries. They recommended a national pilot‑line, clearer Government procurement and targeted investment to turn existing UK IP into companies and sovereign capability.",
+  "summary": "Industry experts explained how brain-like (‘neuromorphic’) computing and silicon photonics can cut energy use, speed up time‑critical AI and let devices compute at the edge. They gave concrete examples (event cameras, memristors, integrated photonic chips), said the UK has world-class research but lacks the scale, foundry access and patient capital to commercialise it, and set out practical asks: a pilot manufacturing line, Government help to get university IP into big foundries, and procurement or diplomacy to anchor the sector.",
   "room": {
     "image": "Energy Resilience/committee_room_4.png",
     "width": 2788,
@@ -71,93 +71,16 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#315f72",
       "soft": "#d7edf0"
     },
-    "Professor Tony Kenyon": {
-      "name": "Professor Tony Kenyon",
-      "role": "Professor, neuromorphic hardware researcher (first panel witness)",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member1"
-      ],
-      "color": "#6f5c91",
-      "soft": "#ebe2f5"
-    },
-    "Dr Tanya Mangoma": {
-      "name": "Dr Tanya Mangoma",
-      "role": "Chief Product Officer, Analogue Insight (first panel witness)",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member2"
-      ],
-      "color": "#4c7b5d",
-      "soft": "#dff0dd"
-    },
-    "Tom Collins": {
-      "name": "Tom Collins",
-      "role": "Committee member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member3"
-      ],
-      "color": "#9b543e",
-      "soft": "#f2e0d7"
-    },
-    "Maya Ellis": {
-      "name": "Maya Ellis",
-      "role": "Committee member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member4"
-      ],
-      "color": "#287079",
-      "soft": "#d9eeee"
-    },
-    "Kit Malthouse": {
-      "name": "Kit Malthouse",
-      "role": "Committee member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member5"
-      ],
-      "color": "#b17b2e",
-      "soft": "#f5e8c4"
-    },
-    "Daniel Zeichner": {
-      "name": "Daniel Zeichner",
-      "role": "Committee member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member6"
-      ],
-      "color": "#8a5a78",
-      "soft": "#f0e2ec"
-    },
-    "Martin Wrigley": {
-      "name": "Martin Wrigley",
-      "role": "Committee member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member1"
-      ],
-      "color": "#5c676d",
-      "soft": "#e5e8e8"
-    },
     "Professor Callum Littlejohns": {
       "name": "Professor Callum Littlejohns",
-      "role": "Deputy Director, CORNERSTONE photonics innovation centre",
+      "role": "Deputy Director, CORNERSTONE (silicon photonics innovation centre)",
       "description": "",
       "kind": "witness",
       "seats": [
         "witness1"
       ],
-      "color": "#315f72",
-      "soft": "#d7edf0"
+      "color": "#6f5c91",
+      "soft": "#ebe2f5"
     },
     "Dr Josh Silverstone": {
       "name": "Dr Josh Silverstone",
@@ -167,48 +90,132 @@ window.COMMITTEE_SESSIONS.push({
       "seats": [
         "witness2"
       ],
+      "color": "#4c7b5d",
+      "soft": "#dff0dd"
+    },
+    "Professor Tony Kenyon": {
+      "name": "Professor Tony Kenyon",
+      "role": "Professor, UCL; director, Neuroware IKC",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member1"
+      ],
+      "color": "#9b543e",
+      "soft": "#f2e0d7"
+    },
+    "Dr Tanya Mangoma": {
+      "name": "Dr Tanya Mangoma",
+      "role": "Chief Product Officer, Analogue Insight; analogue neuromorphic designer",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member2"
+      ],
+      "color": "#287079",
+      "soft": "#d9eeee"
+    },
+    "Maya Ellis": {
+      "name": "Maya Ellis",
+      "role": "Committee member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member3"
+      ],
+      "color": "#b17b2e",
+      "soft": "#f5e8c4"
+    },
+    "Freddie van Mierlo": {
+      "name": "Freddie van Mierlo",
+      "role": "Committee member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member4"
+      ],
+      "color": "#8a5a78",
+      "soft": "#f0e2ec"
+    },
+    "Kit Malthouse": {
+      "name": "Kit Malthouse",
+      "role": "Committee member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member5"
+      ],
+      "color": "#5c676d",
+      "soft": "#e5e8e8"
+    },
+    "Tom Collins": {
+      "name": "Tom Collins",
+      "role": "Committee member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member6"
+      ],
+      "color": "#315f72",
+      "soft": "#d7edf0"
+    },
+    "Daniel Zeichner": {
+      "name": "Daniel Zeichner",
+      "role": "Committee member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member1"
+      ],
       "color": "#6f5c91",
       "soft": "#ebe2f5"
+    },
+    "Martin Wrigley": {
+      "name": "Martin Wrigley",
+      "role": "Committee member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member2"
+      ],
+      "color": "#4c7b5d",
+      "soft": "#dff0dd"
     }
   },
-  "transcript": "# Low-energy computing\n\n## What neuromorphic computing and silicon photonics are\n> Neuromorphic chips mimic brain-like, event-driven processing to cut energy; silicon photonics moves and processes data with light and can underpin low-energy systems.\n\nChair: Today we want to understand how neuromorphic computing and silicon photonics could deliver lower‑energy computing and what stops them scaling.\nDr Tanya Mangoma: Neuromorphic computing can be analogue: chips that naturally behave like spiking neural networks so you don't emulate the brain in software but let the hardware do it.\nProfessor Tony Kenyon: It's true these systems take lessons from the brain. We can emulate some brain behaviours and combine them with other tech—photonics, for example—to do things brains don't do, like very high‑speed data links.\nDr Tanya Mangoma: Spiking networks add time as part of the signal: they are event‑based, train and adapt in real time and only generate outputs when something important happens.\nProfessor Callum Littlejohns: Photonics is the technology of light. Silicon photonics puts light-based components on a chip, letting you carry large volumes of data with much less energy than electronics.\n\n\n## Why energy and edge speed matter\n> Neuromorphic approaches and photonics together can dramatically cut energy use and make very fast 'sense-and-act' systems practical at the edge.\n\nChair: As an example: the human brain runs on about 20 W whereas doing the same class of tasks in big digital systems can cost many kilowatts to megawatts. That energy gap is the prize.\nDr Tanya Mangoma: Current data centres move a lot of data between memory and processors; neuromorphic chips co‑locate memory and compute so you stop moving data and save energy.\nProfessor Tony Kenyon: Also, devices like event cameras only produce data when the scene changes. Couple that with neuromorphic processors and you avoid generating whole images—huge data and energy savings.\nDr Josh Silverstone: Hartley uses photonics for ultrafast inference where time matters—finance, defence, networks and robotics—cases where lower latency and energy are both critical.\nProfessor Callum Littlejohns: If data centres' energy use is projected to spike, photonics and neuromorphic techniques are among the best candidates to slow or reverse that trend.\n\n\n## UK strengths and real examples\n> The UK has world‑class research and specific assets—SpiNNaker, memristor and ReRAM IP, clusters in silicon carbide and photonics, and small foundries—that can be turned into companies.\n\nDr Tanya Mangoma: The UK invented a lot of the core IP: SpiNNaker from Manchester, materials and analogue design in several universities, plus small foundries like Pragmatic and companies such as Paragraf.\nProfessor Tony Kenyon: My spin‑out is commercialising memristor‑style memories. Memristors can combine light sensitivity, memory and computation on one plane—an artificial retina is one example.\nProfessor Callum Littlejohns: CORNERSTONE helps take silicon photonics from lab prototypes to real chips; the UK ranks highly in photonics research and already makes components used in industry.\nDr Josh Silverstone: Bristol has real expertise. My firm applies lessons from photonic quantum work to classical photonic compute; the people and ideas exist here to build ambitious companies.\n\n\n## The manufacturing and investment bottlenecks\n> The main barriers are the gap from lab to manufacturable product, access to foundry processes, and a lack of patient capital and coordinated government action.\n\nMaya Ellis: Where are the political and market barriers—why isn't the UK turning IP into products faster?\nDr Tanya Mangoma: You need a foundry recipe to make chips at scale. Global foundries (TSMC, UMC, GlobalFoundries) control those recipes and the UK lacks the political and commercial pull to get our IP accepted.\nProfessor Tony Kenyon: A rule of thumb: going from lab tech to commercial product can cost around $100 million. The UK needs patient capital and greater risk appetite to bridge that 'valley of death'.\nKit Malthouse: Why does most of the value sit with big foundries rather than designers in the UK?\nDr Tanya Mangoma: We can't realistically become the next TSMC. The way to capture value is to get our IP into those foundries or to use UK pilot foundries for edge devices, then scale via partnerships.\nTom Collins: Is there already manufacturing in the UK that could be scaled?\nProfessor Callum Littlejohns: Yes—lab facilities and small volume manufacturing exist. The missing piece is a pilot line: a shared mid‑scale facility to prove manufacture at hundreds or thousands of wafers, not just one.\nDr Josh Silverstone: GlobalFoundries and others can make our designs today; their capacity dwarfs what start‑ups need. But to build an ecosystem here we need UK pilot facilities and the capital to push products to market.\nProfessor Tony Kenyon: DSIT pledged about £20m to neuromorphic computing to 2030—useful but far short of the sums needed to build sovereign commercial capability.\n\n\n## Policy asks, timelines and risks\n> Witnesses ask for a national pilot line, stronger government engagement with foundries, procurement support, and more patient capital to shorten timelines and anchor industry in the UK.\n\nDaniel Zeichner: What practical steps would bridge the scale‑up gap?\nProfessor Tony Kenyon: Publish a national neuromorphic strategy, fund shared prototyping/testbeds and use procurement as an early customer in defence, healthcare or robotics to give firms market certainty.\nProfessor Callum Littlejohns: We recommend a national silicon photonics pilot line: 10,000–20,000 wafers a year capacity, built in 3–4 years, to let firms prove manufacturing and attract global partners.\nDr Josh Silverstone: With more capital—order of £100m for some programmes—timelines for product delivery could shrink from five‑seven years to two‑three years for certain roadmaps.\nMartin Wrigley: What's to stop big firms like Nvidia buying all the British IP?\nDr Tanya Mangoma: They can buy companies; the best defence is to back UK firms so they scale here. Infrastructure and a pilot line help anchor companies and talent in the UK.\nKit Malthouse: You asked for Government intervention to open doors at TSMC—do you mean diplomatic weight not just money?\nDr Tanya Mangoma: Yes: someone with authority to get foundries to test UK IP and to make partnerships. University teams can't do that alone.\nChair: To summarise: the technology exists and could reduce energy use and deliver edge capability; the UK has research strengths; the obstacles are scale‑up, capital, foundry access and co‑ordination; asks are a pilot line, stronger Government facilitation with foundries and procurement pull.\nProfessor Callum Littlejohns: If the Government commits to pilot infrastructure and works with industry on milestones, we can both keep jobs here and make the UK an attractive place for global partners to invest.\nDr Josh Silverstone: Ambition matters: with the people, some funding and pilot facilities, the UK can build companies that own value and deliver low‑energy, fast computing for important sectors.\n",
+  "transcript": "# Low-energy computing\n\n## What the technologies are and why they matter\n> Neuromorphic chips emulate brain-style, event-driven processing and silicon photonics uses light to move lots of data with low energy.\n\nChair: We’re looking at low-energy computing — neuromorphic computing and silicon photonics — and how they might be turned into real products.\nDr Tanya Mangoma: Analogue neuromorphic uses hardware that behaves like spiking neural networks, so it’s event-driven and can learn or adapt in real time rather than only in big offline training runs.\nProfessor Tony Kenyon: Neuromorphic borrows from the brain: it co-locates memory and compute and pays attention only to useful signals. Combined with photonics, it lets us handle some problems at much higher speed.\nFreddie van Mierlo: Quickly — what is silicon photonics in plain terms?\nProfessor Callum Littlejohns: Photonics is light-based technology; silicon photonics puts light paths on small chips so you can transmit huge volumes of data using much less energy than electrons over wires.\nDr Josh Silverstone: I build photonic neuromorphic systems for time-critical tasks — finance, defence, robotics — where nanoseconds and power efficiency matter.\n\n\n## Concrete benefits and examples\n> These approaches promise orders-of-magnitude energy savings and new, fast edge capabilities — examples include event cameras, memristor sensors and integrated photonic chips.\n\nChair: People often compare brains (about 20 W) to data centres (hundreds of kilowatts to megawatts) — can these technologies really narrow that gap?\nDr Tanya Mangoma: Yes. Data centre energy is often spent moving and storing volatile data. Neuromorphic chips combine memory and compute, cut data movement and use spikes to send only important information.\nProfessor Tony Kenyon: An event camera only reports pixels that change, so you avoid digitising an entire image. If you scale that idea to other sensors, you avoid generating vast amounts of useless data.\nProfessor Tony Kenyon: Memristors can be light-sensitive, store information and compute locally — imagine an artificial retina where sensing, memory and processing sit on the same plane.\nProfessor Callum Littlejohns: Silicon photonics already moves hundreds of gigabits per second on tiny chips. That reduces energy per bit and is essential as AI demand balloons.\nDr Josh Silverstone: Our focus is latency-sensitive inference: fusion control, satellite links, robotics — places where faster, more efficient answers are commercially valuable today.\n\n\n## Main barriers: scale, foundries, investment and coordination\n> The UK has top research and early companies but lacks mid-scale manufacturing, easy foundry access, patient capital and a co‑ordinating strategy to commercialise.\n\nMaya Ellis: You say the UK has IP and research — why hasn’t it turned into big commercial firms?\nDr Tanya Mangoma: A big bottleneck is foundries. Big global fabs (TSMC, UMC, GlobalFoundries) control the manufacturing 'recipes'. UK research can’t get easy access to those recipes to commercialise.\nProfessor Tony Kenyon: There’s also a funding and risk‑appetite gap. A rule of thumb from the witnesses: roughly $100m is often needed to move from lab tech to commercial silicon — that needs patient private capital plus public support.\nKit Malthouse: Why does value sit with foundries and not with designers like we have in the UK?\nDr Tanya Mangoma: You can capture value by getting your IP into mass manufacture at the big foundries — but you need Government or a national body to open those doors and negotiate access.\nProfessor Tony Kenyon: We also need an ecosystem: pilot lines, testbeds, design tools, packaging and importantly procurement pull from Government to be early customers.\nDaniel Zeichner: Does the UK have the industrial capacity to manufacture at commercial scale?\nProfessor Tony Kenyon: No single country does the full advanced stack — it’s global. But the UK can own parts: design, materials, pilot manufacture and niche foundries for edge chips.\nDr Tanya Mangoma: Smaller UK foundries like Pragmatic and Paragraf can make chips for edge use-cases. That gives a form of sovereignty if we coordinate and fund scale-up.\nTom Collins: Is ASML-level equipment needed here? That’s a decades-long, hugely expensive effort.\nProfessor Tony Kenyon: ASML's extreme‑ultraviolet machines are unique and cost hundreds of millions — we don’t need to chase that for photonics. Photonics works at larger device scales and needs different tools.\n\n\n## Practical asks: pilot lines, diplomacy, procurement and capital\n> Witnesses asked for a UK pilot manufacturing line, Government to help negotiate foundry access, more patient capital and procurement to anchor demand.\n\nKit Malthouse: Who should be the 'guiding mind' inside Government to coordinate this — UKRI, the UK Semiconductor Centre?\nDr Tanya Mangoma: The UK Semiconductor Centre exists for this. We need it to take authority to negotiate with big foundries and make university IP accessible for manufacture.\nProfessor Callum Littlejohns: Our survey of ~100 UK photonics companies points at a clear gap: proving manufacturability at pilot scale. A national pilot line would let companies go from 1 prototype to thousands of wafers.\nDaniel Zeichner: What scale for a pilot line?\nProfessor Callum Littlejohns: Industry estimates: roughly 10,000–20,000 wafers a year; building one might take 3–4 years and could generate significant economic impact by the mid-2030s.\nDr Josh Silverstone: To compress timelines to 2–3 years for productisation would need roughly £100m of capital for ventures like ours — we’ve currently raised about £10m to date.\nChair: Is £20m government funding to 2030 enough to deliver sovereign capability?\nProfessor Tony Kenyon: No — £20m seeds activity but won’t deliver sovereign commercial capability. Moving lab tech to foundry-scale needs far more sustained funding and patient private investment.\nMartin Wrigley: What about the risk of big companies like Nvidia buying the tech and moving value overseas?\nDr Tanya Mangoma: That can happen. The defence is to back UK firms (eg Fractile) to use the IP so the value sits with home companies, and to create infrastructure that anchors jobs and R&D here.\nProfessor Callum Littlejohns: Infrastructure can anchor multinational investment — Microsoft bought a UK photonics spin-out but built nearby facilities to keep talent and R&D local.\nChair: So the short asks are: a time‑bound feasibility for a pilot line, Government help to open foundry doors, more patient capital and procurement to be early customer?\nProfessor Tony Kenyon: Yes, and include neuromorphic in national strategies, fund testbeds, and consider doctoral training and workforce development for the field.\nDr Josh Silverstone: Also, aim higher on ambition: if we want global companies formed here, be willing to back big projects and international partnerships rather than only tiny bets.\nChair: Thank you — this gives the Committee concrete policy levers to consider.\n",
   "inquiry": "Low-energy computing",
   "glossary": [
     {
-      "term": "neuromorphic computing",
-      "definition": "Computer hardware that is designed to operate more like a brain, combining memory and processing and often working with event-based signals."
+      "term": "Neuromorphic computing",
+      "definition": "Hardware and chips that are designed to work like biological brains, often with memory and computing co-located."
     },
     {
-      "term": "spiking neural network",
-      "definition": "A neural network that processes information as time-stamped events or 'spikes', enabling event-driven, lower‑energy operation."
+      "term": "Spiking neural network",
+      "definition": "A neural model that encodes signals as time-based spikes, allowing event-driven, low-energy processing."
     },
     {
-      "term": "photonics",
-      "definition": "Technology that uses light (photons) to carry information or do computation, like fibre optics or on‑chip optical circuits."
+      "term": "Silicon photonics",
+      "definition": "Using light (photons) on silicon chips to move and process data more efficiently than electrons alone."
     },
     {
-      "term": "silicon photonics",
-      "definition": "Integrating photonics (light) on silicon chips so optical signalling and some processing can happen on a small chip."
+      "term": "Foundry",
+      "definition": "A factory (eg TSMC, GlobalFoundries) that mass-manufactures semiconductor chips from customers' designs."
     },
     {
-      "term": "foundry",
-      "definition": "A factory that mass-manufactures semiconductor chips for many customers, e.g. TSMC or GlobalFoundries."
+      "term": "Memristor",
+      "definition": "A device whose electrical behaviour depends on past signals; can act as memory and computation in one."
+    },
+    {
+      "term": "Pilot line",
+      "definition": "A shared mid-scale manufacturing facility that proves a design can be made reliably before mass production."
     },
     {
       "term": "ReRAM",
-      "definition": "A type of non-volatile resistive memory that can store data without constant power, useful for co-located memory/compute designs."
+      "definition": "Resistive random-access memory, a type of non-volatile memory useful for co-locating memory and compute."
     },
     {
-      "term": "memristor",
-      "definition": "A device whose resistance depends on past electrical signals; can act as memory and a compute element in neuromorphic designs."
-    },
-    {
-      "term": "pilot line",
-      "definition": "A shared, mid-scale manufacturing facility used to prove you can make a device reliably at volumes between lab and mass production."
-    },
-    {
-      "term": "event camera",
-      "definition": "A camera that only reports changes in the scene (events) rather than full frames, greatly reducing data generated."
+      "term": "Event camera",
+      "definition": "A sensor that only outputs changes in a scene, producing far less data than full-frame cameras."
     }
   ]
 });

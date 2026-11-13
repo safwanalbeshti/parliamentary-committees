@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18278,
+  "activity_id": 39299,
+  "document_id": 311676,
+  "meeting_date": "2026-11-10",
+  "meeting_date_display": "10 November 2026",
+  "publication_date": "2026-11-12T10:10:01",
+  "title": "Work of the Department and its arm’s-length bodies",
+  "committee": "Environment, Food and Rural Affairs Committee",
+  "committees": [
+    {
+      "id": 52,
+      "name": "Environment, Food and Rural Affairs Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 8598,
+      "title": "Work of the Department and its arm’s-length bodies",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Lisa Tennant, Government's preferred candidate, Chair of the Environment Agency",
+      "role": "",
+      "organisation": ""
+    }
+  ],
+  "speaker_candidates": [
+    "Environment, Food and Rural Affairs Committee members present",
+    "Environmental Audit Committee members present",
+    "Witness",
+    "Chair",
+    "Lisa Tennant",
+    "Barry Gardiner",
+    "Manuela Perteghella",
+    "Sammy Wilson",
+    "Terry Jermy",
+    "Ben Goldsborough",
+    "Henry Tufnell",
+    "Julia Buckley",
+    "Sarah Gibson",
+    "Sojan Joseph",
+    "Josh Newbury",
+    "Jonathan Davies",
+    "Cat Eccles",
+    "Adrian Ramsay"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18278/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18278",
+  "source_sha256": "bdbfea3e659ce457ff8c637f5593192d2510ab54b610982218bdba484a46515b",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}
