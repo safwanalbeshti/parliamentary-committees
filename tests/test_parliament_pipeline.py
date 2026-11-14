@@ -184,6 +184,39 @@ class PacketTests(unittest.TestCase):
             (self.root / "index.html").read_text(),
         )
 
+    def build_session(self):
+        args = type("Args", (), {"root": str(self.root), "id": None, "check": False})()
+        self.assertEqual(pipeline.build_command(args), 0)
+        text = (self.root / "sessions" / "generated" / "oral-evidence-123.js").read_text()
+        return json.loads(text[text.index("push(") + 5 : text.rindex(")")])
+
+    def write_detailed(self, **changes):
+        detailed = json.loads(json.dumps(self.condensation))
+        detailed["chapters"][0]["turns"].append(
+            {"speaker": "Alex Witness", "text": "And there's one more detail worth knowing."}
+        )
+        detailed.update(changes)
+        (self.root / "inbox" / "123" / pipeline.DETAILED_FILE).write_text(
+            json.dumps(detailed), encoding="utf-8"
+        )
+
+    def test_session_without_detailed_version_has_no_versions(self):
+        self.assertNotIn("versions", self.build_session())
+
+    def test_detailed_version_adds_a_length_toggle(self):
+        self.write_detailed()
+        session = self.build_session()
+        self.assertEqual([v["id"] for v in session["versions"]], ["condensed", "detailed"])
+        condensed, detailed = session["versions"]
+        self.assertEqual(condensed["transcript"], session["transcript"])
+        self.assertIn("one more detail", detailed["transcript"])
+        self.assertNotIn("one more detail", session["transcript"])
+
+    def test_stale_detailed_version_is_skipped_not_fatal(self):
+        self.write_detailed(source_sha256="old")
+        session = self.build_session()
+        self.assertNotIn("versions", session)
+
 
 if __name__ == "__main__":
     unittest.main()
