@@ -153,13 +153,13 @@ const el = {
   sessionDate: document.querySelector("#sessionDate"),
   sessionTitle: document.querySelector("#sessionTitle"),
   sourceLink: document.querySelector("#sourceLink"),
+  whatThisIs: document.querySelector("#whatThisIs"),
+  whatThisIsBtn: document.querySelector("#whatThisIsBtn"),
   aboutSourceLink: document.querySelector("#aboutSourceLink"),
   aboutSummary: document.querySelector("#aboutSummary"),
   turnCounter: document.querySelector("#turnCounter"),
   sessionPickerWrap: document.querySelector("#sessionPickerWrap"),
   sessionPicker: document.querySelector("#sessionPicker"),
-  chapterLabel: document.querySelector("#chapterLabel"),
-  chapterTakeaway: document.querySelector("#chapterTakeaway"),
   previousBtn: document.querySelector("#previousBtn"),
   nextBtn: document.querySelector("#nextBtn"),
   progressTrack: document.querySelector("#progressTrack"),
@@ -640,7 +640,7 @@ function selectSession(id) {
   const sourceUrl = session.sourceUrl || "https://committees.parliament.uk/";
   el.sourceLink.href = sourceUrl;
   el.aboutSourceLink.href = sourceUrl;
-  // The link reads "here" in the sentence; the source's status goes in its tooltip.
+  // The link reads "official transcript"; the source's exact status goes in its tooltip.
   if (session.sourceLabel) el.sourceLink.title = session.sourceLabel;
 
   populateSessionPicker();
@@ -724,7 +724,6 @@ function setCurrent(nextIndex, options = {}) {
   const entry = dialogue[currentIndex];
   const design = cast.get(entry.speaker) || { ...DEFAULT_DESIGN, name: entry.speaker };
   const seat = seatForTurn(design, currentIndex);
-  const chapter = chapterForTurn(currentIndex);
 
   el.bubbleSpeaker.textContent = design.name;
   el.bubbleText.replaceChildren(glossify(entry.line));
@@ -737,10 +736,6 @@ function setCurrent(nextIndex, options = {}) {
     design.kind === "member" ? memberKindLabel(design.name) : KIND_LABELS[design.kind] || "";
   el.nameplate.style.setProperty("--speaker-soft", design.soft);
   el.spotlight.style.setProperty("--spot-color", design.color);
-
-  const chapterNumber = chapters.indexOf(chapter) + 1;
-  el.chapterLabel.textContent = `Chapter ${chapterNumber} · ${chapter.label}`;
-  el.chapterTakeaway.textContent = chapter.takeaway;
 
   el.turnCounter.textContent = `${currentIndex + 1} / ${dialogue.length}`;
   el.progressFill.style.width = `${((currentIndex + 1) / dialogue.length) * 100}%`;
@@ -1180,6 +1175,7 @@ function bindControls() {
     button.addEventListener("click", () => activateTab(button.dataset.tab));
   }
 
+  bindWhatThisIs();
   window.addEventListener("keydown", onKeydown);
   window.addEventListener("resize", () => requestAnimationFrame(repositionOverlay));
   compactLayout.addEventListener("change", () => requestAnimationFrame(repositionOverlay));
@@ -1225,6 +1221,29 @@ function onKeydown(event) {
     default:
       break;
   }
+}
+
+/* ---------- "What this is" ---------- */
+
+// Hover or keyboard focus shows the panel through CSS; a click or tap pins it
+// open, which is what touch screens rely on.
+function bindWhatThisIs() {
+  const setOpen = (open) => {
+    el.whatThisIs.classList.toggle("is-open", open);
+    el.whatThisIsBtn.setAttribute("aria-expanded", String(open));
+  };
+  el.whatThisIsBtn.addEventListener("click", () => {
+    setOpen(!el.whatThisIs.classList.contains("is-open"));
+  });
+  document.addEventListener("click", (event) => {
+    if (!el.whatThisIs.contains(event.target)) setOpen(false);
+  });
+  el.whatThisIs.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") {
+      setOpen(false);
+      el.whatThisIsBtn.blur();
+    }
+  });
 }
 
 /* ---------- helpers ---------- */
