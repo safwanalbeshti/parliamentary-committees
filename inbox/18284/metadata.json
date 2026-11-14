@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18284,
+  "activity_id": 39506,
+  "document_id": 312348,
+  "meeting_date": "2026-11-10",
+  "meeting_date_display": "10 November 2026",
+  "publication_date": "2026-11-13T16:25:32",
+  "title": "Investigation into electronic monitoring",
+  "committee": "Justice and Home Affairs Committee",
+  "committees": [
+    {
+      "id": 519,
+      "name": "Justice and Home Affairs Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9178,
+      "title": "Investigation into electronic monitoring",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Ian Lawrence",
+      "role": "General Secretary",
+      "organisation": "Napo: Trade Union and Professional Association for Probation and Family Court Staff"
+    },
+    {
+      "name": "Ben Cockburn",
+      "role": "National Chair",
+      "organisation": "Napo: Trade Union and Professional Association for Probation and Family Court Staff"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Ian Lawrence",
+    "Ben Cockburn",
+    "Lord Moraes",
+    "Baroness Hughes of Stretford",
+    "Lord Tope",
+    "Lord Anderson of Ipswich",
+    "I think the wider issue around this expansion of tagging, though, is",
+    "Lord Bach",
+    "Lord Hogan-Howe",
+    "The other aspect that does not get a lot of attention is",
+    "Baroness Buscombe",
+    "Lord Dubs",
+    "Baroness Berridge",
+    "Lord Empey"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18284/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18284",
+  "source_sha256": "fe8ac4e9355d8f437b806cad2f5c53f45e2914986b0807957ffc4e75e94db081",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

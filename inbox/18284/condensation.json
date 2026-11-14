@@ -1,0 +1,280 @@
+{
+  "schema_version": 1,
+  "source_id": 18284,
+  "source_sha256": "fe8ac4e9355d8f437b806cad2f5c53f45e2914986b0807957ffc4e75e94db081",
+  "title": "Probation staff warn tagging expansion will fail without more staff, clearer purpose and better delivery",
+  "label": "10 November 2026 · Electronic monitoring",
+  "summary": "Napo leaders told the committee that recent inspectorate criticism of electronic monitoring matched their experience: poor delivery, weak governance and confusion about what tagging is for. They warned a fast expansion of tags will overload an already understaffed probation service unless money is spent on pay, recruitment, training and local delivery. They argued tagging should be brought in‑house, better joined up with police and victims’ needs, and tested properly before being rolled out.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Foster of Bath",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Ian Lawrence",
+      "name": "Ian Lawrence",
+      "role": "General Secretary, Napo (Trade Union and Professional Association for Probation and Family Court Staff)",
+      "kind": "witness"
+    },
+    {
+      "label": "Ben Cockburn",
+      "name": "Ben Cockburn",
+      "role": "National Chair, Napo; probation officer",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Moraes",
+      "name": "Lord Moraes",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Hughes of Stretford",
+      "name": "Baroness Hughes of Stretford",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Tope",
+      "name": "Lord Tope",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Anderson of Ipswich",
+      "name": "Lord Anderson of Ipswich",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Bach",
+      "name": "Lord Bach",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Hogan-Howe",
+      "name": "Lord Hogan-Howe",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Buscombe",
+      "name": "Baroness Buscombe",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Dubs",
+      "name": "Lord Dubs",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Berridge",
+      "name": "Baroness Berridge",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Empey",
+      "name": "Lord Empey",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "electronic monitoring",
+      "definition": "Technology such as tags used to track or enforce where and when someone can be in the community."
+    },
+    {
+      "term": "tagging",
+      "definition": "Putting an electronic device on a person to monitor location, curfew compliance or restricted zones."
+    },
+    {
+      "term": "HMPPS",
+      "definition": "His Majesty’s Prison and Probation Service, the government agency running probation and prisons in England and Wales."
+    },
+    {
+      "term": "Serco",
+      "definition": "A private company contracted to supply electronic monitoring services."
+    },
+    {
+      "term": "insourcing",
+      "definition": "Ending use of private contractors and bringing services, here tagging, back into the public Probation Service."
+    },
+    {
+      "term": "licence (release on licence)",
+      "definition": "Conditions someone must follow after release from prison; breaching them can lead to recall to prison."
+    },
+    {
+      "term": "restriction/exclusion zones",
+      "definition": "Areas a person on a tag must stay away from (exclusion) or be limited to (restriction)."
+    },
+    {
+      "term": "early release scheme",
+      "definition": "A policy to reduce prisoner numbers by releasing some people sooner, increasing community supervision demand."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Inspectorate findings and the confusion about what tagging is for",
+      "takeaway": "Napo says inspectorate criticism matched their experience: inconsistent delivery and a deep uncertainty across the system about tagging's purpose.",
+      "turns": [
+        {
+          "speaker": "Lord Moraes",
+          "text": "Two weeks ago the Probation Inspectorate published a report on electronic monitoring. What's your brief response?"
+        },
+        {
+          "speaker": "Ian Lawrence",
+          "text": "The report is not a surprise. It repeats a consistent picture: poor delivery, mixed impacts and strain on staff and people under supervision."
+        },
+        {
+          "speaker": "Ben Cockburn",
+          "text": "We support much of the report. Crucially, the system is unclear about what tagging is for—rehabilitation, public protection, control, or all three—and that confusion runs right through practice."
+        }
+      ]
+    },
+    {
+      "title": "Workload, staffing and urgent need for pay and training",
+      "takeaway": "Expanding tagging will increase work falling on probation officers at a time when vacancies, sickness and training gaps have left the service overstretched.",
+      "turns": [
+        {
+          "speaker": "Baroness Hughes of Stretford",
+          "text": "About 12% of people on supervision are tagged. How much of your workload does tagging create and what are the supervision challenges?"
+        },
+        {
+          "speaker": "Ben Cockburn",
+          "text": "A lot. The system defaults to probation officers for notifications, risk updates and licence variations. If monitoring isn't available, it falls to us to find alternatives like extra checks or police help."
+        },
+        {
+          "speaker": "Baroness Hughes of Stretford",
+          "text": "So glitches, delays fitting tags or location uncertainty end up back with the probation officer?"
+        },
+        {
+          "speaker": "Ben Cockburn",
+          "text": "Yes. And if tagging expands massively, that additional workload expands too—whether the tag works or not."
+        },
+        {
+          "speaker": "Lord Anderson of Ipswich",
+          "text": "The Government announced £100m to expand tagging. How should that money be spent?"
+        },
+        {
+          "speaker": "Ian Lawrence",
+          "text": "Members ask why the money isn't reaching front-line staff. Unless it addresses pay and workload, attrition will worsen; many teams have 30% staffing gaps and high mental‑health absence."
+        },
+        {
+          "speaker": "Ben Cockburn",
+          "text": "You can’t make tagging useful if there are no officers to act on the data. We have vacancy rates, loss of experienced staff and inadequate training—staff are coping with unsustainable caseloads."
+        },
+        {
+          "speaker": "Lord Empey",
+          "text": "What's the impact of the early release scheme on your service?"
+        },
+        {
+          "speaker": "Ben Cockburn",
+          "text": "Devastating. It was rolled out with poor planning and training into a service already in crisis, increasing caseloads and guidance that's changing mid‑implementation."
+        },
+        {
+          "speaker": "Ian Lawrence",
+          "text": "Recruitment numbers sound good on paper, but as many staff leave as join. A probation officer can take up to two years to be fully effective—so churn matters a lot."
+        }
+      ]
+    },
+    {
+      "title": "Contractor performance and the case for bringing tagging in‑house",
+      "takeaway": "Napo blames repeated delivery failures by contractors like Serco and argues insourcing would improve accountability and local communication.",
+      "turns": [
+        {
+          "speaker": "Lord Hogan-Howe",
+          "text": "Serco says it has met contract KPIs since March 2026. Are probation staff working effectively with Serco?"
+        },
+        {
+          "speaker": "Ben Cockburn",
+          "text": "As long as Serco is separate, communication breaks down—breach notices go to a mailbox, not to the supervising officer. Members report tags not fitted, visits missed; frustration runs deep."
+        },
+        {
+          "speaker": "Ian Lawrence",
+          "text": "There’s also waste: equipment sent but never fitted, or left unused afterwards. Taxpayers deserve better value and clearer accountability in procurement."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Why would insourcing fix problems like missed notifications if a supervising officer is off duty?"
+        },
+        {
+          "speaker": "Ben Cockburn",
+          "text": "If monitoring teams are colocated with probation staff, you can discuss cases directly rather than relying on emails. Local, joined teams improve real‑time decisions—like unpaid‑work supervisors do now."
+        },
+        {
+          "speaker": "Ian Lawrence",
+          "text": "Insourcing would also improve management oversight and accountability, and integrate tagging into probation practice rather than leaving it as an external add‑on."
+        },
+        {
+          "speaker": "Lord Bach",
+          "text": "But the £100m for tagging comes from the same £700m the Government has promised for probation—are you surprised or unhappy?"
+        },
+        {
+          "speaker": "Ben Cockburn",
+          "text": "We’re concerned. The £700m needs transparency: is cash being diverted from recruitment, pay or training to pay for tech? We haven't had clear answers from HMPPS."
+        }
+      ]
+    },
+    {
+      "title": "Limits of technology, police coordination and victims’ expectations",
+      "takeaway": "Tags, exclusion zones and geofencing are useful but limited; they can give victims a false sense of security and require much better police‑probation coordination and out‑of‑hours arrangements.",
+      "turns": [
+        {
+          "speaker": "Baroness Buscombe",
+          "text": "How well do police and probation work together on electronic monitoring?"
+        },
+        {
+          "speaker": "Ben Cockburn",
+          "text": "As well as can be expected given different systems and security levels. We need agreed standards on what info is exchanged, by when, and a common platform if possible."
+        },
+        {
+          "speaker": "Lord Hogan-Howe",
+          "text": "Geofencing can show a rapist near a recent crime or a tag entering a victim's area—are services treating tech as a burden rather than a chance to redesign how agencies work together?"
+        },
+        {
+          "speaker": "Ian Lawrence",
+          "text": "There’s too little high‑level interdepartmental planning. Departments compete for resources when they should plan together how to make tech meaningful for public protection."
+        },
+        {
+          "speaker": "Lord Dubs",
+          "text": "How are restriction and exclusion zones working?"
+        },
+        {
+          "speaker": "Ben Cockburn",
+          "text": "They’re novel but have limits. Restricting movement back to a home area can be harmful in some rehabilitation contexts. Also, breaches may be known only a day later—so victims can get a false sense of real‑time protection."
+        },
+        {
+          "speaker": "Baroness Berridge",
+          "text": "Do you have reliable figures on staff capacity, factoring sick leave and holidays?"
+        },
+        {
+          "speaker": "Ben Cockburn",
+          "text": "We have staffing stats but not an accepted workload measure: HMPPS withdrew the workload tool in September, days before the sentencing changes. Without it, we can’t say exactly how much capacity exists."
+        },
+        {
+          "speaker": "Lord Empey",
+          "text": "You’ve painted a severe picture—can you provide stats on retention and leavers?"
+        },
+        {
+          "speaker": "Ian Lawrence",
+          "text": "Yes. We will share what we have; the committee already has some figures, but up‑to‑date churn numbers are vital to understand the gap between policy and delivery."
+        },
+        {
+          "speaker": "Chair",
+          "text": "To conclude: you want a clearer purpose for tagging, better inter‑agency planning, more investment in pay, recruitment and training, and insourcing of monitoring. Anything to add?"
+        },
+        {
+          "speaker": "Ian Lawrence",
+          "text": "No—those are our priorities. We want to work constructively with the system and politicians, but the service must be rebuilt from the people up, not only by adding technology."
+        }
+      ]
+    }
+  ]
+}

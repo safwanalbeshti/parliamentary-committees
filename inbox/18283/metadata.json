@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18283,
+  "activity_id": 39146,
+  "document_id": 312341,
+  "meeting_date": "2026-11-11",
+  "meeting_date_display": "11 November 2026",
+  "publication_date": "2026-11-13T16:20:56",
+  "title": "British film and high-end television follow-up",
+  "committee": "Digital, Culture, Media and Sport Committee",
+  "committees": [
+    {
+      "id": 378,
+      "name": "Digital, Culture, Media and Sport Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9965,
+      "title": "British film and high-end television follow-up",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Minister for Creative Industries, Media and Online Safety",
+      "organisation": "Department for Digital, Culture, Media and Sport"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director, Creative Industries and Artificial Intelligence",
+      "organisation": "Department for Digital, Culture, Media and Sport"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Harriet Finney",
+    "Claire Mundell",
+    "Pete Johnson",
+    "Gill German",
+    "Dr Huq",
+    "Nigel Huddleston",
+    "Mr Alaba",
+    "Liz Jarvis",
+    "Jo Stevens",
+    "Ian Murray",
+    "Georgia Hutchinson",
+    "Alison Hume",
+    "A last question from me because we are on a timer today"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18283/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18283",
+  "source_sha256": "cc3d7b7d4f46b13b0f933082881fe668ad1f7de48a76792fc4fce7cbf07a3168",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

@@ -1,0 +1,324 @@
+{
+  "schema_version": 1,
+  "source_id": 18283,
+  "source_sha256": "cc3d7b7d4f46b13b0f933082881fe668ad1f7de48a76792fc4fce7cbf07a3168",
+  "title": "UK film & high-end TV: competitiveness, funding and protecting people",
+  "label": "11 November 2026 · Follow-up on British film & high-end TV",
+  "summary": "The Committee revisited the state of the UK film and high-end TV sector 18 months after its original report. Industry guests and the Minister discussed a box-office rebound but weaker UK production, fierce international competition, the value of tax reliefs, gaps in distribution and development finance, the vital role of the BFI and public broadcasters, threats and opportunities from AI, protection of performers, and the precarious position of freelancers. The Minister confirmed ongoing work on the BBC charter, regional growth funding, skills and data, and copyright/AI workstreams, while industry witnesses pressed for targeted tax changes, distribution support, and better access to risk finance.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Dame Caroline Dinenage",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Rt Hon Ian Murray MP",
+      "name": "Rt Hon Ian Murray MP",
+      "role": "Minister for the Creative Industries, Media and Online Safety, Department for Digital, Culture, Media and Sport",
+      "kind": "witness"
+    },
+    {
+      "label": "Georgia Hutchinson",
+      "name": "Georgia Hutchinson",
+      "role": "Director, Creative Industries and Artificial Intelligence, Department for Digital, Culture, Media and Sport",
+      "kind": "witness"
+    },
+    {
+      "label": "Pete Johnson",
+      "name": "Pete Johnson",
+      "role": "Chief Executive Officer, British Screen Forum (industry panellist)",
+      "kind": "member"
+    },
+    {
+      "label": "Claire Mundell",
+      "name": "Claire Mundell",
+      "role": "MD and Creative Director, Synchronicity Films (industry panellist)",
+      "kind": "member"
+    },
+    {
+      "label": "Harriet Finney",
+      "name": "Harriet Finney",
+      "role": "Deputy Chief Officer, British Film Institute (industry panellist)",
+      "kind": "member"
+    },
+    {
+      "label": "Nigel Huddleston",
+      "name": "Nigel Huddleston",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Gill German",
+      "name": "Gill German",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Dr Huq",
+      "name": "Dr Huq",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Mr Alaba",
+      "name": "Mr Alaba",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Liz Jarvis",
+      "name": "Liz Jarvis",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Jo Stevens",
+      "name": "Jo Stevens",
+      "role": "Member of Parliament",
+      "kind": "member"
+    },
+    {
+      "label": "Alison Hume",
+      "name": "Alison Hume",
+      "role": "Member of Parliament",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "independent film tax relief (IFTC)",
+      "definition": "A UK tax incentive introduced in 2024 to help fund independent films by reducing their tax burden."
+    },
+    {
+      "term": "high-end television (HETV)",
+      "definition": "Television drama and series with higher budgets and production values, often sold internationally."
+    },
+    {
+      "term": "PSB",
+      "definition": "Public Service Broadcaster — channels like the BBC that have public service obligations and support UK production."
+    },
+    {
+      "term": "National Lottery Good Causes",
+      "definition": "Lottery funding distributed to arts, heritage and sport projects, including film funding through the BFI."
+    },
+    {
+      "term": "digital replica",
+      "definition": "A computer-created likeness of a performer, including voice or image, used in film, TV or AI."
+    },
+    {
+      "term": "NDA",
+      "definition": "Non-disclosure agreement — a contract that can be abused to silence people making allegations about wrongdoing."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Where the sector stands now",
+      "takeaway": "Box office has recovered to pre-COVID levels, but UK production faces a dip amid fiercer international competition.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Harriet, how is the sector now compared with our 2025 report?"
+        },
+        {
+          "speaker": "Harriet Finney",
+          "text": "Box office is back to around 100 million admissions — driven by a few big films — so cinema-going recovered strongly this year."
+        },
+        {
+          "speaker": "Harriet Finney",
+          "text": "But production is down: globally fewer commissions and strong competition from other countries; the UK’s production market share is still high but pressured."
+        },
+        {
+          "speaker": "Pete Johnson",
+          "text": "Long-term demand for audiovisual content is high, but other countries have aggressively increased production support — Spain, for example, boosted spend dramatically."
+        },
+        {
+          "speaker": "Claire Mundell",
+          "text": "Financing remains the critical problem: mid‑tier British cultural projects and regionally rooted stories struggle to find money."
+        }
+      ]
+    },
+    {
+      "title": "Tax reliefs and where change is needed",
+      "takeaway": "The independent film tax relief helped make films that otherwise wouldn't exist, but gaps remain for mid‑tier TV and R&D support.",
+      "turns": [
+        {
+          "speaker": "Dr Huq",
+          "text": "Did the independent film tax credit (IFTC) deliver and is it at risk from the new US federal incentives?"
+        },
+        {
+          "speaker": "Harriet Finney",
+          "text": "The IFTC has enabled many projects—about 400 certified so far—and we’ll publish a fuller impact assessment in 2027, but more data is needed."
+        },
+        {
+          "speaker": "Pete Johnson",
+          "text": "It’s already helping, but we also need measures to crowd in risk finance and to improve distribution so films actually get seen."
+        },
+        {
+          "speaker": "Claire Mundell",
+          "text": "Mid‑budget TV (roughly £1m–£3m per hour) and development finance are badly squeezed; producers rely on tax credits and need R&D tax relief included."
+        },
+        {
+          "speaker": "Rt Hon Ian Murray MP",
+          "text": "The reliefs put in place are a decision for the Treasury; DCMS is making the case and working with industry to build the strongest possible evidence."
+        }
+      ]
+    },
+    {
+      "title": "Distribution, exhibition and the BFI's role",
+      "takeaway": "National Lottery funding supports small British stories, talent development and audiences; distribution and marketing remain weak links.",
+      "turns": [
+        {
+          "speaker": "Gill German",
+          "text": "If the Government reforms lottery distribution, what would be at risk?"
+        },
+        {
+          "speaker": "Harriet Finney",
+          "text": "The lottery funds grassroots activity: small British films, talent programmes (like the BFI Film Academy) and audience work in 2,000 venues — many projects go unfunded now."
+        },
+        {
+          "speaker": "Pete Johnson",
+          "text": "Even when films are made, they often lack marketing budgets and distribution pathways; the sector supports a distribution tax relief idea that could leverage VAT returns."
+        },
+        {
+          "speaker": "Liz Jarvis",
+          "text": "Are the Government tracking whether screen growth funds reach the domestic and independent sector?"
+        },
+        {
+          "speaker": "Rt Hon Ian Murray MP",
+          "text": "We use BFI and other data on GVA, workforce and skills to track impact; the Screen Growth Package and doubled global screen fund are designed to help."
+        },
+        {
+          "speaker": "Georgia Hutchinson",
+          "text": "We’ve also put Creative Places Growth Fund money through mayoral authorities to match local priorities and catalyse region‑specific projects."
+        }
+      ]
+    },
+    {
+      "title": "Freelancers, skills and regional production",
+      "takeaway": "Freelancers are essential but insecure; data gaps, apprenticeships and regional commissioning are urgent issues for workforce health.",
+      "turns": [
+        {
+          "speaker": "Jo Stevens",
+          "text": "What should the Freelance Champions prioritise for freelancers in film and TV?"
+        },
+        {
+          "speaker": "Pete Johnson",
+          "text": "Finding work is the immediate crisis: many freelancers consider leaving because of instability; other countries provide better safety nets for creative freelancers."
+        },
+        {
+          "speaker": "Claire Mundell",
+          "text": "Freelancers are the engine room. Without development funding and clearer commissioning plans, talent will leave and the pipeline will dry up."
+        },
+        {
+          "speaker": "Jo Stevens",
+          "text": "Who collects the data needed to fix skills and levy issues?"
+        },
+        {
+          "speaker": "Rt Hon Ian Murray MP",
+          "text": "Multiple departments hold relevant data — DCMS, DfE, Treasury and DWP — and we’re supporting the Freelance Champions to pull it together with industry bodies like ScreenSkills."
+        },
+        {
+          "speaker": "Jo Stevens",
+          "text": "What progress on apprenticeships and the levy for a freelance-heavy sector?"
+        },
+        {
+          "speaker": "Rt Hon Ian Murray MP",
+          "text": "We need shorter, flexible training and apprenticeship models that suit short-term productions; the jobs plan and skills audit are trying to address that."
+        },
+        {
+          "speaker": "Harriet Finney",
+          "text": "Good Work tools like WorkWise, CIISA and sector charity support are being scaled to help smaller employers create safer working environments for freelancers."
+        },
+        {
+          "speaker": "Gill German",
+          "text": "If public broadcasters cut regional commissioning, what would you do to protect regional hubs?"
+        },
+        {
+          "speaker": "Rt Hon Ian Murray MP",
+          "text": "The charter renewal will push PSBs to support regional hubs; mayors and local Growth Fund grants also catalyse regional ecosystems rather than just competing with them."
+        },
+        {
+          "speaker": "Georgia Hutchinson",
+          "text": "Local commissioning can grow adjacent industries — animation and VFX in a region can take on special effects for bigger shows, keeping skills local."
+        }
+      ]
+    },
+    {
+      "title": "AI, copyright and protecting performers",
+      "takeaway": "Industry welcomes clearer rules and funding to experiment with AI, but wants stronger legal protection around consent, replicas and deepfakes.",
+      "turns": [
+        {
+          "speaker": "Liz Jarvis",
+          "text": "Has progress been made to protect performers from unauthorised cloning, deepfakes and use of recorded performances to train AI?"
+        },
+        {
+          "speaker": "Harriet Finney",
+          "text": "We welcomed Government moving away from a broad opt-out. BFI has invested £1.2m in R&D labs to help creators test tools and we’ll publish guidance next year."
+        },
+        {
+          "speaker": "Pete Johnson",
+          "text": "Legal certainty around liabilities and where value sits is essential for investment in AI tools; industry engagement with the IPO is underway."
+        },
+        {
+          "speaker": "Dr Huq",
+          "text": "ScreenSkills warns 80% of roles could be affected by AI but 70% had no training — will you meet unions and industry groups?"
+        },
+        {
+          "speaker": "Rt Hon Ian Murray MP",
+          "text": "Yes — we’ll meet the APPG and unions. We have four AI copyright workstreams on transparency, labelling, creator control and digital replicas."
+        },
+        {
+          "speaker": "Georgia Hutchinson",
+          "text": "The consultation will distinguish between consented uses, like notable posthumous examples, and potentially exploitative uses of early‑career performers."
+        }
+      ]
+    },
+    {
+      "title": "BBC, governance and platform contributions",
+      "takeaway": "The Government will press the BBC to protect regional commissioning and skills in the charter White Paper; a streamer levy is not currently planned.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "How will the charter review ensure BBC impartiality, trust and stronger processes?"
+        },
+        {
+          "speaker": "Rt Hon Ian Murray MP",
+          "text": "The White Paper will target trust and impartiality, improving processes and culture so the BBC leads by example on editorial standards and workplace behaviour."
+        },
+        {
+          "speaker": "Alison Hume",
+          "text": "Streamers often buy broad rights and limit indies' ability to monetise IP — will you consider a streamer levy?"
+        },
+        {
+          "speaker": "Rt Hon Ian Murray MP",
+          "text": "A streamer levy has been ruled out for now; we favour a mix of tax reliefs, regional funds, PSB commissioning and better access to private finance to support indies."
+        },
+        {
+          "speaker": "Pete Johnson",
+          "text": "Targeted growth capital and funds that value AV IP would help indies negotiate better and retain rights, rather than relying solely on streamers."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Any final messages?"
+        },
+        {
+          "speaker": "Harriet Finney",
+          "text": "Keep pushing outstanding recommendations: protect lottery funding, support domestic stories, and optimise incentives so inward investment and home-grown production both thrive."
+        },
+        {
+          "speaker": "Claire Mundell",
+          "text": "Strengthen the BBC’s economic role in nations and regions, protect terms of trade for indies, and consider focused funds for at‑risk genres like children’s and regional drama."
+        },
+        {
+          "speaker": "Pete Johnson",
+          "text": "This ecosystem is tightly linked: tax, distribution, training and access to finance must work together if the UK is to keep its edge."
+        },
+        {
+          "speaker": "Rt Hon Ian Murray MP",
+          "text": "The sector is a national asset — fragile but strong. We’ll continue backing it through funding, the charter review, AI workstreams and regional investment."
+        }
+      ]
+    }
+  ]
+}
