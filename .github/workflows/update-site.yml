@@ -40,7 +40,7 @@ jobs:
           LOOKBACK_DAYS: ${{ inputs.lookback_days || '7' }}
         run: python3 scripts/parliament_pipeline.py sync --lookback-days "$LOOKBACK_DAYS"
 
-      - name: Condense new transcripts with GPT-5 mini
+      - name: Condense new transcripts with GPT-6 Luna
         env:
           CONDENSE_API_KEY: ${{ secrets.CONDENSE_API_KEY }}
         run: python3 scripts/parliament_pipeline.py condense

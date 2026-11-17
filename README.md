@@ -40,7 +40,7 @@ The **Discover, condense and publish** GitHub Action runs every night (23:17 UTC
 1. Queries the official UK Parliament Committees API for recent oral evidence.
 2. Downloads the documents, strips formatting, and deduplicates by evidence ID and a
    SHA-256 hash of the cleaned transcript, writing `inbox/<id>/` packets.
-3. Sends each new transcript to the model API (GPT-5 mini) with the packet's prompt and saves
+3. Sends each new transcript to the model API (GPT-6 Luna) with the packet's prompt and saves
    the plain-English dialogue as `condensation.json`. A failed validation is retried
    once with the validator's error list; a packet that still fails is left
    uncondensed and a GitHub issue flags it for manual attention.
@@ -53,7 +53,7 @@ If Parliament changes a transcript later, the hash changes and the session is
 re-condensed from the new source. An existing condensation is never silently kept
 when its source has moved.
 
-At roughly five meetings a day, GPT-5 mini usage costs on the order of $2/month.
+At roughly five meetings a day, GPT-6 Luna usage costs well under $1/month.
 
 ### Condensing a packet by hand
 
