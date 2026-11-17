@@ -187,3 +187,83 @@ class PacketTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class BillingAlertTests(unittest.TestCase):
+    def http_error(self, status, error):
+        from urllib.error import HTTPError
+
+        body = io.BytesIO(json.dumps({"error": error}).encode("utf-8"))
+        return HTTPError("https://api.openai.com", status, "error", {}, body)
+
+    def test_exhausted_credit_raises_billing_error(self):
+        from unittest import mock
+
+        error = self.http_error(
+            429,
+            {
+                "message": "Your organization has no prepaid credits remaining.",
+                "type": "insufficient_quota",
+                "code": "credit_balance_exhausted",
+            },
+        )
+        with mock.patch.object(pipeline, "urlopen", side_effect=error):
+            with self.assertRaises(pipeline.BillingError):
+                pipeline.chat_completion("key", [{"role": "user", "content": "x"}])
+
+    def test_bad_key_is_not_a_billing_error(self):
+        from unittest import mock
+
+        error = self.http_error(401, {"message": "Incorrect API key provided."})
+        with mock.patch.object(pipeline, "urlopen", side_effect=error):
+            with self.assertRaises(pipeline.PipelineError) as raised:
+                pipeline.chat_completion("key", [{"role": "user", "content": "x"}])
+        self.assertNotIsInstance(raised.exception, pipeline.BillingError)
+
+    def run_alert(self, alert_text, outcome, open_issues):
+        from unittest import mock
+
+        calls = []
+
+        def fake_run(command, **kwargs):
+            calls.append(command)
+            result = mock.Mock()
+            result.stdout = json.dumps(open_issues)
+            return result
+
+        with tempfile.TemporaryDirectory() as tmp:
+            alert_file = Path(tmp) / "billing-alert.txt"
+            if alert_text is not None:
+                alert_file.write_text(alert_text, encoding="utf-8")
+            args = pipeline.parser().parse_args(
+                ["billing-alert", "--alert-file", str(alert_file),
+                 "--condense-outcome", outcome]
+            )
+            env = {"GITHUB_REPOSITORY": "owner/repo", "GITHUB_REPOSITORY_OWNER": "owner"}
+            with mock.patch.dict("os.environ", env), mock.patch.object(
+                pipeline.subprocess, "run", side_effect=fake_run
+            ):
+                self.assertEqual(pipeline.billing_alert_command(args), 0)
+        return calls
+
+    def test_out_of_funds_opens_assigned_issue(self):
+        calls = self.run_alert("no credit", "failure", [])
+        create = [c for c in calls if c[:3] == ["gh", "issue", "create"]]
+        self.assertEqual(len(create), 1)
+        self.assertIn("--assignee", create[0])
+        self.assertIn(pipeline.BILLING_ALERT_MARKER, create[0][create[0].index("--body") + 1])
+
+    def test_out_of_funds_does_not_duplicate_open_issue(self):
+        existing = [{"number": 7, "body": f"<!-- {pipeline.BILLING_ALERT_MARKER} -->"}]
+        calls = self.run_alert("no credit", "failure", existing)
+        self.assertFalse([c for c in calls if c[:3] == ["gh", "issue", "create"]])
+
+    def test_success_closes_open_alert(self):
+        existing = [{"number": 7, "body": f"<!-- {pipeline.BILLING_ALERT_MARKER} -->"},
+                    {"number": 8, "body": "some other automation issue"}]
+        calls = self.run_alert(None, "success", existing)
+        self.assertEqual([c[:4] for c in calls if c[:3] == ["gh", "issue", "close"]],
+                         [["gh", "issue", "close", "7"]])
+
+    def test_other_failure_leaves_alerts_alone(self):
+        self.assertEqual(self.run_alert(None, "failure", []), [])
