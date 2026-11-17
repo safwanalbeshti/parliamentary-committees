@@ -91,6 +91,22 @@ class PipelineError(RuntimeError):
     """A user-actionable pipeline failure."""
 
 
+class BillingError(PipelineError):
+    """The model API refused a request because the account is out of funds."""
+
+
+# OpenAI error codes meaning "no money left to spend", from
+# https://developers.openai.com/api/docs/guides/error-codes
+BILLING_ERROR_CODES = {
+    "credit_balance_exhausted",
+    "insufficient_quota",
+    "organization_spend_limit_exceeded",
+    "project_spend_limit_exceeded",
+}
+BILLING_ALERT_MARKER = "condense-billing-alert"
+BILLING_ALERT_TITLE = "Model API credit has run out — condensation is paused"
+
+
 class TranscriptParser(HTMLParser):
     """Turn Parliament's span-heavy generated HTML into readable paragraphs."""
 
@@ -1029,12 +1045,20 @@ def chat_completion(api_key: str, messages: list[dict[str, str]]) -> str:
                 payload = json.loads(response.read().decode("utf-8"))
             return str(payload["choices"][0]["message"]["content"])
         except HTTPError as exc:
+            error_body: dict[str, Any] = {}
             try:
-                detail = str(json.loads(exc.read().decode("utf-8"))["error"]["message"])
+                error_body = json.loads(exc.read().decode("utf-8"))["error"]
+                detail = str(error_body["message"])
             except Exception:
                 detail = str(exc.reason)
             lowered = detail.lower()
-            if exc.code in {401, 402, 403} or "quota" in lowered or "credit" in lowered:
+            codes = {str(error_body.get("code") or ""), str(error_body.get("type") or "")}
+            if exc.code == 402 or codes & BILLING_ERROR_CODES or "quota" in lowered or "credit" in lowered:
+                raise BillingError(
+                    f"The condensation API rejected the request ({exc.code}): {detail} "
+                    "Check the account balance."
+                ) from exc
+            if exc.code in {401, 403}:
                 raise PipelineError(
                     f"The condensation API rejected the request ({exc.code}): {detail} "
                     "Check the CONDENSE_API_KEY secret and the account balance."
@@ -1141,6 +1165,11 @@ def condense_command(args: argparse.Namespace) -> int:
         print(f"Condensing {packet.name} …", flush=True)
         try:
             errors, warnings = condense_packet(packet, api_key)
+        except BillingError as exc:
+            alert_file = os.environ.get("BILLING_ALERT_FILE")
+            if alert_file:
+                Path(alert_file).write_text(str(exc), encoding="utf-8")
+            raise
         except PipelineError as exc:
             if "CONDENSE_API_KEY" in str(exc) or "account balance" in str(exc):
                 raise
@@ -1601,6 +1630,74 @@ def issues_command(args: argparse.Namespace) -> int:
     return 0
 
 
+def billing_alert_body(detail: str, repository: str) -> str:
+    return (
+        "The nightly run could not condense new transcripts because the model API "
+        "refused the request for lack of funds:\n\n"
+        f"> {detail}\n\n"
+        "**To fix:** add credit at "
+        "https://platform.openai.com/settings/organization/billing (or raise the "
+        "spend limit at https://platform.openai.com/settings/organization/limits).\n\n"
+        "Nothing is lost: every transcript still waiting will be condensed on the next "
+        "nightly run after the top-up, or straight away if you re-run "
+        f"https://github.com/{repository}/actions/workflows/update-site.yml by hand. "
+        "This issue closes itself once a run condenses successfully.\n\n"
+        f"<!-- {BILLING_ALERT_MARKER} -->"
+    )
+
+
+def billing_alert_command(args: argparse.Namespace) -> int:
+    """Open one issue when funds run out; close it once condensing works again."""
+    alert_path = Path(args.alert_file)
+    out_of_funds = alert_path.exists()
+    if not out_of_funds and args.condense_outcome != "success":
+        print("Condensation did not succeed for a non-billing reason; leaving alerts alone.")
+        return 0
+    repository = os.environ.get("GITHUB_REPOSITORY", "")
+    if args.dry_run:
+        print("Would open a billing alert." if out_of_funds else "Would close any billing alert.")
+        return 0
+    if not repository:
+        raise PipelineError("GITHUB_REPOSITORY is required to manage the billing alert.")
+    result = subprocess.run(
+        ["gh", "issue", "list", "--state", "open", "--label", "automation",
+         "--limit", "500", "--json", "number,body"],
+        check=True, capture_output=True, text=True,
+    )
+    open_alerts = [
+        issue for issue in json.loads(result.stdout)
+        if BILLING_ALERT_MARKER in str(issue.get("body") or "")
+    ]
+    if out_of_funds:
+        if open_alerts:
+            print(f"Billing alert #{open_alerts[0]['number']} is already open.")
+            return 0
+        detail = alert_path.read_text(encoding="utf-8").strip()
+        subprocess.run(
+            ["gh", "label", "create", "automation", "--color", "6f42c1",
+             "--description", "Created by an automated workflow", "--force"],
+            check=True,
+        )
+        command = ["gh", "issue", "create", "--title", BILLING_ALERT_TITLE,
+                   "--body", billing_alert_body(detail, repository),
+                   "--label", "automation"]
+        owner = os.environ.get("GITHUB_REPOSITORY_OWNER")
+        if owner:
+            # Assigning the owner makes GitHub email them, not just list the issue.
+            command.extend(["--assignee", owner])
+        subprocess.run(command, check=True)
+        print("Opened a billing alert.")
+        return 0
+    for issue in open_alerts:
+        subprocess.run(
+            ["gh", "issue", "close", str(issue["number"]), "--comment",
+             "Condensation succeeded again, so the credit has been topped up."],
+            check=True,
+        )
+        print(f"Closed billing alert #{issue['number']}.")
+    return 0
+
+
 def parser() -> argparse.ArgumentParser:
     main = argparse.ArgumentParser(description=__doc__)
     main.add_argument(
@@ -1658,6 +1755,15 @@ def parser() -> argparse.ArgumentParser:
         help="Close matching open issues after a valid condensation has been added.",
     )
     issues_parser.set_defaults(function=issues_command)
+
+    billing_parser = commands.add_parser(
+        "billing-alert",
+        help="Open a GitHub issue when the model API is out of funds; close it after.",
+    )
+    billing_parser.add_argument("--alert-file", required=True)
+    billing_parser.add_argument("--condense-outcome", default="")
+    billing_parser.add_argument("--dry-run", action="store_true")
+    billing_parser.set_defaults(function=billing_alert_command)
     return main
 
 

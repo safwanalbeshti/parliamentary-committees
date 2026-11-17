@@ -41,9 +41,20 @@ jobs:
         run: python3 scripts/parliament_pipeline.py sync --lookback-days "$LOOKBACK_DAYS"
 
       - name: Condense new transcripts with GPT-6 Luna
+        id: condense
         env:
           CONDENSE_API_KEY: ${{ secrets.CONDENSE_API_KEY }}
+          BILLING_ALERT_FILE: ${{ runner.temp }}/billing-alert.txt
         run: python3 scripts/parliament_pipeline.py condense
+
+      - name: Alert when the model API credit runs out
+        if: ${{ always() && steps.condense.outcome != 'skipped' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: >-
+          python3 scripts/parliament_pipeline.py billing-alert
+          --alert-file "${{ runner.temp }}/billing-alert.txt"
+          --condense-outcome "${{ steps.condense.outcome }}"
 
       - name: Test and compile condensations
         run: |
