@@ -5,7 +5,7 @@ The pipeline is fully automatic:
 
 1. ``sync`` discovers and normalises new oral-evidence transcripts.
 2. ``condense`` sends each new transcript to a chat-completions API
-   (GPT-5 mini by default) and saves the
+   (GPT-6 Luna by default) and saves the
    dialogue it returns as condensation.json in the packet directory.
 3. ``validate`` checks the JSON and ``build`` turns it into a site session.
 
@@ -46,7 +46,7 @@ USER_AGENT = "plain-english-committee-viewer/1.0"
 CONDENSE_API_URL = os.environ.get(
     "CONDENSE_API_URL", "https://api.openai.com/v1/chat/completions"
 )
-CONDENSE_MODEL = os.environ.get("CONDENSE_MODEL", "gpt-5-mini")
+CONDENSE_MODEL = os.environ.get("CONDENSE_MODEL", "gpt-6-luna")
 ROOT = Path(__file__).resolve().parents[1]
 
 INDEX_START = "    <!-- GENERATED_SESSIONS_START -->"
@@ -1004,7 +1004,7 @@ def chat_completion(api_key: str, messages: list[dict[str, str]]) -> str:
         "response_format": {"type": "json_object"},
         "stream": False,
     }
-    # OpenAI's GPT-5 family rejects max_tokens; reasoning tokens also count
+    # OpenAI's reasoning models reject max_tokens; reasoning tokens also count
     # against the limit, hence the generous default.
     limit = int(os.environ.get("CONDENSE_MAX_TOKENS", "24000"))
     if "openai.com" in CONDENSE_API_URL:
