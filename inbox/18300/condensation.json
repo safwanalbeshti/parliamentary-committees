@@ -1,0 +1,272 @@
+{
+  "schema_version": 1,
+  "source_id": 18300,
+  "source_sha256": "9e47978fe994ab861e74f099978da69db79cf3671e46b5e800916b4eca9e8439",
+  "title": "Enforcement, speeds and new risks: priorities for the Road Safety Strategy",
+  "label": "11 November 2026 · Road Safety Strategy evidence session",
+  "summary": "Police, local highway and insurers’ representatives told the Transport Committee that the Government’s casualty-reduction targets won’t be met without more and better enforcement, clearer local speed rules, faster data-sharing and new rules for micromobility. They outlined gaps in funding, coordination and tools, and highlighted rising harms from illegal e-bikes, uninsured drivers and social-media-fuelled dangerous driving.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Ruth Cadbury",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Joy Allen",
+      "name": "Joy Allen",
+      "role": "Police and Crime Commissioner for Durham; Joint Lead for Roads Policing and Transport, Association of Police and Crime Commissioners",
+      "kind": "witness"
+    },
+    {
+      "label": "Paul Fermer",
+      "name": "Paul Fermer",
+      "role": "Director for Environment and Highways, Oxfordshire County Council",
+      "kind": "witness"
+    },
+    {
+      "label": "Angus Eaton",
+      "name": "Angus Eaton",
+      "role": "Chief Executive Officer, Motor Insurers' Bureau",
+      "kind": "witness"
+    },
+    {
+      "label": "Alex Mayer",
+      "name": "Alex Mayer",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Joe Morris",
+      "name": "Joe Morris",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Dr Arthur",
+      "name": "Dr Scott Arthur",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Jacob Collier",
+      "name": "Jacob Collier",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "KSIs",
+      "definition": "Killed or Seriously Injured; a standard way to count severe road casualties."
+    },
+    {
+      "term": "PCCs",
+      "definition": "Police and Crime Commissioners; elected officials who oversee local policing."
+    },
+    {
+      "term": "NDORS",
+      "definition": "National driver retraining and penalty-course schemes used after some traffic offences."
+    },
+    {
+      "term": "DVLA",
+      "definition": "Driver and Vehicle Licensing Agency; holds vehicle and driver records in Great Britain."
+    },
+    {
+      "term": "DfT",
+      "definition": "Department for Transport; UK government department responsible for transport policy."
+    },
+    {
+      "term": "Vision Zero",
+      "definition": "An approach aiming to eliminate all road deaths and serious injuries in a defined area."
+    },
+    {
+      "term": "ANPR",
+      "definition": "Automatic Number Plate Recognition; cameras that read licence plates to enforce rules."
+    },
+    {
+      "term": "micromobility",
+      "definition": "Small electric vehicles like e-scooters and some e-bikes, often new to road laws."
+    },
+    {
+      "term": "continuous insurance enforcement",
+      "definition": "A system that checks vehicles are insured by linking insurance data with vehicle records."
+    },
+    {
+      "term": "Tutelage",
+      "definition": "A data-led policing initiative mentioned as a tool to prioritise enforcement."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Targets need stronger enforcement and funding",
+      "takeaway": "Witnesses agreed casualty targets are unlikely to be met without more enforcement capacity, better tools and extra funding.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Are the Government's casualty-reduction targets achievable without a big increase in enforcement?"
+        },
+        {
+          "speaker": "Paul Fermer",
+          "text": "Short answer: no. Enforcement matters and needs to be the right type, but it's not the only element—we also need funding and community measures like Speedwatch."
+        },
+        {
+          "speaker": "Angus Eaton",
+          "text": "I agree enforcement is fundamental. It must be modernised; some penalties are outdated and the people and bodies who can enforce may need to change."
+        },
+        {
+          "speaker": "Joy Allen",
+          "text": "Yes. Also, different Government departments could pool effort and money: road safety saves lives and reduces costs across health, policing and social services, so joint funding makes sense."
+        }
+      ]
+    },
+    {
+      "title": "Where to focus: speeds, rural roads and local limits",
+      "takeaway": "Lower urban and many rural speed limits, plus clearer national rules, were proposed to reduce deaths and injuries.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "You said the strategy underplays safe speeds and roads—can you expand?"
+        },
+        {
+          "speaker": "Paul Fermer",
+          "text": "Oxfordshire pushed 20 mph in many urban areas and saw benefits. We want 20 mph as the norm in communities and to reduce many A and B roads to 50 mph. It should be harder to justify higher limits."
+        },
+        {
+          "speaker": "Angus Eaton",
+          "text": "Speed limits must match the changing vehicle mix, especially new micromobility devices. Limits alone won’t help if those vehicles aren’t regulated or enforced."
+        },
+        {
+          "speaker": "Paul Fermer",
+          "text": "There’s confusion when different areas set different limits and satnavs disagree. A clearer national approach to default limits would reduce genuine confusion and non-compliance."
+        }
+      ]
+    },
+    {
+      "title": "Data, partnerships and practical capacity gaps",
+      "takeaway": "Better data sharing, record-keeping and joined-up local partnerships are needed so enforcement can be targeted and preventative.",
+      "turns": [
+        {
+          "speaker": "Alex Mayer",
+          "text": "What blocks effective joint working between police, DVLA and local authorities?"
+        },
+        {
+          "speaker": "Joy Allen",
+          "text": "Data sharing. We also don’t record many non-serious collisions that show local danger. If minor crashes and near-misses were reported they’d give a fuller picture for prevention."
+        },
+        {
+          "speaker": "Angus Eaton",
+          "text": "Agree on data. Better, faster linking of insurance, MOT and tax data would help enforcement and predict problems. We also need legislative time for reforms."
+        },
+        {
+          "speaker": "Paul Fermer",
+          "text": "Partnerships work, but priorities and funding differ across police force areas. Councils lost road-safety capacity and are rebuilding it; police and councils need matched resource."
+        },
+        {
+          "speaker": "Joe Morris",
+          "text": "Does the system have enough officers to enforce current laws?"
+        },
+        {
+          "speaker": "Joy Allen",
+          "text": "No. Roads policing is much reduced from a decade ago. But we can work smarter—Sweden keeps roads policing part of every officer's shift—and use partnerships and education better."
+        },
+        {
+          "speaker": "Angus Eaton",
+          "text": "It isn’t just officer numbers—it's tools. Initiatives like Tutelage, which bring data together to prioritise enforcement, need funding so police can be effective."
+        }
+      ]
+    },
+    {
+      "title": "Enforcement tools: cameras, signage and uninsured driving",
+      "takeaway": "Average-speed cameras, better national rules on signage, and real-time insurance data would improve compliance and reduce harm.",
+      "turns": [
+        {
+          "speaker": "Joe Morris",
+          "text": "How effective is the current system for enforcing speed limits?"
+        },
+        {
+          "speaker": "Joy Allen",
+          "text": "A mix exists: fixed cameras, average-speed cameras and community Speedwatch. They work where used, but they need capital, deployment in the highest-risk spots and supporting police capacity."
+        },
+        {
+          "speaker": "Paul Fermer",
+          "text": "Average-speed camera programmes, like in Wales, change behaviour across a route better than single fixed cameras. But rollout is inconsistent and costly signs add maintenance overheads."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Does inconsistent local policy create sign clutter and extra cost?"
+        },
+        {
+          "speaker": "Paul Fermer",
+          "text": "Yes. Non-default limits mean extra signs and upkeep. We tried to minimise costs by using existing poles, but patchy signage can also make enforcement harder."
+        },
+        {
+          "speaker": "Dr Arthur",
+          "text": "On uninsured driving, how big is the problem?"
+        },
+        {
+          "speaker": "Angus Eaton",
+          "text": "Uninsured driving costs the economy ~£1bn a year; the Bureau pays ~£260m annually in claims. Reserves for illegal or modified e-bike claims have jumped markedly and fuel continuing pressure."
+        },
+        {
+          "speaker": "Dr Arthur",
+          "text": "Could real-time checks help the police spot uninsured vehicles?"
+        },
+        {
+          "speaker": "Angus Eaton",
+          "text": "Yes. We need faster, less stale data so officers can check insurance at the roadside. The industry and agencies are working on it, but it will take time."
+        },
+        {
+          "speaker": "Joy Allen",
+          "text": "There are also grey areas: cars sold for parts or delivered unroadworthy can end up driven uninsured. Better responsibilities and data could close that gap."
+        }
+      ]
+    },
+    {
+      "title": "Emerging threats: social media, micromobility and next steps",
+      "takeaway": "Social-media-fuelled dangerous driving, illegal modified e-bikes and unregulated micromobility are rising harms that need regulation, faster penalties and education.",
+      "turns": [
+        {
+          "speaker": "Jacob Collier",
+          "text": "How big an issue is dangerous driving pushed by social media?"
+        },
+        {
+          "speaker": "Joy Allen",
+          "text": "It’s significant. People post high-speed or dangerous clips that others imitate; social media companies should take down content that facilitates crime quickly."
+        },
+        {
+          "speaker": "Angus Eaton",
+          "text": "We’re seeing a surge in claims from illegal or modified e-bikes; reserves have risen from £30m to £128m. Regulation of these vehicles would allow insurance and reduce harm."
+        },
+        {
+          "speaker": "Dr Arthur",
+          "text": "Do education programmes work and could insurers require courses to reduce premiums?"
+        },
+        {
+          "speaker": "Angus Eaton",
+          "text": "Education is effective and targeted programmes help. Insurers could consider behavioural rewards, but lowering premiums directly via education needs careful evidence."
+        },
+        {
+          "speaker": "Paul Fermer",
+          "text": "Beyond education, culture and ownership matter—drivers must recognise that getting in a vehicle means responsibility. Technology in vehicles could also limit speed if legislated."
+        },
+        {
+          "speaker": "Joy Allen",
+          "text": "My final ask: a fully funded delivery plan with clear accountability so PCCs, councils and police know who does what and have the resources to hit the targets."
+        },
+        {
+          "speaker": "Angus Eaton",
+          "text": "Regulate micromobility and be ready to review rules regularly. New vehicle types and offending patterns will keep emerging."
+        },
+        {
+          "speaker": "Paul Fermer",
+          "text": "Require local highway and police authorities to adopt a Vision Zero approach and publish clear local speed-limit principles so national intent meets local delivery."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. If there’s anything you want to add in writing, please do so; the Committee will continue this inquiry."
+        }
+      ]
+    }
+  ]
+}

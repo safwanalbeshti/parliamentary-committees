@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18302,
+  "activity_id": 39525,
+  "document_id": 314813,
+  "meeting_date": "2026-11-11",
+  "meeting_date_display": "11 November 2026",
+  "publication_date": "2026-11-16T16:46:15",
+  "title": "Multilateralism",
+  "committee": "International Relations and Defence Committee",
+  "committees": [
+    {
+      "id": 360,
+      "name": "International Relations and Defence Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9772,
+      "title": "Multilateralism",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Dr Florian Ostmann",
+      "role": "Distinguished Policy Fellow",
+      "organisation": "LSE Data Science Institute"
+    },
+    {
+      "name": "Michael Birtwistle",
+      "role": "Associate Director (Law & Policy)",
+      "organisation": "The Ada Lovelace Institute"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Dr Florian Ostmann",
+    "Michael Birtwistle",
+    "Baroness Crawley",
+    "Baroness Blackstone",
+    "Lord Grocott",
+    "Lord Bruce of Bennachie",
+    "Lord Darroch of Kew",
+    "Lord Houghton of Richmond",
+    "Baroness Fraser of Craigmaddie",
+    "The questions are",
+    "Lord De Mauley",
+    "That leads me to the two other priorities in substantive terms"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18302/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18302",
+  "source_sha256": "0205071fb3e9588a3b74d892039b74ac27ec87177e86dc3d78a5094da78aa7f2",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

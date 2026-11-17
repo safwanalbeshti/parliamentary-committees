@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18297,
+  "activity_id": 39374,
+  "document_id": 314358,
+  "meeting_date": "2026-11-11",
+  "meeting_date_display": "11 November 2026",
+  "publication_date": "2026-11-16T14:44:38",
+  "title": "Equality at work: flexible working and disability",
+  "committee": "Women and Equalities Committee",
+  "committees": [
+    {
+      "id": 328,
+      "name": "Women and Equalities Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9760,
+      "title": "Equality at work: flexible working and disability",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Head of Inclusive Workplace Strategy and Policy",
+      "organisation": "ACAS"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chief Executive Officer",
+      "organisation": "Equality and Human Rights Commission"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Senior Policy Adviser",
+      "organisation": "Chartered Institute of Personnel and Development (CIPD)"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Head of Policy and Public Affairs",
+      "organisation": "Institution of Occupational Safety and Health"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Christine Jardine",
+    "Claire McCartney",
+    "Just on a broader point around flexible working",
+    "Ruth Wilkinson",
+    "Julie Dennis",
+    "John Kirkpatrick",
+    "Kim Leadbeater",
+    "People’s knowledge of Access to Work is limited for different reasons",
+    "Kim Leadbetter",
+    "Richard Quigley",
+    "If you do not mind me going back",
+    "Dame Nia Griffith",
+    "We have seen those numbers increasing over the past 10 years"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18297/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18297",
+  "source_sha256": "903a33fa159700cbb338e8ecff1b300e3cd0dba4b6f282a7741604331e94a7cb",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

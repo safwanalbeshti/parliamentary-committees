@@ -1,0 +1,280 @@
+{
+  "schema_version": 1,
+  "source_id": 18302,
+  "source_sha256": "0205071fb3e9588a3b74d892039b74ac27ec87177e86dc3d78a5094da78aa7f2",
+  "title": "Who makes the rules for AI? How international fora, states and companies mix",
+  "label": "11 November 2026 · Multilateralism: AI governance outside the UN",
+  "summary": "Witnesses from LSE and the Ada Lovelace Institute explained how groups such as the G7, OECD and the Global Partnership on AI (GPAI) already shape AI governance through non‑binding guidance, how those soft rules can become building blocks for harder national regulation, and why the UK should prioritise practical, internationally comparable evaluation of advanced ‘frontier’ models, clearer red lines, and shifting the burden of proof for safety onto developers.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Robertson of Port Ellen",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Dr Florian Ostmann",
+      "name": "Dr Florian Ostmann",
+      "role": "Distinguished Policy Fellow, LSE Data Science Institute",
+      "kind": "witness"
+    },
+    {
+      "label": "Michael Birtwistle",
+      "name": "Michael Birtwistle",
+      "role": "Associate Director (Law & Policy), Ada Lovelace Institute",
+      "kind": "witness"
+    },
+    {
+      "label": "Baroness Crawley",
+      "name": "Baroness Crawley",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Blackstone",
+      "name": "Baroness Blackstone",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Grocott",
+      "name": "Lord Grocott",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Bruce of Bennachie",
+      "name": "Lord Bruce of Bennachie",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Darroch of Kew",
+      "name": "Lord Darroch of Kew",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Houghton of Richmond",
+      "name": "Lord Houghton of Richmond",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Fraser of Craigmaddie",
+      "name": "Baroness Fraser of Craigmaddie",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord De Mauley",
+      "name": "Lord De Mauley",
+      "role": "Member of the committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "G7",
+      "definition": "A group of seven advanced economies that meet to coordinate on political and economic policy."
+    },
+    {
+      "term": "OECD",
+      "definition": "Organisation for Economic Co‑operation and Development: a grouping of many rich and middle-income countries that produces policy guidance and analysis."
+    },
+    {
+      "term": "Global Partnership on AI (GPAI)",
+      "definition": "A multistakeholder forum set up to encourage responsible AI through research, guidance and collaboration between governments, industry and civil society."
+    },
+    {
+      "term": "Hiroshima reporting framework",
+      "definition": "A voluntary G7 process, started in Hiroshima, asking AI labs to publish certain transparency information about advanced models."
+    },
+    {
+      "term": "AI Security Institute (AISI)",
+      "definition": "A UK‑based institute that assesses extreme security risks from advanced AI and coordinates a network of similar bodies."
+    },
+    {
+      "term": "frontier AI",
+      "definition": "Very advanced, cutting‑edge AI models whose capabilities and risks are uncertain and potentially systemic."
+    },
+    {
+      "term": "external evaluator",
+      "definition": "An independent expert or organisation that tests an AI model, often before public release."
+    },
+    {
+      "term": "red lines",
+      "definition": "Agreed prohibitions on producing or releasing AI systems with certain dangerous capabilities."
+    },
+    {
+      "term": "human‑in‑the‑loop",
+      "definition": "A safety approach that requires a human to make or approve critical decisions made by an AI system."
+    },
+    {
+      "term": "sociotechnical evaluation",
+      "definition": "Testing AI not only in lab conditions but also studying how it behaves when interacting with people and organizations."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Why the G7, OECD and GPAI matter",
+      "takeaway": "Those forums have been early movers in AI governance; they mostly produce non‑binding guidance that can become the basis for national rules.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Many organisations — G7, OECD, GPAI — are discussing AI governance. How significant are they and do they just talk without delivering?"
+        },
+        {
+          "speaker": "Dr Florian Ostmann",
+          "text": "They matter. Think of them as overlapping circles: G7 is smallest, OECD larger, GPAI is integrated with OECD. Work often starts in one forum and moves to others."
+        },
+        {
+          "speaker": "Dr Florian Ostmann",
+          "text": "Their outputs are mostly non‑binding. That limits them, but those soft rules build shared definitions and practices that countries then turn into laws or regulation."
+        },
+        {
+          "speaker": "Michael Birtwistle",
+          "text": "Agree. These bodies play three roles: setting norms (what to aspire to), producing knowledge (measurements and tests), and convening political action. What’s been weaker is turning principles into operational tools and enforcement."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Can voluntary rules become the basis for binding ones?"
+        },
+        {
+          "speaker": "Dr Florian Ostmann",
+          "text": "Yes. Examples like the Hiroshima transparency framework and OECD incident‑reporting work provide templates that regulators can adapt into mandatory rules."
+        },
+        {
+          "speaker": "Michael Birtwistle",
+          "text": "They set a floor of agreement. But translating that into enforceable law needs political will at national level and co‑ordination between governments."
+        }
+      ]
+    },
+    {
+      "title": "Where the UK fits in",
+      "takeaway": "The UK has technical strengths and institutions, but its international posture has shifted and it must choose where to lead practically.",
+      "turns": [
+        {
+          "speaker": "Baroness Blackstone",
+          "text": "What part does the UK play in OECD, G7 and similar bodies? Is it effective?"
+        },
+        {
+          "speaker": "Michael Birtwistle",
+          "text": "The UK was an early mover: founding GPAI, hosting Bletchley, co‑ordinating on Hiroshima. It created AISI. But since 2025 its stance has realigned closer to the US on some things and it skipped some middle‑power statements."
+        },
+        {
+          "speaker": "Dr Florian Ostmann",
+          "text": "The UK is active in OECD and G7 tables and provides strong technical expertise, especially through AISI and the network it helps run. Non‑government UK experts are also influential in standard work."
+        },
+        {
+          "speaker": "Lord Grocott",
+          "text": "With so many forums and differing views, where should the UK concentrate—UN, G7, G20, or smaller groups?"
+        },
+        {
+          "speaker": "Dr Florian Ostmann",
+          "text": "Don’t pick just one. Different problems need different fora. OECD is faster and good for operational work; G20 can convene the big players including China and the US for strategic dialogue; the UN is broader but slower."
+        },
+        {
+          "speaker": "Michael Birtwistle",
+          "text": "Pick the forum by problem. Issues like cross‑border harms and regulatory arbitrage need international solutions; technical standards may be advanced in narrower, faster groups."
+        }
+      ]
+    },
+    {
+      "title": "Who else must be at the table — states and companies",
+      "takeaway": "Inclusion beyond a few expert countries matters for sovereignty and fairness, and tech companies shape rules but also try to set them to their own advantage.",
+      "turns": [
+        {
+          "speaker": "Lord Bruce of Bennachie",
+          "text": "Should we restrict rule‑making to expert countries or include a wider group, given limited resources and low participation from places like Africa?"
+        },
+        {
+          "speaker": "Michael Birtwistle",
+          "text": "Broader participation matters: the UN has mandates on human rights and peace, and many harms are cross‑border. If countries building sovereign models aren’t included, gaps and risks grow."
+        },
+        {
+          "speaker": "Dr Florian Ostmann",
+          "text": "It depends on the issue. For some urgent frontier risks you must include the US and China; for many operational standards, bringing in middle powers and the Global South is crucial."
+        },
+        {
+          "speaker": "Baroness Crawley",
+          "text": "How dependent are these initiatives on the US, and will US domestic politics change that?"
+        },
+        {
+          "speaker": "Dr Florian Ostmann",
+          "text": "US industry is pushing for stronger governance; the current US administration has been cautious about binding international rules. If the US government stays out of binding deals, some fronts require US engagement and will be harder to resolve."
+        },
+        {
+          "speaker": "Michael Birtwistle",
+          "text": "Market power, procurement and industrial policy are levers. If big markets demand safe or sovereign alternatives, that can change company and state behaviour even if the US Government is reluctant."
+        },
+        {
+          "speaker": "Baroness Fraser of Craigmaddie",
+          "text": "How engaged are private companies in governance? Do they set the terms?"
+        },
+        {
+          "speaker": "Dr Florian Ostmann",
+          "text": "Most leading labs participate in forums and multi‑stakeholder groups, but they have their own interests. Proposals like external evaluation are welcome, but details — who evaluates, what access they get — matter a lot."
+        },
+        {
+          "speaker": "Michael Birtwistle",
+          "text": "Companies try to shape rules. AISI collaborations exist, but AISI’s remit is narrow (extreme security risks) and doesn’t cover many harms such as bias, child safety or environmental impact."
+        }
+      ]
+    },
+    {
+      "title": "Frontier risk, weapons and UK priorities",
+      "takeaway": "Countries need clear red lines, a robust evaluation ecosystem, and a shift so developers must prove safety; the UK should drive operational standards through its G20/G7 presidencies.",
+      "turns": [
+        {
+          "speaker": "Lord Darroch of Kew",
+          "text": "If the US stays out of binding rules long‑term, can binding AI regulation work without them?"
+        },
+        {
+          "speaker": "Dr Florian Ostmann",
+          "text": "For many market‑facing AI issues, yes — national rules can act. But for frontier R&D risks, US participation is critical because much capability and development is there."
+        },
+        {
+          "speaker": "Lord Houghton of Richmond",
+          "text": "On autonomous weapons: is human‑in‑the‑loop enough, or is that the Achilles’ heel?"
+        },
+        {
+          "speaker": "Dr Florian Ostmann",
+          "text": "Human involvement alone isn’t enough. You need both technical safeguards and competent humans; without broad international agreement — ideally UN‑level — this remains unresolved."
+        },
+        {
+          "speaker": "Michael Birtwistle",
+          "text": "Regulation must be sociotechnical: test systems in the real world and study how people actually use them. Automation bias — people trusting AI too readily — undermines simple human‑in‑the‑loop fixes."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Which areas really need international regulation?"
+        },
+        {
+          "speaker": "Michael Birtwistle",
+          "text": "Frontier model risk needs global action: shared substantive rules, an institutional architecture to gather evidence and regular review processes so commitments are tracked and updated."
+        },
+        {
+          "speaker": "Dr Florian Ostmann",
+          "text": "Specifically: agreed red lines (clear prohibitions), a robust evaluation ecosystem with comparable tests and standards across countries, and shifting the burden of proof so developers must show safety before deployment."
+        },
+        {
+          "speaker": "Lord De Mauley",
+          "text": "If you were a UK minister, what three international policy priorities would you set?"
+        },
+        {
+          "speaker": "Dr Florian Ostmann",
+          "text": "First, align and integrate work across fora and use the G20/G7 presidencies to push measurable progress. Second, build international standards and a plural, regulated evaluation ecosystem building on AISI. Third, shift the burden of proof for frontier safety onto developers."
+        },
+        {
+          "speaker": "Michael Birtwistle",
+          "text": "I agree: pick the right forum per problem; make principles operational with incentives and enforcement; push sociotechnical, post‑deployment evaluation; and secure continuity between presidencies so progress is sustained."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you both — very helpful. That closes the session."
+        }
+      ]
+    }
+  ]
+}

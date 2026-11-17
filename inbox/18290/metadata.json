@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18290,
+  "activity_id": 39434,
+  "document_id": 313833,
+  "meeting_date": "2026-11-11",
+  "meeting_date_display": "11 November 2026",
+  "publication_date": "2026-11-16T10:51:13",
+  "title": "Waste Crime",
+  "committee": "Environment and Climate Change Committee",
+  "committees": [
+    {
+      "id": 515,
+      "name": "Environment and Climate Change Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9312,
+      "title": "Waste Crime",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Philip Duffy",
+      "role": "Chief Executive",
+      "organisation": "Environment Agency"
+    },
+    {
+      "name": "Malcolm Lythgo",
+      "role": "Director for Environmental Markets & Enforcement",
+      "organisation": "Environment Agency"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Philip Duffy",
+    "Malcolm Lythgo",
+    "Baroness McIntosh of Pickering",
+    "Lord Rooker",
+    "Baroness Whitaker",
+    "Earl Russell",
+    "Lord Krebs",
+    "Baroness Rafferty",
+    "Baroness Coffey",
+    "Lord Redwood",
+    "Lord Trees",
+    "Lord Ashcombe",
+    "Lord Lennie"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18290/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18290",
+  "source_sha256": "d73699e092d945386eaa3f6966b45e7fc76a062931dce68883028fb28890d925",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

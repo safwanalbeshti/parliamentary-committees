@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18285,
+  "activity_id": 39221,
+  "document_id": 313667,
+  "meeting_date": "2026-11-11",
+  "meeting_date_display": "11 November 2026",
+  "publication_date": "2026-11-16T08:16:22",
+  "title": "Scotland’s whisky industry: Tariffs, trade and growth",
+  "committee": "Scottish Affairs Committee",
+  "committees": [
+    {
+      "id": 136,
+      "name": "Scottish Affairs Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9946,
+      "title": "Scotland’s whisky industry: Tariffs, trade and growth",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Professor Khorana",
+    "Dr Sampson",
+    "Will Haworth",
+    "John Cooper",
+    "Douglas McAllister",
+    "Dave Doogan",
+    "Kenneth Stevenson",
+    "Douglas Lumsden",
+    "We are in things such as the CPTPP. I keep saying this",
+    "Mr MacDonald",
+    "Kirsteen Sullivan",
+    "Maureen Burke",
+    "Anthony Wills",
+    "Annabel Thomas",
+    "Jonathan Brenton",
+    "Susan Murray"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18285/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18285",
+  "source_sha256": "f5ae4f3c5706dd3cb62616a1a6f571a4de60eb18a5444a68c3d9c21ed267b7bb",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

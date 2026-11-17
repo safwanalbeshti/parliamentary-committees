@@ -1,0 +1,364 @@
+{
+  "schema_version": 1,
+  "source_id": 18296,
+  "source_sha256": "9966c77c56526e51c8dc02d0d92aebdf614a2dceb57654c0cc6cc7118c799858",
+  "title": "Who pays and who saves: auto-enrolment, low earners and the state pension",
+  "label": "11 November 2026 · Pensions adequacy inquiry",
+  "summary": "The Committee questioned experts and campaigners on how auto-enrolment should support low earners. Witnesses agreed the UK needs clearer adequacy goals: avoid pensioner poverty and smooth lifetime living standards. They warned the Government’s adjustment to the triple lock increases pressure on private saving, making higher automatic contributions (Pensions UK’s 8%→12%) urgent. But raising defaults risks hurting low earners now; the witnesses discussed uprating thresholds, better sequencing, employer support, and mitigations such as non-contingent employer contributions, small accessible “sidecar” savings, and targeted help for women and the self-employed.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Debbie Abrahams",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Jonathan Cribb",
+      "name": "Jonathan Cribb",
+      "role": "Deputy Director, Institute for Fiscal Studies",
+      "kind": "witness"
+    },
+    {
+      "label": "Chris Curry",
+      "name": "Chris Curry",
+      "role": "Director, Pensions Policy Institute",
+      "kind": "witness"
+    },
+    {
+      "label": "Carl Emmerson",
+      "name": "Carl Emmerson",
+      "role": "Partner, London Economics",
+      "kind": "witness"
+    },
+    {
+      "label": "Zoe Alexander",
+      "name": "Zoe Alexander",
+      "role": "Chief Policy Officer, Pensions UK",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Daniella Jenkins",
+      "name": "Dr Daniella Jenkins",
+      "role": "Director, Women’s Budget Group",
+      "kind": "witness"
+    },
+    {
+      "label": "Will Sandbrook",
+      "name": "Will Sandbrook",
+      "role": "CEO, Centre for Inclusive Money",
+      "kind": "witness"
+    },
+    {
+      "label": "Jack Jones",
+      "name": "Jack Jones",
+      "role": "Pensions Officer, TUC",
+      "kind": "witness"
+    },
+    {
+      "label": "Patrick Hurley",
+      "name": "Patrick Hurley",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Mr Peter Bedford",
+      "name": "Mr Peter Bedford",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "John Milne",
+      "name": "John Milne",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Damien Egan",
+      "name": "Damien Egan",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Rushanara Ali",
+      "name": "Rushanara Ali",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Andrew Pakes",
+      "name": "Andrew Pakes",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "auto-enrolment",
+      "definition": "A system that automatically signs employees into workplace pensions unless they opt out."
+    },
+    {
+      "term": "triple lock",
+      "definition": "The rule that annual State Pension increases are the highest of inflation, average earnings growth, or 2.5%."
+    },
+    {
+      "term": "state pension",
+      "definition": "The UK government pension paid to people who reach State Pension age with sufficient National Insurance records."
+    },
+    {
+      "term": "lower earnings limit",
+      "definition": "A cash threshold below which earnings are not counted for auto-enrolment or certain pension entitlements."
+    },
+    {
+      "term": "earnings trigger",
+      "definition": "A cash threshold above which an employee is automatically enrolled into a workplace pension by their employer."
+    },
+    {
+      "term": "pensions credit",
+      "definition": "A means-tested benefit that top-ups the incomes of very low-income pensioners."
+    },
+    {
+      "term": "Universal Credit",
+      "definition": "A means-tested benefit for people of working age on low incomes."
+    },
+    {
+      "term": "qualifying earnings",
+      "definition": "The range of earnings used to calculate workplace pension contributions (a band between two cash limits)."
+    },
+    {
+      "term": "non-contingent employer contribution",
+      "definition": "An employer payment into a pension that a worker keeps even if they opt out of their own contribution."
+    },
+    {
+      "term": "pension-adjacent emergency savings account (PAESA)",
+      "definition": "A proposal to let a small portion of pension contributions go into an accessible pot for short-term needs."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What should pension adequacy mean?",
+      "takeaway": "Witnesses agreed adequacy has two aims: prevent pensioner poverty and smooth people’s living standards between working life and retirement.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "The Pensions Commission asks what adequacy objectives should be for low earners. What should we aim to deliver?"
+        },
+        {
+          "speaker": "Carl Emmerson",
+          "text": "Two clear objectives: avoid widespread pensioner poverty and help people smooth living standards so retirement doesn't leave them much worse off than work."
+        },
+        {
+          "speaker": "Chris Curry",
+          "text": "I agree. For low earners a minimum standard that lets people participate in society is crucial. Measures must also reflect needs like housing or disability costs."
+        },
+        {
+          "speaker": "Jonathan Cribb",
+          "text": "A hybrid metric can help—combining a minimum standard and replacement rates—but be careful mixing different concepts. We should also watch how minimum standards compare to working-age incomes."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Should periodic, holistic reviews be built into pensions policy?"
+        },
+        {
+          "speaker": "Chris Curry",
+          "text": "Yes—independent, regular reviews help. They don’t have to be binding, but should clarify the objectives and act as an early-warning system."
+        },
+        {
+          "speaker": "Jonathan Cribb",
+          "text": "Periodic reviews every 10–15 years are sensible: they give stability but let policy catch up with big changes."
+        }
+      ]
+    },
+    {
+      "title": "Triple lock change tightens the private saving task",
+      "takeaway": "Adjusting the triple lock reduces the projected State Pension, so private pensions and higher contributions become more important.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "How does the Government’s adjusted triple lock affect what people must save?"
+        },
+        {
+          "speaker": "Jonathan Cribb",
+          "text": "The adjustment makes the state pension more predictable but lower relative to earnings over the long run, so private saving needs to rise to make up the gap."
+        },
+        {
+          "speaker": "Chris Curry",
+          "text": "Yes. The change clarifies the scale of the shortfall. Previous estimates show many more people may be undersaving under a less generous lock."
+        },
+        {
+          "speaker": "Carl Emmerson",
+          "text": "Our modelling shows a median earner might need substantially higher private contributions to reach the same retirement income under the adjusted rule."
+        },
+        {
+          "speaker": "Zoe Alexander",
+          "text": "That’s why Pensions UK urges rising auto-enrolment from 8% to 12%—the private system must do more if the state provides less."
+        },
+        {
+          "speaker": "Dr Daniella Jenkins",
+          "text": "Women are particularly exposed: many rely mostly on the state pension and live longer, so the long-term squeeze hits them hardest, especially those born in the 1970s."
+        },
+        {
+          "speaker": "Jack Jones",
+          "text": "A lower state pension increases the need for workplace saving and better ways to turn small pots into a secure income—collective DC and guided retirement help."
+        }
+      ]
+    },
+    {
+      "title": "Raise contributions, but sequence and protect low earners",
+      "takeaway": "Most witnesses back higher contribution targets, but recommend gradual timetables, employer-first funding, uprating thresholds and mitigations for low earners.",
+      "turns": [
+        {
+          "speaker": "Mr Peter Bedford",
+          "text": "Is raising contributions to 12% sensible and how should the increase be split between employer and employee?"
+        },
+        {
+          "speaker": "Jonathan Cribb",
+          "text": "Moving to around 12% on qualifying earnings makes sense, but don’t apply 12% on all earnings without care. Allow options for lower contributions so people can stay in with an employer contribution."
+        },
+        {
+          "speaker": "Chris Curry",
+          "text": "Higher contributions are justified, but implementation matters. Employers can absorb costs if given long notice; historically, increases were phased in over many years."
+        },
+        {
+          "speaker": "Carl Emmerson",
+          "text": "Automatic enrolment works. The issue is we still lack enough voluntary saving. Raise defaults gradually, give long notice, and consider wage dynamics and the national living wage when timing increases."
+        },
+        {
+          "speaker": "Jack Jones",
+          "text": "Put more of the rise onto employers where possible—international norms and fairness suggest employers should bear a bigger share, and it reduces pressure on low earners’ take-home pay."
+        },
+        {
+          "speaker": "Zoe Alexander",
+          "text": "Pensions UK proposes a path to 12% by the early 2030s with employer contributions rising first. But we must examine the lower earnings limit and the earnings trigger carefully."
+        },
+        {
+          "speaker": "John Milne",
+          "text": "If we lower the lower earnings limit to zero, how do we protect people who genuinely can’t afford to divert pay into pensions?"
+        },
+        {
+          "speaker": "Will Sandbrook",
+          "text": "Mitigations include allowing opt-downs without losing employer contributions, non-contingent employer payments, or PAESA sidecars that let a small share be accessed for emergencies."
+        },
+        {
+          "speaker": "Dr Daniella Jenkins",
+          "text": "We must target help for women and households where increased contributions would cut already-scarce working-age resources. Repurpose some tax relief to support employers who mainly employ low paid workers."
+        }
+      ]
+    },
+    {
+      "title": "Options to protect low earners",
+      "takeaway": "Experts suggested practical mitigations—uprating cash thresholds, better Universal Credit alignment, employer trials of non-contingent contributions, and accessible savings linked to pensions.",
+      "turns": [
+        {
+          "speaker": "Patrick Hurley",
+          "text": "If we change thresholds or remove the LEL, what support is needed so low earners can afford extra contributions?"
+        },
+        {
+          "speaker": "Carl Emmerson",
+          "text": "Ensure eligible households get correct Universal Credit. Improve take-up and administration so UC offsets some of the cost of pension saving for low-income households."
+        },
+        {
+          "speaker": "Jonathan Cribb",
+          "text": "Any cash thresholds like the earnings trigger and LEL should be uprated (prices or earnings). Fixed cash limits suffer fiscal drag and pull more people in over time unintentionally."
+        },
+        {
+          "speaker": "Chris Curry",
+          "text": "Consider simple mitigations rather than many overlapping rules. Dual-account approaches, limited access to savings, or opt-downs are less messy than many thresholds."
+        },
+        {
+          "speaker": "Zoe Alexander",
+          "text": "We tested employer views and found many SMEs would support phased rises if given two years’ notice; but the system must avoid complexity that small employers struggle to administer."
+        },
+        {
+          "speaker": "Jack Jones",
+          "text": "Targeted housing support and making the social security safety net work for pensioners near the pensions credit threshold will do a lot to reduce pensioner poverty."
+        },
+        {
+          "speaker": "Will Sandbrook",
+          "text": "Trials for non-contingent employer contributions and PAESA pilots would test behaviour and let us pick approaches that don’t create perverse incentives or erosion of the savings norm."
+        }
+      ]
+    },
+    {
+      "title": "Future risks: self-employment, inequality and sequencing reform",
+      "takeaway": "The Commission must consider self-employed coverage, the gender gap, and labour-market change; reform needs a clear timetable, holistic review and sequencing so mitigations accompany rises.",
+      "turns": [
+        {
+          "speaker": "Rushanara Ali",
+          "text": "With AI and labour changes, how will inequalities evolve and what should that mean for contribution policy?"
+        },
+        {
+          "speaker": "Dr Daniella Jenkins",
+          "text": "The system is fragile and assumptions may not hold. We need checkpoints and distributional analysis focused on women and vulnerable groups, not just fiscal projections."
+        },
+        {
+          "speaker": "Will Sandbrook",
+          "text": "Design reforms to work for variable incomes and the self-employed: tax/self-assessment entry points help, but we may need broader ecosystem nudges—banking and accounting tools—to create 'little and often' saving."
+        },
+        {
+          "speaker": "Jack Jones",
+          "text": "Half of self-employed earn well below median pay; we need options—either a funded collective DC for the self-employed or a small additional state pension funded through additional NICs—to get decent outcomes."
+        },
+        {
+          "speaker": "Damien Egan",
+          "text": "In what order should changes happen?"
+        },
+        {
+          "speaker": "Carl Emmerson",
+          "text": "Legislate early for a phased timetable, prioritise increasing contributions uniformly, trial new employer-contribution models with big employers, then cautiously lower earnings thresholds."
+        },
+        {
+          "speaker": "Chris Curry",
+          "text": "Sequence mitigations with the increases: don’t raise contributions first and hope to fix problems later. Give long notice and coordinate with other policies like the national living wage."
+        },
+        {
+          "speaker": "Zoe Alexander",
+          "text": "Set a clear path to 12% by the early 2030s, but review the lower earnings limit with an independent national council for retirement adequacy to advise on timing and mitigations."
+        },
+        {
+          "speaker": "Andrew Pakes",
+          "text": "Should we trial non-contingent employer contributions and measure employer and worker responses?"
+        },
+        {
+          "speaker": "Will Sandbrook",
+          "text": "Yes—trials and employer consultations are essential to test behaviour, protect the consensus that made the first reforms work, and avoid unintended employer withdrawal from the system."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. Final summary from each panel member in one line, please."
+        },
+        {
+          "speaker": "Jonathan Cribb",
+          "text": "Aim to prevent pensioner poverty and smooth lifetime incomes; be wary of fiscal drag on cash thresholds."
+        },
+        {
+          "speaker": "Chris Curry",
+          "text": "Raise contributions gradually with long notice, pair increases with practical mitigations and clear objectives."
+        },
+        {
+          "speaker": "Carl Emmerson",
+          "text": "Automatic enrolment works—use it more, but test new employer contribution approaches and beware timing with wages."
+        },
+        {
+          "speaker": "Zoe Alexander",
+          "text": "We need higher contributions now and a clear roadmap that protects low earners while improving adequacy."
+        },
+        {
+          "speaker": "Dr Daniella Jenkins",
+          "text": "Target interventions for women and vulnerable groups, and repurpose regressive tax relief if politically possible."
+        },
+        {
+          "speaker": "Will Sandbrook",
+          "text": "Combine higher baselines with targeted mitigations: accessible emergency savings, trials, and better support for the self-employed."
+        },
+        {
+          "speaker": "Jack Jones",
+          "text": "Shift a bigger share of increases to employers, expand collective DC options and strengthen safety-net measures for low-income pensioners."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you all. The Commission should have concrete options: clearer objectives, higher contribution paths, uprated thresholds, employer support, and tested mitigations for low earners."
+        }
+      ]
+    }
+  ]
+}

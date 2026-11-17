@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "source_id": 18287,
+  "source_sha256": "cc3a37866c7b2ca3a6824c3fb5b587e9060782b7e57273137793076d4bc99e99",
+  "title": "What therapy looks like, what the ban would cover, and risks for young people",
+  "label": "12 November 2026 · Draft Conversion Practices Bill, evidence session 3",
+  "summary": "Two panels of therapists and clinicians told the Committee about current gender- and sexuality-related services, supported a legal ban on abusive conversion practices, and urged clearer wording and implementation guidance to avoid dangerous confusion—especially for children, neurodivergent young people, and ordinary therapeutic work. They recommended tying the healthcare exemption to regulated professionals, sharpening the harm test (so normal therapeutic distress isn’t criminalised), and ensuring training, supervision and public guidance alongside the law.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Mr Alex Barros-Curtis",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Dr Igi Moon",
+      "name": "Dr Igi Moon",
+      "role": "Chair, Memorandum of Understanding on Conversion Therapies",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Alison Berner",
+      "name": "Dr Alison Berner",
+      "role": "President, British Association of Gender Identity Specialists",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Lisa Morrison",
+      "name": "Dr Lisa Morrison",
+      "role": "Chief Regulation & Standards Officer, British Association for Counselling and Psychotherapy",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Anna Hutchinson",
+      "name": "Dr Anna Hutchinson",
+      "role": "Clinical Psychologist, specialist in adolescence and identity",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Hope of Craighead",
+      "name": "Lord Hope of Craighead",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Naz Shah",
+      "name": "Naz Shah",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Sir Jeremy Wright",
+      "name": "Sir Jeremy Wright",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Browning",
+      "name": "Baroness Browning",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Isaac",
+      "name": "Lord Isaac",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Olivia Bailey",
+      "name": "Olivia Bailey",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Danny Beales",
+      "name": "Danny Beales",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Marie Goldman",
+      "name": "Marie Goldman",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "MOU",
+      "definition": "A Memorandum of Understanding: a coalition of organisations setting shared ethical positions on conversion practices."
+    },
+    {
+      "term": "gender-affirming care",
+      "definition": "Clinical and medical support for a person’s gender identity, which can include social steps and medical treatments."
+    },
+    {
+      "term": "Cass review",
+      "definition": "An official review of gender identity services for children in England that criticised practices at the Tavistock clinic."
+    },
+    {
+      "term": "PSA",
+      "definition": "Professional Standards Authority: accredits professional registers and their standards."
+    },
+    {
+      "term": "HCPC",
+      "definition": "Health and Care Professions Council: regulator for certain health professionals in the UK."
+    },
+    {
+      "term": "detransitioner",
+      "definition": "Someone who previously changed their medical or social gender presentation and later reversed or altered that change."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What services exist and how therapists see their role",
+      "takeaway": "Therapists describe a mixed landscape—NHS clinics, private and voluntary services—and agreed therapy should be client-led exploration, not persuasion.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "To begin, please describe the services available for gender identity and sexual orientation in England and Wales."
+        },
+        {
+          "speaker": "Dr Igi Moon",
+          "text": "There are NHS gender identity clinics, private practitioners and voluntary services. The MOU brings organisations together to set ethical standards and ensure different needs—sexual orientation or gender identity—are treated without presuming one is preferable."
+        },
+        {
+          "speaker": "Dr Alison Berner",
+          "text": "About ten adult gender identity services operate. Young-person services were reconfigured after the Tavistock’s closure; adult medical steps (hormones, surgery) come through referral paths involving GPs and specialist providers."
+        },
+        {
+          "speaker": "Lord Hope of Craighead",
+          "text": "Should the Bill treat sexual orientation and transgender services differently in its healthcare exemption?"
+        },
+        {
+          "speaker": "Dr Alison Berner",
+          "text": "No. In healthcare we assess and, where needed, diagnose to enable medical care. Sexual orientation might be discussed but isn't a diagnosis; the Bill should protect against harmful conversion practices across both."
+        },
+        {
+          "speaker": "Dr Igi Moon",
+          "text": "Agreed. Therapists are trained to offer a safe exploratory space, not to impose an identity. Training, supervision and professional standards are key to doing that well."
+        }
+      ]
+    },
+    {
+      "title": "The healthcare exemption and regulation",
+      "takeaway": "Witnesses support a ban but want the exemption explicitly tied to regulated professionals, to prevent bad actors in unregulated settings from exploiting the law.",
+      "turns": [
+        {
+          "speaker": "Naz Shah",
+          "text": "The MOU doesn't separate adults and children—should children get a different therapeutic approach?"
+        },
+        {
+          "speaker": "Dr Igi Moon",
+          "text": "The MOU intentionally doesn't set age limits. Individual organisations and regulators handle child-specific guidance; the MOU sets ethical principles applying to all ages."
+        },
+        {
+          "speaker": "Baroness Browning",
+          "text": "I worry about people who present as therapists but aren't regulated offering conversion practices. Does the Bill catch them?"
+        },
+        {
+          "speaker": "Dr Alison Berner",
+          "text": "The Bill needs to make clear that the healthcare exemption applies only to regulated professionals. Regulation provides public protection and routes for redress; without it, unregulated actors are a real risk."
+        },
+        {
+          "speaker": "Sir Jeremy Wright",
+          "text": "Clause 1(9)(b) defines healthcare broadly—could that let anyone claiming to provide therapy hide behind the exemption?"
+        },
+        {
+          "speaker": "Dr Alison Berner",
+          "text": "If you add the caveat that providers must be regulated, that mitigates the risk. Regulators can enforce standards; criminal law should be a backstop for the worst cases."
+        },
+        {
+          "speaker": "Dr Igi Moon",
+          "text": "We support the ban and agree the exemption should be for regulated practitioners—those accountable to bodies like HCPC, GMC or PSA-accredited registers."
+        },
+        {
+          "speaker": "Chair",
+          "text": "So you want the Bill kept but with clearer links to professional regulation and guidance?"
+        },
+        {
+          "speaker": "Dr Lisa Morrison",
+          "text": "Yes. BACP supports a ban and stresses that regulators and accredited registers should be central to implementation and oversight."
+        }
+      ]
+    },
+    {
+      "title": "Defining harm: distress in therapy versus abusive practice",
+      "takeaway": "Therapeutic work often causes distress; witnesses warned the Bill should require 'serious' or prolonged harm so ordinary, necessary distress in therapy isn’t criminalised.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "The draft Bill uses words like 'alarm' and 'distress' as part of the harm test. Could that criminalise normal therapy which can be distressing?"
+        },
+        {
+          "speaker": "Dr Lisa Morrison",
+          "text": "Therapy often involves temporary distress while exploring hard things. We welcome harm being included, but recommend qualifying 'distress'—for example, 'serious' or 'prolonged and serious'—so normal therapeutic distress isn't misread as abuse."
+        },
+        {
+          "speaker": "Lord Hope of Craighead",
+          "text": "If the Bill kept the phrase 'substantial adverse effect on day-to-day activities', does that solve the problem?"
+        },
+        {
+          "speaker": "Dr Lisa Morrison",
+          "text": "Read together, that helps, but repetition of 'serious' would reduce misinterpretation and discourage vexatious complaints that could chill practice."
+        },
+        {
+          "speaker": "Dr Anna Hutchinson",
+          "text": "I'm concerned that leaving harm too subjective risks putting frontline clinicians through court tests about what caused a young person’s distress. That would scare people away from working with young people."
+        },
+        {
+          "speaker": "Danny Beales",
+          "text": "But the offence requires a course of behaviour seeking to change identity plus serious harm—wouldn't that reduce false claims?"
+        },
+        {
+          "speaker": "Dr Anna Hutchinson",
+          "text": "Intent is hard to prove. Adolescents change and explore identity naturally; if a young person later shifts identity, they might perceive earlier therapy as 'having changed them', even when it was exploratory."
+        },
+        {
+          "speaker": "Dr Lisa Morrison",
+          "text": "That's why implementation guidance and clear professional standards matter—professional bodies must explain what legitimate exploratory therapy looks like and how it differs from coercive or outcome-driven practice."
+        }
+      ]
+    },
+    {
+      "title": "Children, neurodiversity, gender-affirming care and practical safeguards",
+      "takeaway": "Witnesses warned the Bill must be implemented alongside clear guidance, clinician competence standards, and public information—especially to protect vulnerable young people, neurodivergent children, and detransitioners.",
+      "turns": [
+        {
+          "speaker": "Baroness Browning",
+          "text": "Many autistic young people have presented at gender services. Would the Bill help or harm them, and should practitioners need autism-specific competencies to work with such young people?"
+        },
+        {
+          "speaker": "Dr Anna Hutchinson",
+          "text": "These young people are more likely to have neurodevelopmental issues and emotional trauma. The field is polarised: gender-affirming care includes medical steps that are irreversible. If clinicians are scared by the law they may stop assessing rigorously—creating other risks, including for detransitioners."
+        },
+        {
+          "speaker": "Dr Lisa Morrison",
+          "text": "We need specialist competence for working with children and neurodivergence. Registering and accrediting practitioners, plus clear referral pathways when a practitioner lacks competence, are practical protections."
+        },
+        {
+          "speaker": "Lord Isaac",
+          "text": "Dr Moon discussed 'affirmation' as empathy and acceptance. How does that square with concerns about medical pathways?"
+        },
+        {
+          "speaker": "Dr Anna Hutchinson",
+          "text": "Affirmation in therapy—accepting someone’s experience—is appropriate. The complexity here is that affirmation can lead into medical decisions with long-term effects. That’s why careful developmental assessment matters."
+        },
+        {
+          "speaker": "Marie Goldman",
+          "text": "If the Bill deters clinicians from this work, which is already hard to staff, could that leave children worse-off?"
+        },
+        {
+          "speaker": "Dr Anna Hutchinson",
+          "text": "Yes. Clinicians already hesitate to join youth gender hubs; ambiguity in the law could worsen recruitment and reduce safe, competent care."
+        },
+        {
+          "speaker": "Dr Lisa Morrison",
+          "text": "Implementation must include: clear guidance, regulator-led standards, public information (so families know what good therapy looks like), and insisting that exemptions only apply to properly regulated professionals."
+        },
+        {
+          "speaker": "Naz Shah",
+          "text": "Should parents be treated differently from professionals under the Bill? Parents' anxious conversations may be distressing—are they criminalised?"
+        },
+        {
+          "speaker": "Dr Anna Hutchinson",
+          "text": "Professionals have some protection by virtue of regulation; parents do not. Parents often act out of fear to keep children safe. The differential effect on families needs further thought in the Bill's design."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Final question: what single practical change would you urge to make the Bill safer and workable?"
+        },
+        {
+          "speaker": "Dr Alison Berner",
+          "text": "Tie the healthcare exemption explicitly to regulated professionals, and produce detailed implementation guidance describing 'above the line' (acceptable) and 'below the line' (abusive) practice."
+        },
+        {
+          "speaker": "Dr Igi Moon",
+          "text": "Agree—and invest in training, supervision and curriculum development so therapists can explore gender and sexuality without fear, while removing abusive practices."
+        },
+        {
+          "speaker": "Dr Lisa Morrison",
+          "text": "Add 'serious' to the distress/harm test, ensure regulated-practitioner exemption, and run public awareness alongside regulator guidance."
+        },
+        {
+          "speaker": "Dr Anna Hutchinson",
+          "text": "Make the Bill consistent with the Cass review approach, clarify thresholds for criminalisation, and protect good clinical assessment so young people aren't exposed to rushed medical pathways."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you all. Please send any written follow-up evidence. We have to end so our next witness can join on time."
+        }
+      ]
+    }
+  ]
+}

@@ -126,7 +126,7 @@ The JSON is checked automatically.
 ## Official metadata
 
 * Parliament oral-evidence ID: 18277
-* Required source hash: `3051eba418a899bdfbde5fc212e259112b937e4966791d6a8807452606deebfa`
+* Required source hash: `f63ef4f93cfdcb7a992fc03d4f8b473b4d273f525318a82dd27a7ec0f65dc049`
 * Committee: Northern Ireland Affairs Committee
 * Subject: The Northern Ireland Troubles Bill: Follow-up
 * Meeting date: 11 November 2026
@@ -162,7 +162,7 @@ Return exactly this structure:
 {
   "schema_version": 1,
   "source_id": 18277,
-  "source_sha256": "3051eba418a899bdfbde5fc212e259112b937e4966791d6a8807452606deebfa",
+  "source_sha256": "f63ef4f93cfdcb7a992fc03d4f8b473b4d273f525318a82dd27a7ec0f65dc049",
   "title": "A concise, engaging title",
   "label": "11 November 2026 · A short picker label",
   "summary": "One paragraph explaining what the hearing covered and its main conclusion.",

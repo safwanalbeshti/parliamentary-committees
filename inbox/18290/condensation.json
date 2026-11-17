@@ -1,0 +1,346 @@
+{
+  "schema_version": 1,
+  "source_id": 18290,
+  "source_sha256": "d73699e092d945386eaa3f6966b45e7fc76a062931dce68883028fb28890d925",
+  "title": "Environment Agency on waste crime and drought: Operation Unite, enforcement gaps, and water resilience",
+  "label": "11 November 2026 · Waste crime & drought (EA evidence)",
+  "summary": "Philip Duffy (CEO) and Malcolm Lythgo (Director) of the Environment Agency (EA) told the Lords committee about Operation Unite — an 18-week effort to target organised waste crime — and about the drought outlook and water resilience. They described better intelligence, joint working with police, HMRC and the National Crime Agency, permit revocations and confiscation work, but stressed legal and practical limits: slow courts, gaps in powers, and perverse incentives that make prosecution and effective deterrence hard. On drought, the EA warned reservoirs are well below average, pushed for dynamic abstraction, more reservoirs and lower leakage, and flagged hard trade-offs between nature and public water supply.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Baroness Sheehan",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Philip Duffy",
+      "name": "Philip Duffy",
+      "role": "Chief Executive, Environment Agency",
+      "kind": "witness"
+    },
+    {
+      "label": "Malcolm Lythgo",
+      "name": "Malcolm Lythgo",
+      "role": "Director for Environmental Markets & Enforcement, Environment Agency",
+      "kind": "witness"
+    },
+    {
+      "label": "Baroness McIntosh of Pickering",
+      "name": "Baroness McIntosh of Pickering",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Whitaker",
+      "name": "Baroness Whitaker",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Rooker",
+      "name": "Lord Rooker",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Coffey",
+      "name": "Baroness Coffey",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Krebs",
+      "name": "Lord Krebs",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Rafferty",
+      "name": "Baroness Rafferty",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Earl Russell",
+      "name": "Earl Russell",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Redwood",
+      "name": "Lord Redwood",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Trees",
+      "name": "Lord Trees",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Ashcombe",
+      "name": "Lord Ashcombe",
+      "role": "Member of the committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Lennie",
+      "name": "Lord Lennie",
+      "role": "Member of the committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Permit",
+      "definition": "A licence the Environment Agency issues allowing a site to handle or treat waste under set conditions."
+    },
+    {
+      "term": "Restriction order",
+      "definition": "A court order that bans access to land so people cannot dump waste there while an investigation proceeds."
+    },
+    {
+      "term": "Fixed penalty notice (FPN)",
+      "definition": "A civil fine issued for lower-level offences (EA piloting these for on-the-spot waste violations)."
+    },
+    {
+      "term": "Landfill tax",
+      "definition": "A tax charged on waste sent to landfill which criminals avoid by misdeclaring waste type."
+    },
+    {
+      "term": "HMRC",
+      "definition": "Her Majesty’s Revenue and Customs — the government tax authority involved where tax evasion is suspected."
+    },
+    {
+      "term": "National Crime Agency (NCA)",
+      "definition": "The UK agency that leads on organised and serious crime and works with the EA on waste crime."
+    },
+    {
+      "term": "MRF",
+      "definition": "Material recovery facility — a waste transfer/processing site where waste can be diverted or resold."
+    },
+    {
+      "term": "Digital waste tracking",
+      "definition": "Electronic records of waste movements that the EA is beginning to analyse to detect suspicious flows."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Operation Unite: what it did and what it found",
+      "takeaway": "Operation Unite used intelligence and joint working to disrupt organised waste crime, visiting 42 sites and opening many investigations, but legal limits and slow courts constrain action.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Philip Duffy, please introduce Operation Unite and tell us its aims."
+        },
+        {
+          "speaker": "Philip Duffy",
+          "text": "Operation Unite was an 18-week experiment to be intelligence‑driven, target permits that enable crime, and join up with police, NCA and HMRC to disrupt organised waste crime."
+        },
+        {
+          "speaker": "Philip Duffy",
+          "text": "We visited 42 permitted sites, revoked or suspended 17 permits, secured 37 arrests, 13 restriction orders, and ran 71 court cases (52 convictions)."
+        },
+        {
+          "speaker": "Chair",
+          "text": "The OEP found 29% of permitted sites were uninspected in 2021–22 and often recorded as compliant. How do you treat uninspected sites?"
+        },
+        {
+          "speaker": "Philip Duffy",
+          "text": "We accept the OEP criticism: an uninspected site should not be auto-classed as fully compliant. We’re issuing control strategies and will reserve judgment until sites are visited."
+        },
+        {
+          "speaker": "Malcolm Lythgo",
+          "text": "We also use operators' monitoring data and returns to do remote checks, but visits are necessary where intelligence suggests problems."
+        },
+        {
+          "speaker": "Baroness McIntosh of Pickering",
+          "text": "You said 17 permits were revoked or suspended. Were these actions aimed at criminal misdescription of waste or permit breaches?"
+        },
+        {
+          "speaker": "Philip Duffy",
+          "text": "Often permitted sites themselves comply, but waste paperwork is falsified earlier in the chain to avoid landfill tax. Permits alone don’t solve misdescription—disruption needs HMRC, asset seizure and other tools."
+        },
+        {
+          "speaker": "Malcolm Lythgo",
+          "text": "All 42 Operation Unite sites were intelligence‑led; we targeted upstream handling and tracking across the supply chain."
+        }
+      ]
+    },
+    {
+      "title": "Enforcement tools: prosecutions, confiscation and penalties",
+      "takeaway": "The EA is using prosecutions, confiscation and new fixed penalties, but courts are slow, fines now small relative to criminal profits, and some legal powers or speedier routes are missing.",
+      "turns": [
+        {
+          "speaker": "Lord Rooker",
+          "text": "You reported 71 prosecutions—why does your letter not emphasise prosecutions and why do courts seem slow?"
+        },
+        {
+          "speaker": "Philip Duffy",
+          "text": "We are prosecuting, but court processes are slow and outcomes often give small fines: £118,000 total from recent convictions, only two immediate custodial sentences. That’s tiny compared with multimillion-pound offending."
+        },
+        {
+          "speaker": "Lord Rooker",
+          "text": "Is there willingness to prosecute when warranted?"
+        },
+        {
+          "speaker": "Philip Duffy",
+          "text": "Yes. We are keen to use criminal law, but we also pursue asset confiscation and permit revocation because those tools can be more effective at denying criminals their profits."
+        },
+        {
+          "speaker": "Philip Duffy",
+          "text": "Operation Unite launched six confiscation investigations and identified £4.4 million of criminal proceeds; nine money‑laundering investigations are live."
+        },
+        {
+          "speaker": "Baroness McIntosh of Pickering",
+          "text": "Has the EA got police‑style powers of entry and evidence-gathering you asked for?"
+        },
+        {
+          "speaker": "Malcolm Lythgo",
+          "text": "Not yet. Defra is progressing a list of powers the EA and partners want; some require secondary legislation and some may need primary legislation."
+        },
+        {
+          "speaker": "Baroness McIntosh of Pickering",
+          "text": "What about fixed penalty notices—are they useful and are the levels set at deterrent rates?"
+        },
+        {
+          "speaker": "Philip Duffy",
+          "text": "FPNs have a niche role: to catch marginal collaborators like drivers who carry loads without correct documents. We’re piloting them (64 issued so far). A higher level (up to £5,000) helps, but enforcement and timely issuance in the field matter most."
+        },
+        {
+          "speaker": "Malcolm Lythgo",
+          "text": "You can still prosecute for more serious offences even if an FPN was issued for a lesser breach."
+        },
+        {
+          "speaker": "Baroness Whitaker",
+          "text": "Do you have a power equivalent to a prohibition or stop notice that lets inspectors stop dumping immediately?"
+        },
+        {
+          "speaker": "Malcolm Lythgo",
+          "text": "At permitted sites we can suspend a permit quickly (no right of appeal), but for illegal sites we must go to court for restriction orders. Faster stop powers would be helpful."
+        }
+      ]
+    },
+    {
+      "title": "Clearing illegal sites, anti‑corruption and resources",
+      "takeaway": "The EA can step in for emergency clear-up but does not routinely clear sites; it needs better anti‑corruption checks, faster court orders, more intelligence staff and improved public funding for removals.",
+      "turns": [
+        {
+          "speaker": "Lord Krebs",
+          "text": "How are you tackling big dump sites such as Bickershaw, Northwich and Camborne?"
+        },
+        {
+          "speaker": "Philip Duffy",
+          "text": "The EA only leads on clearance in urgent, imperative cases. Government has set up a fund and framework contracts for local authorities to clear priority sites; Bickershaw clearance was a local agreement backed by Government funding."
+        },
+        {
+          "speaker": "Malcolm Lythgo",
+          "text": "Many large sites contain largely inert soils or construction waste. For some, the right action may be to leave the material in place if it poses no ongoing environmental or health risk."
+        },
+        {
+          "speaker": "Lord Krebs",
+          "text": "You published a high-priority list; how do you rank risks across environmental harm, social impact and criminality?"
+        },
+        {
+          "speaker": "Philip Duffy",
+          "text": "We consider environmental toxicity, leachate risk, proximity to homes and infrastructure, and links to serious organised crime. We’ll refine our approach and are open to better methods for combining those factors."
+        },
+        {
+          "speaker": "Baroness Rafferty",
+          "text": "Do the organised crime groups operate in waste only or across other crimes?"
+        },
+        {
+          "speaker": "Philip Duffy",
+          "text": "Many are multi‑activity gangs; some specialise in waste, others crossover to drugs or other offending. We map gangs with the NCA and adjust who leads each investigation."
+        },
+        {
+          "speaker": "Baroness Whitaker",
+          "text": "What did the £45 million government funding get spent on?"
+        },
+        {
+          "speaker": "Philip Duffy",
+          "text": "About £4.5m this first year went on intelligence systems, IT to merge datasets (Land Registry, Companies House, police data), and piping EA into national crime systems. We’re funding more field teams and expect to need up to about 70 more people to deliver consistent 48‑hour responses."
+        },
+        {
+          "speaker": "Earl Russell",
+          "text": "Has all this reduced the 38 million tonnes of illegally dumped waste?"
+        },
+        {
+          "speaker": "Philip Duffy",
+          "text": "Too early to claim that. We have anecdotal signs criminals feel pressure, but we need better measures — a deterrence index combining likelihood of being caught, speed of action and severity of penalty — and a repeat survey next year to see if the 38m figure moves."
+        },
+        {
+          "speaker": "Baroness Coffey",
+          "text": "What about the long-running Healthcare Environmental Services case (Gary Pettigrew)? Has the EA completed its review or pursued prosecution?"
+        },
+        {
+          "speaker": "Philip Duffy",
+          "text": "I can't comment on the details of ongoing legal matters here. The EA hasn't prosecuted Pettigrew to date. Since 2023 we've audited 43 NHS sites handling anatomical waste and found no compliance problems; we've also tightened storage and transport requirements."
+        }
+      ]
+    },
+    {
+      "title": "Drought, water supply and leakage",
+      "takeaway": "England faces an ongoing drought: reservoirs below average and complex trade-offs between public supply and river ecology; solutions need faster licensing, more storage, lower leakage and better interregional water movement.",
+      "turns": [
+        {
+          "speaker": "Lord Redwood",
+          "text": "How will abstraction licences be used to refill strategic reservoirs and what about desalination for London?"
+        },
+        {
+          "speaker": "Philip Duffy",
+          "text": "We’ve had a ministerial direction to prioritise public water supply. We’re authorising extra abstraction when rivers allow and reducing compensatory flows when necessary to recharge key reservoirs. Thames Water is working to bring Beckton desalination back, but the immediate drought pressure is in the south‑west and parts of the south‑east."
+        },
+        {
+          "speaker": "Lord Redwood",
+          "text": "Are reservoir projects being sped up?"
+        },
+        {
+          "speaker": "Philip Duffy",
+          "text": "Defra chairs an infrastructure group to remove delivery barriers. Reservoirs are part of the answer, but so are pipelines, reuse and network links — all need prioritising and quicker delivery."
+        },
+        {
+          "speaker": "Lord Trees",
+          "text": "How effective has public messaging been and what more is needed on water saving?"
+        },
+        {
+          "speaker": "Philip Duffy",
+          "text": "The Let’s Save Water campaign increased unprompted recall of water‑saving actions from 17% to 46%. Behaviour change helps and must be combined with technical fixes like greywater reuse where safe and rooftop capture."
+        },
+        {
+          "speaker": "Lord Ashcombe",
+          "text": "Why is leakage still nearly 20% and why aren’t water companies fixing pipes like other industries do?"
+        },
+        {
+          "speaker": "Philip Duffy",
+          "text": "Some companies use advanced monitoring and smart technology, others don’t have full asset lifecycle plans. Leakage is 2.6 billion litres/day; reducing it further is expensive but may be more cost‑effective than new supply in many places. We’re pressing Ofwat and firms to do better."
+        },
+        {
+          "speaker": "Baroness McIntosh of Pickering",
+          "text": "Will abstraction licensing move into environmental permitting to make it dynamic?"
+        },
+        {
+          "speaker": "Philip Duffy",
+          "text": "Yes — many licences are decades old and inflexible. To enable dynamic hands‑on permissions (allowing extra abstraction during spates and cutting it in low flows), we need updated permitting, better telemetry and changes that may require EPR reforms."
+        },
+        {
+          "speaker": "Earl Russell",
+          "text": "Are you preparing for El Niño and the risk of climate whiplash — floods then drought?"
+        },
+        {
+          "speaker": "Philip Duffy",
+          "text": "We’re working with the Met Office. The risk of heavy winter rain followed by a dry finish is real. We are checking flood assets, rostering staff for multiple incidents, and stressing the need to store more water and make the agency resilient to simultaneous events."
+        },
+        {
+          "speaker": "Lord Lennie",
+          "text": "What target for leakage should we aim for?"
+        },
+        {
+          "speaker": "Philip Duffy",
+          "text": "There’s no single target for every area. But given population growth and hotter summers, the 19% rate is too high in our view; companies must justify their asset plans and fix the most cost‑effective leaks."
+        }
+      ]
+    }
+  ]
+}

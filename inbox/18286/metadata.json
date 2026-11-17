@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18286,
+  "activity_id": 39513,
+  "document_id": 313680,
+  "meeting_date": "2026-11-12",
+  "meeting_date_display": "12 November 2026",
+  "publication_date": "2026-11-16T08:49:01",
+  "title": "Draft Conversion Practices Bill",
+  "committee": "Draft Conversion Practices Bill (Joint Committee)",
+  "committees": [
+    {
+      "id": 851,
+      "name": "Draft Conversion Practices Bill (Joint Committee)",
+      "house": "Joint"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10049,
+      "title": "Draft Conversion Practices Bill",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Chair",
+      "organisation": "Memorandum of Understanding on Conversion Therapies"
+    },
+    {
+      "name": "Dr Alison Berner",
+      "role": "President",
+      "organisation": "British Association of Gender Identity Specialists"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Dr Igi Moon",
+    "Dr Alison Berner",
+    "Lord Hope of Craighead",
+    "Naz Shah",
+    "Sir Jeremy Wright",
+    "Baroness Browning",
+    "Lord Isaac",
+    "Dr Lisa Morrison",
+    "Dr Anna Hutchinson",
+    "Olivia Bailey",
+    "Danny Beales",
+    "Marie Goldman"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18286/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18286",
+  "source_sha256": "cc3a37866c7b2ca3a6824c3fb5b587e9060782b7e57273137793076d4bc99e99",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

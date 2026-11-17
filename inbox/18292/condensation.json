@@ -1,0 +1,304 @@
+{
+  "schema_version": 1,
+  "source_id": 18292,
+  "source_sha256": "9bdbfe770ffb46721d8cb4cce048951cc496a05db340bb593107468d87671b16",
+  "title": "Why online safety rules haven't yet reduced violence against women and girls",
+  "label": "10 November 2026 · The Online Safety Act and women and girls",
+  "summary": "Witnesses – legal, charity and helpline experts – told the committee that the Online Safety Act and Ofcom guidance have not yet reduced harms that disproportionately affect women and girls. They welcomed parts of the regime (like hashing and takedown rules) but said guidance must be made binding, enforcement must be faster and broader, platform designs and search engines need real changes, and new harms from AI require safety-by-design and better redress for survivors.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Baroness Keeley",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Professor Clare McGlynn",
+      "name": "Professor Clare McGlynn",
+      "role": "Professor of Law, Durham Law School, Durham University",
+      "kind": "witness"
+    },
+    {
+      "label": "Sophie Mortimer",
+      "name": "Sophie Mortimer",
+      "role": "Head of Services and Revenge Porn Helpline Manager, SWGfL",
+      "kind": "witness"
+    },
+    {
+      "label": "Janaya Walker",
+      "name": "Janaya Walker",
+      "role": "Interim Director, End Violence Against Women Coalition",
+      "kind": "witness"
+    },
+    {
+      "label": "Alexandra Whiston-Dew",
+      "name": "Alexandra Whiston-Dew",
+      "role": "Partner, Mishcon de Reya LLP",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Storey",
+      "name": "Lord Storey",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "The Lord Bishop of Winchester",
+      "name": "The Lord Bishop of Winchester",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Knight of Weymouth",
+      "name": "Lord Knight of Weymouth",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Owen of Alderley Edge",
+      "name": "Baroness Owen of Alderley Edge",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Kirkhope of Harrogate",
+      "name": "Lord Kirkhope of Harrogate",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Fleet",
+      "name": "Baroness Fleet",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Online Safety Act",
+      "definition": "UK law giving Ofcom powers to require platforms to reduce online harms and protect users, including children."
+    },
+    {
+      "term": "Ofcom",
+      "definition": "The UK communications regulator now responsible for enforcing the Online Safety Act rules on platforms."
+    },
+    {
+      "term": "hash matching",
+      "definition": "A technical way for platforms to detect and block copies of known images by matching digital fingerprints."
+    },
+    {
+      "term": "StopNCII",
+      "definition": "A service that creates privacy-preserving hashes of intimate images so platforms can block reuploads."
+    },
+    {
+      "term": "trusted flagger",
+      "definition": "A designated organisation whose reports to a platform are treated as more credible and acted on faster."
+    },
+    {
+      "term": "deepfake",
+      "definition": "A synthetic image or video created by AI that can put someone’s face into sexual or other content without consent."
+    },
+    {
+      "term": "safety-by-design",
+      "definition": "Designing products and services from the start to prevent foreseeable harms, rather than only reacting after harm happens."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Scale and persistence of harms",
+      "takeaway": "Experts say harms against women and girls are widespread and rising, and the new law hasn’t yet reduced them.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Nine months after the children’s rules started, Ofcom found no big drop in children’s exposure. Has the Online Safety Act reduced harms against women and girls?"
+        },
+        {
+          "speaker": "Alexandra Whiston-Dew",
+          "text": "No. Our law firm still sees very serious online harm to women and girls. The problem is endemic, and some platforms appear unwilling to comply."
+        },
+        {
+          "speaker": "Janaya Walker",
+          "text": "We support regulation, but implementation and limits of the Act are a problem. New harms like AI-generated abuse are expanding fast."
+        },
+        {
+          "speaker": "Janaya Walker",
+          "text": "Research shows one in three women report online violence; it’s nearly half for 16–24-year-olds. Referrals to services have risen since the Act came in."
+        },
+        {
+          "speaker": "Sophie Mortimer",
+          "text": "The law made intimate image abuse a priority. Hashing and guidance are steps forward, but platforms haven’t meaningfully improved removal, and reports keep rising."
+        },
+        {
+          "speaker": "Sophie Mortimer",
+          "text": "In 2025 our helpline logged over 20,000 images and that keeps growing; most victims are women and many cases go unreported."
+        },
+        {
+          "speaker": "Professor Clare McGlynn",
+          "text": "There was potential for real change, but it hasn’t happened yet. Search engines and other services still facilitate extreme material—often inconsistently."
+        }
+      ]
+    },
+    {
+      "title": "Guidance versus binding rules",
+      "takeaway": "All witnesses urged that Ofcom’s guidance on violence against women and girls must be made enforceable to be effective.",
+      "turns": [
+        {
+          "speaker": "Lord Storey",
+          "text": "Ofcom says the VAWG guidance was collaborative. Should it be made statutory?"
+        },
+        {
+          "speaker": "Professor Clare McGlynn",
+          "text": "Yes. The guidance is useful but not legally binding. Making it a code or part of mandatory risk assessments would strengthen it."
+        },
+        {
+          "speaker": "Sophie Mortimer",
+          "text": "Participation in StopNCII rose from 17 to 30 partners since the guidance, but that’s under 1% of platforms in scope. Mandatory rules are needed."
+        },
+        {
+          "speaker": "Janaya Walker",
+          "text": "Guidance remains voluntary though Parliament expected stronger measures. The Act left too much good practice as optional."
+        },
+        {
+          "speaker": "Alexandra Whiston-Dew",
+          "text": "Anonymous image boards and purpose-built sites won't self-regulate. Guidance won’t touch those; legal obligations are needed."
+        },
+        {
+          "speaker": "Lord Storey",
+          "text": "Clare suggested platforms do the minimum to appear compliant. Can you expand?"
+        },
+        {
+          "speaker": "Professor Clare McGlynn",
+          "text": "Search engines downrank some abusive searches but inconsistently—they do just enough to look responsible while the material remains findable."
+        }
+      ]
+    },
+    {
+      "title": "Enforcement, reporting and operational gaps",
+      "takeaway": "Witnesses said Ofcom must act faster, use stronger powers, improve reporting routes, and support trusted flaggers and survivors.",
+      "turns": [
+        {
+          "speaker": "The Lord Bishop of Winchester",
+          "text": "Do the Act and codes tackle platform design and business models that enable VAWG, and could Ofcom force design changes now?"
+        },
+        {
+          "speaker": "Janaya Walker",
+          "text": "No: the system looks at individual pieces of content rather than the broader context and platform design. We need a safety-by-design code."
+        },
+        {
+          "speaker": "Professor Clare McGlynn",
+          "text": "Search engines could and should make clearer choices to reduce abuse; the inconsistent blocking shows it’s a choice not a technical impossibility."
+        },
+        {
+          "speaker": "Lord Knight of Weymouth",
+          "text": "How is Ofcom doing on enforcement and reporting? Sophie, you run the helpline—what are the practical problems?"
+        },
+        {
+          "speaker": "Sophie Mortimer",
+          "text": "Enforcement is too slow. Intimate images spread in hours; formal investigation and business disruption can take months. Reporting routes are clunky."
+        },
+        {
+          "speaker": "Sophie Mortimer",
+          "text": "Some platforms tell us they don’t consider themselves ‘high risk’ and therefore out of scope—so they effectively mark their own homework."
+        },
+        {
+          "speaker": "Janaya Walker",
+          "text": "We supported a survivor who pressed Ofcom only after long delays; legal pressure prompted faster action. Survivors shouldn’t have to litigate to get enforcement."
+        },
+        {
+          "speaker": "Lord Knight of Weymouth",
+          "text": "Would an e-safety commissioner or civil redress help?"
+        },
+        {
+          "speaker": "Janaya Walker",
+          "text": "Yes. An online abuse commission could represent survivors and help co‑ordinate responses; specialist services are underfunded and need ring-fenced support."
+        },
+        {
+          "speaker": "Alexandra Whiston-Dew",
+          "text": "We need to ask why stronger, quicker steps—like content switch-off with an appeals process—aren’t used. Some content causes real-world physical risk."
+        },
+        {
+          "speaker": "Professor Clare McGlynn",
+          "text": "Two enforcement gaps: Ofcom hasn’t acted on extreme porn content and it took months to act on AI tool Grok; its conservative interpretation of the Act limits action."
+        },
+        {
+          "speaker": "Baroness Owen of Alderley Edge",
+          "text": "The Crime and Policing Act added powers for a central hash registry and a 48‑hour takedown. Sophie, where is that scoping work?"
+        },
+        {
+          "speaker": "Sophie Mortimer",
+          "text": "The Home Office scoping just finished and will report recommendations to Ministers. We’re pressing for quick next steps."
+        },
+        {
+          "speaker": "Baroness Owen of Alderley Edge",
+          "text": "Will hashing plus 48-hour takedown be enough?"
+        },
+        {
+          "speaker": "Sophie Mortimer",
+          "text": "They help. Hashing blocks reuploads and is privacy-preserving. But gaps remain: private messaging, services outside scope, existing copies already online, and sites that ignore reports."
+        },
+        {
+          "speaker": "Sophie Mortimer",
+          "text": "We want services to check existing content against new hashes, treat reported originals and altered copies separately with clear deadlines, and fast business disruption for non-compliant sites."
+        },
+        {
+          "speaker": "Professor Clare McGlynn",
+          "text": "Also, individuals have no straightforward civil right to demand takedown here. Other countries have swift civil remedies that give victims immediate orders and some compensation."
+        },
+        {
+          "speaker": "Janaya Walker",
+          "text": "Trusted flagger routes work when platforms respond, but capacity for those specialist organisations is limited and removals are dropping in some cases."
+        }
+      ]
+    },
+    {
+      "title": "New harms and clear priorities",
+      "takeaway": "AI, chatbots, apps and wearable tech are creating new harms; experts propose safety-by-design, stronger codes, faster enforcement and better victim redress.",
+      "turns": [
+        {
+          "speaker": "Lord Kirkhope of Harrogate",
+          "text": "Has the regime kept pace with new harms like AI? Which should be priorities?"
+        },
+        {
+          "speaker": "Professor Clare McGlynn",
+          "text": "Not yet. AI chatbots create a new problem: some services let users create simulated characters for incest or rape role-play—this isn’t yet covered effectively."
+        },
+        {
+          "speaker": "Sophie Mortimer",
+          "text": "The law so far reacts to each new tool. Synthetic sexual content is up sharply; callers say they first seek help from generative chatbots, which may give poor advice."
+        },
+        {
+          "speaker": "Janaya Walker",
+          "text": "Wearable tech and covert recording are other emerging harms. We need safety-by-design rules so platforms consider these risks before products are released."
+        },
+        {
+          "speaker": "Alexandra Whiston-Dew",
+          "text": "Law reform is useful but slow. Police guidance, public dialogue, and quicker operational tools matter too—training and recognition of how old laws apply to new tech."
+        },
+        {
+          "speaker": "Baroness Fleet",
+          "text": "If you each had to pick two priority recommendations, what would they be?"
+        },
+        {
+          "speaker": "Professor Clare McGlynn",
+          "text": "1) Better regulation of mainstream porn sites with an auditor or regulator to police extreme content; 2) Bring app stores into scope so harmful tools can’t spread easily."
+        },
+        {
+          "speaker": "Sophie Mortimer",
+          "text": "1) A true one-and-done: verified hashes should block content across a service and include existing copies; 2) Faster, clearer powers against non-compliant sites and statutory access for hosts and domains."
+        },
+        {
+          "speaker": "Janaya Walker",
+          "text": "1) Upgrade the VAWG guidance into a binding code and create a safety-by-design code; 2) Set up an online commission for survivors and ring-fence funds from digital taxes for specialist services."
+        },
+        {
+          "speaker": "Alexandra Whiston-Dew",
+          "text": "1) More transparency about Ofcom’s decision process so complainants know progress; 2) Empower quicker, decisive action like switch-off with appeal to prevent serious harm."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you all. You’ve been concise and detailed. Your practical suggestions on binding codes, faster enforcement, safety-by-design, better reporting and survivor redress come through strongly."
+        }
+      ]
+    }
+  ]
+}

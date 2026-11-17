@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18293,
+  "activity_id": 39396,
+  "document_id": 313851,
+  "meeting_date": "2026-11-10",
+  "meeting_date_display": "10 November 2026",
+  "publication_date": "2026-11-16T11:02:16",
+  "title": "The Online Safety Act: implementation and impact",
+  "committee": "Communications and Digital Committee",
+  "committees": [
+    {
+      "id": 170,
+      "name": "Communications and Digital Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9955,
+      "title": "The Online Safety Act: implementation and impact",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Ricki-Lee Gerbrandt",
+      "role": "Lecturer in Law",
+      "organisation": "University of Bristol Law School"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Legal and Policy Officer",
+      "organisation": "Big Brother Watch"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Maya Thomas",
+    "Ricki-Lee Gerbrandt",
+    "I want to be very clear",
+    "Viscount Colville of Culross",
+    "Baroness Elliott of Whitburn Bay",
+    "Lord Tarassenko",
+    "Lord Holmes of Richmond",
+    "Baroness Fleet"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18293/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18293",
+  "source_sha256": "ea22bd757d347ae6a55181bc67072eb6041021af12a69800e9045508647c6de7",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

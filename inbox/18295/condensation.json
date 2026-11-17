@@ -1,0 +1,300 @@
+{
+  "schema_version": 1,
+  "source_id": 18295,
+  "source_sha256": "b0e4bed90bc991953150efca751deb25b4c0d15366524c5336507a28c1688265",
+  "title": "Should the Lord Advocate be both senior government lawyer and Scotland’s chief prosecutor?",
+  "label": "11 November 2026 · Dual role of the Lord Advocate",
+  "summary": "Former Lord Advocate James Wolffe explains why Scotland combines the senior government lawyer and chief prosecutor in one office, outlines the practical strengths of that model (ministerial oversight, a single prosecution service, policy input and budget control), and accepts perception problems exist. He describes legal, political, personal and institutional safeguards that protect prosecutorial independence, discusses recusal and recent contentious communications, and suggests practical fixes — clearer public arrangements or a more visible Lord Advocate office — rather than necessarily full structural separation.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Patricia Ferguson",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "James Wolffe",
+      "name": "Rt Hon James Wolffe",
+      "role": "Former Lord Advocate, Scottish Government",
+      "kind": "witness"
+    },
+    {
+      "label": "Kirsteen Sullivan",
+      "name": "Kirsteen Sullivan",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Kenneth Stevenson",
+      "name": "Kenneth Stevenson",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Dave Doogan",
+      "name": "Dave Doogan",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Douglas McAllister",
+      "name": "Douglas McAllister",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Susan Murray",
+      "name": "Susan Murray",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Maureen Burke",
+      "name": "Maureen Burke",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Mr MacDonald",
+      "name": "Angus MacDonald",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Lord Advocate",
+      "definition": "Scotland’s senior law officer who is both the Government’s main legal adviser and the head of public prosecutions."
+    },
+    {
+      "term": "Solicitor General",
+      "definition": "The Lord Advocate’s deputy and the second senior law officer in Scotland."
+    },
+    {
+      "term": "Crown Office",
+      "definition": "The public body that runs prosecutions and supports the Lord Advocate and Solicitor General."
+    },
+    {
+      "term": "Scotland Act",
+      "definition": "Law that defines the powers of the Scottish Parliament and Scottish Ministers."
+    },
+    {
+      "term": "ministerial code",
+      "definition": "Rules for how Scottish Ministers should behave, including requiring lawful action and how law officers advise them."
+    },
+    {
+      "term": "advocate depute",
+      "definition": "A senior prosecutor who can exercise the Lord Advocate’s powers in individual criminal cases."
+    },
+    {
+      "term": "recusal",
+      "definition": "When a decision‑maker withdraws from involvement in a case because of a potential conflict of interest."
+    },
+    {
+      "term": "Branchform",
+      "definition": "A high-profile criminal case whose communications raised public questions about who told Ministers what."
+    },
+    {
+      "term": "Contempt of Court Act",
+      "definition": "Law limiting what people, including Ministers, can say about active court proceedings."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What the Lord Advocate does",
+      "takeaway": "The office combines ministerial legal advice and independent prosecution functions, and that mix is seen as both practical and complex.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Please introduce yourself and the role you held."
+        },
+        {
+          "speaker": "James Wolffe",
+          "text": "I was Lord Advocate from 2016 to 2021. The office combines being the Government’s senior law officer and head of Scotland’s prosecution system. That combination can be organised differently, but it carries trade-offs."
+        },
+        {
+          "speaker": "James Wolffe",
+          "text": "Legally, the Lord Advocate holds independent prosecutorial powers under the Scotland Act, sits as a Scottish Minister, advises Government on law under the ministerial code, and sometimes handles other ministerial functions, like civil asset recovery."
+        }
+      ]
+    },
+    {
+      "title": "Advantages of the combined role",
+      "takeaway": "Having one senior lawyer in Government gives a single voice on legal and prosecution policy, direct accountability to Parliament, and practical control over resources.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "What are the main advantages of combining the law‑officer and prosecutor roles?"
+        },
+        {
+          "speaker": "James Wolffe",
+          "text": "First, it gives ministerial oversight of the whole prosecution system that is accountable to the Scottish Parliament. Scotland has a single public prosecution service; that matters."
+        },
+        {
+          "speaker": "James Wolffe",
+          "text": "Second, a Lord Advocate can set prosecution policy across the system and negotiate the Crown’s budget, which lets them fix issues—like resourcing death investigations—across the whole service."
+        },
+        {
+          "speaker": "James Wolffe",
+          "text": "Third, being in Government gives a strong voice for rule‑of‑law considerations when Ministers make policy, especially on criminal justice."
+        },
+        {
+          "speaker": "Kirsteen Sullivan",
+          "text": "Would the Lord Advocate be involved in policy that raises legal concerns, for example if a proposed scheme might breach legal limits?"
+        },
+        {
+          "speaker": "James Wolffe",
+          "text": "Yes. Good policy needs early legal input. Government lawyers do most of that work; law officers step in for particularly difficult competence or legal‑risk issues and can call matters in when needed."
+        }
+      ]
+    },
+    {
+      "title": "Risks, safeguards and public confidence",
+      "takeaway": "Independence is protected by law, politics, professional standards and institutional practice — but public perception of a conflict is the main current worry.",
+      "turns": [
+        {
+          "speaker": "Kenneth Stevenson",
+          "text": "What are the main risks from the dual role?"
+        },
+        {
+          "speaker": "James Wolffe",
+          "text": "The prime risk is public misunderstanding: people may not see how the prosecutorial independence is protected when the Lord Advocate also sits in Government."
+        },
+        {
+          "speaker": "James Wolffe",
+          "text": "There are legal safeguards (Scotland Act duties), political safeguards (Parliamentary accountability), personal safeguards (senior lawyers’ integrity), and institutional safeguards (Crown Office, advocate deputes and the Solicitor General)."
+        },
+        {
+          "speaker": "Dave Doogan",
+          "text": "If we split the roles, could we lose anything important?"
+        },
+        {
+          "speaker": "James Wolffe",
+          "text": "Splitting retains operational independence but risks weakening the law officer’s voice inside Government. The law officer helps Ministers navigate legal limits and keep the Government lawful."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Is public perception a separate problem from institutional independence?"
+        },
+        {
+          "speaker": "James Wolffe",
+          "text": "Yes. An institution can be independent in reality but still lose public confidence. If confidence is genuinely broken, structural change might be needed. If it’s a perception issue, clearer arrangements could fix it."
+        }
+      ]
+    },
+    {
+      "title": "Cabinet attendance and communications",
+      "takeaway": "Law officers being at Cabinet is normal for giving legal advice, but frequent attendance and certain communications in high‑profile cases have fuelled concern about perception.",
+      "turns": [
+        {
+          "speaker": "Douglas McAllister",
+          "text": "You attended Cabinet more often than other Lord Advocates. Did that relate to major events like Brexit, covid or the Salmond matter?"
+        },
+        {
+          "speaker": "James Wolffe",
+          "text": "I attended frequently during an extraordinary five years. The purpose was to ensure legal issues were fully considered when Ministers decided policy. That is a legitimate safeguard."
+        },
+        {
+          "speaker": "Douglas McAllister",
+          "text": "Does frequent Cabinet attendance make the public more suspicious about independence?"
+        },
+        {
+          "speaker": "James Wolffe",
+          "text": "I can only speak as a lawyer: having the law officer present strengthens law’s voice. But I accept reasonable people may see it differently, so perception needs attention."
+        },
+        {
+          "speaker": "Mr MacDonald",
+          "text": "How often would you provide confidential updates to Ministers about live criminal cases?"
+        },
+        {
+          "speaker": "James Wolffe",
+          "text": "Not routinely. In my time I provided limited factual updates in exceptional cases so Ministers knew the legal position and constraints, for example to avoid Ministers saying something that might breach the Contempt of Court Act."
+        }
+      ]
+    },
+    {
+      "title": "Recusal, Branchform and practical fixes",
+      "takeaway": "Recent controversial communications (Branchform) show the problem: ringfencing law officers from decisions but still telling them sensitive facts can look wrong; a clear protocol or handing minister updates to prosecutors could help.",
+      "turns": [
+        {
+          "speaker": "Mr MacDonald",
+          "text": "Was it appropriate for a recused law officer to send case updates to Ministers, or should a Crown prosecutor have done that?"
+        },
+        {
+          "speaker": "James Wolffe",
+          "text": "Where law officers are recused from decision making, they can still be given factual updates. But the Branchform exchanges highlighted how giving sensitive updates to Ministers via a law officer created perception problems."
+        },
+        {
+          "speaker": "Kirsteen Sullivan",
+          "text": "Would asking an advocate depute or Crown Agent to send the update have avoided the perception issue?"
+        },
+        {
+          "speaker": "James Wolffe",
+          "text": "Probably yes. In hindsight, having the prosecutor or Crown Office send factual updates on the instructions of the advocate depute would have avoided unfair allegations of impropriety."
+        },
+        {
+          "speaker": "Douglas McAllister",
+          "text": "Does this show the dual role is unworkable?"
+        },
+        {
+          "speaker": "James Wolffe",
+          "text": "Not necessarily. You can address the problem narrowly: clearer published protocols, ringfencing law officers from operational communications, or creating a visible Lord Advocate office to explain how the roles fit together."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Are the Crown Office’s August 2026 practice statements new law or mainly codifying old practice?"
+        },
+        {
+          "speaker": "James Wolffe",
+          "text": "They largely reflect long‑standing practices about ringfencing law officers from decisions, but clearer rules and transparency about who communicates with Ministers would help public confidence."
+        }
+      ]
+    },
+    {
+      "title": "Recruitment, political alignment and tenure",
+      "takeaway": "The Committee discussed how law officers are chosen, the benefits of appointing non‑party legal experts, and why Mr Wolffe left in 2021.",
+      "turns": [
+        {
+          "speaker": "Kirsteen Sullivan",
+          "text": "How were you chosen in 2016, and were you required to be non‑party?"
+        },
+        {
+          "speaker": "James Wolffe",
+          "text": "I was asked to meet the First Minister and then offered the post; I made clear I had no party affiliation. The role has been filled both by party‑aligned and non‑party lawyers historically."
+        },
+        {
+          "speaker": "Susan Murray",
+          "text": "Is it essential that law officers be career prosecutors?"
+        },
+        {
+          "speaker": "James Wolffe",
+          "text": "Not essential, but prosecutorial or criminal justice experience helps. I’d been an advocate depute for a time which made the transition easier, but law‑making and ministerial judgment are also important skills."
+        },
+        {
+          "speaker": "Kirsteen Sullivan",
+          "text": "Why didn’t you seek to stay on in 2021?"
+        },
+        {
+          "speaker": "James Wolffe",
+          "text": "It wasn’t a question of being forced out. My mother’s ill health and having served through Brexit and covid made it the right time to step down."
+        },
+        {
+          "speaker": "Maureen Burke",
+          "text": "How did you divide work with the Solicitor General?"
+        },
+        {
+          "speaker": "James Wolffe",
+          "text": "We worked closely in Crown Office. There’s no fixed template; we shared tasks and each covered all parts when needed. That deputy role provides resilience."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Any final practical suggestions?"
+        },
+        {
+          "speaker": "James Wolffe",
+          "text": "Consider making the Lord Advocate’s combined constitutional role more visible, publish how recusals and communications are handled, and, for exceptional high‑profile cases, ensure prosecutors themselves handle ministerial updates to avoid perception problems."
+        }
+      ]
+    }
+  ]
+}

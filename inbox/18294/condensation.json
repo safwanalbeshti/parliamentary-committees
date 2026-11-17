@@ -1,0 +1,304 @@
+{
+  "schema_version": 1,
+  "source_id": 18294,
+  "source_sha256": "f878ecee08828c2a61f1b1271bdad14bfd1a01eff49c684c2744f7478b4178e9",
+  "title": "How institutions protect UK democracy: civil service, standards and elections",
+  "label": "11 November 2026 · Constitutional safeguards",
+  "summary": "Witnesses from the Civil Service Commission, the Ethics and Integrity Commission (EIC) and the Electoral Commission described how their bodies help protect the UK’s constitutional democracy, the limits they face, and the concrete risks to elections and public standards. They agreed the institutions are central but under pressure from resource limits, legal complexity, rising online disruption (including deepfakes), declining public trust in political finance, and gaps in rules about business appointments and some security services. Several practical fixes were suggested: clearer, timely rules and transparency on post‑office appointments; better investigatory powers and resources for electoral regulators; automatic voter registration; stronger cyber defences; and careful use of mandatory ethics codes tailored to each organisation.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Strathclyde",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Baroness Stuart of Edgbaston",
+      "name": "Baroness Stuart of Edgbaston",
+      "role": "First Civil Service Commissioner, Civil Service Commission",
+      "kind": "witness"
+    },
+    {
+      "label": "Doug Chalmers",
+      "name": "Doug Chalmers CB DSO OBE",
+      "role": "Chair, Ethics and Integrity Commission",
+      "kind": "witness"
+    },
+    {
+      "label": "Vijay Rangarajan",
+      "name": "Vijay Rangarajan",
+      "role": "Chief Executive, Electoral Commission",
+      "kind": "witness"
+    },
+    {
+      "label": "John Pullinger",
+      "name": "John Pullinger",
+      "role": "Chair, Electoral Commission",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Murphy of Torfaen",
+      "name": "Lord Murphy of Torfaen",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Hamwee",
+      "name": "Baroness Hamwee",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Beith",
+      "name": "Lord Beith",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Bichard",
+      "name": "Lord Bichard",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Waldegrave of North Hill",
+      "name": "Lord Waldegrave of North Hill",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Jones of Penybont",
+      "name": "Lord Jones of Penybont",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Civil Service Commission",
+      "definition": "The body that oversees open and merit-based recruitment to the UK Civil Service and handles some complaints and business appointment advice."
+    },
+    {
+      "term": "Ethics and Integrity Commission (EIC)",
+      "definition": "The independent body advising on ethical standards for people in public office, successor to the Committee on Standards in Public Life."
+    },
+    {
+      "term": "Representation of the People Bill",
+      "definition": "Current UK legislation in Parliament that changes election rules, party finance transparency, votes at 16 and other electoral matters."
+    },
+    {
+      "term": "ACoBA",
+      "definition": "Advisory Committee on Business Appointments, the old body that advised on post‑public‑office jobs and was abolished a year ago."
+    },
+    {
+      "term": "Business Appointment Rules",
+      "definition": "Rules about what jobs ministers, civil servants and certain officials can take after leaving public office, intended to prevent conflicts of interest."
+    },
+    {
+      "term": "Returning officer",
+      "definition": "The official in a local area personally responsible for running an election and declaring results."
+    },
+    {
+      "term": "Losers' consent",
+      "definition": "The idea that people who lose an election must accept the result for the system to retain legitimacy."
+    },
+    {
+      "term": "Automatic voter registration",
+      "definition": "A system that adds eligible people to the electoral register automatically using government data rather than manual sign-up."
+    },
+    {
+      "term": "CRaG",
+      "definition": "Abbreviation for the Constitutional Reform and Governance Act 2010, which gives legal basis to some civil service rules."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Who these institutions are and what they do",
+      "takeaway": "All four bodies see themselves as part of the UK's constitutional safeguards but they perform different roles—recruitment and conduct (Civil Service Commission), ethical standards oversight (EIC), and running and regulating elections (Electoral Commission).",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We asked you to explain whether your organisations form part of the UK's constitutional safeguards. Baroness Stuart, would you start?"
+        },
+        {
+          "speaker": "Baroness Stuart of Edgbaston",
+          "text": "Yes. The Civil Service Commission is integral: we ensure entry to the Civil Service is open and merit-based, handle complaints under the Civil Service Code, and since last October manage business appointment advice for many civil servants."
+        },
+        {
+          "speaker": "Doug Chalmers",
+          "text": "The EIC is different: we don't do casework. We're an adviser and educator on standards. We look across the landscape, make evidence-based recommendations, lead work on codes of conduct and chair a network of standards bodies."
+        },
+        {
+          "speaker": "John Pullinger",
+          "text": "The Electoral Commission is certainly part of the constitutional system: we oversee elections across the UK, monitor party finance compliance, and report publicly after each election to help ensure legitimacy and consent."
+        },
+        {
+          "speaker": "Vijay Rangarajan",
+          "text": "And we run education programmes for young voters because votes at 16 bring new demands; we also track and support candidates facing rising abuse and intimidation."
+        }
+      ]
+    },
+    {
+      "title": "Pressures on electoral integrity",
+      "takeaway": "The Electoral Commission warned about deepfakes, online disinformation, intimidation of candidates, weak public trust in political finance, legal complexity, and funding/staffing pressure on local election administrators.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "John, are you confident the electoral system supports public trust or is it under threat?"
+        },
+        {
+          "speaker": "John Pullinger",
+          "text": "We start from solid foundations, but we face big threats: a toxic information environment including deepfakes; rising abuse and intimidation of candidates; public distrust over political finance; overly complex electoral law; and local authorities being stretched."
+        },
+        {
+          "speaker": "Vijay Rangarajan",
+          "text": "To add: transparency of political finance scores lowest on public trust. We're delivering a UK-wide education programme in schools to help young people spot reliable information and to reduce intimidation of candidates."
+        },
+        {
+          "speaker": "John Pullinger",
+          "text": "We used a deepfake detection tool in May and flagged 15 cases that threatened democratic integrity. We're not a tech monitoring agency, so the state should have systematic capability to monitor these threats for the public good."
+        },
+        {
+          "speaker": "Lord Murphy of Torfaen",
+          "text": "You mentioned local authority capacity. Is the risk here that local councils lack funding, staff and time to manage complex modern elections?"
+        },
+        {
+          "speaker": "John Pullinger",
+          "text": "Exactly. Returning officers do a great job, but the complexity and workload mean some councils struggle for staff and resources, which threatens reliability at scale."
+        },
+        {
+          "speaker": "Baroness Hamwee",
+          "text": "You said paper voting is an important safeguard. Why resist more automation when technology could speed counts?"
+        },
+        {
+          "speaker": "Vijay Rangarajan",
+          "text": "Paper ballots are transparent and scrutinised by candidates and agents; they provide a physical record that supports trust, especially for losing candidates. We do support safe digital improvements like automatic registration and electronic check-ins, but the paper trail is vital."
+        }
+      ]
+    },
+    {
+      "title": "Standards, codes and the Civil Service's impartiality",
+      "takeaway": "Codes and independent oversight matter, but codes alone don't prevent scandals; impartiality means serving the government of the day while maintaining professional standards, and business-appointment rules and transparency need improvement.",
+      "turns": [
+        {
+          "speaker": "Lord Bichard",
+          "text": "Given scandals like Hillsborough and the Post Office, can you honestly say the standards system works? Are codes alone enough?"
+        },
+        {
+          "speaker": "Doug Chalmers",
+          "text": "We're not complacent. Codes are necessary but not sufficient. Many inquiries find people inside organisations saw problems earlier. We need better systems to act on early warning signs and stronger leadership to rebuild trust."
+        },
+        {
+          "speaker": "Baroness Stuart of Edgbaston",
+          "text": "The Civil Service Code is well known among staff. Impartiality doesn't mean civil servants have no personal views; it means in their professional role they must serve the government of the day. Leadership, like the Cabinet Secretary's public performance criteria, helps make expectations clear."
+        },
+        {
+          "speaker": "Lord Bichard",
+          "text": "Why doesn't central government have a statutory monitoring officer like local government? That could help accountability."
+        },
+        {
+          "speaker": "Doug Chalmers",
+          "text": "We haven't gathered evidence previously on mandating monitoring officers in departments. I'll take that point away—it's worth examining whether Whitehall needs similar statutory roles."
+        },
+        {
+          "speaker": "Lord Jones of Penybont",
+          "text": "Is Civil Service impartiality under threat?"
+        },
+        {
+          "speaker": "Baroness Stuart of Edgbaston",
+          "text": "It will always be contested; that's healthy. The Civil Service provides continuity while the government of the day has political authority. The risk comes if we lack the resources, vacancies are left unfilled, or leadership doesn't protect the professional standards."
+        }
+      ]
+    },
+    {
+      "title": "Rules, resources and practical reforms",
+      "takeaway": "Witnesses want clearer, updated rules and better investigatory powers, timely filling of regulator posts, consolidation of electoral law, automatic voter registration, stronger cyber defences, and tailored mandatory ethical codes backed by the EIC.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Baroness Stuart, ACoBA went. Who now handles business-appointment rules and where are the gaps?"
+        },
+        {
+          "speaker": "Baroness Stuart of Edgbaston",
+          "text": "The Civil Service Commission has administered many cases since ACoBA ended, and we'll publish a review of transparency and timing. But some military and intelligence ranks are outside our remit; the Cabinet Office owns the rules and needs to address these gaps."
+        },
+        {
+          "speaker": "Doug Chalmers",
+          "text": "Our lobbying and business-appointments review recommended clearer Cabinet Office oversight, updated rules for modern practice, and better assessment of national interest. We also argued that some advisory posts, like the Prime Minister's Independent Adviser on Ministerial Standards, should be made statutory."
+        },
+        {
+          "speaker": "Lord Beith",
+          "text": "Should bodies like the EIC or the Adviser on Ministerial Interests be statutory to protect independence?"
+        },
+        {
+          "speaker": "Doug Chalmers",
+          "text": "If an organisation needs to do casework and impose sanctions, statutory status helps independence. But law can ossify; weak statutes can also leave gaps, as with the Registrar of Consultant Lobbyists—statutory but ineffective because the law is narrow."
+        },
+        {
+          "speaker": "John Pullinger",
+          "text": "We need statutory powers for regulatory functions but also modern, future-proofed laws. Electoral law has stacked up over decades; the Representation of the People Bill contains improvements but also more secondary legislation and risk of added complexity."
+        },
+        {
+          "speaker": "Vijay Rangarajan",
+          "text": "On the Bill: we welcome votes at 16, automatic registration, and finance transparency changes. But we need broader investigatory powers to get information about non‑permitted participants or donors when assessing offences. Implementation will need big IT systems and tens of thousands of candidate interactions."
+        },
+        {
+          "speaker": "Lord Waldegrave of North Hill",
+          "text": "Have you looked at compulsory voting models like Australia as a possible solution?"
+        },
+        {
+          "speaker": "John Pullinger",
+          "text": "We have some older work on compulsory voting but would need fresh, UK-specific evidence; it's a different political culture and would require public debate and careful testing."
+        },
+        {
+          "speaker": "Vijay Rangarajan",
+          "text": "Australia's system rests on advanced automatic registration and large public campaigns. The Bill's automatic registration would move us closer, and then we could assess whether compulsory voting would make sense here."
+        },
+        {
+          "speaker": "Baroness Hamwee",
+          "text": "Should the Electoral Commission have powers to prosecute?"
+        },
+        {
+          "speaker": "Vijay Rangarajan",
+          "text": "We don't seek private prosecution powers. We can use data analytics to detect suspected breaches and pass strong evidence to the police or CPS. The specialist criminal functions are better handled by criminal authorities."
+        },
+        {
+          "speaker": "Lord Bichard",
+          "text": "Will a new mandatory code for every public authority, proposed under the Public Office (Accountability) Bill, work?"
+        },
+        {
+          "speaker": "Doug Chalmers",
+          "text": "A single blueprint won't fit everything. The EIC will support public authorities to draft and embed codes that suit their functions. Codes must be developed with consultation and be actively used day to day, not just written and shelved."
+        },
+        {
+          "speaker": "Baroness Stuart of Edgbaston",
+          "text": "A statutory line that special advisers can't sit on civil service recruitment panels is helpful. Statute gives clarity in contested moments. But embedding ethics still depends on leadership, resources and timely appointment of key regulator posts—I'm urging that my successor be appointed without delay."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. Before we close: is there anything short you want to leave us with?"
+        },
+        {
+          "speaker": "Doug Chalmers",
+          "text": "Restore trust by acting on evidence-based recommendations, give watchdogs the resources and legal powers they need, and treat codes as active management tools, not tick-boxes."
+        },
+        {
+          "speaker": "John Pullinger",
+          "text": "Protect election integrity with better cyber monitoring, clearer rules on finance, stronger local authority resourcing, and legal consolidation to reduce complexity."
+        },
+        {
+          "speaker": "Vijay Rangarajan",
+          "text": "Prioritise automatic registration, strengthen investigatory powers in the Bill, and invest in education so voters and candidates can operate safely and confidently."
+        },
+        {
+          "speaker": "Baroness Stuart of Edgbaston",
+          "text": "Keep the Civil Service's professional standards front and centre; ensure vacancies and budgets for oversight bodies are filled so institutions can do their jobs."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you all. We will pause now and may follow up in writing if needed."
+        }
+      ]
+    }
+  ]
+}

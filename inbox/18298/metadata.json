@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18298,
+  "activity_id": 39480,
+  "document_id": 314400,
+  "meeting_date": "2026-11-11",
+  "meeting_date_display": "11 November 2026",
+  "publication_date": "2026-11-16T14:56:53",
+  "title": "The UK’s constitutional safeguards",
+  "committee": "Constitution Committee",
+  "committees": [
+    {
+      "id": 172,
+      "name": "Constitution Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9861,
+      "title": "The UK’s constitutional safeguards",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Morgan McSweeney",
+      "role": "former Chief of Staff to Prime Minister Keir Starmer",
+      "organisation": "10 Downing Street"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Morgan McSweeney",
+    "Lord Murphy of Torfaen",
+    "Lord Beith",
+    "Lord Griffiths of Burry Port",
+    "Baroness Hamwee",
+    "Lord Waldegrave of North Hill",
+    "Lord Bichard",
+    "Lord Jones of Penybont",
+    "Lord Cryer"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18298/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18298",
+  "source_sha256": "7550761df4dc57ac34fcc6f625cb470e65728ba345c1e0abd3c50002448128fa",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

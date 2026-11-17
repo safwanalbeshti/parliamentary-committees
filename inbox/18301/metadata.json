@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18301,
+  "activity_id": 39392,
+  "document_id": 314572,
+  "meeting_date": "",
+  "meeting_date_display": "",
+  "publication_date": "2026-11-16T15:59:39",
+  "title": "Pensions adequacy – auto-enrolment contributions for low earners and their employers",
+  "committee": "Work and Pensions Committee",
+  "committees": [
+    {
+      "id": 164,
+      "name": "Work and Pensions Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10005,
+      "title": "Pensions adequacy – auto-enrolment contributions for low earners and their employers",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Zoe Alexander",
+      "role": "Chief Policy Adviser",
+      "organisation": "Pensions UK"
+    },
+    {
+      "name": "Dr Daniella Jenkins",
+      "role": "Director",
+      "organisation": "Women’s Budget Group"
+    },
+    {
+      "name": "Jack Jones",
+      "role": "Pensions Officer",
+      "organisation": "TUC"
+    },
+    {
+      "name": "Will Sandbrook",
+      "role": "CEO",
+      "organisation": "Centre for Inclusive Money at NEST"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Carl Emmerson",
+    "Chris Curry",
+    "Jonathan Cribb",
+    "Patrick Hurley",
+    "Mr Peter Bedford",
+    "A final point on this",
+    "John Milne",
+    "Damien Egan",
+    "Zoe Alexander",
+    "Dr Jenkins",
+    "Jack Jones",
+    "Will Sandbrook",
+    "Rushanara Ali",
+    "In the context of your question earlier, I think what we are getting at here is",
+    "Andrew Pakes"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18301/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18301",
+  "source_sha256": "9966c77c56526e51c8dc02d0d92aebdf614a2dceb57654c0cc6cc7118c799858",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

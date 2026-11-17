@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18292,
+  "activity_id": 39395,
+  "document_id": 313850,
+  "meeting_date": "2026-11-10",
+  "meeting_date_display": "10 November 2026",
+  "publication_date": "2026-11-16T11:01:12",
+  "title": "The Online Safety Act: implementation and impact",
+  "committee": "Communications and Digital Committee",
+  "committees": [
+    {
+      "id": 170,
+      "name": "Communications and Digital Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9955,
+      "title": "The Online Safety Act: implementation and impact",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Professor Clare McGlynn",
+      "role": "Professor of Law",
+      "organisation": "Durham Law School,  Durham University"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Head of Services and Revenge Porn Helpline Manager",
+      "organisation": "SWGfL"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Interim Director",
+      "organisation": "End Violence Against Women Coalition"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Partner",
+      "organisation": "Mishcon de Reya LLP"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Alexandra Whiston-Dew",
+    "Janaya Walker",
+    "Sophie Mortimer",
+    "Professor Clare McGlynn",
+    "Lord Storey",
+    "The Lord Bishop of Winchester",
+    "Lord Knight of Weymouth",
+    "Baroness Owen of Alderley Edge",
+    "The gaps as we see them are these",
+    "Lord Kirkhope of Harrogate",
+    "Baroness Fleet",
+    "The second point to reiterate is related to the one I made earlier"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18292/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18292",
+  "source_sha256": "9bdbfe770ffb46721d8cb4cce048951cc496a05db340bb593107468d87671b16",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

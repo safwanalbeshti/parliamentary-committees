@@ -1,0 +1,284 @@
+{
+  "schema_version": 1,
+  "source_id": 18291,
+  "source_sha256": "274039242d608ef922185d080d405db354967f473f0a6bab1015317b1d54a575",
+  "title": "Do sandboxes still help fintech? Practical views from investors and lawyers",
+  "label": "Regulatory sandboxes · Practical perspectives",
+  "summary": "Three witnesses—an investor, a lawyer and a venture capitalist—were asked whether regulatory sandboxes still help financial services innovation. They agreed sandboxes are useful but limited: early cohort sandboxes once signalled quality, newer thematic sandboxes can help shape policy, yet many startups find the process costly, confusing and unlikely to guarantee authorisation. The witnesses recommended clearer definitions (parsing product, technology and regulatory sandboxes), better links between sandbox learning and policy change, more resources and an honest public debate about tolerable risk.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Baroness Noakes",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Michael Moore",
+      "name": "Michael Moore",
+      "role": "CEO, UK Private Capital (trade body for VC, private equity and private credit)",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Andrew Henderson",
+      "name": "Dr Andrew Henderson",
+      "role": "Partner, Goodwin (international financial services law firm)",
+      "kind": "witness"
+    },
+    {
+      "label": "Leo Ringer",
+      "name": "Leo Ringer",
+      "role": "Co-Founder and Partner, Form Ventures (early-stage VC investing in regulated fintechs)",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Eatwell",
+      "name": "Lord Eatwell",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Lilley",
+      "name": "Lord Lilley",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Donaghy",
+      "name": "Baroness Donaghy",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Smith of Kelvin",
+      "name": "Lord Smith of Kelvin",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Davies of Brixton",
+      "name": "Lord Davies of Brixton",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "regulatory sandbox",
+      "definition": "A controlled space where firms and a regulator test new financial products or approaches before applying full rules."
+    },
+    {
+      "term": "FCA",
+      "definition": "Financial Conduct Authority, the UK regulator for most financial services firms."
+    },
+    {
+      "term": "stablecoin sandbox",
+      "definition": "A specific FCA testing environment for firms developing pound-denominated stablecoins."
+    },
+    {
+      "term": "digital securities sandbox",
+      "definition": "A thematic FCA sandbox focused on tokens and market infrastructure for digital securities."
+    },
+    {
+      "term": "provisional authorisation",
+      "definition": "A proposed pre-approval stage where a firm can operate under conditions before full authorisation."
+    },
+    {
+      "term": "Regulatory Innovation Office",
+      "definition": "A new government office aimed at helping regulators enable and understand disruptive technologies."
+    },
+    {
+      "term": "authorisation",
+      "definition": "Official approval from the regulator allowing a firm to carry out regulated financial activities."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What sandboxes are, and the different types",
+      "takeaway": "There isn't just one sandbox—products, tech and regulator-focused sandboxes exist and each serves different aims.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Could you briefly introduce yourselves and tell us whether regulatory sandboxes matter?"
+        },
+        {
+          "speaker": "Leo Ringer",
+          "text": "I run a VC fund, Form, that backs very early-stage fintechs in regulated markets—mostly pre-authorisation."
+        },
+        {
+          "speaker": "Michael Moore",
+          "text": "I'm CEO of UK Private Capital, representing venture capital, private equity and private credit firms."
+        },
+        {
+          "speaker": "Dr Andrew Henderson",
+          "text": "I'm a partner at Goodwin, a financial services regulatory lawyer advising founders and investors for 25 years."
+        },
+        {
+          "speaker": "Dr Andrew Henderson",
+          "text": "From my advisory view, sandboxes are useful: they let firms test technology and their regulatory understanding in a controlled way."
+        },
+        {
+          "speaker": "Michael Moore",
+          "text": "There are several kinds of sandboxes—testing new rules, giving firms a safe place to experiment, and helping regulators test policy. Each has value."
+        },
+        {
+          "speaker": "Leo Ringer",
+          "text": "Early FCA sandboxes were cohort-based and signalled quality. Now there are thematic sandboxes—digital securities, stablecoin—and they serve different purposes."
+        }
+      ]
+    },
+    {
+      "title": "How investors and startups actually use sandboxes",
+      "takeaway": "Investors value any early signal that a regulator has vetted a firm, but most early startups choose not to enter sandboxes because of cost and limited payoff.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "If sandboxes are important, why don't all fintechs go through them?"
+        },
+        {
+          "speaker": "Michael Moore",
+          "text": "Startups must choose carefully how they spend time and money. Sandboxes can help, but not every firm gains enough to justify the cost."
+        },
+        {
+          "speaker": "Leo Ringer",
+          "text": "When we back a startup the main question is: can they get authorised within our funding window? Early sandboxes gave a positive signal to investors that a firm was regulator-ready."
+        },
+        {
+          "speaker": "Leo Ringer",
+          "text": "Since the FCA moved away from six-month cohorts to an open model, the signalling value fell. That matters to VCs deciding whether to invest."
+        },
+        {
+          "speaker": "Dr Andrew Henderson",
+          "text": "Some clients who are confident simply go straight for authorisation rather than take sandbox 'training wheels'. The FCA also offers lighter-touch help outside the formal sandbox."
+        },
+        {
+          "speaker": "Lord Eatwell",
+          "text": "Some witnesses said sandboxes now favour big firms that can afford them and that small disruptors are disadvantaged. Is that fair?"
+        },
+        {
+          "speaker": "Leo Ringer",
+          "text": "Partly. Big incumbents can afford sandbox tests. For very small challengers, the time and cost of applying sometimes outweigh the benefits."
+        },
+        {
+          "speaker": "Dr Andrew Henderson",
+          "text": "It depends on the business. Some prefer to go direct to authorisation; others value the early engagement the sandbox can bring."
+        },
+        {
+          "speaker": "Michael Moore",
+          "text": "Be cautious: sandboxes should not become a longer, slower route to authorisation that swallows startups' time and cash."
+        },
+        {
+          "speaker": "Leo Ringer",
+          "text": "Startups often misunderstand what a sandbox achieves. It rarely gives a free pass; you usually still need authorisation and the liability issues remain."
+        },
+        {
+          "speaker": "Dr Andrew Henderson",
+          "text": "In some cases firms were authorised with limitations during testing and had those lifted later. But outcomes vary a lot by the business and the facts."
+        },
+        {
+          "speaker": "Michael Moore",
+          "text": "For investors, the key is whether the UK regulatory environment remains competitive and predictable so capital keeps being deployed here."
+        }
+      ]
+    },
+    {
+      "title": "Limits, misunderstandings and what needs fixing",
+      "takeaway": "Sandboxes often don't give authorisation, can be resource-intensive, and their learning isn't well connected into rule change—so reforms are needed.",
+      "turns": [
+        {
+          "speaker": "Lord Lilley",
+          "text": "Why have a sandbox if it doesn't grant authorisation and just adds cost and delay?"
+        },
+        {
+          "speaker": "Leo Ringer",
+          "text": "A common misconception is that sandbox entry equals easier authorisation. Usually you still need authorisation; the sandbox can offer limited permissions but rarely full, permanent ones."
+        },
+        {
+          "speaker": "Dr Andrew Henderson",
+          "text": "Sometimes firms get temporary limitations lifted after testing. The sandbox can be helpful where rules don't fit new tech, but it's fact-specific."
+        },
+        {
+          "speaker": "Michael Moore",
+          "text": "The danger is turning innovation into extra bureaucracy. Sandboxes must not become a substitute for clear regulatory decisions where they're needed."
+        },
+        {
+          "speaker": "Leo Ringer",
+          "text": "If sandboxes are to matter more they must feed learning into policy teams so rules can be rewritten where necessary—otherwise they are just an information funnel."
+        },
+        {
+          "speaker": "Baroness Donaghy",
+          "text": "Do firms still enter sandboxes mainly for kudos, or has that faded?"
+        },
+        {
+          "speaker": "Dr Andrew Henderson",
+          "text": "Less so now. Firms come to us when there's a real use case; many are better off going straight to authorisation or using informal FCA engagement."
+        },
+        {
+          "speaker": "Leo Ringer",
+          "text": "Thematic sandboxes can still create a 'club' effect—for example, being in the stablecoin sandbox can make investors feel a UK strategy is credible."
+        },
+        {
+          "speaker": "Leo Ringer",
+          "text": "Three main blockers: regulator resources and technical skills, the regulator's risk appetite, and the difficulty of changing primary law or rules quickly."
+        },
+        {
+          "speaker": "Michael Moore",
+          "text": "Ministers and Parliament need to decide how much risk they will tolerate for innovation, and give regulators both permission and cover to take sensible risks."
+        },
+        {
+          "speaker": "Dr Andrew Henderson",
+          "text": "Legal advice remains important because the rules are often unclear; clients want judgement as well as black-letter law on how to present proposals to the regulator."
+        },
+        {
+          "speaker": "Leo Ringer",
+          "text": "Also, don't label everything a 'sandbox'. Be clearer about product sandboxes, technology sandboxes and regulator-led policy sandboxes."
+        }
+      ]
+    },
+    {
+      "title": "International practice and practical recommendations",
+      "takeaway": "Other countries show clearer, faster rule change and joined-up action—lessons for the UK include clearer sandbox types, provisional authorisation and more resources.",
+      "turns": [
+        {
+          "speaker": "Lord Smith of Kelvin",
+          "text": "Can the UK learn from other jurisdictions about doing regulatory innovation better?"
+        },
+        {
+          "speaker": "Leo Ringer",
+          "text": "Yes. Estonia actively changes rules to enable new activity and has teams that push through law changes; Singapore has iterated the FCA model and linked it closer to rule change."
+        },
+        {
+          "speaker": "Dr Andrew Henderson",
+          "text": "Smaller or less democratic regimes can act faster, which helps early-stage markets. But London still has advantages in scale and infrastructure."
+        },
+        {
+          "speaker": "Michael Moore",
+          "text": "We have strong capital, talent and regulators. The job is to keep the UK competitive by making the regulatory pipeline clear and proportionate."
+        },
+        {
+          "speaker": "Leo Ringer",
+          "text": "Practical proposals: pare back 'sandbox' terminology, create provisional authorisation, resource regulators with specialist talent, and get ministerial backing for tolerable failure."
+        },
+        {
+          "speaker": "Lord Davies of Brixton",
+          "text": "Do sandboxes actually produce innovation that wouldn't otherwise exist?"
+        },
+        {
+          "speaker": "Leo Ringer",
+          "text": "Sometimes. For technologies that don't fit existing rules—blockchain, lab-grown foods—a focused regulatory approach can keep that activity in the UK rather than losing it abroad."
+        },
+        {
+          "speaker": "Michael Moore",
+          "text": "Fix the pipeline—clarify sandbox types, connect learning to policy, and fund specialist skills—and we'll stay competitive internationally."
+        },
+        {
+          "speaker": "Dr Andrew Henderson",
+          "text": "Sandboxes are useful but not a panacea; legal clarity and better policy channels matter as much as testing environments."
+        },
+        {
+          "speaker": "Leo Ringer",
+          "text": "Keep sandboxes, but make them clearer and leaner within a bigger regulatory toolkit—and be honest about resources and tolerable risk."
+        }
+      ]
+    }
+  ]
+}

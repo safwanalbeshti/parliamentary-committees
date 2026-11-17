@@ -1,0 +1,252 @@
+{
+  "schema_version": 1,
+  "source_id": 18298,
+  "source_sha256": "7550761df4dc57ac34fcc6f625cb470e65728ba345c1e0abd3c50002448128fa",
+  "title": "Clarity, centre and conventions: safeguarding the UK constitution",
+  "label": "11 November 2026 · Constitutional safeguards",
+  "summary": "Morgan McSweeney, former chief of staff to the Prime Minister, told the Constitution Committee that the UK’s constitution faces two distinct pressures—abuse of power and government failure to deliver—and that many current problems come from an accumulation of unclear rules and precedents. He urged a parliamentary-led review to reduce and clarify rules (possibly by codifying the Cabinet Manual), to fix how cross-department decisions are handled, to strengthen strategic capacity at the centre of government, and to preserve but clarify the roles of Parliament, courts, Cabinet and the Civil Service.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Strathclyde",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Morgan McSweeney",
+      "name": "Morgan McSweeney",
+      "role": "former Chief of Staff to the Prime Minister, 10 Downing Street",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Murphy of Torfaen",
+      "name": "Lord Murphy of Torfaen",
+      "role": "Member of the Constitution Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Beith",
+      "name": "Lord Beith",
+      "role": "Member of the Constitution Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Griffiths of Burry Port",
+      "name": "Lord Griffiths of Burry Port",
+      "role": "Member of the Constitution Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Hamwee",
+      "name": "Baroness Hamwee",
+      "role": "Member of the Constitution Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Waldegrave of North Hill",
+      "name": "Lord Waldegrave of North Hill",
+      "role": "Member of the Constitution Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Bichard",
+      "name": "Lord Bichard",
+      "role": "Member of the Constitution Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Jones of Penybont",
+      "name": "Lord Jones of Penybont",
+      "role": "Member of the Constitution Committee",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Cryer",
+      "name": "Lord Cryer",
+      "role": "Member of the Constitution Committee",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Cabinet Manual",
+      "definition": "A document that explains how the UK government operates and the roles of the Prime Minister, Cabinet, Parliament and civil service."
+    },
+    {
+      "term": "quasi-judicial processes",
+      "definition": "Legal or administrative rules that require a single minister to decide matters in a way that can limit discussion with colleagues."
+    },
+    {
+      "term": "Cabinet Secretary",
+      "definition": "The most senior civil servant who advises the Prime Minister and coordinates the Civil Service."
+    },
+    {
+      "term": "Prime Minister's PPS",
+      "definition": "The Prime Minister's Parliamentary Private Secretary; a senior aide linking the PM with Parliament and officials."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Two different threats",
+      "takeaway": "Constitutional risk comes from both abuse of power and government failure to deliver; both can undermine legitimacy.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Do you think the UK’s constitutional democracy is under threat, and what did you see in No. 10?"
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "There are always pressures. Two ways a constitution is threatened: abuse of power, and Governments failing to deliver their lawful programmes. Populists exploit the latter. Both can erode legitimacy."
+        },
+        {
+          "speaker": "Lord Murphy of Torfaen",
+          "text": "Would you want changes to the UK constitution?"
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "Yes. There are many rules shaping Prime Ministerial power. Individually they often made sense, but together they form a thicket. We should identify fewer, justified rules and consider codifying the essentials—like the Cabinet Manual—so roles are clearer."
+        }
+      ]
+    },
+    {
+      "title": "Who should decide changes — and why clarity matters",
+      "takeaway": "Reform should be driven by Parliament, not the Prime Minister, and clarity stops inconsistent interpretations that slow government.",
+      "turns": [
+        {
+          "speaker": "Lord Murphy of Torfaen",
+          "text": "Could the Ministerial Code be made statutory?"
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "Possibly. But first do a wider review of accumulated rules. Many were added after mistakes; they now work by precedent. Parliament should lead any codification so it’s not just the Prime Minister deciding."
+        },
+        {
+          "speaker": "Lord Beith",
+          "text": "What if a Prime Minister says delivery is urgent and overrides other safeguards?"
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "There are safeguards—courts, Parliament, Cabinet, civil servants, parties, elections. They should remain. But we need clarity so Prime Ministers know the limits of their power and won’t rough-guess based on different civil‑service interpretations."
+        },
+        {
+          "speaker": "Lord Griffiths of Burry Port",
+          "text": "How do you ensure leaders have the character and judgment to respect conventions?"
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "Codes can't guarantee character. Parties play a role—choosing candidates and leaders—and voters ultimately judge. We can only make the rules clear and robust enough to constrain abuse."
+        }
+      ]
+    },
+    {
+      "title": "Quasi-judicial decisions and Secretary of State autonomy",
+      "takeaway": "Some laws interpreted to mean a single Secretary of State must decide can stop necessary Cabinet discussion; fix interpretation, not always the law.",
+      "turns": [
+        {
+          "speaker": "Baroness Hamwee",
+          "text": "You mentioned judicial review earlier; do you think courts intervene too much?"
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "I misspoke. My concern is 'quasi-judicial processes'—laws that say 'the Secretary of State shall decide' and which are interpreted to prevent Cabinet-level consultation. That interpretation can block timely, cross-department discussion."
+        },
+        {
+          "speaker": "Lord Jones of Penybont",
+          "text": "So what do you want changed—the law or its practice?"
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "Often the law's application or precedent causes the problem. I wouldn't remove Secretary of State decision-making where statute requires it. But where decisions affect many departments, there should be a clear route for Cabinet or PM input while preserving the Secretary of State's formal role."
+        },
+        {
+          "speaker": "Lord Beith",
+          "text": "Is the autonomy of Secretaries of State part of the constitution or just practice?"
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "Where statute names the Secretary of State, that should stand. The reform needed is clearer rules about consultation and when collective discussion is appropriate, especially for national-security or economy-wide matters."
+        }
+      ]
+    },
+    {
+      "title": "Civil Service role and the centre of government",
+      "takeaway": "The Civil Service should protect the constitution and advise on legality; the centre needs more strategic cohesion and coordination.",
+      "turns": [
+        {
+          "speaker": "Lord Bichard",
+          "text": "Should civil servants act to protect the constitution beyond advising Ministers?"
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "They should and largely do. But distinguish two cases: if a civil servant thinks a Minister is acting unlawfully, different routes are needed than when a civil servant thinks a Minister is ignoring convention."
+        },
+        {
+          "speaker": "Lord Bichard",
+          "text": "So civil servants might resist implementing political wishes to defend constitutional principles?"
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "Yes, if the action is unlawful. When it’s a matter of changing precedent or convention, civil servants must implement lawful decisions—even if they disagree—while flagging risks and using informal channels to resolve disputes first."
+        },
+        {
+          "speaker": "Lord Waldegrave of North Hill",
+          "text": "You said the centre of government is 'too weak'—how would you strengthen it?"
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "Size isn’t the same as strength. The centre needs coherent coordination: strategic capacity that plans ahead for things like Budgets and King's Speeches, and better coordination of communications and cross-department delivery, not more fragmented teams."
+        },
+        {
+          "speaker": "Lord Waldegrave of North Hill",
+          "text": "So more central strategy and joined-up teams, not just more staff?"
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "Exactly. Clear priorities from the Prime Minister, routed through a stronger centre that can chase departments and produce consistent action."
+        }
+      ]
+    },
+    {
+      "title": "Parliament, parties and practical checks",
+      "takeaway": "Parliament, parties and political reality are essential checks; reforms should come from Parliament and MPs remain capable of holding government to account.",
+      "turns": [
+        {
+          "speaker": "Baroness Hamwee",
+          "text": "Can the Commons act as a restraint when interpretations go against Parliament’s intent?"
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "Yes. Parliament can amend bad legislation, use PMQs, committees, or pass new laws. It should be central to deciding which rules stay, which change, and to any codification."
+        },
+        {
+          "speaker": "Lord Cryer",
+          "text": "But haven't both Cabinet and Commons become weaker over decades?"
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "My experience is MPs are well informed and engaged on national issues. Cabinets still include strong figures who will push back. No single check is perfect—courts, Parliament, Cabinet, civil servants and parties all matter together."
+        },
+        {
+          "speaker": "Lord Beith",
+          "text": "Who should lead the review of accumulated rules?"
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "Parliament should lead it—committees like this can recommend. The Prime Minister shouldn’t alone rewrite conventions; that risks politicising rules that protect the constitution."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Any final practical example of change you’d press for?"
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "Review quasi‑judicial interpretations to allow necessary Cabinet input; codify core roles in the Cabinet Manual so everyone—Ministers, civil servants and the public—knows who decides what and when."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you for your time and for joining us from Chicago this morning."
+        }
+      ]
+    }
+  ]
+}

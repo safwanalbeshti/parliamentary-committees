@@ -1,0 +1,266 @@
+{
+  "schema_version": 1,
+  "source_id": 18293,
+  "source_sha256": "ea22bd757d347ae6a55181bc67072eb6041021af12a69800e9045508647c6de7",
+  "title": "Online Safety Act: impacts on speech, privacy and enforcement",
+  "label": "10 November 2026 · Online Safety Act hearing",
+  "summary": "Witnesses from Big Brother Watch and academia debated whether the Online Safety Act (OSA) protects children and democracy without unduly harming free expression or privacy. Big Brother Watch argues the OSA has failed and should be repealed because of over-restriction and privacy risks from age-assurance. The academic witness says the law needs targeted amendment and better Ofcom guidance so freedom of expression is meaningfully weighed alongside safety, and that Ofcom should use existing powers more actively.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Baroness Keeley",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Maya Thomas",
+      "name": "Maya Thomas",
+      "role": "Legal and Policy Officer, Big Brother Watch",
+      "kind": "witness"
+    },
+    {
+      "label": "Ricki-Lee Gerbrandt",
+      "name": "Ricki-Lee Gerbrandt",
+      "role": "Lecturer in Law, University of Bristol Law School; Senior Research Associate, UCL Digital Speech Lab",
+      "kind": "witness"
+    },
+    {
+      "label": "Viscount Colville of Culross",
+      "name": "Viscount Colville of Culross",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Elliott of Whitburn Bay",
+      "name": "Baroness Elliott of Whitburn Bay",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Tarassenko",
+      "name": "Lord Tarassenko",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Holmes of Richmond",
+      "name": "Lord Holmes of Richmond",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Fleet",
+      "name": "Baroness Fleet",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Online Safety Act",
+      "definition": "UK law intended to make online platforms safer by placing duties on services to manage harmful content."
+    },
+    {
+      "term": "Ofcom",
+      "definition": "The UK communications regulator charged with enforcing parts of the Online Safety Act."
+    },
+    {
+      "term": "age-gating",
+      "definition": "Blocking or restricting access to content until a user confirms their age, often via verification methods."
+    },
+    {
+      "term": "age assurance",
+      "definition": "Techniques platforms use to check a user's age, ranging from self-declaration to identity or biometric checks."
+    },
+    {
+      "term": "Digital Services Act",
+      "definition": "EU law that sets obligations on large online platforms, including transparency about moderation decisions."
+    },
+    {
+      "term": "hash matching",
+      "definition": "A method that recognises known illegal images or files by comparing digital ‘fingerprints’ (hashes)."
+    },
+    {
+      "term": "client-side scanning",
+      "definition": "Scanning content on a user's device before it's encrypted or uploaded, which can threaten privacy and encryption."
+    },
+    {
+      "term": "end-to-end encryption",
+      "definition": "A system where only sender and receiver can read messages, preventing platforms from seeing the content."
+    },
+    {
+      "term": "pile-on",
+      "definition": "A rapid, often coordinated flood of abusive messages directed at an individual online."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Positions and main concerns",
+      "takeaway": "Big Brother Watch says the OSA has failed and should be repealed due to over-restriction and privacy risks; the academic witness wants targeted amendments and better Ofcom practice to balance safety and free speech.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We will explore how the Online Safety Act has affected online safety, freedom of expression and privacy. Please introduce yourselves."
+        },
+        {
+          "speaker": "Maya Thomas",
+          "text": "I'm Maya Thomas from Big Brother Watch. We oppose the Online Safety Act—it's not fit for keeping children safe and should be repealed."
+        },
+        {
+          "speaker": "Maya Thomas",
+          "text": "Ofcom’s numbers show child encounters with online harm rose from 70% to 73% post-implementation, which we say indicates the Act isn't achieving its purpose."
+        },
+        {
+          "speaker": "Ricki-Lee Gerbrandt",
+          "text": "I study online abuse aimed at journalists and public figures. I think the Act could be improved: Ofcom focuses heavily on procedural protections, but not enough on substantive freedom of expression."
+        },
+        {
+          "speaker": "Ricki-Lee Gerbrandt",
+          "text": "Content moderation always has errors: false positives (legal speech removed) and false negatives (harmful content missed). We should design the law and guidance to reduce harmful errors and avoid disproportionate removals."
+        },
+        {
+          "speaker": "Maya Thomas",
+          "text": "A big problem is age-gating. Platforms demand sensitive identity proofs—passports or face scans—to allow access to lawful material, which creates privacy risks and chills speech."
+        },
+        {
+          "speaker": "Chair",
+          "text": "You equated age data collection with censorship—can you clarify?"
+        },
+        {
+          "speaker": "Maya Thomas",
+          "text": "Not typing your age, but the mandatory, 'highly effective' age checks Ofcom suggests rely on sensitive data; that functional restriction and data collection can deter lawful expression and harm privacy."
+        }
+      ]
+    },
+    {
+      "title": "Journalism, democracy and moderation errors",
+      "takeaway": "Journalistic and democratic content is being wrongly restricted; the law lacks a practical, ethically grounded definition and Ofcom should require platforms to show how policies protect such content.",
+      "turns": [
+        {
+          "speaker": "Viscount Colville of Culross",
+          "text": "Has enough been done to protect journalists and democratic content from online abuse and wrongful moderation?"
+        },
+        {
+          "speaker": "Ricki-Lee Gerbrandt",
+          "text": "There are no OSA provisions specifically protecting public figures from pile-ons—this was a missed opportunity and leaves journalists relying on general laws that don't fit well."
+        },
+        {
+          "speaker": "Ricki-Lee Gerbrandt",
+          "text": "Ofcom left it to platforms to define 'journalistic content'. Platform policies are often not nuanced enough, and enforcement—often by AI—overremoves legitimate reporting."
+        },
+        {
+          "speaker": "Ricki-Lee Gerbrandt",
+          "text": "Examples include historical war photos, live footage of abuse and news reports flagged under categories like 'dangerous organisations' or 'sexual content' and removed despite public interest."
+        },
+        {
+          "speaker": "Viscount Colville of Culross",
+          "text": "Would defining journalism help? What should such a definition look like?"
+        },
+        {
+          "speaker": "Ricki-Lee Gerbrandt",
+          "text": "Definitions should be tied to journalistic processes and standards—how content is produced, editorial oversight and public-interest criteria—not just any 'information' labelled as news."
+        },
+        {
+          "speaker": "Ricki-Lee Gerbrandt",
+          "text": "Ofcom should ask platforms for specific policies and proof their enforcement protects reporting on elections, protests and other democratic topics where overmoderation is common."
+        }
+      ]
+    },
+    {
+      "title": "Complaints, remedies and age assurance trade-offs",
+      "takeaway": "Wrongful restrictions often cause irreversible damage; complaints need better transparency and access, while age assurance raises serious privacy risks and may give a false sense of child safety.",
+      "turns": [
+        {
+          "speaker": "Baroness Elliott of Whitburn Bay",
+          "text": "Do OSA complaints procedures give effective redress when content is wrongfully restricted?"
+        },
+        {
+          "speaker": "Maya Thomas",
+          "text": "Often the harm is done by the time content is reinstated—reach is lost and public debate is harmed. Platforms are incentivised to over-restrict because fines are high."
+        },
+        {
+          "speaker": "Maya Thomas",
+          "text": "We favour stronger transparency for takedowns: who decided, whether AI flagged it, and whether a state actor was involved—similar to the Santa Clara Principles."
+        },
+        {
+          "speaker": "Ricki-Lee Gerbrandt",
+          "text": "I don't support letting everyone complain directly to Ofcom—that would overwhelm it. Ofcom should instead enforce the existing legal requirement that platforms have effective complaint processes."
+        },
+        {
+          "speaker": "Ricki-Lee Gerbrandt",
+          "text": "One fix: let non-users submit complaints without creating an account, since many people can view content but can't complain without registering."
+        },
+        {
+          "speaker": "Baroness Elliott of Whitburn Bay",
+          "text": "How does the EU's Digital Services Act fit in?"
+        },
+        {
+          "speaker": "Ricki-Lee Gerbrandt",
+          "text": "The DSA requires statements of reasons for removals and independent dispute bodies. In practice some platforms post minimal reasons and the dispute bodies often lack enforcement power—lessons we should study."
+        },
+        {
+          "speaker": "Lord Tarassenko",
+          "text": "On age assurance: system design forces trade-offs—reduce false positives and you increase false negatives. Some parents may accept privacy trade-offs to keep kids safer. Do we need to give these measures a chance?"
+        },
+        {
+          "speaker": "Maya Thomas",
+          "text": "I agree we must act for children, but mandatory, nationwide age checks create real privacy harms: biometric data and IDs can leak or be misused, and children often bypass checks, creating a false sense of security."
+        },
+        {
+          "speaker": "Maya Thomas",
+          "text": "Examples exist: a Discord age-verification data leak exposed tens of thousands. Also, two-thirds of parents don't use parental controls—more support, education and design changes may be more effective."
+        },
+        {
+          "speaker": "Lord Tarassenko",
+          "text": "If age assurance protects some children now and improves, isn't that worth some privacy cost?"
+        },
+        {
+          "speaker": "Maya Thomas",
+          "text": "Not if the cost is mandatory exposure of sensitive data for everyone and chilling speech for people who must stay anonymous for safety, like abuse survivors or human-rights campaigners."
+        }
+      ]
+    },
+    {
+      "title": "Technology, Ofcom's role and practical fixes",
+      "takeaway": "Both witnesses want Ofcom to use existing powers better, require transparency about any proactive tech, and ensure freedom of expression is treated substantively in risk mitigation choices.",
+      "turns": [
+        {
+          "speaker": "Lord Holmes of Richmond",
+          "text": "Should Ofcom be able to require proactive technologies to spot illegal content? What safeguards are needed?"
+        },
+        {
+          "speaker": "Maya Thomas",
+          "text": "We oppose mandating any single tech. Some tools (like hash matching for public images) can be fine, but mandating client-side scanning would break end-to-end encryption and threaten privacy."
+        },
+        {
+          "speaker": "Maya Thomas",
+          "text": "Platforms should choose proportionate tools for their service model—Ofcom should set safety goals and require platforms to justify the tech they pick, not prescribe one approach."
+        },
+        {
+          "speaker": "Ricki-Lee Gerbrandt",
+          "text": "If Ofcom requires proactive tech, it must publish what it's requiring so civil society can scrutinise privacy and free-speech impacts. Also, Ofcom should use existing Section 10 powers to demand better platform design."
+        },
+        {
+          "speaker": "Ricki-Lee Gerbrandt",
+          "text": "Design changes can reduce dangerous moderation errors—for example, prompts asking users to clarify violent threats before posting, which helps both users and moderators."
+        },
+        {
+          "speaker": "Baroness Fleet",
+          "text": "If repeal isn't going to happen, what can Ofcom practically do now to protect rights and privacy?"
+        },
+        {
+          "speaker": "Maya Thomas",
+          "text": "It can only tinker at the edges. The core problem is the Act's mandatory architecture and the privacy risks it creates."
+        },
+        {
+          "speaker": "Ricki-Lee Gerbrandt",
+          "text": "Three practical steps: (1) Ofcom should begin active regulation where it can and get better data from platforms; (2) rewrite guidance to require granular, documented trade-offs between safety measures and free speech; (3) consider amending the Act so any duty of care requires concrete, documented freedom-of-expression assessments."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you both. We have run a little over time, but your evidence has highlighted clear disputes about the Act’s effects on safety, speech and privacy and set out ways Ofcom and lawmakers might respond."
+        }
+      ]
+    }
+  ]
+}

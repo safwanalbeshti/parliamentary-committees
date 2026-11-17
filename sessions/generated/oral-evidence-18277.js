@@ -1,6 +1,6 @@
 /*
  * Generated from UK Parliament oral evidence 18277.
- * Source status: Published. Source hash: 3051eba418a899bdfbde5fc212e259112b937e4966791d6a8807452606deebfa
+ * Source status: Published. Source hash: f63ef4f93cfdcb7a992fc03d4f8b473b4d273f525318a82dd27a7ec0f65dc049
  * Contains Parliamentary information licensed under the Open Parliament Licence v3.0.
  */
 window.COMMITTEE_SESSIONS = window.COMMITTEE_SESSIONS || [];
@@ -11,7 +11,7 @@ window.COMMITTEE_SESSIONS.push({
   "date": "11 November 2026",
   "sourceUrl": "https://committees.parliament.uk/oralevidence/18277/html/",
   "sourceLabel": "Official published transcript",
-  "summary": "The ICRIR’s leadership told the Committee that co-operation from the Republic of Ireland on legacy material remains stalled and will likely need a political solution tied to legislation in both jurisdictions. They welcomed some legal safeguards (an appeal against the Secretary of State on national security redactions) but raised concerns about other provisions such as the Attorney General consent clause and slow security checks. The commission says it is under-resourced for the likely caseload, has made strong progress on implementing Peter May’s recommendations, and stresses that careful, family-centred engagement and tailored reports are central to securing public confidence.",
+  "summary": "The Independent Commission for Reconciliation and Information Recovery (ICRIR) told MPs that co-operation from the Republic of Ireland on sharing sensitive material remains stalled, that the organisation is under-resourced for the likely workload and has submitted a major business case for added funding, and that recent legal and procedural changes in the Troubles Bill create opportunities and tensions—especially over national security redactions and the Attorney General’s consent to prosecutions. The witnesses defended the value of ICRIR’s investigative approach for families, described progress on implementing a critical internal review, and warned that a failure to fund the work would push relatives towards expensive public inquiries.",
   "room": {
     "image": "Energy Resilience/committee_room_4.png",
     "width": 2788,
@@ -106,7 +106,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Adam Jogee": {
       "name": "Adam Jogee",
-      "role": "Committee member",
+      "role": "Member of the Committee",
       "description": "",
       "kind": "member",
       "seats": [
@@ -116,8 +116,8 @@ window.COMMITTEE_SESSIONS.push({
       "soft": "#d9eeee"
     },
     "Mr Kohler": {
-      "name": "Paul Kohler",
-      "role": "Committee member",
+      "name": "Mr Kohler",
+      "role": "Member of the Committee",
       "description": "",
       "kind": "member",
       "seats": [
@@ -128,7 +128,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Sir Alec Shelbrooke": {
       "name": "Sir Alec Shelbrooke",
-      "role": "Committee member",
+      "role": "Member of the Committee",
       "description": "",
       "kind": "member",
       "seats": [
@@ -139,7 +139,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Simon Hoare": {
       "name": "Simon Hoare",
-      "role": "Committee member",
+      "role": "Member of the Committee",
       "description": "",
       "kind": "member",
       "seats": [
@@ -150,7 +150,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Chris Bloore": {
       "name": "Chris Bloore",
-      "role": "Committee member",
+      "role": "Member of the Committee",
       "description": "",
       "kind": "member",
       "seats": [
@@ -160,28 +160,44 @@ window.COMMITTEE_SESSIONS.push({
       "soft": "#d7edf0"
     }
   },
-  "transcript": "# The Northern Ireland Troubles Bill: Follow-up\n\n## Co-operation with Ireland\n> The ICRIR has had no substantive disclosure from the Republic of Ireland and says political agreement tied to both countries’ legislation is needed.\n\nChair: Sir Declan, since June have arrangements with the Irish Government on information-sharing improved?\nSir Declan Morgan: No. We've written about a dozen letters and got acknowledgements but no substantive replies. The crux is national security protections: in the UK the Secretary of State is guarantor and the Act creates strict rules we must follow.\nSir Declan Morgan: We want the same kind of disclosure protocols with Ireland as we have with UK agencies, but matching their national-security protections is complex. That looks like a political issue that needs a political solution tied to legislation in both states.\nChair: You told us you made 11 requests to the Garda covering 31 deaths. Have you received any material?\nSir Declan Morgan: No substantive material. There have been acknowledgements, but the Garda told us they weren't in a position to provide information yet.\nAdam Jogee: Why could Kenova engage with An Garda Síochána but ICRIR can’t?\nSir Declan Morgan: Kenova was a policing criminal investigation under PSNI. ICRIR isn't a law-enforcement body, so it can’t send ILRs. If ILRs are needed they’d have to come from the Public Prosecution Service and only for cases that proceed criminally.\nAdam Jogee: So until both legislatures act, significant cross-border information-sharing is unlikely?\nSir Declan Morgan: Yes. Ireland is waiting to see the UK Bill; we would like synchronized implementation so the new commission can start with a clean slate.\n\n\n## Legal powers, national security and scrutiny\n> The commission welcomes an appeal against the Secretary of State’s national security decisions, but concerns remain about AG consent for prosecutions and slow security checks.\n\nMr Kohler: The Government added a clause requiring the Attorney General's consent for serious troubles prosecutions. What do you think?\nSir Declan Morgan: Legally it shouldn't change outcomes compared with the PPS, but some will perceive it differently. It's a political choice and could be contentious.\nMr Kohler: If Ireland's Oireachtas opposes that clause, could it harm co-operation?\nSir Declan Morgan: Possibly. Governments may trade concessions; diplomacy will matter. I can't predict the political give-and-take.\nSir Alec Shelbrooke: You have the power to appeal a Secretary of State decision on national security—will you use it?\nSir Declan Morgan: We welcomed the right to appeal. We see the material and can judge public interest versus security. If misuse occurs—say to conceal embarrassment—we could challenge it in court, which should increase public confidence.\nSimon Hoare: Might the right to appeal make the Secretary of State more cautious about over-using national security?\nSir Declan Morgan: Yes. The appeal power itself should deter over-broad use and provide scrutiny, which could reassure sceptical people.\nChair: You’ve had long waits while the Secretary of State’s office carried out security checks—two months in one case. Is that avoidable?\nSir Declan Morgan: Delays happen because agencies must be asked about security issues; if they don't respond quickly the 60-day window gets used. We need faster, clearer processes from agencies to avoid holding up publication.\n\n\n## Investigative workload and funding\n> ICRIR is under-resourced for the likely caseload; they have submitted a business case and warn shortfall would shift pressure to costly public inquiries.\n\nChair: Amanda, do you have enough investigators and people to manage evidence and sensitivity tagging?\nAmanda Logan: No. We need more staff. An independent review recommended about seven to nine syndicates—roughly 400 investigators and support—if AI is used; right now we have 189 operational staff, less than half what's needed.\nChair: Would your amendment to shift sensitivity-marking away from PSNI reduce your workload?\nAmanda Logan: Originators best know sensitivity, so their tagging helps. But if the commission must do all tagging, it is extra work; we'd need partnership with agencies to tag material accurately.\nSir Declan Morgan: We currently have 159 investigations through eligibility, 57 in case support—over 200 active investigations. Some cases, like Warrenpoint or Guildford, are resource-heavy and can’t be handled with current staff.\nRonnie Armour: We submitted a business case seeking £628 million to Treasury. That includes the current ringfenced £232 million and the costs of scaling up and running inquisitorial proceedings.\nChair: What have you spent so far and what if the business case is refused?\nRonnie Armour: We’ve drawn down about £77m and spent about £64m to date, leaving £150–160m of the current allocation. If the business case fails, our capacity to scale up would be severely constrained and delivery would be impacted.\nMr Kohler: Do you have an estimate of total cases coming?\nSir Declan Morgan: Our central estimate is about 650 investigations over roughly seven and a half years. We aim for an average of 80–90 outcomes a year once fully scaled.\n\n\n## Peter May review and governance\n> ICRIR has implemented most of Peter May’s 19 recommendations; three remain as business-as-usual actions, and cultural and financial controls have improved.\n\nMr Kohler: You told us in June 11 of 19 May recommendations were done—what’s the update?\nRonnie Armour: Significant progress: only three recommendations remain active. We've set up an independent-chaired finance committee, strengthened governance and sponsorship with the NIO, improved staff communications and recognised the union.\nRonnie Armour: The three outstanding items are clarifying line management versus corporate centre roles, a formal lessons-learned project to run once enough cases reach reporting, and deeper understanding and headroom for AME budgeting.\nMr Kohler: How are you checking cultural changes are working?\nRonnie Armour: We use staff pulse surveys, union engagement, external consultants working with senior leadership and our joint oversight group with NIO to monitor and assure progress.\nChair: Who in NIO do you engage with?\nRonnie Armour: Different people for different functions, but the structured sponsorship committee is chaired by the NIO chief operating officer and provides formal oversight.\n\n\n## Reports, family engagement and publication\n> ICRIR emphasises careful, personal engagement with families; reports may not publish every detail to protect safety or family concerns, and early outcomes can build public confidence.\n\nChris Bloore: You described the first September report as significant. When will more reports appear?\nSir Declan Morgan: We have one report published, one through the Secretary of State with criticisms that need a 30-day representations period and RI checks, so it won't appear before Christmas. In total we have nine completed investigations at varying stages; more will follow early next year.\nChris Bloore: Some criticism says your reports only re-review old material rather than find new lines. Is that fair?\nSir Declan Morgan: Not entirely. Some cases won't yield new facts, but it still matters to families to know every stone was turned. Other investigations do produce new, meaningful information.\nChair: Do families get more detail than the published report?\nSir Declan Morgan: Often yes. We meet families during the process and give them information that might not appear in the public report—especially material withheld for security or because the family is worried about publication.\nChair: That concern about publication is strong for people living in Northern Ireland—are you tailoring reports for family safety?\nSir Declan Morgan: Absolutely. Reports are family-centred and may omit or redact details that could put people at risk or cause serious distress, always balancing public interest and safety.\nChair: Finally, you want investigations and inquisitorial hearings better aligned—would that need legal tweaks?\nSir Declan Morgan: Some practical tweaks might be needed. Our aim is to use investigative work to focus hearings only on what still needs examination, making proceedings more efficient and focused.\n",
+  "transcript": "# The Northern Ireland Troubles Bill: Follow-up\n\n## Irish co-operation remains stalled\n> ICRIR has asked the Garda for material covering border deaths but has received only acknowledgements; a political, cross-border solution is needed to share sensitive information.\n\nChair: Sir Declan, you wrote about information sharing with Ireland—have arrangements improved since June?\nSir Declan Morgan: No. We've sent about 12 letters asking for help on border cases and had only acknowledgements, no substantive disclosure.\nSir Declan Morgan: The difficulty is legal and political: the UK protects national security material tightly and Ireland has similar concerns, so you need a political agreement between governments.\nAdam Jogee: Kenova worked with An Garda Síochána—why can’t the ICRIR get similar co-operation?\nSir Declan Morgan: Kenova was a PSNI criminal investigation. ICRIR is not a law enforcement body, so it cannot issue ILRs; only the Public Prosecution Service can do that for criminal probes.\nChair: You said 11 requests to the Garda covered 31 deaths—did any produce material?\nSir Declan Morgan: No substantive material so far. The Garda told us politically they aren't in a position to provide it before both jurisdictions have passed matching legislation.\nChair: How many cases are affected by that lack of co-operation?\nSir Declan Morgan: About 500 deaths along the border involve people and groups who say they won't engage unless Irish material can be secured—Warrenpoint, for example, was detonated from the Republic.\n\n\n## Legal design of the Bill raises practical and political questions\n> The Bill creates new powers and oversight, but features like Attorney General consent and national security redactions could be contentious and need careful handling.\n\nMr Kohler: The Bill requires Attorney General consent to serious prosecutions—what do you make of that?\nSir Declan Morgan: Legally it should produce the same result as the PPS, but some will see it as political. Judicial review is always possible, so this is partly a political judgment.\nMr Kohler: Would that clause threaten co-operation with Ireland?\nSir Declan Morgan: It could be one of several sticking points. I hope both governments will be 'grown up' and trade concessions where needed to aid victims and families.\nSir Alec Shelbrooke: The Bill wants to avoid needless duplication of past investigations—how will you decide when to re-interview people?\nSir Declan Morgan: If there's already a detailed statement from an earlier inquiry, it should be the starting point. You'd only re-interview if there is new material or a central player wasn't previously questioned.\nSir Alec Shelbrooke: The Secretary of State can block disclosure for national security—any safeguards you'd like?\nSir Declan Morgan: We welcome the commission's power to appeal the Secretary of State's national security decisions; being able to challenge those determinations should boost public confidence.\nSimon Hoare: Some fear 'national security' gets used to hide embarrassing facts—do you think the appeal power will curb that?\nSir Declan Morgan: Yes. We will see the material and can take a view; if we suspect misuse we'd be able to take it to a tribunal, which should discourage improper blanket claims.\n\n\n## Workload, staffing and funding are urgent problems\n> ICRIR is operating with far fewer investigators than it needs, has a large pipeline of cases, and has submitted a major business case for more money; failure to fund risks many expensive public inquiries.\n\nChair: Amanda, you asked for amendments so originators don't have to tag sensitivity—what burden would that remove?\nAmanda Logan: Currently agencies mark material 'Legacy Act sensitive' when they send it; if the commission had to decide all tags we'd face extra workload and would need close partnership with originators anyway.\nAmanda Logan: We need many more investigators. An independent panel advised around nine syndicates (about 58 investigators each) reduced to seven with AI—over 400 staff. We currently have 189 operational staff.\nRonnie Armour: We submitted a business case in summer seeking £628 million total—this includes the existing £232 million and the costs of inquisitorial proceedings and scaling up staff.\nChair: How much has the commission spent so far and is it value for money?\nRonnie Armour: By end of 2025-26 we drew down just over £77m and actual spend is about £64–65m, so there’s an underspend largely explained by accounting matters; value judgment depends on delivering outcomes.\nChair: What if the business case is refused—do you have contingency plans?\nRonnie Armour: We are planning for the next year with the funds we know about—roughly £150–160m left—but not getting the extra funding would significantly reduce our capacity to deliver.\nSir Declan Morgan: We currently have around 159 investigations in eligibility and another 57 waiting—over 200 investigations covering 293 deaths and 310 requestors, with some very resource-heavy cases like Guildford and Warrenpoint.\nSir Declan Morgan: If we cannot resource this properly, families will push for public inquiries, which are far costlier and slower—so underfunding risks a big political and fiscal problem later.\nMr Kohler: Do you have an estimate of total investigations you expect?\nSir Declan Morgan: Our central estimate is about 650 investigations over the workplan, aiming for nearly 80–90 outcomes per year once scaled up; we target a flow of cases to produce a steady output.\n\n\n## Implementing Peter May recommendations and internal culture\n> Most of the 19 recommendations from the Peter May review are done; three remain active and the commission has strengthened governance, finance and staff engagement but cultural work continues.\n\nMr Kohler: Where are you on implementing the 19 Peter May recommendations?\nSir Declan Morgan: I met Peter May regularly while we implemented the report; we’ve moved into business-as-usual sponsorship on remaining items.\nRonnie Armour: Only three recommendations remain active. We've set up a finance committee with an independent chair, strengthened governance and sponsorship with the NIO, and improved staff relations.\nRonnie Armour: The remaining work includes clarifying line management roles, a formal lessons-learned programme to run once more cases reach reporting stage, and deeper AME budgeting understanding.\nMr Kohler: How are you assessing cultural change inside the commission?\nRonnie Armour: We've run a staff pulse survey showing commitment but concerns about internal communication and leadership cohesion; we've engaged an organisational consultant and formal industrial relations with PCS.\nChair: Do you still meet Peter May?\nSir Declan Morgan: Regular meetings have stopped; we now meet him at public events. He was an external contractor rather than a standing member of the commission.\n\n\n## Reports and family engagement shape public confidence\n> The commission emphasises personal engagement with families, sometimes sharing more detail privately than in published reports, and believes early positive reports build trust, but publication timing and sensitivities are tricky.\n\nChris Bloore: The first report in September moved families—how will you persuade other families and campaigns, like Birmingham, to trust ICRIR rather than demand public inquiries?\nSir Declan Morgan: You must recognise families often feel mistreated by past processes. As we publish credible outcomes and engage personally with families, confidence will grow; having more linked cases can also help.\nChair: Do families get more detail in private than appears in the public report?\nSir Declan Morgan: Yes. We discuss findings with requestors throughout the investigation and sometimes share details not in the published report, while protecting genuinely sensitive material and avoiding risk to families.\nChris Bloore: Some critics say reports just re-review existing material without new lines of investigation—do you accept that?\nSir Declan Morgan: In some cases we won't find new material and we must be honest about that; but it still matters that families can see every stone has been turned and that an independent, rigorous process was applied.\nChair: Publication delays: you had two cases spending two months at the Secretary of State’s office for security checking—can that be faster?\nSir Declan Morgan: Ideally, agencies would respond quicker so the Secretary of State need not use the full 60-day period. We hope the process will be streamlined, but national security checks can be slow.\nChair: One final point: some families fear publication because they live locally—how do you address that?\nSir Declan Morgan: We must be family-centred: tailor reports, protect identities where necessary, and avoid placing families at risk while still giving truthful outcomes. That balance is central to our approach.\n",
   "inquiry": "The Northern Ireland Troubles Bill: Follow-up",
   "glossary": [
     {
+      "term": "ICRIR",
+      "definition": "Independent Commission for Reconciliation and Information Recovery, the body conducting legacy investigations in Northern Ireland."
+    },
+    {
+      "term": "Legacy Commission",
+      "definition": "The successor body envisaged once the Troubles Bill is passed in both the UK and Ireland."
+    },
+    {
+      "term": "Garda",
+      "definition": "An Garda Síochána, the police service of the Republic of Ireland."
+    },
+    {
       "term": "ILR",
-      "definition": "International Letter of Request: a formal request sent by prosecutors for evidence or help from another country."
+      "definition": "International Letter of Request—formal legal requests between states for evidence or witness cooperation."
+    },
+    {
+      "term": "PSNI",
+      "definition": "Police Service of Northern Ireland."
+    },
+    {
+      "term": "Public Prosecution Service",
+      "definition": "The Northern Ireland prosecuting authority that issues formal requests like ILRs and decides on prosecutions."
+    },
+    {
+      "term": "Secretary of State",
+      "definition": "The UK Government minister with powers under the Bill to review and withhold sensitive material on national security grounds."
     },
     {
       "term": "inquisitorial proceedings",
-      "definition": "Hearings focused on establishing facts led by an independent official, not by opposing lawyers."
-    },
-    {
-      "term": "Section 4",
-      "definition": "A legal reference used in discussion of whether particular material should be withheld or handled specially."
+      "definition": "Hearings led by an investigating body to establish facts, rather than adversarial courtroom trials."
     },
     {
       "term": "AME",
-      "definition": "Annually Managed Expenditure: a public spending category that can affect budgeting and headroom for organisations."
-    },
-    {
-      "term": "Legacy Act sensitive",
-      "definition": "A tag used for material identified as sensitive under the Legacy Act processes."
+      "definition": "Annually Managed Expenditure, a Treasury budgeting category used here for the commission’s unusual funding profile."
     }
   ]
 });

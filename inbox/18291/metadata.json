@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18291,
+  "activity_id": 39449,
+  "document_id": 313834,
+  "meeting_date": "",
+  "meeting_date_display": "",
+  "publication_date": "2026-11-16T10:52:18",
+  "title": "Regulatory sandboxes in financial services",
+  "committee": "Financial Services Regulation Committee",
+  "committees": [
+    {
+      "id": 697,
+      "name": "Financial Services Regulation Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10006,
+      "title": "Regulatory sandboxes in financial services",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Michael Moore",
+      "role": "CEO",
+      "organisation": "UK Private Capital"
+    },
+    {
+      "name": "Andrew Henderson",
+      "role": "Partner",
+      "organisation": "Goodwin"
+    },
+    {
+      "name": "Leo Ringer",
+      "role": "Co-Founder and Partner",
+      "organisation": "Form Ventures"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Leo Ringer",
+    "Michael Moore",
+    "Dr Andrew Henderson",
+    "Lord Eatwell",
+    "Lord Hollick",
+    "Lord Lilley",
+    "Lord Turnbull",
+    "Lord Griffiths of Fforestfach",
+    "Lord Davies of Brixton",
+    "Lord Hill of Oareford",
+    "Baroness Donaghy",
+    "The third is probably even harder than knowing whether the rules are deficient",
+    "Lord Smith of Kelvin"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18291/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18291",
+  "source_sha256": "274039242d608ef922185d080d405db354967f473f0a6bab1015317b1d54a575",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}
