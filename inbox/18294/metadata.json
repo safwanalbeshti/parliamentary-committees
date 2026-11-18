@@ -2,7 +2,7 @@
   "schema_version": 1,
   "parliament_oral_evidence_id": 18294,
   "activity_id": 39477,
-  "document_id": 313909,
+  "document_id": 315171,
   "meeting_date": "2026-11-11",
   "meeting_date_display": "11 November 2026",
   "publication_date": "2026-11-16T11:31:08",
@@ -60,11 +60,11 @@
     "Lord Waldegrave of North Hill",
     "Lord Jones of Penybont"
   ],
-  "transcript_status": "uncorrected",
+  "transcript_status": "corrected",
   "source_url": "https://committees.parliament.uk/oralevidence/18294/html/",
   "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18294",
-  "source_sha256": "f878ecee08828c2a61f1b1271bdad14bfd1a01eff49c684c2744f7478b4178e9",
+  "source_sha256": "303d88ca77899edbee22359b490035574fb12a3aa23fe8dda4715dcd796fda91",
   "licence": "Open Parliament Licence v3.0",
-  "packet_status": "awaiting-condensation",
+  "packet_status": "source-updated-needs-review",
   "source_document_format": "Html"
 }

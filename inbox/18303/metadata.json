@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18303,
+  "activity_id": 39278,
+  "document_id": 315159,
+  "meeting_date": "2026-11-12",
+  "meeting_date_display": "12 November 2026",
+  "publication_date": "2026-11-17T10:16:04",
+  "title": "Draft Finance Bill 2026–27",
+  "committee": "Finance Bill Sub-Committee",
+  "committees": [
+    {
+      "id": 230,
+      "name": "Finance Bill Sub-Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10007,
+      "title": "Draft Finance Bill 2026–27",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Founder & Spokesperson",
+      "organisation": "Retailers against VAT Abuse Schemes"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Technical Director",
+      "organisation": "Chartered Institute of Export & International Trade"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Richard Allen",
+    "Anna Doherty",
+    "Lord Leigh of Hurley",
+    "Baroness Wheatcroft",
+    "Lord Carrington of Fulham",
+    "Baroness Bi",
+    "Lord Newby",
+    "Richard called it out"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18303/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18303",
+  "source_sha256": "9e688a9bb77a66f253dc831ccee7903ea117206f989bea1da794316c6814797a",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

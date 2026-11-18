@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18305,
+  "activity_id": 39005,
+  "document_id": 315161,
+  "meeting_date": "2026-11-11",
+  "meeting_date_display": "11 November 2026",
+  "publication_date": "2026-11-17T10:27:05",
+  "title": "Cross-border healthcare arrangements between England and Wales",
+  "committee": "Welsh Affairs Committee",
+  "committees": [
+    {
+      "id": 162,
+      "name": "Welsh Affairs Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9595,
+      "title": "Cross-border healthcare arrangements between England and Wales",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Roz Lindridge",
+      "role": "Regional Director of Commissioning Integration (Midlands)",
+      "organisation": "NHS England"
+    },
+    {
+      "name": "Simon Evans",
+      "role": "Regional Chief Operating Officer (Midlands)",
+      "organisation": "NHS England"
+    },
+    {
+      "name": "Ian Townend",
+      "role": "Deputy Chief Technology Officer",
+      "organisation": "NHS England"
+    },
+    {
+      "name": "Caroline Smith",
+      "role": "Head of Insights & Engagement",
+      "organisation": "NHS Gloucestershire and NHS Bristol, North Somerset and South Gloucestershire ICBs"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Roz Lindridge",
+    "Simon Evans",
+    "Caroline Smith",
+    "Ian Townend",
+    "Henry Tufnell",
+    "Steve Witherden",
+    "David Chadwick",
+    "Andrew Ranger",
+    "Ann Davies",
+    "Gerald Jones"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18305/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18305",
+  "source_sha256": "a9a5619f0cf6aeffe013385bfa95f73db4e7e022345f1fdb928075e8c929db9f",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}
