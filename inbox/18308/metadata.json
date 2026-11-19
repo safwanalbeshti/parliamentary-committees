@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18308,
+  "activity_id": 39361,
+  "document_id": 315227,
+  "meeting_date": "2026-11-16",
+  "meeting_date_display": "16 November 2026",
+  "publication_date": "2026-11-18T11:19:15",
+  "title": "Integrated Care Boards: re-organisation",
+  "committee": "Public Accounts Committee",
+  "committees": [
+    {
+      "id": 127,
+      "name": "Public Accounts Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9908,
+      "title": "Integrated Care Boards: re-organisation",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Permanent Secretary",
+      "organisation": "Department of Health and Social Care"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Interim Director General, Finance",
+      "organisation": "Department of Health and Social Care"
+    },
+    {
+      "name": "Sir Jim Mackey",
+      "role": "Chief Executive Officer",
+      "organisation": "NHS England"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Executive Director for System Development",
+      "organisation": "NHS England"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Samantha Jones",
+    "Sir Jim Mackey",
+    "Jan Thomas",
+    "Elizabeth O’Mahony",
+    "Anna Dixon",
+    "Rachel Gilmour",
+    "Mr Betts",
+    "Al Carns",
+    "Elizabeth O'Mahony",
+    "Tristan Osborne",
+    "Matt Turmaine"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18308/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18308",
+  "source_sha256": "dd67843a8f60c18052f46310373a82c3320522a28f52a6d41c3d02f230083440",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

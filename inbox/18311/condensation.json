@@ -1,0 +1,340 @@
+{
+  "schema_version": 1,
+  "source_id": 18311,
+  "source_sha256": "434e29f7cc4e9a5f80c4130c048d205391032ef8ac4baf3209094a0fdded8c4e",
+  "title": "Space resilience: what happens when satellites fail?",
+  "label": "16 November 2026 · Space resilience",
+  "summary": "The committee examined how disruption to satellite services could affect shipping, communications and other essential services, and whether the UK is prepared for failures that spread across sectors. Witnesses highlighted poorly understood dependence on satellite signals, space debris, gaps in government coordination and the value of working with allies. They also stressed that large satellite networks can improve resilience but aren't a complete answer, and that the UK could do more to support its space businesses.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Matt Western",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Katie Barnes",
+      "name": "Katie Barnes",
+      "role": "Executive Director, National Preparedness Commission",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Adam Bower",
+      "name": "Dr Adam Bower",
+      "role": "Senior Lecturer in International Relations, University of St Andrews, and Fellow, Outer Space Institute",
+      "kind": "witness"
+    },
+    {
+      "label": "Lee Willcox-Jones",
+      "name": "Lee Willcox-Jones",
+      "role": "Senior Business Development Manager for Defence, Government and the Public Sector, Satellite Applications Catapult",
+      "kind": "witness"
+    },
+    {
+      "label": "Baroness Kidron",
+      "name": "Baroness Kidron",
+      "role": "Member of the Joint Committee on the National Security Strategy",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Arbuthnot of Edrom",
+      "name": "Lord Arbuthnot of Edrom",
+      "role": "Member of the Joint Committee on the National Security Strategy",
+      "kind": "member"
+    },
+    {
+      "label": "Catherine Atkinson",
+      "name": "Catherine Atkinson",
+      "role": "Member of the Joint Committee on the National Security Strategy",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Tyler of Enfield",
+      "name": "Baroness Tyler of Enfield",
+      "role": "Member of the Joint Committee on the National Security Strategy",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Tunnicliffe",
+      "name": "Lord Tunnicliffe",
+      "role": "Member of the Joint Committee on the National Security Strategy",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "PNT",
+      "definition": "Positioning, navigation and timing: satellite signals help people and systems work out where they are, where they are going and what time it is."
+    },
+    {
+      "term": "constellation",
+      "definition": "A group of satellites working together to provide a service, such as communications or navigation."
+    },
+    {
+      "term": "low Earth orbit",
+      "definition": "An orbit relatively close to Earth, where many satellites operate."
+    },
+    {
+      "term": "space traffic management",
+      "definition": "Ways of tracking and coordinating satellites to reduce collisions and other hazards in orbit."
+    },
+    {
+      "term": "anti-satellite weapons",
+      "definition": "Weapons designed to damage or destroy satellites."
+    },
+    {
+      "term": "active debris removal",
+      "definition": "Using spacecraft to capture and remove dangerous objects from orbit."
+    },
+    {
+      "term": "dual-use",
+      "definition": "Capable of being used for both peaceful purposes and military or hostile ones."
+    },
+    {
+      "term": "anchor customer",
+      "definition": "A large, dependable buyer whose orders help a business develop and grow."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "How satellite disruption could affect everyday services",
+      "takeaway": "A loss of satellite signals could spread beyond space services and disrupt essential systems on Earth.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "What are the main risks if satellite services are disrupted?"
+        },
+        {
+          "speaker": "Lee Willcox-Jones",
+          "text": "We should look at what satellite services do for people and businesses on Earth, not just at satellites themselves. That means considering satellites, ground stations and user equipment, and how they connect. We also need to know what non-satellite systems could back them up."
+        },
+        {
+          "speaker": "Lee Willcox-Jones",
+          "text": "My biggest concern is a failure spreading across several sectors, especially if it lasts. Positioning, navigation and timing (PNT) signals are a particular concern: jamming blocks them, while spoofing sends false ones. These methods are already common in active conflicts."
+        },
+        {
+          "speaker": "Lee Willcox-Jones",
+          "text": "Ships rely on GPS not only to navigate, but also for communications and other onboard systems. In October, the Maritime and Coastguard Agency advised ports and shippers to consider how they would operate without it. Simply switching to paper charts wouldn't maintain the same efficiency."
+        },
+        {
+          "speaker": "Lee Willcox-Jones",
+          "text": "In June 2026, 970 ships a day were being jammed in the Strait of Hormuz, and similar activity has been reported around the Baltic. We need to practise operating when signals are jammed or misleading, so we can find out whether our backup plans work."
+        },
+        {
+          "speaker": "Chair",
+          "text": "We've heard that satellite services underpin 18% of the UK economy. Is that typical of a developed country?"
+        },
+        {
+          "speaker": "Lee Willcox-Jones",
+          "text": "I don't have comparative figures to confirm that. I can ask colleagues and provide information to the committee."
+        },
+        {
+          "speaker": "Katie Barnes",
+          "text": "I don't have comparative economic figures either. At a discussion after a 2023 report, the national PNT office said the US and other countries were looking at reducing reliance on satellite navigation in some government departments and critical systems. I don't know how the UK compares economically."
+        },
+        {
+          "speaker": "Katie Barnes",
+          "text": "I see two sides to the problem. Satellite communications can be an emergency backup when ordinary phone and internet services fail. At the same time, satellite signals are built into a huge number of everyday services, especially timing systems."
+        },
+        {
+          "speaker": "Katie Barnes",
+          "text": "We may not know where all those signals are used or have plans for when they fail. Some systems act automatically when a signal arrives, without checking whether it's trustworthy. That's especially worrying for safety-critical systems such as automated vehicles and rail controls."
+        },
+        {
+          "speaker": "Dr Adam Bower",
+          "text": "More satellites can help: a network with many satellites is less dependent on any single one. But that doesn't remove the risk of debris in orbit, which I think is greater than people often realise."
+        },
+        {
+          "speaker": "Dr Adam Bower",
+          "text": "Satellites in a large constellation may be spread out, but they're often concentrated in particular orbital paths and heights. Taken together, their panels and equipment present a much bigger target for debris than each small satellite does on its own."
+        },
+        {
+          "speaker": "Dr Adam Bower",
+          "text": "There isn't an equivalent of air traffic control for space. Operators have to manage the risk themselves, even as the number of satellites and pieces of debris grows."
+        }
+      ]
+    },
+    {
+      "title": "Who should coordinate resilience in government?",
+      "takeaway": "Witnesses said government needs a clearer, more joined-up way to understand how satellite services support many sectors.",
+      "turns": [
+        {
+          "speaker": "Baroness Kidron",
+          "text": "Does the space strategy do enough to prepare civilian services for disruption?"
+        },
+        {
+          "speaker": "Katie Barnes",
+          "text": "The strategy is mainly about growing the sector and encouraging participation. It doesn't say much about resilience, and defence seems to be the main stakeholder considered from that perspective."
+        },
+        {
+          "speaker": "Lee Willcox-Jones",
+          "text": "The direction of the space strategies is good, particularly the effort to bring government departments together. But resilience mustn't fall between departments as those plans are put into practice."
+        },
+        {
+          "speaker": "Baroness Kidron",
+          "text": "Do organisations that run essential services understand how much they rely on satellites, even indirectly?"
+        },
+        {
+          "speaker": "Katie Barnes",
+          "text": "Probably not enough. Satellite services support many critical sectors, so their importance isn't captured by looking at each sector in isolation. I don't know whether the government's information systems map these satellite dependencies or show how services could keep running if one failed."
+        },
+        {
+          "speaker": "Katie Barnes",
+          "text": "Responsibility is spread across different organisations, and I don't see a clear place where the whole picture comes together. Satellite resilience barely features in the government's resilience action plan."
+        },
+        {
+          "speaker": "Baroness Kidron",
+          "text": "Where should that responsibility sit?"
+        },
+        {
+          "speaker": "Katie Barnes",
+          "text": "I think national resilience needs a higher, unified place in government. A House of Lords report published today proposed a Cabinet-level minister responsible for resilience, with a preparedness lead in every department to turn that direction into action."
+        },
+        {
+          "speaker": "Katie Barnes",
+          "text": "The government often starts from a list of known risks. But satellite services support many essential functions, and that dependence may not show up on the list. We should also ask what would happen if a service disappeared, not only what would happen if a particular listed risk occurred."
+        },
+        {
+          "speaker": "Baroness Kidron",
+          "text": "Is enough being done with local authorities and community groups to understand and practise for severe disruption?"
+        },
+        {
+          "speaker": "Katie Barnes",
+          "text": "I don't know what has been done on this specific issue. More generally, people often don't know which services use satellites or where to find advice. The Royal Institute of Navigation has useful guidance, but someone would probably have to know to search for PNT resilience before finding it."
+        },
+        {
+          "speaker": "Lee Willcox-Jones",
+          "text": "The national PNT office is a useful example of departments working together. Each department still owns its own risks, but the office coordinates ways to reduce them, including actions that can benefit several departments. I'm not saying every technology needs its own office, but this model shows what coordination can look like."
+        },
+        {
+          "speaker": "Lord Arbuthnot of Edrom",
+          "text": "How well does industry understand failures spreading between sectors, and does it recognise the value of practising for them?"
+        },
+        {
+          "speaker": "Lee Willcox-Jones",
+          "text": "I don't have evidence about how industry as a whole sees this. But resilience changes over time, so exercises are a powerful way to test how well organisations can respond and recover, and to improve their plans."
+        },
+        {
+          "speaker": "Catherine Atkinson",
+          "text": "Are the current government arrangements adequate for dealing with disruption to satellite services?"
+        },
+        {
+          "speaker": "Katie Barnes",
+          "text": "Not from a resilience perspective. Departments take responsibility for individual risks and sectors, but satellite services are used across many of them. What's missing is a reliable way to plan together before a disruption, not just coordinate a response afterwards."
+        },
+        {
+          "speaker": "Baroness Tyler of Enfield",
+          "text": "Should the government set up a Cabinet group specifically for space, as the strategic defence review suggested?"
+        },
+        {
+          "speaker": "Katie Barnes",
+          "text": "A space group could bring together competing interests and make trade-offs clearer. But if we create one for space, we should ask whether other services that many sectors depend on also need this kind of attention. Civilian needs for satellite services aren't represented as clearly as defence needs in the current strategy."
+        },
+        {
+          "speaker": "Lee Willcox-Jones",
+          "text": "Some central coordination is important, and it should focus on the services space supports on Earth as well as space itself. A National Audit Office review in March found confusion between departments and no agreed resilience levels for space weather. That's an example of resilience slipping between responsibilities."
+        }
+      ]
+    },
+    {
+      "title": "Debris, large satellite networks and international rules",
+      "takeaway": "Large satellite networks can spread risk, but their growth also increases collision risks and raises the need for shared rules.",
+      "turns": [
+        {
+          "speaker": "Lord Arbuthnot of Edrom",
+          "text": "Could bonds help pay to clear space debris?"
+        },
+        {
+          "speaker": "Dr Adam Bower",
+          "text": "I'm not familiar with the specific bond proposal. Companies, including the UK-linked firm Astroscale, are developing ways to remove particularly dangerous large objects from orbit. Some debris could also be avoided if operators designed missions to bring rocket parts back rather than leave them in space."
+        },
+        {
+          "speaker": "Dr Adam Bower",
+          "text": "Financial incentives might help, but government contracts are currently supporting companies to develop and test removal technology. It's also a dual-use capability: a spacecraft able to capture debris could potentially be used to interfere with another country's satellite."
+        },
+        {
+          "speaker": "Catherine Atkinson",
+          "text": "Some say large numbers of satellites improve resilience, while you warn that they add collision risks. How do you reconcile those views?"
+        },
+        {
+          "speaker": "Dr Adam Bower",
+          "text": "It depends on what the service needs. A system such as Starlink, which had more than 12,000 satellites in orbit by my last count, has a reason to be very large if it aims to provide internet around the world. But many communications or monitoring tasks might work with far fewer."
+        },
+        {
+          "speaker": "Dr Adam Bower",
+          "text": "The concern isn't a particular number by itself. It's rapid growth and the concentration of more and more satellites in large systems. Governments should ask how many are actually needed for each task; changing satellite orbits may also help limit growth."
+        },
+        {
+          "speaker": "Dr Adam Bower",
+          "text": "Four countries have deliberately destroyed one of their own satellites since 2007. An adversary could do that without directly attacking another country, but the resulting debris could damage other operators' satellites. Or debris could be created as part of a direct attack."
+        },
+        {
+          "speaker": "Catherine Atkinson",
+          "text": "The international space rules are old and fragmented. What does that mean for the UK's resilience?"
+        },
+        {
+          "speaker": "Dr Adam Bower",
+          "text": "The main treaties were written before today's large number of commercial operators existed. There are also few agreed rules for military activity in space, even though military action can create debris that damages civilian services."
+        },
+        {
+          "speaker": "Dr Adam Bower",
+          "text": "There may still be common ground. Debris threatens commercial, civilian and military operators, including the US and China, so countries have a shared interest in limiting it. The UK has helped lead discussions about responsible behaviour, including a proposed ban on tests of weapons that create debris."
+        },
+        {
+          "speaker": "Dr Adam Bower",
+          "text": "There isn't a formal ban yet. The US voluntarily stopped such tests in 2022, and the UK and others have said they would do the same. It's a limited area where countries might cooperate despite broader disagreements."
+        }
+      ]
+    },
+    {
+      "title": "Allies and the UK space industry",
+      "takeaway": "International partnerships offer extra capability but create dependencies, while witnesses saw room for more ambitious UK support for businesses.",
+      "turns": [
+        {
+          "speaker": "Lord Tunnicliffe",
+          "text": "How much does resilience depend on international cooperation, and what if that cooperation breaks down?"
+        },
+        {
+          "speaker": "Lee Willcox-Jones",
+          "text": "Working with allies gives us access to more capabilities. If equipment on the ground can use different satellite networks and providers, one service can replace another when it is disrupted. But we need to understand those dependencies and make sure there are secure alternatives."
+        },
+        {
+          "speaker": "Lee Willcox-Jones",
+          "text": "A strong UK space industry and skilled workforce also help. UK companies can develop useful capabilities for allies, and partners can help us in return. Working together adds resilience, though we need to know what we rely on."
+        },
+        {
+          "speaker": "Katie Barnes",
+          "text": "Partnerships can be a relatively low-cost way to increase capability when interests are aligned. But if those interests diverge, maintaining the relationship and our place in it may take more effort. Partnerships bring benefits, but also dependencies and risks."
+        },
+        {
+          "speaker": "Chair",
+          "text": "How well does the government support UK satellite businesses, and what more could it do?"
+        },
+        {
+          "speaker": "Lee Willcox-Jones",
+          "text": "There are good support programmes, and the Catapult helps promising businesses develop and grow. But the different forms of support could work better together. The government unit supporting the AI sector is an example: it brings together funding, computing access, help with visas and other support."
+        },
+        {
+          "speaker": "Lee Willcox-Jones",
+          "text": "For space, that could mean bringing together access to skilled people and investment, business advice, grants, test facilities and regulators. The government could also make long-term purchases, becoming a dependable early customer for UK companies."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Could the government do more to help start-ups and growing firms get the money they need?"
+        },
+        {
+          "speaker": "Lee Willcox-Jones",
+          "text": "There's always more that could be done, although the government already has useful ways to support the sector."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Germany is reportedly investing much more. Should the UK show greater ambition?"
+        },
+        {
+          "speaker": "Lee Willcox-Jones",
+          "text": "Yes, the UK could be more ambitious in some key areas. I don't have figures to compare the UK and Germany directly, but I can provide written evidence on the comparison."
+        }
+      ]
+    }
+  ]
+}

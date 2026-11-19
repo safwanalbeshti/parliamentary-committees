@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18310,
+  "activity_id": 39550,
+  "document_id": 315235,
+  "meeting_date": "",
+  "meeting_date_display": "",
+  "publication_date": "2026-11-18T11:58:30",
+  "title": "Draft Conversion Practices Bill",
+  "committee": "Draft Conversion Practices Bill (Joint Committee)",
+  "committees": [
+    {
+      "id": 851,
+      "name": "Draft Conversion Practices Bill (Joint Committee)",
+      "house": "Joint"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10049,
+      "title": "Draft Conversion Practices Bill",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Dr Arun Chopra",
+      "role": "Chief Inspector of Mental Health",
+      "organisation": "Care Quality Commission (CQC)"
+    },
+    {
+      "name": "Andrew Smith",
+      "role": "Deputy Chief Executive",
+      "organisation": "Health and Care Professions Council"
+    },
+    {
+      "name": "Mark Swindells",
+      "role": "Assistant Director for Standards and Ethics",
+      "organisation": "General Medical Council (GMC)"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Baroness Cass",
+    "Professor Leng",
+    "Lord Isaac",
+    "Baroness Brown of Silvertown",
+    "Baroness Browning",
+    "Olivia Bailey",
+    "Baroness Prentis of Banbury",
+    "Danny Beales",
+    "Naz Shah",
+    "Sir Jeremy Wright",
+    "Lord Scriven",
+    "Mark Swindells",
+    "Dr Chopra",
+    "Andrew Smith"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18310/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18310",
+  "source_sha256": "8fcb46f89e7a81fdb5006d3c6a8928dbebae014b45c76edbe187412955f50b82",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

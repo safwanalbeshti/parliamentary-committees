@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18314,
+  "activity_id": 39571,
+  "document_id": 315261,
+  "meeting_date": "2026-11-17",
+  "meeting_date_display": "17 November 2026",
+  "publication_date": "2026-11-18T14:34:50",
+  "title": "FCDO Annual Report and Accounts 2025-26",
+  "committee": "International Development Committee",
+  "committees": [
+    {
+      "id": 98,
+      "name": "International Development Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10045,
+      "title": "FCDO Annual Report and Accounts 2025-26",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Permanent Under-Secretary",
+      "organisation": "Foreign, Commonwealth & Development Office"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Second Permanent Under-Secretary",
+      "organisation": "Foreign, Commonwealth & Development Office"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Finance Director",
+      "organisation": "Foreign, Commonwealth & Development Office"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Lindy Cameron",
+    "Nick Dyer",
+    "Tim Jones",
+    "Tracy Gilbert",
+    "Monica Harding",
+    "Brian Mathew",
+    "Tulip Siddiq",
+    "Dr Rushworth",
+    "James Naish",
+    "The question there is"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18314/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18314",
+  "source_sha256": "aeb2b55285ba4f7219867c69fcb10d68204d0c324334c622a2e7aa0aac8c5341",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

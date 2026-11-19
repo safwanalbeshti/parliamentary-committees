@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18315,
+  "activity_id": 38577,
+  "document_id": 315290,
+  "meeting_date": "2026-11-18",
+  "meeting_date_display": "18 November 2026",
+  "publication_date": "2026-11-18T15:49:15",
+  "title": "The dual role of the Lord Advocate",
+  "committee": "Scottish Affairs Committee",
+  "committees": [
+    {
+      "id": 136,
+      "name": "Scottish Affairs Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9993,
+      "title": "The dual role of the Lord Advocate",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Lord Mulholland",
+      "role": "Former Lord Advocate and former Solicitor General for Scotland",
+      "organisation": "Scottish Government"
+    }
+  ],
+  "speaker_candidates": [
+    "Witness",
+    "Chair",
+    "Lord Mulholland",
+    "Lillian Jones",
+    "Dave Doogan",
+    "Mr MacDonald",
+    "Douglas McAllister",
+    "Douglas Lumsden",
+    "I would go back to the referendum",
+    "As I see it, my duty as Lord Advocate was a dual one"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18315/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18315",
+  "source_sha256": "b9f4d2d04c9f4e5d4ef3a10c8bc6e5eaa30beed85708f62795ddda26885ecb32",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

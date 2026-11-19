@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18312,
+  "activity_id": 39607,
+  "document_id": 315240,
+  "meeting_date": "2026-11-16",
+  "meeting_date_display": "16 November 2026",
+  "publication_date": "2026-11-18T12:16:33",
+  "title": "Space resilience",
+  "committee": "National Security Strategy (Joint Committee)",
+  "committees": [
+    {
+      "id": 111,
+      "name": "National Security Strategy (Joint Committee)",
+      "house": "Joint"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9937,
+      "title": "Space resilience",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Dr Michelle Howard",
+      "role": "Defence and Space Policy Advisor at The D Group, and Head of Defence",
+      "organisation": "Space4Earth Capital"
+    },
+    {
+      "name": "Major General Paul Tedman",
+      "role": "Former Commander, UK Space Command, and Managing Director for European Space",
+      "organisation": "Anduril Industries"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Director, Policy and Public Affairs",
+      "organisation": "ADS Group"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Nathan Mathiot",
+    "Dr Michelle Howard",
+    "Major General Paul Tedman",
+    "Helen Maguire",
+    "Lord Sedwill",
+    "Lord Godson",
+    "Lord Watts"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18312/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18312",
+  "source_sha256": "4c5976afc5e660fdc349623df9da6784c9e69fe49b9428c8dce0491820206a81",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

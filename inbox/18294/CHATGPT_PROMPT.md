@@ -126,7 +126,7 @@ The JSON is checked automatically.
 ## Official metadata
 
 * Parliament oral-evidence ID: 18294
-* Required source hash: `303d88ca77899edbee22359b490035574fb12a3aa23fe8dda4715dcd796fda91`
+* Required source hash: `e160e7ff92cd33a9e86110c9571a607e303f6f8da6002639a76f46063e72d469`
 * Committee: Constitution Committee
 * Subject: The UK’s constitutional safeguards
 * Meeting date: 11 November 2026
@@ -170,7 +170,7 @@ Return exactly this structure:
 {
   "schema_version": 1,
   "source_id": 18294,
-  "source_sha256": "303d88ca77899edbee22359b490035574fb12a3aa23fe8dda4715dcd796fda91",
+  "source_sha256": "e160e7ff92cd33a9e86110c9571a607e303f6f8da6002639a76f46063e72d469",
   "title": "A concise, engaging title",
   "label": "11 November 2026 · A short picker label",
   "summary": "One paragraph explaining what the hearing covered and its main conclusion.",
