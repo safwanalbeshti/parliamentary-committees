@@ -1807,3 +1807,46 @@ body:has(.meeting-menu:not([hidden])) {
   outline: 3px solid #8cc4a6;
   outline-offset: 2px;
 }
+
+/* ---------- session header: keep the title readable at any width ---------- */
+
+/* The session picker's options are long ("date · every witness's name"), and a
+   <select> is as wide as its longest option — left alone it squeezed the title
+   into a narrow column. The title now takes the room; the picker truncates. */
+.header-copy {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.header-side {
+  flex: 0 1 auto;
+  min-width: 0;
+  max-width: 42%;
+}
+
+.session-picker {
+  min-width: 0;
+  max-width: 100%;
+}
+
+.session-picker select {
+  min-width: 0;
+  width: 100%;
+  max-width: 320px;
+  text-overflow: ellipsis;
+}
+
+@media (max-width: 720px) {
+  .header-side {
+    flex-wrap: wrap;
+    max-width: 100%;
+  }
+
+  .session-picker {
+    flex: 1 1 220px;
+  }
+
+  .session-picker select {
+    max-width: none;
+  }
+}
