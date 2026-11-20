@@ -1124,8 +1124,61 @@ h1 {
   padding: clamp(14px, 3vw, 40px) clamp(14px, 3vw, 32px) clamp(26px, 4vw, 52px);
 }
 
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* ---------- why this site exists ---------- */
+
+.home-why {
+  margin: 0 2px 34px;
+  color: var(--ink);
+  font-size: 1.02rem;
+  line-height: 1.6;
+}
+
+.home-why p {
+  margin: 0 0 12px;
+}
+
+.home-why ul {
+  margin: 0 0 16px;
+  padding-left: 1.3em;
+}
+
+.home-why li + li {
+  margin-top: 4px;
+}
+
+.home-why-link {
+  color: var(--accent-strong);
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.home-why-link:hover,
+.home-why-link:focus-visible {
+  color: var(--ink);
+}
+
+.home-heading {
+  margin: 0 2px 8px;
+  padding-top: 22px;
+  border-top: 1px solid var(--line);
+  color: var(--ink);
+  font-size: 1.5rem;
+  line-height: 1.2;
+}
+
 .home-intro {
-  /* An <h1> so the page keeps a heading; sized as body copy, not a title. */
+  /* Sized as body copy, not a title. */
   margin: 0 2px 14px;
   line-height: 1.45;
   color: var(--ink);

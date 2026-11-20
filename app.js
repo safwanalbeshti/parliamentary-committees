@@ -130,6 +130,7 @@ const el = {
   appMain: document.querySelector("main.app"),
   homePage: document.querySelector("#homePage"),
   homeBrowseLink: document.querySelector("#homeBrowseLink"),
+  homeIntroBrowseLink: document.querySelector("#homeIntroBrowseLink"),
   homeLink: document.querySelector("#homeLink"),
   meetingMenu: document.querySelector("#meetingMenu"),
   blockGrid: document.querySelector("#blockGrid"),
@@ -1149,10 +1150,12 @@ function populateSessionPicker() {
 
 function bindControls() {
   el.menuBtn.addEventListener("click", showMenu);
-  el.homeBrowseLink.addEventListener("click", (event) => {
-    event.preventDefault();
-    showMenu();
-  });
+  for (const link of [el.homeBrowseLink, el.homeIntroBrowseLink]) {
+    link.addEventListener("click", (event) => {
+      event.preventDefault();
+      showMenu();
+    });
+  }
   el.homeLink.addEventListener("click", (event) => {
     event.preventDefault();
     showHome();
