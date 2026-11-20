@@ -2,14 +2,14 @@
   "schema_version": 1,
   "source_id": 18076,
   "source_sha256": "7bbb07a5547acda7f229150fa0befc6d306c4cec3e7e88e7e85b045a3dcce18f",
-  "title": "ARIA’s mission: high-risk science, real-world impact",
-  "label": "8 September 2026 · ARIA overview and scrutiny",
-  "summary": "Dr Kathleen Fisher, ARIA’s CEO, explains how the agency picks high-risk, high-reward science projects, manages and measures them, and tries to turn breakthroughs into practical benefits for the UK—while discussing intellectual property, regional spread of funding, links with other funders, governance concerns and lessons from DARPA.",
+  "title": "Can ARIA turn bold science into benefits for Britain?",
+  "label": "8 September 2026 · ARIA's progress and challenges",
+  "summary": "The committee questioned Dr Kathleen Fisher, the new head of the Advanced Research and Invention Agency (ARIA), about its publicly funded, high-risk research. Fisher described promising early results and argued that even projects that miss their ultimate goals can produce useful discoveries and companies. Members pressed her on how ARIA judges failure, avoids duplicating other research, attracts talent and helps inventions become real products. The sharpest disagreements concerned whether discoveries funded in Britain will actually create jobs and wealth there, why funding remains concentrated in the south-east, and how conflicts of interest are handled. Fisher defended ARIA's approach while acknowledging that regional reach and the route from research to practical benefit still need work. She warned that truly transformative results may take decades.",
   "speakers": [
     {
       "label": "Chair",
       "name": "Lord Mair",
-      "role": "Chair of the committee",
+      "role": "Chair of the Science and Technology Committee",
       "kind": "chair"
     },
     {
@@ -33,6 +33,12 @@
     {
       "label": "Lord Winston",
       "name": "Lord Winston",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Patel",
+      "name": "Lord Patel",
       "role": "Committee member",
       "kind": "member"
     },
@@ -65,276 +71,394 @@
       "name": "Lord Stern of Brentford",
       "role": "Committee member",
       "kind": "member"
-    },
-    {
-      "label": "Lord Patel",
-      "name": "Lord Patel",
-      "role": "Committee member",
-      "kind": "member"
-    }
-  ],
-  "chapters": [
-    {
-      "title": "What ARIA is trying to do",
-      "takeaway": "ARIA backs very risky, ambitious science and measures success by breakthroughs, real-world impact, and changing how people think.",
-      "turns": [
-        {
-          "speaker": "Chair",
-          "text": "Welcome, Dr Fisher. You became ARIA CEO in February. Tell us briefly your top priorities and how you’ll steer ARIA as it grows."
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "Thanks. ARIA is meant to fund high‑risk, high‑reward projects — the sort of work that could change whole fields. My priorities are getting ARIA to steady state: hiring programme leaders, running programmes well and translating discoveries into benefits for people and the economy."
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "We judge success three ways: big scientific breakthroughs, real societal or economic impact, and shifting mindset — getting people excited about shaping the future rather than just reacting to it."
-        }
-      ]
-    },
-    {
-      "title": "Concrete projects and how they work",
-      "takeaway": "ARIA funds focused programmes that combine science teams, engineering partners and outside help to remove barriers and speed progress.",
-      "turns": [
-        {
-          "speaker": "Chair",
-          "text": "Can you give a few programmes that show how ARIA works in practice?"
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "Sure. Forecasting tipping points is one. It looks for early warnings of big climate shifts, for example changes in the Atlantic ocean currents or Greenland ice melt."
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "One creator company, Oshen in Plymouth, builds small solar/wind-powered sea robots — ‘sea stars’ — to gather ocean data cheaply instead of using expensive ships. They’ve gone from one to five robots and plan fifty in a year."
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "Those robots even rode out Hurricane Humberto and returned useful data. That’s an example of progress even if the programme’s ultimate 'North Star' goal still takes time."
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "Another example: activation partners. These are companies ARIA contracts to provide routine specialised help — like bespoke engineering — so scientists don’t spend months finding and paying for engineers."
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "Amod0 Design in Sheffield built batteries that operate at −50°C in just three months, a job that could’ve taken a year and a half through normal grant routes. That benefits multiple projects at once."
-        }
-      ]
-    },
-    {
-      "title": "How ARIA manages and judges projects",
-      "takeaway": "Programmes set goals and milestones, get frequent director oversight, outside expert review, and can pivot or stop quickly if things aren’t working.",
-      "turns": [
-        {
-          "speaker": "Baroness Willis of Summertown",
-          "text": "How do you track progress across so many different, risky projects? Three years can feel short for real research."
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "We set programme-specific milestones up front. Programme directors meet creators quarterly, use simple red/amber/green checks, and report annually with outside scientific and translation reviewers."
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "Crucially, funding stops by default. If a project looks promising we deliberately decide to extend or add resources; if not, we terminate. That avoids automatic roll‑on funding."
-        },
-        {
-          "speaker": "Lord Duncan of Springbank",
-          "text": "If a project can’t reach its original goal but produces useful work, can you re‑direct it?"
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "Yes. Programme directors constantly discuss pivots with teams. We’re also writing contracts to be more flexible so pivots don’t mean slow, costly redrafts."
-        },
-        {
-          "speaker": "Lord Winston",
-          "text": "What do you look for in programme directors, since they carry a lot of discretion?"
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "We want people with technical depth, cross-discipline breadth, judgement, entrepreneurial drive, communication and leadership. They must learn fast and accept feedback — they’re term‑limited, so speed matters."
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "We hire directors in cohorts so we get balance — academics and people from industry — and they support each other as a class."
-        }
-      ]
-    },
-    {
-      "title": "Translation, UK benefit and intellectual property",
-      "takeaway": "ARIA focuses on turning science into social and economic value, prefers creators to keep IP to ease company formation, and works to keep value in the UK while prioritising getting innovations to market.",
-      "turns": [
-        {
-          "speaker": "Lord Drayson",
-          "text": "ARIA must bring economic benefit specifically to the UK. How do you ensure discoveries and companies stay and create UK jobs and wealth?"
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "We prioritise crossing the 'valley of death' — getting tech from lab to real users. We hired a chief translation officer to plan market routes, work with entrepreneurs and coordinate government where useful."
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "We generally let creators keep intellectual property (IP). That makes it easier for them to form companies and attract investors quickly, which improves survival chances — and most creators are UK‑based."
-        },
-        {
-          "speaker": "Lord Drayson",
-          "text": "But should ARIA prefer UK investors so the value stays here?"
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "We want companies to stay in the UK. If UK investors step up great; if not, a capable foreign investor who keeps the company in the UK is better than the company failing or leaving. We require some protections and royalties if IP is sold abroad."
-        },
-        {
-          "speaker": "Lord Drayson",
-          "text": "Are you reviewing ARIA’s IP rules?"
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "We constantly review policy. Our current view is that creator‑owned IP best helps translation and UK benefit, but we’ll change if we find a better approach."
-        },
-        {
-          "speaker": "Lord Stern of Brentford",
-          "text": "Could government procurement be used to help companies scale and stay in the UK?"
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "Yes. We’re already exploring advanced market commitments and partnerships where a government pledge to buy or pilot tech creates a market and helps crossing the valley of death."
-        }
-      ]
-    },
-    {
-      "title": "Geography, other funders and governance",
-      "takeaway": "ARIA is trying to spread opportunities across the UK, coordinates with other funders to avoid wasteful duplication, and accepts the need for clear conflict-of-interest rules.",
-      "turns": [
-        {
-          "speaker": "Lord Booth",
-          "text": "Most ARIA money has gone to the 'golden triangle' — London, Oxford, Cambridge. What are you doing about regional spread?"
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "We require programme directors to do a UK-wide discovery process, talk to researchers in every region, and justify who they’ve reached. We’re working with regional science contacts in Scotland, Wales and Northern Ireland."
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "We’re also improving how we collect data: right now we track prime contracts, but subcontractors spread the money further. Better data will show whether the gap is applicants or awards."
-        },
-        {
-          "speaker": "Baroness Jones of Whitchurch",
-          "text": "Talking is fine but the money statistics haven’t changed. Will you make concrete changes to fund more outside the south‑east?"
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "I hear that. The discovery work and outreach — Newcastle, Sheffield, Plymouth, Belfast — aim to find talent outside the golden triangle. We’re refining outreach and simplifying application routes where possible."
-        },
-        {
-          "speaker": "Baroness Willis of Summertown",
-          "text": "How do you avoid overlapping other foundations' work? Workshops are often filled with people with vested interests."
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "We use a mix of discovery workshops and AI tools to read literature and spot overlap. External reviewers — who can’t get funded on that programme — check distinctiveness. If overlap appears, we talk to other funders and adjust."
-        },
-        {
-          "speaker": "Lord Ranger of Northwood",
-          "text": "On the recent chair appointment controversy, ARIA didn’t pick the chair. But did the executive raise concerns about conflicts of interest?"
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "The appointment and mitigations were decisions by the oversight body (BIST). ARIA wasn’t part of that decision. But I did get feedback from the sector that people were worried, and I agree a chair must not have conflicts that impede ARIA."
-        }
-      ]
-    },
-    {
-      "title": "ARIA compared to DARPA and final aims",
-      "takeaway": "ARIA borrows DARPA’s approach — director-driven, bold goals, quick pivots — but is smaller, civilian-focused and must prove its success; Dr Fisher’s aim is tangible breakthroughs and a healthy, sustainable agency.",
-      "turns": [
-        {
-          "speaker": "Lord Stern of Brentford",
-          "text": "You’ve worked at DARPA. How similar are the agencies and what lessons does ARIA take?"
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "Both fund daring, director-led projects and expect failure. DARPA is larger, often works on classified defence needs and has an established customer base. ARIA is civilian, smaller and must show early results to prove its model here."
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "We’re learning DARPA’s best practices: flexible contracts, phased funding, technical evaluation teams and active programme management. We’ll adapt those to the UK context."
-        },
-        {
-          "speaker": "Chair",
-          "text": "Finally, what will you most like to look back on in a few years?"
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "Delivering real breakthroughs that matter — science that changes practice and improves lives. Also, getting ARIA to steady state with programmes ending and starting at a good rhythm, and keeping it a place where talented people can make big, positive change."
-        },
-        {
-          "speaker": "Dr Kathleen Fisher",
-          "text": "An example: a programme exploring the innate immune system could lead to a broad antiviral treatment lasting months — high risk, but huge potential public-health and economic benefit."
-        },
-        {
-          "speaker": "Chair",
-          "text": "Thank you, Dr Fisher. We appreciate the clarity and will follow progress closely."
-        }
-      ]
     }
   ],
   "glossary": [
     {
       "term": "ARIA",
-      "definition": "The UK Advanced Research and Invention Agency, a government body that funds high‑risk, high‑reward science and technology projects."
+      "definition": "The UK's Advanced Research and Invention Agency, which funds ambitious research that may fail but could produce major breakthroughs."
     },
     {
       "term": "DARPA",
-      "definition": "The US Defense Advanced Research Projects Agency, a government agency that funds high‑risk research, often for defence applications."
-    },
-    {
-      "term": "BIST",
-      "definition": "The oversight body mentioned in the session that made the chair appointment decisions for ARIA."
-    },
-    {
-      "term": "creator",
-      "definition": "An ARIA-funded lead researcher or team responsible for running a project and often forming companies to develop results."
+      "definition": "A US government agency that funds ambitious research, mainly for national security, and helped inspire ARIA."
     },
     {
       "term": "programme directors",
-      "definition": "Staff who design and run ARIA programmes, choose and monitor projects, and decide on funding actions."
+      "definition": "Specialists hired by ARIA to design research programmes, choose teams and decide how projects should change or end."
     },
     {
-      "term": "prime contracts",
-      "definition": "Main contracts awarded directly by the funder to a company or organisation to deliver work or services."
+      "term": "activation partners",
+      "definition": "Organisations hired to help ARIA-funded researchers with practical needs such as engineering, starting companies or attracting investors."
     },
     {
-      "term": "subcontractors",
-      "definition": "Companies or individuals hired by the prime contractor to carry out parts of the contracted work."
+      "term": "AI",
+      "definition": "Artificial intelligence: computer systems that perform tasks such as analysing information or generating answers."
     },
     {
-      "term": "red/amber/green checks",
-      "definition": "A simple traffic‑light system used to indicate project status or levels of risk and priority (red=problem, green=good)."
+      "term": "venture capital",
+      "definition": "Money invested in young companies with high growth potential, usually in exchange for a share of ownership."
     },
     {
-      "term": "Baroness Willis of Summertown",
-      "definition": "A named member of the UK House of Lords who took part in this parliamentary committee session."
+      "term": "intellectual property",
+      "definition": "Legal rights over inventions and other creations, which can be owned, licensed or sold."
     },
     {
-      "term": "Lord Duncan of Springbank",
-      "definition": "A named member of the UK House of Lords who took part in this parliamentary committee session."
+      "term": "golden triangle",
+      "definition": "The concentration of major research institutions around London, Oxford and Cambridge in south-east England."
     },
     {
-      "term": "Chair",
-      "definition": "The person leading the committee session, responsible for guiding the discussion and managing speakers."
+      "term": "UKRI",
+      "definition": "UK Research and Innovation, the public organisation that funds a broad range of research and research facilities."
     },
     {
-      "term": "term‑limited",
-      "definition": "Describes a post that lasts only for a fixed period, after which the person must step down or be reappointed."
+      "term": "NHS",
+      "definition": "The National Health Service, the UK's publicly funded healthcare system."
     },
     {
-      "term": "phased funding",
-      "definition": "Funding released in stages, where later payments depend on meeting agreed milestones or results."
+      "term": "innate immune system",
+      "definition": "The body's broad, immediate defence against germs, rather than a response tailored to a particular infection."
     },
     {
-      "term": "technical evaluation teams",
-      "definition": "Groups of expert assessors who review and judge the technical quality and progress of research projects."
+      "term": "adaptive immune system",
+      "definition": "The part of the body's defences that learns to recognise and target particular germs, as vaccines help it do."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "A bold mission, with early results",
+      "takeaway": "ARIA wants breakthroughs with lasting public benefit, and Fisher says smaller successes matter even when the biggest goal isn't reached.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "You became ARIA's chief executive in February. What are your priorities now that the agency is getting established?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "We have more than 300 researchers and other creators working across 15 programmes. We have £1.2 billion allocated for the current spending period, and my job is to turn that funding into results. Real success isn't how much we spend. It's breakthroughs in science, benefits for society and the economy, and a greater willingness to attempt ambitious research."
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "Some projects will miss their extraordinary goals, but still teach us something important. We also need to make sure discoveries actually reach people, rather than sitting unused for decades. We've appointed a senior executive specifically to help researchers turn results into practical benefits."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Which current projects show what you mean?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "One project is trying to give early warning of major climate changes, including shifts in Atlantic ocean currents and melting in Greenland. A Plymouth company, Oshen, is developing small, low-cost, self-powered sea robots to gather ocean measurements. It began with one and has deployed five, with plans for 50."
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "The US weather agency then asked Oshen to try measuring conditions inside a powerful hurricane. That was risky, but its robots successfully sent back information during a category 5 storm. The company has since won contracts with five governments. Even if our original climate-warning goal proves impossible, this technology could still be valuable."
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "We also employ activation partners to remove obstacles for research teams. Amodo Design in Sheffield built batteries that work at minus 50 degrees for sensors in Greenland. The researchers thought the usual funding and procurement process would take at least 18 months. Amodo did the work in three months, and the design may help 11 other teams."
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "These are useful results, but ARIA's biggest breakthroughs may take a decade or more. I worked at DARPA, the US agency that inspired this approach, and I've seen how powerful it can be if researchers have freedom, sustained backing and permission to take risks."
+        }
+      ]
+    },
+    {
+      "title": "When to persist, change course or stop",
+      "takeaway": "Projects are reviewed regularly, but ARIA expects plans to change and requires fresh justification before extending funding.",
+      "turns": [
+        {
+          "speaker": "Baroness Willis of Summertown",
+          "text": "How can you tell whether so many risky projects are progressing, especially when most grants last only a few years?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "Each programme sets its own goals and measures of progress. Programme directors talk with their research teams every three months. We check both the science and whether the results could be put to use. Outside experts review programmes annually, and we can add funding, change direction or stop a project that isn't working."
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "For example, part of our AI safety programme aimed to check whether AI systems themselves behaved reliably. Given how quickly the technology is changing, the team judged that approach unworkable and shifted the money to using AI alongside mathematical checks to test important infrastructure instead."
+        },
+        {
+          "speaker": "Baroness Willis of Summertown",
+          "text": "How do you make sure you're funding work that wouldn't happen anyway? And should we judge ARIA by a few extraordinary successes, even if many projects fail?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "We ask whether a proposed project is genuinely different and whether somebody else would do it without us. If no researchers work in an area, there may be nobody able to deliver. If everyone is already working on it, ARIA probably isn't needed. Over decades, there may be rare breakthroughs large enough to justify many years of funding, but smaller advances and new companies count too."
+        },
+        {
+          "speaker": "Baroness Willis of Summertown",
+          "text": "But isn't three years too short for serious research? Can you keep funding the same field or the same outstanding scientist?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "Programmes usually last three to five years. They can continue, but not automatically: we must actively decide that more ARIA funding is still needed. DARPA backed AI for 60 years through repeated new decisions, not a single 60-year promise. We can support the same person again if their next work fits our purpose, though ARIA is still too young to know how often that will happen."
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "We can also speed things up. A Newcastle researcher expected his sensor work to take three years while working one day a week. We funded him to spend four days a week on it, and he achieved the original three-year plan in one year. That doesn't mean his funding just stops; he can go further."
+        },
+        {
+          "speaker": "Lord Duncan of Springbank",
+          "text": "What if a project won't reach its original target but reveals another promising direction?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "The director and researchers can change course if the new work still serves the programme's purpose. We're making contracts more flexible so worthwhile changes don't require months of paperwork. We can still measure progress separately from the contract."
+        }
+      ]
+    },
+    {
+      "title": "Choosing the people and the funding approach",
+      "takeaway": "ARIA gives programme directors broad freedom, but expects them to combine scientific judgement, leadership and a practical plan for results.",
+      "turns": [
+        {
+          "speaker": "Lord Winston",
+          "text": "Programme directors have extraordinary freedom. What qualities matter when choosing the next group?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "They need strong science knowledge across different fields, sound judgement about ambitious claims, and the ability to persuade and lead other people. They also need to think about how discoveries reach users, handle setbacks and learn from feedback. Nobody arrives with every skill. Their appointments are usually three years, with a possible extension of one or two."
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "We're recruiting our third group. More than 1,200 people had applied when I last checked, against 400 in the previous round. The first group leaned towards university researchers; the second towards entrepreneurs. We want a mix, and we're again allowing some directors to work four days a week so academics can keep supervising students."
+        },
+        {
+          "speaker": "Lord Patel",
+          "text": "Does it matter whether they come from universities or industry?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "Both can succeed. A mixture helps because the directors learn from one another."
+        },
+        {
+          "speaker": "Lord Winston",
+          "text": "Your predecessor suggested the best projects split expert opinion almost equally between enthusiasm and disbelief. Do you agree?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "Not necessarily fifty-fifty. If everyone thinks the idea is excellent, it may already be established enough to happen without us. If nobody thinks it has merit, that's worrying too. We want a serious but uncertain possibility, not disagreement just for its own sake."
+        },
+        {
+          "speaker": "Lord Winston",
+          "text": "How do directors decide who gets the research funding?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "It depends on the science. With slow-growing plants, we fund work from the start because rushing won't make plants grow faster. For high-altitude communications vehicles, we back several competing designs and stop the least promising ones, though that can discourage teams from cooperating. Other programmes use an initial research phase before choosing the next projects, or a competition with carefully designed rules."
+        }
+      ]
+    },
+    {
+      "title": "Will British-funded inventions benefit Britain?",
+      "takeaway": "Fisher prioritises getting inventions used and helping companies survive, while Drayson questions whether that adequately protects the UK's economic return.",
+      "turns": [
+        {
+          "speaker": "Lord Drayson",
+          "text": "ARIA must bring economic benefits to the UK. How will it do that rather than simply create useful inventions for the whole world?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "A breakthrough can save Britain money even without profits. Our work on brain and nervous-system conditions could, if successful, reduce NHS costs and help people return to work. We're also supporting researchers who want to start businesses and make their discoveries available to customers."
+        },
+        {
+          "speaker": "Lord Drayson",
+          "text": "But those health benefits could happen anywhere. What's to stop the companies, jobs and profits going abroad?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "The first challenge is getting an invention out of the laboratory and into use; many never make it. We want Britain to be an attractive place to start and grow these companies. Our activation partners help scientists find investors, build businesses and see an unsuccessful first start-up as useful experience, rather than the end of a career."
+        },
+        {
+          "speaker": "Lord Drayson",
+          "text": "Why use American investment organisations for some of that work? Shouldn't British investors have priority?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "Those overseas partners must set up UK operations and invest the agreed funds here. British investment would be welcome, but if an American investor helps a promising business survive and stay in the UK, that's welcome too. The company's survival and its decision to remain here matter more than the investor's nationality."
+        },
+        {
+          "speaker": "Lord Drayson",
+          "text": "Our previous inquiry found that promising British technology companies often leave. Couldn't these partners end up helping overseas investors acquire the best discoveries instead of building wealth here?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "I don't see that as a huge risk compared with the benefit of their expertise. ARIA can help create strong companies, but other parts of the UK economy also have to make staying attractive. We can't guarantee every business will remain here."
+        },
+        {
+          "speaker": "Lord Drayson",
+          "text": "What about intellectual property? Why doesn't ARIA keep ownership of inventions paid for with public money? Have you considered changing that?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "We generally leave ownership with the inventors so it's easier for them to raise venture capital and build companies. Most are in the UK. If those rights are licensed, transferred or sold abroad, a payment is due under our terms. We've discussed changing the policy, but so far we think it gives discoveries their best chance of reaching people."
+        },
+        {
+          "speaker": "Lord Drayson",
+          "text": "So you're reviewing the idea, but haven't decided to change the policy?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "Correct. We will change it if we find a better approach, but our present judgement is to keep it."
+        }
+      ]
+    },
+    {
+      "title": "Conflicts of interest and an uneven funding map",
+      "takeaway": "Members challenged both ARIA's governance and the concentration of its funding in the south-east, while Fisher defended its safeguards and promised wider outreach.",
+      "turns": [
+        {
+          "speaker": "Lord Ranger of Northwood",
+          "text": "Matt Clifford was going to join the American AI company Anthropic while remaining ARIA's chair, before announcing his resignation yesterday. Many UK AI businesses saw a serious conflict of interest. Why was that arrangement considered acceptable?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "ARIA wasn't consulted. Appointing the chair and deciding how to handle that potential conflict were matters for the government department responsible, not ARIA's executive team. I did hear the same critical reaction that you've described."
+        },
+        {
+          "speaker": "Lord Patel",
+          "text": "What lesson should be learned? Surely a future chair mustn't have interests that undermine ARIA's work."
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "Absolutely. But board members are chosen partly for their knowledge of the industries involved, so some overlapping interests are inevitable. They must declare those interests publicly, and we monitor them and put safeguards in place. It's a balance between expertise and conflicts that could interfere with the agency."
+        },
+        {
+          "speaker": "Lord Booth",
+          "text": "In 2025–26, 67% of your funding went to the 'golden triangle' around London and the south-east, barely changed from 66% the previous year. What are you doing to reach the rest of the UK?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "We do support strong teams elsewhere, including in Plymouth, Sheffield and Newcastle, but we're not where we want to be. Before a new programme is approved, its director now has to identify relevant researchers across all UK nations and regions and speak to a representative range of them. We're working with scientific advisers in Scotland and Northern Ireland, and reaching out to Wales too."
+        },
+        {
+          "speaker": "Baroness Jones of Whitchurch",
+          "text": "Talking to researchers isn't the same as giving them funding. The figures haven't improved. How will you stop awards going to the same familiar institutions?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "We need to find people who don't yet know how to work with ARIA, or don't believe we'd fund them. We're also improving our figures: they currently record only organisations contracted directly by us, not the smaller teams those organisations pay. We'll track applicants and where the money eventually goes, so we can see whether people aren't applying or aren't being selected."
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "Another advantage is that ARIA can pay the full cost of approved research, so less wealthy universities aren't expected to contribute their own money. I want to try these changes without weakening our priority of selecting the best research."
+        },
+        {
+          "speaker": "Baroness Jones of Whitchurch",
+          "text": "Meanwhile, about 15% of funding goes outside the UK—more than some British regions receive. Why allow that?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "We can fund up to 20% abroad, but each overseas award must meet a tougher test: it must provide expertise we can't get in the UK and significantly improve a programme's chances. Most work should be done here. Sometimes foreign teams move here as a result; one company relocated to London and invested more than the ARIA grant it received."
+        }
+      ]
+    },
+    {
+      "title": "Finding genuinely new research",
+      "takeaway": "ARIA combines wide consultation, independent checks and cautious use of AI to avoid funding ideas that are already being pursued elsewhere.",
+      "turns": [
+        {
+          "speaker": "Lord Stern of Brentford",
+          "text": "How do programme directors discover who's working on an idea and whether their proposed research would add something new?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "They read research, use AI to help survey it, and speak to scientists across Britain and abroad. They publish their proposed direction for comment and bring experts from different fields together in workshops. The resulting plan goes to ARIA leaders and outside experts for approval. The conversations often reveal possibilities that none of the individual fields had considered."
+        },
+        {
+          "speaker": "Baroness Willis of Summertown",
+          "text": "I've attended workshops where most participants had a personal interest in getting their own field funded. Could that distort your choices? And are you duplicating major research foundations abroad?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "That's a fair concern. Workshops help us understand the science and find researchers, but participants may hope to win funding. Our formal reviewers can't apply for money from the programme they're judging. We're also using AI to read large amounts of research and challenge assumptions, though it doesn't make the decisions and we check its sources."
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "What looks like duplication may have a different aim. Our new electronic smell-sensing programme, for example, wants one general-purpose detector rather than a separate device for every use. The director had spoken with researchers working on seemingly similar technology. If new evidence undermines our plans, we can change or close them."
+        },
+        {
+          "speaker": "Baroness Willis of Summertown",
+          "text": "What if a major foundation announced almost exactly the same project?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "We'd speak to them and check how much the work and the researchers actually overlap. Two approaches might both be worth funding if the problem is hard and there are enough capable teams. But paying the same people twice for essentially the same work might not be sensible. We already talk with other foundations, including the Gates Foundation."
+        }
+      ]
+    },
+    {
+      "title": "Working with government and other research funders",
+      "takeaway": "ARIA needs buyers and long-term scientific support, but Fisher wants government involvement timed to each project's needs.",
+      "turns": [
+        {
+          "speaker": "Lord Stern of Brentford",
+          "text": "You worked at DARPA. What's different about ARIA, and what can the UK learn from the American model?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "Both let specialists lead ambitious, risky projects. DARPA serves US national security, has a much bigger budget and has existed for decades. ARIA works across science for wider public benefit. People sometimes assume DARPA has an easy route to customers in the US military, but in my experience even successful defence research needed active effort to get it used."
+        },
+        {
+          "speaker": "Lord Stern of Brentford",
+          "text": "Could the UK government help by becoming a customer for ARIA inventions? Should departments be pushed to work with you sooner?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "Yes, where a project is ready. For instance, we've supported new types of computer hardware for AI. Individual components may be fast, but customers need a complete system that works better. Our Scaling Inference Lab is bringing the hardware together, with a government commitment to buy the resulting computing system. That gives the research a potential first customer."
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "We've had helpful responses from departments when we've approached them. I'd welcome more engagement, while keeping ARIA free to make its own research decisions. But approaching government too early can distract from the science. The timing depends on the project."
+        },
+        {
+          "speaker": "Lord Stern of Brentford",
+          "text": "And what about UKRI, which funds much of Britain's wider research? Should it adopt ARIA's methods?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "We need a healthy UKRI. It supports researchers and facilities for the long term, while ARIA concentrates money and people on particular problems for three to five years at a time. Those approaches complement each other. I'm speaking with UKRI's leaders, but I wouldn't claim enough knowledge of its operations to prescribe how it should change."
+        },
+        {
+          "speaker": "Lord Stern of Brentford",
+          "text": "I'd add that Britain's scientific strength also comes from centuries of universities, many of which now face financial pressures. It shouldn't all be credited to UKRI."
+        }
+      ]
+    },
+    {
+      "title": "Health research and the long view",
+      "takeaway": "Fisher described ambitious medical projects while stressing that ARIA's biggest scientific hopes are far from guaranteed.",
+      "turns": [
+        {
+          "speaker": "Lord Patel",
+          "text": "Could ARIA help make better use of NHS health records? They're valuable for research, but often scattered and inconsistent, and patients' information mustn't be misused."
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "We're already investing substantially in health research: more than £100 million in programmes involving brain and nervous-system conditions, and roughly £100 million across work on resistance to viruses and how cells produce energy. But our budget covers all science. To take on a health-data project we'd need a programme director with the right expertise, and we'd need to protect access to sensitive data and follow proper ethical safeguards."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Looking ahead, what would you most like ARIA to achieve?"
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "Eventually, I'd love one transformative result on the scale of technologies DARPA helped make possible, such as the internet. We can't predict when that might happen. Meanwhile, I want useful discoveries, companies that turn research into benefits, and an agency that's grown from a small start-up into a well-run organisation people still want to work for."
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "One example of the ambition is a project led by Brian Wang. Vaccines usually train the adaptive immune system to recognise particular viruses. He's exploring whether we can instead strengthen the innate immune system, the body's more general defences, to give around three months' protection against many respiratory viruses, possibly including common colds."
+        },
+        {
+          "speaker": "Dr Kathleen Fisher",
+          "text": "If it worked, it might reduce illness and time off work and offer a treatment ready to use against a future pandemic. We'd want the UK to share in those benefits. But it's high-risk research and probably won't work exactly as hoped. Even an unsuccessful attempt could teach us valuable science."
+        },
+        {
+          "speaker": "Chair",
+          "text": "A cure for the common cold would certainly be an extraordinary achievement."
+        }
+      ]
     }
   ]
 }

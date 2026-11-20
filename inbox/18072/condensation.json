@@ -2,67 +2,67 @@
   "schema_version": 1,
   "source_id": 18072,
   "source_sha256": "a749c22e0ac83018cd2bdfa1d40e6cf71805f484e0721ee5dc02a74f45887caa",
-  "title": "Fusion planning: what it is, how it differs from fission, and why England needs an NPS",
-  "label": "9 September 2026 · Fusion NPS evidence",
-  "summary": "MPs quizzed government and industry guests about the draft national planning policy on fusion power (EN‑8). Key points: fusion is treated differently from fission because its hazards and wastes are smaller and different; early and honest community engagement matters; regulators (the Environment Agency and the Health and Safety Executive) and insurance markets are involved; the new planning statement aims to give developers and investors clarity; the UK wants to keep its lead but faces international competition and has to sort skills, supply chains, grid connections and funding.",
+  "title": "Nuclear Fusion: Can Britain Turn Scientific Leadership into Clean Power?",
+  "label": "9 September 2026 · Nuclear fusion and planning",
+  "summary": "The Energy Security and Net Zero Committee examined the Government's proposed planning rules for nuclear fusion, a technology that could eventually provide large amounts of low-carbon electricity. Industry representatives, regulators and the Energy Minister discussed where fusion plants could be built, their environmental and safety risks, and whether Britain could turn its scientific expertise into a successful industry. Witnesses argued that fusion needs different rules from conventional nuclear power and that early public consultation is essential. They also highlighted unresolved questions about costs, radioactive waste, insurance and future demand for skilled workers. Private companies are targeting commercial power in the 2030s, while the Government aims to have its first demonstration plant operating by 2040. The central message was that fusion offers a major opportunity for British jobs, exports and future energy security, but its commercial success and affordability remain unproven.",
   "speakers": [
     {
       "label": "Chair",
       "name": "Bill Esterson",
-      "role": "Chair of the committee",
+      "role": "Chair of the Energy Security and Net Zero Committee",
       "kind": "chair"
-    },
-    {
-      "label": "Tris Denton",
-      "name": "Tris Denton",
-      "role": "UK Director, Fusion Industry Association (appeared as a witness in the session)",
-      "kind": "member"
-    },
-    {
-      "label": "Paul Methven",
-      "name": "Paul Methven",
-      "role": "CEO, UK Fusion Energy Ltd, UKAEA Group (appeared as a witness in the session)",
-      "kind": "member"
-    },
-    {
-      "label": "Jo Nettleton",
-      "name": "Jo Nettleton",
-      "role": "Chief Regulator, Environment Agency (appeared as a witness in the session)",
-      "kind": "member"
     },
     {
       "label": "Sir Christopher Chope",
       "name": "Sir Christopher Chope",
-      "role": "Member of Parliament",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "Mike Reader",
       "name": "Mike Reader",
-      "role": "Member of Parliament",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "Melanie Onn",
       "name": "Melanie Onn",
-      "role": "Member of Parliament",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "Wera Hobhouse",
       "name": "Wera Hobhouse",
-      "role": "Member of Parliament",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "Claire Young",
       "name": "Claire Young",
-      "role": "Member of Parliament",
+      "role": "Committee member",
       "kind": "member"
     },
     {
+      "label": "Paul Methven",
+      "name": "Paul Methven",
+      "role": "Chief Executive, UK Fusion Energy Ltd, UKAEA Group",
+      "kind": "witness"
+    },
+    {
+      "label": "Tris Denton",
+      "name": "Tris Denton",
+      "role": "UK Director, Fusion Industry Association",
+      "kind": "witness"
+    },
+    {
+      "label": "Jo Nettleton",
+      "name": "Jo Nettleton",
+      "role": "Chief Regulator, Environment Agency",
+      "kind": "witness"
+    },
+    {
       "label": "Michael Shanks",
-      "name": "Michael Shanks MP",
+      "name": "Michael Shanks",
       "role": "Minister for Energy, Department for Energy Security and Net Zero",
       "kind": "witness"
     },
@@ -73,292 +73,432 @@
       "kind": "witness"
     }
   ],
-  "chapters": [
-    {
-      "title": "What fusion is and how it differs from fission",
-      "takeaway": "Fusion is a different kind of 'nuclear' tech from fission: it makes little long‑lived waste and has a different safety profile, so planners and regulators treat it differently.",
-      "turns": [
-        {
-          "speaker": "Chair",
-          "text": "Let’s start simple: how is fusion different from the nuclear power people usually mean—fission?"
-        },
-        {
-          "speaker": "Paul Methven",
-          "text": "Fusion uses isotopes of hydrogen, not a chain reaction. The hazards are different: you can’t get the same sort of runaway criticality as in fission and the waste isn’t the same long‑lived stuff."
-        },
-        {
-          "speaker": "Jo Nettleton",
-          "text": "As the Environment Agency regulator, I’d add we treat it differently: we and the Health and Safety Executive (HSE — the safety regulator) focus on proportionate regulation for fusion’s specific hazards."
-        },
-        {
-          "speaker": "Tris Denton",
-          "text": "Industry agrees: fusion is zero carbon at the point of generating electricity, and the sector is developing different plant types than traditional reactors."
-        }
-      ]
-    },
-    {
-      "title": "Community engagement and choosing sites",
-      "takeaway": "Talk to people early and honestly; West Burton shows strong local support can grow even where there wasn't prior fission history.",
-      "turns": [
-        {
-          "speaker": "Chair",
-          "text": "You picked West Burton as a STEP site. Was the local reaction good?"
-        },
-        {
-          "speaker": "Paul Methven",
-          "text": "Yes. West Burton had a history of big energy infrastructure so the community understood the idea of hosting national projects. Early and sustained consultation helped build trust."
-        },
-        {
-          "speaker": "Tris Denton",
-          "text": "When communities understand the difference between fusion and fission, they’re less worried. Clear planning rules help avoid confusion."
-        },
-        {
-          "speaker": "Sir Christopher Chope",
-          "text": "Is that engagement voluntary or will Government force sites on people?"
-        },
-        {
-          "speaker": "Paul Methven",
-          "text": "The aim is voluntary consent. Forcing sites early would be counterproductive; better to take communities on the journey so benefits are shared and complaints fall."
-        }
-      ]
-    },
-    {
-      "title": "Regulators, waste, tritium and insurance",
-      "takeaway": "Existing regulators (Environment Agency and HSE) will handle fusion’s environmental and safety rules; tritium and transport are covered by other established rules, but insurers and liability frameworks need work.",
-      "turns": [
-        {
-          "speaker": "Jo Nettleton",
-          "text": "We’re the environmental regulator; HSE handles safety. Fusion sits outside the Office for Nuclear Regulation’s fission remit because the physics differs. We’re building capability for novel wastes."
-        },
-        {
-          "speaker": "Mike Reader",
-          "text": "Is regulation simpler for fusion than for fission?"
-        },
-        {
-          "speaker": "Jo Nettleton",
-          "text": "The regulatory landscape is simpler because fusion doesn’t risk criticality and its waste profile is different. But the technology itself is complex and still evolving."
-        },
-        {
-          "speaker": "Mike Reader",
-          "text": "What about tritium — its fuel? Shouldn’t the NPS spell out rules on its storage and transport?"
-        },
-        {
-          "speaker": "Paul Methven",
-          "text": "You need a small imported initial charge of tritium, then plants aim to breed their own. Transport and storage are already covered by existing regulations; they don’t need a duplicate rule in the NPS."
-        },
-        {
-          "speaker": "Sir Christopher Chope",
-          "text": "Insurance concerns remain. Who pays if something radiological affects third parties?"
-        },
-        {
-          "speaker": "Paul Methven",
-          "text": "Developers usually pay. The Government is looking at how to structure liability to kickstart the market. The sector thinks fusion risks are insurable and bespoke fusion insurance funds have already appeared."
-        },
-        {
-          "speaker": "David Sandford",
-          "text": "The Department talks to insurers. We’re running an insurance panel at the summit to speed their understanding of fusion’s different risk profile."
-        }
-      ]
-    },
-    {
-      "title": "Why a separate national planning policy statement (NPS)?",
-      "takeaway": "The draft EN‑8 NPS for fusion gives clarity because fusion’s planning and hazard profile differ from fission, and investors want that certainty.",
-      "turns": [
-        {
-          "speaker": "Chair",
-          "text": "Do we need a new planning statement for fusion or could it be covered by existing ones?"
-        },
-        {
-          "speaker": "Michael Shanks",
-          "text": "We think a separate NPS helps — fusion’s hazards and consenting needs are distinct from fission. The NPS signals to investors and planners what to expect."
-        },
-        {
-          "speaker": "Tris Denton",
-          "text": "Industry wants clarity. EN‑8 helps prevent fusion being conflated with fission and reassures communities and investors."
-        },
-        {
-          "speaker": "Claire Young",
-          "text": "If a project doesn’t meet national-size thresholds, can developers still ask for national treatment?"
-        },
-        {
-          "speaker": "Michael Shanks",
-          "text": "Yes. Developers can ask for nationally significant infrastructure (NSIP) treatment even if the plant’s size is under thresholds, because some projects have national importance."
-        },
-        {
-          "speaker": "Claire Young",
-          "text": "Why 50 MW in England but 350 MW in Wales?"
-        },
-        {
-          "speaker": "Michael Shanks",
-          "text": "That reflects devolution: Wales chose a different threshold in consultation with us. We respect devolved decisions."
-        }
-      ]
-    },
-    {
-      "title": "Jobs, labs, supply chains and international competition",
-      "takeaway": "The UK aims to turn its research lead into exports by supporting a national lab, encouraging private industry links, building supply chains and training workers — but other countries are investing heavily too.",
-      "turns": [
-        {
-          "speaker": "Wera Hobhouse",
-          "text": "Where should the UK focus — test reactors or clearing the way for private firms?"
-        },
-        {
-          "speaker": "Tris Denton",
-          "text": "Both. Government test labs like Culham are crucial; private companies need places to scale. The aim is private deployment built on public R&D."
-        },
-        {
-          "speaker": "Paul Methven",
-          "text": "STEP is government‑led to bridge the 'valley of death' and pull in suppliers—magnets, robotics, materials—so firms invest in UK skills and factories."
-        },
-        {
-          "speaker": "Melanie Onn",
-          "text": "What jobs will this make?"
-        },
-        {
-          "speaker": "Paul Methven",
-          "text": "For the STEP plant: perhaps 1,500 steady operators, construction peaks around 8,000 locally, and tens of thousands if the wider supply chain and business park grow."
-        },
-        {
-          "speaker": "Michael Shanks",
-          "text": "We want that growth in many parts of the UK and stronger local supply chains than past programmes managed."
-        },
-        {
-          "speaker": "Mike Reader",
-          "text": "Is the UK still a leader — aren’t the US and China racing?"
-        },
-        {
-          "speaker": "Michael Shanks",
-          "text": "We’re a world leader in science and want to keep it. We’ll work with partners internationally, but we must protect national security and our intellectual advantage."
-        },
-        {
-          "speaker": "David Sandford",
-          "text": "The UK’s whole‑plant integration skills — pulling subsystems together — are a real export strength, along with magnets, robotics and materials."
-        }
-      ]
-    },
-    {
-      "title": "Money, timing, grid and remaining risks",
-      "takeaway": "The Government has put in £2.5bn to 2040 to de‑risk fusion; first plant aim is around 2040 but times and prices remain uncertain — grid connections, skills, insurance and planning capacity still need sorting.",
-      "turns": [
-        {
-          "speaker": "Melanie Onn",
-          "text": "Is £2.5bn too little or too much?"
-        },
-        {
-          "speaker": "Michael Shanks",
-          "text": "It’s the right amount to signal serious commitment and to unlock more private money. It’s meant to be catalytic, not the full industry cost."
-        },
-        {
-          "speaker": "Tris Denton",
-          "text": "Private firms target around 5–10 US cents per kWh for later plants — roughly £35–£75 per MWh — but that's nth‑of‑a‑kind, not first‑of‑a‑kind."
-        },
-        {
-          "speaker": "Paul Methven",
-          "text": "From the public programme side, our benchmark is to be broadly competitive with large civil nuclear as the industry commercialises."
-        },
-        {
-          "speaker": "Melanie Onn",
-          "text": "What about grid connections?"
-        },
-        {
-          "speaker": "Michael Shanks",
-          "text": "Grid is a national issue. STEP benefits from being on an existing power station site with connections, but we’re working to fix bottlenecks nationwide."
-        },
-        {
-          "speaker": "Sir Christopher Chope",
-          "text": "One last point: Eskdalemuir seismic monitoring and wind farm siting — you extended a consultation. Are you updating old guidance there?"
-        },
-        {
-          "speaker": "Michael Shanks",
-          "text": "We’ll work with the MoD and partners. Defence infrastructure takes precedence, but we’ll methodically consider new monitoring methods so onshore wind can progress where safe."
-        },
-        {
-          "speaker": "Chair",
-          "text": "Thanks — that wraps it up. The NPS aims to give clarity but the Committee will watch how regulators, insurers and communities respond as projects come forward."
-        }
-      ]
-    }
-  ],
   "glossary": [
     {
-      "term": "Health and Safety Executive (HSE — the safety regulator)",
-      "definition": "The UK government agency that enforces workplace and major-project health and safety law and regulates industrial safety risks."
+      "term": "fusion",
+      "definition": "A process that releases energy by joining light atomic nuclei together, rather than splitting them apart."
     },
     {
-      "term": "Environment Agency regulator",
-      "definition": "England's public regulator that enforces environmental protection rules on pollution, waste, water and land use."
-    },
-    {
-      "term": "HSE",
-      "definition": "Abbreviation for the Health and Safety Executive, the UK body that enforces health and safety at work and on major sites."
-    },
-    {
-      "term": "Office for Nuclear Regulation’s fission remit",
-      "definition": "The ONR is the UK regulator for civil nuclear fission; this phrase means the part of its official responsibility covering fission plants."
-    },
-    {
-      "term": "NPS",
-      "definition": "Abbreviation for National Policy Statement, a government planning document that guides decisions on nationally important infrastructure projects."
+      "term": "fission",
+      "definition": "The process used in existing nuclear power stations, which releases energy by splitting heavy atomic nuclei."
     },
     {
       "term": "STEP",
-      "definition": "A UK government programme to build a prototype fusion power plant (Spherical Tokamak for Energy Production) to demonstrate the technology."
+      "definition": "The Government-backed programme to build a prototype fusion power plant at West Burton in Nottinghamshire."
     },
     {
-      "term": "West Burton",
-      "definition": "An existing UK power station site that was chosen as a potential location for the STEP fusion project."
+      "term": "EN-8",
+      "definition": "The proposed national policy statement setting out how major fusion power projects should be assessed for planning approval in England and Wales."
     },
     {
-      "term": "criticality",
-      "definition": "A state in which a nuclear chain reaction becomes self-sustaining and can grow without additional input."
+      "term": "EN-1",
+      "definition": "The general national planning policy statement covering issues common to major energy infrastructure projects."
     },
     {
       "term": "tritium",
-      "definition": "A radioactive isotope of hydrogen used as a fuel in some fusion reactions that requires careful storage and transport controls."
+      "definition": "A radioactive form of hydrogen used as fuel in many proposed fusion reactors."
     },
     {
-      "term": "nationally significant infrastructure (NSIP)",
-      "definition": "Large projects (power stations, major roads, etc.) that are handled by national planning processes rather than by local authorities."
+      "term": "megawatt-hour",
+      "definition": "A measure of electricity equal to the energy supplied by one megawatt of power over one hour."
     },
     {
-      "term": "national-size thresholds",
-      "definition": "Size limits that determine whether a proposed project is considered nationally significant and subject to national planning rules."
+      "term": "megawatt",
+      "definition": "A unit of power equal to one million watts, used to describe how much electricity a generating plant can produce."
     },
     {
-      "term": "devolution",
-      "definition": "The transfer of certain powers from the UK central government to the governments of Scotland, Wales or Northern Ireland."
+      "term": "Environment Agency",
+      "definition": "The public body responsible for regulating pollution, waste, water use and other environmental risks in England."
     },
     {
-      "term": "Culham",
-      "definition": "The UK’s national fusion research centre, hosting experimental facilities where fusion science and technology are tested."
+      "term": "Health and Safety Executive",
+      "definition": "The public regulator responsible for ensuring that workplaces and industrial activities meet safety requirements."
     },
     {
-      "term": "valley of death",
-      "definition": "The funding and development gap where promising research struggles to move from prototype to commercial deployment."
+      "term": "Office for Nuclear Regulation",
+      "definition": "The UK regulator responsible for nuclear safety and certain aspects of transporting radioactive materials."
     },
     {
-      "term": "EN‑8",
-      "definition": "A specific named energy planning policy (an Energy National Policy Statement) referenced for planning and consenting decisions on energy projects."
+      "term": "UKAEA",
+      "definition": "The UK Atomic Energy Authority, a publicly funded organisation that researches fusion energy and related technologies."
     },
     {
-      "term": "national treatment",
-      "definition": "Treating a project as if it meets national-level planning criteria, even if it falls below formal size thresholds, so it gets national consideration."
+      "term": "Planning Inspectorate",
+      "definition": "The public organisation that examines major infrastructure proposals and advises on planning decisions in England."
     },
     {
-      "term": "nth‑of‑a‑kind",
-      "definition": "A later, standardised generation of a technology produced after the first, when costs and risks are lower through learning and scale."
+      "term": "Ofgem",
+      "definition": "The energy regulator for Great Britain, responsible for overseeing electricity and gas markets and protecting consumers."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "1. Where Should Fusion Plants Be Built?",
+      "takeaway": "West Burton shows the value of early community involvement, but fusion plants will still have substantial environmental impacts.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Traditional nuclear power stations are often built in places that already have them. Will fusion follow the same pattern?"
+        },
+        {
+          "speaker": "Paul Methven",
+          "text": "Our experience suggests it doesn't have to. West Burton was chosen for the Government's STEP project in 2022 after communities volunteered to host it. The area has a long history of generating electricity, although not from nuclear power. People have been very supportive, partly because they see opportunities for jobs and investment. They also recognise that fusion has different risks from conventional nuclear power."
+        },
+        {
+          "speaker": "Chair",
+          "text": "What have you learned about involving local communities? We've seen energy projects run into trouble because people weren't properly consulted."
+        },
+        {
+          "speaker": "Paul Methven",
+          "text": "You have to involve people early, keep talking to them and genuinely listen. At West Burton, residents have helped us think through problems such as extra traffic. Consultation isn't something you do just to satisfy a legal requirement. People who live there understand the area, and their ideas can improve the project. If you ignore them, you risk delays, higher costs and losing some of the benefits."
+        },
+        {
+          "speaker": "Sir Christopher Chope",
+          "text": "But does involving communities mean they can actually refuse a project? There's a difference between local people volunteering and the Government deciding something must be built there."
+        },
+        {
+          "speaker": "Paul Methven",
+          "text": "Our aim is for people to want the development. In the end, the Government can decide that a project must go ahead, but forcing that decision against strong local opposition could be counterproductive, especially if it's done too early. We don't expect that situation at West Burton. The better approach is to demonstrate the benefits and address concerns as they arise."
+        },
+        {
+          "speaker": "Sir Christopher Chope",
+          "text": "How environmentally friendly will fusion actually be? Could these plants be smaller than conventional nuclear stations? And what about the water they'll need?"
+        },
+        {
+          "speaker": "Paul Methven",
+          "text": "Fusion produces no carbon emissions while generating electricity, although construction and producing materials do cause emissions. At West Burton, we're reusing a former coal-fired power station site and exploring whether its leftover ash can be turned into concrete. We expect fusion to be a low-carbon technology. Plants may generally be large, although smaller private designs could emerge. Cooling requires water, but our approach returns it, so we need to manage how much warmer it is."
+        },
+        {
+          "speaker": "Jo Nettleton",
+          "text": "The STEP plant is a prototype of around 100 megawatts. Fusion has different accident risks from fission and won't produce the same kind of very long-lived nuclear waste. However, it may create new types of radioactive and hazardous waste that we still need to understand. We expect its water needs to be closer to the former coal station's than to a large nuclear power station's. We must also consider other developments nearby, including data centres, and their combined demands on water and the environment."
+        }
+      ]
     },
     {
-      "term": "first‑of‑a‑kind",
-      "definition": "The very first build of a new technology or plant, usually more expensive and riskier than later copies."
+      "title": "2. Different Technology, Different Rules",
+      "takeaway": "Fusion faces fewer nuclear hazards than conventional reactors, but radioactive materials, environmental risks and accident compensation still need careful oversight.",
+      "turns": [
+        {
+          "speaker": "Sir Christopher Chope",
+          "text": "Who will regulate fusion? We were promised simpler nuclear regulation, but it sounds as though several organisations will still be involved."
+        },
+        {
+          "speaker": "Jo Nettleton",
+          "text": "The Environment Agency will regulate environmental risks, while the Health and Safety Executive will oversee safety. We work closely together. That's a simpler arrangement than for fission. The proposed planning policy is also helpful because it makes expectations clear. One area we'd like strengthened is flood risk: a plant could operate for decades, and the danger of flooding may change considerably during its lifetime."
+        },
+        {
+          "speaker": "Mike Reader",
+          "text": "Why exactly is fusion regulation simpler? Is that only because the industry is still developing? Could more regulators become involved as commercial plants appear?"
+        },
+        {
+          "speaker": "Jo Nettleton",
+          "text": "I don't think the basic system needs to become as complicated as fission regulation because the physics is different. Fusion doesn't have the same possibility of an uncontrolled nuclear chain reaction. But it does involve radioactive materials, including tritium, and potentially unfamiliar waste. Those risks still need proper controls. Simpler regulation doesn't mean weaker regulation."
+        },
+        {
+          "speaker": "Sir Christopher Chope",
+          "text": "Could developers receive planning approval with conditions attached, so they can begin while some requirements are still being worked out?"
+        },
+        {
+          "speaker": "Paul Methven",
+          "text": "Sometimes conditions are useful because they tell everyone exactly what must happen. For example, requiring a developer to provide local apprenticeships might benefit both the community and the project. But conditions can also become unnecessarily restrictive and delay construction. They need to suit the particular project. Clear requirements are often better than leaving developers uncertain about what they'll eventually have to do."
+        },
+        {
+          "speaker": "Mike Reader",
+          "text": "We've heard that fusion is carbon-free. But surely mining the materials, transporting them and building the equipment all produce emissions?"
+        },
+        {
+          "speaker": "Tris Denton",
+          "text": "Absolutely. The important distinction is that fusion produces no carbon emissions when generating electricity. Like wind power and conventional nuclear power, it still causes emissions through construction, manufacturing and other activities. So it's a low-carbon technology over its whole life, not completely emission-free. Our member companies are pursuing different designs, with many targeting commercial plants in the mid-2030s."
+        },
+        {
+          "speaker": "Mike Reader",
+          "text": "Why create separate planning rules for fusion? If these plants need land, workers, water and electricity connections, why not build them on existing nuclear sites under the existing rules?"
+        },
+        {
+          "speaker": "Paul Methven",
+          "text": "That misses a major opportunity. Britain already has world-leading fusion science, and we could turn that into technology we export globally. We aren't developing fusion just to supply British electricity. Because its hazards are different from fission, we don't need to restrict ourselves to existing nuclear sites. Those can continue serving conventional nuclear projects while fusion brings new investment to other regions."
+        },
+        {
+          "speaker": "Mike Reader",
+          "text": "Fusion plants will use radioactive tritium, and the first supplies may have to be imported. Are the proposed planning rules missing important requirements for its storage and transport?"
+        },
+        {
+          "speaker": "Paul Methven",
+          "text": "We'll need to import tritium to start a plant, but our aim is for operating reactors to produce their own tritium from lithium. We already import smaller quantities from Canada. There are existing rules covering radioactive substances, including transport, which the Office for Nuclear Regulation oversees. Those safeguards don't disappear simply because every detail isn't repeated in the planning statement."
+        },
+        {
+          "speaker": "Jo Nettleton",
+          "text": "The policy statement addresses radioactive substances generally, which includes tritium. Planning approval is only the first step. Developers must also obtain environmental permits and satisfy safety requirements. We're developing our knowledge of the new types of waste that fusion might produce, and the Government is funding that work."
+        },
+        {
+          "speaker": "Mike Reader",
+          "text": "If a fusion plant causes radioactive harm to someone, who pays compensation? Have the insurance arrangements been settled?"
+        },
+        {
+          "speaker": "Paul Methven",
+          "text": "There's still work to do. Our starting position is that the developer should pay, but the Government is examining what insurance and compensation arrangements a new fusion industry will need. Conventional nuclear power already has established insurance arrangements, but fusion presents different risks. We believe suitable insurance should be possible, although the details haven't all been agreed."
+        }
+      ]
     },
     {
-      "term": "MoD",
-      "definition": "Abbreviation for the UK Ministry of Defence, the government department responsible for the armed forces and defence policy."
+      "title": "3. Will Fusion Ever Be Cheap Enough?",
+      "takeaway": "Private companies have ambitious electricity price targets, but nobody yet knows what the first British fusion plant will actually cost.",
+      "turns": [
+        {
+          "speaker": "Melanie Onn",
+          "text": "You say fusion is close to becoming commercially viable. What might its electricity cost compared with other ways of generating power?"
+        },
+        {
+          "speaker": "Tris Denton",
+          "text": "Some private companies are targeting roughly £35 to £75 per megawatt-hour. That's comparable with some competitive low-carbon electricity sources today. But these aren't prices for their first plants. They're targets for later plants, once companies have built several and learned how to make them more efficiently. The figures come from the companies themselves, so we shouldn't treat them as proven costs."
+        },
+        {
+          "speaker": "Melanie Onn",
+          "text": "The UK is putting £2.5 billion into fusion over five years, while countries such as China and the US are investing enormous amounts. Isn't achieving those low prices with our contribution rather ambitious?"
+        },
+        {
+          "speaker": "Tris Denton",
+          "text": "It certainly would be if Britain were doing this alone. But fusion is an international effort. Private companies around the world have attracted about $15 billion in investment over the past five years, and some have signed agreements with companies such as Google and Microsoft to supply electricity in the future. The industry knows it must eventually compete on price, however promising its environmental benefits are."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Just to be clear, are those £35 to £75 figures what you expect from the Government's West Burton plant?"
+        },
+        {
+          "speaker": "Paul Methven",
+          "text": "No. We don't know the eventual electricity cost at West Burton. The Government has allocated about £1.3 billion of its five-year fusion funding to STEP. Our priority is to prove the technology and make it commercially competitive. If fusion can eventually produce electricity at roughly the cost of large conventional nuclear power stations, we'd consider that a promising starting point, particularly because of its different risks and export potential."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Britain has led important technologies before without keeping the commercial benefits. What must we do differently this time?"
+        },
+        {
+          "speaker": "Paul Methven",
+          "text": "We need consistent Government support, predictable planning decisions and effective safety regulation. We must keep investing in our national fusion research laboratory and in STEP, which helps bridge the gap between laboratory research and commercially usable technology. We also need arrangements that give private companies a realistic way to sell fusion electricity. Above all, we must maintain the effort rather than stopping just as the technology starts becoming useful."
+        },
+        {
+          "speaker": "Wera Hobhouse",
+          "text": "Surely Britain can't manufacture every part of a fusion plant. Which areas should we concentrate on if we want to lead internationally?"
+        },
+        {
+          "speaker": "Paul Methven",
+          "text": "We shouldn't try to make everything ourselves. Our strengths include designing and bringing together complete plants, handling tritium fuel, advanced robotics and developing ways to produce tritium from lithium inside reactors. We have decades of experience from the JET fusion experiment at Culham. Other opportunities include specialised materials and magnets. We should use the best international suppliers where necessary while developing the technologies Britain can genuinely lead."
+        }
+      ]
     },
     {
-      "term": "Eskdalemuir seismic monitoring",
-      "definition": "Seismic monitoring at Eskdalemuir, a UK station used to detect earthquakes and measure ground noise relevant to wind farm siting."
+      "title": "4. Building Skills, Jobs and British Industry",
+      "takeaway": "Fusion could create thousands of skilled jobs, but companies and education providers need confidence that projects will actually happen.",
+      "turns": [
+        {
+          "speaker": "Wera Hobhouse",
+          "text": "How do you make sure Britain has enough people with the right skills? Should the Government build demonstration plants, or leave development to private companies?"
+        },
+        {
+          "speaker": "Paul Methven",
+          "text": "The Government has an important role because there isn't an established fusion electricity market yet. Building STEP creates real orders for companies making equipment, which encourages them to invest in workers and training. We can then work with universities, colleges and local communities. Some skills overlap with conventional nuclear power, such as materials engineering, while others, such as controlling the extremely hot gas used in fusion, are more specialised."
+        },
+        {
+          "speaker": "Melanie Onn",
+          "text": "Other industries have started major projects and only later realised they didn't have enough skilled workers. How are you avoiding that mistake?"
+        },
+        {
+          "speaker": "Paul Methven",
+          "text": "We're trying to forecast which skills we'll need well in advance. Interestingly, our biggest shortages now aren't necessarily specialist scientists. We particularly need people who can manage projects and commercial contracts. Later, construction workers could become the limiting factor. We're developing apprenticeships and working with local education providers. We've already engaged with about 16,000 people around West Burton, including thousands of schoolchildren."
+        },
+        {
+          "speaker": "Melanie Onn",
+          "text": "What sort of employment numbers are you expecting over the next decade?"
+        },
+        {
+          "speaker": "Paul Methven",
+          "text": "At West Burton, we expect around 1,500 permanent jobs operating the plant, with employment during construction potentially reaching about 8,000. Those figures are for the plant itself. We also want to attract businesses to the surrounding area. If Britain develops a strong industry supplying fusion equipment and services, that could support tens of thousands of jobs nationally, although achieving that depends on the industry succeeding."
+        },
+        {
+          "speaker": "Chair",
+          "text": "How much of the national programme is publicly funded, and how much comes from private businesses? Is the aim eventually to attract private investment into facilities created with public money?"
+        },
+        {
+          "speaker": "Paul Methven",
+          "text": "STEP is currently fully Government-funded, and the national laboratory is funded mainly through public grants. But we deliberately spend much of that money through private companies. Tokamak Energy, for example, is developing advanced magnets with us. That builds expertise businesses can sell in other markets too. We're exploring private investment in STEP, while trying to ensure the resulting jobs, technology and commercial benefits stay in Britain rather than moving overseas."
+        }
+      ]
+    },
+    {
+      "title": "5. Why Is the Government Changing Planning Rules Now?",
+      "takeaway": "Ministers want planning rules ready before fusion projects arrive, while recognising that the technology's commercial timetable and costs remain uncertain.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Minister, when will fusion actually generate electricity, and what will it cost?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "We're closer than ever, but we don't yet have a commercially operating fusion power station. Our ambition is for the Government's first STEP plant to be operational by 2040, hopefully earlier. Fusion could provide reliable, clean electricity when we need it, but the eventual price remains uncertain. We shouldn't pretend to know precisely what electricity from a plant we haven't built will cost."
+        },
+        {
+          "speaker": "Chair",
+          "text": "The industry has suggested £35 to £75 per megawatt-hour. Does that sound realistic to you?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "I'm not going to endorse a particular price at this stage. The first plant will inevitably teach us things, and costs can change considerably as technology develops. We believe fusion could eventually compete with other electricity sources, but affordability will be central to decisions about deploying it. We're investing £2.5 billion to continue research and development, train skilled workers and help move the technology towards practical use."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Why does fusion need its own national planning policy statement? We already have several covering energy projects. Won't another one make the system more complicated?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "We believe EN-8 is justified because fusion and fission have fundamentally different safety risks. EN-1 already covers common issues such as construction and environmental impacts, but fusion needs guidance suited to its own characteristics. We're not proposing a separate statement for every new technology. The aim is to make the rules clear now, before applications arrive, rather than having developers and officials work out the process halfway through a project."
+        },
+        {
+          "speaker": "Mike Reader",
+          "text": "These rules cover England and Wales but not Scotland. Do you know whether the Scottish Government supports fusion? And what's changed in the industry to make these rules necessary now?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "Scotland has its own system for approving major infrastructure, and I haven't specifically asked Scottish Ministers about fusion. I hope they'll support it, particularly as Scottish companies and universities already contribute. What has changed is the speed of development. I previously thought commercial fusion was much further away. We're seeing research move towards practical applications, and we want the planning system ready for that."
+        },
+        {
+          "speaker": "David Sandford",
+          "text": "There are two main reasons for acting now. First, STEP will need planning approval. Second, private fusion companies, including businesses from the US, are already deciding where to build facilities. Some are considering Britain. They tell us that clear, predictable planning and safety rules are important when deciding where to invest. So these rules are intended both to guide planning decisions and to make Britain an attractive place to build."
+        }
+      ]
+    },
+    {
+      "title": "6. Safety, Insurance and Local Control",
+      "takeaway": "Ministers believe existing safety rules cover fusion's radioactive risks, but committee members questioned whether insurance arrangements and local planning safeguards are sufficient.",
+      "turns": [
+        {
+          "speaker": "Mike Reader",
+          "text": "We've received evidence that EN-8 doesn't say enough about storing and managing radioactive waste. Are there gaps in the rules?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "I don't believe so. EN-8 has a section on radioactive materials and waste, and EN-1 covers broader requirements. Separate regulations already govern the transport, storage and handling of radioactive substances, including tritium. A planning policy statement isn't intended to repeat every safety regulation that applies to a development."
+        },
+        {
+          "speaker": "Sir Christopher Chope",
+          "text": "A specialist Lloyd's insurer has raised concerns. It wants developers to assess all the radioactive material on a site, other sources of stored energy and credible ways an accident might release dangerous substances, together rather than separately. The issue is public confidence, but also who pays compensation if something goes wrong. Have you considered that evidence?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "I haven't personally read that particular submission, although officials examine the evidence received. Public confidence is essential, especially with a new technology. Our assessment is that fusion carries considerably lower risks than conventional nuclear power. We therefore expect its insurance to resemble the arrangements used for other industrial technologies rather than the special nuclear insurance system used for fission. But that market is still developing."
+        },
+        {
+          "speaker": "David Sandford",
+          "text": "Developers will have to produce a detailed assessment of their safety risks, which the Health and Safety Executive will examine. That's separate from planning permission. We're also talking regularly with insurers so they can assess the technology and its risks. The insurance industry is only beginning to develop this market, and we want it to be properly informed before commercial plants are operating."
+        },
+        {
+          "speaker": "Sir Christopher Chope",
+          "text": "Insurers may find that response rather patronising. They're the people who need to assess the risks and set prices. Turning to planning, wouldn't attaching conditions to approvals simply create more delays and costs?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "Conditions can sometimes protect communities or give developers useful clarity, but they should be relatively rare. One of Britain's biggest problems has been unpredictable planning decisions that leave investors waiting years. We want requirements to be clear from the outset. That's part of the reason for publishing EN-8 now, well before our target of operating the first STEP plant by 2040."
+        },
+        {
+          "speaker": "Claire Young",
+          "text": "The policy allows some smaller fusion projects to apply for approval through the national planning system rather than local councils. Doesn't that risk taking decisions away from communities directly affected by construction?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "It's a fair concern, but some projects can be nationally important even if they generate relatively little electricity. The usual thresholds are 50 megawatts in England and 350 megawatts in Wales. Developers below those thresholds can seek to use the national process. Local planning departments may not yet have the specialist knowledge needed for such unusual and complicated projects."
+        },
+        {
+          "speaker": "Claire Young",
+          "text": "Why is the threshold so much higher in Wales? And if decisions go through the national system, will the Planning Inspectorate have enough properly trained people? What support are local councils getting?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "We consulted the Welsh Government and respected its decision to use a higher threshold. It also has responsibilities for related matters, including transport and skills. On staffing, you're right that expertise matters. The Planning Inspectorate needs time to recruit and train specialists before applications arrive. We've also provided funding and training for local planning departments, and I can send the Committee more detail about that support."
+        }
+      ]
+    },
+    {
+      "title": "7. Is Fusion Worth the Public Investment?",
+      "takeaway": "The Government sees fusion as a potential source of dependable clean power and economic growth, but insists it won't replace existing energy technologies or escape future affordability tests.",
+      "turns": [
+        {
+          "speaker": "Melanie Onn",
+          "text": "Is fusion mainly about making our energy supply more secure, or reducing costs for households and businesses? And why invest so heavily in something unproven when existing technologies still need support?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "Energy security is the strongest argument for fusion at this stage. We could achieve energy security without it, but having different ways of generating electricity makes the system more resilient. Wind and solar are essential, but their output depends on the weather. Fusion could eventually provide electricity reliably when it's needed, alongside conventional nuclear power. It isn't a choice between investing in fusion and supporting renewable energy."
+        },
+        {
+          "speaker": "Melanie Onn",
+          "text": "But there are other emerging technologies, such as floating offshore wind. And industries working on hydrogen and capturing carbon emissions don't seem to be receiving the same enthusiasm. Is fusion getting special treatment?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "I don't think that's fair. We're supporting floating offshore wind, hydrogen and carbon capture too, including funding projects. The distinction is that with fusion, we're currently committed to research and development. When it's ready for commercial deployment, we'll have to decide how much to build based on costs and other benefits. We aren't promising to buy fusion electricity at any price."
+        },
+        {
+          "speaker": "Melanie Onn",
+          "text": "So is £2.5 billion over five years too much or too little? We've seen Britain develop technologies before without capturing the full commercial benefits."
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "I think it's an appropriate amount. Every pound of public spending is being scrutinised closely, and the industry would probably welcome more. But this is a substantial commitment. It shows investors the Government is serious, which should help attract private funding. We have an opportunity to build more of the manufacturing and supply businesses here from the beginning, rather than missing out as we did with much of the early offshore wind industry."
+        },
+        {
+          "speaker": "Melanie Onn",
+          "text": "Will those benefits reach the whole country? And won't fusion plants run into the same delays connecting to the electricity network as other energy developments? I don't want this sold as another technology that supposedly solves every problem."
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "We want British companies across the country supplying equipment and services. West Burton has an advantage because its former coal power station already has a connection to the electricity network. Other projects won't get special treatment, and we're working to address wider connection delays. But I'm not claiming fusion solves everything. It won't replace wind, solar or conventional nuclear power in the short or medium term. It could become an important additional source of electricity."
+        },
+        {
+          "speaker": "Mike Reader",
+          "text": "The UKAEA previously suggested fusion might supply only 10% of Britain's energy needs by 2100. Isn't that a rather disappointing return for all this effort?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "I haven't seen the particular calculation, so I can't judge it. The first fusion plant will generate relatively little electricity compared with the country's total needs, but every new technology has to begin somewhere. Research has advanced faster recently than many people expected. We may eventually be able to aim much higher, but I wouldn't put a precise figure on what fusion will deliver by 2100."
+        }
+      ]
+    },
+    {
+      "title": "8. Global Competition and the UK's Future",
+      "takeaway": "Britain hopes to export fusion technology worldwide while protecting national security, developing domestic manufacturing and keeping electricity affordable.",
+      "turns": [
+        {
+          "speaker": "Mike Reader",
+          "text": "There's clearly an international race to develop fusion. Are we ahead of the US and China? And given concerns about China's behaviour in other energy industries, how worried should we be about attempts to obtain British technology or commercially sensitive information?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "I won't rank countries against each other, but Britain genuinely leads in important parts of fusion research. We also need international partners, including Canada, the US and others, to develop the technology. With China, our general approach is to cooperate where we can and challenge where necessary. Protecting energy infrastructure and national security is a major priority. If fusion succeeds, exporting British technology could be as valuable as the electricity we generate here."
+        },
+        {
+          "speaker": "Mike Reader",
+          "text": "If fusion becomes a global industry, which parts are Britain best placed to supply? We won't necessarily produce every component ourselves."
+        },
+        {
+          "speaker": "David Sandford",
+          "text": "A particular British strength is designing and bringing all the different parts together into a complete working power plant. That's a difficult engineering task in its own right. We also have strong capabilities in advanced magnets, robotics and specialist materials. So the opportunity isn't just to manufacture individual components. British companies could help design, build and supply major parts of fusion plants around the world."
+        },
+        {
+          "speaker": "Mike Reader",
+          "text": "Are regulators such as Ofgem doing enough to support British manufacturers and help us keep control of important technologies?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "They could do more, and I've made that clear to Ofgem. We want regulators to support economic growth and more manufacturing in Britain. But there's a difficult balance: we're equally determined to reduce electricity bills. We can't achieve every industrial ambition if it makes energy unaffordable. With fusion, we have an opportunity to develop domestic suppliers from the beginning, rather than repeat the opportunities Britain missed when offshore wind was first expanding."
+        },
+        {
+          "speaker": "Chair",
+          "text": "One final issue, slightly outside fusion. Developers say the rules restricting wind farms near the Eskdalemuir station, which detects ground vibrations for defence purposes, are outdated. Other countries allow wind turbines much closer to similar facilities. Will the Government reconsider the restrictions?"
+        },
+        {
+          "speaker": "Michael Shanks",
+          "text": "We recognise the need to find ways of building more onshore wind near Eskdalemuir. New technology may make that possible. But the monitoring station is important to national defence, and we won't compromise its effectiveness. We're examining the options carefully with the Ministry of Defence through the consultation process. National security has to come first, even as we work to increase renewable electricity generation."
+        }
+      ]
     }
   ]
 }
