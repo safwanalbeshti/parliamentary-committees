@@ -1657,3 +1657,46 @@ h1 {
 .cast-group:first-child {
   margin-top: 0;
 }
+
+/* ---------- Commons green theme (session page) ---------- */
+
+.app {
+  --accent: #006e46;
+  --accent-strong: #00553a;
+  --blue: #006e46;
+  --radius: 16px;
+}
+
+body:has(main.app:not([hidden])) {
+  background: linear-gradient(180deg, #e6efe9, #d3e2d8);
+}
+
+.app .tab-button[aria-selected="true"] {
+  background: #006e46 !important;
+  color: #fff !important;
+  border-color: #006e46 !important;
+}
+
+.app .speech-bubble {
+  border-top: 6px solid #006e46 !important;
+}
+
+/* Overrides the per-speaker tint set inline by app.js. */
+.app .bubble-speaker {
+  background: #cfe7da !important;
+  color: #00402a !important;
+}
+
+.app .chapter-banner {
+  background: #006e46 !important;
+  color: #fff !important;
+}
+
+.app .chapter-banner * {
+  color: #fff !important;
+}
+
+.app .progress-track span,
+.app #progressFill {
+  background: #006e46 !important;
+}
