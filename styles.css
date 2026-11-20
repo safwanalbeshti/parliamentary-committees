@@ -1097,6 +1097,11 @@ h1 {
     display: none;
   }
 
+  /* Phones: the dialogue card's "3 of 69" already gives the count. */
+  .turn-meter {
+    display: none;
+  }
+
   .control-button {
     min-height: 46px;
   }
