@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Parliamentary Committees, in Plain English</title>
-    <link rel="stylesheet" href="styles.css?v=20" />
+    <link rel="stylesheet" href="styles.css?v=23" />
     <link rel="preload" as="image" href="Energy Resilience/committee_room_4.png" />
   </head>
   <body>
@@ -230,23 +230,12 @@
               <span class="eyebrow-date" id="sessionDate" hidden></span>
             </p>
             <h1 id="sessionTitle">Loading session…</h1>
-            <p class="provenance">
-              The official transcript is
-              <a id="sourceLink" href="https://committees.parliament.uk/" target="_blank" rel="noopener">here</a>.
-            </p>
           </div>
           <div class="header-side">
-            <button class="menu-button" id="menuBtn" type="button" aria-label="Back to all meetings">
-              ← All meetings
-            </button>
             <label class="session-picker" id="sessionPickerWrap" hidden>
               <span>Session</span>
               <select id="sessionPicker" aria-label="Choose a session"></select>
             </label>
-            <div class="turn-meter" aria-label="Dialogue progress">
-              <span id="turnCounter">–</span>
-              <span>turns</span>
-            </div>
           </div>
         </header>
 
@@ -275,9 +264,15 @@
             <span class="bubble-arrow" aria-hidden="true"></span>
           </article>
         </div>
+
+        <p class="provenance">
+          The official transcript is
+          <a id="sourceLink" href="https://committees.parliament.uk/" target="_blank" rel="noopener">here</a>.
+        </p>
       </section>
 
       <aside class="control-panel" aria-label="Playback and reading aids">
+        <div class="playback-bar">
         <div class="control-dock">
           <button class="control-button secondary" id="previousBtn" type="button" aria-label="Previous speech">
             <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 18l-6-6 6-6" /></svg>
@@ -292,6 +287,7 @@
         <div class="progress-track" id="progressTrack" aria-label="Session progress">
           <span id="progressFill"></span>
           <div class="chapter-ticks" id="chapterTicks"></div>
+        </div>
         </div>
 
         <nav class="tabs" role="tablist" aria-label="Reading aids">
@@ -618,6 +614,6 @@
     <script src="sessions/generated/oral-evidence-18318.js?v=cb4b1ac1"></script>
     <script src="sessions/generated/oral-evidence-18319.js?v=340b3640"></script>
     <!-- GENERATED_SESSIONS_END -->
-    <script defer src="app.js?v=18"></script>
+    <script defer src="app.js?v=19"></script>
   </body>
 </html>
