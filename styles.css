@@ -384,6 +384,12 @@ h1 {
   font-weight: 900;
 }
 
+/* Wider screens: the card floats over the room, where the nameplate under
+   the spotlight already names the speaker. Phones keep it (no nameplate). */
+.speech-bubble:not([data-placement="static"]) .bubble-speaker {
+  display: none;
+}
+
 .bubble-count {
   color: var(--muted);
   font-size: 0.76rem;
