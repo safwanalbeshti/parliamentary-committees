@@ -1156,22 +1156,57 @@ h1 {
   margin-top: 4px;
 }
 
-.home-why-link {
-  color: var(--accent-strong);
+.home-cta {
+  display: block;
+  width: 100%;
+  margin: 22px 0 18px;
+  padding: 16px 20px;
+  border: 0;
+  border-radius: var(--radius);
+  background: #006e46;
+  box-shadow: 0 12px 28px rgba(0, 85, 58, 0.22);
+  color: #fff;
+  font: inherit;
+  font-weight: 700;
+  line-height: 1.45;
+  text-align: left;
+  cursor: pointer;
+  transition:
+    transform 160ms ease,
+    background 160ms ease,
+    box-shadow 160ms ease;
+}
+
+.home-cta:hover,
+.home-cta:focus-visible {
+  transform: translateY(-1px);
+  background: #00553a;
+  box-shadow: 0 16px 32px rgba(0, 85, 58, 0.28);
+}
+
+.home-cta:focus-visible {
+  outline: 3px solid #8cc4a6;
+  outline-offset: 3px;
+}
+
+.home-more {
+  margin: 0;
+}
+
+.home-more-link {
+  color: #006e46;
   font-weight: 700;
   text-decoration: underline;
   text-underline-offset: 3px;
 }
 
-.home-why-link:hover,
-.home-why-link:focus-visible {
-  color: var(--ink);
+.home-more-link:hover,
+.home-more-link:focus-visible {
+  color: #00402a;
 }
 
 .home-heading {
   margin: 0 2px 8px;
-  padding-top: 22px;
-  border-top: 1px solid var(--line);
   color: var(--ink);
   font-size: 1.5rem;
   line-height: 1.2;
@@ -1752,4 +1787,49 @@ body:has(main.app:not([hidden])) {
 .app .progress-track span,
 .app #progressFill {
   background: #006e46 !important;
+}
+
+/* ---------- Commons green theme (home and committees pages) ---------- */
+
+.home-page {
+  --accent: #006e46;
+  --accent-strong: #00553a;
+  --blue: #006e46;
+  --green: #3d8a66;
+  --radius: 16px;
+}
+
+body:has(.home-page:not([hidden])) {
+  background: linear-gradient(180deg, #e6efe9, #d3e2d8);
+}
+
+.home-page .committee-type-select {
+  border-color: rgba(0, 110, 70, 0.3);
+  background: linear-gradient(
+      180deg,
+      rgba(0, 110, 70, 0.12),
+      rgba(0, 110, 70, 0.04)
+    ),
+    var(--panel);
+}
+
+.home-page .oral-evidence-link {
+  border-color: rgba(0, 110, 70, 0.4);
+  background: linear-gradient(180deg, rgba(0, 110, 70, 0.18), rgba(0, 110, 70, 0.1));
+  box-shadow: 0 10px 24px rgba(0, 85, 58, 0.13);
+}
+
+.home-page .oral-evidence-link:hover,
+.home-page .oral-evidence-link:focus-visible {
+  background: linear-gradient(180deg, rgba(0, 110, 70, 0.26), rgba(0, 110, 70, 0.15));
+  box-shadow: 0 16px 32px rgba(0, 85, 58, 0.2);
+}
+
+.home-page .gloss-term:hover,
+.home-page .gloss-term:focus {
+  background: rgba(0, 110, 70, 0.16);
+}
+
+.home-page .home-link:hover {
+  background: rgba(0, 110, 70, 0.12);
 }

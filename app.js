@@ -130,7 +130,10 @@ const el = {
   appMain: document.querySelector("main.app"),
   homePage: document.querySelector("#homePage"),
   homeBrowseLink: document.querySelector("#homeBrowseLink"),
-  homeIntroBrowseLink: document.querySelector("#homeIntroBrowseLink"),
+  homeIntroBrowseBtn: document.querySelector("#homeIntroBrowseBtn"),
+  homeCommitteesLink: document.querySelector("#homeCommitteesLink"),
+  committeesPage: document.querySelector("#committeesPage"),
+  committeesHomeLink: document.querySelector("#committeesHomeLink"),
   homeLink: document.querySelector("#homeLink"),
   meetingMenu: document.querySelector("#meetingMenu"),
   blockGrid: document.querySelector("#blockGrid"),
@@ -213,11 +216,13 @@ function init() {
   const fromHash = readHash();
 
   // A deep link goes straight to its session; a direct link to the browser
-  // opens that; everyone else starts at the home page.
+  // or the committees page opens that; everyone else starts at the home page.
   if (fromHash.sessionId && findSession(fromHash.sessionId)) {
     enterSession(fromHash.sessionId, fromHash.turn);
   } else if (window.location.hash === "#browse") {
     showMenu();
+  } else if (window.location.hash === "#committees") {
+    showCommittees();
   } else {
     showHome();
   }
@@ -577,14 +582,26 @@ function setMenuMode(mode) {
 
 function showHome() {
   el.homePage.hidden = false;
+  el.committeesPage.hidden = true;
   el.meetingMenu.hidden = true;
   el.appMain.hidden = true;
   document.title = "Parliamentary Committees, in Plain English";
   history.replaceState(null, "", window.location.pathname + window.location.search);
 }
 
+function showCommittees() {
+  el.homePage.hidden = true;
+  el.committeesPage.hidden = false;
+  el.meetingMenu.hidden = true;
+  el.appMain.hidden = true;
+  document.title = "Committees in Parliament — Parliamentary Committees, in Plain English";
+  history.replaceState(null, "", window.location.pathname + window.location.search);
+  window.scrollTo(0, 0);
+}
+
 function showMenu() {
   el.homePage.hidden = true;
+  el.committeesPage.hidden = true;
   el.meetingMenu.hidden = false;
   el.appMain.hidden = true;
   document.title = "Browse sessions — Parliamentary Committees, in Plain English";
@@ -593,6 +610,7 @@ function showMenu() {
 
 function enterSession(id, turn = null) {
   el.homePage.hidden = true;
+  el.committeesPage.hidden = true;
   el.meetingMenu.hidden = true;
   el.appMain.hidden = false;
   selectSession(id);
@@ -1150,16 +1168,22 @@ function populateSessionPicker() {
 
 function bindControls() {
   el.menuBtn.addEventListener("click", showMenu);
-  for (const link of [el.homeBrowseLink, el.homeIntroBrowseLink]) {
+  for (const link of [el.homeBrowseLink, el.homeIntroBrowseBtn]) {
     link.addEventListener("click", (event) => {
       event.preventDefault();
       showMenu();
     });
   }
-  el.homeLink.addEventListener("click", (event) => {
+  el.homeCommitteesLink.addEventListener("click", (event) => {
     event.preventDefault();
-    showHome();
+    showCommittees();
   });
+  for (const link of [el.homeLink, el.committeesHomeLink]) {
+    link.addEventListener("click", (event) => {
+      event.preventDefault();
+      showHome();
+    });
+  }
 
   for (const button of el.modeButtons) {
     button.addEventListener("click", () => setMenuMode(button.dataset.mode));

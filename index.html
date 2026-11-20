@@ -4,11 +4,11 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Parliamentary Committees, in Plain English</title>
-    <link rel="stylesheet" href="styles.css?v=15" />
+    <link rel="stylesheet" href="styles.css?v=16" />
     <link rel="preload" as="image" href="Energy Resilience/committee_room_4.png" />
   </head>
   <body>
-    <section class="home-page" id="homePage" aria-label="About this site and parliamentary committees">
+    <section class="home-page" id="homePage" aria-label="About this site">
       <h1 class="visually-hidden">Parliamentary Committees, in Plain English</h1>
 
       <div class="home-why">
@@ -22,14 +22,20 @@
           <li>influence MPs by writing to them with well-informed opinions</li>
           <li>make better-informed voting decisions</li>
         </ul>
-        <p>
-          <a href="#browse" class="home-why-link" id="homeIntroBrowseLink">Here you can
-            read condensed-down versions of parliamentary committee meetings whose (long
-            and boring) transcripts are publicly available.</a>
+        <button type="button" class="home-cta" id="homeIntroBrowseBtn">
+          Here you can read condensed-down versions of parliamentary committee meetings
+          whose (long and boring) transcripts are publicly available.
+        </button>
+        <p class="home-more">
+          <a href="#committees" class="home-more-link" id="homeCommitteesLink">Here’s some more
+            information about the different types of committees in parliament.</a>
         </p>
       </div>
+    </section>
 
-      <h2 class="home-heading">Committees in Parliament</h2>
+    <section class="home-page committees-page" id="committeesPage" hidden aria-labelledby="committeesHeading">
+      <a href="#" class="home-link" id="committeesHomeLink">← Home</a>
+      <h1 class="home-heading" id="committeesHeading">Committees in Parliament</h1>
       <p class="home-intro">There are 3 types of parliamentary committee in the UK:</p>
 
       <article class="committee-type committee-type-select">
@@ -196,7 +202,7 @@
 
     <section class="meeting-menu" id="meetingMenu" hidden aria-label="Choose a meeting">
       <header class="menu-header">
-        <a href="#" id="homeLink" class="home-link">← About committees</a>
+        <a href="#" id="homeLink" class="home-link">← Home</a>
         <h1>Browse sessions</h1>
         <p>
           Public evidence sessions, retold as short dialogues you can step through.
@@ -605,6 +611,6 @@
     <script src="sessions/generated/oral-evidence-18318.js?v=cb4b1ac1"></script>
     <script src="sessions/generated/oral-evidence-18319.js?v=340b3640"></script>
     <!-- GENERATED_SESSIONS_END -->
-    <script defer src="app.js?v=13"></script>
+    <script defer src="app.js?v=14"></script>
   </body>
 </html>
