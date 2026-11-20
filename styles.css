@@ -384,6 +384,12 @@ h1 {
   font-weight: 900;
 }
 
+/* Wider screens: the card floats over the room, where the nameplate under
+   the spotlight already names the speaker. Phones keep it (no nameplate). */
+.speech-bubble:not([data-placement="static"]) .bubble-speaker {
+  display: none;
+}
+
 .bubble-count {
   color: var(--muted);
   font-size: 0.76rem;
@@ -1086,9 +1092,14 @@ h1 {
     align-items: center;
   }
 
+  /* On phones the dialogue card right below already names the speaker. */
   .seat-nameplate {
-    font-size: 0.62rem;
-    padding: 3px 8px;
+    display: none;
+  }
+
+  /* Phones: the dialogue card's "3 of 69" already gives the count. */
+  .turn-meter {
+    display: none;
   }
 
   .control-button {

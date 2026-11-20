@@ -155,6 +155,7 @@ const el = {
   sessionDate: document.querySelector("#sessionDate"),
   sessionTitle: document.querySelector("#sessionTitle"),
   sourceLink: document.querySelector("#sourceLink"),
+  turnCounter: document.querySelector("#turnCounter"),
   whatThisIs: document.querySelector("#whatThisIs"),
   whatThisIsBtn: document.querySelector("#whatThisIsBtn"),
   aboutSourceLink: document.querySelector("#aboutSourceLink"),
@@ -814,6 +815,7 @@ function setCurrent(nextIndex, options = {}) {
   el.nameplate.style.setProperty("--speaker-soft", design.soft);
   el.spotlight.style.setProperty("--spot-color", design.color);
 
+  el.turnCounter.textContent = `${currentIndex + 1} / ${dialogue.length}`;
   el.progressFill.style.width = `${((currentIndex + 1) / dialogue.length) * 100}%`;
   el.previousBtn.disabled = currentIndex === 0;
   el.nextBtn.disabled = currentIndex === dialogue.length - 1;
