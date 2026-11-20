@@ -50,7 +50,6 @@ function memberKindLabel(name) {
 }
 
 const STORAGE_KEY = "committee-viewer-progress";
-const MENU_MODE_KEY = "committee-viewer-menu-mode";
 
 /*
  * Terms a general reader is unlikely to know. Each session also carries its own
@@ -130,6 +129,10 @@ const el = {
   appMain: document.querySelector("main.app"),
   homePage: document.querySelector("#homePage"),
   homeBrowseLink: document.querySelector("#homeBrowseLink"),
+  homeIntroBrowseBtn: document.querySelector("#homeIntroBrowseBtn"),
+  homeCommitteesLink: document.querySelector("#homeCommitteesLink"),
+  committeesPage: document.querySelector("#committeesPage"),
+  committeesHomeLink: document.querySelector("#committeesHomeLink"),
   homeLink: document.querySelector("#homeLink"),
   meetingMenu: document.querySelector("#meetingMenu"),
   blockGrid: document.querySelector("#blockGrid"),
@@ -153,13 +156,13 @@ const el = {
   sessionDate: document.querySelector("#sessionDate"),
   sessionTitle: document.querySelector("#sessionTitle"),
   sourceLink: document.querySelector("#sourceLink"),
+  whatThisIs: document.querySelector("#whatThisIs"),
+  whatThisIsBtn: document.querySelector("#whatThisIsBtn"),
   aboutSourceLink: document.querySelector("#aboutSourceLink"),
   aboutSummary: document.querySelector("#aboutSummary"),
   turnCounter: document.querySelector("#turnCounter"),
   sessionPickerWrap: document.querySelector("#sessionPickerWrap"),
   sessionPicker: document.querySelector("#sessionPicker"),
-  chapterLabel: document.querySelector("#chapterLabel"),
-  chapterTakeaway: document.querySelector("#chapterTakeaway"),
   previousBtn: document.querySelector("#previousBtn"),
   nextBtn: document.querySelector("#nextBtn"),
   progressTrack: document.querySelector("#progressTrack"),
@@ -181,8 +184,10 @@ let dialogue = [];
 let chapters = [];
 let cast = new Map();
 let currentIndex = 0;
-let menuMode = "inquiry";
+let menuMode = "committee";
 let openCommittee = null;
+// The inquiry whose sessions are listed on their own page (a meeting key).
+let openInquiry = null;
 
 init();
 
@@ -201,22 +206,69 @@ function init() {
   buildSessionPicker();
   bindControls();
 
-  let storedMode = "inquiry";
-  try {
-    storedMode = localStorage.getItem(MENU_MODE_KEY) || "inquiry";
-  } catch {
-    /* storage unavailable — fine */
-  }
-  setMenuMode(storedMode);
+  // Browse always opens grouped by committee.
+  setMenuMode("committee");
 
+  applyRoute();
+
+  // Back/Forward: every page change below records a history entry, so the
+  // browser's own buttons move between pages of this site.
+  window.addEventListener("popstate", () => {
+    restoringRoute = true;
+    try {
+      applyRoute();
+    } finally {
+      restoringRoute = false;
+    }
+  });
+}
+
+/* ---------- routing ---------- */
+
+// URLs, all in the hash so a static host serves them:
+//   (none)                        home
+//   #committees                   Committees in Parliament
+//   #browse[&by=inquiry][&c=…][&i=…]  Browse sessions, and where in it
+//   #s=<session>&t=<turn>          a session
+let restoringRoute = false;
+
+// Point the address bar at a page. A new page pushes a history entry; when
+// we are only re-showing a page because of Back/Forward, it replaces instead.
+function setUrl(hash) {
+  const url = window.location.pathname + window.location.search + hash;
+  const current = window.location.pathname + window.location.search + window.location.hash;
+  if (url === current) return;
+  if (restoringRoute) {
+    history.replaceState(null, "", url);
+  } else {
+    history.pushState(null, "", url);
+  }
+}
+
+function menuHash() {
+  const params = new URLSearchParams();
+  if (menuMode === "inquiry") params.set("by", "inquiry");
+  if (openCommittee) params.set("c", openCommittee);
+  if (openInquiry) params.set("i", openInquiry);
+  const rest = params.toString();
+  return rest ? `#browse&${rest}` : "#browse";
+}
+
+// Show whichever page the current URL names.
+function applyRoute() {
+  const params = new URLSearchParams(window.location.hash.slice(1));
   const fromHash = readHash();
 
-  // A deep link goes straight to its session; a direct link to the browser
-  // opens that; everyone else starts at the home page.
   if (fromHash.sessionId && findSession(fromHash.sessionId)) {
-    enterSession(fromHash.sessionId, fromHash.turn);
-  } else if (window.location.hash === "#browse") {
+    enterSession(fromHash.sessionId, fromHash.turn, { push: false });
+  } else if (params.has("browse")) {
+    menuMode = params.get("by") === "inquiry" ? "inquiry" : "committee";
+    openCommittee = params.get("c");
+    openInquiry = params.get("i");
+    syncModeButtons();
     showMenu();
+  } else if (params.has("committees")) {
+    showCommittees();
   } else {
     showHome();
   }
@@ -373,6 +425,7 @@ function meetingsFromSessions() {
     const key = item.inquiry ? `inquiry|${item.inquiry}` : `committee|${item.committee || "Committee"}`;
     if (!groups.has(key)) {
       groups.set(key, {
+        key,
         title: item.inquiry || item.committee || "Committee",
         committee: item.inquiry ? item.committee || "" : "",
         when: 0,
@@ -428,77 +481,61 @@ function plural(count, word) {
   return `${count} ${word}${count === 1 ? "" : "s"}`;
 }
 
-// An inquiry block: the face shows the title, hovering reveals its sessions.
+// An inquiry block: clicking opens a page listing that inquiry's sessions.
 function inquiryBlock(meeting, showCommittee) {
-  const block = document.createElement("article");
-  block.className = "block";
-  block.tabIndex = 0;
+  const block = document.createElement("button");
+  block.type = "button";
+  block.className = "block block-link";
 
-  const face = document.createElement("div");
-  face.className = "block-face";
-
-  const title = document.createElement("h2");
+  const title = document.createElement("span");
   title.className = "block-title";
   title.textContent = meeting.title;
-  face.append(title);
+  block.append(title);
 
   if (showCommittee && meeting.committee) {
-    const meta = document.createElement("p");
+    const meta = document.createElement("span");
     meta.className = "block-meta";
     meta.textContent = meeting.committee;
-    face.append(meta);
+    block.append(meta);
   }
 
-  const count = document.createElement("p");
+  const count = document.createElement("span");
   count.className = "block-count";
   count.textContent = plural(meeting.sessions.length, "session");
-  face.append(count);
 
-  block.append(face);
+  const go = document.createElement("span");
+  go.className = "block-go";
+  go.textContent = "→";
 
-  const reveal = document.createElement("div");
-  reveal.className = "block-reveal";
-
-  const revealTitle = document.createElement("p");
-  revealTitle.className = "reveal-title";
-  revealTitle.textContent = meeting.title;
-  reveal.append(revealTitle);
-
-  for (const item of meeting.sessions) {
-    const button = document.createElement("button");
-    button.type = "button";
-    button.className = "reveal-session";
-
-    const name = document.createElement("span");
-    name.className = "reveal-session-name";
-    name.textContent = sessionMenuLabel(item);
-
-    const when = document.createElement("span");
-    when.className = "reveal-session-date";
-    when.textContent = item.date || "";
-
-    button.append(name, when);
-    button.addEventListener("click", (event) => {
-      event.stopPropagation();
-      enterSession(item.id);
-    });
-    reveal.append(button);
-  }
-
-  block.append(reveal);
-
-  // Touch devices have no hover: tapping the face opens the same panel.
-  block.addEventListener("click", () => block.classList.add("is-open"));
-  block.addEventListener("mouseleave", () => block.classList.remove("is-open"));
-  block.addEventListener("keydown", (event) => {
-    if (event.key === "Enter" || event.key === " ") {
-      event.preventDefault();
-      block.classList.toggle("is-open");
-    } else if (event.key === "Escape") {
-      block.classList.remove("is-open");
-    }
+  block.append(count, go);
+  block.addEventListener("click", () => {
+    openInquiry = meeting.key;
+    renderMenu();
+    window.scrollTo(0, 0);
   });
+  return block;
+}
 
+// A session block on an inquiry's page: clicking opens the session itself.
+function sessionBlock(item) {
+  const block = document.createElement("button");
+  block.type = "button";
+  block.className = "block block-link block-session";
+
+  const title = document.createElement("span");
+  title.className = "block-title";
+  title.textContent = sessionMenuLabel(item);
+
+  const when = document.createElement("span");
+  when.className = "block-count";
+  when.textContent = item.date || "";
+
+  const go = document.createElement("span");
+  go.className = "block-go";
+  go.textContent = "→";
+
+  block.append(title, when, go);
+  block.addEventListener("click", () => enterSession(item.id));
   return block;
 }
 
@@ -527,15 +564,33 @@ function committeeBlock(committee) {
   block.addEventListener("click", () => {
     openCommittee = committee.name;
     renderMenu();
+    window.scrollTo(0, 0);
   });
   return block;
 }
 
 function renderMenu() {
   const fragment = document.createDocumentFragment();
-  const inCommitteeView = menuMode === "committee" && openCommittee;
+  const inquiry = openInquiry
+    ? meetingsFromSessions().find((meeting) => meeting.key === openInquiry)
+    : null;
+  if (!inquiry) openInquiry = null;
+  const inCommitteeView = !inquiry && menuMode === "committee" && openCommittee;
 
-  if (inCommitteeView) {
+  if (inquiry) {
+    for (const item of inquiry.sessions) {
+      fragment.append(sessionBlock(item));
+    }
+    el.crumbTitle.textContent = inquiry.title;
+    if (inquiry.committee) {
+      const meta = document.createElement("span");
+      meta.className = "crumb-meta";
+      meta.textContent = inquiry.committee;
+      el.crumbTitle.append(meta);
+    }
+    el.crumbBack.textContent =
+      menuMode === "committee" && openCommittee ? `← ${openCommittee}` : "← All inquiries";
+  } else if (inCommitteeView) {
     const committee = committeesFromSessions().find(
       (entry) => entry.name === openCommittee
     );
@@ -543,6 +598,7 @@ function renderMenu() {
       fragment.append(inquiryBlock(meeting, false));
     }
     el.crumbTitle.textContent = openCommittee;
+    el.crumbBack.textContent = "← All committees";
   } else if (menuMode === "committee") {
     for (const committee of committeesFromSessions()) {
       fragment.append(committeeBlock(committee));
@@ -553,45 +609,68 @@ function renderMenu() {
     }
   }
 
-  el.menuCrumb.hidden = !inCommitteeView;
+  el.menuCrumb.hidden = !(inquiry || inCommitteeView);
+  el.blockGrid.classList.toggle("is-sessions", Boolean(inquiry));
   el.blockGrid.replaceChildren(fragment);
+  if (!el.meetingMenu.hidden) setUrl(menuHash());
+}
+
+// Going to the menu from the home page always starts at the top level,
+// grouped by committee.
+function resetMenu() {
+  setMenuMode("committee");
 }
 
 function setMenuMode(mode) {
   menuMode = mode === "committee" ? "committee" : "inquiry";
   openCommittee = null;
-  try {
-    localStorage.setItem(MENU_MODE_KEY, menuMode);
-  } catch {
-    /* storage unavailable — fine */
-  }
+  openInquiry = null;
+  syncModeButtons();
+  renderMenu();
+}
+
+function syncModeButtons() {
   for (const button of el.modeButtons) {
     button.setAttribute(
       "aria-pressed",
       button.dataset.mode === menuMode ? "true" : "false"
     );
   }
-  renderMenu();
 }
 
 function showHome() {
   el.homePage.hidden = false;
+  el.committeesPage.hidden = true;
   el.meetingMenu.hidden = true;
   el.appMain.hidden = true;
   document.title = "Parliamentary Committees, in Plain English";
-  history.replaceState(null, "", window.location.pathname + window.location.search);
+  setUrl("");
+}
+
+function showCommittees() {
+  el.homePage.hidden = true;
+  el.committeesPage.hidden = false;
+  el.meetingMenu.hidden = true;
+  el.appMain.hidden = true;
+  document.title = "Committees in Parliament — Parliamentary Committees, in Plain English";
+  setUrl("#committees");
+  window.scrollTo(0, 0);
 }
 
 function showMenu() {
   el.homePage.hidden = true;
+  el.committeesPage.hidden = true;
   el.meetingMenu.hidden = false;
   el.appMain.hidden = true;
   document.title = "Browse sessions — Parliamentary Committees, in Plain English";
-  history.replaceState(null, "", window.location.pathname + window.location.search);
+  renderMenu();
 }
 
-function enterSession(id, turn = null) {
+function enterSession(id, turn = null, { push = true } = {}) {
+  // The turn is kept up to date by persistProgress, which replaces the entry.
+  if (push) setUrl(`#s=${encodeURIComponent(id)}`);
   el.homePage.hidden = true;
+  el.committeesPage.hidden = true;
   el.meetingMenu.hidden = true;
   el.appMain.hidden = false;
   selectSession(id);
@@ -640,7 +719,7 @@ function selectSession(id) {
   const sourceUrl = session.sourceUrl || "https://committees.parliament.uk/";
   el.sourceLink.href = sourceUrl;
   el.aboutSourceLink.href = sourceUrl;
-  // The link reads "here" in the sentence; the source's status goes in its tooltip.
+  // The link reads "here"; the source's exact status goes in its tooltip.
   if (session.sourceLabel) el.sourceLink.title = session.sourceLabel;
 
   populateSessionPicker();
@@ -724,7 +803,6 @@ function setCurrent(nextIndex, options = {}) {
   const entry = dialogue[currentIndex];
   const design = cast.get(entry.speaker) || { ...DEFAULT_DESIGN, name: entry.speaker };
   const seat = seatForTurn(design, currentIndex);
-  const chapter = chapterForTurn(currentIndex);
 
   el.bubbleSpeaker.textContent = design.name;
   el.bubbleText.replaceChildren(glossify(entry.line));
@@ -737,10 +815,6 @@ function setCurrent(nextIndex, options = {}) {
     design.kind === "member" ? memberKindLabel(design.name) : KIND_LABELS[design.kind] || "";
   el.nameplate.style.setProperty("--speaker-soft", design.soft);
   el.spotlight.style.setProperty("--spot-color", design.color);
-
-  const chapterNumber = chapters.indexOf(chapter) + 1;
-  el.chapterLabel.textContent = `Chapter ${chapterNumber} · ${chapter.label}`;
-  el.chapterTakeaway.textContent = chapter.takeaway;
 
   el.turnCounter.textContent = `${currentIndex + 1} / ${dialogue.length}`;
   el.progressFill.style.width = `${((currentIndex + 1) / dialogue.length) * 100}%`;
@@ -1128,6 +1202,7 @@ function readHash() {
 
 function buildSessionPicker() {
   el.sessionPicker.addEventListener("change", () => {
+    setUrl(`#s=${encodeURIComponent(el.sessionPicker.value)}`);
     selectSession(el.sessionPicker.value);
     setCurrent(0, { immediate: true });
   });
@@ -1148,22 +1223,36 @@ function populateSessionPicker() {
 }
 
 function bindControls() {
-  el.menuBtn.addEventListener("click", showMenu);
-  el.homeBrowseLink.addEventListener("click", (event) => {
+  el.menuBtn.addEventListener("click", () => showMenu());
+  for (const link of [el.homeBrowseLink, el.homeIntroBrowseBtn]) {
+    link.addEventListener("click", (event) => {
+      event.preventDefault();
+      resetMenu();
+      showMenu();
+    });
+  }
+  el.homeCommitteesLink.addEventListener("click", (event) => {
     event.preventDefault();
-    showMenu();
+    showCommittees();
   });
-  el.homeLink.addEventListener("click", (event) => {
-    event.preventDefault();
-    showHome();
-  });
+  for (const link of [el.homeLink, el.committeesHomeLink]) {
+    link.addEventListener("click", (event) => {
+      event.preventDefault();
+      showHome();
+    });
+  }
 
   for (const button of el.modeButtons) {
     button.addEventListener("click", () => setMenuMode(button.dataset.mode));
   }
   el.crumbBack.addEventListener("click", () => {
-    openCommittee = null;
+    if (openInquiry) {
+      openInquiry = null;
+    } else {
+      openCommittee = null;
+    }
     renderMenu();
+    window.scrollTo(0, 0);
   });
 
   el.previousBtn.addEventListener("click", () => setCurrent(currentIndex - 1));
@@ -1180,6 +1269,7 @@ function bindControls() {
     button.addEventListener("click", () => activateTab(button.dataset.tab));
   }
 
+  bindWhatThisIs();
   window.addEventListener("keydown", onKeydown);
   window.addEventListener("resize", () => requestAnimationFrame(repositionOverlay));
   compactLayout.addEventListener("change", () => requestAnimationFrame(repositionOverlay));
@@ -1225,6 +1315,29 @@ function onKeydown(event) {
     default:
       break;
   }
+}
+
+/* ---------- "What this is" ---------- */
+
+// Hover or keyboard focus shows the panel through CSS; a click or tap pins it
+// open, which is what touch screens rely on.
+function bindWhatThisIs() {
+  const setOpen = (open) => {
+    el.whatThisIs.classList.toggle("is-open", open);
+    el.whatThisIsBtn.setAttribute("aria-expanded", String(open));
+  };
+  el.whatThisIsBtn.addEventListener("click", () => {
+    setOpen(!el.whatThisIs.classList.contains("is-open"));
+  });
+  document.addEventListener("click", (event) => {
+    if (!el.whatThisIs.contains(event.target)) setOpen(false);
+  });
+  el.whatThisIs.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") {
+      setOpen(false);
+      el.whatThisIsBtn.blur();
+    }
+  });
 }
 
 /* ---------- helpers ---------- */

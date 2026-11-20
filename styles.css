@@ -418,36 +418,6 @@ h1 {
   border-left: 1px solid rgba(24, 32, 38, 0.16);
 }
 
-/* ---------- chapter banner ---------- */
-
-.chapter-banner {
-  display: flex;
-  align-items: baseline;
-  gap: 12px;
-  min-height: 44px;
-  padding: 10px 14px;
-  border: 1px solid var(--line);
-  border-left: 4px solid var(--accent);
-  border-radius: var(--radius);
-  background: var(--panel);
-  box-shadow: 0 12px 30px rgba(24, 32, 38, 0.08);
-}
-
-.chapter-label {
-  flex-shrink: 0;
-  font-size: 0.78rem;
-  font-weight: 900;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: #5d6a64;
-}
-
-.chapter-takeaway {
-  color: var(--ink);
-  font-size: 0.86rem;
-  line-height: 1.35;
-}
-
 /* ---------- control panel ---------- */
 
 .control-panel {
@@ -899,6 +869,117 @@ h1 {
   font-weight: 800;
 }
 
+/* ---------- "What this is" ---------- */
+
+/* Last item in the side column, so the tab panel above makes room for it. */
+.what-this-is {
+  position: relative;
+  z-index: 45;
+  flex: none;
+  align-self: flex-end;
+}
+
+.what-this-is-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 8px 14px 8px 11px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--panel);
+  color: #5d6a64;
+  font: inherit;
+  font-size: 0.72rem;
+  font-weight: 900;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  box-shadow: 0 8px 22px rgba(24, 32, 38, 0.14);
+  backdrop-filter: blur(12px);
+  cursor: help;
+}
+
+.what-this-is-icon {
+  flex: none;
+}
+
+.what-this-is-button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.what-this-is-tip {
+  position: absolute;
+  right: 0;
+  bottom: calc(100% + 10px);
+  width: min(320px, calc(100vw - 36px));
+  padding: 12px 14px;
+  border-radius: var(--radius);
+  background: #182026;
+  color: #f4f2e8;
+  font-size: 0.78rem;
+  font-weight: 600;
+  line-height: 1.5;
+  box-shadow: 0 18px 38px rgba(24, 32, 38, 0.34);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(5px);
+  transition:
+    opacity 150ms ease,
+    transform 150ms ease,
+    visibility 0s linear 150ms;
+}
+
+/* Bridges the gap to the button, so the pointer can reach the link. */
+.what-this-is-tip::before {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  height: 12px;
+}
+
+.what-this-is-tip::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  right: 26px;
+  border: 6px solid transparent;
+  border-top-color: #182026;
+}
+
+/* :focus-visible, not :focus-within, so a mouse click can close it again. */
+.what-this-is:hover .what-this-is-tip,
+.what-this-is:has(:focus-visible) .what-this-is-tip,
+.what-this-is.is-open .what-this-is-tip {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+  transition:
+    opacity 150ms ease,
+    transform 150ms ease;
+}
+
+.what-this-is-tip p {
+  margin: 0 0 8px;
+}
+
+.what-this-is-tip p:last-child {
+  margin-bottom: 0;
+}
+
+.what-this-is-licence {
+  padding-top: 8px;
+  border-top: 1px solid rgba(244, 242, 232, 0.18);
+  color: rgba(244, 242, 232, 0.72);
+  font-size: 0.72rem;
+}
+
+.what-this-is-tip a {
+  color: #f0c27a;
+  font-weight: 800;
+}
+
 /* ---------- animation ---------- */
 
 @keyframes spotlightPulse {
@@ -1006,11 +1087,6 @@ h1 {
   .seat-nameplate {
     font-size: 0.62rem;
     padding: 3px 8px;
-  }
-
-  .chapter-banner {
-    flex-direction: column;
-    gap: 4px;
   }
 
   .control-button {
@@ -1124,8 +1200,99 @@ h1 {
   padding: clamp(14px, 3vw, 40px) clamp(14px, 3vw, 32px) clamp(26px, 4vw, 52px);
 }
 
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* ---------- why this site exists ---------- */
+
+.home-why {
+  margin: 0 2px 34px;
+  color: var(--ink);
+  font-size: 1.02rem;
+  line-height: 1.6;
+}
+
+.home-why p {
+  margin: 0 0 12px;
+}
+
+.home-why ul {
+  margin: 0 0 16px;
+  padding-left: 1.3em;
+}
+
+.home-why li + li {
+  margin-top: 4px;
+}
+
+.home-cta {
+  display: block;
+  width: 100%;
+  margin: 22px 0 18px;
+  padding: 16px 20px;
+  border: 0;
+  border-radius: var(--radius);
+  background: #006e46;
+  box-shadow: 0 12px 28px rgba(0, 85, 58, 0.22);
+  color: #fff;
+  font: inherit;
+  font-weight: 700;
+  line-height: 1.45;
+  text-align: left;
+  cursor: pointer;
+  transition:
+    transform 160ms ease,
+    background 160ms ease,
+    box-shadow 160ms ease;
+}
+
+.home-cta:hover,
+.home-cta:focus-visible {
+  transform: translateY(-1px);
+  background: #00553a;
+  box-shadow: 0 16px 32px rgba(0, 85, 58, 0.28);
+}
+
+.home-cta:focus-visible {
+  outline: 3px solid #8cc4a6;
+  outline-offset: 3px;
+}
+
+.home-more {
+  margin: 0;
+}
+
+.home-more-link {
+  color: #006e46;
+  font-size: 0.9rem;
+  font-style: italic;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.home-more-link:hover,
+.home-more-link:focus-visible {
+  color: #00402a;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.home-heading {
+  margin: 0 2px 8px;
+  color: var(--ink);
+  font-size: 1.5rem;
+  line-height: 1.2;
+}
+
 .home-intro {
-  /* An <h1> so the page keeps a heading; sized as body copy, not a title. */
+  /* Sized as body copy, not a title. */
   margin: 0 2px 14px;
   line-height: 1.45;
   color: var(--ink);
@@ -1365,15 +1532,9 @@ h1 {
 }
 
 .menu-header h1 {
-  margin: 0 0 8px;
+  margin: 0 0 16px;
   font-size: clamp(1.5rem, 3.4vw, 2.2rem);
   color: var(--ink);
-}
-
-.menu-header p {
-  margin: 0 0 18px;
-  color: var(--muted);
-  max-width: 56ch;
 }
 
 .menu-modes {
@@ -1432,6 +1593,14 @@ h1 {
   color: var(--ink);
 }
 
+.crumb-meta {
+  display: block;
+  margin-top: 2px;
+  color: var(--muted);
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+
 .block-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
@@ -1455,19 +1624,14 @@ h1 {
 }
 
 .block:hover,
-.block:focus-visible,
-.block:focus-within,
-.block.is-open {
+.block:focus-visible {
   transform: translateY(-2px);
   box-shadow: 0 14px 30px rgba(24, 32, 38, 0.15);
-  /* Lift above neighbours so the reveal panel is never clipped by them. */
-  z-index: 3;
 }
 
-.block-face {
-  display: flex;
-  flex-direction: column;
-  height: 100%;
+/* An inquiry's own page: one card per session, so they can be shorter. */
+.block-grid.is-sessions .block {
+  min-height: 112px;
 }
 
 .block-title {
@@ -1505,69 +1669,6 @@ h1 {
   bottom: 13px;
   font-size: 1.1rem;
   color: var(--accent-strong);
-}
-
-/* Hover panel listing the sessions inside an inquiry block. */
-.block-reveal {
-  position: absolute;
-  inset: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 2px;
-  padding: 12px;
-  background: var(--paper);
-  border-radius: var(--radius);
-  overflow-y: auto;
-  opacity: 0;
-  pointer-events: none;
-  transition: opacity 0.14s ease;
-}
-
-.block:hover .block-reveal,
-.block:focus-within .block-reveal,
-.block.is-open .block-reveal {
-  opacity: 1;
-  pointer-events: auto;
-}
-
-.reveal-title {
-  margin: 0 0 6px;
-  font-size: 0.7rem;
-  letter-spacing: 0.07em;
-  text-transform: uppercase;
-  font-weight: 700;
-  color: var(--muted);
-}
-
-.reveal-session {
-  display: flex;
-  flex-direction: column;
-  gap: 1px;
-  width: 100%;
-  padding: 7px 9px;
-  border: 0;
-  border-radius: 6px;
-  background: transparent;
-  text-align: left;
-  font: inherit;
-  cursor: pointer;
-}
-
-.reveal-session:hover,
-.reveal-session:focus-visible {
-  background: rgba(212, 154, 56, 0.18);
-}
-
-.reveal-session-name {
-  font-size: 0.85rem;
-  font-weight: 700;
-  line-height: 1.25;
-  color: var(--ink);
-}
-
-.reveal-session-date {
-  font-size: 0.72rem;
-  color: var(--muted);
 }
 
 .menu-button {
@@ -1687,16 +1788,132 @@ body:has(main.app:not([hidden])) {
   color: #00402a !important;
 }
 
-.app .chapter-banner {
-  background: #006e46 !important;
-  color: #fff !important;
-}
-
-.app .chapter-banner * {
-  color: #fff !important;
-}
-
 .app .progress-track span,
 .app #progressFill {
   background: #006e46 !important;
+}
+
+/* ---------- Commons green theme (home and committees pages) ---------- */
+
+.home-page {
+  --accent: #006e46;
+  --accent-strong: #00553a;
+  --blue: #006e46;
+  --green: #3d8a66;
+  --radius: 16px;
+}
+
+body:has(.home-page:not([hidden])) {
+  background: linear-gradient(180deg, #e6efe9, #d3e2d8);
+}
+
+.home-page .committee-type-select {
+  border-color: rgba(0, 110, 70, 0.3);
+  background: linear-gradient(
+      180deg,
+      rgba(0, 110, 70, 0.12),
+      rgba(0, 110, 70, 0.04)
+    ),
+    var(--panel);
+}
+
+.home-page .oral-evidence-link {
+  border-color: rgba(0, 110, 70, 0.4);
+  background: linear-gradient(180deg, rgba(0, 110, 70, 0.18), rgba(0, 110, 70, 0.1));
+  box-shadow: 0 10px 24px rgba(0, 85, 58, 0.13);
+}
+
+.home-page .oral-evidence-link:hover,
+.home-page .oral-evidence-link:focus-visible {
+  background: linear-gradient(180deg, rgba(0, 110, 70, 0.26), rgba(0, 110, 70, 0.15));
+  box-shadow: 0 16px 32px rgba(0, 85, 58, 0.2);
+}
+
+.home-page .gloss-term:hover,
+.home-page .gloss-term:focus {
+  background: rgba(0, 110, 70, 0.16);
+}
+
+.home-page .home-link:hover {
+  background: rgba(0, 110, 70, 0.12);
+}
+
+/* ---------- Commons green theme (Browse sessions page) ---------- */
+
+.meeting-menu {
+  --accent: #006e46;
+  --accent-strong: #006e46;
+  --blue: #006e46;
+  --radius: 16px;
+}
+
+body:has(.meeting-menu:not([hidden])) {
+  background: linear-gradient(180deg, #e6efe9, #d3e2d8);
+}
+
+.meeting-menu .mode-button[aria-pressed="true"] {
+  background: #006e46;
+  color: #fff;
+}
+
+.meeting-menu .home-link:hover,
+.meeting-menu .crumb-back:hover {
+  background: rgba(0, 110, 70, 0.12);
+}
+
+.meeting-menu .block {
+  border-top: 4px solid #006e46;
+}
+
+.meeting-menu .block:hover,
+.meeting-menu .block:focus-visible {
+  box-shadow: 0 14px 30px rgba(0, 85, 58, 0.18);
+}
+
+.meeting-menu .block:focus-visible {
+  outline: 3px solid #8cc4a6;
+  outline-offset: 2px;
+}
+
+/* ---------- session header: keep the title readable at any width ---------- */
+
+/* The session picker's options are long ("date · every witness's name"), and a
+   <select> is as wide as its longest option — left alone it squeezed the title
+   into a narrow column. The title now takes the room; the picker truncates. */
+.header-copy {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.header-side {
+  flex: 0 1 auto;
+  min-width: 0;
+  max-width: 42%;
+}
+
+.session-picker {
+  min-width: 0;
+  max-width: 100%;
+}
+
+.session-picker select {
+  min-width: 0;
+  width: 100%;
+  max-width: 320px;
+  text-overflow: ellipsis;
+}
+
+@media (max-width: 720px) {
+  .header-side {
+    flex-wrap: wrap;
+    max-width: 100%;
+  }
+
+  .session-picker {
+    flex: 1 1 220px;
+  }
+
+  .session-picker select {
+    max-width: none;
+  }
 }

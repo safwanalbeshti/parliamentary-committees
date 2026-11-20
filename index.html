@@ -4,12 +4,38 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Parliamentary Committees, in Plain English</title>
-    <link rel="stylesheet" href="styles.css?v=14" />
+    <link rel="stylesheet" href="styles.css?v=20" />
     <link rel="preload" as="image" href="Energy Resilience/committee_room_4.png" />
   </head>
   <body>
-    <section class="home-page" id="homePage" aria-label="About parliamentary committees">
-      <h1 class="home-intro">There are 3 types of parliamentary committee in the UK:</h1>
+    <section class="home-page" id="homePage" aria-label="About this site">
+      <h1 class="visually-hidden">Parliamentary Committees, in Plain English</h1>
+
+      <div class="home-why">
+        <p>
+          There’s a lot of stuff that goes on in Parliament. Some of it is publicly
+          documented. But it’s dense and really boring to read and contains lots of
+          jargon and uninformative filler.
+        </p>
+        <p>This is a problem: if people knew what was going on in Parliament, they’d be able to:</p>
+        <ul>
+          <li>influence MPs by writing to them with well-informed opinions</li>
+          <li>make better-informed voting decisions</li>
+        </ul>
+        <button type="button" class="home-cta" id="homeIntroBrowseBtn">
+          Click here to see what they said in their committee meetings, without the boring bits
+        </button>
+        <p class="home-more">
+          <a href="#committees" class="home-more-link" id="homeCommitteesLink">Click here for some more
+            information about the different types of committees in parliament.</a>
+        </p>
+      </div>
+    </section>
+
+    <section class="home-page committees-page" id="committeesPage" hidden aria-labelledby="committeesHeading">
+      <a href="#" class="home-link" id="committeesHomeLink">← Home</a>
+      <h1 class="home-heading" id="committeesHeading">Committees in Parliament</h1>
+      <p class="home-intro">There are 3 types of parliamentary committee in the UK:</p>
 
       <article class="committee-type committee-type-select">
         <header class="type-header">
@@ -175,18 +201,14 @@
 
     <section class="meeting-menu" id="meetingMenu" hidden aria-label="Choose a meeting">
       <header class="menu-header">
-        <a href="#" id="homeLink" class="home-link">← About committees</a>
+        <a href="#" id="homeLink" class="home-link">← Home</a>
         <h1>Browse sessions</h1>
-        <p>
-          Public evidence sessions, retold as short dialogues you can step through.
-          Pick a meeting to begin.
-        </p>
         <div class="menu-modes" role="group" aria-label="Group meetings by">
-          <button type="button" class="mode-button" data-mode="inquiry" aria-pressed="true">
-            By inquiry
-          </button>
-          <button type="button" class="mode-button" data-mode="committee" aria-pressed="false">
+          <button type="button" class="mode-button" data-mode="committee" aria-pressed="true">
             By committee
+          </button>
+          <button type="button" class="mode-button" data-mode="inquiry" aria-pressed="false">
+            By inquiry
           </button>
         </div>
       </header>
@@ -209,14 +231,13 @@
             </p>
             <h1 id="sessionTitle">Loading session…</h1>
             <p class="provenance">
-              A plain-English retelling of a public evidence session whose official
-              transcript is
+              The official transcript is
               <a id="sourceLink" href="https://committees.parliament.uk/" target="_blank" rel="noopener">here</a>.
             </p>
           </div>
           <div class="header-side">
             <button class="menu-button" id="menuBtn" type="button" aria-label="Back to all meetings">
-              ☰ All meetings
+              ← All meetings
             </button>
             <label class="session-picker" id="sessionPickerWrap" hidden>
               <span>Session</span>
@@ -254,11 +275,6 @@
             <span class="bubble-arrow" aria-hidden="true"></span>
           </article>
         </div>
-
-        <div class="chapter-banner" id="chapterBanner">
-          <span class="chapter-label" id="chapterLabel">—</span>
-          <span class="chapter-takeaway" id="chapterTakeaway"></span>
-        </div>
       </section>
 
       <aside class="control-panel" aria-label="Playback and reading aids">
@@ -279,17 +295,17 @@
         </div>
 
         <nav class="tabs" role="tablist" aria-label="Reading aids">
-          <button class="tab-button" role="tab" id="tabBtn-dialogue" data-tab="dialogue" aria-selected="false" aria-controls="tab-dialogue">
-            Dialogue
-          </button>
-          <button class="tab-button" role="tab" id="tabBtn-chapters" data-tab="chapters" aria-selected="false" aria-controls="tab-chapters">
-            Chapters
+          <button class="tab-button" role="tab" id="tabBtn-about" data-tab="about" aria-selected="true" aria-controls="tab-about">
+            About
           </button>
           <button class="tab-button" role="tab" id="tabBtn-cast" data-tab="cast" aria-selected="false" aria-controls="tab-cast">
             Who’s who
           </button>
-          <button class="tab-button" role="tab" id="tabBtn-about" data-tab="about" aria-selected="true" aria-controls="tab-about">
-            About
+          <button class="tab-button" role="tab" id="tabBtn-chapters" data-tab="chapters" aria-selected="false" aria-controls="tab-chapters">
+            Chapters
+          </button>
+          <button class="tab-button" role="tab" id="tabBtn-dialogue" data-tab="dialogue" aria-selected="false" aria-controls="tab-dialogue">
+            Dialogue
           </button>
         </nav>
 
@@ -310,7 +326,25 @@
           <div class="about-copy">
             <h3>This session in a nutshell</h3>
             <p id="aboutSummary"></p>
-            <h3>What this is</h3>
+          </div>
+        </section>
+
+        <div class="what-this-is" id="whatThisIs">
+          <button
+            class="what-this-is-button"
+            id="whatThisIsBtn"
+            type="button"
+            aria-expanded="false"
+            aria-controls="whatThisIsTip"
+          >
+            <svg class="what-this-is-icon" viewBox="0 0 16 16" width="15" height="15" aria-hidden="true" focusable="false">
+              <circle cx="8" cy="8" r="7" fill="none" stroke="currentColor" stroke-width="1.5" />
+              <circle cx="8" cy="4.9" r="1" fill="currentColor" />
+              <path d="M8 7.2v4.6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" />
+            </svg>
+            What this is
+          </button>
+          <div class="what-this-is-tip" id="whatThisIsTip">
             <p>
               Parliamentary committees publish full transcripts of their evidence sessions, but
               they are long and formal. This page retells one session as a short dialogue you can
@@ -322,7 +356,7 @@
               follow the official transcript link:
               <a id="aboutSourceLink" href="https://committees.parliament.uk/" target="_blank" rel="noopener">official transcript ↗</a>.
             </p>
-            <p class="licence-note">
+            <p class="what-this-is-licence">
               Contains Parliamentary information licensed under the
               <a
                 href="https://www.parliament.uk/site-information/copyright/open-parliament-licence/"
@@ -332,7 +366,7 @@
               This is an independent project and is not endorsed by UK Parliament.
             </p>
           </div>
-        </section>
+        </div>
       </aside>
     </main>
 
@@ -584,6 +618,6 @@
     <script src="sessions/generated/oral-evidence-18318.js?v=cb4b1ac1"></script>
     <script src="sessions/generated/oral-evidence-18319.js?v=340b3640"></script>
     <!-- GENERATED_SESSIONS_END -->
-    <script defer src="app.js?v=12"></script>
+    <script defer src="app.js?v=18"></script>
   </body>
 </html>
