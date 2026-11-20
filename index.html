@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Parliamentary Committees, in Plain English</title>
-    <link rel="stylesheet" href="styles.css?v=20" />
+    <link rel="stylesheet" href="styles.css?v=22" />
     <link rel="preload" as="image" href="Energy Resilience/committee_room_4.png" />
   </head>
   <body>
@@ -278,6 +278,7 @@
       </section>
 
       <aside class="control-panel" aria-label="Playback and reading aids">
+        <div class="playback-bar">
         <div class="control-dock">
           <button class="control-button secondary" id="previousBtn" type="button" aria-label="Previous speech">
             <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 18l-6-6 6-6" /></svg>
@@ -292,6 +293,7 @@
         <div class="progress-track" id="progressTrack" aria-label="Session progress">
           <span id="progressFill"></span>
           <div class="chapter-ticks" id="chapterTicks"></div>
+        </div>
         </div>
 
         <nav class="tabs" role="tablist" aria-label="Reading aids">
