@@ -1456,15 +1456,9 @@ h1 {
 }
 
 .menu-header h1 {
-  margin: 0 0 8px;
+  margin: 0 0 16px;
   font-size: clamp(1.5rem, 3.4vw, 2.2rem);
   color: var(--ink);
-}
-
-.menu-header p {
-  margin: 0 0 18px;
-  color: var(--muted);
-  max-width: 56ch;
 }
 
 .menu-modes {
@@ -1523,6 +1517,14 @@ h1 {
   color: var(--ink);
 }
 
+.crumb-meta {
+  display: block;
+  margin-top: 2px;
+  color: var(--muted);
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+
 .block-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
@@ -1546,19 +1548,14 @@ h1 {
 }
 
 .block:hover,
-.block:focus-visible,
-.block:focus-within,
-.block.is-open {
+.block:focus-visible {
   transform: translateY(-2px);
   box-shadow: 0 14px 30px rgba(24, 32, 38, 0.15);
-  /* Lift above neighbours so the reveal panel is never clipped by them. */
-  z-index: 3;
 }
 
-.block-face {
-  display: flex;
-  flex-direction: column;
-  height: 100%;
+/* An inquiry's own page: one card per session, so they can be shorter. */
+.block-grid.is-sessions .block {
+  min-height: 112px;
 }
 
 .block-title {
@@ -1596,69 +1593,6 @@ h1 {
   bottom: 13px;
   font-size: 1.1rem;
   color: var(--accent-strong);
-}
-
-/* Hover panel listing the sessions inside an inquiry block. */
-.block-reveal {
-  position: absolute;
-  inset: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 2px;
-  padding: 12px;
-  background: var(--paper);
-  border-radius: var(--radius);
-  overflow-y: auto;
-  opacity: 0;
-  pointer-events: none;
-  transition: opacity 0.14s ease;
-}
-
-.block:hover .block-reveal,
-.block:focus-within .block-reveal,
-.block.is-open .block-reveal {
-  opacity: 1;
-  pointer-events: auto;
-}
-
-.reveal-title {
-  margin: 0 0 6px;
-  font-size: 0.7rem;
-  letter-spacing: 0.07em;
-  text-transform: uppercase;
-  font-weight: 700;
-  color: var(--muted);
-}
-
-.reveal-session {
-  display: flex;
-  flex-direction: column;
-  gap: 1px;
-  width: 100%;
-  padding: 7px 9px;
-  border: 0;
-  border-radius: 6px;
-  background: transparent;
-  text-align: left;
-  font: inherit;
-  cursor: pointer;
-}
-
-.reveal-session:hover,
-.reveal-session:focus-visible {
-  background: rgba(212, 154, 56, 0.18);
-}
-
-.reveal-session-name {
-  font-size: 0.85rem;
-  font-weight: 700;
-  line-height: 1.25;
-  color: var(--ink);
-}
-
-.reveal-session-date {
-  font-size: 0.72rem;
-  color: var(--muted);
 }
 
 .menu-button {
@@ -1835,4 +1769,41 @@ body:has(.home-page:not([hidden])) {
 
 .home-page .home-link:hover {
   background: rgba(0, 110, 70, 0.12);
+}
+
+/* ---------- Commons green theme (Browse sessions page) ---------- */
+
+.meeting-menu {
+  --accent: #006e46;
+  --accent-strong: #006e46;
+  --blue: #006e46;
+  --radius: 16px;
+}
+
+body:has(.meeting-menu:not([hidden])) {
+  background: linear-gradient(180deg, #e6efe9, #d3e2d8);
+}
+
+.meeting-menu .mode-button[aria-pressed="true"] {
+  background: #006e46;
+  color: #fff;
+}
+
+.meeting-menu .home-link:hover,
+.meeting-menu .crumb-back:hover {
+  background: rgba(0, 110, 70, 0.12);
+}
+
+.meeting-menu .block {
+  border-top: 4px solid #006e46;
+}
+
+.meeting-menu .block:hover,
+.meeting-menu .block:focus-visible {
+  box-shadow: 0 14px 30px rgba(0, 85, 58, 0.18);
+}
+
+.meeting-menu .block:focus-visible {
+  outline: 3px solid #8cc4a6;
+  outline-offset: 2px;
 }

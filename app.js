@@ -187,6 +187,8 @@ let cast = new Map();
 let currentIndex = 0;
 let menuMode = "inquiry";
 let openCommittee = null;
+// The inquiry whose sessions are listed on their own page (a meeting key).
+let openInquiry = null;
 
 init();
 
@@ -379,6 +381,7 @@ function meetingsFromSessions() {
     const key = item.inquiry ? `inquiry|${item.inquiry}` : `committee|${item.committee || "Committee"}`;
     if (!groups.has(key)) {
       groups.set(key, {
+        key,
         title: item.inquiry || item.committee || "Committee",
         committee: item.inquiry ? item.committee || "" : "",
         when: 0,
@@ -434,77 +437,61 @@ function plural(count, word) {
   return `${count} ${word}${count === 1 ? "" : "s"}`;
 }
 
-// An inquiry block: the face shows the title, hovering reveals its sessions.
+// An inquiry block: clicking opens a page listing that inquiry's sessions.
 function inquiryBlock(meeting, showCommittee) {
-  const block = document.createElement("article");
-  block.className = "block";
-  block.tabIndex = 0;
+  const block = document.createElement("button");
+  block.type = "button";
+  block.className = "block block-link";
 
-  const face = document.createElement("div");
-  face.className = "block-face";
-
-  const title = document.createElement("h2");
+  const title = document.createElement("span");
   title.className = "block-title";
   title.textContent = meeting.title;
-  face.append(title);
+  block.append(title);
 
   if (showCommittee && meeting.committee) {
-    const meta = document.createElement("p");
+    const meta = document.createElement("span");
     meta.className = "block-meta";
     meta.textContent = meeting.committee;
-    face.append(meta);
+    block.append(meta);
   }
 
-  const count = document.createElement("p");
+  const count = document.createElement("span");
   count.className = "block-count";
   count.textContent = plural(meeting.sessions.length, "session");
-  face.append(count);
 
-  block.append(face);
+  const go = document.createElement("span");
+  go.className = "block-go";
+  go.textContent = "→";
 
-  const reveal = document.createElement("div");
-  reveal.className = "block-reveal";
-
-  const revealTitle = document.createElement("p");
-  revealTitle.className = "reveal-title";
-  revealTitle.textContent = meeting.title;
-  reveal.append(revealTitle);
-
-  for (const item of meeting.sessions) {
-    const button = document.createElement("button");
-    button.type = "button";
-    button.className = "reveal-session";
-
-    const name = document.createElement("span");
-    name.className = "reveal-session-name";
-    name.textContent = sessionMenuLabel(item);
-
-    const when = document.createElement("span");
-    when.className = "reveal-session-date";
-    when.textContent = item.date || "";
-
-    button.append(name, when);
-    button.addEventListener("click", (event) => {
-      event.stopPropagation();
-      enterSession(item.id);
-    });
-    reveal.append(button);
-  }
-
-  block.append(reveal);
-
-  // Touch devices have no hover: tapping the face opens the same panel.
-  block.addEventListener("click", () => block.classList.add("is-open"));
-  block.addEventListener("mouseleave", () => block.classList.remove("is-open"));
-  block.addEventListener("keydown", (event) => {
-    if (event.key === "Enter" || event.key === " ") {
-      event.preventDefault();
-      block.classList.toggle("is-open");
-    } else if (event.key === "Escape") {
-      block.classList.remove("is-open");
-    }
+  block.append(count, go);
+  block.addEventListener("click", () => {
+    openInquiry = meeting.key;
+    renderMenu();
+    window.scrollTo(0, 0);
   });
+  return block;
+}
 
+// A session block on an inquiry's page: clicking opens the session itself.
+function sessionBlock(item) {
+  const block = document.createElement("button");
+  block.type = "button";
+  block.className = "block block-link block-session";
+
+  const title = document.createElement("span");
+  title.className = "block-title";
+  title.textContent = sessionMenuLabel(item);
+
+  const when = document.createElement("span");
+  when.className = "block-count";
+  when.textContent = item.date || "";
+
+  const go = document.createElement("span");
+  go.className = "block-go";
+  go.textContent = "→";
+
+  block.append(title, when, go);
+  block.addEventListener("click", () => enterSession(item.id));
   return block;
 }
 
@@ -533,15 +520,33 @@ function committeeBlock(committee) {
   block.addEventListener("click", () => {
     openCommittee = committee.name;
     renderMenu();
+    window.scrollTo(0, 0);
   });
   return block;
 }
 
 function renderMenu() {
   const fragment = document.createDocumentFragment();
-  const inCommitteeView = menuMode === "committee" && openCommittee;
+  const inquiry = openInquiry
+    ? meetingsFromSessions().find((meeting) => meeting.key === openInquiry)
+    : null;
+  if (!inquiry) openInquiry = null;
+  const inCommitteeView = !inquiry && menuMode === "committee" && openCommittee;
 
-  if (inCommitteeView) {
+  if (inquiry) {
+    for (const item of inquiry.sessions) {
+      fragment.append(sessionBlock(item));
+    }
+    el.crumbTitle.textContent = inquiry.title;
+    if (inquiry.committee) {
+      const meta = document.createElement("span");
+      meta.className = "crumb-meta";
+      meta.textContent = inquiry.committee;
+      el.crumbTitle.append(meta);
+    }
+    el.crumbBack.textContent =
+      menuMode === "committee" && openCommittee ? `← ${openCommittee}` : "← All inquiries";
+  } else if (inCommitteeView) {
     const committee = committeesFromSessions().find(
       (entry) => entry.name === openCommittee
     );
@@ -549,6 +554,7 @@ function renderMenu() {
       fragment.append(inquiryBlock(meeting, false));
     }
     el.crumbTitle.textContent = openCommittee;
+    el.crumbBack.textContent = "← All committees";
   } else if (menuMode === "committee") {
     for (const committee of committeesFromSessions()) {
       fragment.append(committeeBlock(committee));
@@ -559,13 +565,22 @@ function renderMenu() {
     }
   }
 
-  el.menuCrumb.hidden = !inCommitteeView;
+  el.menuCrumb.hidden = !(inquiry || inCommitteeView);
+  el.blockGrid.classList.toggle("is-sessions", Boolean(inquiry));
   el.blockGrid.replaceChildren(fragment);
+}
+
+// Going to the menu from the home page always starts at the top level.
+function resetMenu() {
+  openInquiry = null;
+  openCommittee = null;
+  renderMenu();
 }
 
 function setMenuMode(mode) {
   menuMode = mode === "committee" ? "committee" : "inquiry";
   openCommittee = null;
+  openInquiry = null;
   try {
     localStorage.setItem(MENU_MODE_KEY, menuMode);
   } catch {
@@ -1171,6 +1186,7 @@ function bindControls() {
   for (const link of [el.homeBrowseLink, el.homeIntroBrowseBtn]) {
     link.addEventListener("click", (event) => {
       event.preventDefault();
+      resetMenu();
       showMenu();
     });
   }
@@ -1189,8 +1205,13 @@ function bindControls() {
     button.addEventListener("click", () => setMenuMode(button.dataset.mode));
   }
   el.crumbBack.addEventListener("click", () => {
-    openCommittee = null;
+    if (openInquiry) {
+      openInquiry = null;
+    } else {
+      openCommittee = null;
+    }
     renderMenu();
+    window.scrollTo(0, 0);
   });
 
   el.previousBtn.addEventListener("click", () => setCurrent(currentIndex - 1));
