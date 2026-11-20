@@ -1195,14 +1195,17 @@ h1 {
 
 .home-more-link {
   color: #006e46;
+  font-size: 0.9rem;
+  font-style: italic;
   font-weight: 700;
-  text-decoration: underline;
-  text-underline-offset: 3px;
+  text-decoration: none;
 }
 
 .home-more-link:hover,
 .home-more-link:focus-visible {
   color: #00402a;
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 .home-heading {
