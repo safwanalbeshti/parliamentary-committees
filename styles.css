@@ -109,9 +109,10 @@ h1 {
   line-height: 1.02;
 }
 
+/* Sits just below the dialogue (and the room picture on wide screens). */
 .provenance {
   max-width: 640px;
-  margin: 9px 0 0;
+  margin: 2px 4px 0;
   color: var(--muted);
   font-size: 0.82rem;
   line-height: 1.4;

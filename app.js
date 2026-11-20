@@ -140,7 +140,6 @@ const el = {
   menuCrumb: document.querySelector("#menuCrumb"),
   crumbBack: document.querySelector("#crumbBack"),
   crumbTitle: document.querySelector("#crumbTitle"),
-  menuBtn: document.querySelector("#menuBtn"),
   stage: document.querySelector("#stage"),
   roomImage: document.querySelector("#roomImage"),
   roomDim: document.querySelector("#roomDim"),
@@ -160,7 +159,6 @@ const el = {
   whatThisIsBtn: document.querySelector("#whatThisIsBtn"),
   aboutSourceLink: document.querySelector("#aboutSourceLink"),
   aboutSummary: document.querySelector("#aboutSummary"),
-  turnCounter: document.querySelector("#turnCounter"),
   sessionPickerWrap: document.querySelector("#sessionPickerWrap"),
   sessionPicker: document.querySelector("#sessionPicker"),
   previousBtn: document.querySelector("#previousBtn"),
@@ -816,7 +814,6 @@ function setCurrent(nextIndex, options = {}) {
   el.nameplate.style.setProperty("--speaker-soft", design.soft);
   el.spotlight.style.setProperty("--spot-color", design.color);
 
-  el.turnCounter.textContent = `${currentIndex + 1} / ${dialogue.length}`;
   el.progressFill.style.width = `${((currentIndex + 1) / dialogue.length) * 100}%`;
   el.previousBtn.disabled = currentIndex === 0;
   el.nextBtn.disabled = currentIndex === dialogue.length - 1;
@@ -1223,7 +1220,6 @@ function populateSessionPicker() {
 }
 
 function bindControls() {
-  el.menuBtn.addEventListener("click", () => showMenu());
   for (const link of [el.homeBrowseLink, el.homeIntroBrowseBtn]) {
     link.addEventListener("click", (event) => {
       event.preventDefault();
