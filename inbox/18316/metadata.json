@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18316,
+  "activity_id": 39008,
+  "document_id": 315344,
+  "meeting_date": "2026-11-18",
+  "meeting_date_display": "18 November 2026",
+  "publication_date": "2026-11-19T13:45:29",
+  "title": "The future of Policing in Wales",
+  "committee": "Welsh Affairs Committee",
+  "committees": [
+    {
+      "id": 162,
+      "name": "Welsh Affairs Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9805,
+      "title": "The future of Policing in Wales",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Jeremy Vaughan KPM",
+      "role": "Chief Constable",
+      "organisation": "South Wales Police"
+    },
+    {
+      "name": "Amanda Blakeman KPM",
+      "role": "Chief Constable",
+      "organisation": "North Wales Police"
+    },
+    {
+      "name": "Ifan Charles",
+      "role": "Chief Constable",
+      "organisation": "Dyfed-Powys Police"
+    },
+    {
+      "name": "Mark Hobrough",
+      "role": "Chief Constable",
+      "organisation": "Gwent Police"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Ifan Charles",
+    "Amanda Blakeman",
+    "Mark Hobrough",
+    "Jeremy Vaughan",
+    "Gerald Jones",
+    "Henry Tufnell",
+    "Ann Davies",
+    "Simon Hoare",
+    "David Chadwick",
+    "Steve Witherden",
+    "Ben Lake",
+    "Llinos Medi"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18316/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18316",
+  "source_sha256": "4ef85ae288bc5c70a57b2b6955fb5652ef547d0f051d336de6cd36ba780e9f27",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

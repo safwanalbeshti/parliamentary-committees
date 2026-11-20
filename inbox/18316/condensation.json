@@ -1,0 +1,476 @@
+{
+  "schema_version": 1,
+  "source_id": 18316,
+  "source_sha256": "4ef85ae288bc5c70a57b2b6955fb5652ef547d0f051d336de6cd36ba780e9f27",
+  "title": "Policing in Wales: local needs, national change",
+  "label": "18 November 2026 · Policing in Wales",
+  "summary": "The four Welsh chief constables described different approaches to organising local policing and to tackling misconduct and violence against women and girls. They broadly supported stronger national services and shared purchasing, but questioned whether proposed force mergers would improve services without a clear plan, proper funding and safeguards for local policing. They disagreed over whether one force for Wales would be best, and said any future changes must account for rural, urban and cross-border needs.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Ruth Jones",
+      "role": "Chair of the Welsh Affairs Committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Ifan Charles",
+      "name": "Ifan Charles",
+      "role": "Chief Constable, Dyfed-Powys Police",
+      "kind": "witness"
+    },
+    {
+      "label": "Amanda Blakeman KPM",
+      "name": "Amanda Blakeman KPM",
+      "role": "Chief Constable, North Wales Police",
+      "kind": "witness"
+    },
+    {
+      "label": "Mark Hobrough",
+      "name": "Mark Hobrough",
+      "role": "Chief Constable, Gwent Police",
+      "kind": "witness"
+    },
+    {
+      "label": "Jeremy Vaughan KPM",
+      "name": "Jeremy Vaughan KPM",
+      "role": "Chief Constable, South Wales Police",
+      "kind": "witness"
+    },
+    {
+      "label": "Gerald Jones",
+      "name": "Gerald Jones",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Henry Tufnell",
+      "name": "Henry Tufnell",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Ann Davies",
+      "name": "Ann Davies",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "David Chadwick",
+      "name": "David Chadwick",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Simon Hoare",
+      "name": "Simon Hoare",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Steve Witherden",
+      "name": "Steve Witherden",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Ben Lake",
+      "name": "Ben Lake",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Llinos Medi",
+      "name": "Llinos Medi",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "basic command unit",
+      "definition": "A large local police area, usually covering several towns or local authority areas, led by a senior officer."
+    },
+    {
+      "term": "Police and Crime Commissioner",
+      "definition": "An elected official who sets local policing priorities and oversees a police force."
+    },
+    {
+      "term": "PCSO",
+      "definition": "A police community support officer who works visibly with local communities but has different powers from a police officer."
+    },
+    {
+      "term": "regulation 13",
+      "definition": "A rule that lets police forces dismiss a probationary officer who is not suitable to continue in the job."
+    },
+    {
+      "term": "Soteria",
+      "definition": "A national programme to improve how police investigate rape and other serious sexual offences."
+    },
+    {
+      "term": "White Paper",
+      "definition": "A government document setting out proposed policies and changes for discussion."
+    },
+    {
+      "term": "NPCC",
+      "definition": "The National Police Chiefs’ Council, which brings police leaders together to coordinate work across forces."
+    },
+    {
+      "term": "Crown court",
+      "definition": "A court in England and Wales that deals with serious criminal cases."
+    },
+    {
+      "term": "police national database",
+      "definition": "A shared system that lets police forces access information and intelligence held across the country."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Local policing and force performance",
+      "takeaway": "The chiefs say there is no single best way to organise policing: each force’s model should fit the people and demands in its area.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "To start, what are your main operational priorities?"
+        },
+        {
+          "speaker": "Ifan Charles",
+          "text": "In Dyfed-Powys, we focus on supporting victims of domestic abuse, rape and sexual offences while pursuing the people responsible. We also prioritise tackling those who deal in Class A drugs."
+        },
+        {
+          "speaker": "Amanda Blakeman KPM",
+          "text": "In North Wales, our priorities include protecting vulnerable people, tackling domestic abuse and violence against women and girls, and protecting children from exploitation and online abuse. We also deal with serious crime, large amounts of digital evidence and the need to maintain an emergency response."
+        },
+        {
+          "speaker": "Mark Hobrough",
+          "text": "In Gwent, we want to improve public trust and provide a caring, connected service. Our priorities are improving how we operate, the standards and culture of the organisation, and our engagement with staff and communities."
+        },
+        {
+          "speaker": "Jeremy Vaughan KPM",
+          "text": "In South Wales, we want policing to be accessible and reliable: people should be able to contact us, we should turn up when promised, and we should keep people informed. The work is increasingly complex, and staff are stretched."
+        },
+        {
+          "speaker": "Gerald Jones",
+          "text": "How do your local policing models work, and what trade-offs do they involve? Mark, Gwent has reported big improvements since changing its model."
+        },
+        {
+          "speaker": "Mark Hobrough",
+          "text": "There isn’t one model that suits every force. Gwent used to divide policing by geographic areas, with officers expected to handle a wide range of tasks. We moved to specialist teams, with separate areas for operations, crime and neighbourhood policing."
+        },
+        {
+          "speaker": "Mark Hobrough",
+          "text": "Before the change, we were near the bottom of the 43 forces in answering emergency and non-emergency calls. Over the past year, we’ve been among the top five. We now meet our targets of responding within 15 minutes to emergency calls and 60 minutes to priority calls over 80% of the time, compared with about half the time before."
+        },
+        {
+          "speaker": "Mark Hobrough",
+          "text": "Public confidence has also risen: in our latest survey, 70% said they had confidence in Gwent Police. Our specialist neighbourhood team also tackles local concerns such as speeding, dangerous dogs and off-road bikes."
+        },
+        {
+          "speaker": "Jeremy Vaughan KPM",
+          "text": "South Wales has three basic command units, with local inspectors below them. That gives local people and partners someone nearby to contact, while senior teams oversee larger areas. It works for us, though we judge performance by more than response times."
+        },
+        {
+          "speaker": "Amanda Blakeman KPM",
+          "text": "North Wales also uses basic command units, divided to reflect local authorities and communities. We try to match staff to population and crime, while keeping local leadership and strong links with councils. Our model works for the geography and needs of our area."
+        },
+        {
+          "speaker": "Ifan Charles",
+          "text": "Dyfed-Powys has four basic command units, based on its local authority areas. Each is led by a superintendent responsible for performance and relationships with local services. We reviewed other forces before choosing a model that gives clear local accountability."
+        },
+        {
+          "speaker": "Henry Tufnell",
+          "text": "Mark, are Gwent’s improvements a result of changing its model?"
+        },
+        {
+          "speaker": "Mark Hobrough",
+          "text": "I think the specialist roles made responsibility clearer and helped us manage performance. We haven’t changed the number of staff because of the new model, and it’s too early to say whether it will bring financial savings."
+        },
+        {
+          "speaker": "Amanda Blakeman KPM",
+          "text": "Gwent’s results are strong, but our forces face different demands. North Wales is much more rural, and an approach that works in one place may not suit another."
+        },
+        {
+          "speaker": "Jeremy Vaughan KPM",
+          "text": "There are many ways to measure performance, including how investigations end and how we deal with sexual violence. South Wales thinks its current structure works across those measures."
+        }
+      ]
+    },
+    {
+      "title": "Standards and misconduct",
+      "takeaway": "The chiefs described vetting, staff reporting routes and leadership as essential, while acknowledging that misconduct remains a serious risk.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "How do you assess and tackle misconduct by police staff?"
+        },
+        {
+          "speaker": "Jeremy Vaughan KPM",
+          "text": "We keep vetting checks up to date and have a well-resourced standards team that investigates misconduct and corruption. Staff can also report concerns through a confidential line. We need both fair opportunities to learn and firm action when people fall short."
+        },
+        {
+          "speaker": "Jeremy Vaughan KPM",
+          "text": "Since I became chief in 2020, 126 people have been dismissed. I believe more staff now feel able to report wrongdoing. We also use the probationary period to assess whether new officers have the right character; 10% of our last intake did not complete their first six months."
+        },
+        {
+          "speaker": "Jeremy Vaughan KPM",
+          "text": "I know there are people with racist or misogynistic attitudes in policing. Finding them and removing them is a responsibility for the whole organisation, not just one department."
+        },
+        {
+          "speaker": "Ifan Charles",
+          "text": "We use probation to assess whether new officers are suitable, and we take action against people under investigation for serious misconduct, including misogynistic behaviour. Our staff-created culture pledge says we should be inclusive, treat one another fairly and challenge bad behaviour."
+        },
+        {
+          "speaker": "Ifan Charles",
+          "text": "I speak to new recruits and leadership courses about those standards, and they’re part of promotion decisions too. It’s ongoing work; we’ll never reach a point where we can stop paying attention."
+        },
+        {
+          "speaker": "Amanda Blakeman KPM",
+          "text": "In North Wales, I set up a board to keep track of our culture work and offer staff a way to ask me questions directly. We use the available vetting and misconduct processes, including dismissing probationary officers who aren’t suitable."
+        },
+        {
+          "speaker": "Mark Hobrough",
+          "text": "Gwent had a different culture in the past, and senior leaders who didn’t meet modern standards were removed. We now have a culture board and regular staff surveys. More than 90% of respondents said they trusted the force to deal with misconduct and knew how to report it."
+        },
+        {
+          "speaker": "Mark Hobrough",
+          "text": "We had 47 open misconduct cases in August and 37 now, with 14 officers suspended instead of 19. That shows some cases are moving forward, but it doesn’t mean the work is finished."
+        }
+      ]
+    },
+    {
+      "title": "Violence against women and girls",
+      "takeaway": "The forces described practical support and specialist investigations, but Jeremy Vaughan warned that rising reports and limited resources make it hard to provide the time victims need.",
+      "turns": [
+        {
+          "speaker": "Ann Davies",
+          "text": "What progress are you making on knife crime and violence against women and girls, and how do you work with other organisations?"
+        },
+        {
+          "speaker": "Ifan Charles",
+          "text": "In Dyfed-Powys, victims of domestic abuse can speak to us remotely at a time and place that suits them. We’re also piloting a domestic abuse adviser in our control room and working with other agencies to manage the risks posed by repeat offenders, including people who haven’t been convicted."
+        },
+        {
+          "speaker": "Ifan Charles",
+          "text": "We’re seeking more court orders to manage risks, and our charge rates for rape and sexual offences have improved. We’re using the Soteria approach and working towards having dedicated rape investigation teams by the end of 2027."
+        },
+        {
+          "speaker": "Amanda Blakeman KPM",
+          "text": "We’ve reviewed our public protection teams and use trained investigators for serious cases. Our domestic abuse case team checks paperwork carefully to reduce the chance that victims give up during the process. We work with victim support services, councils and other forces."
+        },
+        {
+          "speaker": "Amanda Blakeman KPM",
+          "text": "We also have specialist work on stalking, harassment and people who are missing, exploited or trafficked. An independent adviser is available in our control room, and we can contact victims remotely when that suits them."
+        },
+        {
+          "speaker": "Mark Hobrough",
+          "text": "We work with support organisations, councils and emergency services to tackle hidden abuse. Our Taboo programme gives partners of police staff a way to report domestic abuse and support through the investigation, because some people worry about reporting someone inside the police."
+        },
+        {
+          "speaker": "Mark Hobrough",
+          "text": "We know that rape and serious sexual offences are difficult to investigate, particularly when reports are historical. But feedback from victims has been encouraging, and we’ve also seen more convictions."
+        },
+        {
+          "speaker": "Jeremy Vaughan KPM",
+          "text": "We use remote contact with victims, specialist investigation teams and quicker processing of protection orders. But the volume is enormous: reports of rape and serious sexual offences rose by 461% over ten years, and domestic abuse offences doubled."
+        },
+        {
+          "speaker": "Jeremy Vaughan KPM",
+          "text": "Some studies suggest three in four violent crimes against women go unreported. Victims often need hours or days of support to stay engaged with an investigation. With our current resources, we can’t always give them the service they deserve."
+        },
+        {
+          "speaker": "Ann Davies",
+          "text": "Ifan, how will dedicated rape investigation teams work across such a large rural area?"
+        },
+        {
+          "speaker": "Ifan Charles",
+          "text": "We can’t simply put the whole team in one place. Investigators will need to be based around the force area and have the right training to support victims wherever they live. We’re working out how to do that by 2027."
+        },
+        {
+          "speaker": "Henry Tufnell",
+          "text": "Are resources for domestic abuse in the right places?"
+        },
+        {
+          "speaker": "Ifan Charles",
+          "text": "We’ve used an outside organisation to help estimate staffing needs, including time spent waiting for ambulances or at hospitals. I’m satisfied with where our resources are, though scheduled appointments are challenging. The response depends on the risk, and urgent cases are visited first."
+        },
+        {
+          "speaker": "Amanda Blakeman KPM",
+          "text": "I’ve used the same outside organisation before, but now our own data team checks demand. In summer, tourism increases North Wales’s population by about 30%, so we adjust staffing to deal with the extra work."
+        }
+      ]
+    },
+    {
+      "title": "Reform, money and local service",
+      "takeaway": "The chiefs supported some national changes but said force restructuring needs a convincing case, adequate funding and protections for local services.",
+      "turns": [
+        {
+          "speaker": "David Chadwick",
+          "text": "Do you agree with the problems identified in the Government’s White Paper, and will its proposed reforms solve them?"
+        },
+        {
+          "speaker": "Jeremy Vaughan KPM",
+          "text": "Broadly, yes. A stronger national centre could help police buy and use technology, and restructuring might save money. But we haven’t seen all the proposals or legislation. Any change needs proper funding, a realistic timetable and a clear aim of improving local services."
+        },
+        {
+          "speaker": "Mark Hobrough",
+          "text": "A national police service could help with crimes that cross borders and with buying technology and equipment. But a national service, policy changes and merging forces are different questions. I haven’t seen evidence or a financial plan showing that a structural change would benefit Gwent."
+        },
+        {
+          "speaker": "Amanda Blakeman KPM",
+          "text": "I’m concerned that forced mergers could weaken services in rural North Wales and disrupt our close working relationships with north-west England. Crime and travel links don’t always follow the Wales-wide boundaries. We need evidence about the effects and the costs."
+        },
+        {
+          "speaker": "Ifan Charles",
+          "text": "I support several proposals, including more professional neighbourhood policing and better training. But we haven’t been shown why force structures need to change. The effects on pay, funding and council tax would also have to be worked through."
+        },
+        {
+          "speaker": "David Chadwick",
+          "text": "What important issues might the reforms leave unresolved?"
+        },
+        {
+          "speaker": "Amanda Blakeman KPM",
+          "text": "We mustn’t centralise serious investigations so far away that local officers lose the relationships and knowledge needed to protect people and solve crimes. We also need to preserve cooperation across the England–Wales border and with British Transport Police on rail issues."
+        },
+        {
+          "speaker": "Mark Hobrough",
+          "text": "People tell me they want officers who know and care about their streets. In Gwent, more than 8,000 people have signed up for local police updates. Their concerns include off-road bikes, which may not match national priorities but matter greatly in their neighbourhoods."
+        },
+        {
+          "speaker": "Jeremy Vaughan KPM",
+          "text": "Reform won’t by itself fix the shortage of money. Policing is dealing with more complex crime and vulnerability, while inspections and other demands keep growing. I estimate Welsh policing is about £100 million short of the grant funding it needs."
+        },
+        {
+          "speaker": "Jeremy Vaughan KPM",
+          "text": "For years, forces have asked local taxpayers for more through council tax to keep up. Technology may help, but there are risks and it won’t solve everything. Staff want to do a good job, but too much of their time goes on administration."
+        },
+        {
+          "speaker": "Henry Tufnell",
+          "text": "Why did Dyfed-Powys receive fewer additional neighbourhood officers through recent grants than Gwent?"
+        },
+        {
+          "speaker": "Ifan Charles",
+          "text": "The allocation reflects factors such as population and crime demand. Dyfed-Powys has fewer officers overall than South Wales for those reasons."
+        },
+        {
+          "speaker": "Mark Hobrough",
+          "text": "Gwent has invested heavily in neighbourhood policing. Every ward has a dedicated community support officer, and we’ve added a separate team to support local neighbourhood teams."
+        }
+      ]
+    },
+    {
+      "title": "How many forces, and how much collaboration?",
+      "takeaway": "The chiefs disagreed about a single Welsh force, while agreeing that changes must preserve local identity and that shared purchasing and specialist services can bring savings.",
+      "turns": [
+        {
+          "speaker": "Simon Hoare",
+          "text": "If force mergers go ahead, do you expect Wales to become one police force?"
+        },
+        {
+          "speaker": "Mark Hobrough",
+          "text": "We were asked to consider reduced numbers of forces, rather than keeping the current four. We compared options for one, two or three forces and concluded that one Welsh force was the best of those options."
+        },
+        {
+          "speaker": "Amanda Blakeman KPM",
+          "text": "I don’t agree that one force is best for Wales. We were asked what might work if four forces weren’t an option, not whether we thought changing was best. I’m worried a single force would leave remote parts of North Wales isolated."
+        },
+        {
+          "speaker": "Amanda Blakeman KPM",
+          "text": "North Wales has strong links with north-west England and many rural, Welsh-speaking communities. I can speak for North Wales, but not decide what structure is best for the south."
+        },
+        {
+          "speaker": "Simon Hoare",
+          "text": "Whatever the number of forces, do you agree that rural, urban and coastal areas need different approaches?"
+        },
+        {
+          "speaker": "Amanda Blakeman KPM",
+          "text": "Yes. A uniform approach could miss the different needs of those communities."
+        },
+        {
+          "speaker": "Steve Witherden",
+          "text": "You’ve raised concerns that national discussions about mergers may overlook North Wales. What do you want decision-makers to understand?"
+        },
+        {
+          "speaker": "Amanda Blakeman KPM",
+          "text": "Policing needs to reflect the communities it serves. North Wales isn’t the same as a large city, and the way crime and travel work here is different. I’m responsible for speaking up for the people of North Wales and making sure their needs aren’t lost in a centralised plan."
+        },
+        {
+          "speaker": "Gerald Jones",
+          "text": "What can Wales learn from Scotland’s single force, and how could one Welsh force maintain links across its borders?"
+        },
+        {
+          "speaker": "Jeremy Vaughan KPM",
+          "text": "Scotland’s experience suggests that a fast merger can distract leaders from local policing. Some people say the change improved policing overall, but also that local service lost attention. Any Welsh change needs investment, time and a strong focus on what people receive locally."
+        },
+        {
+          "speaker": "Ben Lake",
+          "text": "Could the Welsh Ambulance Service’s experience as one national organisation offer useful lessons?"
+        },
+        {
+          "speaker": "Jeremy Vaughan KPM",
+          "text": "It could teach us about leadership and keeping staff connected across a large organisation. But judging ambulance performance is difficult because it depends heavily on hospitals, beds and social care."
+        },
+        {
+          "speaker": "Amanda Blakeman KPM",
+          "text": "It would be valuable to hear directly from frontline staff about what helps or hinders them in providing local services."
+        },
+        {
+          "speaker": "Ben Lake",
+          "text": "Could more cooperation between forces save money without merging them?"
+        },
+        {
+          "speaker": "Ifan Charles",
+          "text": "Yes. For example, forces share firearms teams and have combined purchasing for forensic services. Working together gives us more bargaining power with suppliers and can stop companies playing forces off against each other."
+        },
+        {
+          "speaker": "Amanda Blakeman KPM",
+          "text": "North Wales works with forces across Wales and north-west England on things like information systems and vehicle buying. We estimate that cooperation has saved us more than £40 million over several years. But we should make sure local jobs and expertise don’t disappear."
+        },
+        {
+          "speaker": "Mark Hobrough",
+          "text": "We’ve expanded shared forensic and technology services with neighbouring forces. More specialist services, such as roads policing or police dogs, could also be shared. But neighbourhood policing, emergency response, investigations and misconduct teams should remain close to the communities they serve."
+        },
+        {
+          "speaker": "Jeremy Vaughan KPM",
+          "text": "I’d support a national police service that helps forces work together on technology while keeping local force identities. Police still rely on old-fashioned processes to deal with a digital world, and we need to improve that."
+        },
+        {
+          "speaker": "Amanda Blakeman KPM",
+          "text": "Shared systems also create risks. When a major technology service fails, forces need backup plans so they can keep working."
+        }
+      ]
+    },
+    {
+      "title": "Oversight and the future of policing",
+      "takeaway": "The chiefs backed a proposed approach to Welsh police oversight but said they could not judge devolution without seeing a plan for funding, governance and cross-border work.",
+      "turns": [
+        {
+          "speaker": "Llinos Medi",
+          "text": "What should replace Police and Crime Commissioners, and what do you think of the Welsh commissioners’ proposal?"
+        },
+        {
+          "speaker": "Jeremy Vaughan KPM",
+          "text": "The Welsh commissioners asked us for views on how different oversight arrangements might affect police operations. We supported the model they submitted because we thought it balanced democratic oversight with chiefs’ ability to make operational decisions."
+        },
+        {
+          "speaker": "Henry Tufnell",
+          "text": "Should policing be devolved to the Welsh Government? Please answer yes or no."
+        },
+        {
+          "speaker": "Jeremy Vaughan KPM",
+          "text": "I can’t give a yes or no without seeing the details. It’s a political decision, but we’d need suitable funding, clear oversight and workable arrangements with other police services. If those were in place, closer links between policing and other Welsh public services might help."
+        },
+        {
+          "speaker": "Mark Hobrough",
+          "text": "I agree. The resources and the organisations needed to support policing would have to be considered."
+        },
+        {
+          "speaker": "Amanda Blakeman KPM",
+          "text": "Our job is to explain what would work operationally. Whether to devolve policing is for politicians to decide."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. The central challenge is making sure any changes reflect the different communities and policing needs across Wales."
+        }
+      ]
+    }
+  ]
+}
