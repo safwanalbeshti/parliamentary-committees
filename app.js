@@ -50,7 +50,6 @@ function memberKindLabel(name) {
 }
 
 const STORAGE_KEY = "committee-viewer-progress";
-const MENU_MODE_KEY = "committee-viewer-menu-mode";
 
 /*
  * Terms a general reader is unlikely to know. Each session also carries its own
@@ -185,7 +184,7 @@ let dialogue = [];
 let chapters = [];
 let cast = new Map();
 let currentIndex = 0;
-let menuMode = "inquiry";
+let menuMode = "committee";
 let openCommittee = null;
 // The inquiry whose sessions are listed on their own page (a meeting key).
 let openInquiry = null;
@@ -207,13 +206,8 @@ function init() {
   buildSessionPicker();
   bindControls();
 
-  let storedMode = "inquiry";
-  try {
-    storedMode = localStorage.getItem(MENU_MODE_KEY) || "inquiry";
-  } catch {
-    /* storage unavailable — fine */
-  }
-  setMenuMode(storedMode);
+  // Browse always opens grouped by committee.
+  setMenuMode("committee");
 
   const fromHash = readHash();
 
@@ -570,22 +564,16 @@ function renderMenu() {
   el.blockGrid.replaceChildren(fragment);
 }
 
-// Going to the menu from the home page always starts at the top level.
+// Going to the menu from the home page always starts at the top level,
+// grouped by committee.
 function resetMenu() {
-  openInquiry = null;
-  openCommittee = null;
-  renderMenu();
+  setMenuMode("committee");
 }
 
 function setMenuMode(mode) {
   menuMode = mode === "committee" ? "committee" : "inquiry";
   openCommittee = null;
   openInquiry = null;
-  try {
-    localStorage.setItem(MENU_MODE_KEY, menuMode);
-  } catch {
-    /* storage unavailable — fine */
-  }
   for (const button of el.modeButtons) {
     button.setAttribute(
       "aria-pressed",
