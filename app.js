@@ -987,10 +987,10 @@ function updateChapterSelection() {
 function renderCastList() {
   const fragment = document.createDocumentFragment();
 
-  // The chair sits with the committee; everyone else splits by kind.
+  // Witnesses come first; the chair sits with the committee.
   const groups = [
-    ["Committee Members", [...cast].filter(([, d]) => d.kind !== "witness")],
     ["Witnesses", [...cast].filter(([, d]) => d.kind === "witness")],
+    ["Committee Members", [...cast].filter(([, d]) => d.kind !== "witness")],
   ];
 
   for (const [heading, members] of groups) {
