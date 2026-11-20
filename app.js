@@ -209,15 +209,65 @@ function init() {
   // Browse always opens grouped by committee.
   setMenuMode("committee");
 
+  applyRoute();
+
+  // Back/Forward: every page change below records a history entry, so the
+  // browser's own buttons move between pages of this site.
+  window.addEventListener("popstate", () => {
+    restoringRoute = true;
+    try {
+      applyRoute();
+    } finally {
+      restoringRoute = false;
+    }
+  });
+}
+
+/* ---------- routing ---------- */
+
+// URLs, all in the hash so a static host serves them:
+//   (none)                        home
+//   #committees                   Committees in Parliament
+//   #browse[&by=inquiry][&c=…][&i=…]  Browse sessions, and where in it
+//   #s=<session>&t=<turn>          a session
+let restoringRoute = false;
+
+// Point the address bar at a page. A new page pushes a history entry; when
+// we are only re-showing a page because of Back/Forward, it replaces instead.
+function setUrl(hash) {
+  const url = window.location.pathname + window.location.search + hash;
+  const current = window.location.pathname + window.location.search + window.location.hash;
+  if (url === current) return;
+  if (restoringRoute) {
+    history.replaceState(null, "", url);
+  } else {
+    history.pushState(null, "", url);
+  }
+}
+
+function menuHash() {
+  const params = new URLSearchParams();
+  if (menuMode === "inquiry") params.set("by", "inquiry");
+  if (openCommittee) params.set("c", openCommittee);
+  if (openInquiry) params.set("i", openInquiry);
+  const rest = params.toString();
+  return rest ? `#browse&${rest}` : "#browse";
+}
+
+// Show whichever page the current URL names.
+function applyRoute() {
+  const params = new URLSearchParams(window.location.hash.slice(1));
   const fromHash = readHash();
 
-  // A deep link goes straight to its session; a direct link to the browser
-  // or the committees page opens that; everyone else starts at the home page.
   if (fromHash.sessionId && findSession(fromHash.sessionId)) {
-    enterSession(fromHash.sessionId, fromHash.turn);
-  } else if (window.location.hash === "#browse") {
+    enterSession(fromHash.sessionId, fromHash.turn, { push: false });
+  } else if (params.has("browse")) {
+    menuMode = params.get("by") === "inquiry" ? "inquiry" : "committee";
+    openCommittee = params.get("c");
+    openInquiry = params.get("i");
+    syncModeButtons();
     showMenu();
-  } else if (window.location.hash === "#committees") {
+  } else if (params.has("committees")) {
     showCommittees();
   } else {
     showHome();
@@ -562,6 +612,7 @@ function renderMenu() {
   el.menuCrumb.hidden = !(inquiry || inCommitteeView);
   el.blockGrid.classList.toggle("is-sessions", Boolean(inquiry));
   el.blockGrid.replaceChildren(fragment);
+  if (!el.meetingMenu.hidden) setUrl(menuHash());
 }
 
 // Going to the menu from the home page always starts at the top level,
@@ -574,13 +625,17 @@ function setMenuMode(mode) {
   menuMode = mode === "committee" ? "committee" : "inquiry";
   openCommittee = null;
   openInquiry = null;
+  syncModeButtons();
+  renderMenu();
+}
+
+function syncModeButtons() {
   for (const button of el.modeButtons) {
     button.setAttribute(
       "aria-pressed",
       button.dataset.mode === menuMode ? "true" : "false"
     );
   }
-  renderMenu();
 }
 
 function showHome() {
@@ -589,7 +644,7 @@ function showHome() {
   el.meetingMenu.hidden = true;
   el.appMain.hidden = true;
   document.title = "Parliamentary Committees, in Plain English";
-  history.replaceState(null, "", window.location.pathname + window.location.search);
+  setUrl("");
 }
 
 function showCommittees() {
@@ -598,7 +653,7 @@ function showCommittees() {
   el.meetingMenu.hidden = true;
   el.appMain.hidden = true;
   document.title = "Committees in Parliament — Parliamentary Committees, in Plain English";
-  history.replaceState(null, "", window.location.pathname + window.location.search);
+  setUrl("#committees");
   window.scrollTo(0, 0);
 }
 
@@ -608,10 +663,12 @@ function showMenu() {
   el.meetingMenu.hidden = false;
   el.appMain.hidden = true;
   document.title = "Browse sessions — Parliamentary Committees, in Plain English";
-  history.replaceState(null, "", window.location.pathname + window.location.search);
+  renderMenu();
 }
 
-function enterSession(id, turn = null) {
+function enterSession(id, turn = null, { push = true } = {}) {
+  // The turn is kept up to date by persistProgress, which replaces the entry.
+  if (push) setUrl(`#s=${encodeURIComponent(id)}`);
   el.homePage.hidden = true;
   el.committeesPage.hidden = true;
   el.meetingMenu.hidden = true;
@@ -1145,6 +1202,7 @@ function readHash() {
 
 function buildSessionPicker() {
   el.sessionPicker.addEventListener("change", () => {
+    setUrl(`#s=${encodeURIComponent(el.sessionPicker.value)}`);
     selectSession(el.sessionPicker.value);
     setCurrent(0, { immediate: true });
   });
@@ -1165,7 +1223,7 @@ function populateSessionPicker() {
 }
 
 function bindControls() {
-  el.menuBtn.addEventListener("click", showMenu);
+  el.menuBtn.addEventListener("click", () => showMenu());
   for (const link of [el.homeBrowseLink, el.homeIntroBrowseBtn]) {
     link.addEventListener("click", (event) => {
       event.preventDefault();
