@@ -1086,9 +1086,9 @@ h1 {
     align-items: center;
   }
 
+  /* On phones the dialogue card right below already names the speaker. */
   .seat-nameplate {
-    font-size: 0.62rem;
-    padding: 3px 8px;
+    display: none;
   }
 
   .control-button {
