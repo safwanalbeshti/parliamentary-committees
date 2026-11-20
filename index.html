@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Parliamentary Committees, in Plain English</title>
-    <link rel="stylesheet" href="styles.css?v=19" />
+    <link rel="stylesheet" href="styles.css?v=20" />
     <link rel="preload" as="image" href="Energy Resilience/committee_room_4.png" />
   </head>
   <body>
@@ -275,11 +275,6 @@
             <span class="bubble-arrow" aria-hidden="true"></span>
           </article>
         </div>
-
-        <div class="chapter-banner" id="chapterBanner">
-          <span class="chapter-label" id="chapterLabel">—</span>
-          <span class="chapter-takeaway" id="chapterTakeaway"></span>
-        </div>
       </section>
 
       <aside class="control-panel" aria-label="Playback and reading aids">
@@ -300,17 +295,17 @@
         </div>
 
         <nav class="tabs" role="tablist" aria-label="Reading aids">
-          <button class="tab-button" role="tab" id="tabBtn-dialogue" data-tab="dialogue" aria-selected="false" aria-controls="tab-dialogue">
-            Dialogue
-          </button>
-          <button class="tab-button" role="tab" id="tabBtn-chapters" data-tab="chapters" aria-selected="false" aria-controls="tab-chapters">
-            Chapters
+          <button class="tab-button" role="tab" id="tabBtn-about" data-tab="about" aria-selected="true" aria-controls="tab-about">
+            About
           </button>
           <button class="tab-button" role="tab" id="tabBtn-cast" data-tab="cast" aria-selected="false" aria-controls="tab-cast">
             Who’s who
           </button>
-          <button class="tab-button" role="tab" id="tabBtn-about" data-tab="about" aria-selected="true" aria-controls="tab-about">
-            About
+          <button class="tab-button" role="tab" id="tabBtn-chapters" data-tab="chapters" aria-selected="false" aria-controls="tab-chapters">
+            Chapters
+          </button>
+          <button class="tab-button" role="tab" id="tabBtn-dialogue" data-tab="dialogue" aria-selected="false" aria-controls="tab-dialogue">
+            Dialogue
           </button>
         </nav>
 
@@ -331,7 +326,25 @@
           <div class="about-copy">
             <h3>This session in a nutshell</h3>
             <p id="aboutSummary"></p>
-            <h3>What this is</h3>
+          </div>
+        </section>
+
+        <div class="what-this-is" id="whatThisIs">
+          <button
+            class="what-this-is-button"
+            id="whatThisIsBtn"
+            type="button"
+            aria-expanded="false"
+            aria-controls="whatThisIsTip"
+          >
+            <svg class="what-this-is-icon" viewBox="0 0 16 16" width="15" height="15" aria-hidden="true" focusable="false">
+              <circle cx="8" cy="8" r="7" fill="none" stroke="currentColor" stroke-width="1.5" />
+              <circle cx="8" cy="4.9" r="1" fill="currentColor" />
+              <path d="M8 7.2v4.6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" />
+            </svg>
+            What this is
+          </button>
+          <div class="what-this-is-tip" id="whatThisIsTip">
             <p>
               Parliamentary committees publish full transcripts of their evidence sessions, but
               they are long and formal. This page retells one session as a short dialogue you can
@@ -343,7 +356,7 @@
               follow the official transcript link:
               <a id="aboutSourceLink" href="https://committees.parliament.uk/" target="_blank" rel="noopener">official transcript ↗</a>.
             </p>
-            <p class="licence-note">
+            <p class="what-this-is-licence">
               Contains Parliamentary information licensed under the
               <a
                 href="https://www.parliament.uk/site-information/copyright/open-parliament-licence/"
@@ -353,7 +366,7 @@
               This is an independent project and is not endorsed by UK Parliament.
             </p>
           </div>
-        </section>
+        </div>
       </aside>
     </main>
 
@@ -605,6 +618,6 @@
     <script src="sessions/generated/oral-evidence-18318.js?v=cb4b1ac1"></script>
     <script src="sessions/generated/oral-evidence-18319.js?v=340b3640"></script>
     <!-- GENERATED_SESSIONS_END -->
-    <script defer src="app.js?v=16"></script>
+    <script defer src="app.js?v=17"></script>
   </body>
 </html>
