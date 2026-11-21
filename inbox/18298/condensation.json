@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
   "source_id": 18298,
-  "source_sha256": "7550761df4dc57ac34fcc6f625cb470e65728ba345c1e0abd3c50002448128fa",
-  "title": "Clarity, centre and conventions: safeguarding the UK constitution",
+  "source_sha256": "5c89b1ae506fe914a1a29f5aee5227da08641ba22139108ea8f0e1048ae9d91b",
+  "title": "Balancing constitutional safeguards with effective government",
   "label": "11 November 2026 · Constitutional safeguards",
-  "summary": "Morgan McSweeney, former chief of staff to the Prime Minister, told the Constitution Committee that the UK’s constitution faces two distinct pressures—abuse of power and government failure to deliver—and that many current problems come from an accumulation of unclear rules and precedents. He urged a parliamentary-led review to reduce and clarify rules (possibly by codifying the Cabinet Manual), to fix how cross-department decisions are handled, to strengthen strategic capacity at the centre of government, and to preserve but clarify the roles of Parliament, courts, Cabinet and the Civil Service.",
+  "summary": "Morgan McSweeney argued that democracy is threatened both when governments abuse power and when they fail to deliver their lawful plans, and that safeguards should protect against both risks. He called for Parliament to review the growing body of rules around prime ministerial power, keep necessary protections and clarify what government can do. Members challenged whether existing checks are strong enough and asked about the roles of Parliament, the Civil Service and the Cabinet. McSweeney also argued that better coordination and longer-term planning at the centre of government could help it act more effectively.",
   "speakers": [
     {
       "label": "Chair",
       "name": "Lord Strathclyde",
-      "role": "Chair of the committee",
+      "role": "Chair of the Constitution Committee",
       "kind": "chair"
     },
     {
       "label": "Morgan McSweeney",
       "name": "Morgan McSweeney",
-      "role": "former Chief of Staff to the Prime Minister, 10 Downing Street",
+      "role": "Former Chief of Staff to the Prime Minister, 10 Downing Street",
       "kind": "witness"
     },
     {
@@ -70,181 +70,241 @@
   "glossary": [
     {
       "term": "Cabinet Manual",
-      "definition": "A document that explains how the UK government operates and the roles of the Prime Minister, Cabinet, Parliament and civil service."
+      "definition": "A guide describing how the UK Government and its main institutions are expected to work."
+    },
+    {
+      "term": "Ministerial Code",
+      "definition": "The rules and standards that government ministers are expected to follow."
     },
     {
       "term": "quasi-judicial processes",
-      "definition": "Legal or administrative rules that require a single minister to decide matters in a way that can limit discussion with colleagues."
+      "definition": "Government decisions made under rules that require ministers to act impartially, which may limit consultation with colleagues."
+    },
+    {
+      "term": "judicial review",
+      "definition": "A court process that checks whether a public body acted lawfully."
+    },
+    {
+      "term": "conventions",
+      "definition": "Established political practices that are generally followed, even when they aren't written into law."
     },
     {
       "term": "Cabinet Secretary",
-      "definition": "The most senior civil servant who advises the Prime Minister and coordinates the Civil Service."
-    },
-    {
-      "term": "Prime Minister's PPS",
-      "definition": "The Prime Minister's Parliamentary Private Secretary; a senior aide linking the PM with Parliament and officials."
+      "definition": "The senior civil servant who leads the Civil Service and supports the Prime Minister and Cabinet."
     }
   ],
   "chapters": [
     {
-      "title": "Two different threats",
-      "takeaway": "Constitutional risk comes from both abuse of power and government failure to deliver; both can undermine legitimacy.",
+      "title": "Two risks to democracy",
+      "takeaway": "McSweeney said democracy needs safeguards against both abuse of power and government failure.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "Do you think the UK’s constitutional democracy is under threat, and what did you see in No. 10?"
+          "text": "You saw government working from the centre. Is the UK's constitutional democracy under threat, and what did you observe?"
         },
         {
           "speaker": "Morgan McSweeney",
-          "text": "There are always pressures. Two ways a constitution is threatened: abuse of power, and Governments failing to deliver their lawful programmes. Populists exploit the latter. Both can erode legitimacy."
+          "text": "Democracy is always under pressure to show that it works for people. It can be threatened by abuse of power, but also when elected governments fail to deliver their lawful plans."
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "Populists who want to undermine institutions can use that failure against them. In my view, failing to deliver can damage a government's legitimacy as much as abusing power can."
         },
         {
           "speaker": "Lord Murphy of Torfaen",
-          "text": "Would you want changes to the UK constitution?"
+          "text": "What changes to the constitution would you like to see?"
         },
         {
           "speaker": "Morgan McSweeney",
-          "text": "Yes. There are many rules shaping Prime Ministerial power. Individually they often made sense, but together they form a thicket. We should identify fewer, justified rules and consider codifying the essentials—like the Cabinet Manual—so roles are clearer."
+          "text": "There are many rules governing a Prime Minister's powers. Each may have been introduced for a good reason, but we should review them together, keep those that prevent abuse and ask whether the rest are justified."
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "I would also make the rules clearer, perhaps by updating the Cabinet Manual, so citizens and those in power understand the roles of the Prime Minister, Cabinet, Parliament and courts."
+        },
+        {
+          "speaker": "Lord Murphy of Torfaen",
+          "text": "Would it help to make the Ministerial Code legally binding?"
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "It might. When rules depend on individuals interpreting them in good faith, people can reach different conclusions about what a minister can or should do."
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "But first I'd review the whole collection of rules. Many were added after a mistake, and the extra reviews or pauses in decision-making have accumulated over time. Some may now make it harder for governments to deliver their lawful plans."
         }
       ]
     },
     {
-      "title": "Who should decide changes — and why clarity matters",
-      "takeaway": "Reform should be driven by Parliament, not the Prime Minister, and clarity stops inconsistent interpretations that slow government.",
+      "title": "Keeping checks on prime ministerial power",
+      "takeaway": "He wanted unnecessary obstacles reviewed, but said Parliament and other safeguards must remain able to stop abuses.",
       "turns": [
         {
-          "speaker": "Lord Murphy of Torfaen",
-          "text": "Could the Ministerial Code be made statutory?"
+          "speaker": "Lord Beith",
+          "text": "Could a Prime Minister use the argument about delivery to weaken safeguards against abuse, claiming that getting things done is more urgent?"
         },
         {
           "speaker": "Morgan McSweeney",
-          "text": "Possibly. But first do a wider review of accumulated rules. Many were added after mistakes; they now work by precedent. Parliament should lead any codification so it’s not just the Prime Minister deciding."
+          "text": "Any review or rewriting of the rules should be decided by Parliament, not by the Prime Minister. The courts, Parliament, Cabinet, civil servants, political parties and elections all provide checks."
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "A Prime Minister shouldn't be able to take Parliament's or the courts' powers, or violate people's rights. I'm not arguing for removing those protections. The rules should be clear and should protect against abuse while still allowing government to act."
         },
         {
           "speaker": "Lord Beith",
-          "text": "What if a Prime Minister says delivery is urgent and overrides other safeguards?"
+          "text": "One safeguard survived all those checks: a previous government required the Electoral Commission to follow a policy statement from the government. A later government is now changing that."
         },
         {
           "speaker": "Morgan McSweeney",
-          "text": "There are safeguards—courts, Parliament, Cabinet, civil servants, parties, elections. They should remain. But we need clarity so Prime Ministers know the limits of their power and won’t rough-guess based on different civil‑service interpretations."
+          "text": "I don't know enough about that example to comment. I have seen other rules interpreted in ways that leave a Secretary of State unable to discuss a decision with the Prime Minister or Cabinet colleagues, even when the decision affects several areas of government."
         },
         {
           "speaker": "Lord Griffiths of Burry Port",
-          "text": "How do you ensure leaders have the character and judgment to respect conventions?"
+          "text": "How much does the constitution rely on people in power showing self-restraint and following unwritten practices? Can rules ensure that leaders have good judgment?"
         },
         {
           "speaker": "Morgan McSweeney",
-          "text": "Codes can't guarantee character. Parties play a role—choosing candidates and leaders—and voters ultimately judge. We can only make the rules clear and robust enough to constrain abuse."
+          "text": "We can't build a system that depends on having a trustworthy Prime Minister. Political parties choose candidates and leaders, and the public decide who governs at elections. Codes can't judge a leader's character."
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "Clear rules help a Prime Minister know the limits of their power, instead of having to guess or receive conflicting advice. Cabinet members can also challenge a Prime Minister they believe is abusing power."
+        },
+        {
+          "speaker": "Baroness Hamwee",
+          "text": "If rules are interpreted in a way Parliament doesn't agree with, should the House of Commons act as a restraint?"
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "Yes. Parliament can change laws, question ministers, hold debates and use committees to challenge a Prime Minister. If enough MPs believe the Prime Minister has overstepped, they can raise it."
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "It would help MPs to know clearly what the limits are. Different members can focus on different problems, so Parliament can challenge a Prime Minister even when individual MPs have to choose which issues to pursue."
         }
       ]
     },
     {
-      "title": "Quasi-judicial decisions and Secretary of State autonomy",
-      "takeaway": "Some laws interpreted to mean a single Secretary of State must decide can stop necessary Cabinet discussion; fix interpretation, not always the law.",
+      "title": "Rules, ministers and civil servants",
+      "takeaway": "McSweeney distinguished breaking the law from challenging established practice, and argued for clarity about when ministers can consult colleagues.",
       "turns": [
         {
-          "speaker": "Baroness Hamwee",
-          "text": "You mentioned judicial review earlier; do you think courts intervene too much?"
+          "speaker": "Chair",
+          "text": "Can you point to rules that should be removed?"
         },
         {
           "speaker": "Morgan McSweeney",
-          "text": "I misspoke. My concern is 'quasi-judicial processes'—laws that say 'the Secretary of State shall decide' and which are interpreted to prevent Cabinet-level consultation. That interpretation can block timely, cross-department discussion."
+          "text": "I wouldn't single out individual rules. Each may seem reasonable by itself, but together they can leave a Prime Minister unsure what they can do and slow decisions down. The whole system needs reviewing by people who understand which rules are law, practice or precedent."
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "One area to examine is quasi-judicial processes. In some cases, rules seem to stop a Secretary of State discussing a decision with Cabinet colleagues or the Prime Minister, even when the issue is urgent and affects several departments."
+        },
+        {
+          "speaker": "Baroness Hamwee",
+          "text": "You mentioned judicial review earlier in a way that sounded like you thought courts had too much power. But judicial review is limited."
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "I misspoke. I meant quasi-judicial processes inside government, not court challenges. I was referring to rules that seem to prevent wider discussion of a decision."
+        },
+        {
+          "speaker": "Lord Bichard",
+          "text": "Should civil servants see themselves as protectors of the constitution, beyond giving advice to ministers?"
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "Yes, and in general I think they do give clear advice when they believe a minister is doing something wrong. But there's an important difference between a minister acting unlawfully and a minister departing from an established practice."
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "If a civil servant believes a minister is breaking the law, there are ways to raise that concern. But ministers should be able to question advice about how a rule or practice applies, and may sometimes want to change a practice if doing so is lawful."
+        },
+        {
+          "speaker": "Lord Bichard",
+          "text": "What if a minister appears to be ignoring an important constitutional principle?"
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "Usually, it shouldn't reach an open conflict. As chief of staff, I spoke regularly with the Cabinet Secretary to raise tensions or frustration and find a solution. Either of us could call the other if something became urgent."
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "The distinction still matters: a civil servant believing a minister is breaking the law is different from a minister disagreeing with a practice or precedent. A civil servant may sometimes have to carry out a lawful decision they disagree with."
+        }
+      ]
+    },
+    {
+      "title": "How government can work together",
+      "takeaway": "He argued that clearer powers, better coordination and more long-term planning could help government deliver without weakening safeguards.",
+      "turns": [
+        {
+          "speaker": "Lord Jones of Penybont",
+          "text": "When you were in Downing Street, how did you assess the constitutional effects of a decision?"
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "The rules were a constant part of the work. When a decision might be constrained, we would ask civil servants what the barrier was and whether there was a more effective way to make the decision."
         },
         {
           "speaker": "Lord Jones of Penybont",
-          "text": "So what do you want changed—the law or its practice?"
+          "text": "What do you mean by quasi-judicial processes?"
         },
         {
           "speaker": "Morgan McSweeney",
-          "text": "Often the law's application or precedent causes the problem. I wouldn't remove Secretary of State decision-making where statute requires it. But where decisions affect many departments, there should be a clear route for Cabinet or PM input while preserving the Secretary of State's formal role."
+          "text": "Sometimes a law says that a Secretary of State must make a particular decision. That can be interpreted to mean they must decide alone, without discussing it with Cabinet colleagues or the Prime Minister."
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "The Secretary of State should still make the decision where the law assigns it to them. But when it affects national interests or several departments, colleagues should be able to discuss it with them first."
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "When Keir Starmer became Prime Minister, he wanted to set priorities for departments and follow up with ministers on progress. At first, we were told that wasn't the usual practice. But a Prime Minister needs to give direction and coordinate the Cabinet; that doesn't mean taking decisions away from ministers."
         },
         {
           "speaker": "Lord Beith",
-          "text": "Is the autonomy of Secretaries of State part of the constitution or just practice?"
+          "text": "Should Secretaries of State lose their independence to make decisions?"
         },
         {
           "speaker": "Morgan McSweeney",
-          "text": "Where statute names the Secretary of State, that should stand. The reform needed is clearer rules about consultation and when collective discussion is appropriate, especially for national-security or economy-wide matters."
+          "text": "No. If the law gives them the decision, they should make it. My concern is when the rules are read to prevent them discussing a major decision with the Prime Minister or Cabinet colleagues beforehand."
+        },
+        {
+          "speaker": "Lord Waldegrave of North Hill",
+          "text": "You said the centre of government was too weak. The Cabinet Office has grown considerably. What would make the centre work better?"
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "Size and strength aren't the same. Government can be large but poorly organised. For example, departments have many communications staff, but they aren't centrally coordinated, so urgent issues can fall between departments while each handles its own press enquiries."
+        },
+        {
+          "speaker": "Morgan McSweeney",
+          "text": "Better coordination doesn't necessarily mean more staff; it may mean fewer. No. 10 also needs more time for long-term planning, so future challenges can inform decisions such as budgets and the government's programme."
         }
       ]
     },
     {
-      "title": "Civil Service role and the centre of government",
-      "takeaway": "The Civil Service should protect the constitution and advise on legality; the centre needs more strategic cohesion and coordination.",
+      "title": "Are Parliament and Cabinet strong enough?",
+      "takeaway": "Members questioned whether political checks have weakened, while McSweeney said MPs and Cabinet ministers still have the ability to challenge leaders.",
       "turns": [
-        {
-          "speaker": "Lord Bichard",
-          "text": "Should civil servants act to protect the constitution beyond advising Ministers?"
-        },
-        {
-          "speaker": "Morgan McSweeney",
-          "text": "They should and largely do. But distinguish two cases: if a civil servant thinks a Minister is acting unlawfully, different routes are needed than when a civil servant thinks a Minister is ignoring convention."
-        },
-        {
-          "speaker": "Lord Bichard",
-          "text": "So civil servants might resist implementing political wishes to defend constitutional principles?"
-        },
-        {
-          "speaker": "Morgan McSweeney",
-          "text": "Yes, if the action is unlawful. When it’s a matter of changing precedent or convention, civil servants must implement lawful decisions—even if they disagree—while flagging risks and using informal channels to resolve disputes first."
-        },
-        {
-          "speaker": "Lord Waldegrave of North Hill",
-          "text": "You said the centre of government is 'too weak'—how would you strengthen it?"
-        },
-        {
-          "speaker": "Morgan McSweeney",
-          "text": "Size isn’t the same as strength. The centre needs coherent coordination: strategic capacity that plans ahead for things like Budgets and King's Speeches, and better coordination of communications and cross-department delivery, not more fragmented teams."
-        },
-        {
-          "speaker": "Lord Waldegrave of North Hill",
-          "text": "So more central strategy and joined-up teams, not just more staff?"
-        },
-        {
-          "speaker": "Morgan McSweeney",
-          "text": "Exactly. Clear priorities from the Prime Minister, routed through a stronger centre that can chase departments and produce consistent action."
-        }
-      ]
-    },
-    {
-      "title": "Parliament, parties and practical checks",
-      "takeaway": "Parliament, parties and political reality are essential checks; reforms should come from Parliament and MPs remain capable of holding government to account.",
-      "turns": [
-        {
-          "speaker": "Baroness Hamwee",
-          "text": "Can the Commons act as a restraint when interpretations go against Parliament’s intent?"
-        },
-        {
-          "speaker": "Morgan McSweeney",
-          "text": "Yes. Parliament can amend bad legislation, use PMQs, committees, or pass new laws. It should be central to deciding which rules stay, which change, and to any codification."
-        },
         {
           "speaker": "Lord Cryer",
-          "text": "But haven't both Cabinet and Commons become weaker over decades?"
+          "text": "Checks through Cabinet and Parliament may be weaker than they were decades ago. Labour MPs used to elect much of their shadow Cabinet, and MPs can now focus heavily on constituency issues. Can those checks be strengthened?"
         },
         {
           "speaker": "Morgan McSweeney",
-          "text": "My experience is MPs are well informed and engaged on national issues. Cabinets still include strong figures who will push back. No single check is perfect—courts, Parliament, Cabinet, civil servants and parties all matter together."
-        },
-        {
-          "speaker": "Lord Beith",
-          "text": "Who should lead the review of accumulated rules?"
+          "text": "I can't compare directly with 30 years ago, but I saw MPs with a wide range of interests. On nearly every national issue, there were MPs who were well informed and wanted to question or improve government plans."
         },
         {
           "speaker": "Morgan McSweeney",
-          "text": "Parliament should lead it—committees like this can recommend. The Prime Minister shouldn’t alone rewrite conventions; that risks politicising rules that protect the constitution."
-        },
-        {
-          "speaker": "Chair",
-          "text": "Any final practical example of change you’d press for?"
+          "text": "A Prime Minister also needs a Cabinet that commands respect across the governing party, so ministers with strong support among MPs still matter. Ministers and MPs can challenge decisions, often before legislation reaches Parliament."
         },
         {
           "speaker": "Morgan McSweeney",
-          "text": "Review quasi‑judicial interpretations to allow necessary Cabinet input; codify core roles in the Cabinet Manual so everyone—Ministers, civil servants and the public—knows who decides what and when."
-        },
-        {
-          "speaker": "Chair",
-          "text": "Thank you for your time and for joining us from Chicago this morning."
+          "text": "No single safeguard can restrain a Prime Minister on its own. Courts, Parliament, Cabinet, civil servants, political parties and voters all play a part, and their combined effect matters. My experience was that many MPs were engaged in issues beyond their own constituencies."
         }
       ]
     }

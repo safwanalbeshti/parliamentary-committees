@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18326,
+  "activity_id": 39591,
+  "document_id": 315432,
+  "meeting_date": "",
+  "meeting_date_display": "",
+  "publication_date": "2026-11-20T14:12:22",
+  "title": "Regulatory sandboxes in financial services",
+  "committee": "Financial Services Regulation Committee",
+  "committees": [
+    {
+      "id": 697,
+      "name": "Financial Services Regulation Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10006,
+      "title": "Regulatory sandboxes in financial services",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Joseph Twigg",
+      "role": "CEO",
+      "organisation": "Aveni"
+    },
+    {
+      "name": "Desmond McNamara",
+      "role": "Chief Risk Officer",
+      "organisation": "Zilch Technology Limited"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Desmond McNamara",
+    "Benjamin Cave",
+    "Lord Sharkey",
+    "Baroness Bowles of Berkhamsted",
+    "Lord Hill of Oareford",
+    "Lord Eatwell",
+    "Lord Lilley",
+    "Lord Griffiths of Fforestfach",
+    "Lord Davies of Brixton",
+    "Lord Vaux of Harrowden",
+    "Baroness Donaghy",
+    "Lord Smith of Kelvin"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18326/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18326",
+  "source_sha256": "db44e9c034281b2ee3b536ad40f9bc1919aa02ece52c1323446bc513fd66bb0b",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

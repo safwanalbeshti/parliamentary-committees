@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18327,
+  "activity_id": 39546,
+  "document_id": 315437,
+  "meeting_date": "2026-11-17",
+  "meeting_date_display": "17 November 2026",
+  "publication_date": "2026-11-20T14:18:44",
+  "title": "Maintenance and enforcement in public spaces",
+  "committee": "Built Environment Committee",
+  "committees": [
+    {
+      "id": 518,
+      "name": "Built Environment Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10051,
+      "title": "Maintenance and enforcement in public spaces",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Projects Coordinator",
+      "organisation": "Octopus Community Network"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Senior Research Fellow",
+      "organisation": "University of Southampton"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Managing Director",
+      "organisation": "The Business Hive"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Mark Webb",
+    "Rosie Apperley",
+    "Dr Joseph Owen",
+    "Lord Bailey of Paddington",
+    "To touch on the question of “who”, I will always say this",
+    "Baroness Andrews",
+    "Baroness Janke",
+    "My question is",
+    "Lord Bassam of Brighton",
+    "Baroness Lawrence of Clarendon",
+    "Lord Porter of Spalding",
+    "Baroness Griffin of Princethorpe",
+    "Lord Ravensdale",
+    "Lord Cameron of Dillington"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18327/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18327",
+  "source_sha256": "237c4ea381a96643905e302a5cea8de5213da82fbce08c39603e947ff3b32d72",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

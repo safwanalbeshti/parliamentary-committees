@@ -1,0 +1,336 @@
+﻿
+
+
+
+
+
+
+Oral evidence - 18 Nov 2026
+
+Financial Services Regulation Committee
+
+Uncorrected oral evidence: Regulatory sandboxes in financial services
+
+Wednesday 18 November 2026
+
+10 am
+
+Watch the meeting
+
+Members present: Lord Hollick (The Chair); Baroness Bowles of Berkhamsted; Lord Davies of Brixton; Baroness Donaghy; Lord Eatwell; Lord Griffiths of Fforestfach; Lord Hill of Oareford; Lord Lilley; Lord Sharkey; Lord Smith of Kelvin; Lord Vaux of Harrowden.
+
+In the absence of Baroness Noakes, Lord Hollick was called to the Chair.
+
+Evidence Session No. 6 Heard in Public Questions 64 - 74
+
+Witnesses
+
+Kevin Sefton, CEO, Untied; Vinay Anupindi, Co-Founder, Monee Financial Technologies; Lyubomira Dimitrova, Co-Founder, Relace; Nick Tracey, Co-Founder and CEO, Bourn.
+
+USE OF THE TRANSCRIPT
+
+This is an uncorrected transcript of evidence taken in public and webcast on www.parliamentlive.tv.
+
+Any public use of, or reference to, the contents should make clear that neither Members nor witnesses have had the opportunity to correct the record. If in doubt as to the propriety of using the transcript, please contact the Clerk of the Committee.
+
+Members and witnesses are asked to send corrections to the Clerk of the Committee within 14 days of receipt.
+
+Examination of witnesses
+
+Kevin Sefton, Vinay Anupindi, Lyubomira Dimitrova and Nick Tracey.
+
+The Chair: Welcome to today’s meeting, which is the sixth oral evidence session as part of the committee’s inquiry into regulatory sandboxes. Thank you to Mr Sefton, Mr Anupindi, Ms Dimitrova and Mr Tracey for attending. Perhaps to start off you could introduce yourselves and tell us a little bit about your companies. Then we will proceed to questions.
+
+Lyubomira Dimitrova: Hi, everyone. Good morning. I am co-founder of Relace. Relace is a regulatory technology platform and product. We are currently part of the FCA supercharged sandbox cohort 2, which runs from July until the end of the year, so we are a current participant.
+
+Kevin Sefton: Hi, good morning. Thanks very much for having me. I originally qualified as a chartered accountant and chartered tax adviser with Arthur Andersen and have spent most of the last 30 years working in technology, generally adjacent to financial services.
+
+I am here today as founder of Untied, which is a personal tax software product that helps people categorise transactions from open banking and other sources. They use Untied to file their self-assessment and now Making Tax Digital. We were in the fifth cohort of the FCA sandbox in 2019 and I hold senior sector roles, including on the general council of the accounting software body BASDA and with HMRC.
+
+Vinay Anupindi: I am co-founder of Monee Financial Technologies. It is an honour, and one that I never expected, to give evidence before this esteemed House and its committee. Our story began in 2019 with the conviction that securities issued on distributed ledgers would one day be a standard for national infrastructure. In 2020, we applied to the FCA sandbox. However, we were not accepted and, in hindsight, rightly so, as the innovation was quite early.
+
+What followed was something of an odyssey in search of a regulator and a jurisdiction. While we kept building, we found that most jurisdictions were what we call innovation theatre. We came to the UK not because it was easy, but because it was serious. We are currently in multiple sandboxes, including the Bank of England’s digital securities sandbox with the FCA, the FCA stablecoin sandbox and the Bank of England synchronisation lab. Today, we are building wholesale sterling settlement infrastructure for tokenised markets. We firmly believe that innovation does not need to come at the expense of regulation. Done well, regulation is what enables responsible innovation. I am looking forward to the discussion today.
+
+Nick Tracey: Hi, thanks for the invite. I am CEO and co-founder of Bourn Technologies. We are developing an alternative to the business overdraft for SMEs that want to grow and we participated in the regulatory sandbox in 2025.
+
+The Chair: Why did you go into the sandbox and how is it living up to your expectations?
+
+Lyubomira Dimitrova: Why did we go into the sandbox? We are building regulatory technology and helping firms manage their regulatory posture and adherence, and it is a very data-heavy solution. The main reason why we wanted to go into the sandbox is to understand the regulatory regimes really intimately and in depth.
+
+The product that we have developed is for consumer duty, which is a very recent regime. It is only three years old and a lot of the firms out there are struggling to figure out how to do it well, because it touches all parts of a company. We wanted to understand what the regulator is trying to achieve with this regime, what struggles it is seeing and how we can help. That was the main reason why we wanted to join.
+
+The experience has been positive. There are areas that have been challenging as well. I can cover that now or pass on and come back to this later.
+
+Kevin Sefton: The reason we took part in the sandbox was really straightforward. We needed regulation in order to run our business. At the time, open banking was coming in and there was a regime for account information service provision. At the time, you needed direct regulation from the FCA in order to do that. We had a choice of whether we went for the full regulation or for the sandbox. We had lots of discussions internally and the general feeling was that the sandbox would be the quicker way to do it.
+
+I realise that there are lots of reasons for sandboxes, and I probably have half a dozen different types of sandbox definition as well. In this case, it was not necessarily that what we were doing was new. It was not about innovation. It was the simple need to be regulated, and we thought and hoped that the sandbox would be the quickest way to do it. I am sure that we will explore during the rest of the session whether that was actually how it transpired.
+
+Vinay Anupindi: Similarly to Kevin, we were seeking regulation. Our innovation was at the edge of the regulatory perimeter. We were talking about issuing securities and settling it on innovative technology, which required actual regulatory guidance and perhaps even new laws made. We definitely felt that this was something that had to be done with a regulator that was serious, rather than just going out there with what many other start-ups or tech companies think of: “Let’s just move fast and break things”. This was the sort of thing where you could not break things because this had to do with the actual capital market system, so we definitely saw a need for a regulator. We searched for many years to find a jurisdiction and a regulator until we found the UK and these particular sandboxes.
+
+Nick Tracey: For us it was similar. We knew that the product that we were developing was a regulated product, so an alternative to the business overdraft, which encompassed processing payments for businesses and potentially holding client money for those businesses in the form of e-money. We knew that regulatory permissions would be required.
+
+I guess that fintechs have broadly two paths from concept. You can either pursue authorisation as a direct route, or seek to be an agent of an existing authorised entity. We wanted to partner with large UK-regulated banks, in order to go to market with our product proposition. We decided that direct authorisation was the more credible route to build the capabilities and controls in order to partner with those banks.
+
+Lord Sharkey: I was struck by the written evidence provided by the Startup Coalition. I do not know whether you are members of the coalition, but it certainly made striking reading. It said some very positive things about sandboxes, but it made three criticisms. The first was that there is no published success framework and therefore no way to judge any of this, talking about sandboxes in general. It points out that the published evidence is antiquated and was caveated at the time. The chief criticism from the coalition’s written evidence is that the sandbox does not connect to authorisations and that is its central failure. Would you like to comment on that?
+
+Lyubomira Dimitrova: The point that you mentioned around there being no success criteria or clear framework really resonates. When we applied with our project, we scoped this out ourselves. In our application we were very explicit that we were looking to develop a commercial product that, by the end of the sandbox, we would want to launch and that, as part of our sandbox participation, we wanted to bring in design partners to work with from industry.
+
+We wanted to be in the sandbox so that we could intimately understand what the regulator wants to achieve with this regulation and how we can support the market. We heard from market participants that they are really struggling with trying to collect and ferry data from different teams. They do not have enough capacity, time and resources to focus on what appear to be the objectives of that particular regulatory framework.
+
+We had to completely set up our own success criteria. We went to the team and, as part of our project, outlined that. At no point did we discuss what success looks like with the current team running the sandbox we are in. That was not a conversation at the beginning or throughout the programme.
+
+The other thing that I would like to mention there is that at no point did the team that is running the sandbox have a checkpoint: “How are you guys doing? What’s the progress?” We offered to do a demo of what we are building and share insights. We were not taken up on the offer. That is challenging. How can you set out success criteria and then monitor progress? We are doing it for ourselves because we are a small team and looking to launch a commercial product.
+
+Kevin Sefton: I participate with a lot of activities that Startup Coalition runs. It is an absolutely outstanding organisation providing something that does not exist elsewhere for smaller businesses in terms of engaging with a lot of policy areas. Although I have not contributed to this direct submission that it has made, I have seen it and buy into some of the findings.
+
+A lot of success is assessed post hoc. Has it worked? Well, what did you set out to achieve? From our point of view, we wanted regulation. That was very clear. It provided that route and we exited the sandbox successfully. That was a fairly straightforward process, although a little bit undefined. This was seven years ago, so things are probably different today.
+
+In terms of success, what did we want from it? There were other things that I would have hoped that it would have produced. We were in a cohort. I thought that that might give us a cohort experience. We did not get a cohort experience. Did we find financial institutions that, like some of the others giving evidence, we wanted to partner with? Did they value the sandbox experience? I am not sure that they necessarily did. I do not recall any of them saying, “Where are you with the sandbox and what’s happening with the regulation?”
+
+Does it foster genuine collaboration and opportunities between established institutions and innovative new businesses? That is what we want to achieve. We can achieve the innovative business models, but, in order to scale that, we need to be working ideally with either someone who has an awful lot of money to invest in growing a business or, probably, some of the larger institutions. If those were the criteria, albeit not set out seven years ago before we went into the sandbox, I do not think that we met that. In terms of what its observations are saying, I would agree with it, but of course the nuance is always in the detail.
+
+Vinay Anupindi: We have not been part of any coalition and I agree that there are some nuances. In our particular case, with the digital securities sandbox and the stablecoin sandbox, I can say that there was a very detailed published framework. The objective of the sandboxes is to get licensed and go live in terms of issuing or settling securities.
+
+As for whether it is antiquated, our experience has not been so, because the regulators and authorities are actively building policy, in which we got to participate within the sandbox. We had very clear objectives on what would be the end of the sandbox and our exit, which was to get authorisation and be live as a firm.
+
+To be candid, it took us about six to eight months to actually apply, given our scepticism about sandboxes, initially applying with the FCA and other jurisdictions. It took a bit of back and forth with the Bank of England and the FCA. They invited us to meet them in the FCA. We came down and then concluded that the authorities in the UK are quite serious about this and that there is a whole framework being developed, not just in terms of the sandboxes, but actual policies and laws being developed. This may be a nuanced case because of the particular sandboxes we are in, but that is our experience.
+
+Nick Tracey: I agree with the statement that regulatory sandboxes do not connect directly to authorisation. I do not think that the sandbox is intended to be a replacement for authorisation, but we saw that the FCA innovation team that runs the sandbox was very well co-ordinated with the authorisations team and sought to limit any duplication in our effort in applying for the sandbox and then applying separately for authorisation.
+
+We are now a fully authorised electronic money institution. There were only, I believe, 18 authorised electronic money institutions in 2025. Our authorisation came in two parts. Initially we gained restricted permissions in order to undertake regulated activity while in the sandbox. On exiting the sandbox, we submitted a variation of permissions to remove those restrictions and therefore become a fully authorised EMI.
+
+For us, that was a straightforward and well-connected process. The total application was three months for the initial restricted permissions and an additional three months for the full or variation of permissions, so in total six months, or, end to end, including our regulatory sandbox testing, 12 months. That was probably faster than many EMIs would be able to achieve through a direct authorisation route.
+
+Lord Hill of Oareford: You have just answered what I was going to ask, because you said that they are well co-ordinated between the sandbox and the authorisation process. Do you think that the authorisation process is expedited as a result of being in the sandbox, if you see what I mean, so you have been through the sandbox, they know you and then your authorisation period gets a bit reduced, or were you just lucky?
+
+Nick Tracey: No, I think there is a direct connection. Testing within the regulatory sandbox had two objectives, primarily, for us. One was to technically test that the product worked and that customer feedback was positive. The other was to give us time to develop the controls and capabilities that we would need to demonstrate that we were ready to be fully authorised as an EMI.
+
+We were very closely supervised by FCA innovation throughout the sandbox testing period. We had a monthly meeting with FCA innovation where we were able to demonstrate customer feedback and technical viability, but also the control environment that we were building internally. I am sure that, qualitatively, some of that outcome and observation, in effect from supervision, must have fed back into the authorisations process when we undertook the variation of permissions. We did not see a lot of that, but our experience was that it was well joined up. The end-to-end one-year application process felt timely.
+
+Baroness Bowles of Berkhamsted: When applying to the sandbox, was it resource intensive and did you find that you needed to get outside advisers to help you get your application through? Was that costly as well? There is resource in cash and resource in people.
+
+Nick Tracey: We spent around three months preparing an application to the regulatory sandbox. We were, at that stage, just a concept with three co-founders and no team. We hired a fractional compliance officer to support us with preparation of the application. It was resource intensive for a small team. We submitted probably in excess of 100 pages, so not just the application form but also supporting documents. A lot of that would have been work that we would have needed to do anyway to be a regulated entity, so I did not see that as wasted effort. All the good thinking and the preparation of policies and procedures was work that we had to do anyway. Yes, it was three months of hard work and work well spent, I think.
+
+Baroness Bowles of Berkhamsted: It was a nice shortcut in a way.
+
+Nick Tracey: Yes, I would say that.
+
+Vinay Anupindi: Yes, it was resource intensive, and we believe it should be. It was intensive in terms of time and actual focus given towards the application process. At the time we were a small team, very much so, with just co-founders and a few others. We did not take any professional help. We could not afford that. We are bootstrapped still. Basically, we just went at it ourselves. If we had any questions, we asked the regulators. We read all the policies and applications, and just did it ourselves.
+
+Kevin Sefton: We were in a very similar position to Monee in terms of doing it ourselves. Partly, that was because, if we have a compliance obligation, I tend to take the approach that I need to understand what that compliance obligation is. Therefore, the best way to do that is to write the documentation myself.
+
+Our process may have changed since, so I will briefly walk you through it, and it is part of my written evidence as well. It was a very light-touch application to get into the sandbox itself. It was five hours’ effort to fill in a form initially, but we had already built most of the business. It then took five months, having filled that in, before we were actually approved.
+
+Baroness Bowles of Berkhamsted: That was approval to go into the sandbox.
+
+Kevin Sefton: Yes. I then thought, “Great, we are in the sandbox”, but it turned out that, although we were approved to be in the sandbox, we still needed to write all the documentation to get authorisation as well. We needed to go into the sandbox and to do a lot of the work to apply for registration for the firm, which was a big exercise, before we could actually start testing in the sandbox. In effect, you have been given the green light to go in, but you do not have all your bags packed in order to actually enter it. That was the big regulatory business plan, which I guess, from your point of view, was around about 100 pages. Ours is not that different.
+
+From our point of view, this is an outstanding set of thinking that we had to go through. Having been asked to present business plans to all sorts of different investors and institutions, this is probably the only time that I have been asked for something that I would say is of a serious nature that I would expect, from a professional background, to have submitted and reviewed. That took us probably 80 to 100 hours of effort, so two solid weeks writing that.
+
+I do not know whether I am answering the question, but we built the product, we were in the sandbox and then we were told, “You have to write this document to get registration for the firm to start the testing”. That took two or three solid weeks of additional effort to produce the document. Then we got the registration confirmed and were in the sandbox.
+
+Baroness Bowles of Berkhamsted: Then what happened? Are they testing your technology or your authorisation worthiness?
+
+Kevin Sefton: They are largely testing your authorisation worthiness, but we are testing the technology. We were allowed to be offering services to 200, I think, people. As a tax business, of course it is very seasonal. You do not want to start offering Christmas trees in January. We were acutely aware that we needed to make sure that we were authorised at a level in the sandbox such that we could be offering tax services in time for the 31 January deadline for self-assessment.
+
+We were allowed to do that for a limited number of people. We realised quite quickly that it was working. Then how do we extend that to full regulation to allow us to be offering it to more people? That was the process that my colleagues described before. Quite quickly, we realised that, as a principle, this was working and we were moving very quickly to say, “How do we exit the sandbox?”
+
+In terms of the effort that we needed to exit, it was a lot of conversation, but not a lot more documentation that was required. This is seven years ago, so I was looking through my notes in preparation. I see in my notes that I said how helpful the FCA team was during that process on the weekly calls. I apologise for the fact that I do not remember how helpful they were, but I am very glad that I documented it. If they are listening, the fact that I do not remember does not mean that I am not grateful.
+
+Lyubomira Dimitrova: How do I follow this up? My answer here is very short. Effort is subjective. Compared to the effort these firms had to go through, ours was less. We spent most of the time thinking about the problem and scoping the project. Writing the application does not take too much time when you are clear on what you want to test and what your proposition is.
+
+We used an adviser, not paid, just friendly, who helped us write the application. They were someone who participated in a sandbox. That was valuable because they knew the structure and what needed to be written. That was valuable. We managed to get a meeting prior to our application with the lead of our current sandbox to run through, “This is what we are thinking. This is what we would like to test. Is that interesting? Is that viable?” They gave us feedback, so that was useful as well.
+
+Lord Eatwell: I am interested in not just what you got out of it, positive or negative, in the process, but also what the regulators got out of it. I am struck that Mr Anupindi said that he was seeking regulation at one point. He also said just now that the regulators were actively building policy, which suggests that they were learning from you. The whole point of the sandbox for the industry is that it is supposed to remove regulatory risk. You are making a lot of investment in developing new products and processes. There is a risk associated with this that the regulator will say, “Sorry, no”, and your money has just gone down a black hole.
+
+That is the role that this is supposed to perform for you. Did you find in the process, or are you finding in the process in the case of Ms Dimitrova, that the regulators were learning and that this was a learning experience for them?
+
+Lyubomira Dimitrova: There is a really big missed opportunity here in general. We could have better cohort experience. In our cohort right now, we had two touchpoints or opportunities to gather as a cohort and meet each other. That was at the kick-off and at a mid-point meeting. Beyond that, it is a very siloed experience. You work in your sandbox, you have a point contact that they assign to you and that is it.
+
+There is very little opportunity to mingle with the rest of the firms. We asked to be introduced to a couple of other firms where we think we can work together to prove a point for both firms. We were not introduced. It was quicker to get an introduction through the firm or the company outside. That is a big missed opportunity.
+
+As I mentioned, we offered to provide them feedback. Again, it is a missed opportunity to receive that. Maybe they are taking learnings and feedback, both on what is working operationally and on the technological side, but, in full honesty, I do not have evidence of that. That is not my experience.
+
+Kevin Sefton: I am hopeful that they have learned, because things have changed since we took part. It might well be that that is based on feedback from us. A regulator learning from a sandbox is an essential part of a sandbox.
+
+I talked about HMRC. If you will forgive me a little bit of a detour, the tax system is a highly regulated environment, one where there is a lot of opportunity for innovation, but also a lot of risk that needs to be managed. In that sort of sector, a sandbox has a role with some trusted conversations between innovators and a regulator about what innovation may do, but also, quite frankly, around the risks of that innovation. Particularly in today’s world, where AI allows you to code overnight all sorts of applications that can do things in lots of different systems, often outside regulation, an active conversation between a regulator and those innovators within that sandbox is absolutely essential.
+
+Alongside that, there needs to be some benefit though for the innovators in the sandbox. In other words, if a company is testing a new product or idea, working closely with the regulator and then the regulator says, “This looks like a safe business model. We are going to allow it”, is there an advantage or a disadvantage for the participant that has spent that time investing not just in their business but in educating the regulator and the market in something? You do not want to find that the day that you are authorised to be conducting business is the day that everybody else is authorised as well. It is a little bit like a drug coming off patent the day that you are able to start marketing it.
+
+Vinay Anupindi: In response, I believe that we are both learning at the same time, definitely so in our case. While the regulators are making or solidifying the parameters that they are developing and utilising the sandbox for more information and data, we at the same time were able to improve our own processes and meet the regulators’ expectations. We found that we were able to make suggestions that they took note of. We have seen this being implemented as policy as well while we were working in the sandbox.
+
+Unlike my colleagues over here, we have not been authorised yet. We are still in the testing phase, so we do not see any expedition in terms of us getting authorised. The only advantage we see is that perhaps we are more operationally ready.
+
+We have been engaging with the regulators not just in the sandboxes, but also in the consultation responses for policies that have been put out there. The BoE, HMT and the FCA have been very clear on what kinds of policies they are developing and where things are going. They have asked industry to give comment on that and we have done that actively. We have seen while this new regime is being developed that they have taken industry into account. Perhaps, humbly, we can say also that certain suggestions we have given have been taken into account.
+
+It is definitely a process on both sides and this comes down to regulatory risk. We were seeking regulation because we firmly believed from the conception that this was an industry and an innovation that would require regulation and would not scale, expand and become a reality, if you will, in the marketplace without regulatory hosting. This is why we conceptualise it as something that needed to be regulatory grade, sovereign grade and, in our use case, institutional grade.
+
+Nick Tracey: From our perspective, our experience of working with the FCA, and the FCA innovation team in particular, was that it appeared to be collaborative, genuinely curious about the innovations that we were bringing forward and keen to learn from what we were doing. Our particular innovations included application of AI, so large language models and machine learning, but also open banking, which is still maturing in terms of its uptake. The FCA, I think, has a new mandate for open banking as well. That was an area where, for example, it introduced us to the open banking specialists within the FCA to share ideas in a two-way setting. They certainly seemed interested in that.
+
+We also noted that the FCA publishes Innovation Insights, where it includes case studies at a more general level. Throughout, from our perspective, it seemed to be interested to learn and responsive.
+
+Lord Lilley: I apologise to the Chair and witnesses for missing some of the opening remarks. Could you explain a little more what happens when you are in a sandbox? What are you allowed or not allowed to do that you would be allowed or not allowed to do if you were outside the sandbox?
+
+Lyubomira Dimitrova: When you are in the sandbox, you have access to datasets.
+
+Lord Lilley: Could you elaborate on what a dataset is in this context?
+
+Lyubomira Dimitrova: For example, you have different types of data, which are more often than not synthetic. That means created data points. If you want to test something—for example, banking transactions and processing transactions—you have synthetic data that helps you simulate and test your solution. Part of what we tested and used this data for is complaints. You have complaints data, so Ms Maria Dimitrova is writing a complaint about X, Y, Z. They have this dataset that we can use to test, for example, our technology. You have access to datasets that you can use to test your solution. That is a technological benefit; that is useful.
+
+As part of our sandbox, we also have credit with some of the cloud providers and some coding assistance. That is also useful, especially for a start-up. It is quite beneficial.
+
+You get mentors. For us specifically, the mentors have been one of the most valuable things. The mentors are industry people. One mentor is actually sitting at the back. They have been one of the most helpful things about this sandbox because they give you different feedback. Some are, for example, IP specialists, data protection specialists, banking executives or previous participants in sandboxes. You can utilise this resource, and that is very helpful.
+
+They give you the environment, and then you can develop and work with your solution and test it with the datasets. One thing that we really wanted to do, and would have benefited from, is to have an expert in consumer duty working with us. That is probably one of the big disappointments for our side. Over four months, we have received two times 30-minute meetings with someone working on consumer duty. While they were amazing, they were also a junior, let us say, member of the team. They were amazing and really helpful. In thinking about how to improve this, having a point contact for the company who is expert and genuinely interested in the area would be really useful.
+
+Lord Lilley: Mr Sefton, you mentioned having 200 customers.
+
+Kevin Sefton: Yes, I was listening to that and I thought, “That doesn’t reflect our sandbox”. The word “sandbox” means so many different things to so many different people. It has achieved, as someone else referred to, this mythic status. Unfortunately, that means that we do not actually pin down what a sandbox is.
+
+Understanding and separating out the different purposes—there may be overlap—is going to be helpful for regulators and something that you may be thinking about as well, whether that is testing a new business model or business technology. It may be something that everyone is thinking about across the whole industry. There may be no commercial advantage, but is this a possibility? It may be something the regulators themselves are thinking about.
+
+From our point of view, it was simply limited regulation that allowed us to support 200 people, and then we extended that to more. The key thing is what each sandbox is intended to achieve. That one word means so many different things. It is hard from the outside, and sometimes from the inside, to know what type of sandbox you are in.
+
+Vinay Anupindi: In our case, it was a different experience and more nuanced. We did not have any data given by the regulator because there is no data in our industry. In fact, we had to give the regulators simulated data to show them testing in our case. The sandbox provided us with a named case officer and a team.
+
+In our particular sandbox—the stablecoin sandbox—we had an intense cadence of every week or every two weeks where we would meet our case officer and the teams in the FCA, from policy and payments to financial crime, basically testing all our procedures and putting us a little bit on notice on our architecture, what technology we are using, how we were maintaining compliance with the regulations, how we were maintaining prudential security and many other things. In our case, for the stablecoin sandbox, which we still have to exit and get authorised for, it was very interesting. As Kevin said, the concept of sandbox may be general, but each sandbox in itself may have specific criteria. How each sandbox and its participants and cohort are dealt with may be more nuanced.
+
+The other sandbox we are in is the digital securities sandbox, which is more focused with the Bank of England. It has not been as intense. It is more of a multi-year sandbox. The intention, I believe, is to make it into a more permanent regime. With that noted, the regulators in that sandbox have been engaging with us actively. We go back and forth quite often—I would say almost multiple times in a week—but there is a longer timeframe for that sandbox than the stablecoin sandbox.
+
+Nick Tracey: We participated in the regulatory sandbox. I guess that the consistent theme across all the sandboxes is probably innovation or enabling innovation in some form. For the regulatory sandbox, we were able to undertake regulated activity on a limited basis to test our innovation.
+
+It is worth saying that that process was governed very closely by a test plan. In advance of being accepted, we had to develop a very detailed plan for exactly what we would do during the sandbox period. Ours had around six phases, including launching technically the product, testing the technical effectiveness of the product, starting to test that with customers in live, recording customer feedback and stress testing for scalability and resilience of the platform that we built.
+
+There were a number of phases and it was a six-month test for us, during which we had roughly monthly engagements with FCA innovation. That enabled it to monitor our performance against the test plan. I guess that that had a dual purpose of giving confidence that the innovative product was effective and met customer needs, and, at the same time, familiarising ourselves with the FCA and vice versa, so that, if we were about to pursue a full authorisation route, it already had some awareness of us.
+
+FCA innovation in this context is essentially providing the supervision ahead of being a fully authorised firm. In effect, you have a close, active supervision throughout the regulatory sandbox.
+
+Lord Lilley: You described it as the regulatory sandbox, as if there is one thing called the regulatory sandbox and lots of other things called other kinds of sandbox. I thought that they were all about regulation. Can you distinguish between this regulatory sandbox and the rest?
+
+Nick Tracey: To clarify, I understand that they are all to support innovation under a regulatory framework. I believe that they all have individual titles, including stablecoin sandbox, digital sandbox and so on. I believe that there is a generic sandbox called the regulatory sandbox, but the FCA could confirm.
+
+Lord Sharkey: How much of this can be done by waiver, rather than by complicated sandboxes?
+
+Vinay Anupindi: In our case, we do not believe that it can be done with a waiver. Our technology and innovation is concerned with issuing securities and the settlement of securities. Specifically, we are in the wholesale market, which involves dealing with fixed income, digital gilts and whatnot. It is not something easy. In fact, I would say that the digital securities sandbox is the form of waiver for us to test this out. I believe that the BoE has specifically made the sandbox so that it can give waivers within the sandbox from the CSD regulations.
+
+The idea is that, if we take the term at face value, it is a sandbox. All of you may have been parents. You take your children to the park and they play in a sandbox. The idea is that there is a controlled, regulated environment where the supervisors can observe us. We can play, test this out and make sure nobody gets hurt. Once we become adults, or bigger children, we can go on our own.
+
+Lord Griffiths of Fforestfach: As you reflect on having been in the sandbox, do you think that it has given you a competitive advantage in terms of raising money, attracting the right people, et cetera?
+
+Nick Tracey: I feel like it has certainly given us a competitive advantage, in that we are now a fully authorised EMI and one of only 18 firms to achieve that in 2025. I believe we did that in a good amount of time, and more quickly than we might otherwise have achieved it.
+
+We attracted attention from tier 1 banks, I think partly due to our participation in the sandbox and associated publicity. We secured a strategic partnership with NatWest Group and it took a strategic investment in us as well. We were able to close a £3.5 million seed investment round around the same time as us exiting the sandbox successfully. That first phase for us was about proving the product, testing product-market fit, and giving investors and our bank partners the confidence that we were ready to scale that proposition.
+
+Vinay Anupindi: I would answer yes and no. We have not been able to raise money yet, so I do not know whether that is an advantage there. However, we see an advantage in terms of regulatory engagement. As mentioned before, as this policy has been developed, we are within the regulatory perimeter to discuss and test this with the regulators. We found that maybe other firms are taking a wait-and-see approach. We also feel that this advantage is of our own making. Others could have applied and got into the sandbox themselves.
+
+Any such advantage is very short lived. Once the regime goes live, I am sure that a horde of other firms that are much better resourced than we are will be doing the same applications to be authorised. The only real advantage is that we get to test this and operate right now in a manner where we are discussing with the regulators. Maybe that gives us a little bit of an information advantage, but, in terms of execution or operation, I do not see that as a permanent advantage.
+
+Kevin Sefton: That point about not having a permanent or long-term advantage is a really key one. For what we do, it very quickly did not require direct regulation from the FCA anyway. The agent model that was discussed earlier is a much shorter-cut route to achieving exactly the same thing. In effect, you have one organisation that is fully regulated by the FCA and it allows others to act through its authorisation as agents. That was not something that that sustained.
+
+I am not sure, as I said at the time, that any of the investors or financial institutions that we were talking to really appreciated what we were doing and going through. We filed the first UK tax return using open banking data fully end to end, which was a very nice thing. Coming back to some of the lessons, we have made very many observations in terms of the suitability of open banking for accounting, which is a key use case for open banking, but they seem to have been lost in the ether. They would be for the general industry benefit.
+
+There are other things that create different sorts of competitive advantage. This is outside the sandbox directly, but the Banking Competition Remedies capability and innovation fund, so putting £500 million into the sector, has had a major impact. We got supported through that probably as a result of our participation in the sandbox and the understanding of the rigours associated with that, so there is a knock-on effect. Did we get direct competitive advantage from being in the sandbox? With respect to the FCA, I have to say that I am not entirely sure.
+
+Lord Griffiths of Fforestfach: You are saying that, post the sandbox, your regulatory relationship with the FCA and the fund that you have just mentioned was such that they knew you. Were you then able to pick up the telephone and say, “This is my name. I really enjoyed that sandbox but I am having a slight difficulty with something. I would love to talk to you about that”?
+
+Kevin Sefton: I have not done that. We have had calls from the FCA on different matters. I have always found it to be very helpful. Its purpose is to help you with your regulation, rather than to enforce things where you have maybe made a misunderstanding. That has not happened directly, but the FCA was very helpful.
+
+The fund that I was referring to was not administered by it, so I would say that that connection, one from the other, was not there, but there is that ability to have that conversation, for anyone who is regulated, every so often. If you are driving—I am sure that this applies to no one in this group—you occasionally might get a parking ticket. On the occasional little slip where you have missed something, I have found the FCA to be really quite helpful in making sure that you are properly managing your business.
+
+A side note is insurers. Because of the odd thing that we do, being a combination of accounting and financial services, our insurance premiums are around about 20 times what they would be if we did one or the other. That is a significant cost for us because we are doing something innovative. I know that that is not the purpose of this group, but that is a cost of innovation. Perhaps insurers being closer to the process might be valuable.
+
+Lyubomira Dimitrova: It was very helpful and useful. I know that I am providing a lot of constructive feedback on our experience. Still, like Nick said, the publicity helps, especially if you are an early-stage business. The trust helps to attract companies or customers that are willing to take a chance on a developing technology, so that is really useful. We managed to build our product in the past four months while in the sandbox. We started with zero and built in the sandbox with the datasets, mentors and support. The feedback that we are providing here is how to make this better. Ultimately, I believe that it is very useful. On whether it provides a competitive advantage, it is too early for me to say and provide feedback.
+
+Lord Davies of Brixton: There were a couple of phrases that two of our witnesses produced earlier in their evidence, and I hope they both make their way into our final report. One was “innovation theatre” from Mr Anupindi and the other was the “mythic status” of sandboxes from Mr Sefton. Because I want them to go into the report, I wondered whether you would like to expound a bit more on them.
+
+Vinay Anupindi: I will not name any jurisdictions or regulators specifically. We applied in 2020 and did not get in, which, by the way, was quite early and even pre Covid. The world’s priorities had changed and I suppose we were not quite ready, and neither was the FCA, for what we were describing. That forced us to look at other jurisdictions.
+
+We went to well-known jurisdictions, say in the Middle East, Asia and even the EU. We set up companies there. We sometimes got licensing or entered their sandboxes. We found that they are very hospitable and very good at opening business and inviting firms, which is not cheap either. Let us just say that we did not see any seriousness in follow-through. Examples would be that we would give full applications and not even get answers as to whether we got in. We would speak to some central banks within the EU, which shall not be named, that would ask us to have discussions. After we applied, again, we did not get a response.
+
+We found it to be a bit more tepid and performative in terms of announcing, “We are open for business. We have this innovation. Please come and set your business up here”. Then there was not much towards where this is going: “How will we get authorised? How will this scale? What are the plans of the authorities to make this into a sustained industry?”
+
+In 2024 and 2025, when the Bank of England, with the FCA, announced the digital securities sandbox, we had a little bit of a hope that this may be the case. It was a little bit in the name, because they called it digital securities. In our world, given there is a lot of conflation with crypto and digital finance, we were pleased that there was at least a regulator that was not conflating it directly with tokens or crypto. We saw that there was actual intent and seriousness, not just in having a sandbox but actual pathways to being licensed. There were policies and laws being made. DIGIT, which is very well known, is being issued by HMT. It is the first G7 country natively issuing its own government bond.
+
+We saw this as an ecosystem being built. Given that this year is the 40th anniversary of the big bang, we see something similar happening here. We are quite confident about the UK, more than others, even though they are better known and very good at getting publicity and making headlines. We found that, while there are complaints here, things are progressing, maybe not at the pace that many in the industry might like, but it is more well thought out and comprehensive. It looks like there is more tangibility here.
+
+Kevin Sefton: I do not want to take credit for that line. I think it came from one of your previous witnesses. I want to make sure that credit is appropriately applied here. On the two concepts, innovation theatre is a really important thing in terms of larger financial institutions as well. I know that they are giving evidence next week. We have been through a number of different programmes and they love talking about innovation, but actually engaging and working with a business like ours seems to be a really big challenge. I recognise that they have very old systems that are complicated.
+
+The term “innovation theatre” applies in a warm, loving way to how some of the larger financial institutions and FTSE companies think about innovation. We will find ourselves paraded and presenting to them in a big room, but, when it comes to follow-up, trying to find the right person in a large organisation is a challenge.
+
+On the mythic status, I am going to be really brief about that. I hear lots of people referring to the benefits of the FCA sandbox without truly understanding what it is or even inquiring about what it is. Any sandbox, waiver or whatever it is called around innovation—I do not really mind what the language is—needs to understand what the purpose is and therefore what the right combination of interventions is to achieve those goals.
+
+The Chair: Thank you for that warm and loving answer.
+
+Nick Tracey: Is it possible to add one comment picking up on the collaboration with larger institutions? It is relevant to our case. We were able to partner with two banks—Investec and then NatWest Group—during our time in the sandbox. I wonder whether it would have been possible for them to take that chance on such an early-stage firm if it had not been for that framework. It is in effect a safe harbour for them. It is a safe way to collaborate with early-stage firms that they may otherwise not be able to do.
+
+Lord Davies of Brixton: You have all, in your different ways, explained that there are advantages to being in the sandbox, even if perhaps some see greater advantages than others, which means that the acceptance into the sandbox is quite an important element. I am curious to understand how you see the FCA choosing which people to take into the sandbox. Do you think it is even-handed? Is it trying to pick winners, or how is it doing it?
+
+Lyubomira Dimitrova: Frankly, I do not know. For the sandbox that we participated in, you have to scope your project and do a proposal. We did not hear feedback necessarily about why we were chosen, so I really do not know.
+
+Kevin Sefton: I am very similar. I do not know why we were chosen. I felt that we were doing something different. At the time, no one was using open banking for preparing tax returns, but, let us be honest, it was not a big leap of faith to use your bank account to prepare your accounts. That feels like a fairly straightforward connection. All I can recall is that it said, “We haven’t got anybody else doing it. If you’re doing something different, it’s worth applying”. We applied and were accepted, but I do not know any more than that.
+
+Lord Davies of Brixton: None of you has spoken to people who did not get in, for example, and seen the other side of the equation.
+
+Vinay Anupindi: Perhaps they do not speak to us. I cannot comment on the criteria of the FCA. I suppose that that is its own opaque magic. We applied with serious intent. We came with what we believe is a full application, which we took time to apply for and build.
+
+In terms of working with incumbents, after we conceptualised this at a very early stage, many years ago, we were at an interesting point when incumbents started getting into the space. We were able to approach them and made certain contacts. However, I can say that the sandbox accelerated that credibility, because then it turned from, “Okay, let’s have a conversation” to, “Maybe we should discuss working together”.
+
+On how we were selected, I suppose we just put in the best application we could. You would have to ask the FCA on what criteria it chose us. We were definitely nervous in each application, and we were refused initially when we applied in 2020, so it was still a bit of a gamble for us. Maybe, with this journey in terms of finding jurisdictions, we had time or a little bit of a chip on our shoulder to give as complete an application as possible and that is why we have got into multiple sandboxes now.
+
+Nick Tracey: We did not receive any feedback on specifically what the strengths or weaknesses of our application were. We saw the criteria published on the FCA’s website and aimed to answer those points when we applied.
+
+Lord Hill of Oareford: There is no reason necessarily why you should know the answer, but do any of you—you do not all have to answer—have any examples of where, as a result of a company or business being in a sandbox and going through the sandbox, the FCA changed any underlying regulation?
+
+Kevin Sefton: Round about 1998, 1999 and 2000, so this is going back well before the sandbox, I was involved in the very early days of e-money. This is perhaps not answering the question that you asked but may be helpful. At the time we sat down with the then-FSA and went through our business model and the way that the system worked. That resulted in the electronic money legislation and regulation that Bourn is benefiting from. That is not within the sandbox, but I wanted to make sure that the regulator listening and having impact is recognised here.
+
+Lord Hill of Oareford: None of you, either directly or through friends and competitors, has heard, “The sandbox was really good, because not only do we get through but they then changed”. All it is, otherwise, is a way of helping you to accommodate what it is that they require you to do, which may or may not be sensible. There are no examples of anything that has changed.
+
+Lyubomira Dimitrova: No.
+
+Vinay Anupindi: I cannot think of a specific firm, but right now the policies and legislation for our particular innovation industry are quite fluid. We have seen things that have already changed. Some firms in our industry are glad to see those changes. Some other firms are not glad because of their own reasoning. However, we feel that the regulators are taking a very sensible approach to this and listening to industry. There is a balance on how much they can take into account what industry suggests. The regulators’ objectives are set, in that they need to maintain stability and prudential care, and make sure Nan is not hurt financially.
+
+Baroness Donaghy: Some of us are still trying to get around the word “sandbox”, coming to Lord Lilley's questions. I am beginning to think that it is as useful a word as the word “house”. You could have a house of ill repute, a house of detention or a house that is a warm and loving home.
+
+Lord Hill of Oareford: It is interesting the order you chose those in.
+
+Kevin Sefton: The House of Lords.
+
+Baroness Donaghy: Yes, that probably says more about me. The committee could go either one of two ways. We could write a report that clearly defines all those different possibilities of a sandbox, or we could write one sentence that says, “We think the financial world should ban the word ‘sandbox’”. What do you think would be the most helpful to the financial world and to your companies, just setting off for the first time?
+
+Some of us have been keen on the UK being a more established concierge service for encouraging the financial world. We do not think that it is there. We think that the FCA is better than it was a decade ago in providing assistance and that that word “sandbox” is a safety box, if you like. What is your view about whether this is a useful discussion or just a question of language?
+
+Lyubomira Dimitrova: It is a useful discussion. I really think that it is a useful discussion. To the point that we touched on, it is useful to define what a sandbox is and what its purpose is, because you have very different types of firms. We are a technology provider. We are not a firm seeking to be authorised, so our profile is very different and we would benefit from a different type of support compared to the gentlemen next to me who are seeking authorisation, where maybe it is a fast track and an opportunity to test. It is useful to define what a sandbox is.
+
+Part of sandboxes and innovation is collaboration. It is community. It is the opportunity to exchange ideas. To my point, we are missing an opportunity here even just to have more informal check-ins and gatherings to exchange ideas and feedback with corporate participants, rather than this being a siloed experience. We need the opportunity to provide feedback to the team running the sandbox and the regulator. Right now, to me, as a participant, it feels one way. I am trying to provide feedback and I feel like it is not being taken on.
+
+The other part that is really useful, and maybe some boxes do it better than others, is to have an expert. If you are interested in a topic such as consumer duty technology, have an expert on consumer duty who is interested in enabling the market, or an expert on EMI, taxes or whatever it is to work with this firm. I understand the trade-off with favouritism and that there is that tight line that needs to be run. But, if you think a solution is needed, help build it. That is the idea there.
+
+It is a useful discussion. It is a useful tool. It works. It can work better. It can be great. That should be the focus of this discussion: what are the general ways to make that better?
+
+Kevin Sefton: I love the idea of a concierge concept. The word “sandbox” is so confusing. Please do not ignore that confusion in the report. However it is addressed, it needs to be properly understood. If someone talks about houses and other people have an entirely different concept, we are going to be using the wrong tool for the wrong job. This confusion is not as well recognised. The word “sandbox” in technology terms means basically a place that you can connect your systems to and play around with. Just the one word is really unhelpful. I do not know how you are going to solve it, but good luck.
+
+Vinay Anupindi: We believe that it may be a question of semantics. “Sandbox” has become a catch-all word to describe many different things. In essence, they are innovation programmes and I suppose each programme has its own objectives and requirements.
+
+Baroness Donaghy: Are they about innovation? I know a couple of you have used the word “innovation” but some of our experience is that it is nothing to do with innovation. It is just testing the ability of a company to do something that already exists.
+
+Vinay Anupindi: In our case we believe it is innovation, because what we do does not exist. It is really at, as was mentioned before, the edge of the regulatory perimeter. There was not a way for us to just ignore the sandbox and go for direct authorisation, because direct authorisation does not exist.
+
+Having joined the sandbox and entered this ecosystem, we have noticed that there are a lot of perceptions about sandboxes from various participants, especially in industry. While approaching some other members of the ecosystem, we found that there is a perception that maybe it is just a pilot and is not leading anywhere—“And then what?” For our particular sandbox, we expect things to happen. There is, I believe, a conjunction of many stakeholders pushing that forward. I believe now it has been clearly stated, and we share this ambition, that the UK is looking to become a global financial centre in digital securities and what they call tokenised assets. For us, we see a light at the end of the tunnel.
+
+Going back to things around favouritism, we found the FCA to be firm but fair. It has not really given us any quarter in any sense of supervision or authorisation. Us applying for authorisation was a separate process. While it may be related to us working with the innovation teams, there was nothing particular that we noticed. If anything, we were explicitly told that you could use the operative data you got from the sandbox in your authorisation process, but it may not help. Whether it helps is up to the authorisation team. We found it to be very innovative and useful for us genuinely, in our experience. Again, it could be nuanced to the particular programmes that we are in.
+
+Nick Tracey: I wonder whether everyone understands what a sandbox is and whether, if it was clearer what the regulatory sandbox enabled, perhaps more firms might apply to that route. I do not know what a better term is. We are now in the early and high-growth oversight supervision unit. Perhaps there is an earlier supervision team that could handle even earlier stage firms. The term “accelerator” is used for early-stage start-ups, which might attract more universal acknowledgment of what that is providing.
+
+Lord Smith of Kelvin: Mr Anupindi, you mentioned that you had experience of other jurisdictions, and not good experience. Does anyone have anything to share about other jurisdictions?
+
+Nick Tracey: We also looked at the Netherlands and whether it was possible to undertake small-scale pilots. It has an exemption regime that I think is potentially similar to a waiver, which was a comment made earlier. That could be another option as an alternative to sandboxes.
+
+Vinay Anupindi: I would not say that our experience is overall negative. It is just that we did not see any traction or tangibility. We have also participated in the Central Bank of Ireland sandbox. We found that useful. This was after we first joined the Bank of England’s sandbox. Instead of looking across the channel, our purpose was to look across the Irish Sea to develop ties with Europe.
+
+In general, it is not that they are not welcoming or that they will not take an application; it is just, “Will that application go through? What happens after you get accepted?” We found that they are announcing these programmes to attract tier 1 firms. It makes headlines when a large investment bank comes into their jurisdiction and fills that sandbox. We noticed that, rather than being truly innovative, it was more about preferring those firms.
+
+Granted, the BoE and the FCA have given us a level playing field and a platform. I will not say that they necessarily push us forward, but they do not give us any barriers if you are truly innovative. They have given us a fair shot. We are among the largest incumbents in these sandboxes that we are in, here in the UK. We are cohort members with the largest incumbents, and I do not think we could have done that anywhere else.
+
+Kevin Sefton: We looked at Belgium, because we were unsure about the timing of the FCA application process and did not want all our eggs in one basket. What was very positive about that experience was that we could pick up the phone, sit down and have a meeting with them pretty quickly. We sat down and we talked through the process. Although we did not actually proceed with the application, I thought that was a very good experience that we had. The FCA came through in the end, but, perhaps like others, we did see the need and the opportunity that other countries allowed us at the time. I do not know what the regulatory environment is now.
+
+The Chair: Thank you to all of you for some insightful and lively answers. That concludes the session. Thank you very much indeed.

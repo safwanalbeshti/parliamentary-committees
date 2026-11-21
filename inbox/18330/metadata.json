@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18330,
+  "activity_id": 39543,
+  "document_id": 315451,
+  "meeting_date": "2026-11-18",
+  "meeting_date_display": "18 November 2026",
+  "publication_date": "2026-11-20T15:42:51",
+  "title": "Local delivery of employment support",
+  "committee": "Work and Pensions Committee",
+  "committees": [
+    {
+      "id": 164,
+      "name": "Work and Pensions Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9936,
+      "title": "Local delivery of employment support",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Professor Dan Finn",
+      "role": "Emeritus Professor of Social Inclusion",
+      "organisation": "University of Portsmouth"
+    },
+    {
+      "name": "Ben Paxton",
+      "role": "Senior Researcher",
+      "organisation": "Institute for Government"
+    }
+  ],
+  "speaker_candidates": [
+    "Housing, Communities and Local Government Committee member present",
+    "Chair",
+    "Dr Paxton",
+    "Professor Finn",
+    "John Milne",
+    "Liz Twist",
+    "Andrew Pakes",
+    "Steve Darling",
+    "Neil Duncan-Jordan"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18330/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18330",
+  "source_sha256": "0ae7bd4e282dddf421809ac919ee6bf5c5b1eb2fbff6a209170786941f7b9e27",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

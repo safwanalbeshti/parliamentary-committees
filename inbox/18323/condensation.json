@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "source_id": 18323,
+  "source_sha256": "323951c062dc2414a31a36dae036d25a64c81685476631555f1bcb9d87f1a970",
+  "title": "Electronic monitoring: gaps between the promise and the practice",
+  "label": "10 November 2026 · Electronic monitoring",
+  "summary": "The committee questioned probation inspector Martin Jones about how electronic monitoring is managed, whether tags are fitted and acted on quickly enough, and whether victims and the public are being given too much confidence in the system. Jones said the number of people tagged has more than doubled, while staffing, information-sharing and accountability remain weak. He called for clearer purposes, better release planning and faster responses for the highest-risk cases before further expansion.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Foster of Bath",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Martin Jones",
+      "name": "Martin Jones CBE",
+      "role": "His Majesty’s Chief Inspector of Probation, His Majesty’s Inspectorate of Probation",
+      "kind": "witness"
+    },
+    {
+      "label": "Baroness Hughes of Stretford",
+      "name": "Baroness Hughes of Stretford",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Berridge",
+      "name": "Baroness Berridge",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Moraes",
+      "name": "Lord Moraes",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Hogan-Howe",
+      "name": "Lord Hogan-Howe",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Tope",
+      "name": "Lord Tope",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Buscombe",
+      "name": "Baroness Buscombe",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Empey",
+      "name": "Lord Empey",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Bertin",
+      "name": "Baroness Bertin",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Bach",
+      "name": "Lord Bach",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Anderson of Ipswich",
+      "name": "Lord Anderson of Ipswich",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "electronic monitoring",
+      "definition": "Using an electronic device, often worn on the body, to check whether someone follows rules about their movements or behaviour."
+    },
+    {
+      "term": "HMPPS",
+      "definition": "His Majesty’s Prison and Probation Service, which runs prisons and probation services in England and Wales."
+    },
+    {
+      "term": "licence conditions",
+      "definition": "Rules a person must follow after being released from prison."
+    },
+    {
+      "term": "exclusion zone",
+      "definition": "An area that someone is legally required to stay away from."
+    },
+    {
+      "term": "KPIs",
+      "definition": "Contract targets used to measure whether a service provider is meeting agreed requirements."
+    },
+    {
+      "term": "recall",
+      "definition": "Sending someone back to prison because they are judged to have broken release rules or pose a risk."
+    },
+    {
+      "term": "pre-sentence report",
+      "definition": "A report prepared for a court to help it decide what sentence is suitable for a person convicted of an offence."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Who is responsible for the system?",
+      "takeaway": "Several agencies rely on tagging, but Jones said there still isn’t a clear, joined-up way to oversee its performance.",
+      "turns": [
+        {
+          "speaker": "Baroness Hughes of Stretford",
+          "text": "How is tagging governed across the Ministry of Justice, the prison and probation service, the police and other agencies?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "It’s complicated because the tagging provider runs the equipment, while courts, probation, police and immigration authorities all use the service for different purposes. Regional oversight has improved, but senior officials still need a shared view of how the contract is working."
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "A new arrangement, expected to be chaired by the Ministry of Justice’s Second Permanent Secretary, is being considered to bring those organisations together and address problems across the system."
+        },
+        {
+          "speaker": "Baroness Hughes of Stretford",
+          "text": "Is there now one clear leader for probation?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "Yes. The appointment of a director-general of probation has restored a clearer operational leadership line. The Chief Probation Officer sits beneath that role and leads the profession, but tagging is often treated as a contracted service rather than part of probation practice."
+        },
+        {
+          "speaker": "Chair",
+          "text": "If tagging fails, who is ultimately accountable?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "That lack of clarity was one of our criticisms. Because the contract belongs to the Ministry of Justice, the Permanent Secretary is accountable for its value for money. The Home Office also has responsibilities where police and immigration are involved."
+        },
+        {
+          "speaker": "Baroness Berridge",
+          "text": "How well do regional leaders work with other agencies?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "Regional probation leadership is mainly focused on probation, not all the agencies involved. Local links with police chiefs could be better. Regional teams are also stretched: probation has a major staffing shortage, and staff need time, training and support to do their work well."
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "Good probation work also depends on local cooperation, including sharing information with police and helping people access drug treatment or housing. Regional leaders are often closest to those needs, but their attention is pulled in many directions."
+        }
+      ]
+    },
+    {
+      "title": "What tagging can—and can’t—achieve",
+      "takeaway": "Jones saw potential in tagging as a practical safeguard, but said it can’t replace skilled probation work or support for underlying problems.",
+      "turns": [
+        {
+          "speaker": "Baroness Berridge",
+          "text": "Have you seen promising new uses of tagging?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "There are pilots for monitoring people in domestic abuse cases and working with police to track people at risk of theft and burglary. Both look promising, but tagging has expanded rapidly. We’re now monitoring more than twice as many people as five years ago, so the system needs to work reliably before it expands further."
+        },
+        {
+          "speaker": "Lord Empey",
+          "text": "What is tagging for—is it punishment, deterrence or protecting victims?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "At present, its purpose is confused. Alcohol monitoring is clear: alcohol is linked to some people’s offending, and the tag can help them avoid drinking. Keeping someone away from a victim or a prohibited area can also protect people. But tracking someone without a clear risk in mind may just collect information about where they go."
+        },
+        {
+          "speaker": "Lord Moraes",
+          "text": "How do probation officers, courts and people wearing tags view the system?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "Courts often see tagging as useful but don’t always know how it works in practice. They need clearer information, especially about how conditions are enforced. Probation staff told us a tag alone doesn’t change someone’s life; that takes work with an officer and help with problems such as alcohol, drugs or homelessness."
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "A tag can still act as a guardrail by keeping someone away from a risky place. Alcohol tagging is a strong example: about 17% of the monitored caseload has an alcohol tag, and reported compliance is around 97%. But staff need to use the information to understand a person’s risks, not just check whether the device is attached."
+        },
+        {
+          "speaker": "Lord Moraes",
+          "text": "Do probation officers have enough training to use the information?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "They need focused training. The data can be technical, and officers need help interpreting what it means. Courts also need more detail about how tagging would work in an individual case, such as where a victim of domestic abuse may be at risk."
+        },
+        {
+          "speaker": "Baroness Buscombe",
+          "text": "Are foreign nationals awaiting deportation being tagged and properly monitored?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "I can confirm that some people on immigration bail are monitored under the contract, but immigration wasn’t a main focus of our inspection. I’ll write to the committee with what we know about foreign national offenders."
+        }
+      ]
+    },
+    {
+      "title": "Delays, data and the response to risk",
+      "takeaway": "The committee heard that tags are often fitted late, information moves slowly and victims may have to alert police themselves when a rule is broken.",
+      "turns": [
+        {
+          "speaker": "Lord Hogan-Howe",
+          "text": "How are police and probation meant to share information and act together to prevent crime?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "There needs to be a clearer plan. A tag can deter someone only if they believe a breach will be detected and acted on. At present, information often passes from the contractor to a probation officer and then to police through emails. That’s too slow for risks that can change quickly."
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "For the highest-risk people, we could consider teams of police and probation staff who review information and decide quickly what to do. That kind of approach exists in some other countries. It would need resources, so it couldn’t be used for everyone being monitored."
+        },
+        {
+          "speaker": "Lord Tope",
+          "text": "How effective is tagging, and what evidence do you have?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "In only 55% of the cases we examined was the tag fitted within the expected time. Information could also take too long to reach the people managing the case. We did find an example where an officer spotted that someone was visiting a new address, investigated, and found a possible domestic abuse risk."
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "That kind of useful analysis shouldn’t depend on one officer spotting a pattern by chance. Better tools might help flag movements that deserve attention. But there must also be a clear response when a breach is found; otherwise people may think following the rules is optional."
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "The system can’t fix problems such as homelessness by itself. Around one in seven people released from prison each year is homeless, which can make it very difficult to fit and use a tag."
+        },
+        {
+          "speaker": "Baroness Berridge",
+          "text": "We’ve heard that the contractor is meeting its targets. How does that fit with your findings?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "The contract has worked better than it did a year ago, but its targets require two attempts to fit a tag within 48 hours—not a successful fitting. So a contractor may meet the target even when the person still isn’t tagged."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Your figures are about delays in fitting the device, not the tag being attached incorrectly?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "That’s right. In 45% of cases, it wasn’t fitted promptly, and in 20% it still hadn’t been fitted within two weeks. The usual process involves staff driving to someone’s home, which is difficult if the person can’t be found or has no settled address."
+        },
+        {
+          "speaker": "Lord Tope",
+          "text": "Can that be improved?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "Yes. In some countries, tags are fitted at the court or probation appointment. The Ministry of Justice is piloting fitting tags in six prisons before people leave. That could avoid missed visits, although release planning still needs to be in place."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Should probation officers be present when a tag is fitted before release?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "They don’t necessarily need to be at the prison gates, but they should have planned the release with the person, explained the rules and worked with prison staff on how those rules will operate. Too little attention is given to making releases succeed."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Would you support services such as Nacro’s departure lounge, where people leaving prison can meet housing and other support services?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "Yes. People leaving prison need a clear plan to help them return safely to the community. Charities and mentors can help, but that support isn’t available at the scale needed."
+        }
+      ]
+    },
+    {
+      "title": "Victims and urgent breaches",
+      "takeaway": "Jones warned that victims may be given a misleading sense of safety because the current system often can’t respond to a breach in real time.",
+      "turns": [
+        {
+          "speaker": "Baroness Bertin",
+          "text": "Are victims being given a false sense of safety by electronic monitoring?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "That was a concern in our report. If victims are told someone is being monitored, they may assume the system works better than it does. Victim liaison officers keep in touch and help identify relevant conditions, but their caseloads are very high and information can fall through the gaps."
+        },
+        {
+          "speaker": "Baroness Bertin",
+          "text": "If someone breaks a domestic abuse exclusion zone at night, will the system alert anyone immediately?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "Usually, the victim is more likely to call the police than for probation staff to respond in real time. The system is reactive. For a small number of people at very high risk, especially just after release, police and probation staff could work together to make faster decisions."
+        },
+        {
+          "speaker": "Baroness Bertin",
+          "text": "Does the domestic abuse pilot provide that kind of immediate response?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "As I understand it, no. It looks at monitored behaviour over a longer period rather than having police and probation respond live to a breach. There may be scope for a more responsive pilot for high-risk cases. I’ll send the committee the evaluation."
+        },
+        {
+          "speaker": "Baroness Bertin",
+          "text": "Should domestic abuse cases be among the first to receive tags fitted promptly?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "Where there’s a serious risk of violence, intimidation or stalking, those cases should rank highly in the risk assessment."
+        },
+        {
+          "speaker": "Lord Bach",
+          "text": "Could you explain what the domestic abuse pilot was intended to do?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "It was a Home Office pilot intended to improve monitoring and the setting of conditions. I’ll provide the committee with the details."
+        }
+      ]
+    },
+    {
+      "title": "Money, staffing and the scale of expansion",
+      "takeaway": "Jones questioned whether expanding tagging offers value for money when probation teams lack experienced staff to interpret information and support people.",
+      "turns": [
+        {
+          "speaker": "Lord Empey",
+          "text": "Who is watching all these tags, and is the system worth the cost?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "Electronic monitoring costs the taxpayer more than £100 million a year. There’s a value-for-money question about whether some of that money would do more good supporting probation officers, who help people address the problems behind their offending."
+        },
+        {
+          "speaker": "Lord Hogan-Howe",
+          "text": "Can you inspect the tagging contractor or demand information from it?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "I believe our legal inspection powers cover work connected to probation. I’ll confirm that. I’d also need to check the contract to see whether payments encourage successful fittings or just attempts."
+        },
+        {
+          "speaker": "Lord Hogan-Howe",
+          "text": "Would fitting tags in prison be cheaper and more effective than sending vans out to find people?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "It could be more efficient to fit several tags in one place rather than send staff around the country to make visits that may fail. I’d also want to be sure the contractor is making genuine attempts and that the contract rewards the outcome people need."
+        },
+        {
+          "speaker": "Lord Anderson of Ipswich",
+          "text": "The Government announced £100 million for a major expansion. Is that new money, and is expansion sensible when the system still has basic problems?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "More people being tagged means more payments to the contractor. But probation had a 25% staffing gap, according to the Public Accounts Committee. The service needs more officers and more experienced staff. Otherwise tags could become costly tripwires, with too little help to prevent reoffending."
+        },
+        {
+          "speaker": "Lord Anderson of Ipswich",
+          "text": "The plan to recruit 1,300 probation officers—is that a net increase?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "Recruitment has increased numbers by about 1,000 over the past year, but people are also leaving. It’s like filling a bucket with a leak in it. Heavy caseloads and pressure contribute to people leaving."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Does that also mean the service has fewer experienced staff?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "Yes. We have too few staff, with too little experience, managing too many cases. New recruits may be qualified, but they haven’t yet built the experience of working with people over time and recognising when behaviour is worrying."
+        },
+        {
+          "speaker": "Baroness Hughes of Stretford",
+          "text": "Do we know how much of the £100 million will go to tagging and how much might support probation?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "We haven’t analysed that, but I’ll write to the committee. Collecting information is pointless if there aren’t enough staff to interpret and act on it. The £100 million is part of a wider £700 million allocation, not a separate pot of new money."
+        },
+        {
+          "speaker": "Lord Anderson of Ipswich",
+          "text": "Is there any investment that’s already helping probation staff?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "A note-taking tool called Justice Transcribe can produce a meeting summary, reducing the time officers spend writing up notes. Staff have praised it, and it reportedly saves a large amount of time. Tools like that can help officers focus on their work with people."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Would bringing the tagging service in-house improve it?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "I’m cautious about making another immediate reorganisation after years of disruption to probation. But over the next two or three years, the Ministry should examine whether running the service itself would have advantages."
+        }
+      ]
+    },
+    {
+      "title": "Courts, future action and accountability",
+      "takeaway": "Jones urged better information for courts, clearer plans for people leaving prison and close follow-up on the recommendations his inspection made.",
+      "turns": [
+        {
+          "speaker": "Lord Bach",
+          "text": "Could the Courts and Tribunals Bill affect probation?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "Probation helps courts decide on a suitable sentence, but reports are often shorter and quicker than they used to be. If they miss important details about someone’s needs or risks, the court may make a poorer decision."
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "Courts need accurate information early, including a person’s history, risks and circumstances. Some services do better by drawing on police information and earlier reports rather than starting from scratch."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Could better reports help courts choose community sentences instead of prison in suitable cases?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "Yes. Better information can help courts have confidence in community options that may reduce reoffending. That requires enough probation staff to prepare good reports."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Your report made recommendations. How will you check whether the government follows through?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "I’ll meet senior officials to discuss their action plan and follow up within a year. I’ll report on progress and raise concerns with ministers or committees if action hasn’t been taken."
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "There has been progress on some of my earlier recommendations, though sometimes it has been slow. The new probation director-general should make responsibility clearer, but the service is stretched and has a lot of change to manage."
+        },
+        {
+          "speaker": "Chair",
+          "text": "What should the committee focus on in its report?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "With more than twice as many people being tagged, we need practical improvements on the ground so the public and victims can have confidence that people are managed properly after release or while on bail."
+        },
+        {
+          "speaker": "Chair",
+          "text": "So the priorities are clearer purposes, quicker fitting, better information-sharing, and enough skilled probation staff?"
+        },
+        {
+          "speaker": "Martin Jones",
+          "text": "Yes. I’d add that we should consider a much faster, more coordinated response for a small group of the highest-risk people."
+        }
+      ]
+    }
+  ]
+}

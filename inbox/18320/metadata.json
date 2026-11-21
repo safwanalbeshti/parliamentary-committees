@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18320,
+  "activity_id": 38974,
+  "document_id": 315396,
+  "meeting_date": "2026-11-17",
+  "meeting_date_display": "17 November 2026",
+  "publication_date": "2026-11-20T09:18:34",
+  "title": "The work of Channel 4",
+  "committee": "Digital, Culture, Media and Sport Committee",
+  "committees": [
+    {
+      "id": 378,
+      "name": "Digital, Culture, Media and Sport Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 8971,
+      "title": "The work of Channel 4",
+      "type": "Regular evidence sessions"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Chief Executive",
+      "organisation": "Channel 4"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chair",
+      "organisation": "Channel 4"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Priya Dogra",
+    "Alison Hume",
+    "Liz Jarvis",
+    "Geoff Cooper",
+    "Nigel Huddleston",
+    "Mr Bayo Alaba",
+    "Gill German",
+    "Dr Rupa Huq",
+    "Jeff Smith",
+    "Jo Stevens",
+    "Tom Rutland"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18320/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18320",
+  "source_sha256": "d25164a0b833680efcc90d7a67277d78a155c6c0a28a3ff2dc666567a1ebcb7d",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

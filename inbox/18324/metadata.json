@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18324,
+  "activity_id": 39644,
+  "document_id": 315417,
+  "meeting_date": "2026-11-17",
+  "meeting_date_display": "17 November 2026",
+  "publication_date": "2026-11-20T13:33:56",
+  "title": "Is the law being used to silence victims and survivors?",
+  "committee": "Justice Committee",
+  "committees": [
+    {
+      "id": 102,
+      "name": "Justice Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10112,
+      "title": "Is the law being used to silence victims and survivors?",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Chief Executive",
+      "organisation": "Centre for Women's Justice"
+    },
+    {
+      "name": "Rupert Cowper-Coles",
+      "role": "Partner and Head of Media",
+      "organisation": "RPC"
+    },
+    {
+      "name": "Verity Nevitt",
+      "role": "Co-Founder",
+      "organisation": "The Gemini Project"
+    },
+    {
+      "name": "Jennifer Robinson",
+      "role": "Barrister",
+      "organisation": "Doughty Street Chambers"
+    }
+  ],
+  "speaker_candidates": [
+    "Justice Committee members present",
+    "Women and Equalities Committee member present",
+    "Chair",
+    "Sir Ashley Fox",
+    "Rachel Taylor",
+    "Vikki Slade",
+    "Tessa Munt",
+    "Jon Pearce",
+    "Sarah Russell",
+    "Janet Daby",
+    "Harriet Wistrich",
+    "Rupert Cowper-Coles",
+    "Verity Nevitt",
+    "Jennifer Robinson",
+    "Warinder Juss",
+    "This impacts everyone, but at the moment there is a focus on access to justice"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18324/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18324",
+  "source_sha256": "443356c29e1fabb1a6732b878eff419b85028bdc41084454935e60f9ff31d5bd",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

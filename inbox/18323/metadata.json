@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18323,
+  "activity_id": 39516,
+  "document_id": 315410,
+  "meeting_date": "2026-11-10",
+  "meeting_date_display": "10 November 2026",
+  "publication_date": "2026-11-20T12:13:33",
+  "title": "Investigation into electronic monitoring",
+  "committee": "Justice and Home Affairs Committee",
+  "committees": [
+    {
+      "id": 519,
+      "name": "Justice and Home Affairs Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9178,
+      "title": "Investigation into electronic monitoring",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Martin Jones CBE",
+      "role": "His Majesty's Chief Inspector of Probation",
+      "organisation": "His Majesty's Inspectorate of Probation"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Martin Jones",
+    "Baroness Hughes of Stretford",
+    "Baroness Berridge",
+    "Lord Moraes",
+    "Lord Hogan-Howe",
+    "Lord Tope",
+    "Baroness Buscombe",
+    "Lord Empey",
+    "Baroness Bertin",
+    "Lord Bach",
+    "Lord Anderson of Ipswich"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18323/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18323",
+  "source_sha256": "323951c062dc2414a31a36dae036d25a64c81685476631555f1bcb9d87f1a970",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

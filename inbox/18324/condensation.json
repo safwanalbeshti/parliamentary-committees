@@ -1,0 +1,420 @@
+{
+  "schema_version": 1,
+  "source_id": 18324,
+  "source_sha256": "443356c29e1fabb1a6732b878eff419b85028bdc41084454935e60f9ff31d5bd",
+  "title": "When legal threats silence survivors",
+  "label": "17 November 2026 · Law, speech and survivors",
+  "summary": "The committee heard how costly legal claims, threats, confidentiality agreements and court orders can prevent survivors of abuse from speaking, and can continue an abuser’s control after a relationship ends. Witnesses described the severe personal and financial toll, and argued that current protections against abusive lawsuits are too narrow and difficult to use. They proposed broader early court checks, lower-cost ways to resolve cases, better access to legal advice and stronger oversight of lawyers, while stressing that reforms must still protect people with genuine claims to defend their reputations.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Catherine Atkinson",
+      "role": "Chair of the Justice Committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Harriet Wistrich",
+      "name": "Harriet Wistrich",
+      "role": "Chief Executive, Centre for Women’s Justice",
+      "kind": "witness"
+    },
+    {
+      "label": "Rupert Cowper-Coles",
+      "name": "Rupert Cowper-Coles",
+      "role": "Partner and Head of Media, RPC",
+      "kind": "witness"
+    },
+    {
+      "label": "Verity Nevitt",
+      "name": "Verity Nevitt",
+      "role": "Co-Founder, The Gemini Project",
+      "kind": "witness"
+    },
+    {
+      "label": "Jennifer Robinson",
+      "name": "Jennifer Robinson",
+      "role": "Barrister, Doughty Street Chambers",
+      "kind": "witness"
+    },
+    {
+      "label": "Tessa Munt",
+      "name": "Tessa Munt",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Jon Pearce",
+      "name": "Jon Pearce",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Sir Ashley Fox",
+      "name": "Sir Ashley Fox",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Rachel Taylor",
+      "name": "Rachel Taylor",
+      "role": "Women and Equalities Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Janet Daby",
+      "name": "Janet Daby",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Sarah Russell",
+      "name": "Sarah Russell",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Warinder Juss",
+      "name": "Warinder Juss",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Vikki Slade",
+      "name": "Vikki Slade",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "SLAPP",
+      "definition": "A lawsuit used not mainly to win a genuine legal dispute, but to intimidate someone and discourage them from speaking out."
+    },
+    {
+      "term": "defamation",
+      "definition": "A legal claim that someone has harmed another person’s reputation by making a false statement."
+    },
+    {
+      "term": "non-disclosure agreement",
+      "definition": "A contract that requires someone to keep information private."
+    },
+    {
+      "term": "injunction",
+      "definition": "A court order requiring someone to do something or stop doing something, such as publishing information."
+    },
+    {
+      "term": "CEDAW",
+      "definition": "The UN committee that monitors countries’ commitments to ending discrimination against women."
+    },
+    {
+      "term": "Crown Prosecution Service",
+      "definition": "The public body in England and Wales that decides whether criminal cases should go to court and conducts prosecutions."
+    },
+    {
+      "term": "public interest defence",
+      "definition": "A legal defence for publishing a statement when it was reasonable to believe publication served the public."
+    },
+    {
+      "term": "legal aid",
+      "definition": "Public funding to help people pay for legal advice or representation when they qualify."
+    },
+    {
+      "term": "conditional fee agreement",
+      "definition": "An agreement where a lawyer’s fees depend on the outcome of the case, often called a no-win, no-fee arrangement."
+    },
+    {
+      "term": "litigant in person",
+      "definition": "Someone who represents themselves in court instead of having a lawyer."
+    },
+    {
+      "term": "Solicitors Regulation Authority",
+      "definition": "The body that regulates solicitors and law firms in England and Wales."
+    },
+    {
+      "term": "High Court",
+      "definition": "A senior court in England and Wales that hears serious or complex civil cases."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "How the law can be used to silence",
+      "takeaway": "Threats and lawsuits can deter people from speaking even when their account may be true, because defending it can cost a fortune.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We’re looking at how legal action, court orders and confidentiality agreements can stop victims and survivors from speaking. Harriet, what are you seeing?"
+        },
+        {
+          "speaker": "Harriet Wistrich",
+          "text": "Our charity supports people affected by violence against women and girls. Women tell us they’re threatened with legal action, or fear it, after speaking about abuse. This includes defamation claims and confidentiality agreements."
+        },
+        {
+          "speaker": "Harriet Wistrich",
+          "text": "We’ve also seen police use confidentiality agreements with victims or whistleblowers who want to speak about abuse within the force. Some people say family court proceedings have been used to silence them."
+        },
+        {
+          "speaker": "Harriet Wistrich",
+          "text": "A recent UN committee decision concerned Eleanor de Freitas, who reported rape and later faced a private prosecution brought by the man she accused. The prosecution continued after the Crown Prosecution Service took it over. She then lost the protections normally available to rape complainants in court."
+        },
+        {
+          "speaker": "Harriet Wistrich",
+          "text": "Eleanor took her own life before the case was resolved. The UN committee didn’t decide whether the allegation was true or false. It found that the UK had breached its commitments to women’s equality, and recommended changes to the law on private prosecutions in these cases."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Rupert, what makes a case a SLAPP, and why can it be effective here?"
+        },
+        {
+          "speaker": "Rupert Cowper-Coles",
+          "text": "A SLAPP is legal action used to threaten or exhaust someone and stop them speaking, rather than to pursue a genuine claim properly. It can involve defamation, privacy, data-protection or harassment claims."
+        },
+        {
+          "speaker": "Rupert Cowper-Coles",
+          "text": "These cases can take years in the High Court and cost millions. Even if you win, you may not recover all your legal costs. The Guardian spent £6 million defending a successful case about reporting on actor Noel Clarke, and still faced a shortfall."
+        },
+        {
+          "speaker": "Rupert Cowper-Coles",
+          "text": "That means the person with more money can sometimes wear down the other side. The risk of the process itself can stop an allegation being published, regardless of whether it’s true."
+        }
+      ]
+    },
+    {
+      "title": "The personal cost of being sued",
+      "takeaway": "Survivors described legal action as frightening, intrusive and capable of carrying abuse on long after a relationship has ended.",
+      "turns": [
+        {
+          "speaker": "Tessa Munt",
+          "text": "Verity, why are survivors especially vulnerable to these lawsuits?"
+        },
+        {
+          "speaker": "Verity Nevitt",
+          "text": "Survivors already face stigma and disbelief. A lawsuit can turn the situation upside down: the alleged abuser presents himself as the victim, while the survivor becomes the defendant. It can feel like the abuse is continuing through the legal system."
+        },
+        {
+          "speaker": "Verity Nevitt",
+          "text": "I faced a claim from my abuser, alongside my sister, who was also a defendant. We believed what we said was true, but the case became about whether we could afford to keep going. At our first hearing, we were told we’d need £100,000 to reach the next one."
+        },
+        {
+          "speaker": "Verity Nevitt",
+          "text": "We had no lawyers until the night before that hearing. We were scared of meeting our abuser at court, and we had to deal with graphic evidence about my sister’s rape. I’m still in therapy. I reached a point where I wanted to end my life."
+        },
+        {
+          "speaker": "Verity Nevitt",
+          "text": "In our survey, 47% of survivors who had faced these claims and responded said they’d had suicidal thoughts. Others describe losing their homes to pay bills, or having no time or energy left for work and family."
+        },
+        {
+          "speaker": "Verity Nevitt",
+          "text": "The cases can also happen before anything is said publicly: after a private disclosure, or even after someone reports abuse to the police. They’re hard to count because the threats and settlements are usually kept private."
+        },
+        {
+          "speaker": "Jennifer Robinson",
+          "text": "Women often ask, ‘How can he sue me if it’s true?’ The answer is that they may have to prove it in court, and doing that is extremely expensive. For many people, even a threatening letter could put them at risk of bankruptcy."
+        },
+        {
+          "speaker": "Jennifer Robinson",
+          "text": "Nicola Stocker won her case after seven years, with lawyers willing to work on a no-win, no-fee basis. Nina Cresswell also won, but spent a year representing herself before she found support and raised money."
+        },
+        {
+          "speaker": "Jennifer Robinson",
+          "text": "The impact goes beyond survivors. Journalists and news organisations may decide not to report a story because they can’t afford the legal risk. That makes it harder to expose violence and seek accountability."
+        }
+      ]
+    },
+    {
+      "title": "Broader protection against abusive claims",
+      "takeaway": "Witnesses said current anti-SLAPP protection is too narrow and depends on proving a claimant’s private intention, which is very difficult.",
+      "turns": [
+        {
+          "speaker": "Jon Pearce",
+          "text": "The current UK protection applies only to some reporting about economic crime. How could the law protect survivors as well?"
+        },
+        {
+          "speaker": "Jennifer Robinson",
+          "text": "There’s no good reason to protect public-interest speech about economic crime but not speech about violence against women. A new law could protect public-interest speech more broadly."
+        },
+        {
+          "speaker": "Jennifer Robinson",
+          "text": "The present law lets someone ask a court to end a case early, but only in a narrow set of circumstances. A broader test could ask whether the claim targets public-interest speech, then require the claimant to show a real chance of winning."
+        },
+        {
+          "speaker": "Rupert Cowper-Coles",
+          "text": "The current law also requires the target to prove that the claimant intended to cause distress, expense or harassment beyond what normally happens in a lawsuit. A claimant can simply deny that intention, and the target can’t usually question them at that early stage."
+        },
+        {
+          "speaker": "Rupert Cowper-Coles",
+          "text": "There’s been only one successful application under the existing law, and that case was already stopped on other grounds. A broader law needs to look at whether the lawsuit is disproportionate, not just at what the claimant says they intended."
+        },
+        {
+          "speaker": "Jennifer Robinson",
+          "text": "Other places don’t require proof of that private intention. They ask whether the claim arises from protected speech, and whether the claimant can show the case has merit. Canada also weighs the harm from the speech against the public interest in allowing it."
+        },
+        {
+          "speaker": "Sir Ashley Fox",
+          "text": "What about court orders that stop someone publishing before a case has been decided?"
+        },
+        {
+          "speaker": "Rupert Cowper-Coles",
+          "text": "Courts have traditionally been cautious about stopping speech in defamation cases before trial, because the allegation might later be found true. But claimants can sometimes seek orders through privacy or harassment claims instead."
+        },
+        {
+          "speaker": "Rupert Cowper-Coles",
+          "text": "In my experience, the threat of a defamation letter is more common than an injunction. The letter may demand an apology and a promise never to repeat the allegation, with the threat of unaffordable court action if the person refuses."
+        },
+        {
+          "speaker": "Jennifer Robinson",
+          "text": "Court orders enforcing confidentiality agreements can also prevent newspapers from reporting. That can keep women who have experienced the same person’s behaviour isolated from one another."
+        },
+        {
+          "speaker": "Rupert Cowper-Coles",
+          "text": "We already have a law against unjustified threats in some intellectual-property disputes, and a quicker, cheaper court for certain cases. A similar approach could help people threatened with baseless legal action over allegations of abuse."
+        }
+      ]
+    },
+    {
+      "title": "Costs, advice and confidentiality agreements",
+      "takeaway": "Survivors often rely on luck, donations or volunteer lawyers, while people asked to sign confidentiality agreements may lack time and independent advice.",
+      "turns": [
+        {
+          "speaker": "Jon Pearce",
+          "text": "What would make it easier for people to defend themselves without facing enormous costs?"
+        },
+        {
+          "speaker": "Rupert Cowper-Coles",
+          "text": "Other areas have faster, cheaper processes. In the Intellectual Property Enterprise Court, the costs one side can recover are capped, so the risk is lower. A quicker hearing on whether a case is genuinely about public interest could also prevent years of litigation."
+        },
+        {
+          "speaker": "Harriet Wistrich",
+          "text": "These cases are usually brought by people with money and power. We need to reduce the costs, consider strict limits on recoverable costs, and make legal aid available to more defendants. At present, people threatened with these claims generally can’t get it."
+        },
+        {
+          "speaker": "Rachel Taylor",
+          "text": "Jennifer, what should change about confidentiality agreements?"
+        },
+        {
+          "speaker": "Jennifer Robinson",
+          "text": "They’re used not only at work, but in settlements after harassment or sexual violence. Women often contact me because they want to support someone who has spoken about the same person, but an agreement prevents them from doing so."
+        },
+        {
+          "speaker": "Jennifer Robinson",
+          "text": "Some reforms cover employees, students and people reporting crimes, but don’t cover every worker or agreements made outside work. The law should deal with those gaps too."
+        },
+        {
+          "speaker": "Harriet Wistrich",
+          "text": "Anyone being asked to sign one should get independent legal advice. But there aren’t many specialists, and our charity often has to rely on volunteer lawyers. We also need better protection for people who report abuse inside institutions."
+        },
+        {
+          "speaker": "Janet Daby",
+          "text": "Verity, what support did you receive?"
+        },
+        {
+          "speaker": "Verity Nevitt",
+          "text": "We eventually found lawyers willing to work on a conditional fee agreement, but it was largely luck. Legal aid was first refused, then granted on appeal, then cancelled after a mistake about my sister’s income. We found lawyers through personal connections and still had to crowdfund."
+        },
+        {
+          "speaker": "Verity Nevitt",
+          "text": "A guide can explain what a claim is and what to do next, but it can’t replace a lawyer. If you represent yourself, you have to learn complex rules under tight deadlines while the other side has legal teams and specialist resources."
+        },
+        {
+          "speaker": "Jennifer Robinson",
+          "text": "There’s another problem for people who signed agreements years ago: some were never given a copy. A woman may have to apply to the High Court, at a cost of thousands of pounds, just to see the contract that binds her."
+        },
+        {
+          "speaker": "Sarah Russell",
+          "text": "Should there be a way to cancel agreements when someone got only minimal advice, or no real chance to negotiate?"
+        },
+        {
+          "speaker": "Jennifer Robinson",
+          "text": "There’s a strong case for making it easy to get a copy. People need enough time and proper advice to understand what they’re signing. I can’t give a firm view on the employment-law details, but a small contribution for advice may not be enough."
+        },
+        {
+          "speaker": "Rupert Cowper-Coles",
+          "text": "Outside employment, there’s often no requirement to pay for the other person’s advice. Someone facing a claim they can’t afford may sign an agreement that stops them repeating something true. Providing money for independent advice would be a step in the right direction."
+        },
+        {
+          "speaker": "Rachel Taylor",
+          "text": "Would a cooling-off period help when people are pressed to sign quickly?"
+        },
+        {
+          "speaker": "Harriet Wistrich",
+          "text": "I’ve heard of offers being made during proceedings with pressure to decide immediately, or lose the offer. That doesn’t leave enough time to consider the terms or get proper advice."
+        }
+      ]
+    },
+    {
+      "title": "Lawyers’ conduct and fair process",
+      "takeaway": "Witnesses questioned whether current rules adequately stop lawyers from using intimidating tactics or pursuing claims despite serious doubts about their basis.",
+      "turns": [
+        {
+          "speaker": "Vikki Slade",
+          "text": "What safeguards should apply to lawyers who send frightening letters to survivors? Should they have to consider the person’s vulnerability and the effect of their actions?"
+        },
+        {
+          "speaker": "Rupert Cowper-Coles",
+          "text": "Lawyers aren’t generally required to check a client’s account before sending a letter. The regulator has tried to act in some cases, but its efforts have often failed. Current rules can allow very aggressive tactics in the name of serving a client."
+        },
+        {
+          "speaker": "Rupert Cowper-Coles",
+          "text": "At a minimum, lawyers should have to make reasonable checks before starting a case. We shouldn’t accept misleading letters, extreme deadlines or threats of prison over a civil claim."
+        },
+        {
+          "speaker": "Harriet Wistrich",
+          "text": "Lawyers must act for their clients, but there are ethical limits on conduct that harms an opponent or witness. Rules on professional behaviour matter, though they won’t solve everything on their own."
+        },
+        {
+          "speaker": "Sarah Russell",
+          "text": "Could rules against excessive letters and other tactics stop one side from driving up the other’s costs?"
+        },
+        {
+          "speaker": "Harriet Wistrich",
+          "text": "Courts can sometimes refuse to award costs for unreasonable conduct, but that happens after the damage may already be done. People with money can use repeated demands to frighten someone into giving up."
+        },
+        {
+          "speaker": "Rupert Cowper-Coles",
+          "text": "Faster procedures and penalties for tactics such as overwhelming someone with documents would help. In the Netherlands, a libel dispute can cost about €10,000 from start to finish, though a simpler system may raise questions about how thoroughly each case is examined."
+        },
+        {
+          "speaker": "Sarah Russell",
+          "text": "The public may be surprised that in defamation cases, a damaging statement is generally treated as false unless the person who made it proves otherwise."
+        },
+        {
+          "speaker": "Rupert Cowper-Coles",
+          "text": "That is the rule here. It means the more serious the allegation, the stronger the evidence needed to defend it. It can make speaking about abuse especially difficult."
+        },
+        {
+          "speaker": "Chair",
+          "text": "The Solicitors Regulation Authority is the body that regulates solicitors. Should Parliament give it clearer powers to investigate their conduct, including access to confidential lawyer-client material?"
+        },
+        {
+          "speaker": "Rupert Cowper-Coles",
+          "text": "Confidentiality between lawyers and clients is an important right. But if nobody can check a lawyer’s conduct, serious behaviour may never be exposed. Parliament should clarify what the regulator can inspect and how."
+        },
+        {
+          "speaker": "Rupert Cowper-Coles",
+          "text": "The regulator should also set clearer standards for letters about public-interest speech: follow the proper steps, avoid misleading claims and give reasonable time to respond. Several frightening letters in quick succession shouldn’t be treated as normal."
+        }
+      ]
+    },
+    {
+      "title": "Protecting reputations as well as speech",
+      "takeaway": "The witnesses supported stronger safeguards but agreed that people who have genuinely been defamed must still be able to defend their reputations.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Could tougher anti-SLAPP laws unfairly block genuine claims or weaken a person’s right to protect their reputation?"
+        },
+        {
+          "speaker": "Rupert Cowper-Coles",
+          "text": "That’s a real concern. A false allegation of sexual violence can do serious harm, and people need a way to seek justice. The law shouldn’t automatically favour publication over someone’s reputation."
+        },
+        {
+          "speaker": "Rupert Cowper-Coles",
+          "text": "But judges need a way to stop cases that are abusive or out of proportion, especially when the public interest in speaking outweighs the harm to reputation. At the moment, they may have little room to act before a full, expensive trial."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Thank you. We’ll consider the evidence and the proposed changes as part of our work."
+        }
+      ]
+    }
+  ]
+}

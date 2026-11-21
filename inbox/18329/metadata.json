@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18329,
+  "activity_id": 39552,
+  "document_id": 315446,
+  "meeting_date": "2026-11-19",
+  "meeting_date_display": "19 November 2026",
+  "publication_date": "2026-11-20T15:01:31",
+  "title": "Draft Conversion Practices Bill",
+  "committee": "Draft Conversion Practices Bill (Joint Committee)",
+  "committees": [
+    {
+      "id": 851,
+      "name": "Draft Conversion Practices Bill (Joint Committee)",
+      "house": "Joint"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10049,
+      "title": "Draft Conversion Practices Bill",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Mr Des Johnson",
+      "role": "Chair of Trustees",
+      "organisation": "FFLAG"
+    },
+    {
+      "name": "Shabana Jaffar",
+      "role": "Head of Legal",
+      "organisation": "CAFCASS"
+    },
+    {
+      "name": "Matilda Gosling",
+      "role": "",
+      "organisation": ""
+    },
+    {
+      "name": "Sarah Branson",
+      "role": "Member",
+      "organisation": "Family Law Bar Association"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Sarah Branson",
+    "Des Johnson",
+    "Matilda Gosling",
+    "Danny Beales",
+    "Shabana Jaffar",
+    "Olivia Bailey",
+    "Baroness Prentis of Banbury",
+    "Lord Scriven",
+    "Lord Isaac",
+    "Naz Shah",
+    "Baroness Brown of Silvertown",
+    "Do not get me wrong",
+    "Marie Goldman",
+    "Baroness Browning"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18329/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18329",
+  "source_sha256": "15cf6682f2edd881f50c1b3e703a530c8d3149eab711c2b8bc91189c70066e99",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

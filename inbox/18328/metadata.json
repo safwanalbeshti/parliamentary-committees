@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18328,
+  "activity_id": 39581,
+  "document_id": 315440,
+  "meeting_date": "2026-11-18",
+  "meeting_date_display": "18 November 2026",
+  "publication_date": "2026-11-20T14:33:52",
+  "title": "The impact of serious and organised crime on local neighbourhoods",
+  "committee": "Home Affairs Committee",
+  "committees": [
+    {
+      "id": 83,
+      "name": "Home Affairs Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9601,
+      "title": "The impact of serious and organised crime on local neighbourhoods",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Sarah Jones MP",
+      "role": "Minister of State for Policing and Crime Prevention",
+      "organisation": "Home Office"
+    },
+    {
+      "name": "David Grahame",
+      "role": "Crime Director, Public Safety Group",
+      "organisation": "Home Office"
+    },
+    {
+      "name": "Rod McLean",
+      "role": "Head of the SOC System Unit and the Drugs and Firearms Licensing Unit",
+      "organisation": "Home Office"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Sarah Jones",
+    "Rod McLean",
+    "David Grahame",
+    "Dr Prinsley",
+    "Matt Bishop",
+    "Robbie Moore",
+    "Preet Kaur Gill",
+    "Ben Maguire",
+    "That is another reason why we want to reform the system",
+    "Mr Kohler",
+    "Bell Ribeiro-Addy"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18328/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18328",
+  "source_sha256": "2e4c427276f6d4aa3d8338bbc1029e4123820ee2adc881c7c5d03ba7a31b9152",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

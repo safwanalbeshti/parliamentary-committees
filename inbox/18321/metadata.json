@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18321,
+  "activity_id": 39558,
+  "document_id": 315403,
+  "meeting_date": "2026-11-17",
+  "meeting_date_display": "17 November 2026",
+  "publication_date": "2026-11-20T10:59:21",
+  "title": "Revitalising High Streets",
+  "committee": "Housing, Communities and Local Government Committee",
+  "committees": [
+    {
+      "id": 17,
+      "name": "Housing, Communities and Local Government Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9923,
+      "title": "Revitalising High Streets",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Helen Dickinson",
+    "Sacha Lord",
+    "Caireen Wackett",
+    "Liam Kelly",
+    "Mr Brash",
+    "Alan Strickland",
+    "Chris Curtis",
+    "Mr Forster",
+    "Mr Dillon",
+    "Mr Mohindra",
+    "Dan Neidle",
+    "Professor Travers",
+    "Aditi Sriram"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18321/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18321",
+  "source_sha256": "463246210c0a30f6fabfd7494a73e24744e0169ad261832b1650cb79beca4c0d",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "parliament_oral_evidence_id": 18298,
   "activity_id": 39480,
-  "document_id": 314400,
+  "document_id": 315402,
   "meeting_date": "2026-11-11",
   "meeting_date_display": "11 November 2026",
   "publication_date": "2026-11-16T14:56:53",
@@ -41,11 +41,11 @@
     "Lord Jones of Penybont",
     "Lord Cryer"
   ],
-  "transcript_status": "uncorrected",
+  "transcript_status": "corrected",
   "source_url": "https://committees.parliament.uk/oralevidence/18298/html/",
   "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18298",
-  "source_sha256": "7550761df4dc57ac34fcc6f625cb470e65728ba345c1e0abd3c50002448128fa",
+  "source_sha256": "5c89b1ae506fe914a1a29f5aee5227da08641ba22139108ea8f0e1048ae9d91b",
   "licence": "Open Parliament Licence v3.0",
-  "packet_status": "approved",
+  "packet_status": "source-updated-needs-review",
   "source_document_format": "Html"
 }

@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18280,
+  "activity_id": 39520,
+  "document_id": 315436,
+  "meeting_date": "2026-11-10",
+  "meeting_date_display": "10 November 2026",
+  "publication_date": "2026-11-20T14:18:13",
+  "title": "Maintenance and enforcement in public spaces",
+  "committee": "Built Environment Committee",
+  "committees": [
+    {
+      "id": 518,
+      "name": "Built Environment Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10051,
+      "title": "Maintenance and enforcement in public spaces",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Chair of Inclusive Growth Committee",
+      "organisation": "Local Government Association (LGA)"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chairman",
+      "organisation": "WISE Services Group"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Head of Customer and Community Management",
+      "organisation": "Grosvenor"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chair; Chair",
+      "organisation": "Central District Alliance; Hatton Gardens BIDs"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Councillor Carl Cashman",
+    "Alexander Jan",
+    "John Dunne",
+    "Simon Mantle",
+    "Lord Cameron of Dillington",
+    "Lord Bassam of Brighton",
+    "However, this is where we needed the police support",
+    "Baroness Griffin of Princethorpe",
+    "Baroness Lawrence of Clarendon",
+    "Baroness Janke",
+    "My actual question is",
+    "The question you asked was",
+    "Baroness Andrews"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18280/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18280",
+  "source_sha256": "f6818e6cd07f26548a111b5c6da8ceece889ce51556d3aacc9a62cc55fb13f4e",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}
