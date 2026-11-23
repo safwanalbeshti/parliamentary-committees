@@ -267,3 +267,33 @@ class BillingAlertTests(unittest.TestCase):
 
     def test_other_failure_leaves_alerts_alone(self):
         self.assertEqual(self.run_alert(None, "failure", []), [])
+
+
+class EvidenceMatchingTests(unittest.TestCase):
+    SOURCE = (
+        "Q1 The Chair: What’s the risk?\n\n"
+        "Professor Lee Miles: “Not very far at all” would be my immediate response—\n"
+        "  frankly. We need   redundancy which is lower.\n"
+    )
+
+    def test_quote_matches_despite_quotes_dashes_and_spacing(self):
+        source = pipeline.evidence_source_text(self.SOURCE)
+        folded, index = pipeline._fold(source)
+        span = pipeline.locate_quote(
+            '"Not very far at all" would be my immediate response - frankly.', folded, index
+        )
+        self.assertIsNotNone(span)
+        self.assertTrue(source[span[0]:span[1]].startswith("Not very far"))
+        self.assertTrue(source[span[0]:span[1]].endswith("frankly"))
+
+    def test_ellipsis_quote_and_missing_quote(self):
+        condensation = {"chapters": [{"turns": [
+            {"text": "Miles on redundancy.", "evidence": [
+                {"quote": "Not very far at all … redundancy which is lower"},
+                {"quote": "something nobody ever said"},
+            ]},
+        ]}]}
+        turns, missing = pipeline.match_evidence(condensation, self.SOURCE)
+        self.assertEqual(len(turns[0]["ranges"]), 1)
+        self.assertEqual(turns[0]["missing"], ["something nobody ever said"])
+        self.assertEqual(len(missing), 1)

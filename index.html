@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Parliamentary Committees, in Plain English</title>
-    <link rel="stylesheet" href="styles.css?v=26" />
+    <link rel="stylesheet" href="styles.css?v=30" />
     <link rel="preload" as="image" href="Energy Resilience/committee_room_4.png" />
   </head>
   <body>
@@ -294,6 +294,18 @@
         </div>
         </div>
 
+        <label class="evidence-toggle" id="evidenceToggleWrap" hidden>
+          <input type="checkbox" id="evidenceToggle" role="switch" />
+          <span class="evidence-toggle-track" aria-hidden="true"></span>
+          <span>Show the original transcript</span>
+        </label>
+        <section class="evidence-panel" id="evidencePanel" aria-label="Original transcript" hidden>
+          <header class="evidence-head">
+            <h3>Original transcript</h3>
+            <p class="evidence-note" id="evidenceNote" aria-live="polite"></p>
+          </header>
+          <div class="evidence-body" id="evidenceBody" tabindex="0"></div>
+        </section>
         <nav class="tabs" role="tablist" aria-label="Reading aids">
           <button class="tab-button" role="tab" id="tabBtn-about" data-tab="about" aria-selected="true" aria-controls="tab-about">
             About
@@ -373,7 +385,7 @@
     <script src="sessions/energy-resilience-4.js?v=2"></script>
     <script src="sessions/energy-resilience-5.js?v=2"></script>
     <!-- GENERATED_SESSIONS_START -->
-    <script src="sessions/generated/oral-evidence-17762.js?v=edee121b"></script>
+    <script src="sessions/generated/oral-evidence-17762.js?v=3ecfc204"></script>
     <script src="sessions/generated/oral-evidence-18060.js?v=b3179f96"></script>
     <script src="sessions/generated/oral-evidence-18071.js?v=34179d61"></script>
     <script src="sessions/generated/oral-evidence-18072.js?v=79c751d6"></script>
@@ -630,6 +642,6 @@
     <script src="sessions/generated/oral-evidence-18329.js?v=89164712"></script>
     <script src="sessions/generated/oral-evidence-18330.js?v=7495f089"></script>
     <!-- GENERATED_SESSIONS_END -->
-    <script defer src="app.js?v=20"></script>
+    <script defer src="app.js?v=25"></script>
   </body>
 </html>

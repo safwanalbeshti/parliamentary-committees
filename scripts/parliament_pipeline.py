@@ -813,6 +813,107 @@ def require_string(
     return text
 
 
+_QUOTE_FOLD = str.maketrans({
+    "\u2018": "'", "\u2019": "'", "\u201b": "'", "\u2032": "'",
+    "\u201c": '"', "\u201d": '"', "\u201f": '"', "\u2033": '"',
+    "\u2010": "-", "\u2011": "-", "\u2012": "-", "\u2013": "-", "\u2014": "-",
+    "\u2015": "-", "\u2212": "-", "\u00a0": " ", "\u2009": " ", "\u202f": " ",
+})
+
+
+def evidence_source_text(transcript: str) -> str:
+    """The transcript as shown beside the dialogue; evidence offsets index into it."""
+    text = transcript.lstrip("\ufeff").replace("\r\n", "\n").replace("\r", "\n")
+    text = re.sub(r"[ \t]+\n", "\n", text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text.strip() + "\n"
+
+
+def _fold(text: str) -> tuple[str, list[int]]:
+    """Lower-case, unify quotes/dashes and collapse whitespace, keeping an index map."""
+    out: list[str] = []
+    index: list[int] = []
+    previous_space = True
+    for position, char in enumerate(text.translate(_QUOTE_FOLD)):
+        if char.isspace():
+            # Spacing around dashes varies ("word—word" vs "word - word").
+            if previous_space or (out and out[-1] == "-"):
+                continue
+            out.append(" ")
+            index.append(position)
+            previous_space = True
+            continue
+        if char == "-" and out and out[-1] == " ":
+            out.pop()
+            index.pop()
+        out.append(char.lower())
+        index.append(position)
+        previous_space = False
+    return "".join(out), index
+
+
+def locate_quote(
+    quote: str, folded_source: str, index: list[int], after: int = 0
+) -> tuple[int, int] | None:
+    """Find a quote in the transcript, tolerating curly quotes, dashes, spacing and
+    ellipses. Returns character offsets into the unfolded source, or None."""
+    folded_quote, _ = _fold(quote)
+    folded_quote = folded_quote.strip().strip("\"'").strip()
+    pieces = [
+        piece.strip(" .,;:")
+        for piece in re.split(r"\.\.\.|\u2026|\[[^\]]*\]", folded_quote)
+    ]
+    pieces = [piece for piece in pieces if len(piece) >= 4]
+    if not pieces:
+        return None
+
+    def find(start_at: int) -> tuple[int, int] | None:
+        cursor = start_at
+        first = None
+        for piece in pieces:
+            at = folded_source.find(piece, cursor)
+            if at < 0 or (first is not None and at - cursor > 600):
+                return None
+            first = at if first is None else first
+            cursor = at + len(piece)
+        assert first is not None
+        return first, cursor
+
+    span = find(after) or find(0)
+    if span is None:
+        return None
+    start, end = span
+    return index[start], index[end - 1] + 1
+
+
+def match_evidence(
+    condensation: dict[str, Any], transcript: str
+) -> tuple[list[dict[str, Any]], list[str]]:
+    """Map every turn's evidence quotes to transcript offsets for the viewer."""
+    source = evidence_source_text(transcript)
+    folded, index = _fold(source)
+    turns: list[dict[str, Any]] = []
+    missing: list[str] = []
+    for chapter_index, chapter in enumerate(condensation.get("chapters") or []):
+        for turn_index, turn in enumerate(chapter.get("turns") or []):
+            ranges: list[list[int]] = []
+            not_found: list[str] = []
+            for entry in turn.get("evidence") or []:
+                quote_text = str(entry.get("quote") or "")
+                span = locate_quote(quote_text, folded, index)
+                if span is None:
+                    not_found.append(quote_text)
+                    missing.append(
+                        f"chapters[{chapter_index}].turns[{turn_index}] evidence not found "
+                        f"in the transcript: {quote_text[:70]!r}"
+                    )
+                else:
+                    ranges.append(list(span))
+            ranges.sort()
+            turns.append({"key": turn["text"][:60], "ranges": ranges, "missing": not_found})
+    return turns, missing
+
+
 def validate_packet(packet: Path) -> tuple[list[str], list[str], dict[str, Any] | None]:
     errors: list[str] = []
     warnings: list[str] = []
@@ -932,6 +1033,7 @@ def validate_packet(packet: Path) -> tuple[list[str], list[str], dict[str, Any] 
         errors.append("chapters must contain no more than 12 chapters.")
 
     turn_count = 0
+    has_evidence = False
     used_speakers: set[str] = set()
     for chapter_index, chapter in enumerate(chapters):
         prefix = f"chapters[{chapter_index}]"
@@ -962,6 +1064,29 @@ def validate_packet(packet: Path) -> tuple[list[str], list[str], dict[str, Any] 
                 errors.append(f"{turn_prefix}.text must be one paragraph.")
             if "**" in text:
                 warnings.append(f"{turn_prefix}.text contains Markdown bold markers.")
+            evidence = turn.get("evidence")
+            if evidence is not None:
+                has_evidence = True
+                if not isinstance(evidence, list) or not evidence:
+                    errors.append(f"{turn_prefix}.evidence must be a non-empty array.")
+                else:
+                    for evidence_index, entry in enumerate(evidence):
+                        entry_prefix = f"{turn_prefix}.evidence[{evidence_index}]"
+                        if not isinstance(entry, dict):
+                            errors.append(f"{entry_prefix} must be an object.")
+                            continue
+                        require_string(entry.get("quote"), f"{entry_prefix}.quote", errors, 3, 6000)
+                        source_turn = entry.get("source_turn")
+                        if source_turn is not None and (
+                            not isinstance(source_turn, int) or source_turn < 1
+                        ):
+                            errors.append(f"{entry_prefix}.source_turn must be a positive integer.")
+
+    if has_evidence and not errors and (packet / "transcript.txt").exists():
+        _, missing = match_evidence(
+            condensation, (packet / "transcript.txt").read_text(encoding="utf-8")
+        )
+        warnings.extend(missing)
 
     if turn_count < 6:
         errors.append("The condensation must contain at least 6 dialogue turns.")
@@ -1302,7 +1427,9 @@ def seat_for(kind: str, counters: dict[str, int]) -> str:
     return pool[index % len(pool)]
 
 
-def session_javascript(metadata: dict[str, Any], condensation: dict[str, Any]) -> str:
+def session_javascript(
+    metadata: dict[str, Any], condensation: dict[str, Any], evidence_url: str | None = None
+) -> str:
     counters = {"chair": 0, "member": 0, "witness": 0}
     cast: dict[str, Any] = {}
     # A speaker who never actually speaks would sit in Who's who with nothing to
@@ -1378,6 +1505,8 @@ def session_javascript(metadata: dict[str, Any], condensation: dict[str, Any]) -
     }
     if inquiry:
         session["inquiry"] = inquiry
+    if evidence_url:
+        session["evidence"] = evidence_url
 
     glossary = [
         {"term": str(entry["term"]).strip(), "definition": str(entry["definition"]).strip()}
@@ -1444,7 +1573,38 @@ def build_command(args: argparse.Namespace) -> int:
         assert condensation is not None
         metadata = read_json(packet / "metadata.json")
         output = root / "sessions" / "generated" / f"oral-evidence-{packet.name}.js"
-        content = session_javascript(metadata, condensation)
+        evidence_url = None
+        evidence_path = root / "sessions" / "generated" / "evidence" / f"oral-evidence-{packet.name}.json"
+        has_evidence = any(
+            turn.get("evidence") for chapter in condensation["chapters"] for turn in chapter["turns"]
+        )
+        if has_evidence:
+            turns, _ = match_evidence(
+                condensation, (packet / "transcript.txt").read_text(encoding="utf-8")
+            )
+            evidence_content = json.dumps(
+                {
+                    "source": evidence_source_text(
+                        (packet / "transcript.txt").read_text(encoding="utf-8")
+                    ),
+                    "turns": turns,
+                },
+                ensure_ascii=False,
+                separators=(",", ":"),
+            ) + "\n"
+            digest = hashlib.sha256(evidence_content.encode("utf-8")).hexdigest()[:8]
+            evidence_url = f"{evidence_path.relative_to(root).as_posix()}?v={digest}"
+            existing = evidence_path.read_text(encoding="utf-8") if evidence_path.exists() else None
+            if existing != evidence_content:
+                if args.check:
+                    failed = True
+                    print(f"error [{packet.name}]: {evidence_path.relative_to(root)} is out of date.")
+                else:
+                    write_text(evidence_path, evidence_content)
+                    print(f"Wrote {evidence_path.relative_to(root)}")
+        elif evidence_path.exists() and not args.check:
+            evidence_path.unlink()
+        content = session_javascript(metadata, condensation, evidence_url)
         generated_files.append(output)
         current = output.read_text(encoding="utf-8") if output.exists() else None
         if current != content:
