@@ -177,6 +177,8 @@ const el = {
   evidencePanel: document.querySelector("#evidencePanel"),
   evidenceNote: document.querySelector("#evidenceNote"),
   evidenceBody: document.querySelector("#evidenceBody"),
+  tabs: document.querySelector(".tabs"),
+  stageFrame: document.querySelector(".stage-frame"),
 };
 
 const sessions = Array.isArray(window.COMMITTEE_SESSIONS) ? window.COMMITTEE_SESSIONS : [];
@@ -194,6 +196,8 @@ let openCommittee = null;
 const evidenceCache = new Map();
 let evidenceOpen = readEvidencePreference();
 let evidenceState = null; // { sessionId, paragraphs, perTurn, marked }
+// Where the reader left the transcript when they switched it off.
+let evidenceScrollMemo = null; // { sessionId, turn, top }
 // The inquiry whose sessions are listed on their own page (a meeting key).
 let openInquiry = null;
 
@@ -1257,11 +1261,27 @@ function setupEvidence() {
 
 function applyEvidenceMode() {
   const open = Boolean(session && session.evidence) && evidenceOpen;
+  if (!open && !el.evidencePanel.hidden && evidenceState && session) {
+    evidenceScrollMemo = {
+      sessionId: evidenceState.sessionId,
+      turn: currentIndex,
+      top: el.evidenceBody.scrollTop,
+    };
+  }
   el.appMain.classList.toggle("evidence-open", open);
   el.evidencePanel.hidden = !open;
   if (!open) return;
   if (evidenceState && evidenceState.sessionId === session.id) {
-    highlightEvidence(true);
+    const memo = evidenceScrollMemo;
+    if (memo && memo.sessionId === session.id && memo.turn === currentIndex) {
+      // Same line as when it was switched off: put the reader back where they were.
+      highlightEvidence(true, false);
+      requestAnimationFrame(() => {
+        el.evidenceBody.scrollTop = memo.top;
+      });
+    } else {
+      highlightEvidence(true);
+    }
     return;
   }
   el.evidenceNote.textContent = "Loading the transcript…";
@@ -1366,7 +1386,7 @@ function paintParagraph(paragraph, ranges) {
   node.classList.toggle("has-mark", local.length > 0);
 }
 
-function highlightEvidence(immediate = false) {
+function highlightEvidence(immediate = false, scroll = true) {
   if (!evidenceOpen || !evidenceState || !session || evidenceState.sessionId !== session.id) return;
   const turn = evidenceState.perTurn[currentIndex];
   const ranges = (turn && turn.ranges) || [];
@@ -1401,7 +1421,7 @@ function highlightEvidence(immediate = false) {
     el.evidenceNote.textContent = note;
   }
 
-  const first = el.evidenceBody.querySelector("mark.ev-mark");
+  const first = scroll && el.evidenceBody.querySelector("mark.ev-mark");
   if (first) {
     const body = el.evidenceBody.getBoundingClientRect();
     const markTop = first.getBoundingClientRect().top;
@@ -1416,7 +1436,22 @@ function highlightEvidence(immediate = false) {
   }
 }
 
+// On phones the switch sits above the dialogue card and the transcript takes the
+// card's place; on larger screens both live in the right-hand panel.
+function placeEvidenceControls() {
+  const top = el.evidenceBody.scrollTop;
+  if (compactLayout.matches) {
+    el.stageFrame.insertBefore(el.evidenceToggleWrap, el.speechBubble);
+    el.stageFrame.insertBefore(el.evidencePanel, el.speechBubble);
+  } else {
+    el.tabs.before(el.evidenceToggleWrap, el.evidencePanel);
+  }
+  el.evidenceBody.scrollTop = top;
+}
+
 function bindEvidenceToggle() {
+  placeEvidenceControls();
+  compactLayout.addEventListener("change", placeEvidenceControls);
   el.evidenceToggle.addEventListener("change", () => {
     evidenceOpen = el.evidenceToggle.checked;
     try {

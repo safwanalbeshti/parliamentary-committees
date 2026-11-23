@@ -2031,10 +2031,12 @@ body:has(.meeting-menu:not([hidden])) {
   overflow-x: clip;
 }
 
-.app.evidence-open .tabs,
-.app.evidence-open .tab-panel,
-.app.evidence-open .what-this-is {
-  display: none !important;
+@media (min-width: 721px) {
+  .app.evidence-open .tabs,
+  .app.evidence-open .tab-panel,
+  .app.evidence-open .what-this-is {
+    display: none !important;
+  }
 }
 
 .evidence-panel {
@@ -2123,5 +2125,31 @@ mark.ev-mark {
   .evidence-body {
     max-height: 60vh;
     padding-bottom: 24px;
+  }
+}
+
+/* Phones: the switch sits above the dialogue card, and the transcript slides in
+   from the right to take the card's place. */
+@media (max-width: 720px) {
+  .stage-frame > .evidence-toggle {
+    margin-top: 10px;
+  }
+
+  .stage-frame > .evidence-panel {
+    height: min(62vh, 560px);
+    margin-top: 10px;
+  }
+
+  .stage-frame .evidence-body {
+    max-height: none;
+    padding-bottom: 32px;
+  }
+
+  .app.evidence-open .speech-bubble {
+    display: none;
+  }
+
+  .app.evidence-open .stage-frame {
+    overflow-x: clip;
   }
 }
