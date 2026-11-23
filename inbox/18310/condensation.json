@@ -2,60 +2,72 @@
   "schema_version": 1,
   "source_id": 18310,
   "source_sha256": "8fcb46f89e7a81fdb5006d3c6a8928dbebae014b45c76edbe187412955f50b82",
-  "title": "Who would police the conversion practices ban?",
-  "label": " · Draft Bill: healthcare and regulation",
-  "summary": "The committee asked three healthcare regulators how the draft Bill might affect professional standards and investigations. They said they receive very few complaints about conversion practices and already consider such practices incompatible with their professional standards. They broadly favoured limiting the Bill’s healthcare protection to properly regulated professionals and services, but warned that clinical guidance remains contested, online providers may escape oversight, and it is hard to predict how criminal and regulatory processes would interact.",
+  "title": "Protecting people without deterring care",
+  "label": "16 November 2026 · Conversion practices and healthcare",
+  "summary": "The committee examined whether the draft Bill would stop abusive conversion practices without putting ordinary clinical conversations or parents at risk of complaints and prosecution. Baroness Cass said she opposed conversion practices but could not support the Bill as drafted; Professor Leng feared clinicians might avoid difficult conversations. Healthcare regulators described the standards they already apply, supported narrowing the Bill’s healthcare exception to legitimate providers, and said the relationship between criminal cases and professional regulation would need careful handling.",
   "speakers": [
     {
       "label": "Chair",
       "name": "Lord Hope of Craighead",
-      "role": "Chair of the committee",
+      "role": "Acting chair of the committee",
       "kind": "chair"
     },
     {
-      "label": "Naz Shah",
-      "name": "Naz Shah",
-      "role": "Member of the Joint Committee",
-      "kind": "member"
+      "label": "Baroness Cass",
+      "name": "Baroness Cass",
+      "role": "Chair of the Independent Review of Gender Identity Services for Children and Young People",
+      "kind": "witness"
     },
     {
-      "label": "Lord Scriven",
-      "name": "Lord Scriven",
-      "role": "Member of the Joint Committee",
-      "kind": "member"
-    },
-    {
-      "label": "Baroness Browning",
-      "name": "Baroness Browning",
-      "role": "Member of the Joint Committee",
-      "kind": "member"
-    },
-    {
-      "label": "Baroness Prentis of Banbury",
-      "name": "Baroness Prentis of Banbury",
-      "role": "Member of the Joint Committee",
-      "kind": "member"
+      "label": "Professor Leng",
+      "name": "Professor Gillian Leng",
+      "role": "President of the Royal Society of Medicine and the Medical Protection Society",
+      "kind": "witness"
     },
     {
       "label": "Lord Isaac",
       "name": "Lord Isaac",
-      "role": "Member of the Joint Committee",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Brown of Silvertown",
+      "name": "Baroness Brown of Silvertown",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Olivia Bailey",
+      "name": "Olivia Bailey",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Naz Shah",
+      "name": "Naz Shah",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "Sir Jeremy Wright",
       "name": "Sir Jeremy Wright",
-      "role": "Member of the Joint Committee",
+      "role": "Committee member",
       "kind": "member"
     },
     {
-      "label": "Danny Beales",
-      "name": "Danny Beales",
-      "role": "Member of the Joint Committee",
+      "label": "Lord Scriven",
+      "name": "Lord Scriven",
+      "role": "Committee member",
       "kind": "member"
     },
     {
-      "label": "Dr Arun Chopra",
+      "label": "Mark Swindells",
+      "name": "Mark Swindells",
+      "role": "Assistant Director for Standards and Ethics, General Medical Council",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Chopra",
       "name": "Dr Arun Chopra",
       "role": "Chief Inspector of Mental Health, Care Quality Commission",
       "kind": "witness"
@@ -67,268 +79,760 @@
       "kind": "witness"
     },
     {
-      "label": "Mark Swindells",
-      "name": "Mark Swindells",
-      "role": "Assistant Director for Standards and Ethics, General Medical Council",
-      "kind": "witness"
+      "label": "Baroness Prentis of Banbury",
+      "name": "Baroness Prentis of Banbury",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Danny Beales",
+      "name": "Danny Beales",
+      "role": "Committee member",
+      "kind": "member"
     }
   ],
   "glossary": [
     {
-      "term": "Care Quality Commission",
-      "definition": "The body that inspects and regulates many health and care services in England."
+      "term": "conversion practices",
+      "definition": "Attempts to change or suppress someone’s sexual orientation or gender identity."
     },
     {
-      "term": "Health and Care Professions Council",
-      "definition": "The regulator for a range of health and care professions, which sets standards for people on its register."
+      "term": "healthcare exception",
+      "definition": "The draft Bill’s provision excluding certain healthcare conduct from its definition of a conversion practice."
     },
     {
-      "term": "General Medical Council",
-      "definition": "The UK body that registers doctors and sets standards for their professional conduct."
+      "term": "private prosecution",
+      "definition": "A criminal case brought by someone other than the usual public prosecutor."
     },
     {
-      "term": "NICE",
-      "definition": "The National Institute for Health and Care Excellence, which publishes guidance on health and care."
+      "term": "statutory guidance",
+      "definition": "Official guidance issued under a law to explain how it should be applied."
     },
     {
-      "term": "Professional Standards Authority",
-      "definition": "The body that oversees health and care regulators and approves some voluntary registers."
+      "term": "regulated profession",
+      "definition": "A profession whose members must meet requirements overseen by an authorised regulator."
     },
     {
-      "term": "fitness to practise",
-      "definition": "A regulator’s process for deciding whether a professional is safe and suitable to continue working."
+      "term": "accredited register",
+      "definition": "A list of practitioners whose organisation has met standards set by an independent oversight body."
+    },
+    {
+      "term": "criminal negligence",
+      "definition": "A serious failure of care that can lead to criminal charges."
     },
     {
       "term": "memorandum of understanding",
-      "definition": "A written agreement in which organisations set out shared principles or intentions."
+      "definition": "A shared statement setting out how organisations understand and oppose conversion practices."
     }
   ],
   "chapters": [
     {
-      "title": "What regulators already do",
-      "takeaway": "The regulators said complaints in this area are rare, but they already have powers and standards relevant to harmful practice.",
+      "title": "Cass’s change of view",
+      "takeaway": "Cass opposed conversion practices but said reading the Bill had convinced her that its protections against unintended consequences were too weak.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "How well do current rules protect people receiving care related to gender or sexual orientation?"
+          "text": "You initially welcomed the Bill’s clearer approach. Having read it, do you think it defines abusive conversion practices clearly enough?",
+          "evidence": [
+            {
+              "source_turn": 5,
+              "quote": "You have welcomed the draft Bill; I think you said that, compared with previous drafts, it gives a clearer definition of what conversion practices are, but also of what they are not. Do you think that the Bill’s definition of abusive conversion practices is clear enough to do what you have been saying?"
+            }
+          ]
         },
         {
-          "speaker": "Mark Swindells",
-          "text": "We receive relatively few complaints about doctors in this area. We set professional standards, including clear expectations that doctors explain the risks and benefits of medical treatment and obtain consent."
+          "speaker": "Baroness Cass",
+          "text": "No. When I commented publicly, I’d heard the principles but had barely had time to see the Bill itself. After studying it, I don’t think it’s precise enough to avoid serious unintended consequences.",
+          "evidence": [
+            {
+              "source_turn": 6,
+              "quote": "I was not sent the Bill until about 15 minutes before they wanted the press comment, so I gave a statement on the principles that I had been told about"
+            },
+            {
+              "source_turn": 6,
+              "quote": "Having obviously now spent a long time thinking about it, I unfortunately do not think that it is anywhere near tight enough to avoid serious unintended consequences."
+            }
+          ]
         },
         {
-          "speaker": "Dr Arun Chopra",
-          "text": "The Care Quality Commission regulates services against basic requirements such as safe, respectful care, consent and protecting people from abuse. We’ve taken action where gender services failed those standards, including rating one provider inadequate."
+          "speaker": "Baroness Cass",
+          "text": "I welcome the healthcare exception, but it depends on whether someone has fallen “far below the standards reasonably expected of a person in their position.” Those standards aren’t clear and people strongly disagree about them. I also worry that the Bill could reach parents who refuse to change a child’s pronouns or restrict money they think will be spent on a binder or hormones.",
+          "evidence": [
+            {
+              "source_turn": 8,
+              "quote": "Although there is a health carve-out, which I did welcome, the problem is in the definition of what it means for a person to fall “far below the standards reasonably expected of a person in their position.” At the moment, we do not have clear standards. Moreover, standards are highly contested in this area"
+            },
+            {
+              "source_turn": 8,
+              "quote": "Things like not agreeing to change your child’s pronouns, or restricting money if you think they are going to use it to get a breast binder or hormones—all those things could fall within the reach of this Bill."
+            }
+          ]
         },
         {
-          "speaker": "Andrew Smith",
-          "text": "We set standards for the conduct, skills and results expected of the professionals on our register. We receive very few concerns about this subject, and none that I know of about our members engaging in conversion practices."
+          "speaker": "Lord Isaac",
+          "text": "Do you still stand by your review’s statement that no LGBTQ+ group should be subjected to conversion practices?",
+          "evidence": [
+            {
+              "source_turn": 9,
+              "quote": "whether you still stand by paragraph 11.5 of your report, which says that “no LGBTQ+ group should be subjected to conversion practice”?"
+            }
+          ]
+        },
+        {
+          "speaker": "Baroness Cass",
+          "text": "Absolutely. Those practices are abhorrent. I’ve spent years trying to work out how a law could protect people from them without accidentally catching people it isn’t meant to catch.",
+          "evidence": [
+            {
+              "source_turn": 10,
+              "quote": "I absolutely do. Moreover, throughout most of the review, we had a statement to that effect on my website, saying that those practices are abhorrent and are not something that anyone would condone."
+            },
+            {
+              "source_turn": 10,
+              "quote": "how one might enact a Bill that protects the people it is supposed to protect but does not accidentally entrap those you do not want it to."
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Isaac",
+          "text": "The conduct you’re worried about would still have to be abusive and cause serious harm under the Bill. Would your examples actually pass that test?",
+          "evidence": [
+            {
+              "source_turn": 17,
+              "quote": "Those examples still have to meet the test of being abusive and causing serious harm. Do you think that all the examples that you gave meet that threshold?"
+            }
+          ]
+        },
+        {
+          "speaker": "Baroness Cass",
+          "text": "My concern isn’t only whether a complaint would succeed. Someone might report a clinician anyway, and the investigation itself can be damaging. Staff in the new gender services have told me they’re still anxious about that, even after seeing my proposed changes.",
+          "evidence": [
+            {
+              "source_turn": 14,
+              "quote": "that has not really allayed their concern that you could still be the subject of a vexatious complaint. As you know with these things, the issue is not so much whether you are found guilty; it is the whole process of the inquiry."
+            },
+            {
+              "source_turn": 22,
+              "quote": "the problem is not whether something would meet the threshold, but whether somebody would still report the individual, with everything that goes with that—which is highly problematic."
+            }
+          ]
+        },
+        {
+          "speaker": "Olivia Bailey",
+          "text": "If clearer guidance protected healthcare staff and parents, and there were safeguards against complaints made to cause trouble, could you support a ban on abusive conversion therapy?",
+          "evidence": [
+            {
+              "source_turn": 29,
+              "quote": "For example, for healthcare providers, guidance on what is below an acceptable level could be useful, and perhaps some sort of provision around protecting against vexatious complaints. Would that satisfy you and enable you to continue to support a ban on the abuse of LGBT people?"
+            }
+          ]
+        },
+        {
+          "speaker": "Baroness Cass",
+          "text": "I’d have to see the wording. A mother told my review that, after she wouldn’t use the name and pronouns her child wanted, her estranged husband reported her to social services. She said the investigation had lasted 11 months when we spoke. I worry that someone in a similar dispute could report a parent to the police under this Bill.",
+          "evidence": [
+            {
+              "source_turn": 30,
+              "quote": "The devil is in the detail; I would need to see the text of it."
+            },
+            {
+              "source_turn": 30,
+              "quote": "The mother tried to be supportive but was doing what I spoke about—not using the other name and not using the pronouns that the young person wanted. The father, who was still very angry with his wife, or was very acrimonious, reported her to social services for not supporting this young person’s gender transition. At the time she spoke to me, she was 11 months into an investigation by social services"
+            },
+            {
+              "source_turn": 30,
+              "quote": "he could now, on this, just as easily report her to the police, for example."
+            }
+          ]
         },
         {
           "speaker": "Naz Shah",
-          "text": "These services are contested. Where would you find a common standard for judging what’s reasonable?"
+          "text": "To be clear, do you support this Bill as it’s drafted?",
+          "evidence": [
+            {
+              "source_turn": 60,
+              "quote": "Do you support this Bill as drafted?"
+            }
+          ]
         },
         {
-          "speaker": "Dr Arun Chopra",
-          "text": "There are national requirements for children’s and adult services, professional standards, and guidance from colleges and other organisations. Those requirements need updating, but they give us a basis for judging services."
-        },
-        {
-          "speaker": "Dr Arun Chopra",
-          "text": "When we inspect adult gender services, we use those sources to assess whether care is safe and whether abusive practices are taking place."
-        },
-        {
-          "speaker": "Mark Swindells",
-          "text": "We’d also look to current clinical guidance. There’s work under way to produce guidance across different professions, but clinical opinion is still divided."
-        },
-        {
-          "speaker": "Lord Scriven",
-          "text": "You’ve had few complaints. Can you actually identify them in your records, or did you have to search manually?"
-        },
-        {
-          "speaker": "Mark Swindells",
-          "text": "We receive more than 10,000 concerns about doctors each year. Our records don’t have a specific category for this issue, so we manually reviewed cases. I’m fairly confident the number is small."
+          "speaker": "Baroness Cass",
+          "text": "No. I support trying to stop conversion practices, but after reading the Bill and speaking to families and colleagues, I can’t support it in its current form.",
+          "evidence": [
+            {
+              "source_turn": 61,
+              "quote": "I am supportive of trying to do something about conversion practices."
+            },
+            {
+              "source_turn": 61,
+              "quote": "having seen the Bill, having spoken to the many families who have emailed me and having spoken to my colleagues, I cannot support the Bill in its current form."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Who should get the healthcare protection?",
-      "takeaway": "All three regulators supported narrowing the draft protection so it covers legitimate, properly regulated healthcare rather than anyone claiming to provide similar care.",
+      "title": "Difficult conversations and clear standards",
+      "takeaway": "The witnesses wanted room for sensitive clinical discussions, while members pressed them on whether the Bill’s tests already provided enough protection.",
       "turns": [
         {
-          "speaker": "Baroness Browning",
-          "text": "Because the Bill allows private prosecutions, do your professional rules need to meet the same test as criminal negligence to protect practitioners?"
+          "speaker": "Professor Leng",
+          "text": "Some distressed young people need open conversations with clinicians who can ask questions without pushing them towards an outcome. I worry the Bill’s broad wording could make clinicians avoid a necessary conversation because it might upset someone. People might then seek answers online, where abusive practices can happen.",
+          "evidence": [
+            {
+              "source_turn": 34,
+              "quote": "we therefore need clinicians who feel absolutely empowered to have open, honest conversations, where they are asking questions, they are safe to explore and they are not directing an outcome."
+            },
+            {
+              "source_turn": 34,
+              "quote": "I worry that the breadth of this definition at the moment encompasses a conversation that might, albeit that it was exploratory, upset someone because of the circumstance that they are in."
+            },
+            {
+              "source_turn": 34,
+              "quote": "people will go online to find answers. We know there are abusive practices happening online"
+            }
+          ]
         },
         {
-          "speaker": "Mark Swindells",
-          "text": "Our standards describe good professional practice; they aren’t the same as the test for criminal or civil negligence. We rely on clinical guidance from professional bodies and other experts rather than setting that guidance ourselves."
+          "speaker": "Baroness Brown of Silvertown",
+          "text": "But wouldn’t not passing a law leave people unprotected? If the problem areas were fixed, would there also be a risk in stopping now?",
+          "evidence": [
+            {
+              "source_turn": 46,
+              "quote": "do you think there are any risks in our not passing something now that criminalises conversion therapy? Do you feel that we would leave people unprotected? Having gone this far, as long as the Bill tightens up on the areas that you have spoken about, do you feel that it might be worrisome not to proceed to the end and pass it?"
+            }
+          ]
+        },
+        {
+          "speaker": "Baroness Cass",
+          "text": "Yes. The question is which risk is greater, passing the Bill or not passing it, and that’s difficult to judge. The issues are especially complicated for young people questioning their gender: some will have a lasting trans identity and benefit from transition, while others may be expressing broader distress and could pay a high price if medical treatment starts too soon.",
+          "evidence": [
+            {
+              "source_turn": 47,
+              "quote": "the question is whether the risks are greater from passing the Bill or from not passing it. It is a really difficult one to call."
+            },
+            {
+              "source_turn": 47,
+              "quote": "some children with gender dysphoria or gender incongruence or who are trans-identifying—however you want to term it—will continue to be gender-incongruent into adulthood. For them, a medical and/or surgical transition may be the best outcome. But we know that many young people express psychological and physical distress through gender dysphoria and that if you prematurely medicalise them, that is a huge price to pay"
+            }
+          ]
         },
         {
           "speaker": "Sir Jeremy Wright",
-          "text": "Should the Bill’s healthcare protection be limited to professionals whose work is regulated?"
+          "text": "Even if the healthcare exception doesn’t apply, the Bill still asks whether the conduct was abusive and caused serious harm or serious distress. Are those tests strong enough to protect proper care?",
+          "evidence": [
+            {
+              "source_turn": 62,
+              "quote": "If you do not qualify for protection under the healthcare exemption, because it is considered that your actions fall far below the standards expected of someone in your position—you then face the question whether your behaviour was abusive, in the terms of the Act. Did it cause alarm, distress or harm?"
+            },
+            {
+              "source_turn": 62,
+              "quote": "Do you think that abusiveness is a big enough hurdle, as it is defined in the Bill at the moment?"
+            }
+          ]
         },
         {
-          "speaker": "Dr Arun Chopra",
-          "text": "Yes. The protection should cover legitimate healthcare. That could mean services we regulate, as well as professionals on approved registers who work to recognised standards."
-        },
-        {
-          "speaker": "Andrew Smith",
-          "text": "I agree that the Bill needs a clearer boundary. A broad exemption could be used by people who aren’t providing legitimate healthcare, while regulated professionals need room for difficult, evidence-based conversations."
-        },
-        {
-          "speaker": "Mark Swindells",
-          "text": "Regulation gives the public some assurance that a practitioner has training, follows professional standards and can be investigated if concerns arise. The GMC agrees that the protection should be better defined."
-        },
-        {
-          "speaker": "Mark Swindells",
-          "text": "One qualification: our reading is that doctors may not need to rely on this exemption, because the Bill’s other tests may already set a high bar. But I understand why the concerns about the wording matter."
+          "speaker": "Baroness Cass",
+          "text": "I’m not clear that the Bill defines abuse separately from serious harm or distress. A clinician and a young person can leave the same room with very different understandings of what happened. It may be hard to tell whether the clinician’s words caused the distress or brought up distress the young person already had.",
+          "evidence": [
+            {
+              "source_turn": 63,
+              "quote": "I am not clear how abuse, in this setting, is defined. It is defined as the serious harm, which is alarm, distress and so on. It does not seem to be defined separately from that."
+            },
+            {
+              "source_turn": 63,
+              "quote": "When people walk out of a room, they have a very different perception of what happened."
+            },
+            {
+              "source_turn": 63,
+              "quote": "whether what the clinician actually said has caused that distress, or whether it has thrown up for the young person some kind of deep-seated distress"
+            }
+          ]
         },
         {
           "speaker": "Sir Jeremy Wright",
-          "text": "The Bill also covers procedures similar to medical or surgical care, even when they aren’t treatment for a medical condition. Is it clear who that captures?"
+          "text": "Would it help if the person had to intend to cause distress, or should at least have realised they would cause it?",
+          "evidence": [
+            {
+              "source_turn": 66,
+              "quote": "Would it help if it did have to be intentional, or at least in circumstances where the person causing the distress should have realised that they would do so?"
+            }
+          ]
         },
         {
-          "speaker": "Dr Arun Chopra",
-          "text": "There are standards for referrals from psychological care to medical treatment and surgery. But I’m not sure exactly which providers that wider wording would include."
-        },
-        {
-          "speaker": "Andrew Smith",
-          "text": "I’m not clear what that part is intended to catch or exclude. I’m not a lawyer, and the Bill doesn’t make it obvious."
+          "speaker": "Baroness Cass",
+          "text": "A clinician may know a conversation will be painful and still need to have it. For example, discussing past sexual abuse can be deeply upsetting, but avoiding it altogether may prevent useful treatment.",
+          "evidence": [
+            {
+              "source_turn": 67,
+              "quote": "Realising that a discussion is going to be painful is probably not a reason why a healthcare professional does not have that conversation. Otherwise, you cannot make progress in trying to address some things. If a young person, for example, has been sexually abused, any discussion about it is going to be incredibly triggering, but you cannot therapeutically work through it without any reference to it."
+            }
+          ]
         },
         {
           "speaker": "Lord Scriven",
-          "text": "Could that wider category include people or services that no regulator oversees?"
+          "text": "What standards would the Bill actually measure a clinician against, given the disagreements in this field?",
+          "evidence": [
+            {
+              "source_turn": 72,
+              "quote": "Based on where we are and what the Bill says, what kind of standards do you think the bar will actually be? Will it be specific standards or will it be generic standards about medical practice? What are the standards, as the Bill stands, that somebody would be tested against?"
+            }
+          ]
         },
         {
-          "speaker": "Dr Arun Chopra",
-          "text": "It might. I’d need to check which activities are covered by our rules and write back to the Committee."
+          "speaker": "Baroness Cass",
+          "text": "That’s the central question. Different professional groups may point to different standards. A group brought together by the Academy of Medical Royal Colleges is developing training and measures of professional competence, which might provide one basis, but the Bill would have to be clear about which standards count.",
+          "evidence": [
+            {
+              "source_turn": 73,
+              "quote": "not everybody agrees with what I think are the right standards."
+            },
+            {
+              "source_turn": 73,
+              "quote": "the Academy of Medical Royal Colleges has been commissioned to pull together a multi-professional group—not just doctors, although they are the medical overview body—to develop a competency framework and training materials."
+            },
+            {
+              "source_turn": 73,
+              "quote": "unless we say, “Well, within the law, you have to adhere to this standard,” there can be contest about what the appropriate standards are for that particular professional."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Leng",
+          "text": "Alongside training, I’d want a practical care guideline developed with different professionals, young people and parents. It could explain good practice without dictating every decision. If a clinician departed from it, they could record why.",
+          "evidence": [
+            {
+              "source_turn": 74,
+              "quote": "I am keen on a guideline to inform best practice as well. Ideally, you would put that together in a multi-professional group, but also include patients. In this case, we would want to include the views of young people, which would be obtained separately because of their age. You would want to include parents as well."
+            },
+            {
+              "source_turn": 74,
+              "quote": "it would not necessarily mean that everything had to be followed, but if a practitioner did not think something was relevant, as long as it is documented and they have explained why they have done what they have done, it is pretty defensible should something go wrong."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Leng",
+          "text": "I’d also consider excluding care in regulated healthcare settings from this criminal offence. Existing systems can deal with the rare healthcare professional who crosses the line. Even without that exclusion, clear guidelines and training would help clinicians know how to work safely.",
+          "evidence": [
+            {
+              "source_turn": 55,
+              "quote": "unless there is a universal opt-out, say for regulated healthcare settings. For me, that would probably make sense."
+            },
+            {
+              "source_turn": 55,
+              "quote": "Regardless of whether there is a universal opt-out, those professional guidelines would really help."
+            },
+            {
+              "source_turn": 59,
+              "quote": "it does happen sometimes, but it is rare and rogue, and there are already ways of dealing with healthcare professionals who cross that line."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Complaints, guidance and gaps in oversight",
-      "takeaway": "The witnesses couldn’t predict the effect of the Bill, and warned that some online providers fall outside the regulators’ reach.",
-      "turns": [
-        {
-          "speaker": "Baroness Prentis of Banbury",
-          "text": "Do you know how many therapists in this area aren’t regulated?"
-        },
-        {
-          "speaker": "Mark Swindells",
-          "text": "No. We wouldn’t hold that information, particularly about practitioners whose clients wouldn’t come to the General Medical Council."
-        },
-        {
-          "speaker": "Baroness Prentis of Banbury",
-          "text": "The Health and Care Professions Council has guidance referring to the shared agreement against conversion practices. Has that guidance led to more complaints?"
-        },
-        {
-          "speaker": "Andrew Smith",
-          "text": "We’ve referred to the agreement in our guidance since 2022 and haven’t seen an increase in complaints on this subject. We consider conversion practices incompatible with our standards."
-        },
-        {
-          "speaker": "Mark Swindells",
-          "text": "We haven’t seen an increase either. We have a process for dealing with complaints that appear to be vexatious, though deciding that depends on the circumstances."
-        },
-        {
-          "speaker": "Dr Arun Chopra",
-          "text": "We haven’t seen an increase. The Commission isn’t currently a signatory to the shared agreement, but could consider it when it’s reviewed."
-        },
-        {
-          "speaker": "Danny Beales",
-          "text": "If the Bill passes, do you expect to receive more complaints?"
-        },
-        {
-          "speaker": "Andrew Smith",
-          "text": "It’s hard to predict. The Bill may raise awareness, and there are very few complaints now, but we can’t say how the numbers would change."
-        },
-        {
-          "speaker": "Dr Arun Chopra",
-          "text": "Some clinicians have told me they’re worried complaints will rise, but I can’t estimate how likely that is."
-        },
-        {
-          "speaker": "Mark Swindells",
-          "text": "I have the same uncertainty."
-        },
-        {
-          "speaker": "Danny Beales",
-          "text": "Have you spoken with regulators in countries that already have similar laws?"
-        },
-        {
-          "speaker": "Mark Swindells",
-          "text": "We reviewed about 27 laws from other countries, with different protections and exceptions, but we haven’t spoken directly to their regulators."
-        },
-        {
-          "speaker": "Dr Arun Chopra",
-          "text": "Some online providers are based overseas and don’t need to register with us. We know of a couple of high-profile examples, but we can’t tell how widespread they are."
-        },
-        {
-          "speaker": "Dr Arun Chopra",
-          "text": "That means there may be people receiving care from providers outside the oversight that applies to services in England."
-        }
-      ]
-    },
-    {
-      "title": "How criminal cases and regulation might interact",
-      "takeaway": "The regulators said a court might consider several sources when deciding whether conduct fell far below expected standards, while their own investigations could reach different outcomes from a criminal trial.",
+      "title": "What existing regulators can do",
+      "takeaway": "Regulators described existing safeguards, but said clinical guidance remains contested and their oversight does not reach every provider.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "If someone reports abuse and serious harm to the police, how would the healthcare exemption work in court?"
+          "text": "What standards do you already apply to gender and sexual-orientation healthcare?",
+          "evidence": [
+            {
+              "source_turn": 88,
+              "quote": "Can you say how successful current regulatory approaches are in upholding the standards across gender and sexual orientation healthcare services? Tell us about the present state of play, the general standards and the way they are being applied."
+            }
+          ]
         },
         {
           "speaker": "Mark Swindells",
-          "text": "If a doctor on our register is charged, we expect them to tell us. We’d usually let the criminal case run its course rather than start a separate investigation at the same time."
+          "text": "The General Medical Council sets professional standards for doctors and some other medical practitioners. We’ve had relatively few complaints in this area. Our guidance expects doctors to explain the risks and benefits of treatment, including when someone is considering a medical path.",
+          "evidence": [
+            {
+              "source_turn": 89,
+              "quote": "we do not have a large number of complaints pertaining to doctors—we also regulate physician associates and anaesthesia associates in this area. We set standards of professionalism"
+            },
+            {
+              "source_turn": 89,
+              "quote": "the professional expectation that falls on doctors precisely to lean in and explain the risks and benefits of different medical procedures."
+            }
+          ]
         },
         {
-          "speaker": "Lord Scriven",
-          "text": "The Bill makes the healthcare protection depend on whether conduct fell far below expected standards. Is that something regulators already assess for criminal cases?"
-        },
-        {
-          "speaker": "Mark Swindells",
-          "text": "We have clear professional standards, but they describe good practice. A departure doesn’t automatically mean someone fails our own test. The missing piece is agreement on the clinical guidance that should apply here."
+          "speaker": "Dr Chopra",
+          "text": "The Care Quality Commission inspects healthcare services in England for matters including safe care, consent and protection from abuse. We’ve rated one gender-service provider inadequate after finding several failings. But our powers cover some providers, not all of them.",
+          "evidence": [
+            {
+              "source_turn": 90,
+              "quote": "We regulate services against the fundamental standards set out in regulations. These include things such as patient-centred care, consent, dignity and making sure people are safeguarded and not victims of abuse."
+            },
+            {
+              "source_turn": 90,
+              "quote": "There are some providers in the independent sector that we regulate, but there are others that we do not."
+            },
+            {
+              "source_turn": 90,
+              "quote": "We have taken action where we have seen standards below what we expect in gender services. For example, we rated one provider as inadequate because of various different failings we had seen"
+            }
+          ]
         },
         {
           "speaker": "Andrew Smith",
-          "text": "I read the Bill’s wording as drawing on the criminal law. A court might consider a regulator’s standards, but could also look at other evidence. I don’t think the Bill ties the decision to one professional document."
+          "text": "The Health and Care Professions Council sets standards for the practitioners it registers. We’ve received very few concerns of this kind, and I don’t know of any report to us about a registered practitioner working inappropriately around conversion practices.",
+          "evidence": [
+            {
+              "source_turn": 91,
+              "quote": "we set outcome-focused standards. That covers the behaviours and conduct and the skills and competencies that we expect of the people on our register."
+            },
+            {
+              "source_turn": 91,
+              "quote": "We see very few concerns raised with us about areas of this nature. I am not aware of any concerns reported to us by anyone about our registrants working inappropriately around conversion practices."
+            }
+          ]
+        },
+        {
+          "speaker": "Naz Shah",
+          "text": "If this area is so contested, how will regulators decide what reasonable care looks like?",
+          "evidence": [
+            {
+              "source_turn": 92,
+              "quote": "We have heard that gender identity healthcare services are a particularly polarised area of medicine. You have just said that the regulations are not always there. How will regulators go about deciding what reasonable standards look like in such a contested area?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Chopra",
+          "text": "We can draw on the descriptions of what NHS gender services should provide, professional standards and other guidance. Some of those service requirements still need updating after the Cass and Levy reviews. We’re using the existing material when inspecting adult gender services.",
+          "evidence": [
+            {
+              "source_turn": 93,
+              "quote": "There are national service specifications for what we would expect children’s services and adult services to deliver. Indeed, that is what David Levy assessed services against. There are changes that need to be made to those national service specifications, in line with what Baroness Cass and David Levy have said."
+            },
+            {
+              "source_turn": 93,
+              "quote": "when we go out to inspect adult gender services—we have started a programme of doing that—we are drawing upon those existing frameworks, and the standards that are set within them"
+            }
+          ]
+        },
+        {
+          "speaker": "Mark Swindells",
+          "text": "We’d also look at the best available clinical guidance if someone complained to us. But I agree that the clinical guidance is currently contested.",
+          "evidence": [
+            {
+              "source_turn": 94,
+              "quote": "if a concern were raised with us about conversion practices, we would look to the prevailing best clinical guidance."
+            },
+            {
+              "source_turn": 94,
+              "quote": "It strikes us that the clinical guidance at the moment is very contested."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Who should get the healthcare exception?",
+      "takeaway": "All three regulators favoured tying the exception more closely to recognisable, accountable healthcare, rather than leaving it open to anyone claiming to provide care.",
+      "turns": [
+        {
+          "speaker": "Sir Jeremy Wright",
+          "text": "At present, the healthcare exception could cover people outside regulated professions. Should it be limited to practitioners or services subject to recognised oversight?",
+          "evidence": [
+            {
+              "source_turn": 101,
+              "quote": "applies to everyone in the healthcare professions, regulated or not. Is it your view that the protection offered should be limited to those within regulated professions?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Chopra",
+          "text": "Yes. The exception should protect people providing legitimate healthcare. That could include practitioners in services we regulate and practitioners on recognised accredited registers, rather than an unrestricted group claiming the exception.",
+          "evidence": [
+            {
+              "source_turn": 102,
+              "quote": "Yes."
+            },
+            {
+              "source_turn": 104,
+              "quote": "the important point to note is that it is those people who are providing legitimate healthcare whom we want to ensure we protect. That might mean those people who are working in regulated providers, which the CQC regulates, or those professionals who are working in that space, regardless of CQC regulation but on PSA accredited registers."
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Smith",
+          "text": "I think the broad exception is meant to prevent clinicians from becoming afraid to practise. But defining who it covers more carefully could stop people with nothing to do with legitimate healthcare from exploiting it. Regulated professions, accredited registers and possibly inspected services could be a starting point.",
+          "evidence": [
+            {
+              "source_turn": 105,
+              "quote": "My interpretation of the Bill is that it is designed to mitigate the potential chilling effect."
+            },
+            {
+              "source_turn": 105,
+              "quote": "having some definition about the groups of people involved in that might prevent people who may look to exploit the exemption but are nothing to do with legitimate healthcare practice"
+            },
+            {
+              "source_turn": 105,
+              "quote": "refer back to statutory-regulated professions. PSA accredited registers and possibly services covered by the CQC might be a step forward."
+            }
+          ]
+        },
+        {
+          "speaker": "Mark Swindells",
+          "text": "We agree. Registration gives the public some assurance about training and standards, and a way to investigate concerns. But our reading is that doctors may not need this exception to avoid prosecution, given the offence’s other requirements. That doesn’t mean we dismiss the concerns you’ve heard from them.",
+          "evidence": [
+            {
+              "source_turn": 106,
+              "quote": "The GMC would agree, too. I think that that is the benefit of regulation. In a sense, in terms of public protection, people can be assured that someone on a regulator’s register or on one of the accredited registers has some degree of education and training, with an ongoing commitment to professional standards to remain registered, and that, were there to be an issue, there can be a form of investigation about it."
+            },
+            {
+              "source_turn": 106,
+              "quote": "our dry, technical reading of the exemption is that it is not necessary—that is arguable, at least. I do not think that we would advise doctors to rely on it, bearing in mind our reading of the threshold of the Bill, which is the serious harm and intent. However, it is impossible to ignore the scale of the concerns that the Committee has heard"
+            }
+          ]
         },
         {
           "speaker": "Sir Jeremy Wright",
-          "text": "Would a regulator have to give evidence about whether someone’s conduct fell far below the required standard?"
+          "text": "The Bill also includes procedures described as similar to medical or surgical care, even when they aren’t connected to a medical condition. Is that too broad, and whose standards would apply?",
+          "evidence": [
+            {
+              "source_turn": 107,
+              "quote": "“(b) procedures that are similar to forms of medical or surgical care but are not provided in connection with a medical condition.” In relation to paragraph (b)—in other words, those things that are not medical care but are “similar” to it; the word “similar” is not defined—do you have concerns about the inclusion of that second paragraph, either on its own terms or in connection with whatever the relevant standards would be for people in that second category?"
+            }
+          ]
         },
         {
           "speaker": "Andrew Smith",
-          "text": "We could explain our standards and where professionals can find clinical guidance. Our standards don’t cover every specific situation, so we wouldn’t be making the clinical judgment for the court."
+          "text": "I’m not clear exactly what that wording is meant to include or exclude.",
+          "evidence": [
+            {
+              "source_turn": 110,
+              "quote": "I wouldn’t say I am clear on exactly what that is trying to catch or rule out."
+            }
+          ]
         },
         {
           "speaker": "Baroness Prentis of Banbury",
-          "text": "Would you be taking sides in court?"
+          "text": "Can you tell us how many therapists in this field work outside regulation?",
+          "evidence": [
+            {
+              "source_turn": 116,
+              "quote": "do you have a sense of what proportion of therapists working in this area are not regulated?"
+            }
+          ]
         },
         {
           "speaker": "Mark Swindells",
-          "text": "No. We’d explain our standards as clearly as possible, but an independent expert would more typically give an opinion on the particular conduct."
+          "text": "No. That isn’t information the General Medical Council would necessarily hold.",
+          "evidence": [
+            {
+              "source_turn": 117,
+              "quote": "No, we wouldn’t have that information."
+            },
+            {
+              "source_turn": 119,
+              "quote": "I don’t think it is the kind of information the GMC would hold, necessarily, because I don’t think people using those services would come to us."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Chopra",
+          "text": "There’s another gap: some online-only providers are registered overseas and work with practitioners abroad. We don’t oversee them. I know of a couple of prominent examples, but I can’t say how widespread this is.",
+          "evidence": [
+            {
+              "source_turn": 123,
+              "quote": "some providers in this space actually work outside England, are online only and are registered overseas. They may be providing psychological therapy with practitioners who are based in other jurisdictions in Brazil. We do not really have any remit over them."
+            },
+            {
+              "source_turn": 125,
+              "quote": "I cannot say whether it is widespread or not. There are a couple of instances that I am aware of, but they are high profile."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Complaints, prosecutions and professional discipline",
+      "takeaway": "Regulators reported no rise in complaints made to cause trouble, but said a criminal verdict and a professional safety decision serve different purposes.",
+      "turns": [
+        {
+          "speaker": "Lord Isaac",
+          "text": "Would the Bill’s criminal test change the guidance you use when judging complaints about conversion practices?",
+          "evidence": [
+            {
+              "source_turn": 132,
+              "quote": "would the draft Bill mean that you would have to revisit your guidance?"
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Smith",
+          "text": "We’ve told our registered practitioners since 2022 that conversion practices aren’t acceptable under our standards. The Bill would create a narrower criminal offence involving abuse and serious harm. It wouldn’t change how we handle a professional complaint.",
+          "evidence": [
+            {
+              "source_turn": 129,
+              "quote": "we have been clear since 2022 that it is not acceptable or in keeping with our standards for registrants to engage or work in conversion practices."
+            },
+            {
+              "source_turn": 133,
+              "quote": "it would not affect how we would regulate. It is looking at criminal prosecutions."
+            },
+            {
+              "source_turn": 133,
+              "quote": "The Bill would create a criminal offence, with abuse and serious harm being the factors"
+            }
+          ]
+        },
+        {
+          "speaker": "Danny Beales",
+          "text": "Since your organisations began referring to the memorandum of understanding opposing conversion practices, have you seen more complaints made to cause trouble? And can you predict what the Bill might do to complaint numbers?",
+          "evidence": [
+            {
+              "source_turn": 135,
+              "quote": "Have you seen any increase in vexatious regulatory complaints since applying the MOU on conversion practices?"
+            },
+            {
+              "source_turn": 141,
+              "quote": "what is your view on the level of increase you would be likely to see of complaints to regulators if this legislation were applied as drafted?"
+            }
+          ]
+        },
+        {
+          "speaker": "Mark Swindells",
+          "text": "We haven’t seen an increase of that kind. We have a policy for handling complaints made to cause trouble, though deciding whether one meets that description takes judgment. I can’t reliably predict what would happen if the Bill passed.",
+          "evidence": [
+            {
+              "source_turn": 136,
+              "quote": "We have not seen an uptick. We do have a vexatious complaints policy to be able to handle that. Of course, it is always a matter of judgment what passes that test or not."
+            },
+            {
+              "source_turn": 144,
+              "quote": "I would give a very similar answer."
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Smith",
+          "text": "We haven’t seen an increase on this subject either. A new law might raise awareness and bring more reports, but referrals have stayed low despite years of public discussion, so I can’t forecast the numbers.",
+          "evidence": [
+            {
+              "source_turn": 139,
+              "quote": "Not on this subject, no."
+            },
+            {
+              "source_turn": 142,
+              "quote": "It is difficult to predict. I suppose it heightens awareness of the subject."
+            },
+            {
+              "source_turn": 142,
+              "quote": "it will certainly raise the public attention on this subject. It is certainly an area that has been in the media for quite a number of years, and we have not seen numbers of referrals so far in this area."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Chopra",
+          "text": "Nor have we seen such an increase. Clinicians I’ve spoken to worry that complaints may rise, but I can’t say whether they will.",
+          "evidence": [
+            {
+              "source_turn": 140,
+              "quote": "It is a no from us as well."
+            },
+            {
+              "source_turn": 143,
+              "quote": "From speaking to colleagues who work in these services, they certainly are saying to me that they are concerned that there may be a rise. I have been informed about that, but it is very difficult to say."
+            }
+          ]
         },
         {
           "speaker": "Chair",
-          "text": "If someone is acquitted, does that end the matter for the regulators?"
+          "text": "Suppose someone reports serious harm to the police and a healthcare practitioner faces prosecution. What would your regulator do while that criminal case is under way?",
+          "evidence": [
+            {
+              "source_turn": 149,
+              "quote": "If I believe that I have been abused and suffered serious harm, my instinct would be to go to the police, and then that leads to a prosecution."
+            },
+            {
+              "source_turn": 149,
+              "quote": "But how is it actually going to work out in practice in court? Do you have any idea?"
+            }
+          ]
         },
         {
           "speaker": "Mark Swindells",
-          "text": "Not necessarily. Our question is whether the professional is safe to practise in future, which is different from the criminal test. If someone has understood what went wrong and changed their practice, that may affect our decision."
-        },
-        {
-          "speaker": "Dr Arun Chopra",
-          "text": "We regulate services rather than individual practitioners. We’d share concerns with the relevant professional regulator and decide whether the service needed inspection or other action."
-        },
-        {
-          "speaker": "Andrew Smith",
-          "text": "We could consider regulatory action even after someone wasn’t convicted. We look more broadly at a professional’s conduct than the specific criminal offence."
-        },
-        {
-          "speaker": "Baroness Browning",
-          "text": "A professional body withdrew from the shared agreement over how it applied to children. Do you still rely on that agreement?"
+          "text": "We expect a registered practitioner who’s charged with a crime to tell us. Usually we’d follow the case but wait for the criminal process rather than run a separate investigation alongside it.",
+          "evidence": [
+            {
+              "source_turn": 150,
+              "quote": "If someone on our register is charged with a crime, we expect them to inform us. That can open up the conversation so that we are able to track the case. We would not complicate it by doing a separate parallel investigation usually in those circumstances. We would defer to the criminal law taking its course."
+            }
+          ]
         },
         {
           "speaker": "Andrew Smith",
-          "text": "I don’t know the details of that decision, so I can’t answer today. I’m happy to look into it and write to the Committee."
+          "text": "The court wouldn’t necessarily judge the healthcare exception against one regulator’s document. My reading is that it could consider several sources when deciding whether conduct fell far below expected standards, rather like other cases of criminal negligence.",
+          "evidence": [
+            {
+              "source_turn": 157,
+              "quote": "the phrase “far below the standards expected” is trying to draw from criminal negligence and criminal law, in which case regulatory standards might be one source of evidence that the court might look at. They might also look at other things."
+            },
+            {
+              "source_turn": 157,
+              "quote": "It is not my reading of the draft Bill that it was all to be solely on one document, as it were, and that to be a regulatory document."
+            }
+          ]
+        },
+        {
+          "speaker": "Baroness Prentis of Banbury",
+          "text": "If you were called to court, could you judge whether the practitioner’s conduct fell far below the expected level?",
+          "evidence": [
+            {
+              "source_turn": 161,
+              "quote": "You are giving evidence that it is far below the standards reasonably expected, so you would have to give quite a lot of comment—let me put it that way—on whatever the conduct was. Is that something you feel equipped and able to do in this area?"
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Smith",
+          "text": "I could explain our standards and where practitioners should look for clinical guidance. I wouldn’t make the clinical judgment for the court about the particular conduct.",
+          "evidence": [
+            {
+              "source_turn": 162,
+              "quote": "what we would give evidence on is clarity around what our standards say and where we might expect a registrant to go—royal colleges, professional bodies, or maybe other national guidance."
+            },
+            {
+              "source_turn": 162,
+              "quote": "We would not be providing that kind of clinical judgment on what is acceptable or falls below the standard."
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "If the person were acquitted, would that end the matter for their regulator?",
+          "evidence": [
+            {
+              "source_turn": 168,
+              "quote": "Let’s assume that there has been an acquittal. The jury does not give reasons. Is that the end, as far as you as regulators are concerned—or, because the bar is set at a very high level, does that still leave a question for the regulator as to whether the regulations have been breached"
+            }
+          ]
+        },
+        {
+          "speaker": "Mark Swindells",
+          "text": "Not necessarily. A criminal court applies a different test. We’d look at whether the practitioner is safe to work in future, so there could still be a professional question to consider.",
+          "evidence": [
+            {
+              "source_turn": 169,
+              "quote": "Potentially, because our assessment is not the same as a criminal test with a different threshold; it is a prospective assessment of whether that doctor, PA or AA is safe to practise for the future."
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Smith",
+          "text": "The same applies to us: in some circumstances we might take professional action even when a criminal case hasn’t ended in a conviction.",
+          "evidence": [
+            {
+              "source_turn": 171,
+              "quote": "it could be that in a certain set of circumstances we may take regulatory action even though someone has not been convicted of a criminal offence."
+            }
+          ]
         }
       ]
     }

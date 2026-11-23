@@ -2,9 +2,9 @@
   "schema_version": 1,
   "source_id": 18315,
   "source_sha256": "b9f4d2d04c9f4e5d4ef3a10c8bc6e5eaa30beed85708f62795ddda26885ecb32",
-  "title": "One office, two responsibilities",
+  "title": "Should Scotland’s Lord Advocate keep both jobs?",
   "label": "18 November 2026 · The Lord Advocate’s dual role",
-  "summary": "The committee asked former Lord Advocate Lord Mulholland whether Scotland’s senior prosecutor should also advise the Government. He argued that the combination helps prosecutors warn ministers about live investigations and brings prosecution experience into government decisions and new laws. He said he had never experienced political interference, but acknowledged that the public may worry about conflicts of interest. Members challenged whether safeguards and recusal from some cases make the arrangement look unusual; Mulholland said the system works, while supporting written guidance on when Law Officers should step aside. He also discussed appointments, public transparency, the office’s wide-ranging duties and the pressure of the job.",
+  "summary": "Former Lord Advocate Lord Mulholland argued that Scotland benefits from having one person serve as the Government’s chief legal adviser and head of prosecutions. He said the arrangement helps Ministers avoid harming investigations and lets prosecution experience shape laws. Committee members pressed him on perceived conflicts, private contact with Ministers, appointments and public safeguards. He said he had experienced no political interference, opposed splitting the roles, but supported writing down the rules on when Law Officers step aside from cases.",
   "speakers": [
     {
       "label": "Chair",
@@ -32,7 +32,7 @@
     },
     {
       "label": "Mr MacDonald",
-      "name": "Angus MacDonald",
+      "name": "Mr Angus MacDonald",
       "role": "Committee member",
       "kind": "member"
     },
@@ -52,315 +52,617 @@
   "glossary": [
     {
       "term": "Lord Advocate",
-      "definition": "Scotland’s senior legal officer, who advises the Scottish Government and leads the independent prosecution service."
+      "definition": "Scotland’s chief prosecutor and the Scottish Government’s principal legal adviser."
     },
     {
       "term": "Solicitor General",
-      "definition": "The Lord Advocate’s deputy and another senior legal officer in Scotland."
+      "definition": "The Scottish Law Officer who assists the Lord Advocate and can act in their place."
+    },
+    {
+      "term": "Law Officer",
+      "definition": "A senior government legal office-holder, such as Scotland’s Lord Advocate or Solicitor General."
     },
     {
       "term": "Crown Counsel",
-      "definition": "Senior prosecutors who advise on and make decisions about serious criminal cases."
+      "definition": "Senior Scottish prosecutors who make decisions about serious criminal cases."
     },
     {
-      "term": "recuse",
-      "definition": "To step aside from a decision because involvement could appear unfair or conflicted."
+      "term": "Scotland Act",
+      "definition": "The 1998 law that established Scotland’s devolved Parliament and Government and sets out some of their powers."
     },
     {
-      "term": "sub judice",
-      "definition": "A rule limiting public discussion of a case while court proceedings are under way."
+      "term": "double jeopardy",
+      "definition": "The general rule against trying someone again for a crime after they have been acquitted, subject to legal exceptions."
     },
     {
-      "term": "quasi-judicial",
-      "definition": "Making a decision under legal rules in a way that should be independent of party politics."
+      "term": "Presiding Officer",
+      "definition": "The person who chairs meetings of the Scottish Parliament and oversees its proceedings."
     },
     {
-      "term": "Scotland Act 1998",
-      "definition": "The law that established Scotland’s devolved Parliament and Government and sets out their powers."
-    },
-    {
-      "term": "Crown Office and Procurator Fiscal Service",
-      "definition": "Scotland’s prosecution service, which investigates deaths and brings criminal cases to court."
+      "term": "MSP",
+      "definition": "A member of the Scottish Parliament."
     }
   ],
   "chapters": [
     {
       "title": "Why combine the roles?",
-      "takeaway": "Mulholland said one person overseeing prosecutions and advising ministers can help protect investigations and improve government decisions.",
+      "takeaway": "Lord Mulholland said direct access to Ministers helps protect investigations and turn prosecutors’ experience into better laws.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "What are the main advantages of the Lord Advocate being both the Government’s legal adviser and Scotland’s senior prosecutor?"
+          "text": "What’s the advantage of having the Lord Advocate both advise the Scottish Government on law and lead prosecutions?",
+          "evidence": [
+            {
+              "source_turn": 7,
+              "quote": "what do you think are the main advantages of the devolved Law Officers having that dual role as both the Government’s legal advisers and the senior prosecutor?"
+            }
+          ]
         },
         {
           "speaker": "Lord Mulholland",
-          "text": "The combination helps ministers understand what they can safely say during a major investigation. After the Glasgow airport bombing and the Clutha helicopter crash, politicians needed to reassure the public, but also avoid saying anything that could damage an inquiry. A prosecutor can explain where those boundaries are."
+          "text": "Ministers need to speak to the public after major events, but they mustn’t say anything that could damage an investigation. After the Glasgow airport bombing and the Clutha helicopter crash, we could quickly tell them what they could and couldn’t say.",
+          "evidence": [
+            {
+              "source_turn": 8,
+              "quote": "If you remember the Glasgow airport bombing, the First Minister rang the relevant Cabinet Secretaries, who were all quickly advised what they could and could not say."
+            },
+            {
+              "source_turn": 8,
+              "quote": "Another example was the Clutha helicopter crash. All these examples were in my time as a Law Officer. Again, you needed to speak to them quickly so they knew what they could and could not say. Of course, as politicians it is incumbent on them to give reassurance and information to the public"
+            }
+          ]
         },
         {
           "speaker": "Lord Mulholland",
-          "text": "It also lets the Lord Advocate spot problems in the justice system and raise them with Government. In one terrorism investigation, differences between Scottish and English legal time limits complicated efforts to prosecute connected cases together. I raised the problem with the UK Government, and a change was made to allow certain terrorism crimes to be prosecuted across the UK."
+          "text": "Leading prosecutions also lets you spot gaps in the law. A terrorism investigation exposed problems coordinating cases across Scotland and England because their prosecution deadlines differed. I raised that with the UK Government, which later changed the law for cross-border terrorism cases. I also alerted the First Minister when Scotland lacked legislation covering the sharing of intimate images.",
+          "evidence": [
+            {
+              "source_turn": 8,
+              "quote": "the prosecution authorities down south applied different timescales than in Scotland. It is 110 days to 140 days to 12 months in Scotland; it is a lot longer—I do not know what it is now, but it certainly was at that time—down south. So the two investigations were clashing and eventually no proceedings were taken."
+            },
+            {
+              "source_turn": 8,
+              "quote": "I talked to the UK Government and in 2008—I think it was—they made a provision in the relevant Counter-Terrorism Act for universal jurisdiction in Scotland."
+            },
+            {
+              "source_turn": 8,
+              "quote": "There was no legislation covering that in Scotland at the time. I spoke publicly about it and spoke to the First Minister to alert him to the issue. Of course, there is now legislation in Scotland."
+            }
+          ]
         },
         {
           "speaker": "Lord Mulholland",
-          "text": "I also raised the lack of a Scottish law covering the sharing of intimate images without consent. There are other examples where a prosecutor’s experience can help ministers consider new laws."
-        },
-        {
-          "speaker": "Lord Mulholland",
-          "text": "The Lockerbie investigation is another example. I reviewed the case papers and publicly said I believed the conviction was sound. The FBI director then contacted me, and we went to Libya after Gaddafi’s fall to discuss pursuing others who might have been involved. The First Minister needed to know about the trip because it was dangerous and could have become major international news."
-        },
-        {
-          "speaker": "Chair",
-          "text": "So you see practical benefits for both prosecution work and the development of government policy?"
-        },
-        {
-          "speaker": "Lord Mulholland",
-          "text": "Yes. I could give many more examples. I’m not saying ministers should be told the evidence in a live case; they may need to know what is happening so they can govern responsibly."
-        }
-      ]
-    },
-    {
-      "title": "Political independence and public confidence",
-      "takeaway": "Mulholland said the risk is that people may suspect political influence, but he saw no such interference in his own work.",
-      "turns": [
-        {
-          "speaker": "Lillian Jones",
-          "text": "What are the risks of combining the roles?"
-        },
-        {
-          "speaker": "Lord Mulholland",
-          "text": "The biggest risk is that people think the prosecutor has political motives. Historically, Lords Advocate sometimes took part in political prosecutions. But the office has changed, and Dame Elish Angiolini made a point of keeping the prosecution service’s budget separate from the Government’s justice budget, to help protect its independence."
-        },
-        {
-          "speaker": "Lord Mulholland",
-          "text": "The Scotland Act 1998 also protects the Lord Advocate’s independent decisions about prosecutions and investigations into deaths. In my nine years as a Law Officer, no minister, MSP, MP or First Minister ever asked me to discuss evidence in a live case."
-        },
-        {
-          "speaker": "Lord Mulholland",
-          "text": "Ministers sometimes make decisions that must be taken under legal rules rather than party politics. A planning decision or a decision about an energy project can be quasi-judicial. I believe the Lord Advocate can also keep the prosecutor’s role separate from political work."
-        },
-        {
-          "speaker": "Lord Mulholland",
-          "text": "During the independence referendum, I gave the Government legal advice on whether the Scottish Parliament could hold a referendum. I was determined that the result would have a sound legal basis, whichever way people voted."
-        },
-        {
-          "speaker": "Dave Doogan",
-          "text": "Some people worry that being in Government meetings gives ministers access to information about cases they shouldn’t have. Is it frustrating that people assume information will leak, when you say that simply wouldn’t happen?"
-        },
-        {
-          "speaker": "Lord Mulholland",
-          "text": "It is frustrating, but there was no leakage of criminal-case information during my time. The Lord Advocate doesn’t routinely attend Cabinet. I went to about one in four Government Cabinet meetings, depending on the agenda, and never attended the separate political meetings."
-        },
-        {
-          "speaker": "Lord Mulholland",
-          "text": "I attended when ministers needed legal advice or guidance about an inquiry. For example, I once challenged an estimate of inquiry costs that I thought was far too low. I also advised ministers on what they could say during live investigations."
+          "text": "When I travelled to Libya to pursue the Lockerbie investigation, the First Minister needed to know where I was in case something happened. That didn’t mean discussing the evidence with him. It’s another example of why the head of prosecutions sometimes needs a direct, confidential conversation with the First Minister.",
+          "evidence": [
+            {
+              "source_turn": 8,
+              "quote": "I went to Tripoli with Robert Mueller to Tripoli two or three months after the fall of Gaddafi; Libya was just coming out of a war."
+            },
+            {
+              "source_turn": 8,
+              "quote": "the First Minister has to know what you are doing because if something happened, it would be worldwide news. You have to be able to have a conversation with the First Minister on Privy Council terms so that he knows what you are doing. I am not discussing the evidence with him, but he needs to know."
+            }
+          ]
         },
         {
           "speaker": "Mr MacDonald",
-          "text": "On balance, should the two roles be split?"
+          "text": "So, on balance, should those two roles be split?",
+          "evidence": [
+            {
+              "source_turn": 16,
+              "quote": "On balance, and based on your experience in the role, should the dual role be split?"
+            }
+          ]
         },
         {
           "speaker": "Lord Mulholland",
-          "text": "No. You would lose the prosecutor’s input into government policy and legislation, and the ability to warn ministers when their public comments could prejudice an inquiry."
+          "text": "No. You’d lose prosecutors’ direct input into new laws and Government decisions, including the ability to warn Ministers quickly not to prejudice a live investigation.",
+          "evidence": [
+            {
+              "source_turn": 17,
+              "quote": "No."
+            },
+            {
+              "source_turn": 19,
+              "quote": "you would not have what I have just described—that input into Government policy and new legislation, or input into Ministers to make sure that they do not say things that are going to prejudice an inquiry."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Recusal and the appearance of a conflict",
-      "takeaway": "Members questioned whether stepping aside from some cases shows a weakness in the dual role; Mulholland said it is a limited safeguard, not proof of interference.",
+      "title": "Independence and its appearance",
+      "takeaway": "Members questioned whether combining the jobs creates conflicts even without interference; Lord Mulholland distinguished that concern from what he experienced.",
       "turns": [
         {
+          "speaker": "Lillian Jones",
+          "text": "What are the risks of giving the same Law Officers both jobs?",
+          "evidence": [
+            {
+              "source_turn": 12,
+              "quote": "what are the main risks or disadvantages that come with the Law Officers having a dual role?"
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Mulholland",
+          "text": "People may suspect political motives. History gives them reason to ask questions: there were political prosecutions centuries ago. But the Scotland Act protects the independence of prosecution and death investigations. In my nine years as a Law Officer, no politician ever asked me to discuss evidence in a live case.",
+          "evidence": [
+            {
+              "source_turn": 13,
+              "quote": "I suppose the risk is that people think you have malign intentions or political intentions."
+            },
+            {
+              "source_turn": 13,
+              "quote": "During the French revolution, there were a lot of political prosecutions for sedition."
+            },
+            {
+              "source_turn": 13,
+              "quote": "the exercise of the retained functions of the Lord Advocate, such as investigations of deaths and prosecutions, are guaranteed to be independent."
+            },
+            {
+              "source_turn": 13,
+              "quote": "I never had one approach by an MSP, MP, Government Minister or First Minister wanting to discuss the evidence in live cases—not once."
+            }
+          ]
+        },
+        {
+          "speaker": "Dave Doogan",
+          "text": "Even if people are entitled to worry about information crossing from prosecutions into politics, is it frustrating when they assume that happens?",
+          "evidence": [
+            {
+              "source_turn": 14,
+              "quote": "People are entitled to their perceptions, but is there a frustration at the perception people have that there is leakage across the information barrier, because that would never happen?"
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Mulholland",
+          "text": "Yes. No information about criminal cases leaked that way during my time. I told Ministers only what I judged they needed to know. I went to roughly one in four Government Cabinet meetings, generally when legal advice or another legal matter was on the agenda. Neither I nor the Solicitor General attended the separate political Cabinet meetings.",
+          "evidence": [
+            {
+              "source_turn": 15,
+              "quote": "There is a frustration, I suppose, that some people do not understand that and some people do not accept it. The reality is that there was no leakage of information in relation to criminal cases during my time as Lord Advocate and Solicitor General. You would tell the First Minister or the Cabinet what they needed to know."
+            },
+            {
+              "source_turn": 15,
+              "quote": "from memory I attended about one in four. That was the Government Cabinet. There were two Cabinets—a Government Cabinet and a political Cabinet."
+            },
+            {
+              "source_turn": 15,
+              "quote": "I never attended any, and the Solicitor General did not attend any, because they were political"
+            },
+            {
+              "source_turn": 15,
+              "quote": "If there was something I had given legal advice on, I would be there to answer any questions about that legal advice. If there was something legal on the Cabinet agenda, I would attend"
+            }
+          ]
+        },
+        {
           "speaker": "Chair",
-          "text": "There are cases where neither the Lord Advocate nor Solicitor General makes the prosecution decision, but one of them may still have to answer questions in Parliament. Could that seem strange to the public?"
+          "text": "If an MSP were suspected of a crime and neither Law Officer made the prosecution decision, could a Law Officer still answer questions about it in Parliament?",
+          "evidence": [
+            {
+              "source_turn": 20,
+              "quote": "there might be occasions when the Lord Advocate, having not been involved in a case because it was not considered appropriate for them to be involved, would still answer questions in the Scottish Parliament about that case?"
+            }
+          ]
         },
         {
           "speaker": "Lord Mulholland",
-          "text": "If a case involves an MSP or MP, the usual practice is for the Law Officers to step aside. An independent Crown Counsel makes the decision instead. A Law Officer may still need a briefing to answer Parliament, including an explanation of why they can’t discuss something."
+          "text": "Yes. The Law Officer answering would need a briefing, even if they hadn’t decided the case. It might simply explain why answering a particular question could harm the proceedings. An independent senior member of Crown Counsel would decide whether to prosecute.",
+          "evidence": [
+            {
+              "source_turn": 21,
+              "quote": "whichever Law Officer is answering questions will need to be briefed. The brief might be why you cannot answer that question, because it may prejudice proceedings or be contrary to the interests of justice."
+            },
+            {
+              "source_turn": 23,
+              "quote": "It would be independent Crown Counsel. A senior member of Crown Counsel would be given the papers to take a decision on the case. They are not a politician or a Law Officer"
+            }
+          ]
         },
         {
           "speaker": "Douglas McAllister",
-          "text": "Isn’t that the difficulty with the dual role? Even if there’s no actual interference, the possibility of a reasonable person suspecting a conflict means the Lord Advocate may have to step aside."
+          "text": "Isn’t that a weakness of the dual role? Even if no one interferes politically, you sometimes step away from decisions because a reasonable person might see a conflict.",
+          "evidence": [
+            {
+              "source_turn": 24,
+              "quote": "Is that not the problem with the dual role? You have given all these examples of where there is a perception of conflict. These other obstacles and barriers are then put in place, which are the various recusals."
+            },
+            {
+              "source_turn": 24,
+              "quote": "It is not that there is actual political interference; it is that the reasonable person test must be considered."
+            }
+          ]
         },
         {
           "speaker": "Lord Mulholland",
-          "text": "I’m aware of the convention applying to cases involving an MSP or MP. In my experience, I never had political interference and never discussed live cases with politicians. In a case involving an MSP, the decision went to independent Crown Counsel."
+          "text": "I understand the concern, but the established practice of stepping aside when an MP or MSP is involved doesn’t prove political interference. In one case involving an MSP, independent Crown Counsel made the decision; I didn’t even know at the time who had made it. I’ve never had a politician interfere in a prosecution decision.",
+          "evidence": [
+            {
+              "source_turn": 25,
+              "quote": "The only recusal that I am aware of was an MSP or MP—there may be others that I have overlooked."
+            },
+            {
+              "source_turn": 25,
+              "quote": "I have never had any political interference in any decision that I have had and have never discussed live cases with any politician."
+            },
+            {
+              "source_turn": 27,
+              "quote": "When it was decision-making time, that was sent to independent Crown Counsel. When that decision was then announced, because live proceedings were taken, I was asked questions about bias. At the time, I did not even know who had taken the decision."
+            }
+          ]
         },
         {
-          "speaker": "Douglas McAllister",
-          "text": "I’m not suggesting you’d interfere. But having to send a case elsewhere to avoid the appearance of a conflict is itself a consequence of combining the roles."
+          "speaker": "Chair",
+          "text": "But might the public still find it strange that you could answer questions about a case you’d deliberately stayed out of?",
+          "evidence": [
+            {
+              "source_turn": 30,
+              "quote": "You may, however, be asked to answer a question about it in Parliament. Does that not give rise to a public perception that something in the nature of this is a wee bit strange and that perhaps these roles need to be split for that reason?"
+            }
+          ]
         },
         {
           "speaker": "Lord Mulholland",
-          "text": "I understand that concern. But a request for a judge to step aside doesn’t mean the judge must do so. I once prosecuted a case where the judge faced such a request and refused it. In another situation, I didn’t believe I needed to step aside, but decided someone else could make the decision."
-        },
-        {
-          "speaker": "Douglas Lumsden",
-          "text": "Are there formal safeguards to prevent political interference?"
-        },
-        {
-          "speaker": "Lord Mulholland",
-          "text": "There are legal protections and established procedures. The Crown Office has experienced staff who brief the Law Officers on what they can and can’t do, especially in high-profile cases. The organisation has a strong culture of independent prosecution decisions."
-        },
-        {
-          "speaker": "Douglas Lumsden",
-          "text": "But things can go wrong. Wouldn’t splitting the roles add oversight?"
-        },
-        {
-          "speaker": "Lord Mulholland",
-          "text": "I’m not sure what that extra oversight would be. The law and existing procedures protect decisions, and I don’t think splitting the roles would necessarily change public perceptions. I wasn’t involved in the Peter Murrell case, but I have no reason to doubt that its decision was made without political interference."
+          "text": "To an extent. But Law Officers already make it clear in their parliamentary answers when independent Crown Counsel, rather than a Law Officer, took the decision.",
+          "evidence": [
+            {
+              "source_turn": 31,
+              "quote": "You may have a point to a certain extent"
+            },
+            {
+              "source_turn": 31,
+              "quote": "it is kind of standard practice for the Law Officer, in answering a question, to make that clear: “Can I just advise you? A decision was not taken by a Law Officer because the convention applies; it was taken by independent Crown Counsel.”"
+            }
+          ]
         }
       ]
     },
     {
-      "title": "What ministers are told",
-      "takeaway": "Mulholland distinguished between alerting ministers to a public-interest issue and giving them details or evidence from a criminal case.",
+      "title": "Contact with Ministers and clearer rules",
+      "takeaway": "Lord Mulholland defended some direct conversations with Ministers, while accepting that written guidance on stepping aside from cases could help the public.",
       "turns": [
         {
           "speaker": "Douglas Lumsden",
-          "text": "Did you ever experience or face an attempt at political interference?"
+          "text": "What actually stops political interference? Would splitting the jobs add oversight when things go wrong?",
+          "evidence": [
+            {
+              "source_turn": 32,
+              "quote": "Are formalised safeguards in place to ensure that there can never be political interference in a case?"
+            },
+            {
+              "source_turn": 34,
+              "quote": "Would it not be better if the dual role was split, so that there was some additional oversight when things aren’t quite going as they should?"
+            }
+          ]
         },
         {
           "speaker": "Lord Mulholland",
-          "text": "No. MSPs asked about the investigation into losses from an RBS share issue. I explained its process and likely timetable, but nobody asked me about the evidence or allegations. I also warned them that public comment could affect the case."
+          "text": "The law protects independent decisions, and experienced Crown Office staff advise Law Officers about what they can say and do. I don’t think splitting the roles would improve perceptions: those legal protections and working practices are already there. I experienced no attempted political interference.",
+          "evidence": [
+            {
+              "source_turn": 33,
+              "quote": "There are statutory provisions that guard against political interference. Of course, the structure of the Crown Office and the private office is set up to apply the legislation."
+            },
+            {
+              "source_turn": 33,
+              "quote": "You will have quite a large team, in Crown Office terms, briefing Lords Advocate as to what they can and cannot say."
+            },
+            {
+              "source_turn": 35,
+              "quote": "Would it improve people’s perceptions? I don’t think so, because the structures and procedures are in place to ensure independence."
+            },
+            {
+              "source_turn": 37,
+              "quote": "Did someone attempt it? No. No, I didn’t experience that."
+            }
+          ]
         },
         {
           "speaker": "Douglas Lumsden",
-          "text": "Were your conversations with the First Minister always formally recorded?"
+          "text": "Were your conversations with the First Minister always formally recorded, or did you also talk by phone?",
+          "evidence": [
+            {
+              "source_turn": 38,
+              "quote": "Is everything on a formal footing? You mentioned that you had to call the First Minister before you made a trip to Libya. Was everything formalised, or would there be a phone call chatting about things that were going on?"
+            }
+          ]
         },
         {
           "speaker": "Lord Mulholland",
-          "text": "No. Sometimes we spoke informally, but not about live cases. Formal requests for legal advice would be put in writing, and the advice would be written too. Before a sensitive trip to Libya, I spoke to the First Minister rather than put details in writing, because I feared a document might leak."
+          "text": "It was a mixture. I sometimes spoke in person or by phone; before Libya, I didn’t want a written note to leak and endanger the trip. We didn’t chat about live cases. When the First Minister sought formal legal advice, the request and my answer would normally be in writing.",
+          "evidence": [
+            {
+              "source_turn": 39,
+              "quote": "that was a phone call or a face-to-face conversation, because I did not want anything in writing before I went, in case it leaked out or got FOI-ed."
+            },
+            {
+              "source_turn": 39,
+              "quote": "It is a mixture. If it is formal, it will be in a minute across to the First Minister’s office. You do chat from time to time about things, not about live cases."
+            },
+            {
+              "source_turn": 39,
+              "quote": "if it is a legal matter, you would expect it in writing, and your answer would be in writing."
+            }
+          ]
+        },
+        {
+          "speaker": "Douglas Lumsden",
+          "text": "Would requiring those conversations to be formally recorded reduce the appearance of a conflict?",
+          "evidence": [
+            {
+              "source_turn": 44,
+              "quote": "Would an improved safeguard be the strengthening of the formal arrangement between the Lord Advocate and the First Minister? We spoke about how sometimes there would be calls and chats that were not minuted"
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Mulholland",
+          "text": "I think that would go too far. After the First Minister publicly criticised judges over a criminal appeal, I went straight to his office and told him not to do it again. I was acting as head of prosecutions, not as his legal adviser. I don’t think I’d have had that quick access if the roles were split.",
+          "evidence": [
+            {
+              "source_turn": 45,
+              "quote": "In my personal opinion, it would be over the top."
+            },
+            {
+              "source_turn": 45,
+              "quote": "I went to the First Minister’s office first thing the next morning and spoke to him. I am paraphrasing, but I read him the riot act and said that he is not going to say that again—he is not going to criticise judges."
+            },
+            {
+              "source_turn": 47,
+              "quote": "When I told him not to say those things, I was going over as the prosecutor because it related to a criminal case. I would not have had that access to the First Minister if the roles were split."
+            }
+          ]
         },
         {
           "speaker": "Lillian Jones",
-          "text": "You were Lord Advocate when Andrew Coulson was prosecuted for perjury. How did you keep that case free from political influence?"
+          "text": "In the Andrew Coulson perjury case, how did you prevent political interference or comments that might prejudice the trial?",
+          "evidence": [
+            {
+              "source_turn": 48,
+              "quote": "What actions or precautions did you take as Lord Advocate to ensure that that criminal case was progressed free from political interference or prejudicial comment?"
+            }
+          ]
         },
         {
           "speaker": "Lord Mulholland",
-          "text": "Crown Counsel made the decision and prosecuted the case. I had no reason to interfere and wasn’t involved in the decision. The trial judge later ruled there was no case to answer under the law on perjury."
-        },
-        {
-          "speaker": "Lord Mulholland",
-          "text": "I also wrote to the Presiding Officer, the Commons Speaker and the Prime Minister because I feared public comments might prejudice the case. I didn’t decide the prosecution, but the warning came from a Law Officer. The letters didn’t discuss the evidence, and there was no public comment."
+          "text": "Crown Counsel made the prosecution decision; I wasn’t involved in it. I did write to senior political and parliamentary figures because I feared public comments could prejudice the case. Those messages contained nothing about the case itself, and there was no public comment.",
+          "evidence": [
+            {
+              "source_turn": 49,
+              "quote": "It was Crown Counsel that took the decision, and I think it was Crown Counsel, as the decision maker, that prosecuted the case."
+            },
+            {
+              "source_turn": 49,
+              "quote": "I just knew that the prosecution was ongoing; I was not involved in the decision making."
+            },
+            {
+              "source_turn": 51,
+              "quote": "Because there was a fear that they would. Of course, it was not the Crown Counsel that would write to the Prime Minister, the First Minister or the Presiding Officer. It had to be a Law Officer—the Lord Advocate."
+            },
+            {
+              "source_turn": 51,
+              "quote": "There was no public comment and justice took its course."
+            },
+            {
+              "source_turn": 53,
+              "quote": "There is nothing about the case in them."
+            }
+          ]
         },
         {
           "speaker": "Douglas Lumsden",
-          "text": "That seems different from the message sent by the current Lord Advocate to the First Minister about the Murrell case, which reportedly included more detail."
+          "text": "Would it help people understand these decisions if the rules for when a Law Officer steps aside from a case were written down?",
+          "evidence": [
+            {
+              "source_turn": 60,
+              "quote": "I am trying to think whether there should be a process that is written down that everyone can see, just for the sake of transparency, so that everyone can tell why that person has recused themselves or why that person has decided they can take part in it."
+            }
+          ]
         },
         {
           "speaker": "Lord Mulholland",
-          "text": "I haven’t researched that case. I understand the decision was made by independent Crown Counsel, but you’d need to ask the current Lord Advocate why she sent the message in those terms."
+          "text": "Yes, that could help. The practice for cases involving MPs and MSPs is unwritten; it might be put into law. Written guidance could also address whether it extends to former politicians or party officials. That’s my personal view, though, and the current Lord Advocate would need to consider it.",
+          "evidence": [
+            {
+              "source_turn": 43,
+              "quote": "The convention—it is unwritten—that Law Officers do not take decisions in criminal cases involving Members of Parliament or Members of the Scottish Parliament could be put in legislation"
+            },
+            {
+              "source_turn": 61,
+              "quote": "It would be helpful for the public if this recusal convention, and when you would recuse yourself, was set down on paper."
+            },
+            {
+              "source_turn": 61,
+              "quote": "Does it apply to former MPs or former MSPs? I think a bit of work should be given to it, but that is just a personal opinion; you would need to ask the current Lord Advocate what they thought about that"
+            }
+          ]
         },
         {
           "speaker": "Chair",
-          "text": "Did you ever tell ministers details such as the amount of money involved or the progress of a live prosecution?"
+          "text": "Did you ever give Ministers details of a criminal case before those details became public?",
+          "evidence": [
+            {
+              "source_turn": 62,
+              "quote": "Would you have disclosed to Scottish Ministers any of the specifics of a criminal case that was going through? That might be the timeline or the amount of money involved in an embezzlement case, for example."
+            },
+            {
+              "source_turn": 64,
+              "quote": "if the information was not public at that point, would that still be something that you would have passed on?"
+            }
+          ]
         },
         {
           "speaker": "Lord Mulholland",
-          "text": "I can think of one case where I told ministers an application was about to be made to reopen the World’s End murder case. That followed a change in the law allowing some acquittals to be reconsidered when new evidence emerged. I didn’t explain the evidence or why it met the test; the application would shortly become public."
+          "text": "I recall one example: after a change in the law on double jeopardy, I formally told the Government that prosecutors were about to ask a court to reopen an acquittal in the World’s End case. I didn’t disclose the evidence or why we’d decided to apply. The application wasn’t public yet, but it was about to be lodged in court.",
+          "evidence": [
+            {
+              "source_turn": 63,
+              "quote": "when we decided that the evidence met the test, I formally advised that an application would be made to the court to set aside the acquittal. I did not go into the evidence, explain why that decision was taken or explain what the new evidence was"
+            },
+            {
+              "source_turn": 65,
+              "quote": "It was not made public at the time that I sent the minute, but it would shortly become public, because the application was about to be lodged with the court."
+            }
+          ]
         },
         {
           "speaker": "Lord Mulholland",
-          "text": "I don’t recall sending ministers a message about the MSP prosecution I mentioned. I answered questions about it in Parliament, but I can’t say for certain whether any update was sent."
+          "text": "For the MSP prosecution I mentioned, I don’t remember sending Ministers a note that a prosecution was coming, and I can’t imagine doing so. I can’t swear no such note was sent.",
+          "evidence": [
+            {
+              "source_turn": 67,
+              "quote": "I do not think I would, to be honest, because it is a prosecution. I cannot swear to it, but I have no memory of a minute on the MSP case that I mentioned being sent across to Bute House to advise that there was to be a live prosecution. I cannot swear to that, but I cannot imagine me doing that."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Making the rules clearer",
-      "takeaway": "Mulholland supported publishing more guidance, especially about when a Law Officer should step aside from a case.",
-      "turns": [
-        {
-          "speaker": "Chair",
-          "text": "The Crown Office recently introduced public statements explaining its practices. Is that new?"
-        },
-        {
-          "speaker": "Lord Mulholland",
-          "text": "It’s a new policy, although prosecution guidance has been published before on particular issues. I support telling the public what factors prosecutors consider, including in cases involving young people or sexual offences."
-        },
-        {
-          "speaker": "Douglas Lumsden",
-          "text": "Would it help to write down the rules for when the Lord Advocate or Solicitor General steps aside?"
-        },
-        {
-          "speaker": "Lord Mulholland",
-          "text": "Yes. The convention is unwritten, and putting it on paper could help the public understand it. It would be worth considering exactly who it covers: sitting MSPs and MPs, former members, or people in other senior political roles. That needs careful thought, and the current Lord Advocate should be asked too."
-        },
-        {
-          "speaker": "Douglas Lumsden",
-          "text": "Would formalising every conversation between the Lord Advocate and First Minister also help?"
-        },
-        {
-          "speaker": "Lord Mulholland",
-          "text": "In my view, that would go too far and could make good government harder. We sometimes need to speak quickly. For instance, after the First Minister criticised a court decision on television, I went to see him and told him not to criticise judges. It helped calm the situation. That conversation concerned prosecution responsibilities, not my role as Government legal adviser."
-        },
-        {
-          "speaker": "Lillian Jones",
-          "text": "If the roles were split, would the Government benefit from having a party-political legal adviser, as happens in the UK and Welsh Governments?"
-        },
-        {
-          "speaker": "Lord Mulholland",
-          "text": "I don’t think so. A lawyer who belongs to the governing party could feel pressure to give advice the Government wants to hear. The Government needs candid advice about whether a plan is legal and, if not, what would need to change. The referendum question showed how important that independence can be."
-        }
-      ]
-    },
-    {
-      "title": "Appointments, duties and workload",
-      "takeaway": "Mulholland favoured politically independent Law Officers, saw value in experience but not a single required career path, and described a demanding office with a broad remit.",
+      "title": "Who should hold the office?",
+      "takeaway": "Lord Mulholland favoured politically independent legal advisers and extensive experience, while accepting questions about how appointments are made.",
       "turns": [
         {
           "speaker": "Lillian Jones",
-          "text": "What are the benefits and drawbacks of appointing a Lord Advocate on a non-political basis?"
+          "text": "Would the Government be better served by legal advisers who openly belonged to a political party?",
+          "evidence": [
+            {
+              "source_turn": 74,
+              "quote": "would the Scottish Government benefit from having party political senior legal advisers as is the norm in the UK and Welsh Governments?"
+            }
+          ]
         },
         {
           "speaker": "Lord Mulholland",
-          "text": "I’ve never made my political views public, and neither Alex Salmond nor Nicola Sturgeon asked me about them. In my view, not belonging to a political party helps protect the independence of the job. If the roles were split and the Government appointed a political legal adviser, the advice might be less candid."
-        },
-        {
-          "speaker": "Lillian Jones",
-          "text": "Should a Lord Advocate be barred from serving as an MSP?"
-        },
-        {
-          "speaker": "Lord Mulholland",
-          "text": "I saw the job as serving both the Scottish Parliament and the UK Parliament. Scotland’s prosecutors also deal with matters such as terrorism, firearms and drugs, which cross the boundaries between devolved and UK responsibilities."
+          "text": "I don’t think so. I’ve never disclosed my political views, and neither First Minister I served asked about them. A political adviser might feel pressure to give the answer the Government wanted. Confidential legal advice should instead say frankly what’s lawful, what isn’t and how a proposal might be made lawful.",
+          "evidence": [
+            {
+              "source_turn": 73,
+              "quote": "The only person who knows my political views is the ballot box. I have never made them known"
+            },
+            {
+              "source_turn": 73,
+              "quote": "Alex Salmond when I was appointed Solicitor General, he did not ask what my political views were or how I voted or anything; Nicola Sturgeon did not ask either."
+            },
+            {
+              "source_turn": 75,
+              "quote": "if you had political legal advisers, then the legal advice that you give could be skewed. You could be trying to please"
+            },
+            {
+              "source_turn": 75,
+              "quote": "You give unvarnished legal advice to the Government of the day as to whether something is legal, and, if it is not, what the considerations are and how it could be made legal."
+            }
+          ]
         },
         {
           "speaker": "Douglas McAllister",
-          "text": "Would a more open, competitive appointment process give the public greater confidence?"
+          "text": "Should appointments be more open and competitive so the public can see how a Lord Advocate is chosen?",
+          "evidence": [
+            {
+              "source_turn": 78,
+              "quote": "If the public are to have confidence in the dual role of the office, should it not be clear and transparent how the role holder is appointed?"
+            },
+            {
+              "source_turn": 80,
+              "quote": "do you not think the public would have more confidence if it was a system of competition, like any other job vacancy, rather than phone calls and meetings in hotels?"
+            }
+          ]
         },
         {
           "speaker": "Lord Mulholland",
-          "text": "You may have a point. I was asked unexpectedly to become Solicitor General after years as a prosecutor and a senior prosecutor in Edinburgh. Later, I was asked to become Lord Advocate. I was interviewed for the first job, but I don’t think there were other candidates."
+          "text": "You may have a point. I was unexpectedly approached about becoming Solicitor General, met Alex Salmond and was offered the job that day. Later, after four years doing that job, I was phoned and asked to become Lord Advocate. Other appointments have involved several candidates and interviews, but I don’t think there were other candidates when I was appointed.",
+          "evidence": [
+            {
+              "source_turn": 79,
+              "quote": "I got a completely unexpected phone call one day from, I think, the Cabinet Secretary for Justice, who asked if I was interested in becoming Solicitor General."
+            },
+            {
+              "source_turn": 79,
+              "quote": "I then went to the Caledonian hotel in Edinburgh, where I met Alex Salmond. We had a chat of about half an hour."
+            },
+            {
+              "source_turn": 79,
+              "quote": "I got a phone call later that day saying, “We are happy to appoint you Solicitor General.”"
+            },
+            {
+              "source_turn": 79,
+              "quote": "I got a phone call a few days into the new Government to ask whether I would be Lord Advocate."
+            },
+            {
+              "source_turn": 79,
+              "quote": "with successive Lords Advocate, there has been a process involving interviews and there have been a number of candidates, but that did not apply to me."
+            },
+            {
+              "source_turn": 81,
+              "quote": "You may have a point—I do not know."
+            },
+            {
+              "source_turn": 81,
+              "quote": "I do not think there were any other candidates."
+            }
+          ]
         },
         {
           "speaker": "Douglas McAllister",
-          "text": "Should the appointee have to be a career prosecutor?"
+          "text": "Must the Lord Advocate have spent their career prosecuting cases?",
+          "evidence": [
+            {
+              "source_turn": 84,
+              "quote": "Do you think the appointment should be made among career prosecutors such as yourself?"
+            }
+          ]
         },
         {
           "speaker": "Lord Mulholland",
-          "text": "No. Experience helps, but the role needs hard work, sound judgment and strong principles; there isn’t only one suitable career path. As Lord Advocate, I set up a unit to review unsolved murders. I’d been shocked to learn there were more than 500 unsolved homicides, and I hoped success would mean solving even one. The work has since led to several cases being resolved."
-        },
-        {
-          "speaker": "Douglas McAllister",
-          "text": "Should the Lord Advocate normally serve for no more than five years?"
-        },
-        {
-          "speaker": "Lord Mulholland",
-          "text": "I stepped down after nine years because the work was taking a toll on my health. It was an exceptionally demanding job, especially through the referendum and major events such as the Clutha crash and terrorist investigations."
-        },
-        {
-          "speaker": "Douglas McAllister",
-          "text": "Would the job be healthier without the dual role?"
-        },
-        {
-          "speaker": "Lord Mulholland",
-          "text": "I don’t agree, but the decision is for Parliament. I’m giving you my experience, not speaking for the courts."
+          "text": "No, though experience helps. My own prosecution work showed me the need for a unit to reopen unsolved cases, which I set up as Lord Advocate. But the job doesn’t require a career prosecutor: it requires hard work, sound judgment, principles and a determination to improve things.",
+          "evidence": [
+            {
+              "source_turn": 85,
+              "quote": "Experience helps in doing that job. It is a hell of a job."
+            },
+            {
+              "source_turn": 87,
+              "quote": "I set up the cold case unit in 2011 when I became Lord Advocate, because from my time as a frontline prosecutor, I knew the importance of that."
+            },
+            {
+              "source_turn": 87,
+              "quote": "does the person need to be a prosecutor?—no, they do not. It requires hard work, intellect, principles and a determination to make things better."
+            }
+          ]
         },
         {
           "speaker": "Chair",
-          "text": "Would the job be harder without a Solicitor General to help?"
+          "text": "How important is it that the Lord Advocate has a Solicitor General who can act for them?",
+          "evidence": [
+            {
+              "source_turn": 95,
+              "quote": "would the system have been more difficult if the person who is Lord Advocate did not have a formal deputy with full legal powers to act on their behalf"
+            },
+            {
+              "source_turn": 97,
+              "quote": "if you didn’t have a Solicitor General, your role would be that much harder."
+            }
+          ]
         },
         {
           "speaker": "Lord Mulholland",
-          "text": "Yes. The Solicitor General can act when the Lord Advocate is away and can help prepare someone for the top job. I sometimes made around 50 important decisions in a day. The Lord Advocate also has wider duties, including protecting the public interest, giving prosecution guidance and setting priorities—for example, my guidance called for knife possession in public to be prosecuted except in very unusual circumstances. I believe homicide numbers later fell substantially, though I can’t attribute that change to one measure alone."
+          "text": "You need one. The Solicitor General can act for the Lord Advocate when they’re away and can also gain experience for the top job. I think there should be at least one other Law Officer.",
+          "evidence": [
+            {
+              "source_turn": 96,
+              "quote": "When I was out of the country, the Solicitor General would effectively act as the Lord Advocate."
+            },
+            {
+              "source_turn": 98,
+              "quote": "You need a Solicitor General. The other thing about a Solicitor General is that if they want to step up to become a Lord Advocate, it is a good way to train the next Lord Advocate."
+            },
+            {
+              "source_turn": 98,
+              "quote": "I certainly think that you need another Law Officer at least."
+            }
+          ]
         }
       ]
     }

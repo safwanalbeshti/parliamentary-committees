@@ -1,0 +1,790 @@
+{
+  "schema_version": 1,
+  "source_id": 18334,
+  "source_sha256": "8dfc62fdabac320a255e69be5b8062af6042576058e7f6910c7d9fcabeee1f08",
+  "title": "Leaving hospital without a home",
+  "label": "18 November 2026 · Health and homelessness",
+  "summary": "The committee examined how hospitals identify patients without a safe home, what happens when those patients leave, and whether specialist teams and places to recover could prevent discharge to the street. Witnesses described effective local services but inconsistent recording, scarce recovery accommodation and insecure funding. Ministers accepted that the data is incomplete and promised to check local practice, but did not commit to a deadline for ending discharge to the street.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Layla Moran",
+      "role": "Chair of the Health and Social Care Committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Alex Bax",
+      "name": "Alex Bax",
+      "role": "Chief Executive, Pathway",
+      "kind": "witness"
+    },
+    {
+      "label": "Peter Moore",
+      "name": "Peter Moore",
+      "role": "Programme Manager, Oxfordshire Health and Homelessness Inclusion Team, Oxford City Council",
+      "kind": "witness"
+    },
+    {
+      "label": "Edward Redshaw",
+      "name": "Edward Redshaw",
+      "role": "Homeless Health Lead and Consultant, Imperial College Healthcare NHS Trust",
+      "kind": "witness"
+    },
+    {
+      "label": "Andrew George",
+      "name": "Andrew George",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Andrew Cooper",
+      "name": "Andrew Cooper",
+      "role": "Housing, Communities and Local Government Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Alison McGovern",
+      "name": "Alison McGovern",
+      "role": "Minister for Social Care and Mental Health, Department of Health and Social Care",
+      "kind": "witness"
+    },
+    {
+      "label": "Natasha Burgon",
+      "name": "Natasha Burgon",
+      "role": "Director of Health Improvement, Department of Health and Social Care",
+      "kind": "witness"
+    },
+    {
+      "label": "Catherine Bennion",
+      "name": "Catherine Bennion",
+      "role": "Director, Homelessness and Rough Sleeping, Ministry of Housing, Communities and Local Government",
+      "kind": "witness"
+    },
+    {
+      "label": "Lesley Watts",
+      "name": "Lesley Watts",
+      "role": "Regional Director for London, NHS England",
+      "kind": "witness"
+    },
+    {
+      "label": "Danny Beales",
+      "name": "Danny Beales",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Sadik Al-Hassan",
+      "name": "Sadik Al-Hassan",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Ben Coleman",
+      "name": "Ben Coleman",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "duty to refer",
+      "definition": "A legal requirement for specified public services to notify a council when someone may need homelessness help."
+    },
+    {
+      "term": "duty to collaborate",
+      "definition": "A proposed legal requirement for specified organisations to work together on preventing and responding to homelessness."
+    },
+    {
+      "term": "intermediate care",
+      "definition": "Short-term accommodation and support where someone can recover after hospital instead of remaining in a ward or returning to the street."
+    },
+    {
+      "term": "Better Care Fund",
+      "definition": "Funding intended to help the NHS and councils arrange health and care services together."
+    },
+    {
+      "term": "NICE guidance",
+      "definition": "Recommendations on health and care practice from the National Institute for Health and Care Excellence."
+    },
+    {
+      "term": "ICBs",
+      "definition": "Integrated care boards: local NHS organisations that plan services and decide how much NHS funding to spend on them."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The missing picture",
+      "takeaway": "Hospitals don't consistently record patients' housing situations, so the scale of discharge into homelessness remains uncertain.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Some hospitals don't routinely record whether a patient is homeless. Why isn't there a consistent way to do this?",
+          "evidence": [
+            {
+              "source_turn": 5,
+              "quote": "31 trusts use address records such as no fixed abode, but six trusts say homelessness is not routinely recorded at all. Alex, what is going on?"
+            }
+          ]
+        },
+        {
+          "speaker": "Alex Bax",
+          "text": "The NHS has agreed categories, including people sleeping rough or staying on someone else's sofa. But staff aren't routinely trained or prompted to use them, and filling them in isn't compulsory. Asking can also feel difficult: a clinician may worry about what help they can offer, while a patient may not want to discuss insecure housing in public.",
+          "evidence": [
+            {
+              "source_turn": 8,
+              "quote": "They are things like “rough sleeper”, “sofa surfer”, and so on."
+            },
+            {
+              "source_turn": 8,
+              "quote": "They are in the background, but they are not highlighted to frontline staff. They are not trained on them, so people do not use them."
+            },
+            {
+              "source_turn": 8,
+              "quote": "It is not mandatory."
+            },
+            {
+              "source_turn": 10,
+              "quote": "From the patient perspective, being asked about my housing status in public, when it may be insecure or when I do not know what is going to happen, may again cause me to feel nervous, particularly if I am in a public space."
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "Estimates of discharge into homelessness differ enormously. Do we have a reliable number?",
+          "evidence": [
+            {
+              "source_turn": 11,
+              "quote": "The range is quite extraordinary: there are numbers from 100 a month from the Government to 10,000 a year."
+            }
+          ]
+        },
+        {
+          "speaker": "Alex Bax",
+          "text": "No. A Salvation Army information request found 10,000 discharges to the street, but that misses people sent to other unstable or unsuitable accommodation. We don't know the true number.",
+          "evidence": [
+            {
+              "source_turn": 12,
+              "quote": "In a true sense, we do not know. We do not have good data on it. I think you are referring to the Salvation Army, which has done an FOI recently that found 10,000 discharges to the street."
+            },
+            {
+              "source_turn": 12,
+              "quote": "Many patients would be discharged into other forms of homelessness, such as chronically insecure or inappropriate accommodation that is highly likely to break down. That 10,000 number is plainly an underestimate."
+            }
+          ]
+        },
+        {
+          "speaker": "Peter Moore",
+          "text": "In Oxfordshire, I've seen far fewer people discharged directly to rough sleeping over the past five years. But discharge into other kinds of homelessness, and the demands that puts on councils, haven't fallen in the same way.",
+          "evidence": [
+            {
+              "source_turn": 14,
+              "quote": "What I have seen, certainly in the last five years since the out-of-hospital programme, is a great reduction in discharge to rough sleeping but, as Alex was saying, discharge to all types of homelessness and the homelessness duties that local authorities are picking up are reasonably stable."
+            }
+          ]
+        },
+        {
+          "speaker": "Edward Redshaw",
+          "text": "At Imperial, we put homelessness in the patient's coded medical record, rather than only in a written note. That means it can appear in hospital data and be passed to the GP. But we have to keep teaching new ward doctors to record it.",
+          "evidence": [
+            {
+              "source_turn": 28,
+              "quote": "The model that we have introduced at Imperial is that homelessness is coded as a diagnosis problem. On A&E and discharge summaries, it is one of the diagnoses that is there, which then follows through into the GP record as well."
+            },
+            {
+              "source_turn": 28,
+              "quote": "It is a continual, educational process in the hospital to make sure that that goal is maintained."
+            },
+            {
+              "source_turn": 28,
+              "quote": "often things are put in free text that then are not coded and do not come under the data."
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew George",
+          "text": "Do hospitals find out what happens to people after they leave, not just where they're going on discharge?",
+          "evidence": [
+            {
+              "source_turn": 30,
+              "quote": "In other words, in the weeks or months after discharge, for those who were experiencing rough sleeping, do we know whether the hospital episode might have helped to correct the rough sleeping lifestyle that patients experienced beforehand?"
+            }
+          ]
+        },
+        {
+          "speaker": "Edward Redshaw",
+          "text": "Our team records patients' housing situations when they're admitted and when they leave, but we don't have long-term follow-up data.",
+          "evidence": [
+            {
+              "source_turn": 31,
+              "quote": "In our data, we record the circumstances of people’s housing situations at admission and at discharge for all the patients who come under our team. We will not have the long-term follow-up in our data."
+            }
+          ]
+        },
+        {
+          "speaker": "Alex Bax",
+          "text": "A Pathway study did follow patients for six months. Those who received both ordinary hospital care and help from a specialist homelessness team had better housing circumstances than those who received ordinary care alone. But many people in the comparison group couldn't be traced, which makes following outcomes difficult.",
+          "evidence": [
+            {
+              "source_turn": 35,
+              "quote": "Our own randomised controlled trial of the Pathway hospital team followed patients up for six months and found that patients who were attended by the hospital staff plus a Pathway team were in a much better housing circumstance six months post discharge than the patients who just got standard care."
+            },
+            {
+              "source_turn": 35,
+              "quote": "many of the patients in the non-intervention arm of that study were untraceable, could not be found"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Getting someone safely out of hospital",
+      "takeaway": "Specialist staff can start planning early, but housing shortages, unclear responsibilities and services that close at weekends make safe discharge harder.",
+      "turns": [
+        {
+          "speaker": "Andrew George",
+          "text": "What actually happens when a patient without a safe place to live comes into hospital?",
+          "evidence": [
+            {
+              "source_turn": 36,
+              "quote": "Can you just talk us through the discharge pathway, or rather the pathway of the patient once they are admitted to the hospital? What happens?"
+            }
+          ]
+        },
+        {
+          "speaker": "Edward Redshaw",
+          "text": "Ward staff need to spot the housing problem and refer the patient to us as early as possible. We assess their needs and housing history. Often we then send a duty to refer notice to the council, starting an application for homelessness help. In London that usually leads to some emergency accommodation, but the process takes time.",
+          "evidence": [
+            {
+              "source_turn": 37,
+              "quote": "Our team in the hospital relies on the ward teams in hospital to identify homelessness."
+            },
+            {
+              "source_turn": 37,
+              "quote": "We need to be referred the patient as soon as possible on admission, because the work starts right at the beginning of the admission."
+            },
+            {
+              "source_turn": 39,
+              "quote": "we complete a comprehensive assessment of the patient, detail all the needs, their situation and their previous housing history"
+            },
+            {
+              "source_turn": 39,
+              "quote": "Often, the next step is a duty to refer sent to their local authority, which starts the homelessness application with their local authority. That process takes time. In our situation in London, it usually leads to some form of emergency accommodation being provided by the council."
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Cooper",
+          "text": "If hospitals don't routinely identify homelessness, how can they reliably meet their duty to refer people to councils?",
+          "evidence": [
+            {
+              "source_turn": 41,
+              "quote": "You were saying earlier that a hospital is not necessarily systematically recording whether someone is homeless when they are admitted. In your view, how can the hospital possibly be complying with the duty to refer if they are not recording that information?"
+            }
+          ]
+        },
+        {
+          "speaker": "Alex Bax",
+          "text": "Teams like Edward's aren't typical. Without people focused on this work, identifying homelessness and referring patients to councils happens inconsistently. But giving hospitals a legal duty to prevent homelessness would be difficult: they can't themselves provide the housing, and could fail because a council failed.",
+          "evidence": [
+            {
+              "source_turn": 47,
+              "quote": "teams such as Ed’s are exceptional. We have helped create 20 of them, but there are large numbers of hospitals where I would say that you are absolutely right: the hospitals do not do this routinely."
+            },
+            {
+              "source_turn": 49,
+              "quote": "they do not have the power in terms of providing accommodation, which is fundamentally one of the problems of homelessness. It would be difficult to impose that on the NHS per se."
+            },
+            {
+              "source_turn": 49,
+              "quote": "they would fail to meet their duty if the local authority was failing to meet its duty"
+            }
+          ]
+        },
+        {
+          "speaker": "Peter Moore",
+          "text": "In Oxfordshire, hospitals and housing services are trying a shared commitment not to discharge anyone to the street. We measure whether we meet it and hold ourselves accountable, though it isn't a legal duty.",
+          "evidence": [
+            {
+              "source_turn": 52,
+              "quote": "we are developing a suite of performance measures and KPIs that we hold ourselves accountable to through the prevention of homelessness directors group, and one of those is that hospitals and housing commit together to no discharge to street, and that is measured and they are held accountable to it. It is not a duty as such, but it is acting as if there is one. We are trialling that."
+            }
+          ]
+        },
+        {
+          "speaker": "Alex Bax",
+          "text": "NICE guidance recommends specialist hospital teams and intermediate care—somewhere to recover after hospital. Simply telling services again to follow that guidance won't make it happen everywhere. They need practical support, funding and checks that services keep running.",
+          "evidence": [
+            {
+              "source_turn": 62,
+              "quote": "The NICE guidance is very clear that two things—specialist teams in hospitals and intermediate care—would make a huge step towards dealing with this problem from the hospital perspective."
+            },
+            {
+              "source_turn": 62,
+              "quote": "Telling the system to implement more guidance that has already been issued is not enough."
+            },
+            {
+              "source_turn": 68,
+              "quote": "You need to support the system to implement the guidance, which may need money, leadership and so on to actually make it happen in systems."
+            },
+            {
+              "source_turn": 68,
+              "quote": "having some kind of monitoring and accountability so that services do not decay one or two years in"
+            }
+          ]
+        },
+        {
+          "speaker": "Edward Redshaw",
+          "text": "Our patients come from many London boroughs. We work well with nearby councils, but it's harder to get a response from boroughs farther away. When our team and other services aren't available at weekends, patients can end up staying in hospital until help can be arranged.",
+          "evidence": [
+            {
+              "source_turn": 96,
+              "quote": "We have patients at Imperial from many London boroughs. We have good connections with the boroughs that are most local to the hospital, but to further forge the relationships for patients in the outer London boroughs is difficult."
+            },
+            {
+              "source_turn": 98,
+              "quote": "the outcome of the lack of weekend services from our team is that people stay in hospital over the weekend"
+            }
+          ]
+        },
+        {
+          "speaker": "Alex Bax",
+          "text": "Some patients may qualify for social care, but staff can get stuck establishing which council is responsible for their housing before arranging that care. For patients thought to be unable to claim public funds, specialist legal advice can clarify whether they actually have rights to help.",
+          "evidence": [
+            {
+              "source_turn": 106,
+              "quote": "You sometimes cannot get the social care package until you have determined which local authority owes them a housing duty, because they may have been moving around, so you are into these endless bureaucratic cycles between housing departments and social care departments"
+            },
+            {
+              "source_turn": 113,
+              "quote": "many of that group do actually have recourse when you look at their circumstances."
+            },
+            {
+              "source_turn": 119,
+              "quote": "trying, again, to get access to specialist immigration and legal advice for teams such as Ed’s."
+            },
+            {
+              "source_turn": 119,
+              "quote": "Where they have recourse and you can establish it, that is also extremely helpful."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "A place to recover—and how to pay for it",
+      "takeaway": "Recovery accommodation and specialist teams can help, but provision varies sharply and short funding agreements make services fragile.",
+      "turns": [
+        {
+          "speaker": "Andrew Cooper",
+          "text": "How much intermediate care—short-term accommodation and support after hospital—is available where you work?",
+          "evidence": [
+            {
+              "source_turn": 127,
+              "quote": "How much intermediary care space for people experiencing or at risk of homelessness is needed to meet demand in your areas?"
+            }
+          ]
+        },
+        {
+          "speaker": "Peter Moore",
+          "text": "Oxfordshire has 36 beds, not far off the number we need. But some properties don't meet patients' mobility needs, and we're seeing more older people who need substantial support. We'd benefit from more suitable places and better coverage across the county.",
+          "evidence": [
+            {
+              "source_turn": 128,
+              "quote": "We are very lucky to have 36 beds in Oxfordshire, a majority in Oxford city but some in the north of the county. That is not far off the number we need."
+            },
+            {
+              "source_turn": 128,
+              "quote": "the suitability of properties for people’s needs—for example, mobility needs. We are also increasingly getting referrals for people who are much older, with quite high support needs around medication"
+            },
+            {
+              "source_turn": 128,
+              "quote": "Maybe we need more disbursement around the county and more specialists"
+            }
+          ]
+        },
+        {
+          "speaker": "Peter Moore",
+          "text": "During a stay, people can get help from nurses, social workers and mental health staff. For someone who's spent years living outside, it may be the first real chance to recover and help decide what they need next. The plan is made with them, not simply for them.",
+          "evidence": [
+            {
+              "source_turn": 131,
+              "quote": "We have social workers, psychologists, a mental health practitioner, OTs and a physical health nurse."
+            },
+            {
+              "source_turn": 131,
+              "quote": "maybe spending 40 years in a tent on a roundabout. That stay in step-down is the first time that they have caught their breath, in a way, and that someone has been able to ask them, “What do you want? What do you need?”, and co-create that plan together."
+            },
+            {
+              "source_turn": 131,
+              "quote": "working directly with the clients, so it is not done to them"
+            }
+          ]
+        },
+        {
+          "speaker": "Edward Redshaw",
+          "text": "Our Imperial team has virtually no such accommodation. Even six or 12 beds would make a big difference for patients whose needs are too complex for the other options we can arrange.",
+          "evidence": [
+            {
+              "source_turn": 129,
+              "quote": "We have virtually none for the Imperial team. Even a small unit would make a big difference."
+            },
+            {
+              "source_turn": 129,
+              "quote": "For the most complex cases where we do not have any other suitable options through the pathways we talked about before, that is where it would allow a huge level of follow-up and impact. We are not talking about huge units, but a six or 12-bed unit would be fantastic for our team"
+            }
+          ]
+        },
+        {
+          "speaker": "Alex Bax",
+          "text": "Oxfordshire is unusual. Most specialist hospital teams don't have recovery accommodation to send people to. The evidence supports combining hospital teams with intermediate care, but those places aren't widely funded.",
+          "evidence": [
+            {
+              "source_turn": 133,
+              "quote": "We know that having the team in the hospital plus intermediate care gets very much better outcomes for this patient group."
+            },
+            {
+              "source_turn": 133,
+              "quote": "intermediate care for this population in Oxfordshire is a huge bright spark, but it is generally pretty much known for its absence. Most of the teams are in Ed’s position in that there is no specialist provision. It is not widely commissioned."
+            }
+          ]
+        },
+        {
+          "speaker": "Alex Bax",
+          "text": "Funding is often agreed for only a year or less. Some NHS teams don't yet have a salary budget from next April, so staff are looking elsewhere. NICE guidance calls for contracts lasting at least five years: patients need trusted, continuing relationships, and teams need time to build local knowledge.",
+          "evidence": [
+            {
+              "source_turn": 78,
+              "quote": "the main problem for the services we support in our network is short-term funding."
+            },
+            {
+              "source_turn": 78,
+              "quote": "From 31 March next year, they have no salary budget in prospect, so staff are beginning to look for other jobs."
+            },
+            {
+              "source_turn": 82,
+              "quote": "The funding is sometimes a year; sometimes it is less than that"
+            },
+            {
+              "source_turn": 84,
+              "quote": "Please can we see minimum-term five-year contracts for services in this space"
+            },
+            {
+              "source_turn": 84,
+              "quote": "Trusting relationships are at the heart of good homeless care."
+            }
+          ]
+        },
+        {
+          "speaker": "Edward Redshaw",
+          "text": "We lost two workers while waiting to find out whether our own funding would continue. It has now been extended to 2029, but we've only just got back to a full team.",
+          "evidence": [
+            {
+              "source_turn": 83,
+              "quote": "We were very fortunate to have our funding extended to 2029 at the end of March this year, but we lost two of our workers during that period before that was confirmed, because of uncertainties and needing to leave. We have only just now rebuilt our team to be fully staffed"
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Cooper",
+          "text": "If these services save money, does the saving go to the organisation paying for them?",
+          "evidence": [
+            {
+              "source_turn": 137,
+              "quote": "Do you have any data, perhaps from Oxfordshire or perhaps from elsewhere where you do not have this in place, that demonstrates the efficacy of this approach with respect to cost savings?"
+            }
+          ]
+        },
+        {
+          "speaker": "Alex Bax",
+          "text": "The benefits are spread around. Our estimate is that a specialist hospital team costs roughly £350,000 but saves its hospital about £1.5 million net through fewer later admissions and hospital days. Adding accommodation for recovery increases the benefits. I think health services could pay for the health-led parts and housing services for the housing-led parts.",
+          "evidence": [
+            {
+              "source_turn": 142,
+              "quote": "It is a bit of a spread of benefits."
+            },
+            {
+              "source_turn": 144,
+              "quote": "A Pathway team in a hospital costs on average perhaps £350,000, but saves that hospital perhaps net £1.5 million in terms of avoided future admissions and bed days liberated from not having homeless patients in them."
+            },
+            {
+              "source_turn": 144,
+              "quote": "When you add step-down, those benefits multiply."
+            },
+            {
+              "source_turn": 144,
+              "quote": "you could therefore argue that the health service should commission the kinds of services that are health-led, and then housing should come in and commission those services that are more housing-led."
+            }
+          ]
+        },
+        {
+          "speaker": "Peter Moore",
+          "text": "I'd be careful about calling every improvement a cash saving. Avoiding some expensive placements saves money outright; in other cases, the same funding lets services do more. Oxfordshire gets about £2 million a year mainly from the Better Care Fund, with roughly £1.3 million spent on accommodation and support after hospital.",
+          "evidence": [
+            {
+              "source_turn": 147,
+              "quote": "I am a bit wary of that. When I mentioned having to provide data every year, there are absolutely cost savings. There are out-of-county mental health beds that have to be used; if we can reduce or eliminate the use of that, that is actual money you are not spending. Otherwise, there is an awful lot more efficiency and, as Alex was saying, re-allocatable money. Your money can go further."
+            },
+            {
+              "source_turn": 150,
+              "quote": "We receive about £2 million per year from the better care fund and a tiny bit more from other sources. About £1.3 million of that goes to our step services."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Promises, checks and a disputed deadline",
+      "takeaway": "Officials promised closer checks and joint working, while committee members pressed for reliable figures, clear funding and a dated goal for ending discharge to the street.",
+      "turns": [
+        {
+          "speaker": "Alison McGovern",
+          "text": "Our figures give only part of the picture. About 106 people recorded sleeping rough had left hospital in the previous 85 days, while about 111 patients a day were waiting to leave hospital because housing was an issue. We don't know enough about what happened between hospital and the street, and women affected by rough sleeping are undercounted.",
+          "evidence": [
+            {
+              "source_turn": 168,
+              "quote": "in the latest rough sleeping data, about 106 people left hospital in the past 85 days. That gives us a partial indication of the level of the problem."
+            },
+            {
+              "source_turn": 170,
+              "quote": "we have about 111 patients per day awaiting discharge where housing is an issue."
+            },
+            {
+              "source_turn": 170,
+              "quote": "We obviously know that we undercount women who are affected by this"
+            }
+          ]
+        },
+        {
+          "speaker": "Danny Beales",
+          "text": "If hospitals don't consistently record homelessness, how much confidence can we have in the figure for patients delayed by housing problems? And how can local NHS organisations decide whether to invest in specialist teams?",
+          "evidence": [
+            {
+              "source_turn": 199,
+              "quote": "It is the routine recording of that that is in question, which leads to the robustness of that data. How many trusts are routinely collecting that data?"
+            },
+            {
+              "source_turn": 213,
+              "quote": "If we are not confident about what the size of the issue is, or what the cost of this patient population might be, that might affect those investment decisions. Is that fair to say?"
+            }
+          ]
+        },
+        {
+          "speaker": "Natasha Burgon",
+          "text": "The hospital figure records people whose discharge is delayed, but it depends on staff correctly recording housing as the reason. The rough-sleeping figures tell us who has been on the street after leaving hospital, not whether they were first placed somewhere unsuitable. We're checking recording in the areas with the highest rough-sleeping rates and trying to connect the two sets of figures.",
+          "evidence": [
+            {
+              "source_turn": 198,
+              "quote": "What we do not know is the specifics—and this came up in the previous panel—around whether someone was initially discharged into some sort of accommodation and, for whatever reason, that was not suitable and they left it"
+            },
+            {
+              "source_turn": 198,
+              "quote": "We are quite confident in the hospital data, which is measuring why people are in hospital, even though they no longer have an acute health need and are, therefore, a delayed discharge. That data is there, but it is reliant on how well people are recording the housing status within that figure"
+            },
+            {
+              "source_turn": 178,
+              "quote": "because we need the two datasets to talk to each other."
+            },
+            {
+              "source_turn": 200,
+              "quote": "part of the assurance with the top 20 is to look at this data issue"
+            }
+          ]
+        },
+        {
+          "speaker": "Lesley Watts",
+          "text": "I can see how many patients in my hospitals have homelessness recorded as delaying discharge. But I wouldn't assume every hospital chief executive knows that number, and mental health units don't record it in the same way. We need to test whether services are counting consistently.",
+          "evidence": [
+            {
+              "source_turn": 204,
+              "quote": "could I see, in my hospitals, how many people are recorded as homeless on discharge, or the delays because they have nowhere to go? Yes, I can see that."
+            },
+            {
+              "source_turn": 206,
+              "quote": "No. It is a fair challenge."
+            },
+            {
+              "source_turn": 209,
+              "quote": "it is not captured in the same way from our mental health units."
+            }
+          ]
+        },
+        {
+          "speaker": "Natasha Burgon",
+          "text": "Health and housing ministers have asked the NHS and councils in the areas with the most rough sleeping to identify people early, name people responsible and show how they arrange accommodation. Reports are coming back. We know there's plenty of guidance; now we need to check whether it is being followed and decide what help is needed.",
+          "evidence": [
+            {
+              "source_turn": 178,
+              "quote": "the Secretary of State, with the Housing Secretary, wrote out to the top ICBs and corresponding upper-tier local authorities that have the highest rates of rough sleeping."
+            },
+            {
+              "source_turn": 219,
+              "quote": "we have done a lot of guidance and are quite confident that the guidance is right."
+            },
+            {
+              "source_turn": 219,
+              "quote": "What we now want to do is move into slightly more assertive, robust assurance of whether that guidance is there. We are getting the first round of those assurance reports at the end of this week"
+            },
+            {
+              "source_turn": 242,
+              "quote": "systems can identify people early, provide a clear hospital to housing pathway, name operational leads, secure appropriate accommodation, and escalate risk."
+            }
+          ]
+        },
+        {
+          "speaker": "Danny Beales",
+          "text": "Will those checks establish whether hospitals are meeting their existing duty to refer patients for homelessness help?",
+          "evidence": [
+            {
+              "source_turn": 225,
+              "quote": "Will this provide assurance about the level of application of that statutory duty?"
+            }
+          ]
+        },
+        {
+          "speaker": "Natasha Burgon",
+          "text": "That isn't one of the specific questions in these reports. I can't say whether it's checked elsewhere.",
+          "evidence": [
+            {
+              "source_turn": 226,
+              "quote": "It is not one of the specific areas that we call out in the assurance report."
+            },
+            {
+              "source_turn": 232,
+              "quote": "I cannot say for sure that we do not have assurance on that elsewhere, but it was not one of the key areas that the Secretaries of State called out in their letter."
+            }
+          ]
+        },
+        {
+          "speaker": "Catherine Bennion",
+          "text": "Councils tell us referrals often arrive only when someone is already in crisis, and practice varies. The proposed duty to collaborate is intended to get organisations working together earlier, so they can try to prevent homelessness rather than only respond after it happens.",
+          "evidence": [
+            {
+              "source_turn": 231,
+              "quote": "The feedback that we get is that the duty to refer at the moment works and is used more often only in crisis point. At times, those notifications come through too late."
+            },
+            {
+              "source_turn": 231,
+              "quote": "there is, of course, variable practice"
+            },
+            {
+              "source_turn": 346,
+              "quote": "The duty to collaborate will focus on prevention alongside supporting people who have become homeless or who are at risk of homelessness."
+            }
+          ]
+        },
+        {
+          "speaker": "Sadik Al-Hassan",
+          "text": "Many people experiencing homelessness need help with both mental health and substance use. How will your promise that people won't be turned away from one service because they also need the other work in practice?",
+          "evidence": [
+            {
+              "source_turn": 259,
+              "quote": "Those experiencing homelessness often have co-occurring mental health and substance needs. A 2025 survey put the figure at around 75%."
+            },
+            {
+              "source_turn": 259,
+              "quote": "The guidance that you published last week committed to a “no wrong door” approach to these services, so nobody being turned away from other services. How will you seek to achieve this, particularly for people experiencing homelessness?"
+            }
+          ]
+        },
+        {
+          "speaker": "Alison McGovern",
+          "text": "Staff need to understand how to help rather than tell someone, “I can’t help you”. Our forthcoming mental health strategy will address more continuous help in communities, so people are less likely to reach a crisis.",
+          "evidence": [
+            {
+              "source_turn": 260,
+              "quote": "everybody within the system understanding enough about how they can help so that people do not experience what has been all too common, which is being told, when someone has a problem, “I can’t help you,”"
+            },
+            {
+              "source_turn": 260,
+              "quote": "The mental health strategy, which will be published soon but is not published now, will try to adopt this approach."
+            },
+            {
+              "source_turn": 260,
+              "quote": "how people can get better continuous help, so that they are less likely to get to a crisis point"
+            }
+          ]
+        },
+        {
+          "speaker": "Ben Coleman",
+          "text": "If the forthcoming Better Care Fund rules encourage more spending on homelessness, will there be extra money? Councils already struggle to pay for other care and hospital discharge.",
+          "evidence": [
+            {
+              "source_turn": 285,
+              "quote": "If there is going to be guidance or more emphasis given on using the better care fund for homelessness, which affects mostly, though not entirely, younger people—those under the age of 65—is there going to be more funding to come with that?"
+            },
+            {
+              "source_turn": 323,
+              "quote": "whether the challenge lies in the fact that there may be a misunderstanding by the different parties of how to use the better care fund, or simply that there is not the funding in the better care fund to support people who are homeless, without taking away from adult social care?"
+            }
+          ]
+        },
+        {
+          "speaker": "Alison McGovern",
+          "text": "The fund's new rules haven't been published, so I can't give their detail yet. Councils really are under financial pressure, including from adult social care. Decisions about additional funding belong to the spending review; we're also looking at how existing resources can be used more effectively.",
+          "evidence": [
+            {
+              "source_turn": 281,
+              "quote": "We have new guidance coming out quite shortly."
+            },
+            {
+              "source_turn": 281,
+              "quote": "There is a limit to what I can say at this point, but I will write to the Committee, once we have published it, with a bit more detail on that."
+            },
+            {
+              "source_turn": 290,
+              "quote": "Any questions about funding will be a matter for the spending review and other things."
+            },
+            {
+              "source_turn": 324,
+              "quote": "Are councils really struggling with funding? Yes. Is some of that driven by adult social care? Yes, absolutely."
+            },
+            {
+              "source_turn": 292,
+              "quote": "What we are trying to do is put in place models of care now that will be more efficient and a more productive use of the money that we have"
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "The guidance already says no one eligible for homelessness services should leave hospital for the street. If that's the goal, why won't you set a deadline or an interim reduction target?",
+          "evidence": [
+            {
+              "source_turn": 359,
+              "quote": "The guidance in section 3.4.2 says that no one eligible for homelessness services will be discharged to the street, so there already is a target. The target, in effect, is zero."
+            },
+            {
+              "source_turn": 359,
+              "quote": "Therefore, what is the issue with setting a timebound target and then, arguably, interim targets within that?"
+            }
+          ]
+        },
+        {
+          "speaker": "Alison McGovern",
+          "text": "I agree with the goal of no discharge to the street. But that's different from saying no one should have to wait in hospital because they lack housing. Clinicians and social workers must still judge whether an individual has somewhere safe to go; I don't want an arbitrary deadline to distort those decisions. I'll write to the committee about whether and how to set a public, time-bound target.",
+          "evidence": [
+            {
+              "source_turn": 360,
+              "quote": "Yes, I absolutely agree with that."
+            },
+            {
+              "source_turn": 362,
+              "quote": "there is no discharge to the street, which is what we set in the plan, and that is our goal. Also, overall, we want to reduce the number of people who have no criteria to reside. That might lead you to think that we want nobody waiting for discharge because of homelessness, which is a slightly different thing."
+            },
+            {
+              "source_turn": 184,
+              "quote": "there has to be a balance-of-risk judgment made by clinicians and social workers."
+            },
+            {
+              "source_turn": 184,
+              "quote": "I worry about an arbitrary target that would not help people make that judgment with the person who is in front of them."
+            },
+            {
+              "source_turn": 364,
+              "quote": "Let me come back to you with what the right way would be to approach a public target on that."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

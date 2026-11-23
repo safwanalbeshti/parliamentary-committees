@@ -2,14 +2,14 @@
   "schema_version": 1,
   "source_id": 18308,
   "source_sha256": "dd67843a8f60c18052f46310373a82c3320522a28f52a6d41c3d02f230083440",
-  "title": "NHS restructuring: savings, services and local relationships",
-  "label": "16 November 2026 · NHS restructuring",
-  "summary": "The Committee examined the reorganisation of Integrated Care Boards (ICBs), which plan and fund NHS services locally, including the aim of cutting their running costs by 43% and reducing their workforce. NHS England said the changes should remove duplicated work, clarify responsibilities and help ICBs focus on choosing services that best meet local needs. Members challenged whether savings and promised improvements can be demonstrated without losing important skills, weakening patient services or damaging relationships with councils and general practice. Officials said most restructuring was complete and remained under review, but acknowledged disruption and promised further information on costs, staffing and ICB plans. The Committee remained concerned that the financial and service effects, and the future shape of local partnerships, were not yet clear.",
+  "title": "Can smaller NHS planning bodies still do the job?",
+  "label": "16 November 2026 · NHS local planning cuts",
+  "summary": "The committee examined deep staffing cuts and changes to the NHS bodies that plan local services. Officials said the changes would save money, remove duplicated work and let those bodies focus on choosing services that improve health. Members pressed them on whether essential skills, patient services and relationships with councils would suffer. NHS leaders acknowledged that the process had been disruptive and said they would provide further evidence on savings, staffing and results.",
   "speakers": [
     {
       "label": "Chair",
       "name": "Sir Geoffrey Clifton-Brown",
-      "role": "Chair of the Public Accounts Committee",
+      "role": "Chair of the committee",
       "kind": "chair"
     },
     {
@@ -27,13 +27,13 @@
     {
       "label": "Jan Thomas",
       "name": "Jan Thomas",
-      "role": "Executive Director for System Development, NHS England",
+      "role": "Executive Director for System Development, NHS England, and an ICB chief executive",
       "kind": "witness"
     },
     {
       "label": "Elizabeth O’Mahony",
       "name": "Elizabeth O’Mahony",
-      "role": "Director General, Finance, Department of Health and Social Care",
+      "role": "Director General, Finance, Department of Health and Social Care, and Chief Financial Officer, NHS England",
       "kind": "witness"
     },
     {
@@ -75,388 +75,934 @@
   ],
   "glossary": [
     {
-      "term": "ICBs",
-      "definition": "Integrated Care Boards: local NHS organisations that plan and pay for health services for their populations."
+      "term": "ICB",
+      "definition": "An integrated care board is an NHS body that plans and pays for health services for a local population."
     },
     {
       "term": "NHS England",
-      "definition": "The national body that oversees and supports the NHS in England."
-    },
-    {
-      "term": "strategic commissioning",
-      "definition": "Deciding which services and support to fund, based on what will most improve health for local people."
+      "definition": "The national body that oversees the NHS in England; the government plans to abolish it and move most of its work into a department."
     },
     {
       "term": "special health authority",
-      "definition": "A temporary NHS organisation set up to carry out particular functions."
+      "definition": "A separate NHS organisation; the proposed temporary authority would hold regional NHS functions during the changes."
     },
     {
-      "term": "provider collaboratives",
-      "definition": "Groups of organisations that deliver NHS care and work together to plan or improve services."
+      "term": "strategic commissioning",
+      "definition": "Deciding which health services to fund by comparing a population’s needs and the likely benefits of different choices."
     },
     {
-      "term": "SEND",
-      "definition": "Support for children and young people with special educational needs and disabilities."
+      "term": "continuing healthcare",
+      "definition": "NHS-funded care for some adults with substantial ongoing health needs, sometimes provided outside hospital."
     },
     {
-      "term": "oversight framework",
-      "definition": "The measures and checks used by NHS England to monitor how local NHS organisations are performing."
+      "term": "safeguarding",
+      "definition": "Work to protect children or vulnerable adults from abuse, neglect or other harm."
+    },
+    {
+      "term": "mayoral strategic authority",
+      "definition": "An area-wide authority led by a mayor that coordinates decisions across several local areas."
+    },
+    {
+      "term": "provider",
+      "definition": "An organisation that delivers care, such as a hospital trust or a primary care service."
     }
   ],
   "chapters": [
     {
-      "title": "Why restructure, and what should it achieve?",
-      "takeaway": "Officials argued that reducing duplicated management should free money and attention for patient care, but members wanted evidence of lasting benefits.",
+      "title": "Why change the system?",
+      "takeaway": "Leaders said they needed to cut costs and clarify decisions, but members questioned the disruption and the shape of the new national arrangements.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "ICBs plan and fund NHS services for local populations. They were responsible for £171 billion of NHS spending in 2025-26. NHS England wants them to cut running costs by 43%, saving £908 million a year, which is expected to mean about 8,000 fewer posts."
-        },
-        {
-          "speaker": "Chair",
-          "text": "The question is whether these changes will improve care, not simply cut administration. Can you update us on the estimated cost of the wider reorganisation?"
+          "text": "ICBs plan and fund local NHS services. The target is to cut their costs by 43%, saving £908 million a year, with roughly 8,000 fewer posts. We need to know whether they can still do their jobs—and whether patients benefit, rather than just the administrative budget.",
+          "evidence": [
+            {
+              "source_turn": 1,
+              "quote": "integrated care boards, which plan and fund the NHS services for their local populations."
+            },
+            {
+              "source_turn": 1,
+              "quote": "NHS England has set targets for the ICBs to cut costs by 43%, saving £908 million a year. It is estimated that achieving that will require about 8,000 fewer posts"
+            },
+            {
+              "source_turn": 1,
+              "quote": "Above all, we want to know how the Government will demonstrate that the changes improve outcomes for patients, rather than simply reducing administrative costs."
+            }
+          ]
         },
         {
           "speaker": "Samantha Jones",
-          "text": "The estimated cost of reducing staff at the centre is about £1 billion to £1.3 billion, depending partly on individual circumstances. We remain on track to make £1 billion of savings over this Parliament."
+          "text": "Separately, we estimate that reducing staff at the centre will cost about £1 billion to £1.3 billion. The final cost depends partly on the people who leave. We expect it to produce £1 billion in savings over this Parliament.",
+          "evidence": [
+            {
+              "source_turn": 10,
+              "quote": "the overall estimated cost of reducing the number of people working in the centre is approximately £1 billion to £1.3 billion."
+            },
+            {
+              "source_turn": 10,
+              "quote": "the actual final cost, but we are on track to deliver £1 billion-worth of savings over this Parliament."
+            }
+          ]
         },
         {
           "speaker": "Anna Dixon",
-          "text": "What will local people gain from the ICB changes? There is concern that this is mainly about cutting jobs and costs."
-        },
-        {
-          "speaker": "Sir Jim Mackey",
-          "text": "The financial pressure was real, but it wasn't the only reason. Responsibilities had become confusing, with several levels sometimes overseeing the same work. Providers told us the system was complicated and unbalanced."
-        },
-        {
-          "speaker": "Sir Jim Mackey",
-          "text": "We wanted clearer decisions and a system that could improve services faster. ICB leaders now tell us the painful changes have helped them focus on choosing where money will do the most good. They say they're beginning to see improvements, though we still need to test that."
-        },
-        {
-          "speaker": "Jan Thomas",
-          "text": "The aim of strategic commissioning is to ask, 'If we have limited money, where should we spend it next to improve health?' That means looking at people's needs and preventing illness from getting worse, not just funding a service because someone can show it works."
-        },
-        {
-          "speaker": "Anna Dixon",
-          "text": "That sounds like work ICBs should always have been doing. What is genuinely different now?"
-        },
-        {
-          "speaker": "Jan Thomas",
-          "text": "We hadn't been doing it well enough. ICBs are now working together on five measures, including emergency visits, outpatient referrals and access to same-day urgent care. The idea is to learn and act together, rather than relying on scattered local efforts."
-        },
-        {
-          "speaker": "Sir Jim Mackey",
-          "text": "We also wanted ICBs to focus on commissioning rather than trying to manage every provider's performance themselves. Other parts of the NHS already did some of that work."
-        }
-      ]
-    },
-    {
-      "title": "Job cuts, skills and the cost of change",
-      "takeaway": "Officials said the cuts were aimed at management and duplicated tasks, but the Committee demanded clarity about lost skills, redundancy costs and whether patient services were affected.",
-      "turns": [
-        {
-          "speaker": "Al Carns",
-          "text": "About 3,000 ICB staff had left through redundancy by June. Are you tracking which grades and skills are going, and checking that the cuts aren't producing harmful gaps?"
-        },
-        {
-          "speaker": "Sir Jim Mackey",
-          "text": "We have asked ICB leaders whether their new organisations have the skills to do the job, rather than just whether they have met a headcount target. Some have identified gaps or said staff need to be moved between teams. This is still work in progress."
-        },
-        {
-          "speaker": "Elizabeth O’Mahony",
-          "text": "By August, about 8,000 people had left: around 4,200 through voluntary redundancy, 230 through compulsory redundancy, and about 3,000 through other routes such as taking another job or leaving a vacancy unfilled. ICB boards have reviewed staffing and whether important skills are being kept."
-        },
-        {
-          "speaker": "Mr Betts",
-          "text": "It sounds hard to tell patients that cutting thousands of staff will improve their care. Were these people doing work that mattered?"
-        },
-        {
-          "speaker": "Sir Jim Mackey",
-          "text": "We targeted work away from staff providing direct care. Those affected were often doing support work, but that doesn't mean it had no value."
-        },
-        {
-          "speaker": "Elizabeth O’Mahony",
-          "text": "Some work, especially monitoring provider performance, was being repeated at ICB, regional and national levels. The amount spent on ICB administration varied widely, without a clear link to better patient outcomes."
-        },
-        {
-          "speaker": "Jan Thomas",
-          "text": "Some hands-on responsibilities, such as safeguarding, medicines support and care for people with complex needs, have been protected. For service redesign, we want clinicians and the organisations running services to lead more of the work, rather than having ICB teams try to organise it for them."
-        },
-        {
-          "speaker": "Mr Betts",
-          "text": "But are providers taking on extra work, or were they doing it already?"
-        },
-        {
-          "speaker": "Sir Jim Mackey",
-          "text": "Mostly they were already involved, sometimes through joint working groups. We believe the people delivering care are better placed to change how care is organised. We are trying to remove duplication, not simply shift work without a plan."
-        },
-        {
-          "speaker": "Chair",
-          "text": "The report says £582 million was recorded for redundancy costs up to March. If that figure rose in line with the number of people leaving, it could exceed the expected savings. Please send us a clear breakdown that reconciles the dates, costs and projected savings, including what happens if someone takes another NHS job soon after leaving."
-        },
-        {
-          "speaker": "Elizabeth O’Mahony",
-          "text": "That figure includes estimates for people who hadn't yet left, including pension costs, and the figures cover different periods. A table will help explain how they fit together."
-        }
-      ]
-    },
-    {
-      "title": "Measuring progress and protecting statutory services",
-      "takeaway": "NHS England said ICBs report against performance and cost measures, but members questioned whether those checks will reveal harm early enough.",
-      "turns": [
-        {
-          "speaker": "Anna Dixon",
-          "text": "A collection of success stories isn't enough. How will you measure whether the reorganisation improves services as a whole?"
-        },
-        {
-          "speaker": "Jan Thomas",
-          "text": "We're refining a national set of 38 measures, covering areas such as health inequalities and use of services. ICBs are also working together on five measures, including emergency visits, outpatient referrals, hospital stays for people over 65, children's dentistry and same-day urgent care."
-        },
-        {
-          "speaker": "Anna Dixon",
-          "text": "Those sound like targets for managing services, rather than measures of better health or reduced inequality."
-        },
-        {
-          "speaker": "Jan Thomas",
-          "text": "We use them as warning signs. If people keep needing emergency care, it may show that support in the community isn't working well enough. The aim is to spot that and improve the whole system, not just spend more on one service."
-        },
-        {
-          "speaker": "Tristan Osborne",
-          "text": "The report says some ICBs thought the changes would make it harder to meet duties such as safeguarding, care assessments and support for children with additional needs. What assurance can you give patients?"
-        },
-        {
-          "speaker": "Jan Thomas",
-          "text": "During the restructure there was disruption, including staff leaving and teams being rebuilt. ICBs have since worked to put people in the right roles, particularly for safeguarding and care for people with the greatest needs. Their boards remain responsible for meeting those duties."
-        },
-        {
-          "speaker": "Anna Dixon",
-          "text": "How will you check for delays in these services, such as decisions about care or education support?"
-        },
-        {
-          "speaker": "Jan Thomas",
-          "text": "Each ICB board monitors its services, including how quickly continuing-care decisions are made. Regional colleagues challenge an ICB if its results worsen, and ask what it will do to improve."
-        },
-        {
-          "speaker": "Tristan Osborne",
-          "text": "Will you repeat the survey of ICBs' concerns in six months and share the results?"
-        },
-        {
-          "speaker": "Sir Jim Mackey",
-          "text": "We'll use a wider review of the changes rather than create several separate exercises. The process was rushed and at times chaotic: we didn't have all the approvals, funding arrangements and communications ready in advance. Staff faced a lot of uncertainty."
-        },
-        {
-          "speaker": "Sir Jim Mackey",
-          "text": "The situation has improved in recent months, but we should not pretend the change was painless. We will review whether the new arrangements work and keep watching for problems."
-        }
-      ]
-    },
-    {
-      "title": "Are the savings and new structures secure?",
-      "takeaway": "Officials said most ICBs had confirmed their plans and were close to their cost targets, while acknowledging that the Committee had not received all the evidence it sought.",
-      "turns": [
-        {
-          "speaker": "Tristan Osborne",
-          "text": "There are now 25 ICBs, but the report describes slow progress and incomplete information. Have all of them confirmed the structures they plan to use?"
-        },
-        {
-          "speaker": "Jan Thomas",
-          "text": "Each has gone through a review with regional NHS colleagues, who checked whether it could carry out its responsibilities. We have details of their plans."
-        },
-        {
-          "speaker": "Tristan Osborne",
-          "text": "Have you received future projections of redundancies from each one?"
-        },
-        {
-          "speaker": "Elizabeth O’Mahony",
-          "text": "We don't collect those projections. ICBs tell us whether they expect to stay within their running-cost budgets and meet their responsibilities. Across the programme, 7,753 people had left against an overall target of about 8,000, and we don't expect a large new round of redundancies."
-        },
-        {
-          "speaker": "Sir Jim Mackey",
-          "text": "If an ICB planned a major further change involving hundreds of job losses, we would expect its leaders to tell us through the regional system. We would work with them on it."
-        },
-        {
-          "speaker": "Chair",
-          "text": "One ICB was late to complete its changes, and another is still aiming to meet its running-cost target by year-end. Do all ICBs now assure you they can do the job effectively?"
-        },
-        {
-          "speaker": "Elizabeth O’Mahony",
-          "text": "The late case was a London ICB that joined a group later than others. It says it will meet its costs by year-end. We'll check progress again during the year and step in if it looks likely to miss."
-        },
-        {
-          "speaker": "Sir Jim Mackey",
-          "text": "We believe the ICBs can meet their budgets and responsibilities. Their total running costs had grown from about £1 billion to £2.2 billion within a few years, which we considered unsustainable. Boards must now show they can spend within their reduced budgets."
-        },
-        {
-          "speaker": "Chair",
-          "text": "How will you stop staff numbers and costs creeping back up, and ensure ICBs haven't lost critical skills?"
-        },
-        {
-          "speaker": "Sir Jim Mackey",
-          "text": "We will review budgets, plans and results regularly, and check whether boards can still carry out their duties. But local boards are responsible for keeping the right skills and using money wisely; national checks can't replace that responsibility."
-        },
-        {
-          "speaker": "Tristan Osborne",
-          "text": "Please send us a table showing each ICB's plan, its confidence in meeting the cost target, and whether its structure is in place."
-        },
-        {
-          "speaker": "Sir Jim Mackey",
-          "text": "We can provide that, along with the information the Chair requested on redundancy costs and savings."
-        }
-      ]
-    },
-    {
-      "title": "Working with councils, clinicians and local areas",
-      "takeaway": "Officials said partnership work should continue through local teams and care providers, but members raised concerns that fewer named contacts could weaken established relationships.",
-      "turns": [
-        {
-          "speaker": "Mr Betts",
-          "text": "Local authorities and the NHS have a long history of planning services together. Are councils concerned that cuts have left them with nobody in ICBs to work with?"
-        },
-        {
-          "speaker": "Sir Jim Mackey",
-          "text": "Some places have lost small teams that worked closely with councils, and people are still adjusting to new contacts. There are still staff responsible for working with councils, but the arrangements are different."
-        },
-        {
-          "speaker": "Jan Thomas",
-          "text": "Some work is now done across a larger area to save money, but local teams still need to plan with each council. In my area, for example, we worked on separate plans with each of seven local authorities, rather than imposing one plan on all of them."
-        },
-        {
-          "speaker": "Mr Betts",
-          "text": "Have social care and public health leaders told you that the NHS is pushing work onto them?"
-        },
-        {
-          "speaker": "Sir Jim Mackey",
-          "text": "I haven't received complaints saying that services have been disabled. Council leaders initially had concerns because a key partner was changing, but in our latest discussion they said things were starting to settle."
-        },
-        {
-          "speaker": "Mr Betts",
-          "text": "We have heard that local authorities are struggling to get enough ICB staff involved in safeguarding."
-        },
-        {
-          "speaker": "Jan Thomas",
-          "text": "ICBs have a legal duty to work with councils and police on safeguarding. The change meant people had to rebuild working relationships, but boards still have to make sure the duty is met."
-        },
-        {
-          "speaker": "Sir Jim Mackey",
-          "text": "No specific safeguarding problem has been raised with us recently. These arrangements involve several agencies, so if they weren't working, we would expect to hear about it quickly."
-        },
-        {
-          "speaker": "Mr Betts",
-          "text": "The Royal College of GPs says clinical leadership has been lost. Have ICBs lost the direct input of GPs and other clinicians?"
-        },
-        {
-          "speaker": "Jan Thomas",
-          "text": "ICBs aren't organised like the earlier GP-led groups, but clinical advice is still part of their work. They also draw on doctors, nurses, GPs, pharmacists and other clinicians through care providers, local networks and joint working groups."
-        },
-        {
-          "speaker": "Anna Dixon",
-          "text": "General practices have also reported problems with their IT support, delayed payments and not knowing who to contact."
-        },
-        {
-          "speaker": "Jan Thomas",
-          "text": "Experiences vary, and I would like details so we can follow up. Support for GP computer systems has been particularly difficult during the changes to other NHS support organisations. That's different from the way ICBs work with GPs on everyday services."
-        },
-        {
-          "speaker": "Anna Dixon",
-          "text": "If joint working happens outside ICBs, how will you make sure hospitals don't dominate and that primary and community care have a strong voice?"
-        },
-        {
-          "speaker": "Sir Jim Mackey",
-          "text": "That's a real risk. Better links between general practice and hospitals are essential, and leaders must treat working with councils and primary care as part of their job. We need to share examples of what works and involve primary-care leaders."
-        },
-        {
-          "speaker": "Chair",
-          "text": "People have built up knowledge and relationships across health services, councils and community groups. How do you preserve that if the staff who held those relationships leave?"
-        },
-        {
-          "speaker": "Sir Jim Mackey",
-          "text": "Those relationships shouldn't have to run through the ICB's formal structure. Clinicians, councils and services can work through local teams, neighbourhood arrangements or groups of care providers. But we need to make sure those links continue in practice."
-        }
-      ]
-    },
-    {
-      "title": "National changes, devolution and next steps",
-      "takeaway": "The future division of responsibilities remains unsettled as NHS England is absorbed into the Department and local boundaries are reorganised.",
-      "turns": [
-        {
-          "speaker": "Anna Dixon",
-          "text": "NHS England is due to be abolished and most of its staff and functions transferred to the Department of Health and Social Care. How will you address differences in pay for people doing similar work?"
+          "text": "When NHS England was created, some people moved from the department to NHS England to do the same work for more pay. How will you deal with different pay for people doing comparable jobs when the organisations come back together?",
+          "evidence": [
+            {
+              "source_turn": 14,
+              "quote": "Back in 2013, there were analysts who left the Department of Health and went to NHS England; they were doing the same work but getting paid more."
+            },
+            {
+              "source_turn": 14,
+              "quote": "there remain people doing the same job, at the same grade, but on very different pay. Is this how you are solving the problem?"
+            }
+          ]
         },
         {
           "speaker": "Samantha Jones",
-          "text": "The Secretary of State has proposed a temporary NHS body for regional functions, so staff who support local NHS delivery remain within the health service. Pay arrangements for people moving between organisations are still being discussed with unions."
+          "text": "Subject to Parliament passing the Bill, NHS England will be abolished on or after 1 April next year. Most staff and functions will move into the department. Regional NHS work would sit in a temporary special health authority. How staff terms will work is still being discussed with unions.",
+          "evidence": [
+            {
+              "source_turn": 13,
+              "quote": "subject to the passage of the Bill, NHS England will be abolished on or after 1 April next year, and the vast majority of NHS England’s functions and staff will transfer to the new Department of Health and Social Care."
+            },
+            {
+              "source_turn": 13,
+              "quote": "there will be a transitional special health authority, which will be hosted within the Department of Health and Social Care and headed by an NHS chief executive and will house the regional functions of the NHS."
+            },
+            {
+              "source_turn": 13,
+              "quote": "some of this is still subject to negotiation with the unions and to final confirmation"
+            }
+          ]
         },
         {
           "speaker": "Sir Jim Mackey",
-          "text": "There will be a process to bring pay arrangements closer together, agreed with unions. Comparing salary figures alone can be misleading because pensions and other terms also differ."
+          "text": "We’ll agree an approach to pay through the unions. Headline salaries don’t tell the whole story: pensions and other terms matter too, so the differences may be smaller than they appear.",
+          "evidence": [
+            {
+              "source_turn": 15,
+              "quote": "there will be an approach to pay harmonisation for colleagues moving into the Department. That will be agreed through the unions, through a proper process, so we cannot get into that today."
+            },
+            {
+              "source_turn": 15,
+              "quote": "Pension contributions and other things need to be taken into account as well, so the disparities are not as big as they at first look"
+            }
+          ]
         },
         {
           "speaker": "Rachel Gilmour",
-          "text": "How do we know this temporary body won't simply add another layer of bureaucracy?"
+          "text": "Is the new special health authority simply another layer of administration between the NHS chief executive and the health service?",
+          "evidence": [
+            {
+              "source_turn": 23,
+              "quote": "To what extent is the new special health authority just a new layer of bureaucracy between the chief executive of the NHS and the rest of the health service?"
+            }
+          ]
         },
         {
           "speaker": "Sir Jim Mackey",
-          "text": "It is meant to be temporary and to keep regional staff focused on supporting local NHS services while we work out how health services fit with devolution. We decided against making regions separate permanent organisations because that could add complexity."
-        },
+          "text": "I understand the concern. We chose not to make regions separate permanent legal bodies because there are already too many organisations. The authority is meant to keep regional staff connected to the NHS while we work out how NHS responsibilities fit with councils and wider local changes. It’s temporary, but there’s no fixed end date.",
+          "evidence": [
+            {
+              "source_turn": 24,
+              "quote": "there is quite a strong view that things were not perfect in 2012, which I mentioned, and since then we have got very complicated."
+            },
+            {
+              "source_turn": 24,
+              "quote": "while we work all that out over the next couple of years with other parts of Government, special authorities are by definition time-limited, which is why it is determined as transitional."
+            },
+            {
+              "source_turn": 24,
+              "quote": "we have had too many bodies and too much complexity. If this is about trying to simplify, we should not do that."
+            },
+            {
+              "source_turn": 28,
+              "quote": "None of us can or want to put a specific time limit on it"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "What should ICBs do?",
+      "takeaway": "Officials want ICBs to focus on choosing services for local needs, while members challenged whether cutting support roles would really help patients.",
+      "turns": [
         {
-          "speaker": "Mr Betts",
-          "text": "How long will the temporary body last? Could its staff eventually move into mayoral authorities?"
+          "speaker": "Anna Dixon",
+          "text": "What will local people actually gain from the ICB changes? And what do you mean by strategic commissioning?",
+          "evidence": [
+            {
+              "source_turn": 36,
+              "quote": "Can you balance that out by telling us what the benefits are expected to be for local populations when this ICB restructuring finally completes, and perhaps explain what is meant by “strategic commissioning”?"
+            }
+          ]
         },
         {
           "speaker": "Sir Jim Mackey",
-          "text": "We can't give a fixed end date. It will need to last long enough to align responsibilities with local government and mayoral areas, which could take years. Some work might move to local authorities, ICBs or providers, depending on what works best."
-        },
-        {
-          "speaker": "Matt Turmaine",
-          "text": "The Government wants ICB boundaries to match mayoral areas by 2028. Is that achievable alongside local-government reform?"
-        },
-        {
-          "speaker": "Samantha Jones",
-          "text": "That is the timetable set by the Prime Minister and Secretary of State. We need to understand the final boundaries and how the arrangements will work."
-        },
-        {
-          "speaker": "Chair",
-          "text": "My area was merged before we knew which mayoral area it might join. Could that mean another reorganisation?"
+          "text": "Saving money was one reason: we faced a large deficit. But decisions were also confused, with too many people involved. ICB leaders told me the year had been painful, but they now felt better able to concentrate on choosing services. They’re beginning to see results, though I can send examples rather than claim the work is finished.",
+          "evidence": [
+            {
+              "source_turn": 37,
+              "quote": "There was a financial imperative; we were facing a really big deficit last year."
+            },
+            {
+              "source_turn": 37,
+              "quote": "Confusion over decision making was also a very live factor—whose job was it to make certain decisions?"
+            },
+            {
+              "source_turn": 37,
+              "quote": "They were unanimously positive about that fact that it was painful—it was a very difficult year that nobody would want to do again—but it has clarified things and allowed them to focus more on strategic commissioning"
+            },
+            {
+              "source_turn": 37,
+              "quote": "I have been deluged since with examples of, “We have done this. We have achieved that”, which I can share with you at some point."
+            }
+          ]
         },
         {
           "speaker": "Jan Thomas",
-          "text": "Possibly, but we have paused some full legal mergers while boundaries are uncertain. ICBs can work as a group under one leadership team without closing the existing legal organisations. That gives us more room to adjust later."
-        },
-        {
-          "speaker": "Samantha Jones",
-          "text": "There is a risk that some boundaries will need to change. We are trying to limit further disruption while still making services as local as possible."
-        },
-        {
-          "speaker": "Chair",
-          "text": "Will rural ICBs receive extra support because delivering healthcare over long distances costs more?"
-        },
-        {
-          "speaker": "Elizabeth O’Mahony",
-          "text": "The £19.60 per person target is for ICB running costs, not the cost of delivering healthcare. The money for care is allocated separately, using a formula that takes account of factors including rurality, age and deprivation."
-        },
-        {
-          "speaker": "Mr Betts",
-          "text": "Knowing how difficult the process was, would you still have reorganised the NHS in this way?"
-        },
-        {
-          "speaker": "Sir Jim Mackey",
-          "text": "Yes. I believed responsibilities had become confusing, duplicated and too expensive. But we should have communicated better and had approvals and redundancy arrangements ready before the changes began. The uncertainty was extremely difficult for staff."
+          "text": "For me, strategic commissioning means asking not just whether a proposed service is useful, but whether it’s the best use of the next pound we have. That means looking at people’s needs and deciding where spending could prevent health problems from getting worse.",
+          "evidence": [
+            {
+              "source_turn": 38,
+              "quote": "The question we needed to ask was, “If I only had £1, where would I spend it next?” and not, “Can you prove that, if I give you £1, you will spend it well?”"
+            },
+            {
+              "source_turn": 38,
+              "quote": "we want to be able to avoid that, so what are we doing to avoid that risk?"
+            }
+          ]
         },
         {
           "speaker": "Anna Dixon",
-          "text": "What worries you most now, and has the reorganisation distracted staff from preparing for winter?"
+          "text": "But looking at local needs and making the best use of the money was already supposed to be an ICB’s job. Why has it taken another restructuring to do it?",
+          "evidence": [
+            {
+              "source_turn": 39,
+              "quote": "Why has it taken reinventing something in 2026 to get ICBs to do something that should always have been their thing—to look at the population and use the money they are allocated to maximise the health outcomes for that population?"
+            }
+          ]
+        },
+        {
+          "speaker": "Jan Thomas",
+          "text": "Saying it was our job didn’t mean we had the skills to do it well enough. We’re putting in a programme to develop those skills. The 25 ICB leadership groups have also agreed to track common measures, including emergency department use and first outpatient appointments, so we can see whether choices make a difference.",
+          "evidence": [
+            {
+              "source_turn": 40,
+              "quote": "There is a skills and capabilities gap that we are now addressing to make sure we are now actually able to do things we talked about in the past, with things like the strategic commissioning development programme we are putting in place."
+            },
+            {
+              "source_turn": 40,
+              "quote": "we have 25 ICBs really committed to how we will hit different metrics to demonstrate change."
+            },
+            {
+              "source_turn": 42,
+              "quote": "reducing the amount of first out-patient appointments and the utilisation of ED."
+            }
+          ]
+        },
+        {
+          "speaker": "Mr Betts",
+          "text": "You’re telling patients that removing all these staff will give them a better service. If those staff were doing useful work, won’t something be lost?",
+          "evidence": [
+            {
+              "source_turn": 54,
+              "quote": "We are saying to patients, “We’re going to get rid of all these staff and give you a better service.” It doesn’t feel quite right, does it?"
+            },
+            {
+              "source_turn": 61,
+              "quote": "You said no, so that means there must be some benefit or services being lost, doesn’t it?"
+            }
+          ]
         },
         {
           "speaker": "Sir Jim Mackey",
-          "text": "The NHS still isn't meeting the standards patients deserve; having people treated in corridors is unacceptable. Change has been a distraction, but I don't think it explains the current pressure on urgent care. Demand has risen, and there have also been difficult weather and infrastructure problems."
+          "text": "We aimed to protect staff who care for patients directly and make savings in other parts of the NHS. Those other jobs did provide support. But some work was being done at several levels—for example, monitoring how a struggling provider was performing—so we’re trying to remove that overlap.",
+          "evidence": [
+            {
+              "source_turn": 55,
+              "quote": "we were trying to protect staff who were dealing very directly with patients every day and caring for them."
+            },
+            {
+              "source_turn": 60,
+              "quote": "they were providing support services."
+            },
+            {
+              "source_turn": 78,
+              "quote": "If you had a provider in trouble, the ICB would have had a performance layer at region and then often at national as well. What we are trying to say is, “Let’s just thin this out and release the cash.”"
+            }
+          ]
         },
         {
-          "speaker": "Samantha Jones",
-          "text": "Winter support depends on the NHS, social care and local government working together. Their work through the reorganisation and through winter is a joint effort."
+          "speaker": "Jan Thomas",
+          "text": "Some ICB jobs involve patients directly, including continuing healthcare and safeguarding, and we’ve protected those functions substantially. A bigger change is in redesigning services: the clinicians and organisations delivering care should take more of that work, rather than ICB staff trying to direct it from outside.",
+          "evidence": [
+            {
+              "source_turn": 64,
+              "quote": "Continuing healthcare, for example, is very hands-on, with clinicians making sure that we are following the framework."
+            },
+            {
+              "source_turn": 64,
+              "quote": "our medicines optimisation, safeguarding and SEND functions have been protected a lot through this process"
+            },
+            {
+              "source_turn": 66,
+              "quote": "The biggest change has been on service redesign. We had lots of staff doing service redesign. What we want to do is move that, with the providers working together and using their clinicians and teams to do that."
+            }
+          ]
+        },
+        {
+          "speaker": "Sir Jim Mackey",
+          "text": "The organisations delivering care were largely doing that redesign already, alone or together. ICBs were involved too. We think the care organisations can take it forward because their clinical staff work where the changes need to happen. But whether local partners still have the right personal contacts is work in progress.",
+          "evidence": [
+            {
+              "source_turn": 74,
+              "quote": "They were largely doing it anyway, either themselves or through provider collaboratives."
+            },
+            {
+              "source_turn": 74,
+              "quote": "We took the view that providers, with appropriate direction, could get on and do that because they owned the clinical staff."
+            },
+            {
+              "source_turn": 80,
+              "quote": "maybe there was not enough of a personal relationship with other partners in place. It is a work in progress."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Staff cuts and evidence of results",
+      "takeaway": "Members sought clearer figures on departures, future costs and patient benefits than officials could provide during the hearing.",
+      "turns": [
+        {
+          "speaker": "Al Carns",
+          "text": "Are you tracking which grades of staff are leaving? A cuts target could leave ICBs with the wrong mix of people and skills.",
+          "evidence": [
+            {
+              "source_turn": 45,
+              "quote": "Are you keeping a tally or track of what grade those redundancies are coming in at? Is it driving any perverse behaviours in the redundancy and efficiency model?"
+            },
+            {
+              "source_turn": 48,
+              "quote": "it is less to do with the finances and more to do with whether it is driving perverse behaviours within the ICBs, and whether it is replacing the right grades, and upskilling and downskilling, as required."
+            }
+          ]
+        },
+        {
+          "speaker": "Elizabeth O’Mahony",
+          "text": "By August, about 8,000 posts had gone or been left vacant: around 4,200 voluntary redundancies, about 230 compulsory redundancies and roughly 3,000 departures for other reasons. ICB boards have assessed the effect on the mix of jobs, and we’ve watched important teams such as those handling finances, contracts and service decisions.",
+          "evidence": [
+            {
+              "source_turn": 47,
+              "quote": "It is about 8,000 leavers by August 2026, of which 4,200 are voluntary redundancies, approximately 230 are compulsory redundancies and about 3,000 are leaving for other reasons, so natural attrition or vacancies that were pulled."
+            },
+            {
+              "source_turn": 47,
+              "quote": "through ICB boards—obviously, boards are overseeing the process—there has been a quality impact assessment to understand grading and mix."
+            },
+            {
+              "source_turn": 47,
+              "quote": "Across certain functions, such as financing, contracting and commissioning, we have all kept a close eye on making sure that we do not lose the skills from the core capabilities."
+            }
+          ]
+        },
+        {
+          "speaker": "Sir Jim Mackey",
+          "text": "ICB chiefs have told us about gaps in skills and cases where staff are in the wrong places. They’re working on that; I’m not claiming their organisations are fully ready yet. We’ll keep checking both the costs and whether boards have the people they need.",
+          "evidence": [
+            {
+              "source_turn": 46,
+              "quote": "A few articulated that they could feel that they had capability gaps in certain areas, while another articulated that they maybe had a capacity imbalance"
+            },
+            {
+              "source_turn": 46,
+              "quote": "They are not in the right place yet and there is still work to do"
+            },
+            {
+              "source_turn": 51,
+              "quote": "We have the right board capability, and the organisation is feeling fit for purpose, which is a key part of the oversight."
+            }
+          ]
+        },
+        {
+          "speaker": "Anna Dixon",
+          "text": "Examples of individual improvements would help, but the public also needs consistent measures across ICBs. How will we tell whether the new approach improves health, alongside the clearly reported staff and cost cuts?",
+          "evidence": [
+            {
+              "source_turn": 89,
+              "quote": "for public reporting it would be ideal to have not just case studies of what is going well, but a more systematic tracking of benefits realisation, for want of a better phrase, alongside the cost reductions and headcount reductions we can see."
+            }
+          ]
+        },
+        {
+          "speaker": "Jan Thomas",
+          "text": "We’re revising a national set of measures so ICBs can be compared, but there’s no confirmed publication date. ICBs have also chosen five measures to work on together, including emergency visits, referrals to outpatient waiting lists, hospital stays for over-65s, children’s access to dentistry and same-day emergency care.",
+          "evidence": [
+            {
+              "source_turn": 90,
+              "quote": "There were 38 measures in that, looking at everything from health inequalities to utilisation, and we are doing some final tweaks to it for ICBs. It will effectively give you a comparator across them"
+            },
+            {
+              "source_turn": 92,
+              "quote": "We have not confirmed the date, but it is due to come out, and we are refining it for ’27-28."
+            },
+            {
+              "source_turn": 94,
+              "quote": "Those five metrics are utilisation of emergency department per 100,000, clock starts per 100,000"
+            },
+            {
+              "source_turn": 94,
+              "quote": "How are we reducing length of stay for people over 65, our most vulnerable? How will we keep increasing the access to dentistry for children specifically? How will we keep increasing the access to same-day emergency care?"
+            }
+          ]
+        },
+        {
+          "speaker": "Anna Dixon",
+          "text": "Those sound rather like the old service targets. How do they show that ICBs are improving health and reducing unfair differences between groups, instead of simply monitoring performance again?",
+          "evidence": [
+            {
+              "source_turn": 95,
+              "quote": "one of the main things you said was that duplication of performance management will not be an ICB thing, yet quite a lot of those sounded like waiting time-type target measures"
+            },
+            {
+              "source_turn": 95,
+              "quote": "How does this shift toward a focus on health inequalities and improved outcomes? Those just sounded like duplicating performance management."
+            }
+          ]
+        },
+        {
+          "speaker": "Jan Thomas",
+          "text": "They’re signs of whether changes elsewhere are working. For instance, fewer emergency visits should follow from helping people closer to home before they need hospital care; the emergency number isn’t the whole goal.",
+          "evidence": [
+            {
+              "source_turn": 96,
+              "quote": "we want the left shift to happen through things such as neighbourhoods, by making sure we are reducing the number of people going to emergency. It is not actually about emergency; it is about all the left shift we have to do to achieve that."
+            },
+            {
+              "source_turn": 96,
+              "quote": "We are using those as utilisation metrics to push neighbourhood delivery and all the other work we are trying to do."
+            }
+          ]
+        },
+        {
+          "speaker": "Tristan Osborne",
+          "text": "Do you have each ICB’s planned staffing and way of working? The audit report says progress was slower than planned and that NHS England wasn’t collecting forecasts of future redundancies. What makes you confident the savings won’t slip?",
+          "evidence": [
+            {
+              "source_turn": 114,
+              "quote": "you are not collecting future projections of ICBs’ redundancies."
+            },
+            {
+              "source_turn": 114,
+              "quote": "“Slower-than-planned progress on developing new operating model”. I suppose my question is, how much confidence do we have that we will not see slippage around future cost reductions?"
+            }
+          ]
+        },
+        {
+          "speaker": "Elizabeth O’Mahony",
+          "text": "We ask ICBs to confirm they can stay within their budgets and deliver their core work, but we don’t collect forecasts of future redundancies. We’re close to the overall staffing reduction target, and I’m not expecting a big further redundancy programme.",
+          "evidence": [
+            {
+              "source_turn": 122,
+              "quote": "The target reduction was, in aggregate, 8,000 across the programme, and we have had 7,753, I think."
+            },
+            {
+              "source_turn": 122,
+              "quote": "What we are collecting is data on ICBs’ confidence on delivery of their running costs"
+            },
+            {
+              "source_turn": 124,
+              "quote": "We do not collect it for future projections, but we ask people for confirmation that they will live within their financial envelope, and that they can deliver against the core standards"
+            },
+            {
+              "source_turn": 119,
+              "quote": "I am not expecting a big increase in redundancies at an ICB level between now and the end of the year."
+            }
+          ]
         },
         {
           "speaker": "Chair",
-          "text": "We still need clear evidence about the savings, redundancy costs, local partnerships and the services that will be delivered. We expect the promised notes and will consider the evidence before making recommendations."
+          "text": "The published figures on redundancies, their costs and the planned £908 million annual saving don’t seem to fit together. Please send us a reconciliation, and explain the rules for staff who receive redundancy payments and then return to NHS jobs.",
+          "evidence": [
+            {
+              "source_turn": 128,
+              "quote": "That 3,700 cost you £582 million. If we extrapolate that to the 8,000, the total cost would be £1.258 billion, so I am not quite sure where the estimated saving of £908 million is coming from. We need to have a note on that, please."
+            },
+            {
+              "source_turn": 128,
+              "quote": "Could that be accompanied by a detailed note on redundant staff being immediately re-employed in the health service?"
+            }
+          ]
+        },
+        {
+          "speaker": "Sir Jim Mackey",
+          "text": "Yes. The figures cover different periods, and we’ll set them out in a note. We can also give you an ICB-by-ICB table showing our confidence in each organisation’s plans and costs.",
+          "evidence": [
+            {
+              "source_turn": 131,
+              "quote": "We are confident that this is all reconcilable. We are talking about different numbers at different periods, but we will draw that out in the note"
+            },
+            {
+              "source_turn": 127,
+              "quote": "we can give you a table that shows, by ICB, levels of confidence on assurance of the model and on whether they can live within the cost per head."
+            }
+          ]
+        },
+        {
+          "speaker": "Elizabeth O’Mahony",
+          "text": "We’ve already reduced ICB budgets by about £900 million on an ongoing basis. They can’t spend that money without going over budget. We’ll keep examining whether they can still do the work required.",
+          "evidence": [
+            {
+              "source_turn": 139,
+              "quote": "At the start of the year, we effectively reduced their budgets by £900 million, so it is not there for them to spend; they would be overspending."
+            },
+            {
+              "source_turn": 47,
+              "quote": "Essentially, at month 7, month 9 and month 12, we will do a deep dive into those numbers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Could essential work suffer?",
+      "takeaway": "Officials accepted that the changes disrupted some ICB work, but said boards remained responsible for protecting key services and rebuilding skills.",
+      "turns": [
+        {
+          "speaker": "Tristan Osborne",
+          "text": "In the audit report, many ICBs expected less ability to carry out duties including continuing healthcare assessments, safeguarding and support for children with special educational needs. What assurance can you give patients?",
+          "evidence": [
+            {
+              "source_turn": 133,
+              "quote": "statutory functions that they believe would be implicated by this restructure, such as continuing healthcare assessments, maintaining safeguarding standards and meeting special educational needs."
+            },
+            {
+              "source_turn": 133,
+              "quote": "The majority indicated that there will be less ability to deliver on those standards, which is a concern."
+            }
+          ]
+        },
+        {
+          "speaker": "Jan Thomas",
+          "text": "Those concerns came during a disruptive period. Some ICB functions did suffer as people left and organisations combined. We’ve since tried to put the right staff back around essential work, especially for vulnerable people. Most places are settling down, though I’m not saying the change was painless.",
+          "evidence": [
+            {
+              "source_turn": 134,
+              "quote": "I think it is fair to say that the delivery of some of those delivery functions of an ICB suffered as we drove the change."
+            },
+            {
+              "source_turn": 134,
+              "quote": "make sure that we have the right people in the right places, especially when it comes to safeguarding continuing healthcare, who are our most vulnerable residents in our communities with the highest need."
+            },
+            {
+              "source_turn": 134,
+              "quote": "most places are settling down."
+            }
+          ]
+        },
+        {
+          "speaker": "Sir Jim Mackey",
+          "text": "The pace made this unnecessarily hard for staff. Ideally, we’d have agreed the redundancy arrangements and explained the changes before starting. We didn’t manage that. We plan to evaluate the changes afterwards, and I’m not claiming everything is right yet.",
+          "evidence": [
+            {
+              "source_turn": 136,
+              "quote": "there will be a post-evaluation framework"
+            },
+            {
+              "source_turn": 136,
+              "quote": "In an ideal world, all of that would have been fully documented and agreed and everything would have been in place with the Treasury beforehand. A redundancy scheme would have been agreed and in place"
+            },
+            {
+              "source_turn": 136,
+              "quote": "it was unnecessarily difficult for the colleagues involved in it all"
+            },
+            {
+              "source_turn": 136,
+              "quote": "We have all got a lot still to do; we are nowhere near where we want to be"
+            }
+          ]
+        },
+        {
+          "speaker": "Matt Turmaine",
+          "text": "How are you checking that ICBs still have enough people with the right skills? And are you investing in skills they need for their new role?",
+          "evidence": [
+            {
+              "source_turn": 163,
+              "quote": "could you tell us how you are managing the risk that the restructure reduces the ICB’s capacity and skills?"
+            },
+            {
+              "source_turn": 165,
+              "quote": "Are you confident that you have been able to address those challenges as they have come up, in an effective and timely way?"
+            }
+          ]
+        },
+        {
+          "speaker": "Jan Thomas",
+          "text": "We mustn’t assume everything worked well before the cuts. We’re now running a two-year programme to help ICB teams build the skills to choose services based on local needs and put those decisions into practice.",
+          "evidence": [
+            {
+              "source_turn": 167,
+              "quote": "we cannot assume that it was working well and now that we have changed it, it is not working. There were things that we needed to improve before."
+            },
+            {
+              "source_turn": 167,
+              "quote": "the strategic commissioning development programme, which we are running over two years."
+            },
+            {
+              "source_turn": 167,
+              "quote": "a deliberate central investment to make sure we can work with those teams on the ground to make sure they are not just keeping capacity and capabilities, but building new ones."
+            }
+          ]
+        },
+        {
+          "speaker": "Anna Dixon",
+          "text": "Some duties originally considered for transfer have stayed with ICBs, including continuing healthcare and special educational needs. Did you give ICBs more money to keep doing them? And are you checking for delays in decisions that matter to patients and families?",
+          "evidence": [
+            {
+              "source_turn": 213,
+              "quote": "you also have continuing healthcare, special educational needs and emergency preparedness in there."
+            },
+            {
+              "source_turn": 213,
+              "quote": "Has retaining these functions and therefore, I assume, retaining a skillset and capacity of people resulted in any adjustment—upwards, in this case—of the amount per capita"
+            },
+            {
+              "source_turn": 215,
+              "quote": "are any delays happening in continuing healthcare decision making?"
+            }
+          ]
+        },
+        {
+          "speaker": "Elizabeth O’Mahony",
+          "text": "Those duties were being considered for transfer, not definitely moving. The original idea of cutting ICB headcount by 50% wasn’t imposed; the reduction is about 43%. ICB chiefs told us last week they had enough funding for their legal duties and core work, though some working relationships still need rebuilding.",
+          "evidence": [
+            {
+              "source_turn": 214,
+              "quote": "these were functions that were to be discussed; they were not necessarily going to be transferred."
+            },
+            {
+              "source_turn": 214,
+              "quote": "there was a notion of a 50% headcount reduction. We have not pushed to achieve that. It is actually at 43%, I think"
+            },
+            {
+              "source_turn": 214,
+              "quote": "we heard really clearly from ICB colleagues—chief execs—last week that they had sufficient funding to deliver the statutory duties and core functions."
+            },
+            {
+              "source_turn": 214,
+              "quote": "relationships need to develop so that people know who the relevant people are, and that the trust needs to develop."
+            }
+          ]
+        },
+        {
+          "speaker": "Jan Thomas",
+          "text": "Individual ICB boards check how well they carry out these duties. Mine, for example, tracks whether continuing healthcare decisions meet the 28-day measure. If performance slips, our board asks for an improvement plan, and regional colleagues ask what we’re doing about it.",
+          "evidence": [
+            {
+              "source_turn": 218,
+              "quote": "an ICB will do things like checking its performance on 28-day compliance on continuing healthcare."
+            },
+            {
+              "source_turn": 218,
+              "quote": "Where they do slip, the board then calls us up through our sub-committees to make sure we have clear improvement plans in place."
+            },
+            {
+              "source_turn": 220,
+              "quote": "my regional colleagues are very kind at pointing that out and asking what I am doing about it and when it is going to improve."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Working with councils and clinicians",
+      "takeaway": "Members reported lost contacts and possible gaps in local cooperation; NHS leaders said the relationships must continue, sometimes outside ICBs.",
+      "turns": [
+        {
+          "speaker": "Mr Betts",
+          "text": "Councils have worked jointly with ICB staff to plan services. In some places, they now feel those staff aren’t there. Are councils having to pick up work, and are ICB staff too stretched to meet their shared safeguarding duties?",
+          "evidence": [
+            {
+              "source_turn": 178,
+              "quote": "there are lots of examples of a history—a good history, generally—of joint commissioning between local authorities and the health service, which the ICBs were involved in, and the feeling now that there often isn’t anyone in the ICBs to carry on that work"
+            },
+            {
+              "source_turn": 181,
+              "quote": "Are concerns being raised with you by local authorities, social care directors and public health directors that more work is being pushed on to them"
+            },
+            {
+              "source_turn": 189,
+              "quote": "the ICB staff are stretched too thinly, and it is not really working. Is that fair?"
+            }
+          ]
+        },
+        {
+          "speaker": "Sir Jim Mackey",
+          "text": "The old way of placing many ICB staff in local areas was expensive. There are still people responsible for working with councils, but contacts have changed and the new arrangements need time to settle. Council leaders were very unhappy early on; more recently, they’ve seemed less concerned about our changes. I haven’t had a flood of complaints.",
+          "evidence": [
+            {
+              "source_turn": 179,
+              "quote": "almost mini-organisations in place, where colleagues worked very actively together, but it was a very, very expensive model."
+            },
+            {
+              "source_turn": 179,
+              "quote": "There are still people whose responsibility it is to work with those councils, but it is a different operating model. That takes a bit of time to settle down."
+            },
+            {
+              "source_turn": 186,
+              "quote": "In my first two meetings with them last year they were understandably very unhappy"
+            },
+            {
+              "source_turn": 186,
+              "quote": "They were much more bothered about what was going on in their own world."
+            },
+            {
+              "source_turn": 186,
+              "quote": "I am not sat on a pile of letters in the office, or a bunch of emails unread"
+            }
+          ]
+        },
+        {
+          "speaker": "Jan Thomas",
+          "text": "We can plan some work across a larger area without losing the local link. My ICB covers seven councils. For plans concerning children with special educational needs, we made seven separate plans with those councils, not one plan for the whole ICB. On safeguarding, I can’t say there are no problems anywhere, but ICB boards remain responsible for it.",
+          "evidence": [
+            {
+              "source_turn": 180,
+              "quote": "We have 3.5 million people and seven different local authorities."
+            },
+            {
+              "source_turn": 180,
+              "quote": "we did not ask for one SEND plan across the ICB; we did seven individual plans with each of them"
+            },
+            {
+              "source_turn": 191,
+              "quote": "We have statutory accountabilities that we have to fulfil for safeguarding. I do that alongside my local authority and police colleagues."
+            },
+            {
+              "source_turn": 195,
+              "quote": "I can’t say there are no problems anywhere, but—"
+            }
+          ]
+        },
+        {
+          "speaker": "Mr Betts",
+          "text": "GPs have warned of a loss of clinical leadership in ICBs. Previously, local teams included practising GPs who could explain what plans meant for patients. Has that firsthand voice been lost?",
+          "evidence": [
+            {
+              "source_turn": 198,
+              "quote": "The Royal College of GPs—I accept that perhaps they have an interest in this—have said there has been a “loss of clinical leadership within ICBs”."
+            },
+            {
+              "source_turn": 198,
+              "quote": "most of them were working GPs. They could talk about their personal experiences and their understanding of what the policies and procedures meant in practice"
+            },
+            {
+              "source_turn": 200,
+              "quote": "Do you think there has been a loss there, in that people with immediate, first-hand experience are not having input into how things run?"
+            }
+          ]
+        },
+        {
+          "speaker": "Jan Thomas",
+          "text": "Clinical leadership is still central, though ICBs don’t look like the older GP-led bodies. We also work with clinicians in care organisations and with primary care networks. That includes GPs, but community pharmacies, hospices and others matter too.",
+          "evidence": [
+            {
+              "source_turn": 199,
+              "quote": "clinical leadership is still at the heart of ICBs, although it is not what it was when they were CCGs; that is different."
+            },
+            {
+              "source_turn": 203,
+              "quote": "we now work very closely with our primary care networks"
+            },
+            {
+              "source_turn": 203,
+              "quote": "The role of community pharmacy is fundamental, as are hospices."
+            }
+          ]
+        },
+        {
+          "speaker": "Anna Dixon",
+          "text": "One GP in my area describes the changes as chaotic: an IT system didn’t work, payments were delayed and nobody seemed to answer. When a practice is small, losing a named ICB contact matters. Can you be confident that ICBs are still serving practices properly?",
+          "evidence": [
+            {
+              "source_turn": 207,
+              "quote": "Words like “chaotic” have been used, and certainly there is a failure to have a functioning IT system. Nobody now seems to respond. There were delayed payments, which effectively impacted cash flow for the general practice."
+            },
+            {
+              "source_turn": 207,
+              "quote": "I think this is the point about not having named people to deal with any longer at the ICB."
+            },
+            {
+              "source_turn": 207,
+              "quote": "Can you give me any confidence about the engagement of general practices directly and that those functions that are retained by the ICBs are being discharged effectively?"
+            }
+          ]
+        },
+        {
+          "speaker": "Jan Thomas",
+          "text": "Please give me the details so I can follow up. GP IT has been particularly difficult because several sets of changes are happening at once. In most places there are named local leaders for practices to speak to, but I’m not dismissing what happened in your example.",
+          "evidence": [
+            {
+              "source_turn": 208,
+              "quote": "I am more than happy to take details of where it has not worked and pick that up with colleagues"
+            },
+            {
+              "source_turn": 208,
+              "quote": "Most places—I am very happy to pick this up offline—have key named place teams and leaders"
+            },
+            {
+              "source_turn": 208,
+              "quote": "GP IT specifically has been difficult. It goes back to the point about multiple things changing all at once."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "More changes ahead",
+      "takeaway": "NHS leaders defended the need to reorganise but acknowledged uncertainty over local boundaries and said the process should have been handled better.",
+      "turns": [
+        {
+          "speaker": "Matt Turmaine",
+          "text": "The government also wants ICB boundaries to match mayoral strategic authorities. How will you line those changes up, and is the 2028 goal realistic?",
+          "evidence": [
+            {
+              "source_turn": 221,
+              "quote": "there is an ambition to have ICBs coterminous with the mayoral strategic authorities by the end of the Parliament. What are you doing to make sure those things align?"
+            },
+            {
+              "source_turn": 223,
+              "quote": "Do you think the timeframe is deliverable, because 2028 is not that far away?"
+            }
+          ]
+        },
+        {
+          "speaker": "Samantha Jones",
+          "text": "The stated aim is to align them by 2028, and that’s the timetable we’re working to. Some ICB changes were paused so we could check where new boundaries would fall. That has been difficult for staff, but I think the deadline is achievable.",
+          "evidence": [
+            {
+              "source_turn": 222,
+              "quote": "there is a clear stated ambition that there will be alignment between mayoral authorities and ICBs by 2028."
+            },
+            {
+              "source_turn": 222,
+              "quote": "some of those ICB structures were halted to make sure they were going to do what needed to be done. That has been difficult for some of our ICB colleagues"
+            },
+            {
+              "source_turn": 224,
+              "quote": "But yes is the short answer to your question."
+            }
+          ]
+        },
+        {
+          "speaker": "Jan Thomas",
+          "text": "Some ICBs share leaders without having formally merged. That gives us room to adjust once the mayoral boundaries are clear. In some places, we may still need to move an ICB boundary so each mayoral authority works with one ICB.",
+          "evidence": [
+            {
+              "source_turn": 226,
+              "quote": "In some places, we will have to do some boundary changes to make sure a mayoral authority has to work with only one integrated care board"
+            },
+            {
+              "source_turn": 226,
+              "quote": "The ICBs in, say, Gloucestershire have grouped rather than done the full merger. We have halted a full merger so that we do not make changes now that we then have to undo"
+            },
+            {
+              "source_turn": 226,
+              "quote": "There is a difference between working as a group and having a single leadership team, and actually closing down a statutory organisation and opening up a new statutory organisation."
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "ICBs now have a running-cost target of £19.60 per resident. My area’s original spending was much higher. Doesn’t caring for an older, more spread-out rural population make it more expensive to run an ICB?",
+          "evidence": [
+            {
+              "source_turn": 230,
+              "quote": "My ICB has the unfortunate accolade of being the highest per head of all in this Committee, at £44.80."
+            },
+            {
+              "source_turn": 230,
+              "quote": "isn’t it a fact that the costs of providing health in rural areas are higher than in urban areas?"
+            },
+            {
+              "source_turn": 229,
+              "quote": "There have been pay awards, so that is £19.60 per head after pay awards."
+            }
+          ]
+        },
+        {
+          "speaker": "Elizabeth O’Mahony",
+          "text": "The £19.60 is for the ICB’s own administration and planning, not for providing treatment. The separate funding for healthcare does take account of rural distances, age and deprivation. The higher ICB figure means more staff and overheads, not necessarily higher treatment costs.",
+          "evidence": [
+            {
+              "source_turn": 231,
+              "quote": "The cost of £19.60 is the running cost of the ICB itself, not the delivery of healthcare"
+            },
+            {
+              "source_turn": 233,
+              "quote": "That is the administrative and commissioning costs of delivering healthcare in Gloucestershire. They had more staff, essentially, and a higher overhead."
+            },
+            {
+              "source_turn": 237,
+              "quote": "the allocation for service delivery is adjusted for rurality, age and deprivation."
+            }
+          ]
+        },
+        {
+          "speaker": "Mr Betts",
+          "text": "Given the problems you’ve described, would you still reorganise ICBs this way if you could start again?",
+          "evidence": [
+            {
+              "source_turn": 239,
+              "quote": "Are you really saying to us that if you had your time again, you wouldn’t reorganise it in this way?"
+            }
+          ]
+        },
+        {
+          "speaker": "Sir Jim Mackey",
+          "text": "I’d still reorganise. Responsibilities between local care organisations and the national level had become confused, overlapping and expensive, and we faced serious financial pressure. But we could absolutely have handled it better: delays over redundancy funding and arrangements prolonged uncertainty and caused staff a great deal of distress.",
+          "evidence": [
+            {
+              "source_turn": 240,
+              "quote": "If I was presented with the same facts again and asked to make a decision, I would still reorganise that."
+            },
+            {
+              "source_turn": 240,
+              "quote": "It was very confused and expensive, and it was very hard to see who was making what decisions."
+            },
+            {
+              "source_turn": 240,
+              "quote": "The big pain barrier last year was the delay on trying to agree the funding for voluntary redundancy and the mechanism by which it could be done."
+            },
+            {
+              "source_turn": 242,
+              "quote": "We could have absolutely done it better."
+            },
+            {
+              "source_turn": 242,
+              "quote": "Watching what it was doing to people—the worry, the concern, the anxiety, the uncertainty—was awful all round."
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "We still need clearer evidence on the savings, redundancies, cooperation with councils and which services each body will deliver. We’ll consider the promised notes before making recommendations.",
+          "evidence": [
+            {
+              "source_turn": 250,
+              "quote": "There are still some really big concerns arising from this hearing, particularly around what cost savings this whole exercise will generate, the difficulty of redundancies, the co-ordination of all the local bodies with local authorities, and what services will be delivered by the joint bodies."
+            },
+            {
+              "source_turn": 250,
+              "quote": "We are looking forward to quite a lot of notes that have been promised on various different subjects throughout the hearing."
+            },
+            {
+              "source_turn": 250,
+              "quote": "We will need to think about that and produce a Report with recommendations"
+            }
+          ]
         }
       ]
     }

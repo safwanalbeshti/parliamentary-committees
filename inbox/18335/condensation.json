@@ -1,0 +1,890 @@
+{
+  "schema_version": 1,
+  "source_id": 18335,
+  "source_sha256": "3c65a3990fd0b3017ea729c780f30913d94af70c42da7528db5e1488685a3c89",
+  "title": "Trading with China without ignoring the risks",
+  "label": "10 November 2026 · UK–China trade",
+  "summary": "The committee examined how the UK can benefit from trade with China while protecting security, avoiding dependence on a single supplier and responding to unfair competition. Sir Sebastian Wood argued for more exports and carefully assessed Chinese investment; Professor Kerry Brown stressed that China’s technological advances make engagement important, but that the UK has limited leverage acting alone. Members pressed both witnesses on China’s state-backed economy, universities’ dependence on Chinese students and whether international trade rules can still work.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Johnson of Lainston",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Lord German",
+      "name": "Lord German",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Sir Sebastian Wood",
+      "name": "Sir Sebastian Wood",
+      "role": "Chair, China-Britain Business Council",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Kerry Brown",
+      "name": "Professor Kerry Brown",
+      "role": "Professor of Chinese Studies, King’s College London",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Hannay of Chiswick",
+      "name": "Lord Hannay of Chiswick",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Verma",
+      "name": "Baroness Verma",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Boateng",
+      "name": "Lord Boateng",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Bi",
+      "name": "Baroness Bi",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Anderson of Swansea",
+      "name": "Lord Anderson of Swansea",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Lawlor",
+      "name": "Baroness Lawlor",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Anelay of St Johns",
+      "name": "Baroness Anelay of St Johns",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord McDonald of Salford",
+      "name": "Lord McDonald of Salford",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "WTO",
+      "definition": "The World Trade Organization, whose members agree trade rules and can bring disputes about breaches of those rules."
+    },
+    {
+      "term": "National Security and Investment Act",
+      "definition": "A UK law allowing the government to review and, in some cases, block investments that could threaten national security."
+    },
+    {
+      "term": "Commonwealth",
+      "definition": "A voluntary association of countries, most of which have historical ties to the British Empire."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "How much does China matter?",
+      "takeaway": "China is a major UK trading partner, but the witnesses differed over how much further the relationship could grow.",
+      "turns": [
+        {
+          "speaker": "Lord German",
+          "text": "We buy more from China than we sell to it, and that gap is growing. How dependent are we on this trade?",
+          "evidence": [
+            {
+              "source_turn": 2,
+              "quote": "The figures that we have been provided with suggest that, each year, the deficit between what we import and what we export, in both trade and services together, is getting larger. Therefore, the question you might ask, which is worth asking, is how dependent we are—and we are increasingly dependent—on trade with China."
+            }
+          ]
+        },
+        {
+          "speaker": "Sir Sebastian Wood",
+          "text": "China is already our third-largest trading partner and, including Hong Kong, our fourth-largest export destination. It has accounted for roughly 30% of worldwide economic growth over the past decade. If Britain wants to grow, it needs to take that market seriously.",
+          "evidence": [
+            {
+              "source_turn": 3,
+              "quote": "over the last decade, roughly 30% of the total volume of global growth has taken place in that single country, China"
+            },
+            {
+              "source_turn": 3,
+              "quote": "It is now our third largest trading partner and our fourth largest export destination, if you include Hong Kong."
+            },
+            {
+              "source_turn": 3,
+              "quote": "we have a growth challenge in the UK and need to tap into sources of growth globally"
+            }
+          ]
+        },
+        {
+          "speaker": "Sir Sebastian Wood",
+          "text": "China wants to expand its services economy, an area where the UK is strong. The governments have begun exploring a services trade agreement. Chinese manufacturers are also looking to invest abroad; UK firms could help them expand, and suitable investment here could bring newer technology and production methods.",
+          "evidence": [
+            {
+              "source_turn": 3,
+              "quote": "the desire of the Chinese to develop into a modern services economy and to boost services consumption in China"
+            },
+            {
+              "source_turn": 3,
+              "quote": "the two Governments have started scoping out a possible services free trade agreement between the UK and China"
+            },
+            {
+              "source_turn": 3,
+              "quote": "This represents a real opportunity for UK services companies, which can be their partners as they expand globally, and also directly for the UK itself as a recipient of FDI"
+            },
+            {
+              "source_turn": 3,
+              "quote": "we will benefit from the latest technology and industrial processes"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Kerry Brown",
+          "text": "I see a less developed relationship than China’s size might suggest. Chinese investment is only a small fraction of investment in or from the UK, and relatively few British companies trade goods with China. Many other countries rely on it more heavily. But nobody can avoid the effect China has on world trade.",
+          "evidence": [
+            {
+              "source_turn": 4,
+              "quote": "the UK-China trade and investment relationship is underwhelming"
+            },
+            {
+              "source_turn": 4,
+              "quote": "China accounted for only 0.9% of UK outward FDI stock. In terms of investment into the UK, it is only 0.1% of the total stock"
+            },
+            {
+              "source_turn": 4,
+              "quote": "about 9,800 UK VAT-registered companies export goods to China, and about 95,000 import goods from China"
+            },
+            {
+              "source_turn": 4,
+              "quote": "Although the UK is exposed, it is not as exposed as others."
+            },
+            {
+              "source_turn": 4,
+              "quote": "dependency in terms of the way in which China shapes the global architecture of trade and investment is unavoidable"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Kerry Brown",
+          "text": "China is an exceptionally tough competitor. Its lower spending on welfare and healthcare, and its lack of labour rights, are part of why its businesses can compete so strongly. Technology is likely to make them still more competitive.",
+          "evidence": [
+            {
+              "source_turn": 4,
+              "quote": "China’s social welfare as a proportion of GDP is about 5.6%. In Britain, it is 11%."
+            },
+            {
+              "source_turn": 4,
+              "quote": "China’s capitalist model is without social welfare costs and without labour rights"
+            },
+            {
+              "source_turn": 4,
+              "quote": "It is incredibly competitive and, because of technology, it is about to get more competitive."
+            }
+          ]
+        },
+        {
+          "speaker": "Lord German",
+          "text": "Should the UK therefore be more cautious about growth in trade with China than it would be with other partners?",
+          "evidence": [
+            {
+              "source_turn": 5,
+              "quote": "is it a sensible approach to be much more cautious than you might be with other trading partners?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Kerry Brown",
+          "text": "We must manage risks, but caution has a cost too. China now produces important research and technology. We need to think not only about protecting what we have, but about gaining access to its advances in areas such as medicine, robotics and AI.",
+          "evidence": [
+            {
+              "source_turn": 6,
+              "quote": "You must, of course, have risk management"
+            },
+            {
+              "source_turn": 6,
+              "quote": "In terms of technology and innovation, it is a major player."
+            },
+            {
+              "source_turn": 6,
+              "quote": "we need access to the things that China is producing in terms of life sciences, robotics, AI, and almost every area. That means that the risk management is not defensive. We have to go on the offensive."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Unfair competition and dependence",
+      "takeaway": "The witnesses accepted serious risks, but argued for targeted safeguards rather than cutting economic ties.",
+      "turns": [
+        {
+          "speaker": "Lord Hannay of Chiswick",
+          "text": "You’ve made the opportunities clear. What about the negatives, including subsidies that could make Chinese exports unfairly cheap?",
+          "evidence": [
+            {
+              "source_turn": 7,
+              "quote": "could you perhaps address some of the negatives?"
+            },
+            {
+              "source_turn": 7,
+              "quote": "Do you accept, for example, that China does, on occasion, subsidise its exports and produce a perfectly good case for dumping duties?"
+            }
+          ]
+        },
+        {
+          "speaker": "Baroness Verma",
+          "text": "If Chinese firms face different labour and welfare costs, how can a country like ours deal with the resulting unfair competition? Can we solve that with China directly, or do countries need to act together?",
+          "evidence": [
+            {
+              "source_turn": 9,
+              "quote": "they do not have demands around social welfare or labour rights in their country, so it is slightly distorting"
+            },
+            {
+              "source_turn": 9,
+              "quote": "To what extent do market distorting practices such as those in China create problems for a rules-based trade nation such as ours? Do you see this problem being resolved more so at a multilateral level, or is it going to be at a bilateral level?"
+            }
+          ]
+        },
+        {
+          "speaker": "Sir Sebastian Wood",
+          "text": "I’d separate the risks into national security, dependence on China for essential supplies, and unfair competition. The UK should protect itself, but apply clear, proportionate rules. Under the National Security and Investment Act, it can review sensitive investments; it should avoid turning away harmless investment through uncertainty.",
+          "evidence": [
+            {
+              "source_turn": 10,
+              "quote": "One would be those that relate specifically to our own national security, such as protecting critically important technology and critical national infrastructure. The second would be undue supply chain dependence for critical inputs. The third would be the risk of unfair competition"
+            },
+            {
+              "source_turn": 10,
+              "quote": "the UK should act to protect itself, but in a way that is proportionate and transparent"
+            },
+            {
+              "source_turn": 10,
+              "quote": "we have certain limitations on inward investment, which are set out in the National Security and Investment Act"
+            },
+            {
+              "source_turn": 10,
+              "quote": "we do so in a way that is predictable, transparent and clear, so that we do not inadvertently deter legitimate investment that would not harm our national security"
+            }
+          ]
+        },
+        {
+          "speaker": "Sir Sebastian Wood",
+          "text": "For essential supplies, government and businesses should work out where they rely too heavily on one source, then find alternatives. They shouldn’t simply stop dealing with China: that could hurt British industry now and weaken it over time.",
+          "evidence": [
+            {
+              "source_turn": 10,
+              "quote": "There needs to be a dialogue between business and government to identify areas where we are at risk of undue dependence or possible single points of failure in critical supply chains."
+            },
+            {
+              "source_turn": 10,
+              "quote": "The answer should be derisking and diversification rather than decoupling. If we decouple from China in those areas, we risk, in the short term, making our industry less competitive and damaging our own economy. We also risk a wider danger to our competitiveness in the long term by damaging the underlying relationship."
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "But how significant are the distortions caused by China’s state-backed businesses and lower standards? Cheap imports aren’t necessarily an uncomplicated benefit. How should we deal with that?",
+          "evidence": [
+            {
+              "source_turn": 13,
+              "quote": "It is a state-operating business."
+            },
+            {
+              "source_turn": 13,
+              "quote": "That sounds like a good thing on the surface, but it is intensely distortive and very unfair. Lower standards in other countries that allow us to have cheaper imports is not something that we should necessarily triumph in."
+            },
+            {
+              "source_turn": 13,
+              "quote": "How do we deal with those, and could we have an assessment of their significance?"
+            }
+          ]
+        },
+        {
+          "speaker": "Sir Sebastian Wood",
+          "text": "Subsidies and cheap loans are real, but they aren’t the whole story. China also invests heavily in technical education, transport and electricity. International trade rules weren’t really designed for competition between such different economies. Some Chinese practices fall outside those rules; part of our response is to invest in British industry.",
+          "evidence": [
+            {
+              "source_turn": 14,
+              "quote": "There are cases of subsidy and of preferential or cheap finance given to Chinese companies by state-owned banks and so forth. To reduce this issue of unfair competition to a subsidy debate is to narrow the discussion unduly."
+            },
+            {
+              "source_turn": 14,
+              "quote": "China has a very extensive, end-to-end industrial strategy that includes heavy investment in education, particularly STEM education."
+            },
+            {
+              "source_turn": 14,
+              "quote": "Heavy investment in infrastructure and logistics makes it much more convenient and easier for industrial clusters to form themselves and then to operate."
+            },
+            {
+              "source_turn": 14,
+              "quote": "companies have access to relatively cheap electricity"
+            },
+            {
+              "source_turn": 14,
+              "quote": "the WTO was not really designed to deal with trade between economies that have such dramatically different basic macroeconomic models"
+            },
+            {
+              "source_turn": 14,
+              "quote": "a lot of what is happening is outside the ambit of the WTO rules altogether"
+            },
+            {
+              "source_turn": 14,
+              "quote": "part of the answer is to invest in your own industry domestically"
+            }
+          ]
+        },
+        {
+          "speaker": "Sir Sebastian Wood",
+          "text": "Countries are also making specific deals to manage disputes. The UK and China have set up a body to discuss measures taken against imports thought to harm domestic producers, though it’s still at an early stage.",
+          "evidence": [
+            {
+              "source_turn": 14,
+              "quote": "The other part of it is to move towards more managed trade."
+            },
+            {
+              "source_turn": 14,
+              "quote": "The UK and China have now set up a bilateral body called the trade remedies mechanism, so we ourselves have a nascent mechanism with the Chinese to manage trade."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Kerry Brown",
+          "text": "When China joined the WTO, people hoped it would become more like a market economy. It didn’t. It can follow an agreement’s wording without following what others thought it meant. Its state still has a dominant role, though that model has weaknesses too: heavy energy demand, an ageing population and persistently low consumer spending.",
+          "evidence": [
+            {
+              "source_turn": 16,
+              "quote": "there was a feeling that, in entering the WTO, it would make China more like us and more like a market economy, but that did not happen"
+            },
+            {
+              "source_turn": 16,
+              "quote": "China is really good at entering these agreements and observing the letter but not the spirit."
+            },
+            {
+              "source_turn": 16,
+              "quote": "The role of the state is absolutely dominant"
+            },
+            {
+              "source_turn": 16,
+              "quote": "China’s hunger for energy is unsatiated"
+            },
+            {
+              "source_turn": 16,
+              "quote": "China’s population will probably be half of what it is today by the end of this century."
+            },
+            {
+              "source_turn": 16,
+              "quote": "On consumption, for the past 20 years, I have been asked and have talked about consumption in China being so low. It remains unchanged."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Who should Britain work with?",
+      "takeaway": "Brown favoured negotiating alongside other countries, while Wood warned against automatically adopting their restrictions.",
+      "turns": [
+        {
+          "speaker": "Professor Kerry Brown",
+          "text": "Britain alone is too small to have much effect on China. We should work with other countries, not simply against China, on trade problems we share. A serious Chinese economic collapse would hurt us too.",
+          "evidence": [
+            {
+              "source_turn": 16,
+              "quote": "If the Chinese economy collapses, it is going to, basically, bring us all down."
+            },
+            {
+              "source_turn": 16,
+              "quote": "we will have an impact in China only through acting in concert with others, either in the European Union or with the United States"
+            },
+            {
+              "source_turn": 16,
+              "quote": "we have to really work multilaterally, not against but with China"
+            },
+            {
+              "source_turn": 16,
+              "quote": "If we do it bilaterally, I cannot see how we would really have much impact. We are just not a big enough economy."
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Hannay of Chiswick",
+          "text": "Trade tensions between China and both the US and Europe may continue. Should Britain look for common ground with those partners, particularly where joint action fits WTO rules, or pursue its own response?",
+          "evidence": [
+            {
+              "source_turn": 18,
+              "quote": "our best guess has to be that China-US and China-EU policy is going to remain pretty tense and pretty troubled"
+            },
+            {
+              "source_turn": 18,
+              "quote": "Should we be trying to discover more common ground with the United States and the European Union on their handling of trade disputes, in the belief that, if we discover or identify common ground, particularly if it is WTO-compliant, this will have more impact in Beijing than if we are all heading off in different directions, or do we try to have a solo British response to all this"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Kerry Brown",
+          "text": "We shouldn’t assume US policy will become predictable after Trump. We could also explore looser partnerships with countries in Asia, Africa and Latin America, or with India, where they share concerns about Chinese exports or security.",
+          "evidence": [
+            {
+              "source_turn": 19,
+              "quote": "It is quite a brave assumption to think that America will return to predictability when Trump goes."
+            },
+            {
+              "source_turn": 19,
+              "quote": "we explore loose alliances with a way broader group of countries that have the same issues that we have with China’s distortions and its competitive strategy"
+            },
+            {
+              "source_turn": 19,
+              "quote": "an alliance of some sort with Latin American, African or ASEAN countries, or India, would be worth thinking about"
+            },
+            {
+              "source_turn": 19,
+              "quote": "In some areas, we have the same worries about China exporting excess capacity or about security."
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Boateng",
+          "text": "We already have the Commonwealth, which includes countries in those regions. Could it help them and Britain respond to China? Would cooperation on development serve them better than lining up against China?",
+          "evidence": [
+            {
+              "source_turn": 35,
+              "quote": "We have an alliance. It is called the Commonwealth, and it involves all those countries."
+            },
+            {
+              "source_turn": 35,
+              "quote": "how you would suggest that the Commonwealth, and the UK within the Commonwealth, respond to China’s dominance in these areas, whether by out-and-out mobilisation of our interests against its interests, or by co-operation, where we can co-operate, on the development front"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Kerry Brown",
+          "text": "I don’t know whether the Commonwealth could organise itself around that particular aim, but we should keep an open mind. China’s effects in Africa differ from country to country, and it may see development primarily as an economic opportunity for itself.",
+          "evidence": [
+            {
+              "source_turn": 37,
+              "quote": "I have no idea whether the Commonwealth could be focused on a specific issue such as creating balanced, sustainable, equitable trading relations with a partner such as China, but we have to be open-minded now."
+            },
+            {
+              "source_turn": 37,
+              "quote": "On China’s impact in Africa, it really depends on the country and the area."
+            },
+            {
+              "source_turn": 39,
+              "quote": "It would view development as an economic opportunity for China."
+            }
+          ]
+        },
+        {
+          "speaker": "Sir Sebastian Wood",
+          "text": "Britain needs good relationships with the US, Europe and China. We shouldn’t simply copy another country’s restrictions on technology exports or investment. We should decide each case by our own security interests and by what a restriction would cost us economically.",
+          "evidence": [
+            {
+              "source_turn": 43,
+              "quote": "We have to have the best possible trading and investment relationship with all three of those markets."
+            },
+            {
+              "source_turn": 43,
+              "quote": "we need to have a very forensic focus on our own national interest. We certainly should not be in the business of just copying and pasting other countries’ export controls and investment restrictions. We should always be considering our own national interests, and the economic costs and opportunity costs of doing that."
+            }
+          ]
+        },
+        {
+          "speaker": "Sir Sebastian Wood",
+          "text": "US–China tensions centre more on security and sensitive technology; Europe’s concerns centre more on competition with Chinese manufacturers. Closer UK–EU trade could put pressure on us to follow EU rules. We need to check whether doing so would help or harm useful Chinese investment here.",
+          "evidence": [
+            {
+              "source_turn": 43,
+              "quote": "the source of tension is primarily about strategic competition and national security. It manifests as an effort to decouple in areas of sensitive technology."
+            },
+            {
+              "source_turn": 43,
+              "quote": "The EU-China tensions are more about industrial competitiveness"
+            },
+            {
+              "source_turn": 43,
+              "quote": "there may be pressure in some areas for us to align with EU rules, for example, on Chinese investment. We just need to be careful that, in doing that, we do not inadvertently damage areas of our relationship with China that are important to our future competitiveness."
+            },
+            {
+              "source_turn": 43,
+              "quote": "It may end up increasing our attractiveness as a destination for FDI from China"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Technology, expertise and universities",
+      "takeaway": "Access to Chinese technology and stronger knowledge of China could help Britain, but members challenged the risks of dependence.",
+      "turns": [
+        {
+          "speaker": "Baroness Bi",
+          "text": "How do we pursue growth without becoming dependent on Chinese supplies? Some have proposed marking economic activities red, amber or green according to risk. Do we understand China well enough to make those decisions?",
+          "evidence": [
+            {
+              "source_turn": 46,
+              "quote": "How should the UK balance its desire for economic growth through trade with China against concerns relating to supply chain resilience and strategic dependence?"
+            },
+            {
+              "source_turn": 46,
+              "quote": "the Business, Innovation, Science and Trade Committee’s suggestion that we establish red, amber and green zones of economic activity"
+            },
+            {
+              "source_turn": 46,
+              "quote": "I worry about the depth of our understanding of how China is thinking and operating."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Kerry Brown",
+          "text": "We have China specialists, though not many, and these judgments are difficult. We also need to ask how Britain will gain access to useful Chinese discoveries. European companies transferred technology to China, but there’s no equivalent arrangement bringing Chinese technology back.",
+          "evidence": [
+            {
+              "source_turn": 47,
+              "quote": "we do have China experts. We do not have a huge number, but we have them"
+            },
+            {
+              "source_turn": 47,
+              "quote": "It is a complicated place that involves a lot of complicated judgments."
+            },
+            {
+              "source_turn": 47,
+              "quote": "The game is now, “How do we get access to what China has?” It is not, “How does China get access to us?”"
+            },
+            {
+              "source_turn": 47,
+              "quote": "The EU was a huge transferer of technology to China"
+            },
+            {
+              "source_turn": 47,
+              "quote": "Where is the reciprocal deal where we get access to Chinese technology? That is the bit that is missing from everyone’s trading relationship with China."
+            }
+          ]
+        },
+        {
+          "speaker": "Baroness Bi",
+          "text": "What’s stopping Chinese technology from coming the other way?",
+          "evidence": [
+            {
+              "source_turn": 48,
+              "quote": "What is stopping that transfer of technology coming back to us? Is it a lack of willingness on our part or on China’s part?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Kerry Brown",
+          "text": "I think we’d need to work with the EU to secure access. It has both the market and the history of supplying technology to China.",
+          "evidence": [
+            {
+              "source_turn": 49,
+              "quote": "It would need the EU to break that one."
+            },
+            {
+              "source_turn": 49,
+              "quote": "The EU is the regulator and is the great producer of the technology that China has used. We would need an alliance with the EU to get access to these phenomenal companies in China that are producing really important technology that we will need."
+            }
+          ]
+        },
+        {
+          "speaker": "Sir Sebastian Wood",
+          "text": "The proposed risk categories aren’t very different from what the UK already does with sensitive investments: some need no special review, some are examined, and a small proportion are blocked. On supplies, I’d still favour finding alternative sources over cutting ties. Investment deals might also give Britain access to Chinese technology and production knowledge.",
+          "evidence": [
+            {
+              "source_turn": 53,
+              "quote": "A relatively small proportion have been rejected."
+            },
+            {
+              "source_turn": 53,
+              "quote": "there is a green category that is outside those sensitive sectors; there is an amber category where things are called in for review; and then there is a red category where the investment is rejected. It is not clear to me that it is fundamentally different from the policy framework that already exists in the UK."
+            },
+            {
+              "source_turn": 53,
+              "quote": "this should be about diversification and derisking rather than decoupling"
+            },
+            {
+              "source_turn": 53,
+              "quote": "In negotiating FDI projects, it may be possible to negotiate arrangements that allow for the sharing of technology and industrial process knowledge."
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Anderson of Swansea",
+          "text": "Do we need to invest more in teaching people about China, given concerns that China specialists are leaving senior government jobs?",
+          "evidence": [
+            {
+              "source_turn": 54,
+              "quote": "Do you share the concern already mentioned by Baroness Bi in today’s Financial Times about the exodus of China experts from senior levels of the Government?"
+            },
+            {
+              "source_turn": 54,
+              "quote": "Should there be such an infrastructural ground level investment in Chinese studies in the UK?"
+            }
+          ]
+        },
+        {
+          "speaker": "Sir Sebastian Wood",
+          "text": "Yes. We need deeper knowledge of China, including in schools. Teaching Chinese civilisation could encourage more young people to study China or learn Mandarin later.",
+          "evidence": [
+            {
+              "source_turn": 55,
+              "quote": "My view is yes. If you look at the level of UK expertise in China, it is far higher than the prevailing level of China expertise in the UK."
+            },
+            {
+              "source_turn": 55,
+              "quote": "a study of Chinese civilisation, given how important China has become and is going to be in the future, seems to me to be an eminently sensible component of our curriculum for our young people in future and could easily then lead more of them to study Chinese civilisation or indeed Mandarin when they go to university."
+            }
+          ]
+        },
+        {
+          "speaker": "Baroness Lawlor",
+          "text": "I’m not reassured that China will respect trade agreements. I’m also worried that universities’ reliance on Chinese students and donations could affect what they teach. Why should university links automatically be treated as low risk?",
+          "evidence": [
+            {
+              "source_turn": 60,
+              "quote": "I have not heard anything to reassure me that we will see a future where China respects—and there is sufficient evidence and a way of proving that it respects—international law in respect of trade treaties."
+            },
+            {
+              "source_turn": 60,
+              "quote": "Our BIST Committee has put universities in the green zone. This is the zoning exercise that we have heard so much about. I am not sure that is a very sensible zone to put it in because it creates a dependency"
+            },
+            {
+              "source_turn": 60,
+              "quote": "I can assure you that that has an effect on how we teach and what we teach."
+            },
+            {
+              "source_turn": 60,
+              "quote": "He has given a major donation, 99%, to your institute."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Kerry Brown",
+          "text": "The suggestion about my institute’s donor influencing me isn’t true: Ming-Wai Lau has never told me what to say or think. But funding China studies and universities is a real problem. We can choose not to deal with China, but that would mean giving up opportunities, including possible medical advances. We have to weigh both sides.",
+          "evidence": [
+            {
+              "source_turn": 61,
+              "quote": "The claim about my institute is not true. Endowments are 100% from a funder. That is the way endowments work. We are very lucky to get that money. Ming-Wai Lau has never ever—I will say this on oath—told me what to say or what to think."
+            },
+            {
+              "source_turn": 61,
+              "quote": "We need to fund China studies in Britain. The Government will not fund it."
+            },
+            {
+              "source_turn": 61,
+              "quote": "We do not have to deal with China. It is absolutely fine. You can make a policy decision to have nothing to do with the place, but it is a massive opportunity cost."
+            },
+            {
+              "source_turn": 61,
+              "quote": "We have to balance things. That is rational."
+            }
+          ]
+        },
+        {
+          "speaker": "Sir Sebastian Wood",
+          "text": "Chinese students bring universities substantial income and strong academic abilities. Studying here may also make them more likely to work with Britain later. Given universities’ finances, I don’t think we’re in a position to set country-by-country limits on foreign students.",
+          "evidence": [
+            {
+              "source_turn": 64,
+              "quote": "Should we be imposing quotas on the number of foreign students from any given country into our universities? It seems to me that, economically, we are not really in a position to do that."
+            },
+            {
+              "source_turn": 64,
+              "quote": "They bring direct revenue to the universities and their living expenses in the UK. They are worth in the billions on an annual basis for the UK economy."
+            },
+            {
+              "source_turn": 64,
+              "quote": "they bring some outstanding academic capabilities, particularly in sciences and mathematics"
+            },
+            {
+              "source_turn": 64,
+              "quote": "Chinese students who have been here, lived here for a few years and spent time here are more likely in the future, if they go into business, to look to the UK for partnership, business opportunities and travel."
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Boateng",
+          "text": "I welcome Chinese students here. But what are British businesses doing to help our students study in China?",
+          "evidence": [
+            {
+              "source_turn": 65,
+              "quote": "I welcome Chinese students. They make a great contribution to our university."
+            },
+            {
+              "source_turn": 65,
+              "quote": "I am not clear about what your proposals are and, indeed, what your members are doing to encourage and support British students to study in China"
+            }
+          ]
+        },
+        {
+          "speaker": "Sir Sebastian Wood",
+          "text": "I can’t say what member companies are doing without checking. More teaching about China at home would help produce more young Britons ready to study and work there.",
+          "evidence": [
+            {
+              "source_turn": 66,
+              "quote": "I am not sure. I would be happy to come back to you, Lord Boateng, on that."
+            },
+            {
+              "source_turn": 68,
+              "quote": "We do not have enough young people studying Chinese or studying about China at university. If we had more, we would undoubtedly have more young British people going to China to work and study."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Kerry Brown",
+          "text": "A British Council programme used to send many young Britons to China, but it stopped because of funding problems. Numbers travelling there are down since the pandemic. More school-level Chinese study could help, but it needs funding.",
+          "evidence": [
+            {
+              "source_turn": 70,
+              "quote": "Before the pandemic, the British Council had a Generation UK programme where quite a lot of young British went to China. It was very successful, but, because of the British Council’s financial problems, that does not run now."
+            },
+            {
+              "source_turn": 70,
+              "quote": "the figures are way down on before the pandemic"
+            },
+            {
+              "source_turn": 70,
+              "quote": "The Swire Chinese Language Foundation supported a Mandarin excellence programme that had 15,000 young British people engaged with Chinese. They seemed to really enjoy it. At the grass-roots level, we can do stuff. You are right: that needs funding."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Practical risks and future trade rules",
+      "takeaway": "The closing questions returned to concentrated supplies, uncertainty about Chinese consumer demand and whether China will commit to workable trade-dispute rules.",
+      "turns": [
+        {
+          "speaker": "Baroness Anelay of St Johns",
+          "text": "If I ran a large company, what risk should I tackle first?",
+          "evidence": [
+            {
+              "source_turn": 85,
+              "quote": "Let us say that I am a businessperson running a large corporation and I come to you. In derisking, what is the first risk that I should deal with?"
+            }
+          ]
+        },
+        {
+          "speaker": "Sir Sebastian Wood",
+          "text": "Check whether anything essential to your business comes from just one source. Even without political tensions, one supplier failing can interrupt your whole operation.",
+          "evidence": [
+            {
+              "source_turn": 86,
+              "quote": "It would be undue concentration in critical supply chains. In some cases, that may mean dependence on China alone for critical inputs. I am not necessarily making a geopolitical point. There are all sorts of reasons why having a single point of failure in a critical supply chain is undesirable for a company."
+            }
+          ]
+        },
+        {
+          "speaker": "Lord McDonald of Salford",
+          "text": "Sebastian, you’ve suggested Chinese consumers will buy more, but past predictions that China would become more like us haven’t come true. Will it ever need British products as much as British industry hopes?",
+          "evidence": [
+            {
+              "source_turn": 87,
+              "quote": "You then say that at some point China is going to become more like us, particularly on matters of consumption."
+            },
+            {
+              "source_turn": 87,
+              "quote": "All the points when we thought the Chinese might change to become like us seem to have passed without them changing."
+            },
+            {
+              "source_turn": 87,
+              "quote": "Is China really ever going to need British products in the way that British industry hopes?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Kerry Brown",
+          "text": "I wouldn’t expect China to become like us or to become predictable in that way. Its dealings with Britain have never worked like that. A future problem could also be China declining to take on international security responsibilities when other countries cannot.",
+          "evidence": [
+            {
+              "source_turn": 88,
+              "quote": "Nothing in our history of interaction with China for 400 years shows that it is ever likely to be predictable and become like us. It has never done that. It never will do that."
+            },
+            {
+              "source_turn": 88,
+              "quote": "Our challenge will be China just not doing anything at all."
+            },
+            {
+              "source_turn": 88,
+              "quote": "we are going to have a problem getting China to be a security provider when we can no longer do that. That is not today, but maybe in the future."
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Hannay of Chiswick",
+          "text": "What part could China play in future international trade rules? Britain has joined a temporary system for settling WTO disputes. Is China actually taking part, rather than just discussing it?",
+          "evidence": [
+            {
+              "source_turn": 89,
+              "quote": "what role, if any, you see China playing in a future rules-based trading order"
+            },
+            {
+              "source_turn": 89,
+              "quote": "Is it currently in the interim dispute settlement procedure? I do not think so."
+            },
+            {
+              "source_turn": 92,
+              "quote": "The British Government decided a few months ago, having not been in at the start of the interim arrangements, that they were going to join. We now have joined"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Kerry Brown",
+          "text": "China has serious problems at home and wants a predictable world. I think it would support rules that help manage risk, even if it doesn’t share the values some other countries associate with those rules.",
+          "evidence": [
+            {
+              "source_turn": 90,
+              "quote": "China’s domestic issues are serious, and they are its priority. China wants predictability."
+            },
+            {
+              "source_turn": 90,
+              "quote": "To that extent, it wants a utilitarian rules-based system not underpinned by values but by functionality and use in managing risk."
+            }
+          ]
+        },
+        {
+          "speaker": "Sir Sebastian Wood",
+          "text": "Both China’s economic model and US actions have damaged international trade rules. China may now want to present itself as a defender of them. I believe it’s discussing the temporary dispute-settlement system, but I can’t establish from my notes whether it has joined.",
+          "evidence": [
+            {
+              "source_turn": 91,
+              "quote": "There has been considerable damage inflicted on the system of rules-based international trade not just by China’s economic model but by the behaviour of the United States in the last decade or so."
+            },
+            {
+              "source_turn": 91,
+              "quote": "China may feel a greater political need to position itself as a defender of the rules-based international trading system and an upholder of the WTO rules."
+            },
+            {
+              "source_turn": 91,
+              "quote": "There was a point in my briefing, which I have failed to memorise adequately, about the Chinese engaging in discussion on the interim dispute settlement mechanism. They are engaged on that particular point."
+            },
+            {
+              "source_turn": 93,
+              "quote": "I believe they are."
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Hannay of Chiswick",
+          "text": "Discussing it isn’t the same as joining. That distinction matters.",
+          "evidence": [
+            {
+              "source_turn": 92,
+              "quote": "They are engaged in the discussion, but not in the procedure. You are either in or you are out."
+            },
+            {
+              "source_turn": 94,
+              "quote": "That does not cut a lot of grass."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

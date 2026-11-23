@@ -1,0 +1,994 @@
+{
+  "schema_version": 1,
+  "source_id": 18338,
+  "source_sha256": "696e1fd77a7959d4e60ac9d630ec83386b4f76d6f78242adc300cc8fe926c4f0",
+  "title": "Why are some cancers rising in younger adults?",
+  "label": "18 November 2026 · Early-onset cancer",
+  "summary": "The committee examined evidence that some cancers, especially bowel cancer, are becoming more common among adults under 50. The rise is real but starts from a low level, and changes in recording and diagnosis complicate comparisons over time. Witnesses discussed established risks, possible early-life causes and major gaps in research. They urged both better study of those gaps and wider use of cancer-prevention measures already supported by evidence.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Dame Chi Onwurah",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Dr Rous",
+      "name": "Dr Brian Rous",
+      "role": "Clinical Lead, National Disease Registration Service, NHS England",
+      "kind": "witness"
+    },
+    {
+      "label": "Sarah Stevens",
+      "name": "Sarah Stevens",
+      "role": "Deputy Director, National Disease Registration Service, NHS England",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Woods",
+      "name": "Dr Laura Woods",
+      "role": "Senior Lecturer in Public Health, Newcastle University",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Lyratzopoulos",
+      "name": "Professor Georgios Lyratzopoulos",
+      "role": "Professor of Cancer Epidemiology, University College London",
+      "kind": "witness"
+    },
+    {
+      "label": "Maya Ellis",
+      "name": "Maya Ellis",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Daniel Zeichner",
+      "name": "Daniel Zeichner",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Kit Malthouse",
+      "name": "Kit Malthouse",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Freddie van Mierlo",
+      "name": "Freddie van Mierlo",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Dr Smith-Byrne",
+      "name": "Dr Karl Smith-Byrne",
+      "role": "Senior Molecular Epidemiologist, University of Oxford",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Coleman",
+      "name": "Professor Helen Coleman",
+      "role": "Professor of Cancer Epidemiology, Queen’s University, Belfast",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Riboli",
+      "name": "Professor Elio Riboli",
+      "role": "Chair in Cancer Epidemiology and Prevention, Imperial College London",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Garcia-Closas",
+      "name": "Professor Monte Garcia-Closas",
+      "role": "Group Leader: Integrative Cancer Epidemiology, Institute for Cancer Research",
+      "kind": "witness"
+    },
+    {
+      "label": "Tom Collins",
+      "name": "Tom Collins",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Martin Wrigley",
+      "name": "Martin Wrigley",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Josh Fenton-Glynn",
+      "name": "Josh Fenton-Glynn",
+      "role": "Health and Social Care Committee member attending the meeting",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "incidence rate",
+      "definition": "The number of new cases in a population over a given period, often adjusted to allow fair comparisons."
+    },
+    {
+      "term": "cancer registry",
+      "definition": "A service that collects and checks information about people diagnosed with cancer."
+    },
+    {
+      "term": "screening",
+      "definition": "Testing people who may not have symptoms to find cancer or changes that could lead to it."
+    },
+    {
+      "term": "Lynch syndrome",
+      "definition": "An inherited condition that raises the risk of bowel cancer and some other cancers."
+    },
+    {
+      "term": "colibactin",
+      "definition": "A substance made by some E. coli bacteria that can damage DNA."
+    },
+    {
+      "term": "mutations",
+      "definition": "Changes to DNA that can sometimes help a cancer develop."
+    },
+    {
+      "term": "gut microbiome",
+      "definition": "The community of microbes, including bacteria, living in the digestive system."
+    },
+    {
+      "term": "triple-negative breast cancer",
+      "definition": "A type of breast cancer lacking three features used to guide common treatments; it can be harder to treat."
+    },
+    {
+      "term": "PFAS",
+      "definition": "A group of long-lasting manufactured chemicals used in various products and found in the environment."
+    },
+    {
+      "term": "cohort studies",
+      "definition": "Studies that follow groups of people over time to examine how their experiences relate to later health."
+    },
+    {
+      "term": "Our Future Health",
+      "definition": "A UK research project recruiting volunteers and linking their information with health records to study disease."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What the figures show",
+      "takeaway": "Some cancers are rising among younger adults, but they remain much less common than cancers in older people.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "We’re looking at cancer diagnosed in adults under 50. What has changed, and how much should we trust comparisons over time?",
+          "evidence": [
+            {
+              "source_turn": 1,
+              "quote": "early onset cancer—that is, cancer diagnosed in adults under 50"
+            },
+            {
+              "source_turn": 1,
+              "quote": "can you give an overview of what the data shows about how cancer incidence among adults under 50 has changed, and over what time period have those changes occurred?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Rous",
+          "text": "The answer depends on which years, ages and cancers you compare. England’s cancer registry changed greatly since the 1990s, and definitions of cancer have changed too. Data from 2013 onward are more comparable. In that period, we see rises in bowel, womb-lining, kidney, thyroid and pancreatic cancers, though changes in how some are counted may explain part of the rise.",
+          "evidence": [
+            {
+              "source_turn": 2,
+              "quote": "Whether early onset cancers have increased or not depends a lot on the periods of time you look at and how you break it down by age groups and by cancers."
+            },
+            {
+              "source_turn": 2,
+              "quote": "We prefer to look for changes over a shorter period of time, from 2013 onwards."
+            },
+            {
+              "source_turn": 2,
+              "quote": "In 1995, there were eight different cancer registries, which were partially computerised."
+            },
+            {
+              "source_turn": 2,
+              "quote": "the classification system has changed"
+            },
+            {
+              "source_turn": 2,
+              "quote": "we can see definite increases in some cancer sites—bowel, endometrium, kidney, thyroid and pancreas. Some of those might still be subject to some sorts of artefacts in the data."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Rous",
+          "text": "For example, one kind of pancreatic tumour used to be counted as non-cancerous and is now counted as cancer. That can raise the recorded number without a biological increase. It’s harder to see a recording change that would explain the rises in bowel and womb-lining cancer.",
+          "evidence": [
+            {
+              "source_turn": 4,
+              "quote": "a type of cancer in the pancreas, called neuroendocrine tumours, which historically were considered to be benign but are now considered malignant"
+            },
+            {
+              "source_turn": 4,
+              "quote": "not a true biological increase but an increase from the way we either detect or count them, because of the way classifications changed"
+            },
+            {
+              "source_turn": 2,
+              "quote": "Particularly for bowel and endometrial cancers, it is difficult to identify anything that would cause an artefactual increase."
+            }
+          ]
+        },
+        {
+          "speaker": "Sarah Stevens",
+          "text": "In England, the incidence rate for 25-to-49-year-olds rose 7% between 2013 and 2024. But cancer is still predominantly a disease of older people: someone over 50 is nine times more likely to have it than someone under 50. Cervical cancer has fallen, notably because of HPV vaccination; bowel and womb cancers stand out among the rises.",
+          "evidence": [
+            {
+              "source_turn": 6,
+              "quote": "If we look at the period 2013 to 2024—the 2024 national cancer registration statistics are the latest that we have published—we saw a 7% rise in the incidence rate in the 25 to 49 age group."
+            },
+            {
+              "source_turn": 6,
+              "quote": "You are nine times more likely to have cancer when you are over 50 than under 50."
+            },
+            {
+              "source_turn": 6,
+              "quote": "The most notable is cancer of the cervix, because of HPV vaccination."
+            },
+            {
+              "source_turn": 6,
+              "quote": "Our data emphasises cancers of the bowel and of the uterus in that period."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Woods",
+          "text": "Our bowel-cancer analysis found a 21% rise in the incidence rate for younger adults across the periods we studied, but that represents a small increase in the number of cases per 100,000 people. We also found that more advanced cancers were rising somewhat faster than cancers found at an early stage.",
+          "evidence": [
+            {
+              "source_turn": 9,
+              "quote": "our data shows an increase in colorectal cancer"
+            },
+            {
+              "source_turn": 9,
+              "quote": "it is an incidence rate ratio of 1.21, which is a 21% increase, but that is a small number of absolute cases—1.2 cases per 100,000 people"
+            },
+            {
+              "source_turn": 9,
+              "quote": "localised or early-stage cancers are not increasing quite as quickly as late-stage advanced cancers"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Lyratzopoulos",
+          "text": "The international evidence also points to increases in at least some younger age groups. But we must ask whether each rise is particular to younger people or is happening at older ages too. The bowel-cancer rise in young adults looks genuine. Screening in older adults may hide a rise that would otherwise have appeared there as well.",
+          "evidence": [
+            {
+              "source_turn": 19,
+              "quote": "there is consistent evidence internationally, which I know colleagues in the second panel such as Professor Garcia-Closas will also cover, that for at least some cancers there seems to be an increase in the younger age groups"
+            },
+            {
+              "source_turn": 19,
+              "quote": "how much of the increase is differential, so that it is concentrated more in the young than the old?"
+            },
+            {
+              "source_turn": 19,
+              "quote": "points to a genuine increase in the incidence of colorectal cancer in young adults"
+            },
+            {
+              "source_turn": 19,
+              "quote": "the increase in colorectal cancer incidence that we see in young patients might also have been seen in older patients had we not had colorectal cancer screening"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Risk, diagnosis and age",
+      "takeaway": "More younger adults are being diagnosed, but rare cancers are difficult to spot and the trend has not been accelerating in recent English data.",
+      "turns": [
+        {
+          "speaker": "Maya Ellis",
+          "text": "Could the rise simply reflect changes in the size or age of the population, rather than a higher risk for individuals?",
+          "evidence": [
+            {
+              "source_turn": 23,
+              "quote": "to what extent can the number of cancers diagnosed among young people be explained by changes in the size and age structure of the populations—we are looking at England, but also potentially the wider UK risk—rather than an increase in the individual risk?"
+            }
+          ]
+        },
+        {
+          "speaker": "Sarah Stevens",
+          "text": "The rates I quoted account for differences in age and sex, so the rise isn’t just a result of those population differences.",
+          "evidence": [
+            {
+              "source_turn": 24,
+              "quote": "The numbers I gave you are age and gender standardised rates. That is a statistical technique for making fair comparisons between populations, to account for that."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Woods",
+          "text": "The number of people needing care has risen too. In our figures, bowel-cancer diagnoses among 20-to-49-year-olds went from 2,040 in 2012 to 2,977 in 2023. That total depends both on individual risk and on how many people are in the age group.",
+          "evidence": [
+            {
+              "source_turn": 30,
+              "quote": "in 2012, we had 2,040 colorectal cancers diagnosed in people aged 20 to 49. I looked this up last night: for 2023, we had 2,977."
+            },
+            {
+              "source_turn": 30,
+              "quote": "There is a real increase in the number of people coming through the doors, but, as you allude to, that is a function of the risk of it happening and the number of people you have among whom that risk is active."
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "Why might advanced bowel cancers be rising faster? Could people be getting diagnosed later?",
+          "evidence": [
+            {
+              "source_turn": 10,
+              "quote": "Late-stage cancers must have been early-stage before they became late-stage. Is that an issue of diagnosis?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Woods",
+          "text": "Possibly. Cancer is rare under 50, so doctors may not immediately suspect it. Most people that age aren’t invited for routine screening, so they generally enter the system after developing symptoms. Those are possible explanations, not a settled answer.",
+          "evidence": [
+            {
+              "source_turn": 11,
+              "quote": "This is not 100% my area, but I think some of the hypotheses around that are that, as we have been saying, this is a rare disease in people under 50, so the natural clinical route is not necessarily direct to a cancer diagnosis."
+            },
+            {
+              "source_turn": 11,
+              "quote": "the absence of screening of those under 50 means that all these people, unless they are in a high-risk group, will come in symptomatically rather than through screening services"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Rous",
+          "text": "Patients may not think bowel symptoms in their 20s or 30s could be cancer either. Awareness matters, but simply sending everyone with possible symptoms for tests would put many people through investigations to find each rare case. We need research on the best approach.",
+          "evidence": [
+            {
+              "source_turn": 33,
+              "quote": "If you are in your 20s or 30s and you have a change in your bowel symptoms, you are unlikely to think, “This could be cancer,” and so you are unlikely to visit your GP as soon as someone older who experiences the same symptoms."
+            },
+            {
+              "source_turn": 38,
+              "quote": "for every patient that you detect early, you put a lot of people through a lot of investigations. I think this needs detailed research."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Woods",
+          "text": "In our bowel-cancer study, we saw little difference in the rate of new cases between more- and less-deprived areas, or between regions. Our unpublished survival analysis suggests younger patients have better outcomes than older ones despite often being diagnosed at a later stage. We couldn’t examine differences by ethnicity in the same detail because we lacked suitable population figures.",
+          "evidence": [
+            {
+              "source_turn": 40,
+              "quote": "we did not really see many differences in incidence—in the number of people developing early onset colorectal cancer—between the deprivation groups. There is not a lot of regional inequality either."
+            },
+            {
+              "source_turn": 40,
+              "quote": "the survival data that we have not yet published indicates better survival outcomes for people with early onset cancer, even given their advanced stage"
+            },
+            {
+              "source_turn": 40,
+              "quote": "we were not able to look at ethnicity in quite the same level of detail"
+            }
+          ]
+        },
+        {
+          "speaker": "Kit Malthouse",
+          "text": "Does the rise belong to particular generations? And is it getting faster?",
+          "evidence": [
+            {
+              "source_turn": 48,
+              "quote": "there is a cohort born in the 1990s"
+            },
+            {
+              "source_turn": 64,
+              "quote": "We see an increase, but is it increasing faster?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Rous",
+          "text": "In bowel cancer, there are signs that increased risk follows groups of people as they age. That has led some to ask about early-life exposures, though a continuing habit could also explain it. The increase didn’t suddenly begin with people born in the 1990s.",
+          "evidence": [
+            {
+              "source_turn": 49,
+              "quote": "there seems to be a cohort effect. As those people progress over the years, the increased risk travels with them within that cohort, so some people have hypothesised that maybe it is something that happened early in life."
+            },
+            {
+              "source_turn": 51,
+              "quote": "It could be a habit that most people maintain and continue throughout their lives, or whatever."
+            },
+            {
+              "source_turn": 63,
+              "quote": "before the 1990s there were increases as well, so it is not just a sudden jump"
+            }
+          ]
+        },
+        {
+          "speaker": "Sarah Stevens",
+          "text": "We haven’t seen the rise accelerate in the English data since 2013. It has continued at a fairly steady rate. Some people at particularly high inherited risk, including those with Lynch syndrome, can already be offered bowel screening earlier than the general population.",
+          "evidence": [
+            {
+              "source_turn": 65,
+              "quote": "We have not seen an acceleration; we have seen an increasing trend, but it has been fairly stable in that increment."
+            },
+            {
+              "source_turn": 58,
+              "quote": "patients who have Lynch syndrome, which is a rare disease, have a higher risk of some cancer types, including colorectal"
+            },
+            {
+              "source_turn": 58,
+              "quote": "Where relevant, some of those patients will start screening at a much earlier age than the general population."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "What might cause the rise?",
+      "takeaway": "Established risks explain part of the picture, but different cancers have different causes and a substantial part remains unexplained.",
+      "turns": [
+        {
+          "speaker": "Freddie van Mierlo",
+          "text": "Which explanations for the rises in some cancers among younger people look strongest?",
+          "evidence": [
+            {
+              "source_turn": 93,
+              "quote": "what are the leading explanations for increasing incidence of some cancers in younger people?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Smith-Byrne",
+          "text": "For bowel and womb-lining cancer, rising levels of overweight and obesity are an obvious place to start. But I don’t think they can explain the whole rise. Even for bowel cancer across all ages, established factors such as weight, alcohol, smoking and inactivity may explain only about half of cases.",
+          "evidence": [
+            {
+              "source_turn": 94,
+              "quote": "if we take as a premise that endometrial cancer and colorectal cancer are the ones that are perhaps rising most convincingly, our first explanation would have to be the change in the rate of overweight and obesity"
+            },
+            {
+              "source_turn": 94,
+              "quote": "about half is from established risk factors such as being overweight, obesity, alcohol, smoking and inactivity"
+            },
+            {
+              "source_turn": 96,
+              "quote": "I would not think it plausible that all the rise in incidence of early onset cancer can be explained by overweight and obesity, or things that we are aware of."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Coleman",
+          "text": "It’s important not to treat all under-50 cancers as one disease. Breast cancer is by far the most common in this age group, while skin cancer is also prominent; their causes differ from bowel cancer’s. About one in five bowel cancers under 50 may be inherited, but that proportion is unlikely to explain a change over time. Exposures in childhood, or even before birth, might matter, though they’re hard to study.",
+          "evidence": [
+            {
+              "source_turn": 97,
+              "quote": "About four in 10 cancers in this age group will be breast cancer, and also malignant melanoma features very highly."
+            },
+            {
+              "source_turn": 97,
+              "quote": "Different cancers have different risk factors and aetiologies to explain the trends."
+            },
+            {
+              "source_turn": 97,
+              "quote": "If you look solely at the under-50 population, it is probably about 20%, or one in five. That is unlikely to have changed over time."
+            },
+            {
+              "source_turn": 97,
+              "quote": "it could be something you were exposed to in very early childhood, possibly even in the prenatal period. That makes it very difficult to study"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Garcia-Closas",
+          "text": "Some prevention efforts are working: smoking-related cancers have fallen. For bowel cancer, several known risk factors have recently moved in a favourable direction, while excess weight has clearly increased. So the overall rise may reflect competing influences, and it’s important to maintain the improvements as well as tackle weight.",
+          "evidence": [
+            {
+              "source_turn": 107,
+              "quote": "We see that cancers related to smoking, for instance, have gone down, so we are definitely seeing the benefits of some of the prevention interventions."
+            },
+            {
+              "source_turn": 107,
+              "quote": "the only one clearly increasing over the relevant period was excess weight. All the other factors had favourable recent patterns."
+            },
+            {
+              "source_turn": 107,
+              "quote": "It could be that, although we see increases, we could have seen even worse increases if they were not compensated by some other factors bringing them down."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Garcia-Closas",
+          "text": "The number of diagnoses matters as well as the speed of a rise. In 2023, about 8,500 cancers diagnosed under 50 were breast cancers, compared with around 3,000 bowel cancers and 2,800 melanomas. Breast cancer has risen more slowly than bowel cancer and its rate appears to be stabilising. Reproductive factors are important to its risk; evidence for some suspected environmental contaminants is less established.",
+          "evidence": [
+            {
+              "source_turn": 107,
+              "quote": "Of those, 8,500 were breast cancer, so that was most of the burden, compared with 3,000 colorectal for both men and women, and 2,800 melanomas."
+            },
+            {
+              "source_turn": 107,
+              "quote": "Breast cancer has been increasing, but not at the rate of colorectal cancer, for quite a long time. The rate seems to be stabilising."
+            },
+            {
+              "source_turn": 107,
+              "quote": "it is mainly reproductive"
+            },
+            {
+              "source_turn": 107,
+              "quote": "There is increasing evidence that there might be some environmental contaminants such as pesticides or air pollution, though that is less established."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Riboli",
+          "text": "There’s a further complication: a risk factor can have different effects at different ages. Being moderately overweight earlier in life is associated with a lower rate of breast cancer before menopause, whereas obesity after menopause is associated with higher risk. We don’t yet fully understand the earlier-life finding.",
+          "evidence": [
+            {
+              "source_turn": 113,
+              "quote": "being moderately overweight from birth to childhood, through the teenage years and to young adulthood is associated with roughly a 10% to 15% reduction—I underline, reduction—in breast cancer incidence before menopause"
+            },
+            {
+              "source_turn": 113,
+              "quote": "a reversal of the situation after menopause"
+            },
+            {
+              "source_turn": 113,
+              "quote": "We do not have, honestly, a full explanation for why this is the case."
+            }
+          ]
+        },
+        {
+          "speaker": "Martin Wrigley",
+          "text": "Are cancers diagnosed in younger people biologically different, or are they the same cancers appearing earlier?",
+          "evidence": [
+            {
+              "source_turn": 114,
+              "quote": "are these earlier onset cancers a biologically different form of cancers, or are they the same?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Coleman",
+          "text": "We found some differences in the characteristics of bowel tumours by age. But when we compare people diagnosed at the same stage, survival looks quite similar. Younger people are more likely to be diagnosed after the cancer has advanced, so finding it sooner is a major concern. The tumour differences might offer clues to causes, but we don’t yet know what they mean.",
+          "evidence": [
+            {
+              "source_turn": 115,
+              "quote": "We did a study where we compared the molecular characteristics of colorectal cancers across different age groups, and we see differences."
+            },
+            {
+              "source_turn": 115,
+              "quote": "younger people are much more likely to present at a later stage with more advanced disease"
+            },
+            {
+              "source_turn": 115,
+              "quote": "the stage-specific survival is actually quite similar between the two"
+            },
+            {
+              "source_turn": 117,
+              "quote": "They could, but we do not know what they are yet."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Garcia-Closas",
+          "text": "Younger women are more likely to have triple-negative breast cancer, which is harder to treat. Its risk factors appear to differ from those of more common breast cancers, and we know less about what causes it.",
+          "evidence": [
+            {
+              "source_turn": 118,
+              "quote": "younger women tend to have what we call triple-negative breast cancers, which are harder to treat and have more aggressive characteristics"
+            },
+            {
+              "source_turn": 118,
+              "quote": "we know that there are differences in risk factors"
+            },
+            {
+              "source_turn": 118,
+              "quote": "We know less about the aetiology of these triple-negative cancers that are more common in younger than older people."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "An intriguing clue, not an answer",
+      "takeaway": "A bacterial substance may help explain some young-onset bowel cancers, but researchers cannot yet say how much risk it causes or how to prevent it.",
+      "turns": [
+        {
+          "speaker": "Dr Smith-Byrne",
+          "text": "One possible clue is colibactin, a substance made by some E. coli bacteria that can cause mutations. It appears more often in bowel tumours from younger people than in those from much older people. That’s interesting, but we don’t know how much cancer it explains.",
+          "evidence": [
+            {
+              "source_turn": 96,
+              "quote": "there is some evidence that a toxin produced by E. coli called colibactin causes mutations"
+            },
+            {
+              "source_turn": 96,
+              "quote": "This may be more present in those tumours in people diagnosed under 40 compared with those over 70, but it is important to say that at this point we do not know how much cancer can be explained by that."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Coleman",
+          "text": "In one study, signs of colibactin appeared in 33% of bowel tumours from younger patients, against 10% from patients over 70. The crucial missing comparison is with people who don’t have cancer. We don’t yet know how common the same bacteria or its effects are among younger people generally.",
+          "evidence": [
+            {
+              "source_turn": 110,
+              "quote": "33% of early onset colorectal cancer tumours from patients showed this colibactin, compared to 10% of tumours from people who had colorectal cancer over the age of 70"
+            },
+            {
+              "source_turn": 110,
+              "quote": "What that does not tell us, though, and what still needs to be found, is how that compares to the general population."
+            }
+          ]
+        },
+        {
+          "speaker": "Tom Collins",
+          "text": "Does research on the gut microbiome, especially in babies and mothers, give us any clues?",
+          "evidence": [
+            {
+              "source_turn": 111,
+              "quote": "Could either of you describe how you see this picture in terms of the population gut microbiome?"
+            },
+            {
+              "source_turn": 111,
+              "quote": "Particularly in infants and mothers, might any trends indicate something here?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Smith-Byrne",
+          "text": "Not yet. We lack enough detailed studies to know how these exposures work in mothers and infants, or whether exposure later in life has the same effect. An especially sensitive period early in life is possible, but still uncertain.",
+          "evidence": [
+            {
+              "source_turn": 112,
+              "quote": "We do not know. There are not a lot of studies where you would be able to understand that in the level of detail that we would want."
+            },
+            {
+              "source_turn": 112,
+              "quote": "It is also a question of whether, if you are exposed later in life to the same thing, it will have the same effect. The evidence suggests that there may be a sensitive period earlier in life"
+            }
+          ]
+        },
+        {
+          "speaker": "Kit Malthouse",
+          "text": "Should families be changing how they feed babies, or thinking differently about early antibiotic use, if colibactin turns out to matter?",
+          "evidence": [
+            {
+              "source_turn": 132,
+              "quote": "I read that there are theories about feeding practices, and that the growth in formula feeding for very young infants might have had an impact."
+            },
+            {
+              "source_turn": 134,
+              "quote": "It will look at things like antibiotic use in early life, which is another one I read about."
+            },
+            {
+              "source_turn": 136,
+              "quote": "there is a public health message about arresting this rise that goes to parents if we think this colibactin theory is correct. Is that right?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Coleman",
+          "text": "One study found a small link between repeated antibiotics in early childhood and later bowel cancer in people with a particular genetic characteristic. That isn’t enough to establish general advice. We also have no evidence so far that changes in breastfeeding explain early bowel-cancer trends; there are too few studies of these early-life exposures.",
+          "evidence": [
+            {
+              "source_turn": 135,
+              "quote": "There have been some studies showing an association between recurrent antibiotic use in early childhood and an increased risk of colorectal cancer, and it was specifically in people with a certain genetic polymorphism. Context-wise, that is a very small increase, and it is only one study."
+            },
+            {
+              "source_turn": 135,
+              "quote": "There is no evidence to date that changes in breastfeeding are associated with any changes in colorectal cancer at an early stage."
+            },
+            {
+              "source_turn": 135,
+              "quote": "We do not have very many studies on this."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Riboli",
+          "text": "Breastfeeding does have well-supported benefits, including a lower later breast-cancer risk for the mother. We simply don’t yet have comparable evidence that it prevents bowel cancer.",
+          "evidence": [
+            {
+              "source_turn": 138,
+              "quote": "the risk of breast cancer later in life is reduced by the duration of breastfeeding"
+            },
+            {
+              "source_turn": 138,
+              "quote": "we do not have as yet similar evidence on colorectal cancer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sorting evidence from headlines",
+      "takeaway": "Witnesses rejected simple explanations for the rise and distinguished established risks from questions that still need study.",
+      "turns": [
+        {
+          "speaker": "Kit Malthouse",
+          "text": "What about PFAS, 5G phones, covid vaccines, seed oils and hormones from the contraceptive pill? People see claims about these everywhere.",
+          "evidence": [
+            {
+              "source_turn": 139,
+              "quote": "The one that I have not heard you mention and I want to get your view on is PFAS."
+            },
+            {
+              "source_turn": 141,
+              "quote": "The first is 5G mobile phones."
+            },
+            {
+              "source_turn": 145,
+              "quote": "MRNA vaccine for covid."
+            },
+            {
+              "source_turn": 148,
+              "quote": "Seed oils is the latest one."
+            },
+            {
+              "source_turn": 152,
+              "quote": "the contraceptive pill and that hormone being more prevalent in the water supply"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Garcia-Closas",
+          "text": "PFAS are being studied and have been linked to some cancers, but not necessarily the ones rising in younger adults. Their levels have been falling, so they’re unlikely to be a major explanation for these recent rises. 5G is also unlikely to explain the cancers we’re discussing. Some contraceptive-pill preparations are associated with breast-cancer risk, but hormones don’t appear to be a major explanation for bowel cancer.",
+          "evidence": [
+            {
+              "source_turn": 140,
+              "quote": "it has been associated with some cancers, but not necessarily the ones that are increasing in younger adults"
+            },
+            {
+              "source_turn": 140,
+              "quote": "they are decreasing. They may be less likely to explain these recent increases in early onset cancer. It could be a component, but it is probably not a major driver."
+            },
+            {
+              "source_turn": 144,
+              "quote": "For the cancers that we are talking about, it is unlikely."
+            },
+            {
+              "source_turn": 153,
+              "quote": "We know that certain preparations are associated with breast cancer risk."
+            },
+            {
+              "source_turn": 153,
+              "quote": "Some research suggests that there are some hormonal factors in colorectal cancer, but they are probably not a major contributor."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Coleman",
+          "text": "The increase in younger-adult cancers began before 2020. That’s good evidence that covid vaccines aren’t a major cause of the trend. As for heavily processed seed oils and other foods, we need more research rather than a confident claim.",
+          "evidence": [
+            {
+              "source_turn": 146,
+              "quote": "the fact that the increase in early onset cancers predates 2020, to me, is good evidence that it is not a major contributory factor"
+            },
+            {
+              "source_turn": 151,
+              "quote": "We need more research."
+            }
+          ]
+        },
+        {
+          "speaker": "Martin Wrigley",
+          "text": "What about microplastics?",
+          "evidence": [
+            {
+              "source_turn": 154,
+              "quote": "Plastics and microplastics."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Riboli",
+          "text": "They’re worth investigating, but reliably measuring how much gets into a person’s body is difficult. We also lack clear evidence that ultra-processed foods directly increase cancer risk, though there’s strong evidence they increase the risk of becoming overweight.",
+          "evidence": [
+            {
+              "source_turn": 156,
+              "quote": "The research is essential to find reliable markers. What we call biomarkers, something that you can measure in the body that mark exposure to microplastics, is a big question."
+            },
+            {
+              "source_turn": 158,
+              "quote": "It is absolutely worth exploring."
+            },
+            {
+              "source_turn": 158,
+              "quote": "There is no clear evidence that they increase cancer risk."
+            },
+            {
+              "source_turn": 158,
+              "quote": "there is strong evidence that consumption of ultra-processed food, all sorts of junk food, increases the risk of overweight"
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "With so many alarming headlines, where should the public look for an assessment of what’s actually known?",
+          "evidence": [
+            {
+              "source_turn": 164,
+              "quote": "on an almost daily basis we see headlines in various newspapers and campaigns by influencers about something that will or will not cause you cancer"
+            },
+            {
+              "source_turn": 164,
+              "quote": "Who is responsible for addressing or rebutting those public health messages"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Garcia-Closas",
+          "text": "Scientists have a duty to communicate. Organisations including the World Health Organization’s cancer research agency and the World Cancer Research Fund review the evidence, so people can check what studies support a claim.",
+          "evidence": [
+            {
+              "source_turn": 165,
+              "quote": "Scientists definitely have a responsibility for communication. There are organisations that evaluate the evidence. The International Agency for Research on Cancer in Lyon, or IARC, where Elio has been for a long time, has very comprehensive reviews of the literature."
+            },
+            {
+              "source_turn": 165,
+              "quote": "There is WCRF as well."
+            },
+            {
+              "source_turn": 167,
+              "quote": "you can look at the evidence that has been summarised up to that stage"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Coleman",
+          "text": "Scientists also need to get better at communicating in the short videos many people actually watch. There’s a gap between published research and what reaches people online.",
+          "evidence": [
+            {
+              "source_turn": 172,
+              "quote": "I do not think that, as scientists, we are very good at the short-form video content that is consumed by much of the population, and there is a communication gap between what we find and publish in scientific papers, and even in what we publish in printed media, versus what goes into online media."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Research and prevention",
+      "takeaway": "Researchers want better evidence from early life and health records, while stressing that known ways to prevent cancer should not wait for new discoveries.",
+      "turns": [
+        {
+          "speaker": "Josh Fenton-Glynn",
+          "text": "What are the biggest gaps stopping us from understanding these rises and preventing cancer?",
+          "evidence": [
+            {
+              "source_turn": 179,
+              "quote": "What are the most important gaps in the research and data that we are doing that stop us from establishing why cancers are increasing and looking at better preventions and cures?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Smith-Byrne",
+          "text": "We can sometimes identify something associated with cancer without knowing when or how it acts, or whether we can prevent its effects. Colibactin is a good example. Even if research confirms a cause, we’ll need someone to develop and test a safe way to act on that finding.",
+          "evidence": [
+            {
+              "source_turn": 180,
+              "quote": "We are often relatively good at finding the “what”, and not as good at understanding the “when”, the “why” or the “how”."
+            },
+            {
+              "source_turn": 180,
+              "quote": "we do not have the appropriate study to understand whether it is important early in life or whether it can be intervened on"
+            },
+            {
+              "source_turn": 188,
+              "quote": "if we find a cause, who does something about it?"
+            },
+            {
+              "source_turn": 188,
+              "quote": "there needs to be someone who does that"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Riboli",
+          "text": "Large cohort studies often recruited people from their mid-30s or 40s, partly so enough cancers would occur during the study. We should also use studies that follow people from birth to learn what happens between birth and 30.",
+          "evidence": [
+            {
+              "source_turn": 182,
+              "quote": "all the large cohort studies involving half a million people in Europe or half a million people in the UK included people starting from age 35 or 40"
+            },
+            {
+              "source_turn": 182,
+              "quote": "there is a European and international association of what is called birth cohorts"
+            },
+            {
+              "source_turn": 182,
+              "quote": "This is where we can learn more about this grey area for cancer, which is what happens between birth and age 30."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Garcia-Closas",
+          "text": "National cancer records and health surveys are crucial because these cancers are relatively rare. Researchers need easier access to well-protected data to see how diagnoses and possible risks change across the whole population. Our Future Health plans to recruit millions of people and link their information to NHS records.",
+          "evidence": [
+            {
+              "source_turn": 183,
+              "quote": "we need investment in getting national-level data, because these are relatively rare cancers"
+            },
+            {
+              "source_turn": 183,
+              "quote": "Evaluating those trends at the national level and getting easier access to national-level data for researchers is really critical."
+            },
+            {
+              "source_turn": 185,
+              "quote": "Our Future Health, this cohort, which at the UK level is planning to recruit 5 million people and link with data from the NHS"
+            },
+            {
+              "source_turn": 208,
+              "quote": "most of the data will be available under very strict governance procedures to protect the privacy of patients and participants"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Garcia-Closas",
+          "text": "We also need better representation. Ethnic minorities are under-represented in many studies where people volunteer, and better information in national records would help us study differences in risk.",
+          "evidence": [
+            {
+              "source_turn": 210,
+              "quote": "Ethnic minorities are definitely under-represented in a lot of the research studies where people consent."
+            },
+            {
+              "source_turn": 210,
+              "quote": "using national-level data and getting better data on ancestry backgrounds in the national-level data will enable us to study those groups better"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Coleman",
+          "text": "People from poorer backgrounds are likely to be under-represented too. We need more funding for prevention research, including support that lets early-career scientists stay in the field. Good proposals already go unfunded.",
+          "evidence": [
+            {
+              "source_turn": 211,
+              "quote": "People from lower socioeconomic backgrounds are likely to be under-represented as well."
+            },
+            {
+              "source_turn": 181,
+              "quote": "the proportion of funding that goes towards cancer prevention is very small compared to what goes towards other aspects of cancer research"
+            },
+            {
+              "source_turn": 235,
+              "quote": "We review some fantastic proposals that are considered fundable, but there is not enough money to fund them."
+            },
+            {
+              "source_turn": 235,
+              "quote": "there are not enough funding opportunities for them to stay in research"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Garcia-Closas",
+          "text": "Studying early life is especially important for bowel cancer, but we shouldn’t neglect older adults. Most cancers rising in younger people are rising in older people too. Because cases are more common at older ages, studies there may reveal causes they share.",
+          "evidence": [
+            {
+              "source_turn": 203,
+              "quote": "I agree with that, particularly for colorectal cancer, but we have to keep in mind that most of the cancers that are increasing in younger people are also increasing in older adults. There are definitely shared causes."
+            },
+            {
+              "source_turn": 203,
+              "quote": "We can learn things in older adults that could help with the early onset cancers."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Riboli",
+          "text": "We also shouldn’t wait to apply what we already know. Expert reviews suggest many cancers could be prevented, yet progress against smoking hasn’t been matched everywhere: weight has risen and physical activity has fallen. Discovering new causes matters, but so does helping society act on established evidence.",
+          "evidence": [
+            {
+              "source_turn": 239,
+              "quote": "the quick win could come from applying what we know"
+            },
+            {
+              "source_turn": 239,
+              "quote": "we could prevent about 60% of the cancers occurring now, but we are not applying in society what we know"
+            },
+            {
+              "source_turn": 239,
+              "quote": "We have been successful with smoking. We are making some progress with alcohol, but there is still a long way to go. BMI has been going up. Physical activity has been decreasing."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

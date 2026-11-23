@@ -113,6 +113,7 @@ The JSON is checked automatically.
 * Give each chapter a one-sentence takeaway.
 * Aim for roughly 20-80 dialogue turns depending on the source length.
 * Keep every turn's `text` under 700 characters. Evidence excerpts don't count towards this limit.
+* Make every turn's `text` at least 10 characters. Turn a bare reply such as "Yes." into a short sentence, for example "Yes, that's right."
 * Split a long answer into several consecutive turns by the same speaker rather than writing one very long turn.
 * Every dialogue turn must have a non-empty `evidence` array.
 * Use only speaker labels declared in the `speakers` array.
