@@ -297,3 +297,79 @@ class EvidenceMatchingTests(unittest.TestCase):
         self.assertEqual(len(turns[0]["ranges"]), 1)
         self.assertEqual(turns[0]["missing"], ["something nobody ever said"])
         self.assertEqual(len(missing), 1)
+
+
+class ArchiveAndBatchTests(PacketTests):
+    def build_args(self):
+        return type("Args", (), {"root": str(self.root), "id": None, "check": False})()
+
+    def test_prompt_template_is_filled_in(self):
+        prompt = pipeline.prompt_for({**self.metadata, "witnesses": [], "speaker_candidates": ["Chair"]})
+        self.assertNotIn("{{", prompt)
+        self.assertIn('"source_id": 123', prompt)
+        self.assertIn("evidence", prompt)
+
+    def test_archived_session_leaves_the_site(self):
+        self.assertEqual(pipeline.build_command(self.build_args()), 0)
+        generated = self.root / "sessions" / "generated" / "oral-evidence-123.js"
+        self.assertTrue(generated.exists())
+        (self.root / "archive.json").write_text(json.dumps({"archived": [123]}))
+        self.assertEqual(pipeline.build_command(self.build_args()), 0)
+        self.assertFalse(generated.exists())
+        self.assertNotIn("oral-evidence-123", (self.root / "index.html").read_text())
+        self.assertTrue((self.root / "inbox" / "123" / "condensation.json").exists())
+
+    def test_duplicate_transcripts_share_one_request(self):
+        twin = self.root / "inbox" / "124"
+        twin.mkdir()
+        (twin / "transcript.txt").write_text(self.transcript, encoding="utf-8")
+        (twin / "metadata.json").write_text(
+            json.dumps({**self.metadata, "parliament_oral_evidence_id": 124}), encoding="utf-8"
+        )
+        requests, items = pipeline.build_batch_requests([self.root / "inbox" / "123", twin])
+        self.assertEqual(len(requests), 1)
+        self.assertEqual(items[0]["packets"], ["123", "124"])
+        self.assertEqual(requests[0]["url"], "/v1/chat/completions")
+
+    def test_invalid_answer_keeps_the_previous_condensation(self):
+        packet = self.root / "inbox" / "123"
+        before = (packet / "condensation.json").read_text()
+        errors, _ = pipeline.apply_condensation(packet, '{"schema_version": 1, "chapters": []}')
+        self.assertTrue(errors)
+        self.assertEqual((packet / "condensation.json").read_text(), before)
+
+    def test_collect_writes_finished_results(self):
+        from unittest import mock
+
+        answer = dict(self.condensation, title="A new condensation of the hearing")
+        pipeline.write_batch_state(
+            self.root,
+            [{"batch_id": "batch_1", "items": [{"custom_id": "123", "packets": ["123"]}]}],
+            {"123": 1},
+        )
+        line = json.dumps({
+            "custom_id": "123",
+            "response": {"status_code": 200, "body": {
+                "choices": [{"message": {"content": json.dumps(answer)}}],
+                "usage": {"prompt_tokens": 10, "completion_tokens": 20},
+            }},
+            "error": None,
+        })
+
+        def fake(api_key, method, path, **kwargs):
+            if path == "/batches/batch_1":
+                return json.dumps({"status": "completed", "output_file_id": "file_out"}).encode()
+            if path == "/files/file_out/content":
+                return (line + "\n").encode()
+            raise AssertionError(path)
+
+        args = type("Args", (), {"root": str(self.root)})()
+        with mock.patch.dict("os.environ", {"CONDENSE_API_KEY": "key"}), mock.patch.object(
+            pipeline, "openai_request", side_effect=fake
+        ):
+            self.assertEqual(pipeline.batch_collect_command(args), 0)
+        written = json.loads((self.root / "inbox" / "123" / "condensation.json").read_text())
+        self.assertEqual(written["title"], "A new condensation of the hearing")
+        pending, attempts = pipeline.read_batch_state(self.root)
+        self.assertEqual(pending, [])
+        self.assertEqual(attempts, {})

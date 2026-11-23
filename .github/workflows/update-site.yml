@@ -11,6 +11,10 @@ on:
         description: "How many publication days to check"
         required: false
         default: "7"
+      recondense_ids:
+        description: "Optional: comma-separated session IDs to re-condense now (Batch tier)"
+        required: false
+        default: ""
 
 concurrency:
   group: update-site
@@ -40,12 +44,25 @@ jobs:
           LOOKBACK_DAYS: ${{ inputs.lookback_days || '7' }}
         run: python3 scripts/parliament_pipeline.py sync --lookback-days "$LOOKBACK_DAYS"
 
-      - name: Condense new transcripts with GPT-6 Luna
+      # Condensing uses the model's Batch tier (half price): tonight's new
+      # transcripts are submitted below and their results are collected here on
+      # a later run, usually the next night.
+      - name: Collect finished condensations from earlier batches
+        env:
+          CONDENSE_API_KEY: ${{ secrets.CONDENSE_API_KEY }}
+        run: python3 scripts/parliament_pipeline.py batch-collect
+
+      - name: Send new transcripts to GPT-6 Sol (Batch tier)
         id: condense
         env:
           CONDENSE_API_KEY: ${{ secrets.CONDENSE_API_KEY }}
           BILLING_ALERT_FILE: ${{ runner.temp }}/billing-alert.txt
-        run: python3 scripts/parliament_pipeline.py condense
+          RECONDENSE_IDS: ${{ inputs.recondense_ids || '' }}
+        run: |
+          if [ -n "$RECONDENSE_IDS" ]; then
+            python3 scripts/parliament_pipeline.py batch-submit --ids "$RECONDENSE_IDS"
+          fi
+          python3 scripts/parliament_pipeline.py batch-submit
 
       - name: Alert when the model API credit runs out
         if: ${{ always() && steps.condense.outcome != 'skipped' }}
@@ -66,7 +83,7 @@ jobs:
           git config user.name "parliament-transcript-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add index.html
-          for path in inbox sessions/generated; do
+          for path in inbox sessions/generated batches archive.json; do
             if [ -d "$path" ]; then
               git add "$path"
             fi
