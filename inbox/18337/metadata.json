@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18337,
+  "activity_id": 39378,
+  "document_id": 315567,
+  "meeting_date": "2026-11-18",
+  "meeting_date_display": "18 November 2026",
+  "publication_date": "2026-11-23T13:47:18",
+  "title": "Early onset cancer: What does the science tell us?",
+  "committee": "Science and Technology Committee (Commons)",
+  "committees": [
+    {
+      "id": 135,
+      "name": "Science and Technology Committee (Commons)",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10094,
+      "title": "Early onset cancer: What does the science tell us?",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Dr Laura Woods",
+      "role": "Senior Lecturer in Public Health",
+      "organisation": "Newcastle University"
+    },
+    {
+      "name": "Sarah Stevens",
+      "role": "Deputy Director",
+      "organisation": "National Disease Registration Service, NHS England"
+    },
+    {
+      "name": "Dr Brian Rous",
+      "role": "Clinical Lead",
+      "organisation": "National Disease Registration Service, NHS England"
+    },
+    {
+      "name": "Professor Georgios Lyratzopoulos",
+      "role": "Professor of Cancer Epidemiology",
+      "organisation": "Epidemiology of Cancer Healthcare & Outcomes (ECHO), University College London"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Dr Rous",
+    "Sarah Stevens",
+    "Dr Woods",
+    "Professor Lyratzopoulos",
+    "Maya Ellis",
+    "Daniel Zeichner",
+    "Kit Malthouse",
+    "Freddie van Mierlo",
+    "Dr Smith-Byrne",
+    "Professor Coleman",
+    "Professor Riboli",
+    "The question is",
+    "Professor Garcia-Closas",
+    "Tom Collins",
+    "Martin Wrigley",
+    "Josh Fenton-Glynn"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18337/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18337",
+  "source_sha256": "696e1fd77a7959d4e60ac9d630ec83386b4f76d6f78242adc300cc8fe926c4f0",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

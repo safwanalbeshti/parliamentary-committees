@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18333,
+  "activity_id": 39461,
+  "document_id": 315544,
+  "meeting_date": "2026-11-18",
+  "meeting_date_display": "18 November 2026",
+  "publication_date": "2026-11-23T09:04:47",
+  "title": "Preparing for winter",
+  "committee": "Energy Security and Net Zero Committee",
+  "committees": [
+    {
+      "id": 664,
+      "name": "Energy Security and Net Zero Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10084,
+      "title": "Preparing for winter",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Martin McCluskey MP",
+      "role": "Minister for Local Energy and Jobs",
+      "organisation": "Department for Energy Security and Net Zero"
+    },
+    {
+      "name": "David Thomas",
+      "role": "Interim Director General, Household Consumers and Energy Retail",
+      "organisation": "Department for Energy Security and Net Zero"
+    },
+    {
+      "name": "Ben Golding",
+      "role": "Director of Affordability and Retail",
+      "organisation": "Department for Energy Security and Net Zero"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "III",
+    "Chair",
+    "Dr Barrett",
+    "Alex Belsham-Harris",
+    "Nye Jones",
+    "Mike Reader",
+    "Claire Young",
+    "Graeme Downie",
+    "Torcuil Crichton",
+    "Another victim said",
+    "Ed Dodman",
+    "Neil Kenward",
+    "Wera Hobhouse",
+    "Ben Golding",
+    "David Thomas",
+    "Martin McCluskey",
+    "Before I do that, you gave some figures",
+    "Melanie Onn"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18333/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18333",
+  "source_sha256": "0a5106166868ac1170b13673484497571acda0bfdea8373be8b0773d68e962db",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18336,
+  "activity_id": 39376,
+  "document_id": 315564,
+  "meeting_date": "2026-11-17",
+  "meeting_date_display": "17 November 2026",
+  "publication_date": "2026-11-23T13:40:08",
+  "title": "Scientific research funding",
+  "committee": "Science and Technology Committee (Commons)",
+  "committees": [
+    {
+      "id": 135,
+      "name": "Science and Technology Committee (Commons)",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9638,
+      "title": "Scientific research funding",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Professor Jon Butterworth",
+      "role": "Professor of Physics",
+      "organisation": "University College London"
+    },
+    {
+      "name": "Professor Catherine Heymans",
+      "role": "Astronomer Royal for Scotland and Professor of Astrophysics",
+      "organisation": "University of Edinburgh"
+    },
+    {
+      "name": "Dr Simon Williams",
+      "role": "Visiting scientist; Postdoctoral Research Associate",
+      "organisation": "Institute for Particle Physics Phenomenology, University of Durham; Karlsruhe Institute of Technology"
+    },
+    {
+      "name": "Professor George Efstathio",
+      "role": "Professor of Astrophysics",
+      "organisation": "University of Cambridge"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Professor Butterworth",
+    "Dr Williams",
+    "Professor Heymans",
+    "Freddie van Mierlo",
+    "Professor Efstathiou",
+    "Daniel Zeichner",
+    "Emily Darlington"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18336/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18336",
+  "source_sha256": "74e9712ba8f307dfe3750bafc15afcafe258f4e44f5fd9247f83042656d7c6f9",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

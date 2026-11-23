@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18335,
+  "activity_id": 39493,
+  "document_id": 315558,
+  "meeting_date": "2026-11-10",
+  "meeting_date_display": "10 November 2026",
+  "publication_date": "2026-11-23T12:47:19",
+  "title": "Trade in a turbulent world: how should the UK deploy its trade instruments?",
+  "committee": "International Agreements Committee",
+  "committees": [
+    {
+      "id": 448,
+      "name": "International Agreements Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9706,
+      "title": "Trade in a turbulent world: how should the UK deploy its trade instruments?",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Sebastian Wood",
+      "role": "Chair",
+      "organisation": "China-British Business Council"
+    },
+    {
+      "name": "Professor Kerry Brown",
+      "role": "Professor of Chinese Studies",
+      "organisation": "King’s College London"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Lord German",
+    "Sir Sebastian Wood",
+    "Professor Kerry Brown",
+    "Lord Hannay of Chiswick",
+    "Baroness Verma",
+    "Lord Boateng",
+    "Baroness Bi",
+    "Lord Anderson of Swansea",
+    "Baroness Bonham-Carter of Yarnbury",
+    "Baroness Lawlor",
+    "Baroness Anelay of St Johns",
+    "Lord McDonald of Salford"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18335/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18335",
+  "source_sha256": "3c65a3990fd0b3017ea729c780f30913d94af70c42da7528db5e1488685a3c89",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}
