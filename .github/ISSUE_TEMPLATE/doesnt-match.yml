@@ -1,0 +1,35 @@
+name: "Doesn't match the transcript"
+description: Report a condensed line that isn't faithful to what was actually said.
+title: "[Doesn't match] "
+labels: ["doesnt-match"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for checking the condensed dialogue against the official transcript.
+        The details of the line you were reading are filled in below — just tell us what's wrong.
+  - type: dropdown
+    id: reason
+    attributes:
+      label: What's wrong with this line?
+      options:
+        - It says something the speaker didn't say
+        - It's stronger or more certain than what they said
+        - It leaves out an important caveat or disagreement
+        - It's attributed to the wrong person
+        - It's still confusing or full of jargon
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Anything to add? (optional)
+      description: For example, which words are wrong or what the speaker actually meant.
+  - type: textarea
+    id: context
+    attributes:
+      label: The line you were reading
+      description: Filled in automatically — please leave as is.
+    validations:
+      required: true

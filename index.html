@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Parliamentary Committees, in Plain English</title>
-    <link rel="stylesheet" href="styles.css?v=30" />
+    <link rel="stylesheet" href="styles.css?v=32" />
     <link rel="preload" as="image" href="Energy Resilience/committee_room_4.png" />
   </head>
   <body>
@@ -301,7 +301,17 @@
         </label>
         <section class="evidence-panel" id="evidencePanel" aria-label="Original transcript" hidden>
           <header class="evidence-head">
-            <h3>Original transcript</h3>
+            <div class="evidence-head-row">
+              <h3>Original transcript</h3>
+              <a
+                class="evidence-report"
+                id="evidenceReport"
+                href="https://github.com/safwanalbeshti/parliamentary-committees/issues/new?template=doesnt-match.yml"
+                target="_blank"
+                rel="noopener"
+                title="Tell us if this line isn’t faithful to the transcript (opens GitHub)"
+              >Doesn’t match?</a>
+            </div>
             <p class="evidence-note" id="evidenceNote" aria-live="polite"></p>
           </header>
           <div class="evidence-body" id="evidenceBody" tabindex="0"></div>
@@ -642,6 +652,6 @@
     <script src="sessions/generated/oral-evidence-18329.js?v=89164712"></script>
     <script src="sessions/generated/oral-evidence-18330.js?v=7495f089"></script>
     <!-- GENERATED_SESSIONS_END -->
-    <script defer src="app.js?v=25"></script>
+    <script defer src="app.js?v=27"></script>
   </body>
 </html>
