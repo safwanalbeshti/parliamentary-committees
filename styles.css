@@ -1894,6 +1894,87 @@ body:has(.meeting-menu:not([hidden])) {
   outline-offset: 2px;
 }
 
+/* ---------- favourites (Browse sessions page) ---------- */
+
+.menu-section-heading {
+  margin: 0 0 12px;
+  color: #00553a;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.favourites {
+  margin-bottom: 30px;
+}
+
+/* A card plus its star button. The pair lifts together on hover. */
+.block-wrap {
+  position: relative;
+  display: flex;
+  min-width: 0;
+  transition: transform 0.15s ease;
+}
+
+.block-wrap > .block {
+  flex: 1;
+  min-width: 0;
+}
+
+.block-wrap > .block .block-title {
+  padding-right: 34px;
+}
+
+.block-wrap:hover,
+.block-wrap:has(:focus-visible) {
+  transform: translateY(-2px);
+}
+
+.block-wrap > .block:hover,
+.block-wrap > .block:focus-visible {
+  transform: none;
+}
+
+.block-wrap:hover > .block {
+  box-shadow: 0 14px 30px rgba(0, 85, 58, 0.18);
+}
+
+.fav-star {
+  position: absolute;
+  top: 12px;
+  right: 10px;
+  z-index: 1;
+  display: grid;
+  place-items: center;
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: #7c8a83;
+  font: inherit;
+  font-size: 1.3rem;
+  line-height: 1;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.fav-star:hover {
+  background: rgba(0, 110, 70, 0.1);
+  color: #006e46;
+}
+
+.fav-star[aria-pressed="true"] {
+  color: #006e46;
+}
+
+.fav-star:focus-visible {
+  outline: 3px solid #8cc4a6;
+  outline-offset: 1px;
+}
+
 /* ---------- session header: keep the title readable at any width ---------- */
 
 /* The session picker's options are long ("date · every witness's name"), and a

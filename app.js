@@ -50,6 +50,8 @@ function memberKindLabel(name) {
 }
 
 const STORAGE_KEY = "committee-viewer-progress";
+// Starred committees and inquiries, kept in this browser only (no account).
+const FAVOURITES_KEY = "committee-viewer-favourites";
 
 /*
  * Terms a general reader is unlikely to know. Each session also carries its own
@@ -136,6 +138,9 @@ const el = {
   homeLink: document.querySelector("#homeLink"),
   meetingMenu: document.querySelector("#meetingMenu"),
   blockGrid: document.querySelector("#blockGrid"),
+  favourites: document.querySelector("#favourites"),
+  favouritesGrid: document.querySelector("#favouritesGrid"),
+  allHeading: document.querySelector("#allHeading"),
   modeButtons: [...document.querySelectorAll(".mode-button")],
   menuCrumb: document.querySelector("#menuCrumb"),
   crumbBack: document.querySelector("#crumbBack"),
@@ -226,6 +231,7 @@ let evidenceOpen = false;
 let evidenceState = null; // { sessionId, paragraphs, perTurn, marked }
 // The inquiry whose sessions are listed on their own page (a meeting key).
 let openInquiry = null;
+let favourites = loadFavourites();
 
 init();
 
@@ -519,6 +525,120 @@ function plural(count, word) {
   return `${count} ${word}${count === 1 ? "" : "s"}`;
 }
 
+/* ---------- favourites ---------- */
+
+// { committee: Set of committee names, inquiry: Set of meeting keys }.
+// Storage can be missing or blocked (private windows, some iframes), so
+// favourites then simply last until the page is closed.
+function loadFavourites() {
+  const empty = { committee: new Set(), inquiry: new Set() };
+  try {
+    const raw = JSON.parse(localStorage.getItem(FAVOURITES_KEY) || "{}");
+    return {
+      committee: new Set(Array.isArray(raw.committees) ? raw.committees : []),
+      inquiry: new Set(Array.isArray(raw.inquiries) ? raw.inquiries : []),
+    };
+  } catch {
+    return empty;
+  }
+}
+
+function saveFavourites() {
+  try {
+    localStorage.setItem(
+      FAVOURITES_KEY,
+      JSON.stringify({
+        committees: [...favourites.committee],
+        inquiries: [...favourites.inquiry],
+      })
+    );
+  } catch {
+    // Not saved; it still works for this visit.
+  }
+}
+
+function isFavourite(kind, id) {
+  return favourites[kind].has(id);
+}
+
+function syncStar(star) {
+  const on = isFavourite(star.dataset.favKind, star.dataset.favId);
+  star.setAttribute("aria-pressed", String(on));
+  star.textContent = on ? "★" : "☆";
+  star.title = on ? "Remove from favourites" : "Add to favourites";
+}
+
+function toggleFavourite(kind, id) {
+  const set = favourites[kind];
+  if (set.has(id)) set.delete(id);
+  else set.add(id);
+  saveFavourites();
+
+  const wasInFavourites = el.favouritesGrid.contains(document.activeElement);
+  for (const star of el.meetingMenu.querySelectorAll(".fav-star")) {
+    if (star.dataset.favKind === kind && star.dataset.favId === id) syncStar(star);
+  }
+  renderFavourites();
+
+  // Un-starring from the favourites list removes that card: keep keyboard
+  // focus on the same item's star in the main list.
+  if (wasInFavourites) {
+    const match = [...el.blockGrid.querySelectorAll(".fav-star")].find(
+      (star) => star.dataset.favKind === kind && star.dataset.favId === id
+    );
+    if (match) match.focus();
+  }
+}
+
+// Wraps a committee or inquiry card with its star (a separate button, since
+// the card itself is a button).
+function withStar(block, kind, id, name) {
+  const wrap = document.createElement("div");
+  wrap.className = "block-wrap";
+
+  const star = document.createElement("button");
+  star.type = "button";
+  star.className = "fav-star";
+  star.dataset.favKind = kind;
+  star.dataset.favId = id;
+  star.setAttribute("aria-label", `Favourite: ${name}`);
+  syncStar(star);
+  star.addEventListener("click", () => toggleFavourite(kind, id));
+
+  wrap.append(block, star);
+  return wrap;
+}
+
+function starredCommittee(committee) {
+  return withStar(committeeBlock(committee), "committee", committee.name, committee.name);
+}
+
+function starredInquiry(meeting, showCommittee) {
+  return withStar(inquiryBlock(meeting, showCommittee), "inquiry", meeting.key, meeting.title);
+}
+
+// The "Your favourites" list at the top level of Browse: starred committees,
+// then starred inquiries, each newest first. Hidden when there are none.
+function renderFavourites() {
+  const atTopLevel = el.menuCrumb.hidden;
+  const fragment = document.createDocumentFragment();
+
+  if (atTopLevel) {
+    for (const committee of committeesFromSessions()) {
+      if (isFavourite("committee", committee.name)) fragment.append(starredCommittee(committee));
+    }
+    for (const meeting of meetingsFromSessions()) {
+      if (isFavourite("inquiry", meeting.key)) fragment.append(starredInquiry(meeting, true));
+    }
+  }
+
+  const any = fragment.childNodes.length > 0;
+  el.favouritesGrid.replaceChildren(fragment);
+  el.favourites.hidden = !any;
+  el.allHeading.hidden = !any;
+  el.allHeading.textContent = menuMode === "committee" ? "All committees" : "All inquiries";
+}
+
 // An inquiry block: clicking opens a page listing that inquiry's sessions.
 function inquiryBlock(meeting, showCommittee) {
   const block = document.createElement("button");
@@ -626,30 +746,36 @@ function renderMenu() {
       meta.textContent = inquiry.committee;
       el.crumbTitle.append(meta);
     }
+    // An inquiry opened from "Your favourites" has no committee page behind it.
     el.crumbBack.textContent =
-      menuMode === "committee" && openCommittee ? `← ${openCommittee}` : "← All inquiries";
+      menuMode !== "committee"
+        ? "← All inquiries"
+        : openCommittee
+          ? `← ${openCommittee}`
+          : "← All committees";
   } else if (inCommitteeView) {
     const committee = committeesFromSessions().find(
       (entry) => entry.name === openCommittee
     );
     for (const meeting of committee ? committee.meetings : []) {
-      fragment.append(inquiryBlock(meeting, false));
+      fragment.append(starredInquiry(meeting, false));
     }
     el.crumbTitle.textContent = openCommittee;
     el.crumbBack.textContent = "← All committees";
   } else if (menuMode === "committee") {
     for (const committee of committeesFromSessions()) {
-      fragment.append(committeeBlock(committee));
+      fragment.append(starredCommittee(committee));
     }
   } else {
     for (const meeting of meetingsFromSessions()) {
-      fragment.append(inquiryBlock(meeting, true));
+      fragment.append(starredInquiry(meeting, true));
     }
   }
 
   el.menuCrumb.hidden = !(inquiry || inCommitteeView);
   el.blockGrid.classList.toggle("is-sessions", Boolean(inquiry));
   el.blockGrid.replaceChildren(fragment);
+  renderFavourites();
   if (!el.meetingMenu.hidden) setUrl(menuHash());
 }
 
