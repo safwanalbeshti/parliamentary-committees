@@ -40,10 +40,14 @@ The **Discover, condense and publish** GitHub Action runs every night (23:17 UTC
 1. Queries the official UK Parliament Committees API for recent oral evidence.
 2. Downloads the documents, strips formatting, and deduplicates by evidence ID and a
    SHA-256 hash of the cleaned transcript, writing `inbox/<id>/` packets.
-3. Sends each new transcript to the model API (GPT-6 Luna) with the packet's prompt and saves
-   the plain-English dialogue as `condensation.json`. A failed validation is retried
-   once with the validator's error list; a packet that still fails is left
-   uncondensed and a GitHub issue flags it for manual attention.
+3. Collects any finished condensations from earlier runs, then sends each new
+   transcript to GPT-6 Sol through OpenAI's **Batch tier** (half price; results usually
+   arrive within hours and are collected on the next run). The prompt is
+   `scripts/condense_prompt.md`: a plain-English dialogue where every line carries
+   verbatim `evidence` quotes from the transcript. Pending batches are tracked in
+   `batches/`. An answer that fails validation is not published; the packet is sent
+   again on the next run, and after two failed attempts a GitHub issue flags it.
+   Duplicate transcripts that Parliament publishes under two IDs are condensed once.
 4. Validates every condensation (source hash, speaker declarations, chapter
    structure, turn lengths; it warns when a claimed speaker name is not found in the
    official transcript), generates `sessions/generated/oral-evidence-<id>.js`,
@@ -53,7 +57,12 @@ If Parliament changes a transcript later, the hash changes and the session is
 re-condensed from the new source. An existing condensation is never silently kept
 when its source has moved.
 
-At roughly five meetings a day, GPT-6 Luna usage costs well under $1/month.
+At 100–165 sessions a month, GPT-6 Sol with evidence on the Batch tier costs roughly
+$8–13/month.
+
+Sessions listed in `archive.json` are kept in `inbox/` but taken off the website: sync,
+condense, build and issues all skip them. To re-condense specific sessions now, run the
+workflow manually with `recondense_ids` (comma-separated IDs).
 
 ### Condensing a packet by hand
 

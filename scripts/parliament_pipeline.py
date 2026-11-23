@@ -46,7 +46,9 @@ USER_AGENT = "plain-english-committee-viewer/1.0"
 CONDENSE_API_URL = os.environ.get(
     "CONDENSE_API_URL", "https://api.openai.com/v1/chat/completions"
 )
-CONDENSE_MODEL = os.environ.get("CONDENSE_MODEL", "gpt-6-luna")
+CONDENSE_MODEL = os.environ.get("CONDENSE_MODEL", "gpt-6-sol")
+OPENAI_API_BASE = os.environ.get("CONDENSE_API_BASE", "https://api.openai.com/v1")
+PROMPT_TEMPLATE = Path(__file__).with_name("condense_prompt.md")
 ROOT = Path(__file__).resolve().parents[1]
 
 INDEX_START = "    <!-- GENERATED_SESSIONS_START -->"
@@ -384,11 +386,12 @@ def make_metadata(item: dict[str, Any], transcript: str) -> dict[str, Any]:
 
 
 def prompt_for(metadata: dict[str, Any]) -> str:
+    """The condensation prompt: scripts/condense_prompt.md with this session's details."""
     witnesses = metadata.get("witnesses") or []
     candidates = metadata.get("speaker_candidates") or []
     witness_lines = "\n".join(
         f"* {entry['name']}: {entry['role']}"
-        + (f", {entry['organisation']}" if entry["organisation"] else "")
+        + (f", {entry['organisation']}" if entry.get("organisation") else "")
         for entry in witnesses
     )
     candidate_lines = "\n".join(f"* {name}" for name in candidates)
@@ -397,260 +400,36 @@ def prompt_for(metadata: dict[str, Any]) -> str:
     # a "speaker". Name those explicitly rather than hoping the model spots them.
     strays = [name for name in candidates if len(name.split()) > 6]
     stray_note = (
-        "\n"
-        + "\n".join(f"`{name}` is not a speaker and must be ignored." for name in strays)
-        + "\n"
+        "\n" + "\n".join(f"`{name}` is not a speaker and must be ignored." for name in strays) + "\n"
         if strays
         else ""
     )
-    status = metadata["transcript_status"]
-
-    return f"""# Condense this parliamentary evidence session
-
-You've been given the transcript of a parliamentary committee meeting. Produce a
-condensed version that a general reader can understand easily.
-
-The goal is not to condense as aggressively as possible. Preserve enough detail for
-the reader to understand the substance of the discussion, the reasoning behind
-important claims, and meaningful disagreements.
-
-Present the result mainly as a shorter, natural dialogue between the people who took
-part. Use natural spoken English rather than formal parliamentary language. The
-dialogue should feel conversational and readable, but don't make serious speakers
-sound artificially chatty or informal.
-
-Think carefully about what the discussion means before rewriting it. Use contractions
-naturally, such as "isn't" instead of "is not".
-
-## Writing for a lay reader
-
-Assume the reader has no background in politics, law, economics, science, technology,
-or the meeting's subject.
-
-For every line, ask: could an ordinary reader with no specialist knowledge explain
-back what this sentence actually means? If not, rewrite it more concretely.
-
-Follow these rules:
-
-* Replace unnecessary jargon with the everyday idea it represents. Do not merely
-  replace one piece of jargon with slightly simpler jargon.
-  Example:
-  `regulatory interoperability`
-  -> `making sure different countries' rules can work together without conflicting`
-* Keep specialist terms when knowing the term itself is useful. If you retain an
-  unfamiliar technical, legal, political, economic, or parliamentary term, add it to
-  the glossary.
-* Briefly identify unfamiliar institutions where that helps immediate understanding.
-  Example:
-  `Ofgem, the energy regulator, ...`
-* Remove specialist metaphors and state their literal meaning instead.
-  Example:
-  `there's little connective tissue between these initiatives`
-  -> `there's very little coordination between these different initiatives`
-  Do the same with phrases such as `the AI stack`, `joined-up government`, or
-  `move the dial` when their meaning would not be obvious to a general reader.
-* Avoid jargon-heavy strings of abstract nouns. Rewrite them around people,
-  organisations, actions, or concrete outcomes.
-  Example:
-  `an independent evaluator ecosystem for model testing`
-  -> `independent organisations that test AI models`
-* When someone proposes a technical, legal, economic, or institutional measure,
-  explain what people would actually do.
-  Example:
-  `tabletop crisis exercises`
-  -> make clear that officials would practise responding together to a simulated
-  crisis.
-* Prefer concrete wording about who does what, what changes, and why it matters.
-  Avoid vague phrases such as `drive implementation`, `strengthen frameworks`, or
-  `enable coordination` unless the dialogue makes clear what those actions mean in
-  practice.
-* Do not over-explain ordinary concepts. The result should remain natural rather than
-  becoming a textbook.
-
-## Condensation and accuracy
-
-The condensed version should feel like a readable conversation rather than meeting
-minutes.
-
-Committee questions may be shortened substantially if their main purpose is simply to
-introduce the next issue. Witness answers may be reorganised slightly for clarity,
-but:
-
-* Preserve who said what. Never transfer or combine claims between speakers.
-* Preserve the speaker's actual position and level of certainty.
-* Never turn speculation or qualified claims into stronger factual claims.
-* Do not invent facts, motives, consensus, quotations, recommendations, or identities.
-* Preserve disagreements, challenges, uncertainty, and qualifications whenever they
-  materially affect the meaning.
-* Do not simplify away important distinctions between genuinely different ideas.
-* Keep the main reasoning, evidence, examples, and concrete proposals needed to
-  understand the discussion.
-
-You may remove:
-
-* greetings and thanks;
-* procedural remarks with no substantive content;
-* verbal filler;
-* repeated versions of the same point;
-* long question preambles that do not affect the answer;
-* tangents that add little to understanding;
-* repeated examples when one strong example is enough.
-
-Do not remove useful explanation merely to make the transcript shorter.
-
-## Speaker rules
-
-* Keep every named speaker's real name exactly as the transcript gives it.
-* Never replace a named committee member with `Committee Member`.
-* Use `Committee Member` only if the transcript genuinely leaves a speaker unnamed.
-* Never merge different speakers.
-* Use `Chair` for the chair when that makes the dialogue easier to follow.
-* The people listed under `Witness metadata` below are the only witnesses and must
-  have kind `witness`.
-* Every other valid speaker is either the chair (`chair`) or a committee member
-  (`member`).
-* A committee member is never a witness.
-* Use only genuine speakers from the transcript. Ignore automatically detected labels
-  that are clearly fragments of spoken prose.
-
-## Structural requirements
-
-The JSON is checked automatically.
-
-* Give the session 2-8 short chapters.
-* Give each chapter a one-sentence takeaway.
-* Aim for roughly 20-80 dialogue turns depending on the source length.
-* Keep every turn under 700 characters.
-* Split a long answer into several consecutive turns by the same speaker rather than
-  writing one very long turn.
-* Use only speaker labels declared in the `speakers` array.
-* Include every speaker who appears in the condensed dialogue in the `speakers` array.
-* Do not include speakers who never appear in the condensed dialogue unless required
-  by the schema.
-* Return only valid raw JSON matching the schema below, with no Markdown fence or
-  surrounding text.
-
-## Official metadata
-
-* Parliament oral-evidence ID: {metadata['parliament_oral_evidence_id']}
-* Required source hash: `{metadata['source_sha256']}`
-* Committee: {metadata['committee']}
-* Subject: {metadata['title']}
-* Meeting date: {metadata['meeting_date_display']}
-* Transcript status: {status}
-* Source: {metadata['source_url']}
-
-## Witness metadata
-
-{witness_lines or "* No structured witness names were supplied by the API; use the transcript header."}
-
-## Speaker labels detected in the transcript
-
-These are automatically detected and may contain errors. Use only labels that are
-clearly real speakers in the source transcript.
-
-{candidate_lines or "* None detected automatically; inspect the transcript carefully."}
-{stray_note}
-## Output structure
-
-Return exactly this structure:
-
-{{
-  "schema_version": 1,
-  "source_id": {metadata['parliament_oral_evidence_id']},
-  "source_sha256": "{metadata['source_sha256']}",
-  "title": "A concise, engaging title",
-  "label": "{metadata['meeting_date_display']} \u00b7 A short picker label",
-  "summary": "One paragraph explaining what the hearing covered and its main conclusion.",
-  "speakers": [
-    {{
-      "label": "Chair",
-      "name": "<the chair's actual name from the transcript>",
-      "role": "Chair of the committee",
-      "kind": "chair"
-    }},
-    {{
-      "label": "<witness's actual name>",
-      "name": "<witness's actual name>",
-      "role": "<their role and organisation>",
-      "kind": "witness"
-    }}
-  ],
-  "glossary": [
-    {{
-      "term": "<a specialist term that still appears in your dialogue>",
-      "definition": "<one plain-English sentence explaining it, max 200 characters>"
-    }}
-  ],
-  "chapters": [
-    {{
-      "title": "Short chapter title",
-      "takeaway": "One plain-English sentence capturing the chapter's main point.",
-      "turns": [
-        {{
-          "speaker": "Chair",
-          "text": "The condensed, conversational line."
-        }}
-      ]
-    }}
-  ]
-}}
-
-Replace every `<...>` placeholder with source-derived content. Never output the
-placeholder text itself.
-
-## Glossary rules
-
-The `glossary` contains unfamiliar specialist terms that still appear in your
-condensed dialogue. Use it for things such as:
-
-* technical vocabulary;
-* parliamentary or legal terms;
-* economic or policy terms;
-* acronyms;
-* unfamiliar institutions;
-* named regulatory systems.
-
-Rules:
-
-* Give 0-25 glossary entries.
-* Include only terms that actually appear in the condensed dialogue.
-* Write each term exactly as it appears in the dialogue.
-* List each term once; never repeat a term.
-* Give one plain-English sentence per definition.
-* Keep each definition under 200 characters.
-* Do not include ordinary everyday words.
-* If jargon can be replaced cleanly without losing useful meaning, replace it.
-* Keep a specialist term when knowing the term itself is useful to the reader, then
-  explain it in the glossary.
-* Do not use the glossary as an excuse to leave unnecessarily obscure writing in the
-  dialogue.
-
-Examples of terms that may belong in the glossary include:
-
-* UNIDO
-* statutory instrument
-* Ofgem
-* interoperability
-* full-stack
-* capacity building
-* agentic AI
-
-## Speaker kinds
-
-Allowed speaker kinds are:
-
-* `chair`
-* `member`
-* `witness`
-
-If you use `Committee Member` for a speaker whom the transcript genuinely leaves
-unnamed:
-
-* set both `label` and `name` to `Committee Member`;
-* give them kind `member`;
-* explain in `role` that the label represents an unnamed committee questioner.
-"""
+    official = "\n".join(
+        [
+            f"* Parliament oral-evidence ID: {metadata['parliament_oral_evidence_id']}",
+            f"* Required source hash: `{metadata['source_sha256']}`",
+            f"* Committee: {metadata['committee']}",
+            f"* Subject: {metadata['title']}",
+            f"* Meeting date: {metadata.get('meeting_date_display') or 'see the transcript heading'}",
+            f"* Transcript status: {metadata.get('transcript_status', 'published')}",
+            f"* Source: {metadata['source_url']}",
+        ]
+    )
+    replacements = {
+        "{{OFFICIAL_METADATA}}": official,
+        "{{WITNESS_METADATA}}": witness_lines
+        or "* No structured witness names were supplied by the API; use the transcript header.",
+        "{{SPEAKER_LABELS}}": candidate_lines
+        or "* None detected automatically; inspect the transcript carefully.",
+        "{{STRAY_NOTE}}": stray_note,
+        "{{SOURCE_ID}}": str(metadata["parliament_oral_evidence_id"]),
+        "{{SOURCE_SHA256}}": str(metadata["source_sha256"]),
+        "{{MEETING_DATE}}": metadata.get("meeting_date_display") or "<meeting date from the transcript>",
+    }
+    text = PROMPT_TEMPLATE.read_text(encoding="utf-8")
+    for placeholder, value in replacements.items():
+        text = text.replace(placeholder, value)
+    return text
 
 
 def condensation_template(metadata: dict[str, Any]) -> dict[str, Any]:
@@ -741,8 +520,12 @@ def sync(args: argparse.Namespace) -> int:
     failures: list[dict[str, Any]] = []
     unchanged = 0
 
+    archived = archived_ids(root)
     for item in items:
         evidence_id = int(item["id"])
+        if str(evidence_id) in archived:
+            unchanged += 1
+            continue
         packet = root / "inbox" / str(evidence_id)
         existing = read_json(packet / "metadata.json", {})
         try:
@@ -1098,16 +881,25 @@ def validate_packet(packet: Path) -> tuple[list[str], list[str], dict[str, Any] 
     return errors, warnings, condensation
 
 
-def iter_packets(root: Path) -> Iterable[Path]:
+def archived_ids(root: Path) -> set[str]:
+    """Sessions taken off the website. Their packets stay in inbox/ untouched, but
+    sync, condense, build and issues all leave them alone (see archive.json)."""
+    data = read_json(root / "archive.json", {})
+    return {str(value) for value in (data.get("archived") or [])} if isinstance(data, dict) else set()
+
+
+def iter_packets(root: Path, include_archived: bool = False) -> Iterable[Path]:
     inbox = root / "inbox"
     if not inbox.exists():
         return []
+    hidden = set() if include_archived else archived_ids(root)
     return sorted(
         (
             path
             for path in inbox.iterdir()
             if path.is_dir()
             and path.name.isdigit()
+            and path.name not in hidden
             and (path / "metadata.json").exists()
         ),
         key=lambda path: int(path.name),
@@ -1138,20 +930,34 @@ def validate_command(args: argparse.Namespace) -> int:
     return 1 if failed else 0
 
 
-def chat_completion(api_key: str, messages: list[dict[str, str]]) -> str:
+def condense_payload(messages: list[dict[str, str]]) -> dict[str, Any]:
     payload: dict[str, Any] = {
         "model": CONDENSE_MODEL,
         "messages": messages,
         "response_format": {"type": "json_object"},
-        "stream": False,
     }
     # OpenAI's reasoning models reject max_tokens; reasoning tokens also count
-    # against the limit, hence the generous default.
-    limit = int(os.environ.get("CONDENSE_MAX_TOKENS", "24000"))
+    # against the limit, hence the generous default (evidence makes answers long).
+    limit = int(os.environ.get("CONDENSE_MAX_TOKENS", "48000"))
     if "openai.com" in CONDENSE_API_URL:
         payload["max_completion_tokens"] = limit
     else:
         payload["max_tokens"] = limit
+    return payload
+
+
+def condense_messages(packet: Path) -> list[dict[str, str]]:
+    metadata = read_json(packet / "metadata.json")
+    transcript = (packet / "transcript.txt").read_text(encoding="utf-8")
+    return [
+        {"role": "system", "content": prompt_for(metadata)},
+        {"role": "user", "content": transcript},
+    ]
+
+
+def chat_completion(api_key: str, messages: list[dict[str, str]]) -> str:
+    payload = condense_payload(messages)
+    payload["stream"] = False
     body = json.dumps(payload).encode("utf-8")
     request = Request(
         CONDENSE_API_URL,
@@ -1224,11 +1030,7 @@ def needs_condensation(packet: Path) -> bool:
 def condense_packet(packet: Path, api_key: str) -> tuple[list[str], list[str]]:
     """Condense one packet, retrying once with the validator's error list."""
     metadata = read_json(packet / "metadata.json")
-    transcript = (packet / "transcript.txt").read_text(encoding="utf-8")
-    messages = [
-        {"role": "system", "content": prompt_for(metadata)},
-        {"role": "user", "content": transcript},
-    ]
+    messages = condense_messages(packet)
     target = packet / "condensation.json"
     errors: list[str] = []
     warnings: list[str] = []
@@ -1310,6 +1112,262 @@ def condense_command(args: argparse.Namespace) -> int:
             print("  done")
     print(f"{condensed} condensed, {failed} failed, {len(packets)} attempted.")
     return 1 if failed and not condensed else 0
+
+
+# ---------- Batch tier: submit tonight, collect on a later run ----------
+
+BATCH_DIR = "batches"
+BATCH_TERMINAL = {"completed", "failed", "expired", "cancelled"}
+MAX_BATCH_ATTEMPTS = 2
+
+
+def openai_request(
+    api_key: str,
+    method: str,
+    path: str,
+    payload: Any = None,
+    raw: bytes | None = None,
+    content_type: str | None = None,
+) -> bytes:
+    headers = {"Authorization": f"Bearer {api_key}", "User-Agent": USER_AGENT}
+    data = None
+    if payload is not None:
+        data = json.dumps(payload).encode("utf-8")
+        headers["Content-Type"] = "application/json"
+    elif raw is not None:
+        data = raw
+        headers["Content-Type"] = content_type or "application/octet-stream"
+    request = Request(OPENAI_API_BASE.rstrip("/") + path, data=data, headers=headers, method=method)
+    try:
+        with urlopen(request, timeout=600) as response:
+            return response.read()
+    except HTTPError as exc:
+        text = exc.read().decode("utf-8", "replace")
+        try:
+            error = json.loads(text)["error"]
+        except Exception:
+            error = {"message": text[:300] or str(exc.reason)}
+        message = str(error.get("message") or exc.reason)
+        codes = {str(error.get("code") or ""), str(error.get("type") or "")}
+        lowered = message.lower()
+        if exc.code == 402 or codes & BILLING_ERROR_CODES or "quota" in lowered or "credit" in lowered:
+            raise BillingError(
+                f"The model API rejected the request ({exc.code}): {message} Check the account balance."
+            ) from exc
+        raise PipelineError(f"Model API {method} {path} failed ({exc.code}): {message}") from exc
+
+
+def upload_batch_file(api_key: str, jsonl: str) -> str:
+    boundary = "pipeline-" + hashlib.sha256(jsonl.encode("utf-8")).hexdigest()[:24]
+    head = (
+        f"--{boundary}\r\nContent-Disposition: form-data; name=\"purpose\"\r\n\r\nbatch\r\n"
+        f"--{boundary}\r\nContent-Disposition: form-data; name=\"file\"; filename=\"condense.jsonl\"\r\n"
+        "Content-Type: application/jsonl\r\n\r\n"
+    ).encode("utf-8")
+    body = head + jsonl.encode("utf-8") + f"\r\n--{boundary}--\r\n".encode("utf-8")
+    response = json.loads(
+        openai_request(
+            api_key, "POST", "/files", raw=body, content_type=f"multipart/form-data; boundary={boundary}"
+        )
+    )
+    return str(response["id"])
+
+
+def read_batch_state(root: Path) -> tuple[list[dict[str, Any]], dict[str, int]]:
+    pending = read_json(root / BATCH_DIR / "pending.json", [])
+    attempts = read_json(root / BATCH_DIR / "attempts.json", {})
+    return (pending if isinstance(pending, list) else []), (attempts if isinstance(attempts, dict) else {})
+
+
+def write_batch_state(root: Path, pending: list[dict[str, Any]], attempts: dict[str, int]) -> None:
+    write_json(root / BATCH_DIR / "pending.json", pending)
+    write_json(root / BATCH_DIR / "attempts.json", dict(sorted(attempts.items())))
+
+
+def in_flight_ids(root: Path) -> set[str]:
+    pending, _ = read_batch_state(root)
+    return {str(pid) for entry in pending for item in entry.get("items", []) for pid in item.get("packets", [])}
+
+
+def build_batch_requests(packets: list[Path]) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+    """One request per distinct transcript: Parliament sometimes publishes the same
+    session under two IDs, and both packets then share one condensation."""
+    groups: dict[str, list[Path]] = {}
+    for packet in packets:
+        metadata = read_json(packet / "metadata.json", {})
+        groups.setdefault(str(metadata.get("source_sha256") or packet.name), []).append(packet)
+    requests: list[dict[str, Any]] = []
+    items: list[dict[str, Any]] = []
+    for source_sha, members in groups.items():
+        lead = members[0]
+        requests.append(
+            {
+                "custom_id": lead.name,
+                "method": "POST",
+                "url": "/v1/chat/completions",
+                "body": condense_payload(condense_messages(lead)),
+            }
+        )
+        items.append(
+            {"custom_id": lead.name, "packets": [member.name for member in members], "source_sha256": source_sha}
+        )
+    return requests, items
+
+
+def apply_condensation(packet: Path, answer: str) -> tuple[list[str], list[str]]:
+    """Write a model answer as the packet's condensation if it validates; otherwise
+    keep whatever was there before."""
+    metadata = read_json(packet / "metadata.json")
+    target = packet / "condensation.json"
+    previous = target.read_text(encoding="utf-8") if target.exists() else None
+    try:
+        condensation = extract_json_object(answer)
+    except PipelineError as exc:
+        return [str(exc)], []
+    condensation["schema_version"] = 1
+    condensation["source_id"] = metadata["parliament_oral_evidence_id"]
+    condensation["source_sha256"] = metadata["source_sha256"]
+    write_json(target, condensation)
+    errors, warnings, _ = validate_packet(packet)
+    if errors:
+        if previous is None:
+            target.unlink()
+        else:
+            write_text(target, previous)
+    return errors, warnings
+
+
+def batch_submit_command(args: argparse.Namespace) -> int:
+    root = Path(args.root).resolve()
+    pending, attempts = read_batch_state(root)
+    busy = in_flight_ids(root)
+    if args.ids:
+        wanted = [value.strip() for value in args.ids.split(",") if value.strip()]
+        packets = [root / "inbox" / value for value in wanted if value not in busy]
+        missing = [packet.name for packet in packets if not (packet / "metadata.json").exists()]
+        if missing:
+            raise PipelineError("No packet for: " + ", ".join(missing))
+    else:
+        packets = [
+            packet
+            for packet in iter_packets(root)
+            if needs_condensation(packet)
+            and packet.name not in busy
+            and attempts.get(packet.name, 0) < MAX_BATCH_ATTEMPTS
+        ]
+    requests, items = build_batch_requests(packets)
+    if args.dry_run or not requests:
+        for item in items:
+            print(f"Would submit {item['custom_id']} (packets {', '.join(item['packets'])})")
+        print(f"{len(requests)} request(s) for {len(packets)} packet(s) {'would be' if args.dry_run else 'were'} submitted.")
+        return 0
+    api_key = os.environ.get("CONDENSE_API_KEY", "")
+    if not api_key:
+        raise PipelineError("Set the CONDENSE_API_KEY environment variable.")
+    jsonl = "".join(json.dumps(request, ensure_ascii=False) + "\n" for request in requests)
+    try:
+        file_id = upload_batch_file(api_key, jsonl)
+        batch = json.loads(
+            openai_request(
+                api_key,
+                "POST",
+                "/batches",
+                payload={
+                    "input_file_id": file_id,
+                    "endpoint": "/v1/chat/completions",
+                    "completion_window": "24h",
+                    "metadata": {"purpose": "condense parliamentary transcripts"},
+                },
+            )
+        )
+    except BillingError as exc:
+        alert_file = os.environ.get("BILLING_ALERT_FILE")
+        if alert_file:
+            Path(alert_file).write_text(str(exc), encoding="utf-8")
+        raise
+    pending.append(
+        {
+            "batch_id": batch["id"],
+            "input_file_id": file_id,
+            "model": CONDENSE_MODEL,
+            "submitted_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
+            "items": items,
+        }
+    )
+    for item in items:
+        for packet_id in item["packets"]:
+            attempts[packet_id] = attempts.get(packet_id, 0) + 1
+    write_batch_state(root, pending, attempts)
+    print(f"Submitted batch {batch['id']}: {len(requests)} request(s) covering {len(packets)} packet(s).")
+    return 0
+
+
+def batch_collect_command(args: argparse.Namespace) -> int:
+    root = Path(args.root).resolve()
+    pending, attempts = read_batch_state(root)
+    if not pending:
+        print("No batches are waiting.")
+        return 0
+    api_key = os.environ.get("CONDENSE_API_KEY", "")
+    if not api_key:
+        raise PipelineError("Set the CONDENSE_API_KEY environment variable.")
+    still_waiting: list[dict[str, Any]] = []
+    written = failed = 0
+    for entry in pending:
+        batch = json.loads(openai_request(api_key, "GET", f"/batches/{entry['batch_id']}"))
+        status = str(batch.get("status"))
+        if status not in BATCH_TERMINAL:
+            counts = batch.get("request_counts") or {}
+            print(f"Batch {entry['batch_id']} is {status} ({counts.get('completed', 0)}/{counts.get('total', '?')} done).")
+            still_waiting.append(entry)
+            continue
+        results: dict[str, dict[str, Any]] = {}
+        if batch.get("output_file_id"):
+            content = openai_request(api_key, "GET", f"/files/{batch['output_file_id']}/content")
+            for line in content.decode("utf-8").splitlines():
+                if line.strip():
+                    record = json.loads(line)
+                    results[str(record.get("custom_id"))] = record
+        print(f"Batch {entry['batch_id']} {status}: {len(results)} result(s).")
+        for item in entry.get("items", []):
+            record = results.get(item["custom_id"])
+            answer = None
+            problem = None
+            if record is None:
+                problem = f"no result (batch {status})"
+            elif record.get("error"):
+                problem = str(record["error"])
+            else:
+                response = record.get("response") or {}
+                if response.get("status_code") != 200:
+                    problem = f"HTTP {response.get('status_code')}: {str(response.get('body'))[:200]}"
+                else:
+                    answer = response["body"]["choices"][0]["message"]["content"] or ""
+                    usage = response["body"].get("usage") or {}
+                    print(
+                        f"  {item['custom_id']}: {usage.get('prompt_tokens')} in, "
+                        f"{usage.get('completion_tokens')} out"
+                    )
+            for packet_id in item["packets"]:
+                packet = root / "inbox" / packet_id
+                if answer is None:
+                    failed += 1
+                    print(f"  {packet_id}: failed — {problem}", file=sys.stderr)
+                    continue
+                errors, warnings = apply_condensation(packet, answer)
+                for warning in warnings:
+                    print(f"  {packet_id} warning: {warning}")
+                if errors:
+                    failed += 1
+                    for error in errors:
+                        print(f"  {packet_id} error: {error}", file=sys.stderr)
+                else:
+                    written += 1
+                    attempts.pop(packet_id, None)
+                    print(f"  {packet_id}: condensed")
+    write_batch_state(root, still_waiting, attempts)
+    print(f"{written} condensed, {failed} failed, {len(still_waiting)} batch(es) still running.")
+    return 0
 
 
 GLOSSARY_PROMPT = """You are given the plain-English dialogue from a UK parliamentary
@@ -1621,6 +1679,20 @@ def build_command(args: argparse.Namespace) -> int:
             if (root / "sessions" / "generated").exists()
             else []
         )
+        generated_dir = root / "sessions" / "generated"
+        for archived_id in sorted(archived_ids(root)):
+            for stale in (
+                generated_dir / f"oral-evidence-{archived_id}.js",
+                generated_dir / "evidence" / f"oral-evidence-{archived_id}.json",
+            ):
+                if stale.exists():
+                    if args.check:
+                        failed = True
+                        print(f"error: {stale.relative_to(root)} belongs to an archived session.")
+                    else:
+                        stale.unlink()
+                        print(f"Removed archived {stale.relative_to(root)}")
+        all_generated = [path for path in all_generated if path.exists()]
         approved_ids = {path.name for path in generated_files}
         active_generated = [path for path in all_generated if path.name in approved_ids]
         if update_index(root, active_generated, args.check):
@@ -1730,7 +1802,10 @@ def issues_command(args: argparse.Namespace) -> int:
 
     opened = 0
     closed = 0
+    busy = in_flight_ids(root)
     for packet in iter_packets(root):
+        if packet.name in busy:
+            continue
         metadata = read_json(packet / "metadata.json")
         if not isinstance(metadata, dict):
             continue
@@ -1882,6 +1957,21 @@ def parser() -> argparse.ArgumentParser:
     condense_parser.add_argument("--max-packets", type=int)
     condense_parser.add_argument("--dry-run", action="store_true")
     condense_parser.set_defaults(function=condense_command)
+
+    submit_parser = commands.add_parser(
+        "batch-submit",
+        help="Send packets needing condensation to the model's Batch tier (half price).",
+    )
+    submit_parser.add_argument(
+        "--ids", help="Comma-separated packet IDs to (re)condense, even if already condensed."
+    )
+    submit_parser.add_argument("--dry-run", action="store_true")
+    submit_parser.set_defaults(function=batch_submit_command)
+
+    collect_parser = commands.add_parser(
+        "batch-collect", help="Fetch finished batches and write their condensations."
+    )
+    collect_parser.set_defaults(function=batch_collect_command)
 
     gloss_parser = commands.add_parser(
         "gloss",

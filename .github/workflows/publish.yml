@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - "inbox/**/condensation.json"
+      - "archive.json"
       - "scripts/**"
       - "tests/**"
       - "index.html"
