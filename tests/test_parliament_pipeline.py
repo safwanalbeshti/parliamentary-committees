@@ -373,3 +373,60 @@ class ArchiveAndBatchTests(PacketTests):
         pending, attempts = pipeline.read_batch_state(self.root)
         self.assertEqual(pending, [])
         self.assertEqual(attempts, {})
+
+    def test_billing_hard_limit_counts_as_out_of_funds(self):
+        self.assertTrue(pipeline.is_billing_error(400, set(), "Billing hard limit has been reached"))
+        self.assertTrue(pipeline.is_billing_error(400, {"billing_hard_limit_reached"}, ""))
+        self.assertFalse(pipeline.is_billing_error(400, set(), "Invalid model"))
+
+    def test_collect_reads_the_error_file_and_spares_attempts_on_billing(self):
+        from unittest import mock
+
+        pipeline.write_batch_state(
+            self.root,
+            [{"batch_id": "batch_1", "items": [{"custom_id": "123", "packets": ["123"]}]}],
+            {"123": 1},
+        )
+        error_line = json.dumps({
+            "custom_id": "123",
+            "response": {"status_code": 400, "body": {"error": {
+                "code": "billing_hard_limit_reached", "message": "Billing hard limit has been reached"}}},
+            "error": None,
+        })
+
+        def fake(api_key, method, path, **kwargs):
+            if path == "/batches/batch_1":
+                return json.dumps({"status": "completed", "error_file_id": "file_err"}).encode()
+            if path == "/files/file_err/content":
+                return (error_line + "\n").encode()
+            raise AssertionError(path)
+
+        alert = self.root / "alert.txt"
+        args = type("Args", (), {"root": str(self.root)})()
+        env = {"CONDENSE_API_KEY": "key", "BILLING_ALERT_FILE": str(alert)}
+        with mock.patch.dict("os.environ", env), mock.patch.object(
+            pipeline, "openai_request", side_effect=fake
+        ):
+            self.assertEqual(pipeline.batch_collect_command(args), 0)
+        self.assertIn("Billing hard limit", alert.read_text())
+        pending, attempts = pipeline.read_batch_state(self.root)
+        self.assertEqual(pending, [])
+        self.assertEqual(attempts, {})
+
+    def test_submit_does_not_fail_the_run_when_out_of_funds(self):
+        from unittest import mock
+
+        (self.root / "inbox" / "123" / "condensation.json").unlink()
+
+        def refuse(*args, **kwargs):
+            raise pipeline.BillingError("Billing hard limit has been reached")
+
+        alert = self.root / "alert.txt"
+        args = type("Args", (), {"root": str(self.root), "ids": None, "dry_run": False})()
+        env = {"CONDENSE_API_KEY": "key", "BILLING_ALERT_FILE": str(alert)}
+        with mock.patch.dict("os.environ", env), mock.patch.object(
+            pipeline, "upload_batch_file", side_effect=refuse
+        ):
+            self.assertEqual(pipeline.batch_submit_command(args), 0)
+        self.assertTrue(alert.exists())
+        self.assertEqual(pipeline.read_batch_state(self.root), ([], {}))
