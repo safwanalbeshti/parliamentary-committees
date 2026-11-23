@@ -1,0 +1,848 @@
+{
+  "schema_version": 1,
+  "source_id": 18340,
+  "source_sha256": "b2372ad61372e59bd6cb9321bc88a1574b60c2148d95750ef3ef881e6f5caff3",
+  "title": "Preparing public services for hotter summers, fires and floods",
+  "label": "18 November 2026 · Climate adaptation",
+  "summary": "Councils, fire services and the NHS described growing pressure from extreme heat, wildfires and floods. The witnesses said preparation needs to cover everyday services as well as emergencies: buildings must be safer, vulnerable people need help before a crisis, and responders need enough staff, equipment and shared information. They welcomed some recent investment but said short-term funding would not meet the continuing risks.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Mr Toby Perkins",
+      "role": "Chair of the Environmental Audit Committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Councillor Fodor",
+      "name": "Councillor Martin Fodor",
+      "role": "Vice-Chair of the Local Government Association Neighbourhoods Committee",
+      "kind": "witness"
+    },
+    {
+      "label": "Phil Garrigan",
+      "name": "Phil Garrigan",
+      "role": "Chair of the National Fire Chiefs Council",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Kochhar",
+      "name": "Dr Amit Kochhar",
+      "role": "Chief officer of the British Medical Association",
+      "kind": "witness"
+    },
+    {
+      "label": "Cat Eccles",
+      "name": "Cat Eccles",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Dr Roz Savage",
+      "name": "Dr Roz Savage",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "John Whitby",
+      "name": "John Whitby",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Manuela Perteghella",
+      "name": "Manuela Perteghella",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Chris Hinchliff",
+      "name": "Chris Hinchliff",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Martin Rhodes",
+      "name": "Martin Rhodes",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Local Government Association",
+      "definition": "An organisation that represents councils in England and Wales."
+    },
+    {
+      "term": "local resilience forums",
+      "definition": "Local groups that bring emergency services, councils and other organisations together to plan for and respond to emergencies."
+    },
+    {
+      "term": "statutory duty",
+      "definition": "A responsibility an organisation is required by law to carry out."
+    },
+    {
+      "term": "mutual aid",
+      "definition": "An arrangement under which one emergency service sends people or equipment to help another."
+    },
+    {
+      "term": "NHS estate",
+      "definition": "The buildings and other physical facilities used by the National Health Service."
+    },
+    {
+      "term": "PPE",
+      "definition": "Personal protective equipment, such as clothing designed to protect firefighters from hazards."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Services under pressure",
+      "takeaway": "Councils, fire services and hospitals face growing climate risks while already struggling with staff, buildings and budgets.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Are councils, fire services and the NHS getting the staff and money they need to prepare for climate change?",
+          "evidence": [
+            {
+              "source_turn": 5,
+              "quote": "To what extent do you feel that your sector—relating to the issues of local government, firefighting services and the national health service—is being adequately funded, staffed and resourced to prepare for the effects of climate change"
+            }
+          ]
+        },
+        {
+          "speaker": "Councillor Fodor",
+          "text": "Some councils have plans and staff, but finding money is difficult when existing services are under pressure. Others lack the people, skills and funding to prepare. They’ll need money both to change buildings and facilities and to run services differently.",
+          "evidence": [
+            {
+              "source_turn": 6,
+              "quote": "There are councils that have made preparations and have staff, ideas and plans. Getting funding is difficult. It is a very competitive situation, given every other current service and current pressure."
+            },
+            {
+              "source_turn": 6,
+              "quote": "There will be councils without the right capacity, skills, staff and knowledge, with lack of revenue and capital, because a lot of capital investment is needed and a lot of revenue pressures are likely to come from this."
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "We’ve heard that people died in overheated care homes this summer. Do councils know how to spot when a care home is becoming dangerously hot?",
+          "evidence": [
+            {
+              "source_turn": 7,
+              "quote": "we heard evidence that a substantial portion of the excess deaths this summer were in overheated care homes."
+            },
+            {
+              "source_turn": 7,
+              "quote": "do you think there is expertise within local authorities on what to look out for and how a care home might tip into being dangerously hot?"
+            }
+          ]
+        },
+        {
+          "speaker": "Councillor Fodor",
+          "text": "There’s some understanding and concern, but cooling and ventilation add to care homes’ costs. Bristol has mapped where heat is likely to hit hardest: those areas closely match poorer neighbourhoods, where people have less ability to adapt. Not every council has such a map.",
+          "evidence": [
+            {
+              "source_turn": 8,
+              "quote": "There is certainly some understanding, with people who have quite a lot of concern about the implications."
+            },
+            {
+              "source_turn": 8,
+              "quote": "They are very concerned about the need for cooling and ventilation in summer, which is increasingly a pressure."
+            },
+            {
+              "source_turn": 8,
+              "quote": "my authority has mapped the likely heat impact across Bristol. Not every authority would have that heat map. It shows that the areas correlate very closely with areas of lowest income and most deprivation, where there will be the least ability to adapt and respond."
+            }
+          ]
+        },
+        {
+          "speaker": "Phil Garrigan",
+          "text": "Fire and rescue services have had some welcome investment, but demand has risen by over 29% since 2015 while firefighter numbers have fallen by 11,000. Wildfires and floods account for a significant part of the extra work.",
+          "evidence": [
+            {
+              "source_turn": 12,
+              "quote": "We have seen some green shoots—the wildfire summits were referred to by the previous panel—and some investment back into fire and rescue services, but I will put that into context. The demand on the fire and rescue services has increased by over 29% since 2015, with a significant amount directly attributable to climate change, wildfire and floods. Over a similar period of time, we have seen firefighter numbers drop by 11,000."
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "What has changed for firefighters as wildfires have become a bigger concern?",
+          "evidence": [
+            {
+              "source_turn": 13,
+              "quote": "House fires are less commonplace than they were 30 years ago, but clearly this summer we saw wildfires. Can you give a sense of the changing face of fire services"
+            }
+          ]
+        },
+        {
+          "speaker": "Phil Garrigan",
+          "text": "In 2018 we brought firefighters from across the country to major moorland fires. By 2022, services were under severe pressure from numerous major incidents. There were more than 1,300 wildfires in 2026. On one August day, nine major incidents were declared, and requests for help overwhelmed the resources available nationally.",
+          "evidence": [
+            {
+              "source_turn": 16,
+              "quote": "We were bringing resources from across the country to deal with fires in Saddleworth Moor and Winter Hill."
+            },
+            {
+              "source_turn": 16,
+              "quote": "Fast forward quickly to 2022, when we had a significant number of incidents and the hottest temperatures on record. We had 14 major incidents to clear, and fire and rescue services came under significant pressure during that period—and I mean significant pressure."
+            },
+            {
+              "source_turn": 16,
+              "quote": "in 2026, when the fire and rescue service had to respond to over 1,300 wildfires. That included one particular day—and you will recall that day in August—when there were nine major incidents declared"
+            },
+            {
+              "source_turn": 16,
+              "quote": "From a national point of view, we were overwhelmed with the requests that came in."
+            }
+          ]
+        },
+        {
+          "speaker": "Phil Garrigan",
+          "text": "Specialist equipment helps, but when several fires happen at once we need firefighters on the ground. We need either more recruits or another way to bring in extra people when demand surges.",
+          "evidence": [
+            {
+              "source_turn": 16,
+              "quote": "it is right and fitting that we talk about the wildfire aerial capabilities and specialist teams, and undoubtedly that has been supported"
+            },
+            {
+              "source_turn": 16,
+              "quote": "at that particular point in time we needed firefighters and people. In some way, we have to increase the workforce capacity, either through recruitment or through elements of coming up with an alternative way of surging with the demand placed on us"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Kochhar",
+          "text": "The NHS isn’t adequately prepared for extreme heat. A report found that 90% of hospital buildings in England are vulnerable to overheating. In a June 2026 survey of doctors, 86% of respondents said colleagues had felt unwell because of heat, and 68% said it had affected patient care and safety.",
+          "evidence": [
+            {
+              "source_turn": 24,
+              "quote": "We believe that the NHS is not yet adequately funded, resourced or staffed in terms of preparation, especially for the response to extreme heat. Much of the NHS estate remains highly vulnerable to overheating. The UK Health Alliance on Climate Change report found that 90% of our hospital buildings in England are vulnerable to overheating."
+            },
+            {
+              "source_turn": 24,
+              "quote": "a survey by the Doctors’ Association UK in June 2026 found that 86% of respondents said that colleagues had felt unwell because of the heat and 68% said heat had affected patient care and safety."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Kochhar",
+          "text": "Heat also affects patients’ hydration, recovery and infections. It can disrupt the storage of medicines: one GP told us their clinic’s air conditioning and fridge failed, leaving staff unsure until the next day whether vaccines and antibiotics were still usable.",
+          "evidence": [
+            {
+              "source_turn": 24,
+              "quote": "This is not only about the heat affecting the individual; it is about recovery, infection and the hydration of patients. It affects the storage of vaccines and antibiotics."
+            },
+            {
+              "source_turn": 24,
+              "quote": "We had one GP working in sexual health telling us that the air conditioning and the fridge both went out of order and they did not know whether the vaccines and the antibiotics worked. The next day they figured out that they were fine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Planning across communities",
+      "takeaway": "Local plans need clearer oversight and must account for failures in several services happening together.",
+      "turns": [
+        {
+          "speaker": "Cat Eccles",
+          "text": "Should local resilience forums share what they learn after emergencies more widely? After wildfires in my area, I was told that I, other elected representatives and affected residents couldn’t attend their meetings to give feedback.",
+          "evidence": [
+            {
+              "source_turn": 19,
+              "quote": "local resilience forums do not have any statutory duty to report any findings or share any learning."
+            },
+            {
+              "source_turn": 21,
+              "quote": "my local council told me it would be inappropriate for me as an MP to attend any of the meetings or for any other elected members or members of the public who were caught up in the wildfires to come and share their feedback."
+            }
+          ]
+        },
+        {
+          "speaker": "Councillor Fodor",
+          "text": "Yes. These forums bring people together, but their effectiveness depends on relationships. There’s a gap in oversight: looking at how well they worked, who was missing and what needs to change after an emergency would help.",
+          "evidence": [
+            {
+              "source_turn": 20,
+              "quote": "it isn’t a statutory function; it is a convening of people, and that depends on the good will and the relationships, which can be strong, but they can be weaker."
+            },
+            {
+              "source_turn": 20,
+              "quote": "Especially coming back after an event, it is important to attend to the lessons learned and evaluation, and to signpost what might need to be done differently in future."
+            },
+            {
+              "source_turn": 22,
+              "quote": "There is a gap in terms of the governance and scrutiny of local resilience forums."
+            },
+            {
+              "source_turn": 22,
+              "quote": "having observations about where to get better information or about missing players or those not playing their part could certainly all help."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Roz Savage",
+          "text": "Councils already have heavy demands on their staff and budgets. Should the law require them to plan for climate change, and how would that work be paid for?",
+          "evidence": [
+            {
+              "source_turn": 35,
+              "quote": "local authorities are under a huge amount of pressure regarding their time, their people and their budgets"
+            },
+            {
+              "source_turn": 35,
+              "quote": "Should adaptation planning be a statutory duty for them? If so, how would you like to see it resourced?"
+            }
+          ]
+        },
+        {
+          "speaker": "Councillor Fodor",
+          "text": "The Local Government Association has no agreed position on making this a statutory duty, though I think most members see a case for it. If councils are legally required to plan, the Government would need to fund the extra work. It could make preparation more consistent across the country.",
+          "evidence": [
+            {
+              "source_turn": 36,
+              "quote": "The Local Government Association does not itself have a position that there should be a statutory duty. There is not a consensus on that. However, the majority of members probably think there is a case for it."
+            },
+            {
+              "source_turn": 36,
+              "quote": "If that were the case, there would be a new burden that would then have to be funded. You would start to get a more common baseline of what gets done across the country."
+            }
+          ]
+        },
+        {
+          "speaker": "Councillor Fodor",
+          "text": "Councils also need trained staff, shared experience and money for buildings and day-to-day services. For example, waste crews couldn’t work in protective overalls during extreme heat, and some recycling collections were delayed. If schools close because of heat, hospital staff with children may be affected too.",
+          "evidence": [
+            {
+              "source_turn": 36,
+              "quote": "it is important to embed the right arrangements into all new authorities, as well as existing continuing authorities, to make sure there is the capacity, training, professional networks, exchange of experiences and the budgets, both capital and revenue."
+            },
+            {
+              "source_turn": 36,
+              "quote": "the waste service, which is the local authority service most common to most people, which could not operate with protective overalls in extreme heat. A lot of recyclable materials could not be collected on time."
+            },
+            {
+              "source_turn": 36,
+              "quote": "we knew that schools would close, which affected staffing in hospitals during the heat because children were at home."
+            }
+          ]
+        },
+        {
+          "speaker": "John Whitby",
+          "text": "How well can public facilities such as transport, schools and care homes cope with the changing climate?",
+          "evidence": [
+            {
+              "source_turn": 39,
+              "quote": "in terms of our changing climate, how resilient are public facilities such as local transport, schools and care homes?"
+            }
+          ]
+        },
+        {
+          "speaker": "Councillor Fodor",
+          "text": "It varies. Care homes face summer cooling costs as well as winter heating bills. Heat can damage roads or stop transport infrastructure working. Many schools weren’t designed for the temperatures they now face and need shade, ventilation or cooling.",
+          "evidence": [
+            {
+              "source_turn": 40,
+              "quote": "It is a very mixed situation. As you heard when we were talking about care homes, many will be affected not just by cold in winter and energy bills, but by the need for cooling and ventilation in summer"
+            },
+            {
+              "source_turn": 40,
+              "quote": "Transport services have a lot of impacts as well, from the state of the roads under extreme heat to infrastructure that cannot function when there is additional heat, such as bridges and crossings"
+            },
+            {
+              "source_turn": 42,
+              "quote": "Many of them have not planned for the temperatures they are now facing—the need for shade, the need for ventilation and the need for cooling."
+            }
+          ]
+        },
+        {
+          "speaker": "John Whitby",
+          "text": "What happens if several services are disrupted at once?",
+          "evidence": [
+            {
+              "source_turn": 47,
+              "quote": "What happens when several services are disrupted at the same time?"
+            }
+          ]
+        },
+        {
+          "speaker": "Councillor Fodor",
+          "text": "A wildfire might coincide with transport problems or another local emergency. Services need to share up-to-date information and plan for the knock-on effects when two or three things go wrong together. I think we’re still at an early stage of doing that.",
+          "evidence": [
+            {
+              "source_turn": 48,
+              "quote": "You may have an incident in one part of an authority, whether it is coastal, rural or urban, and then you might have a transport system that is not functioning fully. You may have wildfires impacting other issues that need to be managed."
+            },
+            {
+              "source_turn": 48,
+              "quote": "There needs to be an exchange of consistent data to let different services, agencies and providers know what the situation is"
+            },
+            {
+              "source_turn": 48,
+              "quote": "there is contingency planning for two things going wrong at the same time in a neighbourhood, but the authority may know that there is a third thing that could go wrong."
+            },
+            {
+              "source_turn": 48,
+              "quote": "I think we are at very early days in dealing with that."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fighting fires and preparing for floods",
+      "takeaway": "Preventing wildfires matters, but firefighters also need sustained funding and enough people and equipment when several places need help at once.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "How much should the response focus on preventing wildfires, and how much on giving firefighters more resources once fires start?",
+          "evidence": [
+            {
+              "source_turn": 17,
+              "quote": "How much of the response needs to be about preventing wildfires from happening in the first place, either through behaviour change or the design of estates? How much of this is about better resourcing the fire service to respond"
+            }
+          ]
+        },
+        {
+          "speaker": "Phil Garrigan",
+          "text": "Both. Prevention can reduce the number and impact of fires, but firefighters will still need to respond. We need a wildfire plan that sets out actions and makes clear who is responsible. Fire services have a role, but other organisations do too. If temperatures rise by 2°C by 2050, we anticipate twice as many wildfires as in 2026; we aren’t equipped for that.",
+          "evidence": [
+            {
+              "source_turn": 18,
+              "quote": "It is a combination of both."
+            },
+            {
+              "source_turn": 18,
+              "quote": "we needed a wildfire action plan that was action driven, so that it made a difference and people were accountable for the actions they were taking"
+            },
+            {
+              "source_turn": 18,
+              "quote": "We will play a part in that, but there are a number of other key stakeholders"
+            },
+            {
+              "source_turn": 18,
+              "quote": "If that were to be the case, we anticipate that the number of wildfires we have seen in 2026 would be doubled at that point. We are not equipped to deal with that."
+            }
+          ]
+        },
+        {
+          "speaker": "Cat Eccles",
+          "text": "The Government has announced £45 million for wildfire protective equipment. Will more money be needed, given the time it takes to buy equipment and the number of fire services that need it?",
+          "evidence": [
+            {
+              "source_turn": 49,
+              "quote": "the length of time to procure these items is extremely long. The Government also announced £45 million for wildfire PPE after the wildfire summit in October. Given that there are 44 fire authorities in England, £45 million is not going to go very far."
+            },
+            {
+              "source_turn": 49,
+              "quote": "Do you think further resources are going to be needed to deal with this problem?"
+            }
+          ]
+        },
+        {
+          "speaker": "Phil Garrigan",
+          "text": "We welcome the money and the plans for firefighting aircraft, but buying equipment can take longer than the few months before the next wildfire season. Protective clothing will eventually need replacing. One-off funding buys time; we need continuing investment for wildfires and floods.",
+          "evidence": [
+            {
+              "source_turn": 50,
+              "quote": "We welcome the £45 million of investment and the statement from the Prime Minister and the Secretary of State in relation to the development of an aerial firefighting capability."
+            },
+            {
+              "source_turn": 50,
+              "quote": "Both aerial firefighting capability and the procurement of PPE, in the example you have given, take a little longer than the three or four months that we have before the next wildfire season kicks in"
+            },
+            {
+              "source_turn": 50,
+              "quote": "You have to replace that PPE over a period of time"
+            },
+            {
+              "source_turn": 50,
+              "quote": "we need sustained investments, not just one-off investments. The one-off investment gives us time, but that is all it gives us"
+            },
+            {
+              "source_turn": 50,
+              "quote": "we need further investment in our capability and capacity to deal with wildfire, but I would extend that to flooding, too."
+            }
+          ]
+        },
+        {
+          "speaker": "Manuela Perteghella",
+          "text": "When fires broke out across the West Midlands, neighbouring services were fighting their own fires and couldn’t send help under their mutual aid agreements. Are you planning for that, and would firefighting aircraft help?",
+          "evidence": [
+            {
+              "source_turn": 56,
+              "quote": "Fire and rescue services have cross‑border working and mutual aid agreements, but they were not able to use them because all the forces in the west midlands were fighting their own fires. Are you planning for that as well?"
+            },
+            {
+              "source_turn": 56,
+              "quote": "Would you support investment in firefighting aircraft?"
+            }
+          ]
+        },
+        {
+          "speaker": "Phil Garrigan",
+          "text": "Yes. Aircraft could help tackle one fire while freeing firefighters for another. Normally, a stretched service asks neighbours for help, then draws on services nationally. On 13 August, national resources were exhausted. We had to redirect crews towards places where lives were at risk, ahead of threats to infrastructure, property or the environment.",
+          "evidence": [
+            {
+              "source_turn": 57,
+              "quote": "Yes, we would, because it allows us to deal with fires in different ways. It is a different capability and it can allow resources to be directed elsewhere."
+            },
+            {
+              "source_turn": 57,
+              "quote": "If it is stretched, it will reach out beyond its boundaries to bordering fire and rescue services, relying on local mutual aid. When that is overwhelmed, as it was on a number of occasions over 2026, we draw on resources nationally. On 13 August, those resources were exhausted nationally."
+            },
+            {
+              "source_turn": 57,
+              "quote": "we were directing them to preserve and protect life risk, before critical national infrastructure, before property and before the environment."
+            }
+          ]
+        },
+        {
+          "speaker": "Councillor Fodor",
+          "text": "Prevention also means changing how councils manage open land. For example, mowing strips through meadows and grassland could create gaps that slow a fire. Councils need to learn what worked and have money to put those lessons into practice.",
+          "evidence": [
+            {
+              "source_turn": 58,
+              "quote": "Local authorities with large areas of open space and land that they manage will be trying to manage this in new ways"
+            },
+            {
+              "source_turn": 58,
+              "quote": "the risk can be cut by mowing in different areas and creating spaces that will act as firebreaks."
+            },
+            {
+              "source_turn": 58,
+              "quote": "plans that can be implemented, which means a budget for resilience forums to take action to prevent some of the problems in future"
+            }
+          ]
+        },
+        {
+          "speaker": "Cat Eccles",
+          "text": "Firefighters from different areas brought different grass-fire skills to Stourbridge. Should wildfire training be made more consistent?",
+          "evidence": [
+            {
+              "source_turn": 59,
+              "quote": "West Midlands Fire Service found that they were learning things from the mutual aid that came from Hereford and Worcester and from Warwickshire, who knew different skills and techniques for dealing with grass fires. Do you think work needs to be done on standardising firefighter training?"
+            }
+          ]
+        },
+        {
+          "speaker": "Phil Garrigan",
+          "text": "Yes. We’re working towards consistent training and learning from services with long wildfire experience. Crews also need to know how to deal with scarce water. If we use firefighting aircraft, we’ll need to learn from other countries and train firefighters to work safely alongside them.",
+          "evidence": [
+            {
+              "source_turn": 60,
+              "quote": "We are working hard to ensure that we have a consistent and standardised approach and that we learn from fire and rescue services who have dealt with wildfires for a long period of time."
+            },
+            {
+              "source_turn": 60,
+              "quote": "Water scarcity was a challenge for Stourbridge and the west midlands and it is one of the most significant risks affecting fire and rescue services."
+            },
+            {
+              "source_turn": 60,
+              "quote": "we have to learn from fire and rescue services internationally."
+            },
+            {
+              "source_turn": 60,
+              "quote": "operating with wildfire when there is an aerial capability is different again, so we need to ensure that our firefighters are trained and equipped to deal with it."
+            }
+          ]
+        },
+        {
+          "speaker": "Cat Eccles",
+          "text": "Fire services help rescue people from floods, but the law doesn’t require them to. Would making flood rescue a statutory duty improve preparation?",
+          "evidence": [
+            {
+              "source_turn": 61,
+              "quote": "the fire service does not have a statutory flood rescue duty, although of course you help out in those situations. What difference would it make to have that statutory duty in place to help with preparedness and resilience?"
+            }
+          ]
+        },
+        {
+          "speaker": "Phil Garrigan",
+          "text": "Yes, if it comes with funding. Fire services already respond to floods, but the number of rescue boat teams has fallen from 108 to around 82. I’d also give them a funded legal responsibility for rescuing people from inland waters, where people have died and no organisation has that duty.",
+          "evidence": [
+            {
+              "source_turn": 62,
+              "quote": "Fire and rescue services should have statutory responsibility for flood response and rescue. I would extend that to inland water too, because we have seen a significant number of people die in inland water, and there is not a statutory responsibility held by anyone to respond under those circumstances."
+            },
+            {
+              "source_turn": 62,
+              "quote": "we currently have around 82 boat teams. It was 108, so we have seen a significant reduction in the number of boat teams available because it is not funded or suitably supported. So yes to the statutory duty, but it needs to come with resource"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Keeping healthcare safe in heat",
+      "takeaway": "Heat threatens patients, staff and essential hospital equipment, while the NHS has little spare capacity to cope.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "What should the NHS and Government do first to stop extreme heat in hospitals making patients’ conditions worse?",
+          "evidence": [
+            {
+              "source_turn": 27,
+              "quote": "What should the NHS be doing immediately to ensure that people are not treated in dangerous temperatures that are likely to exacerbate their health concerns?"
+            },
+            {
+              "source_turn": 27,
+              "quote": "What should the NHS and the Government be prioritising to address the impacts of extreme heat in hospitals?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Kochhar",
+          "text": "Money needs to go towards improving NHS buildings, with clear decisions about which get help first. Even some newer buildings cope badly with heat. The funding promised so far is far below the £17.7 billion shortfall NHS England identified for its buildings overall.",
+          "evidence": [
+            {
+              "source_turn": 28,
+              "quote": "Resource needs to be appropriately directed and appropriately focused on improving our estates. The Government have said they will give us some resource, which is far from adequate. How that resource will be prioritised is key, as even the newer buildings are not heat efficient at the moment."
+            },
+            {
+              "source_turn": 28,
+              "quote": "NHS England said that the shortfall in estates was worth about £17.7 billion and there is nowhere near that amount of funding coming."
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "Do hospital leaders know what they would need to change if the money were available?",
+          "evidence": [
+            {
+              "source_turn": 29,
+              "quote": "Do you think trusts’ senior management—the directorship—have an idea of what needs to be done? If there were an endless pot of money or if they found the money identified, do we have enough of an understanding in our health system of what needs to be done to keep patients safe in extreme heat?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Kochhar",
+          "text": "They probably do, but it’s very low on their list of priorities. The Government needs to push them to act.",
+          "evidence": [
+            {
+              "source_turn": 30,
+              "quote": "They probably do have an understanding, but it is very low on their list of priorities."
+            },
+            {
+              "source_turn": 32,
+              "quote": "They need to be pushed and this has to come from the Government."
+            }
+          ]
+        },
+        {
+          "speaker": "Chris Hinchliff",
+          "text": "Can NHS staff prepare for heat alongside flooding, power cuts, water shortages and transport problems while continuing to care for patients?",
+          "evidence": [
+            {
+              "source_turn": 65,
+              "quote": "hospitals and GP practices are facing enormous vulnerabilities from climate change—not just from extreme heat but from flooding, power outages, water shortages and transport disruption. Do you feel that NHS staff have the capacity to prepare adequately for those vulnerabilities?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Kochhar",
+          "text": "The health service is already running close to capacity. Heat will make vulnerable patients sicker and affect staff too. Without advance planning and some spare capacity, it’ll be extremely difficult to keep providing care.",
+          "evidence": [
+            {
+              "source_turn": 66,
+              "quote": "The health service is running at capacity at the moment. There is very little spare capacity"
+            },
+            {
+              "source_turn": 66,
+              "quote": "This will only stretch it further, and the ability to deliver is going to be non-existent, because the staff as well are suffering from the effects on health."
+            },
+            {
+              "source_turn": 66,
+              "quote": "Unless we prepare for it and there is some sensible thinking about how we are going to deal with this, with some spare capacity, it is going to be extremely difficult."
+            }
+          ]
+        },
+        {
+          "speaker": "Chris Hinchliff",
+          "text": "What would repeated summers of 40°C heat in hospitals mean for the workforce?",
+          "evidence": [
+            {
+              "source_turn": 73,
+              "quote": "if you ask people to turn up to work in hospitals in 40° temperatures, trying to keep people healthy day in, day out, when we are facing summer after summer of heat like that? Are you concerned about what that will do to the workforce?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Kochhar",
+          "text": "It would add to staff burnout and cause serious problems for patient care. Doctors would still come in, but working in those conditions is hard.",
+          "evidence": [
+            {
+              "source_turn": 74,
+              "quote": "It would lead to staff burnout. We already know doctors are burning out, but it would lead to massive issues with the delivery of care. They would still go in, but it would lead to problems."
+            }
+          ]
+        },
+        {
+          "speaker": "Martin Rhodes",
+          "text": "Should there be a maximum workplace temperature for healthcare staff?",
+          "evidence": [
+            {
+              "source_turn": 77,
+              "quote": "What are your thoughts about a maximum workplace temperature? What would be the potential benefits or drawbacks of that in the health sector?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Kochhar",
+          "text": "The British Medical Association doesn’t have a policy setting a particular temperature. Whatever the temperature, doctors will try to work. But workplaces should keep conditions safe enough for staff to give patients proper care.",
+          "evidence": [
+            {
+              "source_turn": 78,
+              "quote": "the BMA doesn’t have a policy as such on what the temperature should be. As I said earlier, whatever the temperature, we will go into work and we will try to do the best we can."
+            },
+            {
+              "source_turn": 80,
+              "quote": "workplaces should have a responsibility to ensure working standards, which means that the environmental situation and the temperature stays below a certain limit and that we could perform and deliver healthcare to the best of our abilities."
+            }
+          ]
+        },
+        {
+          "speaker": "Martin Rhodes",
+          "text": "Should the NHS prepare for pressure on staff and services in summer as it does in winter?",
+          "evidence": [
+            {
+              "source_turn": 81,
+              "quote": "we are likely to have similar summer pressure to winter pressure. What are the implications for healthcare staff?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Kochhar",
+          "text": "Yes. Summer and winter both need serious preparation, but they bring different problems and need different changes to buildings and services. Staff need a safe place to treat patients.",
+          "evidence": [
+            {
+              "source_turn": 82,
+              "quote": "We believe that summer pressures should be treated as a replica of winter pressures. They are two different sets and they need different resilience approaches and different infrastructure measures. For staff in particular, providing them with a safe environment to work in, where they can treat patients, is the most appropriate thing we could do."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Reaching people most at risk",
+      "takeaway": "The witnesses favoured identifying vulnerable residents early, working with communities and sharing information when severe weather threatens.",
+      "turns": [
+        {
+          "speaker": "Martin Rhodes",
+          "text": "How should policy address the fact that climate change harms some communities more than others?",
+          "evidence": [
+            {
+              "source_turn": 83,
+              "quote": "What policy developments would be most effective in tackling the unequal impacts of climate change?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Kochhar",
+          "text": "Reach vulnerable people before they become ill and make sure they can keep cool at home or in care homes. Preventing illness is better than waiting until they need hospital treatment.",
+          "evidence": [
+            {
+              "source_turn": 84,
+              "quote": "reaching out to vulnerable patients in the community right at the beginning to make sure they have appropriate coolant mechanisms. Prevention is better than cure. Not getting them into hospitals is much more sensible"
+            },
+            {
+              "source_turn": 84,
+              "quote": "the outcomes in care homes were extremely poor—there were extra deaths and so on—so it would be appropriate to reach out to these situations with appropriate coolant mechanisms"
+            }
+          ]
+        },
+        {
+          "speaker": "Phil Garrigan",
+          "text": "Residents often know what their communities need. During wildfires, farmers helped by cutting gaps in vegetation to slow the flames. Organisations should help people prepare and give them useful guidance, but neighbours and communities can also look after one another.",
+          "evidence": [
+            {
+              "source_turn": 85,
+              "quote": "the people and the communities in which they live understand what the solutions are better than organisations that think they have an understanding of it."
+            },
+            {
+              "source_turn": 85,
+              "quote": "During the wildfires, farmers mobilised and cut in firebreaks and supported fire and rescue service operations."
+            },
+            {
+              "source_turn": 85,
+              "quote": "it is also about citizen responsibility, because I do not think we can do everything for everyone. We can do our best and we can communicate effectively, inform and campaign"
+            }
+          ]
+        },
+        {
+          "speaker": "Councillor Fodor",
+          "text": "Councils know many of the people and neighbourhoods at greatest risk. Bringing together information held by councils and other services could identify more people who need help, though rules about sharing personal data can get in the way. That preparation needs investment.",
+          "evidence": [
+            {
+              "source_turn": 86,
+              "quote": "Local authorities will generally know a lot of the most vulnerable people and neighbourhoods and different types of resident who are vulnerable"
+            },
+            {
+              "source_turn": 86,
+              "quote": "Data sharing can become quite a significant obstacle, due to data protection issues. If you bring together the different datasets, you can identify far more of the people and the different categories who will need help"
+            },
+            {
+              "source_turn": 86,
+              "quote": "we need to invest in the preparedness and development work that will allow us to be better prepared when there are future incidents."
+            }
+          ]
+        },
+        {
+          "speaker": "Councillor Fodor",
+          "text": "Some people can’t leave an overheated home unaided or worry that essential equipment will fail during a power cut. Community places offering relief from heat could help, but checks found that some weren’t always cool or accessible to disabled people. People may also need help getting to a safe place.",
+          "evidence": [
+            {
+              "source_turn": 86,
+              "quote": "they cannot live safely at home in overheated homes, that the equipment they rely on for adaptations will not function, whether in heat or in power cuts due to extreme weather events, and that their home constantly overheats and they cannot get out."
+            },
+            {
+              "source_turn": 86,
+              "quote": "some were not fully accessible—they might not have a toilet suitable for disabled people—and that they might not actually be cool all of the time."
+            },
+            {
+              "source_turn": 86,
+              "quote": "There might need to be support from the local authority or the community organisations we work with to get people to where they can be cool"
+            }
+          ]
+        },
+        {
+          "speaker": "Phil Garrigan",
+          "text": "During the pandemic, local organisations shared enough information to find vulnerable people and deliver medicines. I think they could work together in a similar way during extreme heat, directing help to the people who most need it.",
+          "evidence": [
+            {
+              "source_turn": 88,
+              "quote": "through the local resilience forum and that co-ordination, we were able to identify very vulnerable individuals. We were dropping off prescriptions and medication and targeting the specific individuals we knew were particularly vulnerable and susceptible."
+            },
+            {
+              "source_turn": 88,
+              "quote": "During covid, we were able to overcome some of the data protection concerns"
+            },
+            {
+              "source_turn": 88,
+              "quote": "I am sure we could get around it in regard to extreme heat so that we are able to ensure that we are supporting that particular individual."
+            }
+          ]
+        },
+        {
+          "speaker": "Martin Rhodes",
+          "text": "Would it help to specify when agencies can share information about vulnerable people to respond to extreme heat or flooding?",
+          "evidence": [
+            {
+              "source_turn": 89,
+              "quote": "Would it be helpful for all the different agencies if situations such as extreme heat or flooding—whatever it is—were identified as times when you could take action to share data in a way that you would not normally, in order to be able to respond to vulnerable groups?"
+            }
+          ]
+        },
+        {
+          "speaker": "Phil Garrigan",
+          "text": "Yes, that would help.",
+          "evidence": [
+            {
+              "source_turn": 90,
+              "quote": "Yes."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

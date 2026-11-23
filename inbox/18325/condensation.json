@@ -2,9 +2,9 @@
   "schema_version": 1,
   "source_id": 18325,
   "source_sha256": "16ad5c7adbd4aff04ce6c242e0c6732cc82542bd1a813a16930d897aaa5fc271",
-  "title": "What financial sandboxes do for new businesses",
-  "label": " · Financial sandboxes",
-  "summary": "Four financial technology founders described very different experiences of regulatory sandboxes: some used them to test a product while preparing for permission to operate, while others sought guidance on rules for new kinds of financial services. The witnesses said sandboxes can help firms test ideas, build regulator relationships and sometimes progress more quickly towards authorisation, but the benefits and processes vary widely. They called for clearer aims, better feedback and more opportunities to learn together. One witness described a particularly clear route from sandbox testing to full authorisation; others said the link was uncertain or that the regulator did not actively check their progress.",
+  "title": "What a financial sandbox actually does",
+  "label": "18 November 2026 · Financial sandbox experiences",
+  "summary": "Four businesses described very different experiences of regulatory sandboxes: programmes that let firms test products, sometimes with limited permission to carry out regulated activities. Two used them as a route towards authorisation, one is helping shape rules for a new kind of financial infrastructure, and another is developing software to help firms comply with existing rules. The witnesses generally valued the chance to test and speak to regulators, but disagreed about how well sandboxes connect firms to authorisation, other businesses and useful regulatory expertise. They urged the committee to be clearer about what each programme is meant to achieve.",
   "speakers": [
     {
       "label": "Chair",
@@ -93,308 +93,838 @@
   ],
   "glossary": [
     {
-      "term": "sandbox",
-      "definition": "A supervised programme where a financial business can test a product or service under agreed limits."
-    },
-    {
       "term": "FCA",
-      "definition": "The Financial Conduct Authority, which regulates financial services firms in the UK."
+      "definition": "The Financial Conduct Authority, which regulates financial firms and markets in the UK."
     },
     {
       "term": "open banking",
-      "definition": "A system that lets customers securely share their bank-account information with approved services."
+      "definition": "A system that lets people securely share their bank-account information with authorised services."
     },
     {
-      "term": "Consumer Duty",
-      "definition": "UK rules requiring financial firms to act to deliver good outcomes for their customers."
+      "term": "consumer duty",
+      "definition": "FCA rules requiring financial firms to consider whether their products and services deliver good outcomes for customers."
     },
     {
       "term": "authorisation",
-      "definition": "Official permission from a regulator to carry out specified financial activities."
+      "definition": "Formal permission from a regulator for a firm to carry out specified financial activities."
     },
     {
-      "term": "electronic money institution",
-      "definition": "A firm authorised to issue electronic money and provide related payment services."
+      "term": "e-money",
+      "definition": "Money held electronically by a firm for customers to use in payments."
     },
     {
-      "term": "synthetic data",
-      "definition": "Artificially created information used to test a product without using real customers' data."
+      "term": "digital securities sandbox",
+      "definition": "A Bank of England and FCA programme for testing how financial investments can be issued and handled using new technology."
     },
     {
       "term": "stablecoin",
-      "definition": "A digital token designed to keep a steady value, often by being linked to a currency."
+      "definition": "A digital token designed to maintain a stable value against an asset such as a currency."
     },
     {
-      "term": "digital securities",
-      "definition": "Financial investments, such as bonds, represented and managed using digital records."
-    },
-    {
-      "term": "regulatory perimeter",
-      "definition": "The boundary between activities that financial regulation covers and those it doesn't."
+      "term": "synthetic data",
+      "definition": "Artificially created information used to test a system without relying on real customers' records."
     }
   ],
   "chapters": [
     {
-      "title": "Why the firms joined",
-      "takeaway": "The businesses entered sandboxes for different reasons, from getting permission to operate to testing a new product with regulatory guidance.",
+      "title": "Why they joined",
+      "takeaway": "The firms entered sandboxes for different reasons, from testing compliance software to obtaining permission to offer financial services.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "To start, why did you join a sandbox, and has it met your expectations?"
+          "text": "Why did you enter a sandbox, and has it met your expectations?",
+          "evidence": [
+            {
+              "source_turn": 6,
+              "quote": "Why did you go into the sandbox and how is it living up to your expectations?"
+            }
+          ]
         },
         {
           "speaker": "Lyubomira Dimitrova",
-          "text": "Relace builds technology to help firms understand and meet regulatory requirements. We joined to learn what the FCA expects under Consumer Duty, which is new and affects many parts of a business. Firms are struggling to gather the information they need, and we wanted to build something that could help."
+          "text": "Relace makes software to help firms follow financial rules. We're in a current FCA sandbox because we want to understand consumer duty—rules that affect many parts of a firm—and why firms struggle to put it into practice. The experience has been positive, though some parts have been challenging.",
+          "evidence": [
+            {
+              "source_turn": 2,
+              "quote": "Relace is a regulatory technology platform and product. We are currently part of the FCA supercharged sandbox cohort 2, which runs from July until the end of the year, so we are a current participant."
+            },
+            {
+              "source_turn": 7,
+              "quote": "The product that we have developed is for consumer duty, which is a very recent regime. It is only three years old and a lot of the firms out there are struggling to figure out how to do it well, because it touches all parts of a company."
+            },
+            {
+              "source_turn": 7,
+              "quote": "The experience has been positive. There are areas that have been challenging as well."
+            }
+          ]
         },
         {
           "speaker": "Kevin Sefton",
-          "text": "We joined because our tax software used open banking, and we needed permission to use bank-account information in that way. We thought the sandbox would be quicker than applying for full regulation directly. It wasn't mainly about testing something new; we needed a route to permission."
+          "text": "Untied helps people use open banking information to prepare tax returns. When we joined in 2019, we needed FCA permission to use that information. We thought the sandbox would get us there faster than applying directly. For us, the immediate need wasn't to prove something radically new; it was to become regulated.",
+          "evidence": [
+            {
+              "source_turn": 3,
+              "quote": "Untied, which is a personal tax software product that helps people categorise transactions from open banking and other sources. They use Untied to file their self-assessment and now Making Tax Digital. We were in the fifth cohort of the FCA sandbox in 2019"
+            },
+            {
+              "source_turn": 8,
+              "quote": "At the time, you needed direct regulation from the FCA in order to do that. We had a choice of whether we went for the full regulation or for the sandbox."
+            },
+            {
+              "source_turn": 8,
+              "quote": "It was not about innovation. It was the simple need to be regulated, and we thought and hoped that the sandbox would be the quickest way to do it."
+            }
+          ]
         },
         {
           "speaker": "Vinay Anupindi",
-          "text": "We wanted regulatory guidance for issuing and settling financial securities using digital records. We couldn't just build first and ask questions later: this involves the capital markets. We looked for a regulator and a country willing to develop rules with the industry, and found the UK approach serious."
+          "text": "Monee is developing a way to settle large financial transactions using new technology. Our idea involved issuing investments and completing transactions in a way existing rules didn't clearly cover. We needed a serious regulator involved: this isn't a part of the financial system where you can just experiment and hope nothing goes wrong.",
+          "evidence": [
+            {
+              "source_turn": 4,
+              "quote": "Today, we are building wholesale sterling settlement infrastructure for tokenised markets."
+            },
+            {
+              "source_turn": 9,
+              "quote": "Our innovation was at the edge of the regulatory perimeter. We were talking about issuing securities and settling it on innovative technology, which required actual regulatory guidance and perhaps even new laws made."
+            },
+            {
+              "source_turn": 9,
+              "quote": "This was the sort of thing where you could not break things because this had to do with the actual capital market system, so we definitely saw a need for a regulator."
+            }
+          ]
         },
         {
           "speaker": "Nick Tracey",
-          "text": "Bourn was developing an alternative to business overdrafts. Our product involved payments and potentially holding customers' money, so we knew we needed permission. We chose to apply directly rather than operate as an agent of another authorised firm, because we wanted to build our own controls and credibility with banks."
-        },
-        {
-          "speaker": "Lord Sharkey",
-          "text": "Some written evidence says there are no clear measures of success and that sandboxes don't lead properly to authorisation. Does that match your experience?"
-        },
-        {
-          "speaker": "Lyubomira Dimitrova",
-          "text": "Yes, the lack of agreed success measures rings true. We set our own targets: build a product, work with industry partners and be ready to launch. No one from the sandbox team agreed those targets with us or checked our progress. We offered to show what we'd built, but weren't taken up on it."
-        },
-        {
-          "speaker": "Kevin Sefton",
-          "text": "We got the regulation we needed and left the sandbox successfully. But I had expected more of a shared experience with the other firms and hoped it might help us connect with financial institutions. I don't think it achieved that. The broader aim should be to help new businesses work with established firms and grow."
-        },
-        {
-          "speaker": "Vinay Anupindi",
-          "text": "Our experience is different. In the programmes we're in, the aims and route to permission are clearly set out, and the regulators are developing policy with industry. That won't be true of every sandbox, though; ours are focused on digital securities and stablecoins."
-        },
-        {
-          "speaker": "Nick Tracey",
-          "text": "For us, there was a connection to authorisation. We first received restricted permission to test, then applied to remove the restrictions when we left. It took about six months to get both permissions, and around a year including the sandbox testing. We think that was faster than applying directly."
-        },
-        {
-          "speaker": "Lord Hill of Oareford",
-          "text": "Did the sandbox itself make authorisation quicker, because the regulator already knew your business?"
-        },
-        {
-          "speaker": "Nick Tracey",
-          "text": "I think so. We met the FCA's innovation team about once a month. We showed that the product worked and customers responded well, while also building the controls needed to operate fully. We didn't see exactly how that fed into the permissions decision, but the process felt connected."
+          "text": "Bourn is developing an alternative to a business overdraft. We knew we'd need permission to process payments and possibly hold customers' e-money. We wanted to work with large UK banks, so applying for authorisation ourselves seemed more credible than operating through another authorised firm.",
+          "evidence": [
+            {
+              "source_turn": 5,
+              "quote": "We are developing an alternative to the business overdraft for SMEs that want to grow and we participated in the regulatory sandbox in 2025."
+            },
+            {
+              "source_turn": 10,
+              "quote": "We knew that regulatory permissions would be required."
+            },
+            {
+              "source_turn": 10,
+              "quote": "You can either pursue authorisation as a direct route, or seek to be an agent of an existing authorised entity. We wanted to partner with large UK-regulated banks, in order to go to market with our product proposition. We decided that direct authorisation was the more credible route"
+            }
+          ]
         }
       ]
     },
     {
-      "title": "The work involved and what firms can test",
-      "takeaway": "Applying can take substantial time, while the support and testing conditions differ considerably between programmes.",
+      "title": "Does testing lead to permission?",
+      "takeaway": "The witnesses had sharply different experiences of how clearly sandboxes set goals and connect testing to authorisation.",
+      "turns": [
+        {
+          "speaker": "Lord Sharkey",
+          "text": "The Startup Coalition says sandboxes lack published measures of success and, most importantly, don't connect properly to authorisation. Does that match your experience?",
+          "evidence": [
+            {
+              "source_turn": 11,
+              "quote": "It said some very positive things about sandboxes, but it made three criticisms. The first was that there is no published success framework and therefore no way to judge any of this, talking about sandboxes in general."
+            },
+            {
+              "source_turn": 11,
+              "quote": "The chief criticism from the coalition’s written evidence is that the sandbox does not connect to authorisations and that is its central failure."
+            }
+          ]
+        },
+        {
+          "speaker": "Lyubomira Dimitrova",
+          "text": "We set our own goal: develop a product we could launch, working with firms that might use it. We haven't had a conversation with the sandbox team about what success would look like, or a check-in on our progress. We offered to demonstrate what we'd built, but they didn't take up the offer.",
+          "evidence": [
+            {
+              "source_turn": 12,
+              "quote": "In our application we were very explicit that we were looking to develop a commercial product that, by the end of the sandbox, we would want to launch and that, as part of our sandbox participation, we wanted to bring in design partners to work with from industry."
+            },
+            {
+              "source_turn": 12,
+              "quote": "At no point did we discuss what success looks like with the current team running the sandbox we are in."
+            },
+            {
+              "source_turn": 12,
+              "quote": "We offered to do a demo of what we are building and share insights. We were not taken up on the offer."
+            }
+          ]
+        },
+        {
+          "speaker": "Kevin Sefton",
+          "text": "Our goal was straightforward: get regulated. We did leave the sandbox successfully, although the process wasn't fully defined. But I'd also hoped to work with other firms in our group and make useful connections with financial institutions. That didn't really happen, and I don't know whether those institutions valued our sandbox experience.",
+          "evidence": [
+            {
+              "source_turn": 13,
+              "quote": "From our point of view, we wanted regulation. That was very clear. It provided that route and we exited the sandbox successfully. That was a fairly straightforward process, although a little bit undefined."
+            },
+            {
+              "source_turn": 13,
+              "quote": "I thought that that might give us a cohort experience. We did not get a cohort experience."
+            },
+            {
+              "source_turn": 13,
+              "quote": "Did they value the sandbox experience? I am not sure that they necessarily did."
+            }
+          ]
+        },
+        {
+          "speaker": "Vinay Anupindi",
+          "text": "Our experience differs. In the digital securities sandbox and the stablecoin sandbox, the published plans are detailed: the aim is to get licensed and start operating. Regulators are still developing the relevant rules, and we can contribute while they do. We aren't authorised yet, but we know what the intended exit is.",
+          "evidence": [
+            {
+              "source_turn": 14,
+              "quote": "In our particular case, with the digital securities sandbox and the stablecoin sandbox, I can say that there was a very detailed published framework. The objective of the sandboxes is to get licensed and go live in terms of issuing or settling securities."
+            },
+            {
+              "source_turn": 14,
+              "quote": "the regulators and authorities are actively building policy, in which we got to participate within the sandbox."
+            },
+            {
+              "source_turn": 32,
+              "quote": "Unlike my colleagues over here, we have not been authorised yet. We are still in the testing phase"
+            }
+          ]
+        },
+        {
+          "speaker": "Nick Tracey",
+          "text": "The sandbox doesn't replace authorisation, but in our case the FCA teams handling testing and authorisation worked well together. We first got limited permission to test, then applied to remove those limits. We're now fully authorised to handle e-money. Each permission stage took about three months; including the testing period, the whole route took a year.",
+          "evidence": [
+            {
+              "source_turn": 15,
+              "quote": "I do not think that the sandbox is intended to be a replacement for authorisation, but we saw that the FCA innovation team that runs the sandbox was very well co-ordinated with the authorisations team"
+            },
+            {
+              "source_turn": 15,
+              "quote": "Initially we gained restricted permissions in order to undertake regulated activity while in the sandbox. On exiting the sandbox, we submitted a variation of permissions to remove those restrictions and therefore become a fully authorised EMI."
+            },
+            {
+              "source_turn": 15,
+              "quote": "The total application was three months for the initial restricted permissions and an additional three months for the full or variation of permissions, so in total six months, or, end to end, including our regulatory sandbox testing, 12 months."
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Hill of Oareford",
+          "text": "Did going through the sandbox actually speed up your authorisation, or might you just have been lucky?",
+          "evidence": [
+            {
+              "source_turn": 16,
+              "quote": "Do you think that the authorisation process is expedited as a result of being in the sandbox, if you see what I mean, so you have been through the sandbox, they know you and then your authorisation period gets a bit reduced, or were you just lucky?"
+            }
+          ]
+        },
+        {
+          "speaker": "Nick Tracey",
+          "text": "I think there's a connection. During testing, we showed that the product worked, collected customer feedback and developed the safeguards we'd need for full authorisation. We met the FCA's innovation team monthly. I can't see exactly what passed between its teams, but the process felt well coordinated and timely.",
+          "evidence": [
+            {
+              "source_turn": 17,
+              "quote": "One was to technically test that the product worked and that customer feedback was positive. The other was to give us time to develop the controls and capabilities that we would need to demonstrate that we were ready to be fully authorised as an EMI."
+            },
+            {
+              "source_turn": 17,
+              "quote": "We had a monthly meeting with FCA innovation where we were able to demonstrate customer feedback and technical viability, but also the control environment that we were building internally."
+            },
+            {
+              "source_turn": 17,
+              "quote": "We did not see a lot of that, but our experience was that it was well joined up. The end-to-end one-year application process felt timely."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The work behind the test",
+      "takeaway": "Applying could take considerable effort, and what firms could do once admitted varied from testing with artificial data to serving a limited number of real customers.",
       "turns": [
         {
           "speaker": "Baroness Bowles of Berkhamsted",
-          "text": "How much time, money and outside help did your applications require?"
+          "text": "How much work and money did it take to apply? Did you need outside help?",
+          "evidence": [
+            {
+              "source_turn": 18,
+              "quote": "When applying to the sandbox, was it resource intensive and did you find that you needed to get outside advisers to help you get your application through? Was that costly as well? There is resource in cash and resource in people."
+            }
+          ]
         },
         {
           "speaker": "Nick Tracey",
-          "text": "We spent about three months preparing an application of more than 100 pages, with help from a part-time compliance officer. We were only three founders at that point. It was hard work, but much of it—writing our plans and procedures—was work we'd need for authorisation anyway."
+          "text": "It took our three founders about three months to prepare, with help from a part-time compliance specialist. We submitted more than 100 pages. That was demanding, but much of it was work we'd have needed to do anyway to become a regulated business.",
+          "evidence": [
+            {
+              "source_turn": 19,
+              "quote": "We spent around three months preparing an application to the regulatory sandbox. We were, at that stage, just a concept with three co-founders and no team. We hired a fractional compliance officer to support us with preparation of the application."
+            },
+            {
+              "source_turn": 19,
+              "quote": "We submitted probably in excess of 100 pages, so not just the application form but also supporting documents. A lot of that would have been work that we would have needed to do anyway to be a regulated entity"
+            }
+          ]
         },
         {
           "speaker": "Vinay Anupindi",
-          "text": "It took a lot of time and focus for our small, bootstrapped team. We couldn't afford outside advisers, so we read the rules, asked the regulators questions and prepared the application ourselves."
+          "text": "Ours took a lot of time and attention too, which we think was appropriate. We were a small, self-funded team and couldn't afford professional help, so we read the requirements ourselves and asked regulators when we had questions.",
+          "evidence": [
+            {
+              "source_turn": 22,
+              "quote": "Yes, it was resource intensive, and we believe it should be. It was intensive in terms of time and actual focus given towards the application process."
+            },
+            {
+              "source_turn": 22,
+              "quote": "We did not take any professional help. We could not afford that. We are bootstrapped still. Basically, we just went at it ourselves. If we had any questions, we asked the regulators."
+            }
+          ]
         },
         {
           "speaker": "Kevin Sefton",
-          "text": "Our initial form took about five hours, but approval took another five months. Getting accepted didn't mean we could start testing: we still had to prepare a detailed business plan and registration documents. That took around 80 to 100 hours. It was worthwhile work, but the steps weren't obvious."
-        },
-        {
-          "speaker": "Kevin Sefton",
-          "text": "Once testing began, we could serve about 200 people under limited permission. The tax year gave us a deadline: we needed to be ready for the January filing period. Once we saw that the service worked, we moved quickly towards full permission."
+          "text": "Our initial form took about five hours, but acceptance took five months. Then we discovered that admission wasn't permission to start testing: we still had to prepare a substantial business plan and obtain registration. That added roughly 80 to 100 hours of writing. It was valuable thinking, but it wasn't the quick entry we'd imagined.",
+          "evidence": [
+            {
+              "source_turn": 23,
+              "quote": "It was five hours’ effort to fill in a form initially, but we had already built most of the business. It then took five months, having filled that in, before we were actually approved."
+            },
+            {
+              "source_turn": 25,
+              "quote": "although we were approved to be in the sandbox, we still needed to write all the documentation to get authorisation as well."
+            },
+            {
+              "source_turn": 25,
+              "quote": "That took us probably 80 to 100 hours of effort, so two solid weeks writing that."
+            },
+            {
+              "source_turn": 25,
+              "quote": "Then we got the registration confirmed and were in the sandbox."
+            }
+          ]
         },
         {
           "speaker": "Lyubomira Dimitrova",
-          "text": "Our application took less time because we were clear about the problem and what we wanted to test. A former sandbox participant helped us informally, and a pre-application meeting with the programme lead helped us check whether our idea was suitable."
+          "text": "Our application was less demanding. Most of our effort went into deciding what problem to tackle and what to test. Someone who'd been through a sandbox gave us unpaid advice, and the programme lead gave us useful feedback before we applied.",
+          "evidence": [
+            {
+              "source_turn": 28,
+              "quote": "Compared to the effort these firms had to go through, ours was less. We spent most of the time thinking about the problem and scoping the project."
+            },
+            {
+              "source_turn": 28,
+              "quote": "We used an adviser, not paid, just friendly, who helped us write the application. They were someone who participated in a sandbox."
+            },
+            {
+              "source_turn": 28,
+              "quote": "We managed to get a meeting prior to our application with the lead of our current sandbox to run through, “This is what we are thinking. This is what we would like to test. Is that interesting? Is that viable?” They gave us feedback"
+            }
+          ]
         },
         {
           "speaker": "Lord Lilley",
-          "text": "What does being in a sandbox actually allow you to do?"
+          "text": "Once you're inside, what can you actually do that you couldn't do outside?",
+          "evidence": [
+            {
+              "source_turn": 34,
+              "quote": "What are you allowed or not allowed to do that you would be allowed or not allowed to do if you were outside the sandbox?"
+            }
+          ]
         },
         {
           "speaker": "Lyubomira Dimitrova",
-          "text": "We could use artificial datasets, such as made-up customer complaints, to test our software. We also got some cloud-computing credits, coding support and mentors with experience in areas like data protection, banking and intellectual property."
-        },
-        {
-          "speaker": "Lyubomira Dimitrova",
-          "text": "The mentors were especially helpful. What was missing was regular access to a senior expert in Consumer Duty. Over four months we had two short meetings with someone on that subject. A knowledgeable contact who took an active interest would have helped us much more."
+          "text": "We can test our software against synthetic data—for example, made-up customer complaints—without using real customers' records. We also get computing support and mentors with experience in areas such as data protection and banking. That's valuable, though we'd have benefited from more time with someone expert in consumer duty itself.",
+          "evidence": [
+            {
+              "source_turn": 37,
+              "quote": "You have complaints data, so Ms Maria Dimitrova is writing a complaint about X, Y, Z. They have this dataset that we can use to test, for example, our technology."
+            },
+            {
+              "source_turn": 37,
+              "quote": "As part of our sandbox, we also have credit with some of the cloud providers and some coding assistance."
+            },
+            {
+              "source_turn": 37,
+              "quote": "The mentors are industry people."
+            },
+            {
+              "source_turn": 37,
+              "quote": "One thing that we really wanted to do, and would have benefited from, is to have an expert in consumer duty working with us."
+            }
+          ]
         },
         {
           "speaker": "Kevin Sefton",
-          "text": "The word 'sandbox' covers very different things. In our case, the main benefit was limited permission to serve a small number of people—not access to test datasets. We need to be clear about what each programme is for."
+          "text": "Our sandbox was different. We had limited regulatory permission to offer our service to about 200 people. Once we could see it worked, the question became how to get full permission to serve more people. That's why it matters to say which kind of sandbox you're talking about.",
+          "evidence": [
+            {
+              "source_turn": 39,
+              "quote": "From our point of view, it was simply limited regulation that allowed us to support 200 people, and then we extended that to more. The key thing is what each sandbox is intended to achieve."
+            },
+            {
+              "source_turn": 27,
+              "quote": "We realised quite quickly that it was working. Then how do we extend that to full regulation to allow us to be offering it to more people?"
+            }
+          ]
         },
         {
           "speaker": "Vinay Anupindi",
-          "text": "We didn't receive data from the regulator; we supplied simulated data to demonstrate our systems. In one programme, we met the FCA team weekly or every two weeks to discuss our technology, procedures and compliance. Another, run with the Bank of England, is longer-term and less intensive."
+          "text": "We supply our own simulated information for testing. In the stablecoin sandbox, we've met FCA staff every week or two to go through our technology, procedures and safeguards. Work in the digital securities sandbox has a longer timetable and less intensive meetings. The same word covers quite different arrangements.",
+          "evidence": [
+            {
+              "source_turn": 40,
+              "quote": "In fact, we had to give the regulators simulated data to show them testing in our case."
+            },
+            {
+              "source_turn": 40,
+              "quote": "we had an intense cadence of every week or every two weeks where we would meet our case officer and the teams in the FCA, from policy and payments to financial crime, basically testing all our procedures"
+            },
+            {
+              "source_turn": 40,
+              "quote": "The other sandbox we are in is the digital securities sandbox, which is more focused with the Bank of England. It has not been as intense. It is more of a multi-year sandbox."
+            }
+          ]
         },
         {
           "speaker": "Nick Tracey",
-          "text": "We followed a detailed test plan, covering the product launch, customer feedback and whether the service could handle growth and technical problems. The FCA met us about monthly. Those meetings let it monitor the test and helped both sides understand the business."
-        },
-        {
-          "speaker": "Lord Sharkey",
-          "text": "Could a simple waiver of some rules do the same job, without a sandbox?"
-        },
-        {
-          "speaker": "Vinay Anupindi",
-          "text": "Not for us. The digital securities programme gives us room to test activities that existing rules don't readily allow. A sandbox can be a controlled place where the regulator watches what happens; a waiver alone may not provide that ongoing discussion."
+          "text": "We could carry out regulated activities on a limited basis with real customers. Our six-month plan moved through launching the product, checking that it worked, gathering customer feedback and testing whether the system could cope as it grew. We discussed progress with the FCA roughly monthly.",
+          "evidence": [
+            {
+              "source_turn": 41,
+              "quote": "For the regulatory sandbox, we were able to undertake regulated activity on a limited basis to test our innovation."
+            },
+            {
+              "source_turn": 41,
+              "quote": "Ours had around six phases, including launching technically the product, testing the technical effectiveness of the product, starting to test that with customers in live, recording customer feedback and stress testing for scalability and resilience of the platform that we built."
+            },
+            {
+              "source_turn": 41,
+              "quote": "it was a six-month test for us, during which we had roughly monthly engagements with FCA innovation."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Learning, partnerships and business benefits",
-      "takeaway": "Firms and regulators can learn from each other, but participants reported uneven follow-up and mixed evidence of lasting commercial advantage.",
+      "title": "Who learns, and who benefits?",
+      "takeaway": "Some witnesses saw two-way learning and stronger business prospects, while others were unsure whether their feedback reached regulators or brought lasting commercial benefits.",
       "turns": [
         {
           "speaker": "Lord Eatwell",
-          "text": "Sandboxes are meant to reduce the risk that a regulator will reject a new idea after a firm has invested heavily. Did you find the regulators learned from you as well?"
+          "text": "Are regulators learning from you as well as helping you test your products? And does working with them reduce the risk that you'll invest in an idea only to be told later that the rules won't allow it?",
+          "evidence": [
+            {
+              "source_turn": 29,
+              "quote": "I am interested in not just what you got out of it, positive or negative, in the process, but also what the regulators got out of it."
+            },
+            {
+              "source_turn": 29,
+              "quote": "You are making a lot of investment in developing new products and processes. There is a risk associated with this that the regulator will say, “Sorry, no”, and your money has just gone down a black hole."
+            },
+            {
+              "source_turn": 29,
+              "quote": "Did you find in the process, or are you finding in the process in the case of Ms Dimitrova, that the regulators were learning and that this was a learning experience for them?"
+            }
+          ]
         },
         {
           "speaker": "Lyubomira Dimitrova",
-          "text": "There were only two group meetings for our cohort, at the start and midway through. Otherwise, firms worked separately. We asked to meet other participants whose work might connect with ours, but weren't introduced. We also offered feedback to the sandbox team, but I can't say whether it was used."
+          "text": "I can't tell whether the regulator is learning from us. Our group of firms has met only twice, and we mostly work separately. We asked to be introduced to firms we thought we could work with, without success. We offered feedback too, but I haven't seen evidence that it's being used.",
+          "evidence": [
+            {
+              "source_turn": 30,
+              "quote": "In our cohort right now, we had two touchpoints or opportunities to gather as a cohort and meet each other. That was at the kick-off and at a mid-point meeting. Beyond that, it is a very siloed experience."
+            },
+            {
+              "source_turn": 30,
+              "quote": "We asked to be introduced to a couple of other firms where we think we can work together to prove a point for both firms. We were not introduced."
+            },
+            {
+              "source_turn": 30,
+              "quote": "Maybe they are taking learnings and feedback, both on what is working operationally and on the technological side, but, in full honesty, I do not have evidence of that."
+            }
+          ]
         },
         {
           "speaker": "Kevin Sefton",
-          "text": "Regulators learning from the businesses they supervise is essential. They also need to explain what a firm gets in return for spending time helping the regulator understand a new idea. Otherwise, a firm may help establish a market and then face competitors as soon as it gets permission to operate."
+          "text": "I hope the FCA has learned; its approach has changed since we participated, though I can't say that's because of us. Regulators need to learn about both the possibilities and the risks. But firms also need some benefit for investing time in that discussion. Otherwise, they might help establish that an idea is safe only for everyone else to enter the market at the same moment.",
+          "evidence": [
+            {
+              "source_turn": 31,
+              "quote": "I am hopeful that they have learned, because things have changed since we took part. It might well be that that is based on feedback from us. A regulator learning from a sandbox is an essential part of a sandbox."
+            },
+            {
+              "source_turn": 31,
+              "quote": "a sandbox has a role with some trusted conversations between innovators and a regulator about what innovation may do, but also, quite frankly, around the risks of that innovation."
+            },
+            {
+              "source_turn": 31,
+              "quote": "You do not want to find that the day that you are authorised to be conducting business is the day that everybody else is authorised as well."
+            }
+          ]
         },
         {
           "speaker": "Vinay Anupindi",
-          "text": "In our case, both sides are learning. We can improve our processes, while the regulators develop the rules. We've made suggestions and seen some reflected in policy. We aren't authorised yet, so we can't say the sandbox has sped that up, but we may be better prepared."
+          "text": "In our case, both sides are learning. We've improved our procedures against regulators' expectations, and we've seen suggestions taken into account as rules develop. But we're still testing, not authorised, and I haven't seen evidence that participation will make our authorisation faster.",
+          "evidence": [
+            {
+              "source_turn": 32,
+              "quote": "I believe that we are both learning at the same time, definitely so in our case."
+            },
+            {
+              "source_turn": 32,
+              "quote": "We found that we were able to make suggestions that they took note of. We have seen this being implemented as policy as well while we were working in the sandbox."
+            },
+            {
+              "source_turn": 32,
+              "quote": "Unlike my colleagues over here, we have not been authorised yet. We are still in the testing phase, so we do not see any expedition in terms of us getting authorised."
+            }
+          ]
         },
         {
           "speaker": "Nick Tracey",
-          "text": "Our discussions felt genuinely collaborative. The FCA introduced us to its open banking specialists, and it seemed interested in what we were doing with data and artificial intelligence. It also publishes examples of innovation, which helps share what it learns."
+          "text": "The FCA team seemed genuinely curious about what we were doing. For instance, it introduced us to its open banking specialists so we could exchange ideas. From our side, it felt like a two-way conversation.",
+          "evidence": [
+            {
+              "source_turn": 33,
+              "quote": "it appeared to be collaborative, genuinely curious about the innovations that we were bringing forward and keen to learn from what we were doing."
+            },
+            {
+              "source_turn": 33,
+              "quote": "it introduced us to the open banking specialists within the FCA to share ideas in a two-way setting."
+            }
+          ]
         },
         {
           "speaker": "Lord Griffiths of Fforestfach",
-          "text": "Has being in a sandbox helped you raise money, attract staff or win business?"
+          "text": "Has being in a sandbox helped you raise money or attract the people and partners you need?",
+          "evidence": [
+            {
+              "source_turn": 46,
+              "quote": "As you reflect on having been in the sandbox, do you think that it has given you a competitive advantage in terms of raising money, attracting the right people, et cetera?"
+            }
+          ]
         },
         {
           "speaker": "Nick Tracey",
-          "text": "It helped us show investors and banks that our product had been tested and that we were ready to grow. We partnered with Investec and NatWest Group, which also invested in us. Around the time we left the sandbox, we raised £3.5 million in seed funding."
+          "text": "I believe it helped us. We became fully authorised, attracted attention from major banks and partnered with NatWest, which invested in us. We also raised £3.5 million around the time we left the sandbox. I think participation and the publicity helped give partners and investors confidence, although I can't separate out each factor.",
+          "evidence": [
+            {
+              "source_turn": 47,
+              "quote": "We attracted attention from tier 1 banks, I think partly due to our participation in the sandbox and associated publicity. We secured a strategic partnership with NatWest Group and it took a strategic investment in us as well."
+            },
+            {
+              "source_turn": 47,
+              "quote": "We were able to close a £3.5 million seed investment round around the same time as us exiting the sandbox successfully."
+            },
+            {
+              "source_turn": 47,
+              "quote": "giving investors and our bank partners the confidence that we were ready to scale that proposition."
+            }
+          ]
         },
         {
           "speaker": "Vinay Anupindi",
-          "text": "We haven't raised money yet, so I can't say it helped with that. It has let us engage with regulators while the rules are being developed, which may give us a temporary information advantage. I don't think it creates a lasting advantage once the rules are in place."
+          "text": "It's yes and no for us. We haven't raised money. We can speak to regulators and test while the rules are being developed, which may give us some information sooner than firms waiting on the sidelines. But once the rules are established, better-funded competitors can apply too. I don't expect a lasting advantage.",
+          "evidence": [
+            {
+              "source_turn": 48,
+              "quote": "We have not been able to raise money yet, so I do not know whether that is an advantage there."
+            },
+            {
+              "source_turn": 48,
+              "quote": "The only real advantage is that we get to test this and operate right now in a manner where we are discussing with the regulators. Maybe that gives us a little bit of an information advantage, but, in terms of execution or operation, I do not see that as a permanent advantage."
+            },
+            {
+              "source_turn": 48,
+              "quote": "Once the regime goes live, I am sure that a horde of other firms that are much better resourced than we are will be doing the same applications to be authorised."
+            }
+          ]
         },
         {
           "speaker": "Kevin Sefton",
-          "text": "I don't know whether the sandbox gave us a direct advantage. We did something new with bank data and tax returns, but we weren't sure investors or large financial firms understood what the sandbox meant. Useful lessons about how open banking could help accounting also seemed to get lost."
-        },
-        {
-          "speaker": "Kevin Sefton",
-          "text": "One wider cost is insurance. Because our service combines accounting and financial services, our insurance premiums are about 20 times what they would be for either activity alone. That cost is part of trying something new."
+          "text": "I'm not sure the sandbox itself gave us a direct competitive advantage. Other firms could soon use an authorised company as an agent instead of getting FCA permission themselves, and I don't think investors or financial institutions fully appreciated what we'd done. We did receive support from a separate industry fund, probably partly because of our sandbox experience.",
+          "evidence": [
+            {
+              "source_turn": 49,
+              "quote": "The agent model that was discussed earlier is a much shorter-cut route to achieving exactly the same thing. In effect, you have one organisation that is fully regulated by the FCA and it allows others to act through its authorisation as agents."
+            },
+            {
+              "source_turn": 49,
+              "quote": "I am not sure, as I said at the time, that any of the investors or financial institutions that we were talking to really appreciated what we were doing and going through."
+            },
+            {
+              "source_turn": 49,
+              "quote": "We got supported through that probably as a result of our participation in the sandbox and the understanding of the rigours associated with that, so there is a knock-on effect. Did we get direct competitive advantage from being in the sandbox? With respect to the FCA, I have to say that I am not entirely sure."
+            }
+          ]
         },
         {
           "speaker": "Lyubomira Dimitrova",
-          "text": "The publicity and trust have helped us find firms and customers willing to take a chance on an early-stage product. We built our product during the four months in the sandbox. It's useful, although it's too early for me to judge whether it gives us a lasting advantage."
-        },
-        {
-          "speaker": "Lord Hill of Oareford",
-          "text": "Can you point to examples where a sandbox led regulators to change the underlying rules?"
-        },
-        {
-          "speaker": "Kevin Sefton",
-          "text": "I can't give an example from a sandbox. Before sandboxes existed, I worked with the regulator on early electronic-money rules. That work helped shape the rules, but it wasn't part of a sandbox."
-        },
-        {
-          "speaker": "Vinay Anupindi",
-          "text": "I can't name a specific company whose sandbox changed a rule. But the rules for our area are still developing, and we've seen changes that reflect discussion with the industry. Different businesses may disagree about those changes."
+          "text": "For us, the publicity and trust have helped persuade potential customers to consider a developing product. We've built it during our four months in the sandbox, using its data and mentors. It's too early for me to say whether that becomes a competitive advantage.",
+          "evidence": [
+            {
+              "source_turn": 52,
+              "quote": "the publicity helps, especially if you are an early-stage business. The trust helps to attract companies or customers that are willing to take a chance on a developing technology"
+            },
+            {
+              "source_turn": 52,
+              "quote": "We managed to build our product in the past four months while in the sandbox. We started with zero and built in the sandbox with the datasets, mentors and support."
+            },
+            {
+              "source_turn": 52,
+              "quote": "On whether it provides a competitive advantage, it is too early for me to say and provide feedback."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "What should change, and how the UK compares",
-      "takeaway": "The witnesses urged clearer programme goals and more active support, while describing the UK's approach as more tangible than some alternatives.",
+      "title": "What should change?",
+      "takeaway": "The witnesses wanted each sandbox's purpose to be clearer, but differed on whether UK programmes already offer a credible route beyond testing.",
       "turns": [
         {
           "speaker": "Lord Davies of Brixton",
-          "text": "What did you mean by saying some programmes amount to 'innovation theatre', or that the word 'sandbox' has become confusing?"
+          "text": "You used the phrases “innovation theatre” and “mythic status” to describe some programmes and perceptions of sandboxes. What did you mean?",
+          "evidence": [
+            {
+              "source_turn": 53,
+              "quote": "One was “innovation theatre” from Mr Anupindi and the other was the “mythic status” of sandboxes from Mr Sefton."
+            },
+            {
+              "source_turn": 53,
+              "quote": "I wondered whether you would like to expound a bit more on them."
+            }
+          ]
         },
         {
           "speaker": "Vinay Anupindi",
-          "text": "In some places we applied or held discussions but received little follow-up. They invited firms and announced programmes, but we couldn't see a clear route from acceptance to permission or a lasting industry. The UK has been more convincing to us because it is developing rules and a route to operate, not just announcing a programme."
+          "text": "After an unsuccessful FCA application in 2020, we explored other countries. Some welcomed firms but gave us no answer to full applications, or no clear route from joining a programme to becoming licensed. By contrast, the UK's digital securities sandbox appeared to come with plans for rules and a route to operating. That's why we chose to work here, though progress isn't as fast as everyone would like.",
+          "evidence": [
+            {
+              "source_turn": 54,
+              "quote": "We applied in 2020 and did not get in, which, by the way, was quite early and even pre Covid."
+            },
+            {
+              "source_turn": 54,
+              "quote": "Examples would be that we would give full applications and not even get answers as to whether we got in."
+            },
+            {
+              "source_turn": 54,
+              "quote": "Then there was not much towards where this is going: “How will we get authorised? How will this scale? What are the plans of the authorities to make this into a sustained industry?”"
+            },
+            {
+              "source_turn": 54,
+              "quote": "We saw that there was actual intent and seriousness, not just in having a sandbox but actual pathways to being licensed. There were policies and laws being made."
+            },
+            {
+              "source_turn": 54,
+              "quote": "things are progressing, maybe not at the pace that many in the industry might like"
+            }
+          ]
         },
         {
           "speaker": "Kevin Sefton",
-          "text": "I should say that 'innovation theatre' was another witness's phrase. But large companies can be enthusiastic about innovation while failing to follow through with small firms. As for sandboxes, people often talk about their benefits without knowing what a particular programme actually does."
+          "text": "I borrowed “mythic status” from an earlier witness. People talk about the benefits of the FCA sandbox without always asking what it actually does. I've also seen large financial firms celebrate innovation and invite small businesses to present, only for it to be hard to find anyone who'll work with them afterwards. A programme needs a clear purpose and practical follow-through.",
+          "evidence": [
+            {
+              "source_turn": 55,
+              "quote": "I do not want to take credit for that line. I think it came from one of your previous witnesses."
+            },
+            {
+              "source_turn": 55,
+              "quote": "We will find ourselves paraded and presenting to them in a big room, but, when it comes to follow-up, trying to find the right person in a large organisation is a challenge."
+            },
+            {
+              "source_turn": 55,
+              "quote": "I hear lots of people referring to the benefits of the FCA sandbox without truly understanding what it is or even inquiring about what it is."
+            },
+            {
+              "source_turn": 55,
+              "quote": "needs to understand what the purpose is and therefore what the right combination of interventions is to achieve those goals."
+            }
+          ]
         },
         {
           "speaker": "Nick Tracey",
-          "text": "The sandbox gave banks a safer way to work with a very young business. We partnered with two banks while taking part, and I'm not sure they'd have taken the same chance without that structure."
+          "text": "Our experience with big banks was different. We partnered with Investec and then NatWest while in the sandbox. I wonder whether its supervised setting made it easier for them to work with a firm as young as ours.",
+          "evidence": [
+            {
+              "source_turn": 57,
+              "quote": "We were able to partner with two banks—Investec and then NatWest Group—during our time in the sandbox. I wonder whether it would have been possible for them to take that chance on such an early-stage firm if it had not been for that framework."
+            }
+          ]
         },
         {
           "speaker": "Lord Davies of Brixton",
-          "text": "Do you know how the FCA chooses which firms to accept? Is it even-handed?"
+          "text": "If being admitted can help a firm, how does the FCA decide who gets in? Do you know whether it treats applicants fairly?",
+          "evidence": [
+            {
+              "source_turn": 58,
+              "quote": "the acceptance into the sandbox is quite an important element. I am curious to understand how you see the FCA choosing which people to take into the sandbox. Do you think it is even-handed? Is it trying to pick winners, or how is it doing it?"
+            }
+          ]
         },
         {
           "speaker": "Lyubomira Dimitrova",
-          "text": "I don't know. We submitted a project proposal but weren't told why it was selected."
-        },
-        {
-          "speaker": "Kevin Sefton",
-          "text": "I don't know either. We were using bank data to prepare tax returns, which was new at the time, and were encouraged to apply. I don't know what else was considered."
-        },
-        {
-          "speaker": "Vinay Anupindi",
-          "text": "We were rejected when we first applied in 2020, then accepted into later programmes. I can't explain the selection criteria. The sandbox helped us build credibility with established firms, but our application was a gamble."
+          "text": "I don't know why our proposal was selected. We didn't receive feedback explaining that decision.",
+          "evidence": [
+            {
+              "source_turn": 59,
+              "quote": "We did not hear feedback necessarily about why we were chosen, so I really do not know."
+            }
+          ]
         },
         {
           "speaker": "Nick Tracey",
-          "text": "The FCA published criteria, and we tried to address them in our application. We weren't given feedback on the strengths or weaknesses of our bid."
+          "text": "We saw the FCA's published criteria and wrote our application around them, but we didn't get feedback about its particular strengths or weaknesses.",
+          "evidence": [
+            {
+              "source_turn": 63,
+              "quote": "We did not receive any feedback on specifically what the strengths or weaknesses of our application were. We saw the criteria published on the FCA’s website and aimed to answer those points when we applied."
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Hill of Oareford",
+          "text": "Do you know of a case where a sandbox participant's experience led the FCA to change an underlying rule, rather than simply helping the firm meet it?",
+          "evidence": [
+            {
+              "source_turn": 64,
+              "quote": "do any of you—you do not all have to answer—have any examples of where, as a result of a company or business being in a sandbox and going through the sandbox, the FCA changed any underlying regulation?"
+            },
+            {
+              "source_turn": 66,
+              "quote": "All it is, otherwise, is a way of helping you to accommodate what it is that they require you to do, which may or may not be sensible."
+            }
+          ]
+        },
+        {
+          "speaker": "Vinay Anupindi",
+          "text": "I can't name a particular firm that caused a change. Rules in our area are still being developed, and we've seen changes that some firms welcome and others don't. I think regulators are listening to industry, while also weighing their responsibility to protect the financial system and its users.",
+          "evidence": [
+            {
+              "source_turn": 68,
+              "quote": "I cannot think of a specific firm, but right now the policies and legislation for our particular innovation industry are quite fluid. We have seen things that have already changed. Some firms in our industry are glad to see those changes. Some other firms are not glad"
+            },
+            {
+              "source_turn": 68,
+              "quote": "we feel that the regulators are taking a very sensible approach to this and listening to industry. There is a balance on how much they can take into account what industry suggests."
+            },
+            {
+              "source_turn": 68,
+              "quote": "they need to maintain stability and prudential care, and make sure Nan is not hurt financially."
+            }
+          ]
         },
         {
           "speaker": "Baroness Donaghy",
-          "text": "Would it help to define the different types of sandbox, or should the financial sector stop using the word altogether?"
+          "text": "Is the word “sandbox” itself obscuring the differences? Would it help new firms more if we explained the different kinds clearly—or even stopped using the word?",
+          "evidence": [
+            {
+              "source_turn": 72,
+              "quote": "We could write a report that clearly defines all those different possibilities of a sandbox, or we could write one sentence that says, “We think the financial world should ban the word ‘sandbox’”. What do you think would be the most helpful to the financial world and to your companies, just setting off for the first time?"
+            }
+          ]
         },
         {
           "speaker": "Lyubomira Dimitrova",
-          "text": "Defining the purpose would help. A technology provider like us needs different support from a firm seeking permission to provide a financial service. There should also be more chances for participants to share ideas and give feedback, and access to experts who understand the issue they're testing."
+          "text": "Defining each programme's purpose would help. We're building technology, not seeking authorisation, so we need different support from firms applying for permission. I'd like more chances for participating firms to meet, more opportunity to give feedback, and access to a regulator with expertise in the rule we're trying to help firms follow. The sandbox is useful; it could be much better.",
+          "evidence": [
+            {
+              "source_turn": 73,
+              "quote": "We are a technology provider. We are not a firm seeking to be authorised, so our profile is very different and we would benefit from a different type of support"
+            },
+            {
+              "source_turn": 73,
+              "quote": "we are missing an opportunity here even just to have more informal check-ins and gatherings to exchange ideas and feedback"
+            },
+            {
+              "source_turn": 73,
+              "quote": "if you are interested in a topic such as consumer duty technology, have an expert on consumer duty who is interested in enabling the market"
+            },
+            {
+              "source_turn": 73,
+              "quote": "It is a useful tool. It works. It can work better."
+            }
+          ]
         },
         {
           "speaker": "Kevin Sefton",
-          "text": "The word is confusing, and the report shouldn't ignore that. If people use the same label for very different programmes, they may expect the wrong thing. What matters is matching the support to the programme's goal."
+          "text": "The confusion matters. In technology, a sandbox can simply mean a place to try out a system; ours was a route to limited regulatory permission. If everyone means something different, they may choose the wrong tool for the job. I don't know the best replacement word, but the committee shouldn't overlook the problem.",
+          "evidence": [
+            {
+              "source_turn": 74,
+              "quote": "The word “sandbox” is so confusing. Please do not ignore that confusion in the report."
+            },
+            {
+              "source_turn": 74,
+              "quote": "The word “sandbox” in technology terms means basically a place that you can connect your systems to and play around with. Just the one word is really unhelpful."
+            },
+            {
+              "source_turn": 39,
+              "quote": "From our point of view, it was simply limited regulation that allowed us to support 200 people"
+            }
+          ]
         },
         {
           "speaker": "Vinay Anupindi",
-          "text": "It may be better to think of them as different innovation programmes, each with its own goals and requirements. In our case, there wasn't an ordinary route to permission for what we were building, so a programme to test it and develop rules was necessary."
-        },
-        {
-          "speaker": "Baroness Donaghy",
-          "text": "But is every sandbox really about innovation? Some may just test whether a business can do something that already exists."
-        },
-        {
-          "speaker": "Nick Tracey",
-          "text": "Clearer names might help firms understand what they can apply for. Perhaps an earlier support or supervision programme could serve businesses before they reach the stage of the existing sandbox."
+          "text": "“Sandbox” has become a catch-all name for programmes with different aims. In our case, it really is a way to test something new: there wasn't an existing permission we could simply apply for. But joining hasn't given us special treatment in authorisation; that decision remains with the authorisation team.",
+          "evidence": [
+            {
+              "source_turn": 75,
+              "quote": "“Sandbox” has become a catch-all word to describe many different things. In essence, they are innovation programmes and I suppose each programme has its own objectives and requirements."
+            },
+            {
+              "source_turn": 77,
+              "quote": "There was not a way for us to just ignore the sandbox and go for direct authorisation, because direct authorisation does not exist."
+            },
+            {
+              "source_turn": 77,
+              "quote": "Whether it helps is up to the authorisation team."
+            }
+          ]
         },
         {
           "speaker": "Lord Smith of Kelvin",
-          "text": "What did you find when you looked at other countries?"
-        },
-        {
-          "speaker": "Nick Tracey",
-          "text": "We looked at the Netherlands, where a limited exemption may allow small-scale tests. That could be another option besides a sandbox."
+          "text": "Beyond those examples, did anyone find a useful approach in another country?",
+          "evidence": [
+            {
+              "source_turn": 79,
+              "quote": "Does anyone have anything to share about other jurisdictions?"
+            }
+          ]
         },
         {
           "speaker": "Vinay Anupindi",
-          "text": "We also took part in Ireland's programme. These experiences weren't entirely negative, but we sometimes couldn't tell what would happen after acceptance. In the UK, we've had a fair chance to work alongside major firms, which we don't think we could have done everywhere."
+          "text": "Our overseas experiences weren't all negative: Ireland's central-bank sandbox was useful. But in some places we couldn't see what would happen after admission, and we felt larger established firms were preferred. In the UK, we've been able to participate alongside those firms without encountering that kind of barrier.",
+          "evidence": [
+            {
+              "source_turn": 81,
+              "quote": "We have also participated in the Central Bank of Ireland sandbox. We found that useful."
+            },
+            {
+              "source_turn": 81,
+              "quote": "it is just, “Will that application go through? What happens after you get accepted?”"
+            },
+            {
+              "source_turn": 81,
+              "quote": "We noticed that, rather than being truly innovative, it was more about preferring those firms."
+            },
+            {
+              "source_turn": 81,
+              "quote": "We are among the largest incumbents in these sandboxes that we are in, here in the UK. We are cohort members with the largest incumbents"
+            }
+          ]
         },
         {
           "speaker": "Kevin Sefton",
-          "text": "We looked at Belgium because we were uncertain how long the UK process would take. We could quickly speak to the regulator there and discuss the process, which was a positive experience, although we didn't apply in the end."
-        },
-        {
-          "speaker": "Chair",
-          "text": "Thank you. That concludes the session."
+          "text": "We also spoke to regulators in Belgium because we weren't sure how long our FCA application would take. We could quickly arrange a meeting and talk through the process, which was encouraging, though we didn't go on to apply there.",
+          "evidence": [
+            {
+              "source_turn": 82,
+              "quote": "We looked at Belgium, because we were unsure about the timing of the FCA application process and did not want all our eggs in one basket."
+            },
+            {
+              "source_turn": 82,
+              "quote": "we could pick up the phone, sit down and have a meeting with them pretty quickly. We sat down and we talked through the process. Although we did not actually proceed with the application, I thought that was a very good experience"
+            }
+          ]
         }
       ]
     }

@@ -2,25 +2,25 @@
   "schema_version": 1,
   "source_id": 18330,
   "source_sha256": "0ae7bd4e282dddf421809ac919ee6bf5c5b1eb2fbff6a209170786941f7b9e27",
-  "title": "Who should deliver employment support?",
+  "title": "Can local areas do more to help people into work?",
   "label": "18 November 2026 · Local employment support",
-  "summary": "The committee explored why employment support in the UK is centrally run, what local control could improve, and the risks of shifting responsibility to regional bodies. The witnesses supported giving local areas more room to shape services around people and employers, but stressed that devolution needs stable funding, skilled staff, reliable data, clear accountability and regular evaluation. Central Government should still set some standards and step in when services fail or particular groups are overlooked.",
+  "summary": "The committee examined plans to give local areas more responsibility for helping people find and keep work. The witnesses saw opportunities to connect employment support with health, skills and other local services, but warned that success would depend on adequate funding, local expertise, reliable data and clear responsibility when services fall short.",
   "speakers": [
     {
       "label": "Chair",
       "name": "Debbie Abrahams",
-      "role": "Chair of the committee",
+      "role": "Chair of the Work and Pensions Committee",
       "kind": "chair"
     },
     {
-      "label": "Professor Dan Finn",
+      "label": "Professor Finn",
       "name": "Professor Dan Finn",
       "role": "Emeritus Professor of Social Inclusion, University of Portsmouth",
       "kind": "witness"
     },
     {
-      "label": "Ben Paxton",
-      "name": "Ben Paxton",
+      "label": "Dr Paxton",
+      "name": "Dr Ben Paxton",
       "role": "Senior Researcher, Institute for Government",
       "kind": "witness"
     },
@@ -58,385 +58,833 @@
   "glossary": [
     {
       "term": "Jobcentre Plus",
-      "definition": "The national network of offices that helps people find work and administers working-age benefits."
+      "definition": "The government network of jobcentres that helps benefit claimants look for work and checks work-related requirements."
     },
     {
-      "term": "DWP",
-      "definition": "The Department for Work and Pensions, which runs benefits and much of the UK's employment support."
-    },
-    {
-      "term": "conditionality",
-      "definition": "Rules requiring some people receiving benefits to take agreed steps towards finding or preparing for work."
-    },
-    {
-      "term": "sanctions",
-      "definition": "Reductions or suspensions of benefits that can follow when someone doesn't meet certain requirements."
-    },
-    {
-      "term": "Connect to Work",
-      "definition": "A programme offering employment support, including help for people facing health-related barriers to work."
-    },
-    {
-      "term": "Restart",
-      "definition": "A programme providing employment support to people who have been unemployed for a long time."
+      "term": "devolution",
+      "definition": "The transfer of decisions and responsibilities from central government to authorities covering particular areas."
     },
     {
       "term": "strategic authorities",
-      "definition": "Regional bodies, often led by elected mayors, that coordinate services and may take on powers from central government."
+      "definition": "Regional bodies, often led by mayors, that plan and manage services across several local council areas."
     },
     {
-      "term": "NEET",
-      "definition": "A young person who isn't in education, employment or training."
+      "term": "Connect to Work",
+      "definition": "An employment-support programme delivered through local areas, particularly for people facing health-related barriers to work."
+    },
+    {
+      "term": "Restart",
+      "definition": "An employment-support programme for people who have been unemployed for a long time."
+    },
+    {
+      "term": "Milburn review",
+      "definition": "A review discussed throughout the hearing that proposed changes to support for young people entering work."
     },
     {
       "term": "What Works Centre",
-      "definition": "An organisation that gathers and tests evidence to help public services understand which approaches work."
+      "definition": "An organisation intended to help assess evidence about which approaches to local employment support work."
     }
   ],
   "chapters": [
     {
-      "title": "Why the system is run from the centre",
-      "takeaway": "The national system grew around benefit rules and central targets, which makes it easier for government to act consistently but harder to tailor help to local needs.",
+      "title": "Why the system is centralised",
+      "takeaway": "Jobcentres became closely tied to benefit claims, giving central government control but limiting how easily support fits with other local services.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "Why has employment support in the UK become so centralised, and what are the advantages and drawbacks?"
+          "text": "Why is employment support so centrally run in the UK, and what does that mean in practice?",
+          "evidence": [
+            {
+              "source_turn": 3,
+              "quote": "The UK has a very centralised system for employment support. Could you explain how that has come about and what the pros and cons of it are?"
+            }
+          ]
         },
         {
-          "speaker": "Professor Dan Finn",
-          "text": "The system changed over time. It began as a public employment service focused on the wider jobs market, skills and matching people to vacancies. As unemployment rose, government increasingly focused it on people claiming unemployment benefits."
+          "speaker": "Professor Finn",
+          "text": "From the 1980s, governments increasingly directed jobcentres towards people claiming unemployment benefits and required those people to do more to look for work. As jobcentres took on more groups, including parents raising children alone and people on disability benefits, they became a service focused mainly on claimants rather than everyone looking for work.",
+          "evidence": [
+            {
+              "source_turn": 4,
+              "quote": "Over time, the Government basically harnessed and reformed the system to focus more on the claimant unemployed"
+            },
+            {
+              "source_turn": 4,
+              "quote": "people who are signing on and claiming benefits—the regular unemployed—should be required to do more things to look for work."
+            },
+            {
+              "source_turn": 4,
+              "quote": "as the terms of reference of the jobcentre network have widened towards, first, lone parents, and then more recently, people on disability benefits, we have seen effectively a claimant employment service rather than a public employment service."
+            }
+          ]
         },
         {
-          "speaker": "Professor Dan Finn",
-          "text": "That made the service useful to central government: it could encourage people to look for work, help control benefit spending and respond quickly to economic shocks. But it also meant that Jobcentre Plus became more focused on benefit claimants than on everyone who might need help finding work."
+          "speaker": "Professor Finn",
+          "text": "That gives central government a way to try to reduce benefit spending and respond quickly to economic crises. But it also means Jobcentre Plus must keep checking that claimants meet work-related requirements, even as governments consider giving local areas more control.",
+          "evidence": [
+            {
+              "source_turn": 4,
+              "quote": "a service delivery mechanism that is primarily focused on getting the benefit bill down, as well as getting people into jobs"
+            },
+            {
+              "source_turn": 4,
+              "quote": "an instrument that is incredibly useful for central Government when they need to respond to crises and the arrival of economic shocks to the system."
+            },
+            {
+              "source_turn": 4,
+              "quote": "I think that is one of the two tensions that are still there as we go into the next wave of localisation, which is the conditionality and sanctions regime."
+            }
+          ]
         },
         {
-          "speaker": "Professor Dan Finn",
-          "text": "Some people receiving benefits must meet work-related requirements, known as conditionality, and can face sanctions if they don't. That remains a major part of the jobcentre's work. Central government has also tended to favour uniform national programmes rather than let areas decide how to deliver them."
-        },
-        {
-          "speaker": "Ben Paxton",
-          "text": "The UK state is highly centralised, and the DWP has a large role in running benefits and a national network of jobcentres. That encourages the department to manage services centrally."
-        },
-        {
-          "speaker": "Ben Paxton",
-          "text": "There's also a cycle: government says local areas don't yet have the skills to take on responsibility, but they may only build those skills by taking on some responsibility. Past programmes that appeared to work have also encouraged government to repeat similar national models."
-        },
-        {
-          "speaker": "Chair",
-          "text": "Can national standards still protect quality while local areas have more freedom?"
-        },
-        {
-          "speaker": "Ben Paxton",
-          "text": "Yes, but we don't yet know the right balance. Government can set minimum expectations while allowing local services to work with nearby health and other services. Programmes such as Connect to Work and WorkWell are being combined more flexibly in some places; we should learn from how that goes."
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "A major risk of devolution is that local areas might be rewarded for moving people off one benefit, even if they don't find lasting work and end up needing support elsewhere. Costs can simply shift to another part of government."
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "There are other risks too: people may lose contact with support, or local programmes may be pleasant but fail to help people into jobs. Weak checks on providers could also mean poor use of public money. Government needs to keep track of whether employment is actually improving."
-        }
-      ]
-    },
-    {
-      "title": "Lessons from other countries",
-      "takeaway": "Other countries show that local delivery can work, but only with careful planning, clear responsibilities and support to build local skills.",
-      "turns": [
-        {
-          "speaker": "John Milne",
-          "text": "What does international experience tell us about local and national models?"
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "Many countries have moved towards local delivery, though their systems and constitutions differ from ours. Canada, for example, transferred staff, budgets and computer systems to provincial and local services. That took time and required changes in how people worked."
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "Local delivery can bring employment, health and other services together in ways a national service may struggle to do. But it needs careful design, especially so that local authorities are encouraged to help people into lasting work rather than simply reduce benefit claims."
-        },
-        {
-          "speaker": "John Milne",
-          "text": "Are there clear lessons about how to manage the change?"
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "Yes. In Canada, local areas were expected to assess their own programmes. Places that needed help developed evaluation plans with the national government, building the ability to judge results for themselves over time."
-        },
-        {
-          "speaker": "Ben Paxton",
-          "text": "Denmark shows the value of making it clear who is responsible for what, and giving people a clear place to go for support. Our system is less tidy: some services are local while jobcentres still handle other parts."
-        },
-        {
-          "speaker": "John Milne",
-          "text": "What is the Government proposing for England?"
-        },
-        {
-          "speaker": "Ben Paxton",
-          "text": "The plans set out local employment support through strategic authorities, with funding going to some authorities through combined budgets. The Government has also said it wants strategic authorities across England by 2028, but there are still important details to settle."
-        },
-        {
-          "speaker": "Ben Paxton",
-          "text": "For example, it's not yet clear how employment support will be devolved in places without a mayor, how local leaders will be held to account, or what support there will be for people unemployed for a long time as Restart ends. There are also questions about whether the proposed transfer of some education funding for 16-to-19-year-olds covers all or only part of that budget."
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "When money is devolved without being reserved for a specific service, it can become hard to see where it went. In Scotland and Northern Ireland, for example, funding linked to Restart wasn't tied to a dedicated programme for long-term unemployed people. We need to be able to track both the money and the results."
-        }
-      ]
-    },
-    {
-      "title": "Skills, budgets and local capacity",
-      "takeaway": "Local areas need more expertise and reliable funding to take on new duties, but they must be allowed to build that capacity as responsibilities shift.",
-      "turns": [
-        {
-          "speaker": "Liz Twist",
-          "text": "Strategic authorities are taking on duties in employment, housing and transport. Do they have enough capacity to do all of this?"
-        },
-        {
-          "speaker": "Ben Paxton",
-          "text": "It will vary a lot. Places with more experience have often had time to build skills gradually; the next expansion is expected to happen faster. We see three important gaps: designing policy, analysing local needs and results, and buying services well."
-        },
-        {
-          "speaker": "Ben Paxton",
-          "text": "Local teams need information about who lives in their area, what jobs are available and whether their programmes work. They also need to negotiate contracts with large providers, small businesses and charities, and make sure those services offer good value."
-        },
-        {
-          "speaker": "Ben Paxton",
-          "text": "Some places have had a smoother start with Connect to Work than others. That may reflect both the experience of the authority and whether people in different organisations already know how to work together. The answer can't be to wait for every area to be fully ready, or local capacity may never grow."
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "Central government should help build local expertise, including sharing its experience buying and managing services. Local authorities already have relevant skills, but there will be uneven performance during the transition."
-        },
-        {
-          "speaker": "Liz Twist",
-          "text": "What would help local areas manage that transition?"
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "They need access to data so they can identify who needs help, judge whether support works and check the performance of organisations delivering it. Sharing information across services remains a major difficulty."
-        },
-        {
-          "speaker": "Ben Paxton",
-          "text": "Staff could also spend time working between central government and local authorities, sharing experience. But national officials shouldn't assume they have all the answers; local areas already have valuable knowledge."
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "Jobcentre Plus has regional and local management teams too, so staff could share knowledge in both directions rather than treating everything as a choice between Westminster and local government."
-        },
-        {
-          "speaker": "Liz Twist",
-          "text": "Local government budgets are already under pressure. Will the money follow these new responsibilities?"
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "That's a key risk. If money is tightly reserved, local authorities may just deliver a national programme in a different way. If they have more freedom, government needs another way to make sure people receive support."
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "One possible approach is for local authorities to keep some savings if they help people into work sooner, and reinvest the money in services. But Finland found that making local authorities responsible for the cost of benefits can leave some with large bills and less money to provide support."
-        },
-        {
-          "speaker": "Ben Paxton",
-          "text": "There is also a risk of imposing legal duties or guarantees without funding them. Minimum standards matter, but very detailed requirements can push services to meet the rules rather than achieve better results."
-        },
-        {
-          "speaker": "Ben Paxton",
-          "text": "Local government already has expensive legal duties in areas such as social care and housing. Adding another duty without enough money could crowd out other services. Funding and responsibilities need to be agreed together."
-        }
-      ]
-    },
-    {
-      "title": "Bringing services and employers together",
-      "takeaway": "Local partnerships can tackle the problems behind unemployment, but they need practical ways to cooperate and employers need a clear point of contact.",
-      "turns": [
-        {
-          "speaker": "Liz Twist",
-          "text": "What can other countries teach us about making services work together?"
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "In the United States, American Job Centers bring many services together in one place. Typically, around 18 organisations coordinate their work, with some responsible for funding and running the centre."
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "Setting up this kind of service usually takes three to five years. Staff, computer systems and data-sharing arrangements all have to change, and the system needs continued adjustment afterwards."
+          "speaker": "Dr Paxton",
+          "text": "The UK government is generally centralised, and the department that runs benefits also runs the jobcentre network. There's a difficult cycle: local areas may lack the staff and skills to take on support, but they often need responsibility in order to build those skills. Central and local government need to develop them together.",
+          "evidence": [
+            {
+              "source_turn": 6,
+              "quote": "the UK state in general is quite centralised"
+            },
+            {
+              "source_turn": 6,
+              "quote": "it is used to deliver the large network of jobcentres through the central Department"
+            },
+            {
+              "source_turn": 6,
+              "quote": "We say local areas do not have the capability and capacity to deliver that support, so we should not devolve it until they are ready to have it, but having some powers and responsibility is often important for building that capacity."
+            },
+            {
+              "source_turn": 6,
+              "quote": "central Government working with subnational Government to develop capability and capacity."
+            }
+          ]
         },
         {
           "speaker": "Chair",
-          "text": "What has worked in previous efforts to localise support?"
+          "text": "Could national standards for good support still leave room for different local approaches?",
+          "evidence": [
+            {
+              "source_turn": 9,
+              "quote": "surely there needs to be an evidence-based approach that reflects those standards."
+            }
+          ]
         },
         {
-          "speaker": "Professor Dan Finn",
-          "text": "Earlier programmes were often tightly controlled from the centre. As unemployment fell, local teams found that a standard programme didn't always fit the needs of the people they served. Local partnerships helped develop skills and experience that some regional authorities still draw on."
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "Evidence-based programmes can become too rigid if staff are judged mainly on whether they followed the process. We need to see whether people get and keep jobs, and to evaluate what local teams change so others can learn from it."
-        },
-        {
-          "speaker": "Ben Paxton",
-          "text": "Local areas should be able to try a different approach when they have a good reason to think it will work better. They should monitor results, investigate when things go wrong and be prepared for central government to help turn around poor performance."
-        },
-        {
-          "speaker": "Andrew Pakes",
-          "text": "People out of work may also need help with health, housing, skills or poverty. How can local services work around those overlapping needs?"
-        },
-        {
-          "speaker": "Ben Paxton",
-          "text": "Local services can be better placed to respond because people use health and other support locally. Flexible, lasting funding and the ability to share budgets can help organisations work together. Simply ordering them to cooperate doesn't guarantee better results."
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "It helps to have a couple of organisations clearly responsible for steering the work, with other services agreeing how they will contribute. In one example from Manchester, local teams found that poor dental health was a barrier to getting work, so they arranged support with university dental trainees."
-        },
-        {
-          "speaker": "Andrew Pakes",
-          "text": "What role can employers play?"
-        },
-        {
-          "speaker": "Ben Paxton",
-          "text": "Regional authorities may be able to work with large employers at a useful scale, while also involving smaller businesses. Employers need a clear place to go when they have vacancies; the current mix of different programmes can be confusing."
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "Employers can help shape training for real vacancies and identify routes into skilled jobs, rather than just immediate entry-level work. A coordinated service can also stop several small providers competing for the same employers and job openings."
-        },
-        {
-          "speaker": "Andrew Pakes",
-          "text": "Some regions are newer and cover several different local job markets. How can they build the organisations and relationships needed to deliver?"
-        },
-        {
-          "speaker": "Ben Paxton",
-          "text": "Stable, long-term funding makes it easier to hire staff, develop services and become a reliable partner for employers. Areas with several centres may need to build skills across a wider geography than a single-city region."
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "Frequent reorganisations make this harder. Staff may not know what their jobs or responsibilities will be in six months, and areas without a history of working together may struggle to agree on priorities."
-        },
-        {
-          "speaker": "Andrew Pakes",
-          "text": "Should highly specialised support stay national, for example for deaf or blind people?"
-        },
-        {
-          "speaker": "Ben Paxton",
-          "text": "It depends on the group and the scale needed. A regional authority may have enough people to organise many specialist services, but some very small groups may need a national programme."
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "Devolution doesn't stop central government from intervening if a group isn't getting suitable help. Canada, for instance, has some national services for specific communities, delivered directly or through local and voluntary organisations."
+          "speaker": "Dr Paxton",
+          "text": "Yes. The question is how to set a minimum standard while letting areas connect employment help with services such as healthcare. Some areas, including Greater Manchester, have combined local programmes in different ways. We don't yet know the right balance between common standards and local flexibility.",
+          "evidence": [
+            {
+              "source_turn": 10,
+              "quote": "you can have those standards in place. There is then a balance with how you make sure that, combined with minimum standards of how you provide a service, you also give flexibility to get the benefits of that local approach and allow areas to set up a service in a way that does genuinely join up with other services locally, such as health services."
+            },
+            {
+              "source_turn": 10,
+              "quote": "Greater Manchester, for example."
+            },
+            {
+              "source_turn": 10,
+              "quote": "I do not think we yet know exactly what the right balance is there."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Accountability and learning what works",
-      "takeaway": "Local freedom needs public information about results and people's experiences, as well as a way to intervene when support falls short.",
+      "title": "What moving decisions locally could change",
+      "takeaway": "Other countries show that local control can make services easier to connect, but poorly designed funding can reward moving people off one benefit rather than into lasting work.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "What could go wrong if local areas normally took the lead?",
+          "evidence": [
+            {
+              "source_turn": 11,
+              "quote": "What do you think are the risks associated with a devo-by-default design?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Finn",
+          "text": "Funding rules might reward an area for getting someone off one benefit, even if that person doesn't get a lasting job and moves onto another benefit paid for nationally. Finland found that this happened to some people during its experiments. Equally, a supportive programme still needs to be judged on whether it helps people into work.",
+          "evidence": [
+            {
+              "source_turn": 12,
+              "quote": "if you create the wrong kind of incentives for the local level, to get outcomes in a way that mean it is more important to get people off benefits rather than into a sustained job, those people can then pop up on other benefits."
+            },
+            {
+              "source_turn": 12,
+              "quote": "One of the things that happened in Finland was that, as they experimented with devolving, they found that something like 10% of the people who were successfully taken off the caseload of municipalities ended up on other disability benefits that were funded by central Government."
+            },
+            {
+              "source_turn": 12,
+              "quote": "On the ground, you might have very nice programmes that treat people very well, but do they get people into jobs?"
+            }
+          ]
+        },
+        {
+          "speaker": "John Milne",
+          "text": "What can we learn from countries that have tried giving local areas more control?",
+          "evidence": [
+            {
+              "source_turn": 13,
+              "quote": "Looking at the international evidence for the relative success over decentralised versus centralised models, what can you tell us about that?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Finn",
+          "text": "Canada transferred programmes, staff and computer systems from a national employment service to provinces and local areas. Such changes can let local services work together better, but they take time and careful design. In particular, funding mustn't encourage authorities to turn people away from benefits instead of helping them into jobs.",
+          "evidence": [
+            {
+              "source_turn": 14,
+              "quote": "Canada, for instance, moved from a federal public employment service that covered the whole of the country to one that was devolved with staff transfers, IT transfers down to the level of provincial government and below provincial government to the local delivery units"
+            },
+            {
+              "source_turn": 14,
+              "quote": "these can improve things, but there are risks"
+            },
+            {
+              "source_turn": 14,
+              "quote": "place-based delivery systems that can join up services"
+            },
+            {
+              "source_turn": 14,
+              "quote": "Do you incentivise the local level to simply tell people to go away and not claim benefits because that keeps their bills down, keeps central Government’s bills down—those people pop up somewhere else—as opposed to the focus on getting people into employment?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Finn",
+          "text": "Canada also required provinces to assess their own programmes. Where provinces lacked the skills to do that, they worked with the national government at first. That helped them build the ability to judge results themselves in later agreements.",
+          "evidence": [
+            {
+              "source_turn": 18,
+              "quote": "they also devolved a requirement that people evaluated and assessed their own programmes and delivery."
+            },
+            {
+              "source_turn": 18,
+              "quote": "other areas were required to develop joint evaluation frameworks with the centre in the initial periods and that built up the capacity of the local areas to deliver."
+            },
+            {
+              "source_turn": 18,
+              "quote": "Then on the second iteration—these are usually three to five-year agreements—the areas were much better able to do these things themselves"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Paxton",
+          "text": "Denmark offers another lesson: when local councils have clear responsibility for employment help, people know where to go. The UK's mix of locally run support and centrally run jobcentres could work, but it's less straightforward.",
+          "evidence": [
+            {
+              "source_turn": 19,
+              "quote": "In Denmark, where there is a high degree of devolution to municipalities in their wider employment support system, having that kind of single point of access is valuable for citizens to know where they can get support, and it is really clear who is responsible for the range of support."
+            },
+            {
+              "source_turn": 19,
+              "quote": "we have some devolution to quite a high degree in employment support, perhaps for young people or disabled people, but then have jobcentres still running other parts of the employment system. It is not that that cannot work"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Paxton",
+          "text": "Government plans also leave practical questions. It has said mayors should take responsibility for helping people who have been unemployed for a long time, while Restart is ending. Areas need to know what replaces it; gaps in support would hurt people who rely on it.",
+          "evidence": [
+            {
+              "source_turn": 23,
+              "quote": "We have the Restart scheme, which is coming to an end. “Rewiring the State” specifically said that employment support for the long-term unemployed would be devolved to mayors."
+            },
+            {
+              "source_turn": 23,
+              "quote": "There is a history of gaps in employment support programmes, and that is bad for the people who rely on them to help get into work."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Finn",
+          "text": "We also need to watch what happens to the money. Scotland and Northern Ireland receive funding linked to the Restart budget without running a Restart programme. I can't tell from the available information where that money goes or whether outcomes differ. If budgets aren't set aside for a particular service, how do we make sure people still receive it?",
+          "evidence": [
+            {
+              "source_turn": 25,
+              "quote": "At the moment, there is a Barnett consequential for Scotland and Northern Ireland with the Restart budget, but there is no Restart programme in either country"
+            },
+            {
+              "source_turn": 25,
+              "quote": "you just cannot find out where the money has gone, because it is not ringfenced; it just dissipates into the system."
+            },
+            {
+              "source_turn": 27,
+              "quote": "Well, exactly, and that might be a good question to ask Ministers, because I do not know."
+            },
+            {
+              "source_turn": 27,
+              "quote": "The dilemma is then how do you steer to make sure that people are getting the services you want them to get?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "People, money and responsibility",
+      "takeaway": "Local authorities will need skilled staff, usable information and stable funding, while national government must decide how much freedom and financial risk to give them.",
+      "turns": [
+        {
+          "speaker": "Liz Twist",
+          "text": "Can strategic authorities take on employment support while also gaining responsibilities for things such as transport and housing?",
+          "evidence": [
+            {
+              "source_turn": 30,
+              "quote": "At the same time as the strategic authorities are taking on responsibility for employment support, they are also getting new devolved functions from transport through to housing."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Paxton",
+          "text": "It'll vary by area. The next transfer of responsibilities may happen faster than the gradual changes in places already doing this work. Authorities particularly need people who can design support around local needs, use data to test whether it works, and buy services from outside organisations on sensible terms.",
+          "evidence": [
+            {
+              "source_turn": 31,
+              "quote": "It will vary substantially."
+            },
+            {
+              "source_turn": 31,
+              "quote": "The next stage would see a much faster roll-out of the capability needed to deliver these employment support programmes."
+            },
+            {
+              "source_turn": 31,
+              "quote": "Our research found three particular capability gaps"
+            },
+            {
+              "source_turn": 31,
+              "quote": "One is policy design capability."
+            },
+            {
+              "source_turn": 31,
+              "quote": "A second gap is around analytical capability."
+            },
+            {
+              "source_turn": 31,
+              "quote": "The third area where we think capability needs to be strong is the commercial capability to go out and procure services"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Finn",
+          "text": "Local authorities already buy and manage many services, so we shouldn't overlook their expertise. But the transition will be uneven. The department that runs jobcentres should share what it has learned, and local leaders must build their own teams quickly.",
+          "evidence": [
+            {
+              "source_turn": 34,
+              "quote": "DWP has good commercial expertise that it has developed over many years. How do you share that?"
+            },
+            {
+              "source_turn": 34,
+              "quote": "We should not underestimate the amount of acumen that exists at local and strategic authority levels. The authorities buy lots of services already"
+            },
+            {
+              "source_turn": 34,
+              "quote": "there is a transitional phase that we will have to go through, where it will be very uneven."
+            },
+            {
+              "source_turn": 34,
+              "quote": "it is the responsibility of both centre and the strategic authorities themselves to build up that acumen."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Finn",
+          "text": "Local teams also need access to information showing where help is needed and whether it works. Sharing that information between organisations remains a real problem.",
+          "evidence": [
+            {
+              "source_turn": 36,
+              "quote": "The local level has to have a line of sight of a lot of this information to be able to track where it needs to target services and then evaluate and assess the impact of the services it is delivering"
+            },
+            {
+              "source_turn": 36,
+              "quote": "data sharing is a real bugbear in the system."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Paxton",
+          "text": "One option is to lend experienced national staff to local authorities for a period. But people who have run national contracts won't necessarily have all the answers for local delivery; local areas have expertise of their own.",
+          "evidence": [
+            {
+              "source_turn": 37,
+              "quote": "the potential use of secondments from central Government into strategic and local authorities to help support."
+            },
+            {
+              "source_turn": 37,
+              "quote": "we should not always assume that people who have worked in central Government have all the answers. A lot of expertise already exists at local and strategic authority level."
+            }
+          ]
+        },
+        {
+          "speaker": "Liz Twist",
+          "text": "Local government budgets are already under pressure. Will the money transferred with these new responsibilities be enough?",
+          "evidence": [
+            {
+              "source_turn": 39,
+              "quote": "local government budgets, which are already under massive pressure. What do you think are the resource implications for local government as it takes on responsibility for employment support? Will any additional funding that is provided be enough to match those demands?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Finn",
+          "text": "There's a choice between reserving money for a particular national programme and giving local areas freedom to spend it differently. Some countries let local authorities keep savings if they help people into work faster, but make them cover extra benefit costs if they overspend. That can encourage action, yet Finland shows it can also leave authorities paying charges instead of providing services.",
+          "evidence": [
+            {
+              "source_turn": 40,
+              "quote": "Do you try to ringfence the money? In which case, are you then just simply making the local level a deliverer of national programmes"
+            },
+            {
+              "source_turn": 40,
+              "quote": "If you manage to get people in work more quickly, you keep the additional resource that is in that block grant"
+            },
+            {
+              "source_turn": 40,
+              "quote": "if you overspend, you have to make up the difference from your own resources."
+            },
+            {
+              "source_turn": 40,
+              "quote": "some local authorities are finding that they have these fines, effectively, and that means they cannot provide services because they are paying these fines."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Paxton",
+          "text": "Another risk is promising people a very specific level of support without paying for it. Authorities may then concentrate on meeting the promise rather than doing what most improves people's chances. Minimum standards can matter, but they must fit with the funding and the results government wants.",
+          "evidence": [
+            {
+              "source_turn": 41,
+              "quote": "A second risk is around piling on legal entitlements or guarantees in a system without providing the funding for it."
+            },
+            {
+              "source_turn": 43,
+              "quote": "There is a role sometimes for minimum standards and making sure that people are delivering a certain standard of support and ensuring access to it."
+            },
+            {
+              "source_turn": 43,
+              "quote": "if you make those guarantees on minimum standards too specific and onerous without providing the funding, you skew service provision towards just meeting standards rather than actually delivering better outcomes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Making local services work together",
+      "takeaway": "Support may work better when employment, health and skills services cooperate around people's needs, but local relationships and clear responsibilities matter as much as organisational plans.",
+      "turns": [
+        {
+          "speaker": "Andrew Pakes",
+          "text": "If this involves more than passing powers from one level of government to another, what do we gain by involving more organisations?",
+          "evidence": [
+            {
+              "source_turn": 59,
+              "quote": "we are not just talking about devolution as going from one tier of government to another but opening up to a much wider set of stakeholders being involved. Do you have any reflections on the benefits and shortcomings of doing this."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Paxton",
+          "text": "Someone may be out of work for several connected reasons, including health, housing, skills or poverty. Local services should respond to the person rather than treat finding a job as a separate problem. That takes people in different organisations working together, funding they can use flexibly, and enough stability to build those relationships.",
+          "evidence": [
+            {
+              "source_turn": 60,
+              "quote": "they might be around skills, health, housing and poverty or other experiences that they have had."
+            },
+            {
+              "source_turn": 60,
+              "quote": "We should try to design services that work around individuals and their multiple needs."
+            },
+            {
+              "source_turn": 60,
+              "quote": "it so often depends on individuals who know each other and work together"
+            },
+            {
+              "source_turn": 60,
+              "quote": "Having that local flexibility and long-term funding is important"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Finn",
+          "text": "That cooperation still needs organisations clearly responsible for making it happen, usually the employment service and local government. In Manchester, local teams identified poor dental health as a barrier to work and arranged help involving university dental trainees. I don't know what happened to that particular service later, but it shows what local organisations can spot together.",
+          "evidence": [
+            {
+              "source_turn": 61,
+              "quote": "you need a couple of key agencies that have core responsibility for steering the system. In most of the countries that I have looked at, effectively the public employment service is one of those key agencies. The municipal level, local authority government is the other kind of agency."
+            },
+            {
+              "source_turn": 61,
+              "quote": "oral health was a massive barrier for people getting back into work"
+            },
+            {
+              "source_turn": 61,
+              "quote": "They organised a service with the university dental technicians and trainees, and started to provide a service. Unfortunately, it is really hard to find out what happened to that service afterwards"
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Pakes",
+          "text": "Where do employers fit into a locally run system?",
+          "evidence": [
+            {
+              "source_turn": 62,
+              "quote": "Can you both say a bit more about what role there is for employers in this new world led by strategic authorities?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Paxton",
+          "text": "A strategic authority may be large enough to work with major regional employers while local councils also work with smaller businesses. A clearer local employment service could give employers a better place to find recruits than today's patchwork of programmes. But basic standards for helping employees with ill health should probably be national, because big employers operate across area boundaries.",
+          "evidence": [
+            {
+              "source_turn": 63,
+              "quote": "operating at a scale that allows them to engage with big employers in their region"
+            },
+            {
+              "source_turn": 63,
+              "quote": "Convening large businesses as well as small businesses working with local authorities"
+            },
+            {
+              "source_turn": 63,
+              "quote": "Those standards should probably be national wherever possible, because a lot of these larger employers are working across strategic authority boundaries."
+            },
+            {
+              "source_turn": 63,
+              "quote": "The current patchwork of various different programmes, and jobcentres not necessarily being places that employers feel they want to go to fill vacancies, is a problem at the moment"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Finn",
+          "text": "Employers also need practical help filling jobs. If several small providers all approach the same businesses, that can put employers off. A coordinated service could find vacancies, arrange short training for people who have been on benefits, and respond to local employers' needs.",
+          "evidence": [
+            {
+              "source_turn": 64,
+              "quote": "New supermarkets open in an area, so how do we train up a whole bunch of people that might have been on benefits for a long time? We can do two, four, six-week training courses to get people prepared."
+            },
+            {
+              "source_turn": 64,
+              "quote": "If you have lots of small organisations on different contracts competing for the jobs that are out there, it can be off-putting to employers"
+            },
+            {
+              "source_turn": 64,
+              "quote": "They are key skill people who go out and find vacancies for the people that need placements."
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Pakes",
+          "text": "But how local is local? Could creating a regional organisation draw money and decisions away from councils and neighbourhood services?",
+          "evidence": [
+            {
+              "source_turn": 68,
+              "quote": "How local is local? My worry is that you set up a strategic bureaucracy to deliver this, which takes money directly away."
+            },
+            {
+              "source_turn": 68,
+              "quote": "How do you think the division between that devolution at a strategic level to local authorities should work"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Paxton",
+          "text": "An area can agree shared priorities while delivering help much closer to people, sometimes through trusted neighbourhood centres. We'll need to learn from Connect to Work how different arrangements between strategic authorities and councils have actually worked.",
+          "evidence": [
+            {
+              "source_turn": 70,
+              "quote": "Hopefully through the Connect to Work programme evaluation, we will get more of a sense of how that has and has not worked in different areas"
+            },
+            {
+              "source_turn": 70,
+              "quote": "having a shared vision for what your local system would look like within a wider strategic area but then giving flexibility locally."
+            },
+            {
+              "source_turn": 70,
+              "quote": "employment support is being delivered not at a local authority level but at a much more neighbourhood level."
+            },
+            {
+              "source_turn": 70,
+              "quote": "using trusted community centres and trusted individuals within that area."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Finn",
+          "text": "We shouldn't assume every regional authority can easily bring its councils together. Some areas have longstanding political cooperation; others have rivalries. And organisations are being reorganised while their staff are expected to improve services, which makes the change harder.",
+          "evidence": [
+            {
+              "source_turn": 67,
+              "quote": "the amount of institutional churn that is taking place throughout a lot of the structures on which these expectations are being built"
+            },
+            {
+              "source_turn": 67,
+              "quote": "There is a whole bunch of people out there who are not sure which job they will have in six months’ time"
+            },
+            {
+              "source_turn": 69,
+              "quote": "the most progress has been made where there are mainly urban areas, political consensus and a long experience of authorities working together."
+            },
+            {
+              "source_turn": 67,
+              "quote": "areas that may not be used to working together, or where there is interlocal rivalries and competition between each other."
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Pakes",
+          "text": "What about people with specialised needs who form a small group in any one area? Might national support still be better for them?",
+          "evidence": [
+            {
+              "source_turn": 71,
+              "quote": "Do you have any thoughts on keeping national provision where there are very specific needs that may be very specialised, or where there may be economies of scale by having a national programme?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Paxton",
+          "text": "It depends on the group. A strategic authority covers more people than a single council and could probably organise most specialist services, but I wouldn't rule out exceptions. We need to consider each kind of support on its own merits.",
+          "evidence": [
+            {
+              "source_turn": 72,
+              "quote": "the level at which that provision is best done will vary depending on the size of the group."
+            },
+            {
+              "source_turn": 72,
+              "quote": "it probably must be more of a case-by-case approach for different groups, but I think in general strategic authorities are probably at the level at which you could organise most specialist services for most groups."
+            },
+            {
+              "source_turn": 72,
+              "quote": "there will be lots of specific examples of groups that will not be served by that model"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Finn",
+          "text": "Devolution doesn't stop national government stepping in if a group is poorly served, or funding a specialist programme itself. Evaluation should reveal who isn't getting effective help and why.",
+          "evidence": [
+            {
+              "source_turn": 73,
+              "quote": "when you devolve, you do not forgo the right for the centre to intervene if you are delivering for particular kinds of groups."
+            },
+            {
+              "source_turn": 73,
+              "quote": "Why did it not work for them? What has the level of service been directed towards them? Does it need to be more specialised and so on?"
+            },
+            {
+              "source_turn": 73,
+              "quote": "central Government retains the right to intervene directly or to have a separate programme."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "How to tell if support works",
+      "takeaway": "The witnesses wanted public results, accounts from people using services and quicker evaluation—not just counts of how many people entered a programme.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "As more areas design their own support, how should we judge whether it's successful?",
+          "evidence": [
+            {
+              "source_turn": 83,
+              "quote": "What are your group of success metrics at a national level and what metrics could be used at a local level?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Finn",
+          "text": "Look at both results and people's experience: did they get a job, keep it and earn more, and what help did they actually receive? Restart surveys participants, but those findings aren't public. We also lack similarly systematic public information about people's experiences in jobcentres.",
+          "evidence": [
+            {
+              "source_turn": 84,
+              "quote": "I think it must be a combination of outcomes and experience."
+            },
+            {
+              "source_turn": 84,
+              "quote": "in the Restart programme, there are participant surveys going on there of people’s experiences."
+            },
+            {
+              "source_turn": 84,
+              "quote": "in the Restart thing, they are not public."
+            },
+            {
+              "source_turn": 84,
+              "quote": "We do not have insight into the experience of the people using jobcentres in that systematic way."
+            },
+            {
+              "source_turn": 84,
+              "quote": "employment, sustained employment, earnings gains"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Finn",
+          "text": "We need information quickly enough to fix problems during a programme, not only a study years later. And local jobcentre results should be public so people can compare areas that face similar conditions. Taking money away from a struggling area may make it less able to improve.",
+          "evidence": [
+            {
+              "source_turn": 86,
+              "quote": "What we need now is whether it is working, or why it is not working and how we can we fix it."
+            },
+            {
+              "source_turn": 57,
+              "quote": "local jobcentre performance is publicly available"
+            },
+            {
+              "source_turn": 57,
+              "quote": "You are not comparing rural and urban but urban and urban"
+            },
+            {
+              "source_turn": 57,
+              "quote": "if you have a poorly performing area and you take money away from it, it is hardly likely to be able to improve performance."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Paxton",
+          "text": "Areas should be able to try a different approach if they explain why it might work locally and test the results. If things go badly wrong, national government must still be able to work with an area or step in. Local committees also need information and resources to question their leaders.",
+          "evidence": [
+            {
+              "source_turn": 56,
+              "quote": "it is reasonable for areas to say, “We are going to take a slightly different approach to what the best evidence shows us so far”. It is very important that there is a good justification for that"
+            },
+            {
+              "source_turn": 56,
+              "quote": "strong evaluation to make sure that people are monitoring how outcomes are going"
+            },
+            {
+              "source_turn": 56,
+              "quote": "for central Government to step in or at least work alongside areas to try to turn outcomes around."
+            },
+            {
+              "source_turn": 58,
+              "quote": "local scrutiny committees are part of a really strong local accountability system. They will need data, and resources to scrutinise that data and hold their area to account"
+            }
+          ]
+        },
+        {
+          "speaker": "Neil Duncan-Jordan",
+          "text": "Can other countries show us how to measure real results rather than just the number of people going through a service?",
+          "evidence": [
+            {
+              "source_turn": 95,
+              "quote": "Are there lessons that the UK could learn from other countries about how we measure the outcomes of success, rather than the inputs that you mentioned earlier, to ensure proper accountability and delivery?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Finn",
+          "text": "In the United States, earnings records help show not just who starts work but how their pay changes afterwards. Linking tax and benefit information here could improve comparisons between programmes. But records alone miss people who don't claim benefits; surveys can help show what happens to them.",
+          "evidence": [
+            {
+              "source_turn": 96,
+              "quote": "it enables you to capture not just the people who are getting jobs, but what the earnings gain is over a period"
+            },
+            {
+              "source_turn": 96,
+              "quote": "The integration of tax and benefit records, for example, is a classic one."
+            },
+            {
+              "source_turn": 96,
+              "quote": "there is a whole population out there who do not claim benefits who are economically inactive"
+            },
+            {
+              "source_turn": 104,
+              "quote": "The best way is surveys."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Finn",
+          "text": "Some local claims about successful programmes rely heavily on what providers report, without enough independent checking. A What Works Centre could help, but its guidance needs to arrive while areas can still use it.",
+          "evidence": [
+            {
+              "source_turn": 108,
+              "quote": "We are relying a lot on what providers are saying. There is no audit test or trail in it, but the results look great. That is not evaluation"
+            },
+            {
+              "source_turn": 108,
+              "quote": "hopefully the What Works Centre can do it."
+            },
+            {
+              "source_turn": 108,
+              "quote": "My message is that the What Works Centre needs to produce stuff that is real time."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Paxton",
+          "text": "There's another limit to the evidence: past health-related programmes often tested support among a small group who chose to join. Their results may not tell us what will happen if local areas reach many more people, including those less willing to engage. Local delivery might help, but we don't know; it needs testing.",
+          "evidence": [
+            {
+              "source_turn": 109,
+              "quote": "employment support programmes today have only engaged a very small minority of the total group of people who are out of work due to ill health."
+            },
+            {
+              "source_turn": 109,
+              "quote": "our evidence base does not necessarily carry across to a programme that is trying to engage a much broader swathe of people"
+            },
+            {
+              "source_turn": 109,
+              "quote": "it is possible, if the system is delivered at a more local level, that people might be more willing to engage. We do not know that, but that should be a focus of evaluation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The promise and the pressure",
+      "takeaway": "Both witnesses saw promise in local support, but warned against expecting reorganising authorities to produce fast results without the capacity to deliver.",
       "turns": [
         {
           "speaker": "Steve Darling",
-          "text": "Is the country ready for this major change, or could expectations run ahead of what local organisations can deliver?"
+          "text": "Looking ahead, what gives you hope about this change, and what worries you?",
+          "evidence": [
+            {
+              "source_turn": 74,
+              "quote": "What are your hopes and fears over the next few years around how central Government could or should approach this way forward?"
+            }
+          ]
         },
         {
-          "speaker": "Professor Dan Finn",
-          "text": "I'm encouraged by the growing links between employment and health services, such as putting employment advisers in health settings. But the ambition may be greater than the capacity available. If people expect too much too quickly, they may decide the whole approach has failed."
+          "speaker": "Professor Finn",
+          "text": "I think the direction is right. I've seen employment advisers working more closely with health services, including talking-therapy services and GPs, in ways I hadn't seen before. My fear is that the ambitions exceed what these organisations can deliver soon. If expectations are too high, people may call the change a failure after only a couple of years.",
+          "evidence": [
+            {
+              "source_turn": 75,
+              "quote": "Personally I think it is moving in the right direction in general."
+            },
+            {
+              "source_turn": 75,
+              "quote": "everything from putting employment advisers into health settings, talking therapies through to GPs. This is new."
+            },
+            {
+              "source_turn": 75,
+              "quote": "the ambition far outstrips the capacity of these structures to deliver. If you create false expectations, it will be very easy in two years’ time for people to turn around and say, “This has not worked”."
+            }
+          ]
         },
         {
-          "speaker": "Steve Darling",
-          "text": "Will local leaders have real freedom, or will central rules still control what they do?"
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "Some current agreements still emphasise activity counts, such as how many people start a programme, rather than whether they find lasting work. That could change, but we need to see how the new arrangements work."
-        },
-        {
-          "speaker": "Ben Paxton",
-          "text": "A local accounting officer should be answerable for local spending and results, but we need clarity on how that responsibility connects to Parliament and local scrutiny. Public information and local media attention also matter."
-        },
-        {
-          "speaker": "Ben Paxton",
-          "text": "My hope is that devolution makes a confusing patchwork of services more coherent. My concern is that different areas might try different approaches without properly evaluating them or sharing what they learn."
-        },
-        {
-          "speaker": "Steve Darling",
-          "text": "Could the Local Government Association help local areas share good practice?"
-        },
-        {
-          "speaker": "Ben Paxton",
-          "text": "It could be part of the answer, alongside the DWP and evidence organisations. We don't necessarily need a new organisation, but we do need a reliable way to share learning beyond informal personal contacts."
-        },
-        {
-          "speaker": "Chair",
-          "text": "What should national and local performance measures look at?"
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "They should measure results such as getting a job, staying in work and increasing earnings, but also people's experience of the support. Surveys can reveal whether people got the help they were promised, and sometimes uncover jobs that official records missed."
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "We publish some information about Restart providers, but we don't have the same clear public picture of people's experiences in jobcentres. Evaluations often arrive too late to fix problems while a programme is still running."
-        },
-        {
-          "speaker": "Chair",
-          "text": "So should people using services help shape them too?"
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "Yes. Australia has used people's feedback as part of its system for assessing providers. We should also evaluate early, so we can see what is going wrong and make changes, while still checking longer-term results later."
-        },
-        {
-          "speaker": "Neil Duncan-Jordan",
-          "text": "Can other countries show us how to measure success more reliably?"
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "In the United States, earnings records can show whether people's pay improves after they enter work. Linking tax and employment information could help us measure not just job starts but whether people's earnings rise."
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "But not everyone without work claims benefits, so benefit records can't tell us what happens to them. Representative surveys can help, without asking every provider to chase each person's proof of employment."
-        },
-        {
-          "speaker": "Neil Duncan-Jordan",
-          "text": "Does evidence by itself decide which employment policies a country chooses?"
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "No. Evidence informs political choices but doesn't settle them. In the United States, for example, there has been more attention to training for career paths, not only getting someone into any available job."
-        },
-        {
-          "speaker": "Neil Duncan-Jordan",
-          "text": "Are local areas collecting enough reliable evidence now?"
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "Often not. Some claims that a programme works rely heavily on what providers report, without enough independent checking. A What Works Centre could help, but its findings need to arrive quickly enough to guide decisions."
-        },
-        {
-          "speaker": "Ben Paxton",
-          "text": "We also need to study who takes part. People who choose to join employment programmes may not represent everyone who is out of work because of ill health. Local support might reach people who are reluctant to approach a national department, but we need to test that rather than assume it."
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "Health services could also ask about people's work and record how they help people stay in jobs. A lot of that support isn't currently captured in employment data."
-        },
-        {
-          "speaker": "Neil Duncan-Jordan",
-          "text": "What does Denmark's experience suggest about reducing rules and relying on results?"
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "Denmark devolved employment services to local government, then reduced detailed rules and cut the budget, expecting payment based on results to be enough. But some people stopped being seen. It's a warning that cutting procedures can also mean losing contact with people who need help."
-        },
-        {
-          "speaker": "Professor Dan Finn",
-          "text": "Accountability shouldn't rely only on financial penalties. Taking money from a struggling area may make it harder to improve. Public comparisons between similar places, backed by reliable data, and the ability for central government to step in may work better."
-        },
-        {
-          "speaker": "Ben Paxton",
-          "text": "Local scrutiny committees and elected leaders need the information and resources to challenge how services are doing. Parliament should also be able to assess results across areas."
+          "speaker": "Dr Paxton",
+          "text": "My hope is a less confusing system that connects employment, health and other local help. My fear is that areas try different ideas but nobody properly tests which ones work. Evaluation needs to be planned from the start, with useful lessons shared between areas.",
+          "evidence": [
+            {
+              "source_turn": 80,
+              "quote": "My biggest hope is that it brings some coherence to a system that, at the moment, is just very messy and a complete patchwork."
+            },
+            {
+              "source_turn": 80,
+              "quote": "A particular hope I have around the collaboration between health and employment and other services"
+            },
+            {
+              "source_turn": 80,
+              "quote": "One of my fears is that areas take lots of different approaches, but we do not set up the evaluation architecture to understand what works."
+            },
+            {
+              "source_turn": 80,
+              "quote": "ensuring that evaluation is built into the start as new programmes are set up locally; in co-ordinating evaluation across different areas; and, really importantly for helping ensure minimum standards without having minimum standards, in sharing best practice across areas."
+            }
+          ]
         }
       ]
     }

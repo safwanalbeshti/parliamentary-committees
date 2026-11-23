@@ -2,9 +2,9 @@
   "schema_version": 1,
   "source_id": 18327,
   "source_sha256": "237c4ea381a96643905e302a5cea8de5213da82fbce08c39603e947ff3b32d72",
-  "title": "Who should care for our public spaces?",
-  "label": "17 November 2026 · Public spaces",
-  "summary": "The committee explored how well-maintained public spaces affect people’s sense of safety, belonging and hope, and how residents can help shape and care for them. The witnesses argued that communities need a genuine say from the start, trusted local organisations need long-term support, and councils must continue essential services rather than leaving volunteers to fill gaps. Members also questioned how to make community-led funding realistic, lasting and accountable. The discussion highlighted a need for flexible funding, better evaluation and closer working between councils and local groups.",
+  "title": "Who looks after the places we share?",
+  "label": "17 November 2026 · Community care of public spaces",
+  "summary": "The committee heard how neglected streets and green spaces can make residents feel overlooked, while improvements work best when people help shape them. Witnesses argued that councils must keep providing basic services, but should work earlier and more closely with trusted local organisations. They discussed how to fund and measure lasting change, and disagreed over the risks of raising expectations that public money cannot meet.",
   "speakers": [
     {
       "label": "Chair",
@@ -49,14 +49,14 @@
       "kind": "member"
     },
     {
-      "label": "Lord Bassam of Brighton",
-      "name": "Lord Bassam of Brighton",
+      "label": "Baroness Lawrence of Clarendon",
+      "name": "Baroness Lawrence of Clarendon",
       "role": "Committee member",
       "kind": "member"
     },
     {
-      "label": "Baroness Lawrence of Clarendon",
-      "name": "Baroness Lawrence of Clarendon",
+      "label": "Lord Porter of Spalding",
+      "name": "Lord Porter of Spalding",
       "role": "Committee member",
       "kind": "member"
     },
@@ -73,348 +73,732 @@
       "kind": "member"
     },
     {
-      "label": "Lord Porter of Spalding",
-      "name": "Lord Porter of Spalding",
+      "label": "Lord Cameron of Dillington",
+      "name": "Lord Cameron of Dillington",
       "role": "Committee member",
       "kind": "member"
     },
     {
-      "label": "Lord Cameron of Dillington",
-      "name": "Lord Cameron of Dillington",
+      "label": "Lord Bassam of Brighton",
+      "name": "Lord Bassam of Brighton",
       "role": "Committee member",
       "kind": "member"
     }
   ],
   "glossary": [
     {
-      "term": "agency",
-      "definition": "People’s ability to influence decisions and take action in their community."
-    },
-    {
       "term": "Pride in Place",
-      "definition": "A government programme providing long-term funding to selected neighbourhoods."
+      "definition": "A government programme providing longer-term funding to selected areas to improve their neighbourhoods."
     },
     {
       "term": "capital funding",
-      "definition": "Money for buildings, equipment or other lasting assets."
+      "definition": "Money for buying, building or making lasting physical improvements."
     },
     {
       "term": "revenue funding",
       "definition": "Money for ongoing costs such as staff, activities and maintenance."
     },
     {
-      "term": "service-level agreement",
-      "definition": "An agreement that sets out what service an organisation will provide and how it will be paid."
+      "term": "Community Life Survey",
+      "definition": "A national survey that asks people about their communities, including whether they feel able to influence local decisions."
     },
     {
-      "term": "co-design",
-      "definition": "Planning a project together with the people who will use or be affected by it."
+      "term": "service-level agreement",
+      "definition": "An agreement setting out a service an organisation will provide, such as maintaining a public space."
+    },
+    {
+      "term": "community organiser",
+      "definition": "Someone whose job is to listen to local people and help them work together on issues they care about."
     }
   ],
   "chapters": [
     {
-      "title": "Why cared-for places matter",
-      "takeaway": "A well-kept public space can help people feel valued, but lasting pride grows when residents have a say in what happens there.",
+      "title": "What a cared-for place says",
+      "takeaway": "Maintenance affects how people feel about their neighbourhood, but residents also need a say in what changes.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "What difference does a well-maintained public space make to the people who live nearby?"
+          "text": "Why does looking after public spaces matter to a local area?",
+          "evidence": [
+            {
+              "source_turn": 1,
+              "quote": "From your own experiences, what does a well-managed public space mean to a local area?"
+            }
+          ]
         },
         {
           "speaker": "Mark Webb",
-          "text": "When people in Great Grimsby walk past boarded-up shops or neglected green spaces, it reinforces the feeling that nobody cares about their town—or their future. That can affect how young people feel about school and their prospects."
-        },
-        {
-          "speaker": "Mark Webb",
-          "text": "But improving a place can change how people behave towards it. We put planters on the high street. One day, someone dropped a cigarette butt into one, and people sitting at a nearby pub stood up and said, “That’s our planter.” They’d begun to look after something they felt belonged to them."
+          "text": "In Great Grimsby, people hear plenty about what's wrong with their town. When they see boarded-up shops or neglected green space, it can reinforce the feeling that no one cares about their future. Small improvements can work the other way: after we put planters on the high street, people outside a pub challenged someone for putting a cigarette butt in one. They called it “our planter”.",
+          "evidence": [
+            {
+              "source_turn": 2,
+              "quote": "If they walk out into the high street and see a broken window—or if they see a public space or a green space that is uncatered for—how are they ever really going to believe in their own future, let alone the future of their town?"
+            },
+            {
+              "source_turn": 2,
+              "quote": "The day drinkers all stood up and said, “Hey, you can get that out of there. That’s our planter”. They were defending what had been put in place at their pub."
+            }
+          ]
         },
         {
           "speaker": "Rosie Apperley",
-          "text": "People need to feel that their area is cared for if we want them to take an active part in their community. In Nag’s Head, a fire-damaged building was left for months and a busy pedestrian crossing stayed closed. Residents felt the council didn’t care whether they could cross safely."
-        },
-        {
-          "speaker": "Rosie Apperley",
-          "text": "People also felt that if the same thing happened in a more affluent part of Islington, it would be dealt with faster. Whether that’s objectively true or not, that’s how residents experienced it."
+          "text": "People in a poorer part of Islington told our community centre they felt forgotten after a fire left a heavily used pedestrian crossing closed for months. They believed it would have reopened faster in a wealthier area nearby. I can't say whether that's true, but that was their experience.",
+          "evidence": [
+            {
+              "source_turn": 4,
+              "quote": "The building was left for months, and because of where the building was, a street pedestrian crossing had to be closed for months."
+            },
+            {
+              "source_turn": 4,
+              "quote": "This was a crossing between a bus stop and a bank, and it was very heavily used."
+            },
+            {
+              "source_turn": 4,
+              "quote": "Whether that is true or not, that is their experience. They feel that if there were a fire in another part of the borough that is very affluent, it would be cleared up, and the pedestrian crossing would be back in use very quickly."
+            }
+          ]
         },
         {
           "speaker": "Dr Joseph Owen",
-          "text": "Fixing benches, bins and other things matters, but we should also think about how people use a place and whether they feel safe and connected there. Tidying a space by itself won’t necessarily make people proud of it."
-        },
-        {
-          "speaker": "Dr Joseph Owen",
-          "text": "I once asked Portsmouth City Council to put benches at the top of a local park, where people could enjoy the view. When I returned and saw them, I felt I’d helped make something happen. People were using them, and I felt a stronger connection to the park."
-        },
-        {
-          "speaker": "Dr Joseph Owen",
-          "text": "Someone later complained online that a bench had been marked with graffiti. I saw that as evidence that young people were using it. Public spaces are used in different ways, and their meaning isn’t always simple."
+          "text": "Fixing a bench or tidying a park matters, but it doesn't automatically make people proud of the place. People also need to understand why changes happen and feel they can influence them. I suggested benches in a Portsmouth park; when the council installed them, seeing other people use them gave me a powerful sense that I'd contributed.",
+          "evidence": [
+            {
+              "source_turn": 6,
+              "quote": "If you fix something and tidy it up, it does not necessarily create pride. What creates pride is people having agency over that to understand why it is happening and who has done it, and whether they have a role in doing it is important."
+            },
+            {
+              "source_turn": 6,
+              "quote": "I said, “There’s a lovely view of Portsmouth from this park, but you can’t actually see it because there’s nowhere to sit right at the top of the hill, where the park undulates. Would it be possible to install some benches there? I think they would be used and have value”."
+            },
+            {
+              "source_turn": 6,
+              "quote": "I walked up to the park and there they were: the benches were installed. The feeling that I had when I saw that was quite incredible—a sense of “Wow. I did that” or “I contributed to that”."
+            }
+          ]
         },
         {
           "speaker": "Lord Bailey of Paddington",
-          "text": "Some people worry that volunteers or more affluent residents take over spaces that were built for working-class communities. Others say local people damage spaces themselves. How do we know residents want to look after them?"
+          "text": "But do people actually want to look after these spaces? Sometimes residents themselves damage them. And how do we spread that sense of being able to make a difference without letting a small group take over?",
+          "evidence": [
+            {
+              "source_turn": 11,
+              "quote": "Do people want to take care of their areas?"
+            },
+            {
+              "source_turn": 11,
+              "quote": "in many examples—I have been a youth worker for over 35 years—it is the community that does not look after or abuses its surroundings. What evidence is there that people actually want to look after their situation?"
+            },
+            {
+              "source_turn": 11,
+              "quote": "In addition, who is responsible for spreading the notion of agency and how do we do it?"
+            }
+          ]
         },
         {
           "speaker": "Rosie Apperley",
-          "text": "We’re working with residents on housing estates who want green spaces they can use. They’re more likely to care for a place if they help design and create it, and learn how to look after it."
-        },
-        {
-          "speaker": "Rosie Apperley",
-          "text": "But residents shouldn’t be left to do everything. Council services still need to collect bins and deal with basic maintenance. People want to know that the council is doing its part too."
+          "text": "On Islington housing estates, we've worked with residents who want green space they can use. They help design and create it, learn how to care for it, and then take it on. That's different from building something and telling them to maintain it. The council still has to do the basics, such as collecting bins, so residents don't feel everything has been left to them.",
+          "evidence": [
+            {
+              "source_turn": 12,
+              "quote": "Recently, we have been doing a lot of work with residents who want to create a new green space on their estate that they feel they can actively use. We have been working to create it with them, helping them to have the skills to look after it, through workshops, and then handing it over to them."
+            },
+            {
+              "source_turn": 12,
+              "quote": "Where there is difficulty is, first, where a space is created and people are told, “Right. You go and look after that”, and, secondly, where people do not feel that the council are doing the very basics."
+            },
+            {
+              "source_turn": 12,
+              "quote": "I want to know that my bins will be collected and that they’re not going to make a massive mess"
+            }
+          ]
         },
         {
           "speaker": "Mark Webb",
-          "text": "You can’t do things for a community without involving it from the beginning. We renovated an old social club on a deprived estate, but it was repeatedly vandalised while it sat empty."
+          "text": "You have to involve residents from the start. We renovated a social club on an estate, but it kept being vandalised. A woman from the estate took on the lease, spoke to the people responsible, and the damage stopped. Security or council money alone wouldn't have created that local commitment.",
+          "evidence": [
+            {
+              "source_turn": 13,
+              "quote": "As we were trying to offer it out, it was getting damaged—it was being vandalised, windows were broken practically every week, there was spray paint, et cetera."
+            },
+            {
+              "source_turn": 13,
+              "quote": "When she signed the lease and took it on, she said, “I’ll sort out this mess”. She knew who was responsible and she went round to the people on the estate and said, “That is my place now. You leave it alone. I know where your mum and dad are. I’ll be telling them if you do that again”, and it stopped overnight, instantaneously."
+            },
+            {
+              "source_turn": 13,
+              "quote": "you have to involve the community in the idea of what you are trying to create, right from the beginning—not when you have the money."
+            }
+          ]
+        },
+        {
+          "speaker": "Baroness Andrews",
+          "text": "Is there evidence that public spaces have actually got worse, rather than people simply feeling that they have?",
+          "evidence": [
+            {
+              "source_turn": 14,
+              "quote": "We have not had any hard evidence, really, that things have got worse over the past decade. Are things worse, basically?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Joseph Owen",
+          "text": "Expectations change. A Southampton neighbourhood designed with generous green space now has so many cars that people park on that space. The original design may have been good, but the way residents need to use the area has changed.",
+          "evidence": [
+            {
+              "source_turn": 17,
+              "quote": "Perhaps things are not getting worse on some metrics, but what people expect from their place shifts."
+            },
+            {
+              "source_turn": 17,
+              "quote": "what has happened in the 100 years since is that we have mass car ownership, and places such as Mansbridge, for instance, are completely overwhelmed by the number of cars in the area, which then park on the green spaces because there is nowhere else to go."
+            }
+          ]
         },
         {
           "speaker": "Mark Webb",
-          "text": "A woman from the estate took it on as a business. She knew the people responsible for the damage and told them to leave it alone. The vandalism stopped almost overnight, and residents began planting around the building."
-        },
-        {
-          "speaker": "Mark Webb",
-          "text": "That doesn’t mean one group should be set against another. Residents, volunteers, councils and businesses should all help decide what the area needs."
+          "text": "I don't think things have generally got worse. Social media can make the bad news louder, while quieter residents who like living in Grimsby aren't heard as much. Town centres have also changed: they used to depend heavily on shops, and we've been slow to adapt.",
+          "evidence": [
+            {
+              "source_turn": 18,
+              "quote": "I genuinely do not think they have got worse. It is our perception, because of things such as social media, where everyone piles in about how bad everything is."
+            },
+            {
+              "source_turn": 18,
+              "quote": "We just have to speed up, which means giving agency to everyone in the community and giving them a voice that is not on Facebook or any other platforms that are available."
+            },
+            {
+              "source_turn": 18,
+              "quote": "That is echoed on the high street, where we had a massive dependence on retail but no longer have."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Funding that starts with local needs",
-      "takeaway": "Funding works better when residents help set priorities before a project is designed, and when they have time and support to show what changed.",
+      "title": "Let residents shape the spending",
+      "takeaway": "The witnesses wanted funding decisions to begin with residents' needs, not a predetermined project, while acknowledging the danger of promises that cannot be kept.",
       "turns": [
         {
           "speaker": "Baroness Lawrence of Clarendon",
-          "text": "How could government funding for local spaces be improved?"
+          "text": "Government money has helped communities create and maintain public spaces. Has it worked, and how should future funding change?",
+          "evidence": [
+            {
+              "source_turn": 29,
+              "quote": "over the years, the Government have awarded funding for communities to create and maintain public spaces. To what extent have these programmes been successful, and how could current or future funding streams be improved?"
+            }
+          ]
         },
         {
           "speaker": "Dr Joseph Owen",
-          "text": "Some earlier programmes didn’t create lasting change. Our research on one towns programme found that many people making decisions were white and over 50, so they didn’t necessarily represent the places the money was meant to help."
+          "text": "The earlier schemes haven't produced lasting positive change in the way we'd hoped. When we looked at the boards deciding how one town-funding scheme was spent, most decision-makers were white and over 50. Another scheme focused heavily on buildings rather than the people and organisations needed to make them useful. Pride in Place has shifted somewhat, but much of its funding is still reserved for physical improvements.",
+          "evidence": [
+            {
+              "source_turn": 30,
+              "quote": "Have they worked so far? They have not in a way that has created positive, sustained change."
+            },
+            {
+              "source_turn": 30,
+              "quote": "We followed the towns fund originally and we did a survey of all 100 boards, which were fairly unrepresentative of the places that they were supposed to represent. The majority of decision-makers were white and over 50"
+            },
+            {
+              "source_turn": 30,
+              "quote": "For the levelling up fund, there was obviously a big focus on glass and steel and not on the organisations and individuals who might be able to sustain those spaces and make them meaningful to the community."
+            },
+            {
+              "source_turn": 30,
+              "quote": "Coming to Pride in Place, there is a bit of a shift there, but still 67%, I think, or 63% of it is capital funding rather than revenue"
+            }
+          ]
         },
         {
           "speaker": "Dr Joseph Owen",
-          "text": "Another funding programme focused heavily on building work, rather than the local organisations and people needed to keep spaces active. Pride in Place offers longer-term funding, but most of it still appears to be for buildings and other physical improvements."
-        },
-        {
-          "speaker": "Dr Joseph Owen",
-          "text": "Give communities more choice over how much they spend on buildings and how much on staff and activities. Help them plan projects together with residents, and measure whether people feel more able to influence what happens in their area."
+          "text": "I'd let communities decide more of the balance between capital funding for physical improvements and revenue funding for people and activities. They also need support to design projects with residents from the start, and a way to check over Pride in Place's 10 years whether people feel more able to influence their area.",
+          "evidence": [
+            {
+              "source_turn": 32,
+              "quote": "Give communities the flexibility to decide between the capital and revenue balance in terms of what they spend their money on. Give them proper support to co-design—that is the key thing that we always base our work on, having that really inbuilt co-design capacity from the start."
+            },
+            {
+              "source_turn": 32,
+              "quote": "It is a 10-year programme, so there is an opportunity here to establish some baselines in year one and to be able to demonstrate that people have more agency over their community."
+            }
+          ]
         },
         {
           "speaker": "Rosie Apperley",
-          "text": "Bring local organisations in from the start. Community centres already have trusted relationships with residents; an outside group can’t just ask them to bring people into a meeting after all the decisions have been made."
+          "text": "Islington isn't a Pride in Place area, so I can't judge that programme directly. But if you want residents involved, work through organisations they already trust, and involve those organisations before the plans are drawn up. They can't risk their relationships with residents just to fill a room for a project they had no part in shaping.",
+          "evidence": [
+            {
+              "source_turn": 34,
+              "quote": "I cannot speak directly in terms of our experience with things like Pride in Place—Islington is not a Pride in Place area."
+            },
+            {
+              "source_turn": 34,
+              "quote": "you have to involve people right at the beginning, not when things have already been designed in any way, and go through those trusted relationships with community organisations."
+            },
+            {
+              "source_turn": 36,
+              "quote": "Unless they are involved from the beginning and they have that investment and ownership over the process, they will not risk the trust relationships they have with their communities because someone else wants them to."
+            }
+          ]
         },
         {
           "speaker": "Mark Webb",
-          "text": "Often, the process starts with an available pot of money and a set of measures, and then organisations write bids around those rules. Instead, first ask residents what their area needs and be honest about what can and can’t be done. Then decide what money is available and how to measure the results."
+          "text": "Too often, a fund is announced with set measures of success, and councils bid to fit them. I'd first ask residents what they need and be honest about what is possible. Only then should you decide what can be funded and how to judge whether it worked. If you lead with a pot of money, people start discussing how to spend it before asking what the area needs.",
+          "evidence": [
+            {
+              "source_turn": 37,
+              "quote": "somebody comes up with some funding idea, the council or somebody is invited to bid for that funding and are told, “These are the metrics we’re going to measure you by” and everyone writes a bid, then someone gets the money and it goes in place and then runs out."
+            },
+            {
+              "source_turn": 37,
+              "quote": "before you even mention money and before you even start to think about it, step back and engage the community on what is actually needed. Have honest conversations about what is possible and what is not—do not kid people that they can have everything."
+            },
+            {
+              "source_turn": 37,
+              "quote": "As soon as you bring in money, everyone starts asking how they are going to spend the money, rather than asking what they need."
+            }
+          ]
         },
         {
           "speaker": "Baroness Lawrence of Clarendon",
-          "text": "Projects can lose their funding before they’ve had time to take root. How long should support last?"
+          "text": "But short grants can run out before the work is finished. How do we persuade funders that change needs continuing support?",
+          "evidence": [
+            {
+              "source_turn": 38,
+              "quote": "Before you actually complete the work in the community, the funds run out and you are right back at the beginning again."
+            },
+            {
+              "source_turn": 38,
+              "quote": "it is not a quick fix—it is something that it needs to keep investing in over a period of time, over two or three years?"
+            }
+          ]
         },
         {
           "speaker": "Mark Webb",
-          "text": "For major, lasting changes, ten years should be the minimum. That takes the work beyond an election cycle. Local groups and public servants need to be involved from the start so the work can continue as elected leaders change."
+          "text": "For big, lasting changes, I'd start with at least 10 years. Bring in residents and community groups who'll still be there when elected politicians change. In Grimsby, conversations about local needs were already under way before Pride in Place money arrived; residents now help decide which proposals receive support, subject to checks that they're legitimate and feasible.",
+          "evidence": [
+            {
+              "source_turn": 39,
+              "quote": "Ten years is really your bottom line—your minimum for some of the big, impactful, sustainable changes that you need to make, and which goes beyond electoral cycles."
+            },
+            {
+              "source_turn": 49,
+              "quote": "That was before Pride in Place funding was talked about—so we were already having this groundswell and starting to build up pride in what the area could be."
+            },
+            {
+              "source_turn": 49,
+              "quote": "They will look at what has been put forward by other members of the community, who may be people living down street, and they will decide—as a group—what the community needs and what should be put forward."
+            },
+            {
+              "source_turn": 49,
+              "quote": "Obviously, it has to go through checks and balances to make sure that it is legitimate and feasible—all those things are done—but it starts with people in the community making those decisions."
+            }
+          ]
         },
         {
-          "speaker": "Baroness Andrews",
-          "text": "There was a ten-year community programme in the early 2000s. What can we learn from it, and how can we tell whether Pride in Place has worked?"
+          "speaker": "Lord Porter of Spalding",
+          "text": "Isn't there a danger in asking people what they want if some of it can't be funded? You could raise hopes, then leave local politicians blamed when the promised changes don't happen. How do residents own the final decision as well as the wish list?",
+          "evidence": [
+            {
+              "source_turn": 52,
+              "quote": "Where you have allowed people to ask for whatever they want, regardless of whether it can be funded, I suggest that you have probably built up hope in people that has then not materialised, and they have then outed their local politicians as a consequence of that."
+            },
+            {
+              "source_turn": 54,
+              "quote": "Building up unmet expectation in the community is a dangerous space for a politician to be in. How do you get the community to own for themselves the final decision, rather than shunting it back to the politicians for not delivering the final vision?"
+            }
+          ]
         },
         {
-          "speaker": "Dr Joseph Owen",
-          "text": "We need to begin measuring early. I don’t know whether Pride in Place has money set aside for evaluation, but without a starting point it’ll be hard to say what has changed over ten years."
-        },
-        {
-          "speaker": "Dr Joseph Owen",
-          "text": "The local boards were set up quickly, and places made different choices about how much residents helped shape the board itself. That could affect who gets a say later, when the spending plan is decided."
-        },
+          "speaker": "Mark Webb",
+          "text": "That's a fair challenge. Nobody should promise what they can't deliver. My answer is to talk openly with residents about the limits before making promises. I don't agree that changes in which party runs the council have stopped the community work we're doing.",
+          "evidence": [
+            {
+              "source_turn": 53,
+              "quote": "That is a fair challenge."
+            },
+            {
+              "source_turn": 55,
+              "quote": "if you stand up in front of a group of community members and promise them something that you cannot deliver but say that you can, you are never going to gain their trust."
+            },
+            {
+              "source_turn": 55,
+              "quote": "you can talk to them about what is and is not possible and what constraints you have."
+            },
+            {
+              "source_turn": 57,
+              "quote": "the changes in colour of local government have not impacted the development and the growth that we have been trying to work through, over the last five years."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Find out whether it works",
+      "takeaway": "The witnesses said programmes should ask residents what matters to them and make time and money available to measure change.",
+      "turns": [
         {
           "speaker": "Baroness Griffin of Princethorpe",
-          "text": "How can projects measure ideas like pride and agency over the long term?"
+          "text": "We often pay for the project but not for the work needed to find out whether it succeeded and share what was learned. How can we get that right over the long term?",
+          "evidence": [
+            {
+              "source_turn": 59,
+              "quote": "we tend to do the product bit or the project bit, but we do not fund the R&D or the monitoring, evaluation and dissemination. We just do not do it."
+            },
+            {
+              "source_turn": 59,
+              "quote": "What can we do about getting this right in the long term?"
+            }
+          ]
         },
         {
           "speaker": "Dr Joseph Owen",
-          "text": "Pride can mean different things in different places, so it’s difficult to measure with one standard number. Ask residents what matters to them, then compare their answers over time alongside other measures. It won’t be perfect, but it can show whether their experience is changing."
+          "text": "When councils were asked to show they'd restored local pride, they often had no starting measure to compare against. Pride is hard to measure. A better approach may be to ask residents what matters to them, then match their answers with measures we can track. The Community Life Survey offers a possible starting point, though the method won't be perfect.",
+          "evidence": [
+            {
+              "source_turn": 60,
+              "quote": "they were saying, “Well, we want to boost city pride” or “We want to restore pride”. Obviously, they had no metrics or baselines to work with."
+            },
+            {
+              "source_turn": 60,
+              "quote": "Our initial worry was that you are really going to struggle to measure pride, given how complex and place-specific it is."
+            },
+            {
+              "source_turn": 60,
+              "quote": "we have thought more about using that Community Life Survey that I mentioned earlier—it is obviously a national survey—and scaling that to a neighbourhood level or to a Pride in Place area, basically asking the community what matters to them and what is meaningful for them."
+            },
+            {
+              "source_turn": 60,
+              "quote": "It is never going to be perfect, but I feel that there is much more potential in a model whereby you ask people what is important for them and then have a bucket of metrics that you can map on to and demonstrate change with."
+            }
+          ]
         },
         {
           "speaker": "Rosie Apperley",
-          "text": "Small organisations often have no time or money for research. Funders may expect them to promise exact results before they’ve had a chance to listen to residents. We need researchers to help develop simple ways for community groups and councils to track progress."
+          "text": "Small organisations like ours move from grant to grant. We need time to listen to residents, and help from researchers to work out what to measure. Funders sometimes tell us to let communities shape a project but also demand a precise delivery plan before they've given us money to have those conversations.",
+          "evidence": [
+            {
+              "source_turn": 62,
+              "quote": "we exist from grant fund to grant fund and there often is not time for research."
+            },
+            {
+              "source_turn": 62,
+              "quote": "A lot of grant funders now want you to take a community organising approach, but also want you to know what you are going to deliver when you write an application, which is not possible."
+            },
+            {
+              "source_turn": 62,
+              "quote": "It would be massively helpful to tiny organisations such as ours to have the time to do that listening with communities, which is the most important thing, and then also to have the people with the research background who can create these models that we can all pick up, use and measure"
+            }
+          ]
         },
-        {
-          "speaker": "Mark Webb",
-          "text": "Don’t impose measures before a community has decided what it needs. Ask the group how it will show whether the project worked, and make that part of its plan."
-        }
-      ]
-    },
-    {
-      "title": "Volunteers need support, not extra burdens",
-      "takeaway": "Community groups can help care for local places, but they need councils to provide essential services, respect their work and make it easier to coordinate.",
-      "turns": [
-        {
-          "speaker": "Baroness Janke",
-          "text": "Volunteers can improve a park but may not be able to stop damage or organise how others use it. How should they work with councils and the police?"
-        },
-        {
-          "speaker": "Mark Webb",
-          "text": "Public agencies should help residents do good work, not make it harder. Volunteers don’t always need payment; they need to be listened to, valued and given practical support. If they need more authority, connect them with the agencies that have it."
-        },
-        {
-          "speaker": "Baroness Janke",
-          "text": "What if a council books an event on a garden that volunteers maintain, and the event damages the plants they’ve paid for and planted?"
-        },
-        {
-          "speaker": "Rosie Apperley",
-          "text": "There should be a clear way for groups to register land they care for, so councils check with them before arranging events. Council departments also need to communicate: the staff treating trees or plants need to know what residents have planted."
-        },
-        {
-          "speaker": "Rosie Apperley",
-          "text": "Local organisations can help explain decisions too. If the council explains why a tree can’t be planted in a particular spot, residents are more likely to understand than if they simply hear “no”."
-        },
-        {
-          "speaker": "Rosie Apperley",
-          "text": "We’re trying to bring Islington Council departments together with community groups so residents can discuss practical limits directly. That kind of coordination often doesn’t happen."
-        },
-        {
-          "speaker": "Baroness Janke",
-          "text": "Volunteer groups can fade when parents return to work or older volunteers become less able to take part. How can local projects survive?"
-        },
-        {
-          "speaker": "Rosie Apperley",
-          "text": "A long-standing local organisation can help keep a project going when particular volunteers leave. Groups also need to keep welcoming new people, rather than becoming closed circles."
-        },
-        {
-          "speaker": "Dr Joseph Owen",
-          "text": "People volunteer for different reasons. Some want work experience, while others have more time after retirement. We should understand those reasons, but also avoid asking community organisations to replace services they aren’t equipped to provide."
-        },
-        {
-          "speaker": "Baroness Andrews",
-          "text": "Could councils pay local organisations to maintain spaces instead of awarding contracts to large companies?"
-        },
-        {
-          "speaker": "Rosie Apperley",
-          "text": "That’s possible through a service-level agreement. One Islington community centre has been paid to look after a local orchard. The centre can involve residents, rather than having a contractor arrive with no connection to the neighbourhood."
-        },
-        {
-          "speaker": "Lord Bailey of Paddington",
-          "text": "There’s a risk that if community groups take on public services, they become part of government and lose their independence. What should they be expected to do, and what must remain the council’s job?"
-        },
-        {
-          "speaker": "Rosie Apperley",
-          "text": "There needs to be a basic level of council service. Community groups shouldn’t be asked to take over just because the council can’t afford to do its job. It works better when residents want to create something new and choose to help care for it."
-        },
-        {
-          "speaker": "Mark Webb",
-          "text": "First work out what needs doing, then decide who can do it best. Sometimes that’ll be the council; sometimes a local group. Groups also need a realistic plan and budget, rather than being expected to do more than they can."
-        },
-        {
-          "speaker": "Rosie Apperley",
-          "text": "It depends on the task. In one project, the council is doing the building work to improve drainage, while our organisation is listening to residents and involving them in planting. We can share the work rather than draw a rigid line between us."
-        },
-        {
-          "speaker": "Dr Joseph Owen",
-          "text": "Planning with residents and building local organisations takes longer, and may cost more at the start. But if the plan doesn’t fit what people need, the change may be short-lived and people won’t feel involved."
-        }
-      ]
-    },
-    {
-      "title": "Local leadership, public investment and political risk",
-      "takeaway": "National and local investment can help, but it needs to complement local knowledge and must not raise hopes beyond what can realistically be delivered.",
-      "turns": [
         {
           "speaker": "Lord Ravensdale",
-          "text": "How can the more locally led approaches you’ve described work across the country, rather than in just a few places?"
+          "text": "Grimsby has an approach that sounds promising, but other places have different needs. How could useful ideas spread without imposing the same plan everywhere?",
+          "evidence": [
+            {
+              "source_turn": 66,
+              "quote": "We have these great examples of models, but the question is always how to roll them out more broadly. How do we take examples of best practice and roll those out more broadly across the country?"
+            }
+          ]
         },
         {
           "speaker": "Mark Webb",
-          "text": "Give each area time—perhaps a year or 18 months—to listen to residents and prepare a plan before discussing the money. Then fund what’s feasible, and let the community that developed the plan help make decisions."
+          "text": "Give each area time—perhaps a year or 18 months—to ask residents what it needs, without starting with money. Then have the community submit its own plan, estimated costs and proposed results for funders to discuss. Grimsby's plan shouldn't simply be copied in Spalding.",
+          "evidence": [
+            {
+              "source_turn": 67,
+              "quote": "go out to every area in the country and say, “What is it that you want? Build us a plan. We will give you a year; we will give you 18 months. We are not talking about money at the moment. What is it that this area really needs?” Grimsby will be very different to Spalding or very different to anywhere else."
+            },
+            {
+              "source_turn": 67,
+              "quote": "Then submit a plan to the Government or the funders to say, “This is what this area needs, and we think this is how much it is going to cost”."
+            },
+            {
+              "source_turn": 67,
+              "quote": "the community who wrote it, not the council, own it."
+            }
+          ]
         },
         {
           "speaker": "Rosie Apperley",
-          "text": "Listening first is essential. We spent 18 months talking with residents about what nature they wanted in their neighbourhood. We now have a plan we’re delivering with the council and the National Trust."
-        },
-        {
-          "speaker": "Rosie Apperley",
-          "text": "Councils should also have a way to share what works, so each place doesn’t have to invent its own processes from scratch."
+          "text": "We had 18 months in a project to ask residents what nature they wanted locally, rather than being told exactly what to deliver. We now have a plan we're putting into practice with Islington Council and the National Trust. Councils also need ways to share what's worked, instead of each starting from scratch.",
+          "evidence": [
+            {
+              "source_turn": 69,
+              "quote": "We spent 18 months going out, talking and listening to communities to explore what nature they wanted in their neighbourhood, and we now have a plan that we are delivering in collaboration with Islington Council and the National Trust."
+            },
+            {
+              "source_turn": 69,
+              "quote": "there have to be mechanisms where local governments can share good practice among themselves."
+            },
+            {
+              "source_turn": 69,
+              "quote": "having need a mechanism by which other local authorities can pick up and take examples of good practice, rather than having to invent the how and the processes, would make a big difference."
+            }
+          ]
         },
         {
           "speaker": "Dr Joseph Owen",
-          "text": "One useful idea is to train residents to research what their neighbours need. Universities and organisations such as the Local Government Association could share guides and materials, even if it isn’t possible to fund a research team in every area."
-        },
+          "text": "One Southampton project trains residents to research what their neighbours need. We couldn't assume every place can fund that exact project, but universities and councils could share the practical guides and tools it produces more widely.",
+          "evidence": [
+            {
+              "source_turn": 71,
+              "quote": "That is about training residents to be community researchers, working in the place and understanding the needs of their fellow residents."
+            },
+            {
+              "source_turn": 71,
+              "quote": "Although, yes, it is hard to say that we will fund a community research programme in each of these places, there are definitely resources or outputs that could be shared through the Local Government Association, for example."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Who does the ongoing work?",
+      "takeaway": "Community groups can bring local trust and volunteers, but councils must communicate with them, pay for work they commission and keep providing essential services.",
+      "turns": [
         {
           "speaker": "Baroness Andrews",
-          "text": "Voluntary organisations are often short of staff and time. What practical change would help them?"
+          "text": "Local voluntary organisations are already stretched. Is there a practical way to give them the people and resources to take on more of this work?",
+          "evidence": [
+            {
+              "source_turn": 72,
+              "quote": "A lot of this depends on the capacity of the voluntary or third sector"
+            },
+            {
+              "source_turn": 72,
+              "quote": "Are there any quick wins to be had in the context of building the capacity of the third sector and building social capital?"
+            }
+          ]
         },
         {
           "speaker": "Rosie Apperley",
-          "text": "Councils need to trust local groups to work with residents and pay them for that work, rather than keeping everything in-house. A local group may be better placed to knock on doors than a council acting as landlord."
+          "text": "Councils should recognise when a local organisation can reach residents better than the council can, and pay it for that work. In Islington, a community centre has a service-level agreement to look after an orchard. It can bring volunteers in and connect the maintenance to the community, rather than simply sending a contractor to do the job.",
+          "evidence": [
+            {
+              "source_turn": 73,
+              "quote": "if you are knocking on doors and trying to engage people on a council estate, it is different if you are a local community organisation to effectively being the landlord."
+            },
+            {
+              "source_turn": 73,
+              "quote": "one of our community centres has just taken on an SLA for a local community orchard. They will not just be arriving in the dead of night and watering; it will include volunteers and get the community involved. But the centre is being paid to do it rather than a big corporate organisation."
+            }
+          ]
         },
+        {
+          "speaker": "Baroness Janke",
+          "text": "What happens when volunteers maintain a space but the council makes decisions without telling them? In my area, a council-let event damaged plants that volunteers had raised money for and planted. It's hard to keep people motivated after that.",
+          "evidence": [
+            {
+              "source_turn": 81,
+              "quote": "a square is being maintained totally by a team of volunteers because the council does very little there, yet the council will let it to a group to run an event there without any consultation, or even any knowledge, of the people who are working in the gardens."
+            },
+            {
+              "source_turn": 81,
+              "quote": "the plants that the volunteers have raised money to buy and spent their time planting have been vandalised or knocked down by equipment. It is a problem then trying to remotivate people when they are not consulted."
+            }
+          ]
+        },
+        {
+          "speaker": "Rosie Apperley",
+          "text": "Councils need a way to record which groups care for which spaces and check with them before approving events. The same goes for planting: staff maintaining a street need to know where residents have planted, so they don't accidentally destroy it. Different council teams need to share that information.",
+          "evidence": [
+            {
+              "source_turn": 82,
+              "quote": "How can we have a process in place where, if you are looking after a bit of land, you register that in some way and that is logged with the council, and then events cannot go on there without talking to that group?"
+            },
+            {
+              "source_turn": 82,
+              "quote": "otherwise people plant stuff and it just gets sprayed with pesticides. How can those processes be put in place to allow for this community maintenance not to be destroyed?"
+            },
+            {
+              "source_turn": 82,
+              "quote": "That needs to happen on a local authority level and across its different departments"
+            }
+          ]
+        },
+        {
+          "speaker": "Baroness Janke",
+          "text": "Volunteer groups can also fade when parents return to work or older members can no longer do as much. Who keeps a project going then?",
+          "evidence": [
+            {
+              "source_turn": 85,
+              "quote": "once the children go to school and the mums are at work, then suddenly there is a void. Similarly, with the older people’s retired groups, they get older and less able-bodied, and the group whittles away. You are then left with projects that have been initiated but do not have people to sustain them."
+            }
+          ]
+        },
+        {
+          "speaker": "Rosie Apperley",
+          "text": "A long-established local organisation can step in when a group loses members and help it keep recruiting. We're also training people who run gardening groups to keep listening to neighbours and inviting new people in. But volunteers mustn't be asked to make up for a council failing to provide basic services.",
+          "evidence": [
+            {
+              "source_turn": 86,
+              "quote": "The thinking behind having a local organisation is that it, hopefully, will not go anywhere anytime soon: it can be there in case a group drops off a bit, can step in where needed and can keep that infrastructure going."
+            },
+            {
+              "source_turn": 86,
+              "quote": "The idea for that is that they have an understanding that part of their running of a gardening group, or volunteering on a small space, is to keep getting new people involved, keep listening to the community and keep engaging more people."
+            },
+            {
+              "source_turn": 92,
+              "quote": "There has to be a base level of delivery by the statutory sector. If that is not done effectively, then that will come up."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Joseph Owen",
+          "text": "We should be careful not to overload local organisations. Give them the tools to do the work they're good at, rather than expecting them to replace missing services. An artist working with a community, for example, isn't a social worker.",
+          "evidence": [
+            {
+              "source_turn": 94,
+              "quote": "We have to be careful about not overburdening, and the expectations and demands placed on these organisations to do this work. It should not be about trying to make up or compensate for a lack of provision; the point is more about ensuring that they have the tools that they need to do this work."
+            },
+            {
+              "source_turn": 94,
+              "quote": "A visual artist, in the example I have given, is not a social worker; they have a particular set of skills, but they cannot compensate for a lack of provision in a place."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Investment, limits and next steps",
+      "takeaway": "Physical improvements can help, but witnesses said they last best when residents shape them and organisations have the resources to support their use.",
+      "turns": [
         {
           "speaker": "Lord Cameron of Dillington",
-          "text": "Can investment in historic buildings transform a market town just as much as residents organising from the bottom up?"
-        },
-        {
-          "speaker": "Mark Webb",
-          "text": "It can help, but towns also need to adapt to what people use them for now. High streets can be places to meet and do things, not just shop. If useful spaces aren’t opened up, empty units can be taken by businesses residents didn’t ask for."
-        },
-        {
-          "speaker": "Mark Webb",
-          "text": "Local pop-up shops, reduced business costs and support for new businesses can help. Once one place opens, nearby businesses may follow. I’d rather see local businesses lead than national chains."
+          "text": "In some market towns, investment in historic buildings has made the centre attractive again. Does that kind of physical improvement work differently from change led by residents?",
+          "evidence": [
+            {
+              "source_turn": 75,
+              "quote": "There are one or two run-down market towns where English Heritage or Historic England, or whatever it is called, has invested in the ancient buildings in the old town which has totally transformed those towns."
+            },
+            {
+              "source_turn": 75,
+              "quote": "I was wondering whether you could comment on the transformation that that sort of investment gives, as opposed to the people themselves doing it from the bottom up."
+            }
+          ]
         },
         {
           "speaker": "Dr Joseph Owen",
-          "text": "Investment in historic buildings can make people feel that their town is improving. But a project can also miss the mark. In Darlington, some old town-centre buildings were painted in a way local people didn’t feel represented their town’s history."
-        },
-        {
-          "speaker": "Dr Joseph Owen",
-          "text": "Big building projects and community-led work can complement each other. But if people feel a project has been imposed on them, it may not build a sense of ownership."
-        },
-        {
-          "speaker": "Lord Porter of Spalding",
-          "text": "If residents are invited to ask for things without knowing what can be funded, they may be disappointed and blame local politicians when promises aren’t met. How do you stop that happening?"
-        },
-        {
-          "speaker": "Mark Webb",
-          "text": "Be honest at the start about what can and can’t be done. People understand limits if you explain them. The trouble is promising something that can’t be delivered, not asking the community what it wants."
-        },
-        {
-          "speaker": "Lord Porter of Spalding",
-          "text": "But local politics in Grimsby has changed hands repeatedly. That suggests people may lose faith when promises aren’t kept."
-        },
-        {
-          "speaker": "Mark Webb",
-          "text": "I don’t agree that political changes have stopped our work. We’ve kept working through changes in local leadership. Community projects can last beyond election cycles if they belong to the people who live there."
+          "text": "Both effects are possible. In Darlington, major investment gave some residents a feeling that the town was improving. But another project repainted historic lanes and added decorations without local people shaping it. Some felt it had changed a place they knew without giving them any ownership of the result.",
+          "evidence": [
+            {
+              "source_turn": 77,
+              "quote": "When we did research there, we found that people had a sense that they were on the up: there was a feeling of improvement that came from the top-down funding of big infrastructure and capital spending."
+            },
+            {
+              "source_turn": 77,
+              "quote": "The yards in Darlington were regenerated but in a very top-down way: they just painted the doors really bright colours. They wanted blue and white stripy awnings. They had stencils of Malala quotes on the wall. Nobody in the local area had a sense of ownership over that at all."
+            }
+          ]
         },
         {
           "speaker": "Lord Bassam of Brighton",
-          "text": "Can moving government jobs to towns help local businesses and communities?"
+          "text": "Could moving government jobs into towns help local growth and bring people into the centre?",
+          "evidence": [
+            {
+              "source_turn": 97,
+              "quote": "In some places, national government has invested locally by putting, for example, part of the Civil Service there. I am thinking of Blackpool, and Darlington and Grimsby have been mentioned. Can that play a role in triggering better growth locally and better community engagement?"
+            }
+          ]
         },
         {
           "speaker": "Dr Joseph Owen",
-          "text": "It can make a difference, but it isn’t a cure-all. In Darlington, some people working at the government site travel from London and spend money in the town centre, but people living nearby may still feel that the centre isn’t for them."
+          "text": "It can have an impact, but it isn't a complete answer. In Darlington, some people travel up from London to the new Treasury offices and spend money nearby, while residents just across the road may still feel the town centre isn't for them. Investment in buildings needs to go alongside work shaped and sustained by local communities.",
+          "evidence": [
+            {
+              "source_turn": 98,
+              "quote": "you have people coming up from London, for one day a week, on the train. It is pretty quick. They go to the Treasury campus and maybe they spend some money in the newly regenerated yards, which is slightly too expensive for the people who actually live around the area."
+            },
+            {
+              "source_turn": 98,
+              "quote": "Northgate is just over the roundabout in Darlington; the people who live there do not even go to the town centre. It is just a short distance over the roundabout, but they do not feel any sense of ownership."
+            },
+            {
+              "source_turn": 100,
+              "quote": "It has an impact, but it is not a panacea."
+            },
+            {
+              "source_turn": 96,
+              "quote": "as long as it is combined with the grass-roots community work that is co-designed and sustained. They can complement one another."
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Bailey of Paddington",
+          "text": "Where should we draw the line? A reliable income might let a community group hire good people, but giving it a council's duties could change what makes it effective. Some jobs, like collecting bins, remain the council's responsibility.",
+          "evidence": [
+            {
+              "source_turn": 111,
+              "quote": "Every time you bring in a community organisation and give it a statutory role, it just becomes part of the Government."
+            },
+            {
+              "source_turn": 111,
+              "quote": "Where do you draw the line in giving community services regular income so that they can take on people? Because people make services."
+            },
+            {
+              "source_turn": 111,
+              "quote": "I do accept Rosie’s point; it cannot empty the bins. The Government should be doing that."
+            }
+          ]
         },
         {
           "speaker": "Rosie Apperley",
-          "text": "Community centres are already providing meals and warm spaces to people who can’t afford to heat their homes. That’s important work, but those organisations need funding for their own basic costs too."
-        },
-        {
-          "speaker": "Mark Webb",
-          "text": "Public money doesn’t have to mean more spending. We’ve used an initial investment to build a social enterprise that has provided business support for 15 years. If you plan properly, some early spending can make later work sustainable."
-        }
-      ]
-    },
-    {
-      "title": "What the witnesses would change",
-      "takeaway": "The witnesses called for genuine local influence, investment in the people and organisations that sustain places, and plans that are realistic and accountable.",
-      "turns": [
-        {
-          "speaker": "Chair",
-          "text": "If you could make one change tomorrow, what would you do?"
+          "text": "I'd decide the roles project by project. In one Islington greening project, the council removes paving and does the construction work. We talk with residents, do lighter planting and help people get involved. It's a partnership, not a fixed rule that one side must do everything.",
+          "evidence": [
+            {
+              "source_turn": 113,
+              "quote": "The council is taking up the paving stones, creating the sustainable urban drainage systems and so on. We are doing all the engagement, the light-touch planting and all the getting people involved."
+            },
+            {
+              "source_turn": 113,
+              "quote": "Then who is best placed to do that? Then we work together on it and do it together, but have our roles within that. I would not want to draw a line and put one either side."
+            }
+          ]
         },
         {
           "speaker": "Dr Joseph Owen",
-          "text": "Whenever you improve a physical space, invest in the people, organisations and activities that will keep it meaningful. Bring communities in early enough to shape the plan, and give them real choices within the available budget."
+          "text": "If I could change one thing, whenever public money improves a physical space, I'd also invest in the people, organisations and activities that will make it useful over time. Involve them early enough to change the plan, not just respond to a plan already made.",
+          "evidence": [
+            {
+              "source_turn": 120,
+              "quote": "When you are investing in a physical space, you have to invest in the social infrastructure that is going to sustain it. By that I mean the people, organisations and activities that will make it meaningful."
+            },
+            {
+              "source_turn": 120,
+              "quote": "You involve communities and community organisations early doors, exactly as was being said, so that they can change the course of the activity so that it is not predetermined."
+            }
+          ]
         },
         {
           "speaker": "Rosie Apperley",
-          "text": "I’d make sure every neighbourhood had a paid community organiser to help residents work together and have a say."
+          "text": "I'd have a paid community organiser in every neighbourhood: someone whose job is to help residents get involved.",
+          "evidence": [
+            {
+              "source_turn": 121,
+              "quote": "I absolutely agree with all that, and then why not have a paid community organiser in every neighbourhood in the country?"
+            },
+            {
+              "source_turn": 69,
+              "quote": "the start of that is always just to go out and listen."
+            }
+          ]
         },
         {
           "speaker": "Mark Webb",
-          "text": "Give every town time to hear what residents want and prepare a realistic, evidence-based plan. Then decide what can be funded and hold both the council and the community to their commitments."
+          "text": "I'd give every town 18 months to produce a plan backed by its residents. Then decide what public money can support—and hold both the community and the council responsible for delivering what the plan asks for.",
+          "evidence": [
+            {
+              "source_turn": 122,
+              "quote": "go to every town in this country and give them 18 months to come up with a plan that is evidentially supported by the community and consulted on by the community."
+            },
+            {
+              "source_turn": 122,
+              "quote": "decide then how much money you can allocate from the pot in front of you to make that. But hold the community—not just the council but the council, as well—to account and tell them it is going to be held to account for delivering what it asked for in that plan."
+            }
+          ]
         }
       ]
     }

@@ -11,7 +11,7 @@ window.COMMITTEE_SESSIONS.push({
   "date": "17 November 2026",
   "sourceUrl": "https://committees.parliament.uk/oralevidence/18314/html/",
   "sourceLabel": "Official published transcript",
-  "summary": "The committee questioned senior FCDO officials about staff cuts, falling aid budgets and the move towards funding international organisations and attracting private investment. The witnesses argued that predictable budgets, stronger country-led planning and better use of expertise can make aid more effective, but accepted that staffing gaps, abrupt programme closures and weak public transparency remain concerns. Members pressed for clearer plans, evidence of results and more support for countries facing the end of UK funding.",
+  "summary": "Senior Foreign, Commonwealth & Development Office officials were questioned about staff cuts, shrinking aid budgets and a greater reliance on international organisations. They argued that predictable budgets, specialist advice and larger partners can help the UK achieve more with less money, but acknowledged gaps in staffing, harm from some country-level cuts and shortcomings in public reporting. Members pressed them for clearer evidence of results and better plans for countries losing support.",
   "room": {
     "image": "Energy Resilience/committee_room_4.png",
     "width": 2788,
@@ -71,61 +71,6 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#315f72",
       "soft": "#d7edf0"
     },
-    "Monica Harding": {
-      "name": "Monica Harding",
-      "role": "Committee member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member1"
-      ],
-      "color": "#6f5c91",
-      "soft": "#ebe2f5"
-    },
-    "Brian Mathew": {
-      "name": "Brian Mathew",
-      "role": "Committee member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member2"
-      ],
-      "color": "#4c7b5d",
-      "soft": "#dff0dd"
-    },
-    "Dr Rushworth": {
-      "name": "Dr Sam Rushworth",
-      "role": "Committee member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member3"
-      ],
-      "color": "#9b543e",
-      "soft": "#f2e0d7"
-    },
-    "Tulip Siddiq": {
-      "name": "Tulip Siddiq",
-      "role": "Committee member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member4"
-      ],
-      "color": "#287079",
-      "soft": "#d9eeee"
-    },
-    "James Naish": {
-      "name": "James Naish",
-      "role": "Committee member",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member5"
-      ],
-      "color": "#b17b2e",
-      "soft": "#f5e8c4"
-    },
     "Lindy Cameron": {
       "name": "Lindy Cameron",
       "role": "Permanent Under-Secretary, Foreign, Commonwealth & Development Office",
@@ -134,8 +79,8 @@ window.COMMITTEE_SESSIONS.push({
       "seats": [
         "witness1"
       ],
-      "color": "#8a5a78",
-      "soft": "#f0e2ec"
+      "color": "#6f5c91",
+      "soft": "#ebe2f5"
     },
     "Nick Dyer": {
       "name": "Nick Dyer",
@@ -145,8 +90,8 @@ window.COMMITTEE_SESSIONS.push({
       "seats": [
         "witness2"
       ],
-      "color": "#5c676d",
-      "soft": "#e5e8e8"
+      "color": "#4c7b5d",
+      "soft": "#dff0dd"
     },
     "Tim Jones": {
       "name": "Tim Jones",
@@ -156,48 +101,139 @@ window.COMMITTEE_SESSIONS.push({
       "seats": [
         "witness3"
       ],
+      "color": "#9b543e",
+      "soft": "#f2e0d7"
+    },
+    "Tracy Gilbert": {
+      "name": "Tracy Gilbert",
+      "role": "Committee member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member1"
+      ],
+      "color": "#287079",
+      "soft": "#d9eeee"
+    },
+    "Monica Harding": {
+      "name": "Monica Harding",
+      "role": "Committee member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member2"
+      ],
+      "color": "#b17b2e",
+      "soft": "#f5e8c4"
+    },
+    "Brian Mathew": {
+      "name": "Brian Mathew",
+      "role": "Committee member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member3"
+      ],
+      "color": "#8a5a78",
+      "soft": "#f0e2ec"
+    },
+    "Dr Rushworth": {
+      "name": "Dr Sam Rushworth",
+      "role": "Committee member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member4"
+      ],
+      "color": "#5c676d",
+      "soft": "#e5e8e8"
+    },
+    "James Naish": {
+      "name": "James Naish",
+      "role": "Committee member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member5"
+      ],
       "color": "#315f72",
       "soft": "#d7edf0"
+    },
+    "Tulip Siddiq": {
+      "name": "Tulip Siddiq",
+      "role": "Committee member",
+      "description": "",
+      "kind": "member",
+      "seats": [
+        "member6"
+      ],
+      "color": "#6f5c91",
+      "soft": "#ebe2f5"
     }
   },
-  "transcript": "# FCDO Annual Report and Accounts 2025-26\n\n## The department’s direction\n> The new permanent secretary sees a more difficult world and wants the FCDO to use its expertise creatively, while rebuilding staff confidence.\n\nChair: Lindy Cameron has just taken over as permanent secretary. What are the department’s biggest challenges, and what needs to change?\nLindy Cameron: The world is more contested and affected by conflict than when I last worked in development. Countries’ needs have changed, and reduced aid means we must rethink how we work. I see that as a chance to innovate and help shape global thinking.\nLindy Cameron: Ministers have set out a clear direction, so I don’t think development needs another major change right now. My priority is making sure development staff feel valued, can use their expertise and can see a future in the department.\nMonica Harding: What does it mean in practice for the UK to lead thinking on development?\nNick Dyer: We can influence international discussions, including through the UK’s upcoming G20 role. In countries, we can share evidence about what works and make British expertise—from universities, government and finance—available to help shape policies.\nChair: That depends on having the right staff. The department has cut jobs before completing a full skills review, and many of the reductions have affected staff overseas too. Will you continue with the current restructuring?\nLindy Cameron: I want a high-performing department where people trust one another, have good technology and can build careers. The organisation had grown, especially at senior levels, and we need to give talented junior staff room to contribute and brief Ministers.\nLindy Cameron: The cuts have been difficult for staff. From the figures I’ve seen, UK-based staff in the UK have fallen by about 17% since March 2025. I’m listening to staff and reviewing who remains without a permanent role, so we don’t lose important skills without thinking carefully.\nLindy Cameron: Technology matters too. More than 80% of staff are already using AI at work, and over 70% say it helps. We need to equip people to use it well and make their work more worthwhile.\n\n\n## Keeping skills through staff cuts\n> The department has lost experience and has vacancies in key specialist roles, while leaders say they must balance retaining expertise with giving newer staff career opportunities.\n\nChair: Experienced staff have taken voluntary exit packages, which can save money but risk losing institutional memory. How will you keep that knowledge and still offer careers to newer staff?\nLindy Cameron: That risk is real, but talented staff can also leave if they see no chance to progress. We need to protect deep expertise while giving people choices: they might become leading specialists, move into management or build a career elsewhere.\nNick Dyer: Over 18 months, the number of programmes we run fell by about 14%, while staff numbers fell by 17%. Development advisers fell by 14%, slightly less than the overall reduction. But around 14% of advisory jobs are still vacant, especially in statistics, economics, climate and health.\nChair: Why are those posts unfilled? Have you tried training existing staff to move into them?\nNick Dyer: We stopped recruiting for a time because of financial pressure, which worsened an existing shortage. We’ve trained some staff internally and are considering bringing back junior professional schemes, but we need to fill those vacancies quickly.\nBrian Mathew: How many qualified engineers have left, and how much engineering expertise does the FCDO still have?\nNick Dyer: I don’t have those figures with me. The combined group of advisers on livelihoods, climate and infrastructure fell from 135 to 101. I’ll check how many of those were engineers and write to you.\nTim Jones: The department has £290 million over the spending review period for transformation: £100 million for running costs over the first two years and £90 million for investment over three years. We’re spending some on staff exits, technology and buildings, though building projects may be difficult to complete on schedule.\nChair: How close are you to finishing the restructuring?\nLindy Cameron: We’re not finished. This week, 220 staff had no permanent job and were in the redeployment pool, while 588 roles were being recruited to. We need to give people a fair chance to apply, and I can’t yet give a final date.\nNick Dyer: The wider transformation will take longer than the restructuring. We’re also finishing the work of bringing staff overseas allowances into one system; implementation is expected to begin next spring.\n\n\n## Country teams and emergency funding\n> Officials say country offices had early notice of expected budgets, but members challenged whether staffing and aid plans can meet the needs of countries facing sudden shocks and large cuts.\n\nChair: Country teams seem to be cutting staff in anticipation of lower budgets. Will they still have the people needed on the ground?\nNick Dyer: We gave country offices early indications of their likely budgets so they could plan. Programme staff overall fell by about 11%, compared with a 14% fall in programmes. Some teams may now be too small, and we’ll need to check that.\nNick Dyer: The nine ‘communities of expertise’ are meant to offer advice and connect country teams with specialist knowledge. They can fund short-term expert visits, but they aren’t meant to replace a health adviser who should be based in a country office.\nChair: The purpose of these groups has been unclear. Are they going to become useful, or quietly disappear?\nNick Dyer: Some, such as education and governance, are already established; others will take another year or two. Their offer should include an advice service, help finding experts, and short- or longer-term support. We’re trying to make that clearer.\nNick Dyer: The education group, for example, shares evidence and has advised countries such as Malawi and Ethiopia on teaching and curriculum. But we must make sure it doesn’t become a substitute for staff where education remains a major need.\nMonica Harding: The crisis fund is £75 million this year. How much has been allocated, and is the rest enough?\nNick Dyer: We’ve allocated £37.4 million. Sudden disasters such as earthquakes and floods have usually required £30 million to £50 million a year, so we believe £75 million is enough for those. We also expect to spend about £1.4 billion a year on humanitarian aid.\nMonica Harding: Nepal’s UK aid is expected to fall sharply despite repeated flooding. Are you reconsidering those plans?\nNick Dyer: Ministers haven’t asked us to change the allocations. We’re supporting better flood warnings and helping Nepal arrange finance that can be released quickly after a disaster. The aim is to help the country prepare, not rely only on donor grants that may arrive late.\nTulip Siddiq: Are you also helping countries prevent damage through safer building and planning, rather than only responding after a disaster?\nNick Dyer: We support measures such as flood warnings, safer building and better planning. But I can’t promise that climate risks are considered in every project around the world.\nLindy Cameron: In Nepal, UK-backed work tracks climate and geological hazards, and a World Bank programme is developing an earthquake insurance bond. These tools can help governments prepare and release money quickly. The recent floods also showed that some risks, including damage to hydropower stations, were greater than expected.\nChair: Should climate resilience be a requirement whenever the UK funds or advises on infrastructure?\nNick Dyer: Our climate adaptation work is intended to help countries deal with changing risks. We have supported earthquake-resistant schools in Pakistan, higher homes in flood-prone areas of Bangladesh, urban planning for heat and coastal protection. But I can’t say we do this in every case.\n\n\n## Who receives aid, and how results are shown\n> The FCDO is increasing the share of aid delivered through international organisations, while members questioned whether this compensates for cuts to direct country programmes and whether the public can see the results.\n\nDr Rushworth: Does spending through international organisations achieve more than direct country programmes?\nLindy Cameron: It isn’t an either-or choice. International organisations can reach more people and use expertise at scale, while country teams help us understand local needs and challenge those organisations. We need both to work together.\nNick Dyer: For every pound we put into IDA, it can raise another £3. Vaccine organisations can buy in bulk and lower prices. Humanitarian organisations also provide specialist services the UK couldn’t easily build itself. But we expect them to reform, and we fund only a small share of the many organisations eligible for aid.\nChair: The share going through international organisations has risen, but the last major review was about a decade ago. Is it time to check whether they still deliver?\nNick Dyer: We believe the organisations we fund are transparent and produce results, and we set expectations for reform. If they don’t improve, we’ll make different choices. The World Bank publishes detailed information about its projects and results.\nChair: That information is hard for ordinary people to find. Can the FCDO explain more clearly where UK taxpayers’ money goes?\nNick Dyer: Yes. For example, our £1.25 billion contribution to Gavi is expected to help vaccinate 109 million children and save 1.95 million lives. We need to tell stories like that better.\nDr Rushworth: Bilateral aid has taken deeper cuts. What assessment have you made of the effect on countries and programmes?\nLindy Cameron: We couldn’t simply reduce every programme by the same percentage. We looked across the portfolio and at whether aid was supporting countries to build their own ability to raise taxes and fund services, rather than doing that indefinitely on their behalf. That doesn’t remove the impact of cuts.\nNick Dyer: Some funding through development banks is investment capital, which isn’t directly interchangeable with money for country programmes. But the resource budget is a real choice between direct programmes and organisations such as Gavi and the humanitarian system.\nChair: In Sierra Leone, UK health funding fell from £35 million to just under £1 million. The result is that nurses can’t be paid and medicines can’t be bought. What support are you giving them to manage that change?\nNick Dyer: We can’t pretend the cuts aren’t difficult, and we can’t prevent every impact. Country teams can look for other donors, help governments improve things like medicine procurement, and ask international partners to help. I’d expect our team to be doing that, but I’m not on the ground there.\nDr Rushworth: Can you make it easier for local organisations to receive funding? They may have closer community links and lower overheads than large organisations.\nNick Dyer: We’re trying to make funding less bureaucratic so smaller organisations can apply, including by accepting applications in other languages. It’s still important to check value and standards, and this will take real work.\nLindy Cameron: Smaller local projects can reach communities well, but they can also cost more to manage. Larger programmes can reach more people and lower costs. We need a mix, rather than assuming one approach is always best.\nDr Rushworth: The UK received its lowest score yet in the Aid Transparency Index. What are you changing?\nNick Dyer: The score reflected missing country budget details, incomplete project data and no single published development strategy. We’ve now published the country allocations and believe we’ve improved project reporting. A new DevTracker should make project information easier to find.\nJames Naish: Other countries publish development strategies. Won’t the UK leave a gap by not setting out its own priorities in one document?\nLindy Cameron: Ministers have explained their approach in speeches, but I understand the case for a written plan that gives staff and Parliament a clear baseline. We’re also trying to make the department more focused on long-term plans and improve planning by country.\nJames Naish: We’ve had several Ministers in a short time. A written strategy would help keep priorities coherent and let Parliament measure progress.\n\n\n## Climate, inclusion and investment\n> Officials rejected fixed spending quotas for nature but promised clearer reporting, while questions on gender and disability data and the role of British International Investment exposed areas where further details were needed.\n\nMonica Harding: Why doesn’t the new international climate plan set specific spending targets for nature and forests?\nNick Dyer: Fixed targets can distort decisions and stop us responding to countries’ priorities. We expect about a quarter of climate funding to support nature, but we won’t make that a binding quota. We will report more clearly and regularly on spending and results.\nBrian Mathew: What information do you collect on the impact of aid on women and girls?\nNick Dyer: A previous Foreign Secretary committed to 90% of programmes having a significant aim related to women and girls. We track funding and projects, including support for reproductive health and action against violence. We also report what the UK does internationally to defend women’s rights.\nChair: Is that measuring gender equality in areas such as education and jobs, and does it apply to BII too?\nNick Dyer: We break down results by gender where we can. BII has a target for 30% of new investments to benefit women’s employment or investment. We’ll check how the department measures equality more broadly.\nBrian Mathew: What about disability data and staff responsible for the department’s disability strategy?\nNick Dyer: We try to break down results by gender, disability, age and location when possible. I don’t have the number of staff responsible for the disability strategy, so I’ll write to you.\nNick Dyer: We’ve restarted regular talks with the European Commission on development and humanitarian work. European countries are changing how they fund aid, increasingly linking it to their own interests, and we’re watching how that develops.\nTulip Siddiq: How does reduced funding for BII fit with the move from giving grants to encouraging investment?\nNick Dyer: BII is part of that approach, but the Treasury has reduced the type of funding we can use to add money to its investment base. The shift also involves changing how international development banks use their own resources. BII now needs to remain financially sustainable without new FCDO funding.\nTulip Siddiq: Can BII still attract £6 billion to £7.5 billion of private investment, including in poorer and riskier markets?\nNick Dyer: BII expects to invest £7 billion to £8 billion of its own money over five years and bring in about £7 billion from other investors. I’m confident it can meet that aim. The FCDO is also providing about £100 million a year for climate investments in south-east Asia.\nChair: How do you ensure BII’s investments match the FCDO’s goals, including for climate, women and poorer countries?\nNick Dyer: We meet BII regularly and set expectations for its strategy. Those include directing around 60% of its funding to Africa, 25% of new investments to the poorest countries, 45% to climate and 30% to benefiting women. We’ll check that its definitions match ours.\nLindy Cameron: Country teams can also challenge BII directly. In India, my team examined whether its investments reached markets that needed them and added value rather than replacing other investors. That kind of close scrutiny is most practical in larger country offices.\nTulip Siddiq: What is the FCDO doing to encourage private investment in low-income countries more generally?\nNick Dyer: A taskforce of investors and government departments is looking at what blocks investment. Investors often lack reliable information about returns and the risk of default. We’re also examining whether rules, a shortage of suitable projects, or ways of selling investments held by development banks are holding money back.\n\n\n## Debt, guarantees and the aid budget\n> The witnesses described today’s debt burden mainly as a cost and repayment problem, and said guarantees can support essential services but leave the department carrying long-term financial risks.\n\nJames Naish: How will the FCDO keep expertise on debt, and how does debt fit into its wider development aims?\nNick Dyer: Our team working with international financial institutions has the expertise it needs, and we’re increasing some specialist roles. The debt problem is different from the one addressed by debt relief in 2000: many countries now face high interest payments and short repayment periods, even when the total debt may still be manageable.\nNick Dyer: One option is to replace expensive, short-term debt with cheaper loans that take longer to repay. That requires good information about who lent the money and on what terms. Countries also need better debt management and transparency.\nLindy Cameron: Lenders have responsibilities as well as borrowers. We need clear information that lets countries and lenders compare terms and make responsible decisions.\nDr Rushworth: Some campaigners want UK law to force private lenders to take part in debt relief. Why doesn’t the Government support that, and could responsible investors help restructure debt?\nNick Dyer: We haven’t seen evidence that private creditors are refusing to take part in the debt restructurings we’ve observed. We understand campaigners’ arguments, but we don’t currently believe new legislation is needed.\nJames Naish: How do you know what UK-backed loans are achieving?\nNick Dyer: For most guarantees, we know which loan and programme they support. For example, UK guarantees to Ukraine have helped support teachers’ salaries and pension payments. One climate guarantee to the African Development Bank supports a portfolio of projects rather than a single named programme.\nJames Naish: Is there a limit to how much financial risk the FCDO can take on through guarantees?\nLindy Cameron: Yes. A guarantee can have little up-front cost, but it leaves a long-term risk for future governments. We have to decide how much risk the department can responsibly carry.\nNick Dyer: Accounting officers set limits on the expected risk and on exposure to any one country. Ukraine has pushed us beyond both limits. We chose to take that risk because of the war’s importance, and we’re discussing with the Treasury how best to manage it. Our guarantee capacity is now almost used up.\nBrian Mathew: The UK is committed to spending 0.3% of national income on aid. Was the department short-changed by about £320 million?\nNick Dyer: I don’t recognise that figure. Aid spending in 2025 was lower than expected because national income was higher than forecast and another department underspent. Whether we meet the target also depends on how the economy performs.\nTim Jones: The current budget was agreed for several years, rather than adjusted each year when national income changes. We no longer make a last-minute annual adjustment. We’ll need to discuss the funding needed to meet the target at the next spending review.\nJames Naish: The department’s budget appears to fall substantially by 2028-29. Can it still run its overseas work and frontline programmes?\nTim Jones: The figures depend partly on transfers between departments and changes made to smooth the budget. For day-to-day running costs, we agreed to stay at the same cash level by the end of the spending review period as at the start. The £290 million transformation fund is intended to help lower the cost of running the department.\nTim Jones: The agreement also gives us more freedom over how we use that running-cost budget, including whether to hire our own specialists or pay outside contractors.\nLindy Cameron: We may use that flexibility especially to build digital skills in-house. Staff reductions have been painful, but they should give us more choice about whether to invest in people or technology. Predictable budgets also help us plan aid over the long term.\n",
+  "transcript": "# FCDO Annual Report and Accounts 2025-26\n\n## A smaller department in a harder world\n> Officials said reduced aid and staff numbers require different choices, while members questioned whether valuable experience is being lost.\n\nLindy Cameron: I’ve just become the FCDO’s senior official. Nick and I will share the work: I’m likely to focus more on the department’s overall direction and operations, while he continues to oversee its aid and other programmes.\nChair: The Home Office also spends a large share of UK aid. Tim, do you oversee that spending as well?\nTim Jones: No. As finance director, I’m responsible for money that goes through the FCDO’s budget, not other departments’ spending.\nTracy Gilbert: What’s the biggest challenge for the UK’s development work?\nLindy Cameron: The world is more conflict-ridden, countries want different things from us, and we have less aid money. I don’t think development needs another urgent reorganisation. I want staff with development expertise to feel valued and to see a future in the department.\nChair: Staff cuts began before you arrived. I’m concerned they went ahead before the department properly checked which skills it had, and that experienced people are leaving. Will you change course?\nLindy Cameron: The department had become unusually senior-heavy, limiting opportunities for junior staff. But I agree we must protect expertise. I’ve asked for a review of people who still have no permanent role, to check which important skills we could lose in the final phase.\nNick Dyer: We’ve lost experience, and my biggest worry is unfilled specialist jobs. About 14% of our advisory posts are vacant, especially in statistics, economics, climate and health. Recruitment restrictions held us back; now we need to hire, as well as consider training people already here.\nBrian Mathew: How many engineers have you lost, and does the department still have the engineering expertise it needs?\nNick Dyer: I’ll have to write with the engineering figures. The broader group covering livelihoods, climate and infrastructure has fallen from 135 to 101 advisers in 18 months, but I can’t say how many of those were infrastructure specialists.\nLindy Cameron: The restructuring is close to finishing, but I won’t set a date. At the start of this week, 220 staff had no permanent job while 588 jobs were being advertised. We need to handle that carefully for the people affected.\n\n\n## Who provides expert advice?\n> Country offices are changing their teams as budgets fall, but central groups of experts are not intended to replace permanent specialists overseas.\n\nChair: As country offices prepare for cuts, will they still have the specialists they need on the ground?\nNick Dyer: We gave offices early budget figures so they could plan their teams. I’ve checked choices in Nigeria and Zimbabwe and found them sensible, but we’ll need to review the overall picture when this phase ends. Central expert groups cannot simply replace advisers a country office has let go.\nMonica Harding: So what are these central groups actually meant to provide?\nNick Dyer: There are nine groups intended to connect country offices with specialist knowledge, including experts outside government. They can advise on what works and fund short visits or some longer support. But if an office needs a health adviser for six months, it should employ one.\nChair: The groups’ purpose has changed as they’ve been set up. If the education group still runs programmes from London, isn’t that at odds with giving countries more control?\nNick Dyer: We’re ending many programmes previously run from the centre, but some existing ones still need managing. The education group also shares evidence and has advised Malawi and Ethiopia on teaching. You’re right that the groups have caused confusion; some are established, while others will take another year or two.\n\n\n## Preparing for disasters with less aid\n> Officials defended a smaller emergency reserve and Nepal’s planned aid cut by pointing to early warnings and faster access to prearranged funding.\n\nMonica Harding: With aid being cut, is there enough left in the emergency fund for unexpected disasters?\nNick Dyer: We’ve allocated £37.4 million of this year’s £75 million fund. Based on past sudden disasters, I think £75 million is enough for that purpose. Separately, we’ve allocated about £1.4 billion a year for humanitarian work, including longer-running crises.\nMonica Harding: Nepal’s UK aid allocation is expected to fall by 89% over three years. Are you reconsidering that after the recent floods?\nNick Dyer: Ministers haven’t signalled a change. With the UK money available, we’re helping Nepal improve flood warnings and arrange finance that can pay out quickly when disaster strikes. That can get money to the country sooner than waiting for donors to make grants afterward.\nChair: If Nepal’s disaster risks are predictable, is a much smaller UK allocation really realistic?\nNick Dyer: I’m not saying the UK’s own programme must cover the whole risk. We can help Nepal build systems to respond, and use our influence with organisations such as the World Bank to support that work.\nTulip Siddiq: What about preventing damage in the first place—for example, through where and how homes are built?\nChair: I mean beyond Nepal too. Are you considering future climate risks whenever the UK advises on or invests in buildings and other infrastructure?\nNick Dyer: We have examples, including buildings designed for floods in Bangladesh and planning for hotter cities. Climate adaptation work is intended to address such risks. But I can’t say we consider them everywhere, every time.\nNick Dyer: On climate funding for nature, we expect broadly a quarter to go to nature, but won’t make that a binding target. Past targets have pushed spending choices in the wrong direction. Instead, we’ve promised more regular reports on spending and results.\n\n\n## Where aid goes—and what the public can see\n> Members challenged whether larger international organisations make up for direct UK aid cuts and whether the department explains the results clearly enough.\n\nDr Rushworth: Does putting more aid through international organisations deliver more than funding countries directly?\nNick Dyer: They can work at a scale we can’t achieve alone. For every pound the UK puts into the World Bank’s IDA fund, it brings in another £3. Organisations buying vaccines in bulk can also lower prices. But we expect the organisations we fund to improve how they work.\nLindy Cameron: It shouldn’t be an either-or choice. Staff working directly in countries can see what international organisations are doing and challenge them. That helps the UK make better decisions when it funds those organisations.\nChair: But when was the last time you reviewed whether those organisations deliver value? And how can an ordinary taxpayer see what UK money achieves through them?\nNick Dyer: The organisations publish extensive project and results information, though I take the point that people won’t search a World Bank database. For example, our £1.25 billion investment in Gavi is expected to immunise 109 million children and save 1.95 million lives. We need to tell that story better.\nDr Rushworth: Even if total aid to Africa holds up through international organisations, what happens in individual countries when UK-funded services lose support? Sudan’s education budget is one example.\nNick Dyer: These are real choices: more money for international health and humanitarian organisations leaves less for bilateral aid. We published an assessment acknowledging that the cuts would have effects. Ministers protected some funding for women, girls and education, and directed a greater share of direct country aid toward fragile countries.\nChair: In Sierra Leone, UK support helped cut maternal deaths, but its health funding has now dropped sharply. Nurses and medicines need paying for. Are you actually helping the country manage that change, rather than assuming someone else will step in?\nNick Dyer: Teams should look for other funders, help governments organise services and work with international partners. But I can’t say what the Sierra Leone team is doing specifically. We can’t prevent every harmful effect of these cuts.\nDr Rushworth: Can smaller local organisations still get UK funding? They may be able to make a pound go further in their communities than a large organisation can.\nNick Dyer: Some programmes do work through local partners, but people tell us our application requirements are too difficult. We’re trying to simplify them so smaller organisations can seek funding. Doing that properly while checking how money is used is substantial work.\n\n\n## Reporting results and setting priorities\n> The department promised better project information, but ministers do not plan to publish a single new development strategy.\n\nDr Rushworth: The UK has received its lowest score yet in an international ranking of aid transparency. What went wrong?\nNick Dyer: Three things hurt the score: we published country budgets late, information is available for only about 83% of our projects, and there’s no new document called a development strategy. We’ve published the budgets and plan a new project-information website next year. Ministers don’t expect to publish a separate strategy.\nJames Naish: If ministers change, wouldn’t a written strategy help staff and the public understand which priorities endure? Other countries are publishing theirs.\nLindy Cameron: Ministers have explained their development approach in speeches, even if it isn’t in one document titled ‘development strategy’. But I agree we need to think about the department’s lasting purpose after the merger, and improve planning for our overseas offices.\nBrian Mathew: Can you show whether the government’s commitment to women and girls is changing outcomes? And what information do you collect about people with disabilities?\nNick Dyer: We can track funding and projects aimed at women and girls, including support for mothers. Where possible, we also break down results by gender, disability, age and location. That isn’t a complete picture of every group or every outcome.\n\n\n## Investment, debt and financial risk\n> Officials said investment and loan guarantees can bring in money beyond the aid budget, but acknowledged limits on what the department can fund or safely promise.\n\nTulip Siddiq: If the UK wants to invest rather than only give grants, why is funding for British International Investment being reduced?\nNick Dyer: BII remains part of that approach, but the Treasury has given us much less money of the kind used to add to its investment funds. BII now needs to remain financially sustainable without further large payments from us. The shift toward investment also includes working through the World Bank.\nChair: BII’s investments are large. How do you make sure its decisions really meet your goals for poorer countries, climate and women, rather than just sound good in presentations?\nNick Dyer: We meet BII regularly and have set expectations for its next five years: 25% of new investments in the least developed countries, 45% on climate and 30% benefiting women. I’m fairly sure its definitions match ours, but I’ll check. We shouldn’t have civil servants making its individual business investments.\nJames Naish: Where does debt relief fit in? What’s different from the big debt-relief effort around 2000?\nNick Dyer: Many countries now owe more to private lenders and China. For some, the immediate problem isn’t the total debt but costly repayments that leave too little for health and education. We’re examining whether expensive, short-term debts can be replaced with cheaper loans repaid over longer periods. Better records of who owes what are essential.\nDr Rushworth: Campaigners say some private lenders obstruct debt relief and want UK law changed. Why isn’t the government doing that?\nNick Dyer: We hear the campaigners, but in the debt restructurings we’ve observed, private lenders have played their part. If there’s evidence of holdouts, we’re open to it. So far, we haven’t seen a problem that requires legislation.\nJames Naish: What can you tell about the results when the UK gives a financial guarantee for a World Bank loan? And is there a limit to how much risk you’ll take?\nNick Dyer: We normally link a guarantee to a known loan and can track what it funds. In Ukraine, for example, guaranteed World Bank lending has paid teachers’ salaries and pensions. We set limits on annual risk and on exposure to any one country, but deliberately exceeded both for Ukraine. That leaves very little room for more guarantees.\n\n\n## What the budget allows\n> Officials valued a predictable multi-year budget despite deep cuts, and said future aid targets would be addressed at the next spending review.\n\nMonica Harding: If the Home Office spends less UK aid on supporting refugees here than expected, could that money instead fund aid overseas?\nNick Dyer: We’ve had no indication of an underspend this year. Under the agreement made at the spending review, the Home Office keeps any underspend and must cover any overspend. Our official expectation is that the money wouldn’t come to the FCDO, though ministers could discuss it politically.\nBrian Mathew: If UK aid is meant to reach 0.3% of national income, shouldn’t the department press for more money if the figures show it’s falling short?\nTim Jones: Our budget was agreed for several years rather than adjusted whenever national income changes. That gives teams certainty after years of sudden increases and cuts. We expect to discuss how much is needed to meet the target in the next spending review, not adjust the budget each year.\nJames Naish: With spending falling, can you still pay for frontline programmes and the staff needed overseas?\nTim Jones: We agreed to bring the department’s running costs back to the same cash level at the end of this spending review as at the start. The £290 million transformation funding is intended to help lower ongoing costs. We also have more freedom to hire staff rather than outsource some work, if that gives taxpayers better value.\nLindy Cameron: That flexibility matters, especially for digital skills. The restructuring has been painful, but its aim is to lower staff costs enough that we can make real choices in future about investing in people or technology.\n",
   "inquiry": "FCDO Annual Report and Accounts 2025-26",
+  "evidence": "sessions/generated/evidence/oral-evidence-18314.json?v=47ecd60f",
   "glossary": [
     {
       "term": "FCDO",
-      "definition": "The Foreign, Commonwealth & Development Office, the UK department responsible for diplomacy and international development."
+      "definition": "The UK government department responsible for foreign affairs and international development."
     },
     {
-      "term": "ODA",
-      "definition": "Official development assistance: public money used to support economic development and welfare in poorer countries."
-    },
-    {
-      "term": "bilateral aid",
-      "definition": "Aid the UK provides directly to a country or programme, rather than through an international organisation."
-    },
-    {
-      "term": "multilateral",
-      "definition": "An organisation or fund supported by several countries, such as the World Bank or the UN."
+      "term": "Home Office",
+      "definition": "The UK government department responsible for areas including immigration and asylum."
     },
     {
       "term": "G20",
-      "definition": "A group of major economies that meets to discuss global economic and other issues."
+      "definition": "A forum where major economies discuss international economic issues."
     },
     {
-      "term": "BII",
-      "definition": "British International Investment, the UK’s development finance institution, which invests in businesses in developing countries."
+      "term": "World Bank",
+      "definition": "An international organisation that lends money and provides advice for development."
+    },
+    {
+      "term": "bilateral aid",
+      "definition": "Aid the UK directs to a country or programme itself, rather than paying through an international organisation."
+    },
+    {
+      "term": "multilateral",
+      "definition": "In this hearing, an international organisation funded by several countries, such as the World Bank."
     },
     {
       "term": "IDA",
-      "definition": "The World Bank’s fund that provides grants and low-cost loans to the poorest countries."
+      "definition": "The part of the World Bank that provides grants and low-cost loans to poorer countries."
     },
     {
       "term": "Gavi",
-      "definition": "An international partnership that helps poorer countries provide vaccines."
+      "definition": "An international partnership that helps countries obtain and deliver vaccines."
     },
     {
-      "term": "DevTracker",
-      "definition": "The FCDO’s online tool for finding information about UK aid projects."
+      "term": "BII",
+      "definition": "British International Investment, a UK-owned organisation that invests in businesses in developing countries."
+    },
+    {
+      "term": "development finance institutions",
+      "definition": "Publicly backed organisations that invest in businesses to support development."
+    },
+    {
+      "term": "spending review",
+      "definition": "A government decision setting departments’ budgets over several years."
+    },
+    {
+      "term": "accounting officers",
+      "definition": "Senior officials personally responsible for ensuring a department uses public money properly."
+    },
+    {
+      "term": "financial guarantee",
+      "definition": "A promise to repay a lender if a specified borrower cannot repay a loan."
+    },
+    {
+      "term": "gross national income",
+      "definition": "A measure of the income earned by a country’s people and businesses."
+    },
+    {
+      "term": "climate adaptation",
+      "definition": "Changes that help people cope with the effects of climate change, such as flooding or heat."
     }
   ]
 });

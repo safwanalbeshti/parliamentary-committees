@@ -2,15 +2,33 @@
   "schema_version": 1,
   "source_id": 18314,
   "source_sha256": "aeb2b55285ba4f7219867c69fcb10d68204d0c324334c622a2e7aa0aac8c5341",
-  "title": "Aid, staffing and the FCDO’s changing role",
-  "label": "17 November 2026 · FCDO annual accounts",
-  "summary": "The committee questioned senior FCDO officials about staff cuts, falling aid budgets and the move towards funding international organisations and attracting private investment. The witnesses argued that predictable budgets, stronger country-led planning and better use of expertise can make aid more effective, but accepted that staffing gaps, abrupt programme closures and weak public transparency remain concerns. Members pressed for clearer plans, evidence of results and more support for countries facing the end of UK funding.",
+  "title": "Aid cuts, expertise and the choices ahead",
+  "label": "17 November 2026 · FCDO spending and reform",
+  "summary": "Senior Foreign, Commonwealth & Development Office officials were questioned about staff cuts, shrinking aid budgets and a greater reliance on international organisations. They argued that predictable budgets, specialist advice and larger partners can help the UK achieve more with less money, but acknowledged gaps in staffing, harm from some country-level cuts and shortcomings in public reporting. Members pressed them for clearer evidence of results and better plans for countries losing support.",
   "speakers": [
     {
       "label": "Chair",
       "name": "Sarah Champion",
       "role": "Chair of the International Development Committee",
       "kind": "chair"
+    },
+    {
+      "label": "Lindy Cameron",
+      "name": "Lindy Cameron",
+      "role": "Permanent Under-Secretary, Foreign, Commonwealth & Development Office",
+      "kind": "witness"
+    },
+    {
+      "label": "Nick Dyer",
+      "name": "Nick Dyer",
+      "role": "Second Permanent Under-Secretary, Foreign, Commonwealth & Development Office",
+      "kind": "witness"
+    },
+    {
+      "label": "Tim Jones",
+      "name": "Tim Jones",
+      "role": "Finance Director, Foreign, Commonwealth & Development Office",
+      "kind": "witness"
     },
     {
       "label": "Tracy Gilbert",
@@ -37,472 +55,1110 @@
       "kind": "member"
     },
     {
-      "label": "Tulip Siddiq",
-      "name": "Tulip Siddiq",
-      "role": "Committee member",
-      "kind": "member"
-    },
-    {
       "label": "James Naish",
       "name": "James Naish",
       "role": "Committee member",
       "kind": "member"
     },
     {
-      "label": "Lindy Cameron",
-      "name": "Lindy Cameron",
-      "role": "Permanent Under-Secretary, Foreign, Commonwealth & Development Office",
-      "kind": "witness"
-    },
-    {
-      "label": "Nick Dyer",
-      "name": "Nick Dyer",
-      "role": "Second Permanent Under-Secretary, Foreign, Commonwealth & Development Office",
-      "kind": "witness"
-    },
-    {
-      "label": "Tim Jones",
-      "name": "Tim Jones",
-      "role": "Finance Director, Foreign, Commonwealth & Development Office",
-      "kind": "witness"
+      "label": "Tulip Siddiq",
+      "name": "Tulip Siddiq",
+      "role": "Committee member",
+      "kind": "member"
     }
   ],
   "glossary": [
     {
       "term": "FCDO",
-      "definition": "The Foreign, Commonwealth & Development Office, the UK department responsible for diplomacy and international development."
+      "definition": "The UK government department responsible for foreign affairs and international development."
     },
     {
-      "term": "ODA",
-      "definition": "Official development assistance: public money used to support economic development and welfare in poorer countries."
-    },
-    {
-      "term": "bilateral aid",
-      "definition": "Aid the UK provides directly to a country or programme, rather than through an international organisation."
-    },
-    {
-      "term": "multilateral",
-      "definition": "An organisation or fund supported by several countries, such as the World Bank or the UN."
+      "term": "Home Office",
+      "definition": "The UK government department responsible for areas including immigration and asylum."
     },
     {
       "term": "G20",
-      "definition": "A group of major economies that meets to discuss global economic and other issues."
+      "definition": "A forum where major economies discuss international economic issues."
     },
     {
-      "term": "BII",
-      "definition": "British International Investment, the UK’s development finance institution, which invests in businesses in developing countries."
+      "term": "World Bank",
+      "definition": "An international organisation that lends money and provides advice for development."
+    },
+    {
+      "term": "bilateral aid",
+      "definition": "Aid the UK directs to a country or programme itself, rather than paying through an international organisation."
+    },
+    {
+      "term": "multilateral",
+      "definition": "In this hearing, an international organisation funded by several countries, such as the World Bank."
     },
     {
       "term": "IDA",
-      "definition": "The World Bank’s fund that provides grants and low-cost loans to the poorest countries."
+      "definition": "The part of the World Bank that provides grants and low-cost loans to poorer countries."
     },
     {
       "term": "Gavi",
-      "definition": "An international partnership that helps poorer countries provide vaccines."
+      "definition": "An international partnership that helps countries obtain and deliver vaccines."
     },
     {
-      "term": "DevTracker",
-      "definition": "The FCDO’s online tool for finding information about UK aid projects."
+      "term": "BII",
+      "definition": "British International Investment, a UK-owned organisation that invests in businesses in developing countries."
+    },
+    {
+      "term": "development finance institutions",
+      "definition": "Publicly backed organisations that invest in businesses to support development."
+    },
+    {
+      "term": "spending review",
+      "definition": "A government decision setting departments’ budgets over several years."
+    },
+    {
+      "term": "accounting officers",
+      "definition": "Senior officials personally responsible for ensuring a department uses public money properly."
+    },
+    {
+      "term": "financial guarantee",
+      "definition": "A promise to repay a lender if a specified borrower cannot repay a loan."
+    },
+    {
+      "term": "gross national income",
+      "definition": "A measure of the income earned by a country’s people and businesses."
+    },
+    {
+      "term": "climate adaptation",
+      "definition": "Changes that help people cope with the effects of climate change, such as flooding or heat."
     }
   ],
   "chapters": [
     {
-      "title": "The department’s direction",
-      "takeaway": "The new permanent secretary sees a more difficult world and wants the FCDO to use its expertise creatively, while rebuilding staff confidence.",
+      "title": "A smaller department in a harder world",
+      "takeaway": "Officials said reduced aid and staff numbers require different choices, while members questioned whether valuable experience is being lost.",
       "turns": [
         {
-          "speaker": "Chair",
-          "text": "Lindy Cameron has just taken over as permanent secretary. What are the department’s biggest challenges, and what needs to change?"
-        },
-        {
           "speaker": "Lindy Cameron",
-          "text": "The world is more contested and affected by conflict than when I last worked in development. Countries’ needs have changed, and reduced aid means we must rethink how we work. I see that as a chance to innovate and help shape global thinking."
-        },
-        {
-          "speaker": "Lindy Cameron",
-          "text": "Ministers have set out a clear direction, so I don’t think development needs another major change right now. My priority is making sure development staff feel valued, can use their expertise and can see a future in the department."
-        },
-        {
-          "speaker": "Monica Harding",
-          "text": "What does it mean in practice for the UK to lead thinking on development?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "We can influence international discussions, including through the UK’s upcoming G20 role. In countries, we can share evidence about what works and make British expertise—from universities, government and finance—available to help shape policies."
+          "text": "I’ve just become the FCDO’s senior official. Nick and I will share the work: I’m likely to focus more on the department’s overall direction and operations, while he continues to oversee its aid and other programmes.",
+          "evidence": [
+            {
+              "source_turn": 4,
+              "quote": "Effectively, we are going to share the job between us. I am sure it will change over time, but essentially, as I work my way into the role, I will probably take more interest in some of the corporate and strategic issues; Nick will continue to be the accounting officer for the ODA and non-ODA programme."
+            }
+          ]
         },
         {
           "speaker": "Chair",
-          "text": "That depends on having the right staff. The department has cut jobs before completing a full skills review, and many of the reductions have affected staff overseas too. Will you continue with the current restructuring?"
-        },
-        {
-          "speaker": "Lindy Cameron",
-          "text": "I want a high-performing department where people trust one another, have good technology and can build careers. The organisation had grown, especially at senior levels, and we need to give talented junior staff room to contribute and brief Ministers."
-        },
-        {
-          "speaker": "Lindy Cameron",
-          "text": "The cuts have been difficult for staff. From the figures I’ve seen, UK-based staff in the UK have fallen by about 17% since March 2025. I’m listening to staff and reviewing who remains without a permanent role, so we don’t lose important skills without thinking carefully."
-        },
-        {
-          "speaker": "Lindy Cameron",
-          "text": "Technology matters too. More than 80% of staff are already using AI at work, and over 70% say it helps. We need to equip people to use it well and make their work more worthwhile."
-        }
-      ]
-    },
-    {
-      "title": "Keeping skills through staff cuts",
-      "takeaway": "The department has lost experience and has vacancies in key specialist roles, while leaders say they must balance retaining expertise with giving newer staff career opportunities.",
-      "turns": [
-        {
-          "speaker": "Chair",
-          "text": "Experienced staff have taken voluntary exit packages, which can save money but risk losing institutional memory. How will you keep that knowledge and still offer careers to newer staff?"
-        },
-        {
-          "speaker": "Lindy Cameron",
-          "text": "That risk is real, but talented staff can also leave if they see no chance to progress. We need to protect deep expertise while giving people choices: they might become leading specialists, move into management or build a career elsewhere."
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "Over 18 months, the number of programmes we run fell by about 14%, while staff numbers fell by 17%. Development advisers fell by 14%, slightly less than the overall reduction. But around 14% of advisory jobs are still vacant, especially in statistics, economics, climate and health."
-        },
-        {
-          "speaker": "Chair",
-          "text": "Why are those posts unfilled? Have you tried training existing staff to move into them?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "We stopped recruiting for a time because of financial pressure, which worsened an existing shortage. We’ve trained some staff internally and are considering bringing back junior professional schemes, but we need to fill those vacancies quickly."
-        },
-        {
-          "speaker": "Brian Mathew",
-          "text": "How many qualified engineers have left, and how much engineering expertise does the FCDO still have?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "I don’t have those figures with me. The combined group of advisers on livelihoods, climate and infrastructure fell from 135 to 101. I’ll check how many of those were engineers and write to you."
+          "text": "The Home Office also spends a large share of UK aid. Tim, do you oversee that spending as well?",
+          "evidence": [
+            {
+              "source_turn": 7,
+              "quote": "Now, a very large chunk is still in the Home Office. Do you have oversight of how all ODA is spent, or just that within the FCDO now?"
+            }
+          ]
         },
         {
           "speaker": "Tim Jones",
-          "text": "The department has £290 million over the spending review period for transformation: £100 million for running costs over the first two years and £90 million for investment over three years. We’re spending some on staff exits, technology and buildings, though building projects may be difficult to complete on schedule."
+          "text": "No. As finance director, I’m responsible for money that goes through the FCDO’s budget, not other departments’ spending.",
+          "evidence": [
+            {
+              "source_turn": 8,
+              "quote": "As the FCDO’s finance director, I am responsible for that which flows through our parliamentary estimates, rather than that of other Departments."
+            },
+            {
+              "source_turn": 10,
+              "quote": "Yes, that is my remit."
+            }
+          ]
         },
         {
-          "speaker": "Chair",
-          "text": "How close are you to finishing the restructuring?"
-        },
-        {
-          "speaker": "Lindy Cameron",
-          "text": "We’re not finished. This week, 220 staff had no permanent job and were in the redeployment pool, while 588 roles were being recruited to. We need to give people a fair chance to apply, and I can’t yet give a final date."
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "The wider transformation will take longer than the restructuring. We’re also finishing the work of bringing staff overseas allowances into one system; implementation is expected to begin next spring."
-        }
-      ]
-    },
-    {
-      "title": "Country teams and emergency funding",
-      "takeaway": "Officials say country offices had early notice of expected budgets, but members challenged whether staffing and aid plans can meet the needs of countries facing sudden shocks and large cuts.",
-      "turns": [
-        {
-          "speaker": "Chair",
-          "text": "Country teams seem to be cutting staff in anticipation of lower budgets. Will they still have the people needed on the ground?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "We gave country offices early indications of their likely budgets so they could plan. Programme staff overall fell by about 11%, compared with a 14% fall in programmes. Some teams may now be too small, and we’ll need to check that."
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "The nine ‘communities of expertise’ are meant to offer advice and connect country teams with specialist knowledge. They can fund short-term expert visits, but they aren’t meant to replace a health adviser who should be based in a country office."
-        },
-        {
-          "speaker": "Chair",
-          "text": "The purpose of these groups has been unclear. Are they going to become useful, or quietly disappear?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "Some, such as education and governance, are already established; others will take another year or two. Their offer should include an advice service, help finding experts, and short- or longer-term support. We’re trying to make that clearer."
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "The education group, for example, shares evidence and has advised countries such as Malawi and Ethiopia on teaching and curriculum. But we must make sure it doesn’t become a substitute for staff where education remains a major need."
-        },
-        {
-          "speaker": "Monica Harding",
-          "text": "The crisis fund is £75 million this year. How much has been allocated, and is the rest enough?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "We’ve allocated £37.4 million. Sudden disasters such as earthquakes and floods have usually required £30 million to £50 million a year, so we believe £75 million is enough for those. We also expect to spend about £1.4 billion a year on humanitarian aid."
-        },
-        {
-          "speaker": "Monica Harding",
-          "text": "Nepal’s UK aid is expected to fall sharply despite repeated flooding. Are you reconsidering those plans?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "Ministers haven’t asked us to change the allocations. We’re supporting better flood warnings and helping Nepal arrange finance that can be released quickly after a disaster. The aim is to help the country prepare, not rely only on donor grants that may arrive late."
-        },
-        {
-          "speaker": "Tulip Siddiq",
-          "text": "Are you also helping countries prevent damage through safer building and planning, rather than only responding after a disaster?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "We support measures such as flood warnings, safer building and better planning. But I can’t promise that climate risks are considered in every project around the world."
+          "speaker": "Tracy Gilbert",
+          "text": "What’s the biggest challenge for the UK’s development work?",
+          "evidence": [
+            {
+              "source_turn": 11,
+              "quote": "Lindy, what do you see as the biggest challenges facing the FCDO’s development agenda?"
+            }
+          ]
         },
         {
           "speaker": "Lindy Cameron",
-          "text": "In Nepal, UK-backed work tracks climate and geological hazards, and a World Bank programme is developing an earthquake insurance bond. These tools can help governments prepare and release money quickly. The recent floods also showed that some risks, including damage to hydropower stations, were greater than expected."
+          "text": "The world is more conflict-ridden, countries want different things from us, and we have less aid money. I don’t think development needs another urgent reorganisation. I want staff with development expertise to feel valued and to see a future in the department.",
+          "evidence": [
+            {
+              "source_turn": 12,
+              "quote": "The biggest challenge is simply that the world is more contested, more complicated and more conflict-ridden than it was when I was last in the Department."
+            },
+            {
+              "source_turn": 12,
+              "quote": "what has changed is that what countries want from us has changed."
+            },
+            {
+              "source_turn": 12,
+              "quote": "reduced aid obviously affects what we do."
+            },
+            {
+              "source_turn": 14,
+              "quote": "on the development side I think a lot of change has just happened, so I do not think urgent changes are needed now."
+            },
+            {
+              "source_turn": 14,
+              "quote": "development professionals within the organisation feel valued for their skills and expertise, can see their career paths as part of a future in the Department"
+            }
+          ]
         },
         {
           "speaker": "Chair",
-          "text": "Should climate resilience be a requirement whenever the UK funds or advises on infrastructure?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "Our climate adaptation work is intended to help countries deal with changing risks. We have supported earthquake-resistant schools in Pakistan, higher homes in flood-prone areas of Bangladesh, urban planning for heat and coastal protection. But I can’t say we do this in every case."
-        }
-      ]
-    },
-    {
-      "title": "Who receives aid, and how results are shown",
-      "takeaway": "The FCDO is increasing the share of aid delivered through international organisations, while members questioned whether this compensates for cuts to direct country programmes and whether the public can see the results.",
-      "turns": [
-        {
-          "speaker": "Dr Rushworth",
-          "text": "Does spending through international organisations achieve more than direct country programmes?"
-        },
-        {
-          "speaker": "Lindy Cameron",
-          "text": "It isn’t an either-or choice. International organisations can reach more people and use expertise at scale, while country teams help us understand local needs and challenge those organisations. We need both to work together."
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "For every pound we put into IDA, it can raise another £3. Vaccine organisations can buy in bulk and lower prices. Humanitarian organisations also provide specialist services the UK couldn’t easily build itself. But we expect them to reform, and we fund only a small share of the many organisations eligible for aid."
-        },
-        {
-          "speaker": "Chair",
-          "text": "The share going through international organisations has risen, but the last major review was about a decade ago. Is it time to check whether they still deliver?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "We believe the organisations we fund are transparent and produce results, and we set expectations for reform. If they don’t improve, we’ll make different choices. The World Bank publishes detailed information about its projects and results."
-        },
-        {
-          "speaker": "Chair",
-          "text": "That information is hard for ordinary people to find. Can the FCDO explain more clearly where UK taxpayers’ money goes?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "Yes. For example, our £1.25 billion contribution to Gavi is expected to help vaccinate 109 million children and save 1.95 million lives. We need to tell stories like that better."
-        },
-        {
-          "speaker": "Dr Rushworth",
-          "text": "Bilateral aid has taken deeper cuts. What assessment have you made of the effect on countries and programmes?"
+          "text": "Staff cuts began before you arrived. I’m concerned they went ahead before the department properly checked which skills it had, and that experienced people are leaving. Will you change course?",
+          "evidence": [
+            {
+              "source_turn": 18,
+              "quote": "It was not until more than a year later that there was actually an audit of the skills that you had."
+            },
+            {
+              "source_turn": 18,
+              "quote": "Are you planning to continue it in its current form, or are there aspects that you are looking to revisit, pause or change?"
+            },
+            {
+              "source_turn": 20,
+              "quote": "My concern all the way through this has been that gap"
+            }
+          ]
         },
         {
           "speaker": "Lindy Cameron",
-          "text": "We couldn’t simply reduce every programme by the same percentage. We looked across the portfolio and at whether aid was supporting countries to build their own ability to raise taxes and fund services, rather than doing that indefinitely on their behalf. That doesn’t remove the impact of cuts."
+          "text": "The department had become unusually senior-heavy, limiting opportunities for junior staff. But I agree we must protect expertise. I’ve asked for a review of people who still have no permanent role, to check which important skills we could lose in the final phase.",
+          "evidence": [
+            {
+              "source_turn": 19,
+              "quote": "It had become quite top-heavy, so we had a lot of SCS and grade 6 staff. There were many brilliant experts, but it was nevertheless crowding out some of our brilliant junior staff."
+            },
+            {
+              "source_turn": 19,
+              "quote": "I have asked for a review of who we have in the redeployment pool, to make sure we understand what key skills we could lose in that last phase"
+            }
+          ]
         },
         {
           "speaker": "Nick Dyer",
-          "text": "Some funding through development banks is investment capital, which isn’t directly interchangeable with money for country programmes. But the resource budget is a real choice between direct programmes and organisations such as Gavi and the humanitarian system."
-        },
-        {
-          "speaker": "Chair",
-          "text": "In Sierra Leone, UK health funding fell from £35 million to just under £1 million. The result is that nurses can’t be paid and medicines can’t be bought. What support are you giving them to manage that change?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "We can’t pretend the cuts aren’t difficult, and we can’t prevent every impact. Country teams can look for other donors, help governments improve things like medicine procurement, and ask international partners to help. I’d expect our team to be doing that, but I’m not on the ground there."
-        },
-        {
-          "speaker": "Dr Rushworth",
-          "text": "Can you make it easier for local organisations to receive funding? They may have closer community links and lower overheads than large organisations."
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "We’re trying to make funding less bureaucratic so smaller organisations can apply, including by accepting applications in other languages. It’s still important to check value and standards, and this will take real work."
-        },
-        {
-          "speaker": "Lindy Cameron",
-          "text": "Smaller local projects can reach communities well, but they can also cost more to manage. Larger programmes can reach more people and lower costs. We need a mix, rather than assuming one approach is always best."
-        },
-        {
-          "speaker": "Dr Rushworth",
-          "text": "The UK received its lowest score yet in the Aid Transparency Index. What are you changing?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "The score reflected missing country budget details, incomplete project data and no single published development strategy. We’ve now published the country allocations and believe we’ve improved project reporting. A new DevTracker should make project information easier to find."
-        },
-        {
-          "speaker": "James Naish",
-          "text": "Other countries publish development strategies. Won’t the UK leave a gap by not setting out its own priorities in one document?"
-        },
-        {
-          "speaker": "Lindy Cameron",
-          "text": "Ministers have explained their approach in speeches, but I understand the case for a written plan that gives staff and Parliament a clear baseline. We’re also trying to make the department more focused on long-term plans and improve planning by country."
-        },
-        {
-          "speaker": "James Naish",
-          "text": "We’ve had several Ministers in a short time. A written strategy would help keep priorities coherent and let Parliament measure progress."
-        }
-      ]
-    },
-    {
-      "title": "Climate, inclusion and investment",
-      "takeaway": "Officials rejected fixed spending quotas for nature but promised clearer reporting, while questions on gender and disability data and the role of British International Investment exposed areas where further details were needed.",
-      "turns": [
-        {
-          "speaker": "Monica Harding",
-          "text": "Why doesn’t the new international climate plan set specific spending targets for nature and forests?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "Fixed targets can distort decisions and stop us responding to countries’ priorities. We expect about a quarter of climate funding to support nature, but we won’t make that a binding quota. We will report more clearly and regularly on spending and results."
+          "text": "We’ve lost experience, and my biggest worry is unfilled specialist jobs. About 14% of our advisory posts are vacant, especially in statistics, economics, climate and health. Recruitment restrictions held us back; now we need to hire, as well as consider training people already here.",
+          "evidence": [
+            {
+              "source_turn": 22,
+              "quote": "I think we have lost quite a bit of experience."
+            },
+            {
+              "source_turn": 22,
+              "quote": "About 14% of our posts are still unfilled, and that is concentrated in four main areas: our statistics advisers, economists, climate people and health people."
+            },
+            {
+              "source_turn": 24,
+              "quote": "we put a block on recruitment because of our affordability gap. Frankly, we have not recruited enough people and now we need to get on and recruit."
+            },
+            {
+              "source_turn": 26,
+              "quote": "We have accredited some people internally, who have come into the advisory cadres."
+            }
+          ]
         },
         {
           "speaker": "Brian Mathew",
-          "text": "What information do you collect on the impact of aid on women and girls?"
+          "text": "How many engineers have you lost, and does the department still have the engineering expertise it needs?",
+          "evidence": [
+            {
+              "source_turn": 28,
+              "quote": "Could you give us an idea of how many qualified civil, mechanical, roads and water engineers you have lost? What engineering capacity does FCDO have left, and is that a worry?"
+            }
+          ]
         },
         {
           "speaker": "Nick Dyer",
-          "text": "A previous Foreign Secretary committed to 90% of programmes having a significant aim related to women and girls. We track funding and projects, including support for reproductive health and action against violence. We also report what the UK does internationally to defend women’s rights."
-        },
-        {
-          "speaker": "Chair",
-          "text": "Is that measuring gender equality in areas such as education and jobs, and does it apply to BII too?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "We break down results by gender where we can. BII has a target for 30% of new investments to benefit women’s employment or investment. We’ll check how the department measures equality more broadly."
-        },
-        {
-          "speaker": "Brian Mathew",
-          "text": "What about disability data and staff responsible for the department’s disability strategy?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "We try to break down results by gender, disability, age and location when possible. I don’t have the number of staff responsible for the disability strategy, so I’ll write to you."
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "We’ve restarted regular talks with the European Commission on development and humanitarian work. European countries are changing how they fund aid, increasingly linking it to their own interests, and we’re watching how that develops."
-        },
-        {
-          "speaker": "Tulip Siddiq",
-          "text": "How does reduced funding for BII fit with the move from giving grants to encouraging investment?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "BII is part of that approach, but the Treasury has reduced the type of funding we can use to add money to its investment base. The shift also involves changing how international development banks use their own resources. BII now needs to remain financially sustainable without new FCDO funding."
-        },
-        {
-          "speaker": "Tulip Siddiq",
-          "text": "Can BII still attract £6 billion to £7.5 billion of private investment, including in poorer and riskier markets?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "BII expects to invest £7 billion to £8 billion of its own money over five years and bring in about £7 billion from other investors. I’m confident it can meet that aim. The FCDO is also providing about £100 million a year for climate investments in south-east Asia."
-        },
-        {
-          "speaker": "Chair",
-          "text": "How do you ensure BII’s investments match the FCDO’s goals, including for climate, women and poorer countries?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "We meet BII regularly and set expectations for its strategy. Those include directing around 60% of its funding to Africa, 25% of new investments to the poorest countries, 45% to climate and 30% to benefiting women. We’ll check that its definitions match ours."
+          "text": "I’ll have to write with the engineering figures. The broader group covering livelihoods, climate and infrastructure has fallen from 135 to 101 advisers in 18 months, but I can’t say how many of those were infrastructure specialists.",
+          "evidence": [
+            {
+              "source_turn": 29,
+              "quote": "I would have to write to you on that; I just do not have the numbers."
+            },
+            {
+              "source_turn": 29,
+              "quote": "That cadre has gone down from 135 to 101, so that is 34 people over the last 18 months. I would have to dig into that and have a look at what the actual infrastructure component of that is"
+            }
+          ]
         },
         {
           "speaker": "Lindy Cameron",
-          "text": "Country teams can also challenge BII directly. In India, my team examined whether its investments reached markets that needed them and added value rather than replacing other investors. That kind of close scrutiny is most practical in larger country offices."
-        },
-        {
-          "speaker": "Tulip Siddiq",
-          "text": "What is the FCDO doing to encourage private investment in low-income countries more generally?"
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "A taskforce of investors and government departments is looking at what blocks investment. Investors often lack reliable information about returns and the risk of default. We’re also examining whether rules, a shortage of suitable projects, or ways of selling investments held by development banks are holding money back."
+          "text": "The restructuring is close to finishing, but I won’t set a date. At the start of this week, 220 staff had no permanent job while 588 jobs were being advertised. We need to handle that carefully for the people affected.",
+          "evidence": [
+            {
+              "source_turn": 36,
+              "quote": "We are close but not there yet. As of the beginning of this week, I think there were 220 staff in the redeployment pool without a substantive job, but we had 588 roles under recruitment."
+            },
+            {
+              "source_turn": 36,
+              "quote": "I do not have a date, and I would not want to put a date on when we, in a sense, bring this to an end."
+            },
+            {
+              "source_turn": 36,
+              "quote": "The most important people at this phase are the ones who do not have a job and want to know what is happening to them next."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Debt, guarantees and the aid budget",
-      "takeaway": "The witnesses described today’s debt burden mainly as a cost and repayment problem, and said guarantees can support essential services but leave the department carrying long-term financial risks.",
+      "title": "Who provides expert advice?",
+      "takeaway": "Country offices are changing their teams as budgets fall, but central groups of experts are not intended to replace permanent specialists overseas.",
       "turns": [
         {
-          "speaker": "James Naish",
-          "text": "How will the FCDO keep expertise on debt, and how does debt fit into its wider development aims?"
+          "speaker": "Chair",
+          "text": "As country offices prepare for cuts, will they still have the specialists they need on the ground?",
+          "evidence": [
+            {
+              "source_turn": 44,
+              "quote": "My concern about that is whether you will have the people on the ground—literally—who you need."
+            }
+          ]
         },
         {
           "speaker": "Nick Dyer",
-          "text": "Our team working with international financial institutions has the expertise it needs, and we’re increasing some specialist roles. The debt problem is different from the one addressed by debt relief in 2000: many countries now face high interest payments and short repayment periods, even when the total debt may still be manageable."
+          "text": "We gave offices early budget figures so they could plan their teams. I’ve checked choices in Nigeria and Zimbabwe and found them sensible, but we’ll need to review the overall picture when this phase ends. Central expert groups cannot simply replace advisers a country office has let go.",
+          "evidence": [
+            {
+              "source_turn": 45,
+              "quote": "We deliberately gave the country offices early indications of what their allocations would be in early 2025-26, exactly so they could start thinking about what shape they needed to be and what skills they needed to deliver on that bilateral allocation."
+            },
+            {
+              "source_turn": 45,
+              "quote": "I have done a deep dive on Nigeria and Zimbabwe, and the choices that they made were quite sensible."
+            },
+            {
+              "source_turn": 45,
+              "quote": "That is not what the communities of expertise are for; they are for something else."
+            },
+            {
+              "source_turn": 45,
+              "quote": "Once this phase is over, we need to take stock and ask ourselves whether the shape overseas still looks and feels right."
+            }
+          ]
+        },
+        {
+          "speaker": "Monica Harding",
+          "text": "So what are these central groups actually meant to provide?",
+          "evidence": [
+            {
+              "source_turn": 51,
+              "quote": "When you referred to reliance on the communities of expertise and having that kind of resource hub, was that about capacity or capability shortages in post?"
+            }
+          ]
         },
         {
           "speaker": "Nick Dyer",
-          "text": "One option is to replace expensive, short-term debt with cheaper loans that take longer to repay. That requires good information about who lent the money and on what terms. Countries also need better debt management and transparency."
+          "text": "There are nine groups intended to connect country offices with specialist knowledge, including experts outside government. They can advise on what works and fund short visits or some longer support. But if an office needs a health adviser for six months, it should employ one.",
+          "evidence": [
+            {
+              "source_turn": 52,
+              "quote": "We have created nine of these communities of expertise."
+            },
+            {
+              "source_turn": 52,
+              "quote": "The purpose of them, first, is to provide a sort of helpdesk function where you can come and identify, talk about and get advice on what is working and what is not working and how to access this world-class capability."
+            },
+            {
+              "source_turn": 52,
+              "quote": "They also provide some modest money to provide and fund short-term three-month technical inputs into a country visit on a particular issue of interest or, in some cases, longer-term support"
+            },
+            {
+              "source_turn": 52,
+              "quote": "If you need a health adviser, you should employ one."
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "The groups’ purpose has changed as they’ve been set up. If the education group still runs programmes from London, isn’t that at odds with giving countries more control?",
+          "evidence": [
+            {
+              "source_turn": 54,
+              "quote": "Then, I think it was centre of expertise, then it became community of expertise, then it looked like it was really going to be in charge of the centrally managed funds programme and then it was not."
+            },
+            {
+              "source_turn": 58,
+              "quote": "There was meant to be a shift to the countries making the decisions on where their money was going, but really, you have just created another body to keep the money in London."
+            }
+          ]
+        },
+        {
+          "speaker": "Nick Dyer",
+          "text": "We’re ending many programmes previously run from the centre, but some existing ones still need managing. The education group also shares evidence and has advised Malawi and Ethiopia on teaching. You’re right that the groups have caused confusion; some are established, while others will take another year or two.",
+          "evidence": [
+            {
+              "source_turn": 59,
+              "quote": "We are deliberately exiting quite a lot of centrally managed programmes, because we think that those have run their course"
+            },
+            {
+              "source_turn": 59,
+              "quote": "we still have some legacy centrally managed programmes that need some management, so they are going into the communities of expertise."
+            },
+            {
+              "source_turn": 59,
+              "quote": "The education team have also provided technical advice to, I think, Malawi and Ethiopia on how to improve the curriculum or teacher training"
+            },
+            {
+              "source_turn": 60,
+              "quote": "there has been some confusion on this, both externally and internally"
+            },
+            {
+              "source_turn": 60,
+              "quote": "some of them are well established and some are going to take another year or two to set up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Preparing for disasters with less aid",
+      "takeaway": "Officials defended a smaller emergency reserve and Nepal’s planned aid cut by pointing to early warnings and faster access to prearranged funding.",
+      "turns": [
+        {
+          "speaker": "Monica Harding",
+          "text": "With aid being cut, is there enough left in the emergency fund for unexpected disasters?",
+          "evidence": [
+            {
+              "source_turn": 61,
+              "quote": "How much of the crisis fund has been allocated so far for 2026-27? Is the remaining funding sufficient to respond to unforeseen crises, given the cuts to ODA?"
+            }
+          ]
+        },
+        {
+          "speaker": "Nick Dyer",
+          "text": "We’ve allocated £37.4 million of this year’s £75 million fund. Based on past sudden disasters, I think £75 million is enough for that purpose. Separately, we’ve allocated about £1.4 billion a year for humanitarian work, including longer-running crises.",
+          "evidence": [
+            {
+              "source_turn": 62,
+              "quote": "Of the £75 million that we allocated for 2026-27, we have currently allocated £37.4 million."
+            },
+            {
+              "source_turn": 62,
+              "quote": "we have generally funded those responses to between £30 million and £50 million a year, so the £75 million is sufficient for that sudden-onset experience."
+            },
+            {
+              "source_turn": 62,
+              "quote": "on top of that we have allocated about £1.4 billion a year for our humanitarian response over the course of the next SR."
+            }
+          ]
+        },
+        {
+          "speaker": "Monica Harding",
+          "text": "Nepal’s UK aid allocation is expected to fall by 89% over three years. Are you reconsidering that after the recent floods?",
+          "evidence": [
+            {
+              "source_turn": 63,
+              "quote": "Nepal’s ODA allocation is expected to fall by 89% over the next three years. Are you considering revising those plans, given the flooding that happened recently?"
+            }
+          ]
+        },
+        {
+          "speaker": "Nick Dyer",
+          "text": "Ministers haven’t signalled a change. With the UK money available, we’re helping Nepal improve flood warnings and arrange finance that can pay out quickly when disaster strikes. That can get money to the country sooner than waiting for donors to make grants afterward.",
+          "evidence": [
+            {
+              "source_turn": 64,
+              "quote": "Ministers we have spoken to are keen to ensure that we have predictability in our allocations, and they are not signalling yet that we should be revising them."
+            },
+            {
+              "source_turn": 64,
+              "quote": "One is to invest in Nepal’s early warning mechanisms."
+            },
+            {
+              "source_turn": 64,
+              "quote": "The second is to help Nepal develop its prearranged finance mechanism, so that if, sadly, a flood or an earthquake hits Nepal, additional money will be made available very quickly."
+            },
+            {
+              "source_turn": 64,
+              "quote": "quite often we rely on donors to provide grants a long time after the event has happened"
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "If Nepal’s disaster risks are predictable, is a much smaller UK allocation really realistic?",
+          "evidence": [
+            {
+              "source_turn": 66,
+              "quote": "So if it is predictable that it is likely to have crises like this and they are going to be exacerbated by climate change, Ministers believe that predicting that they are going to get £5 million a year from 2028-29 is better than having something that is realistic in place that deals with the level of threat that that country is under."
+            }
+          ]
+        },
+        {
+          "speaker": "Nick Dyer",
+          "text": "I’m not saying the UK’s own programme must cover the whole risk. We can help Nepal build systems to respond, and use our influence with organisations such as the World Bank to support that work.",
+          "evidence": [
+            {
+              "source_turn": 67,
+              "quote": "I don’t think we are saying that."
+            },
+            {
+              "source_turn": 67,
+              "quote": "we need to create the institutions and mechanisms in Nepal that allow Nepal itself to be able to manage and respond to the crises that hit it"
+            },
+            {
+              "source_turn": 67,
+              "quote": "I do not think we need to do it ourselves through our bilateral programme, but we can use our expertise and relationships to help Nepal build it themselves."
+            }
+          ]
+        },
+        {
+          "speaker": "Tulip Siddiq",
+          "text": "What about preventing damage in the first place—for example, through where and how homes are built?",
+          "evidence": [
+            {
+              "source_turn": 68,
+              "quote": "Is there a preventive angle to this as well? I am not naive; I know you cannot actually stop a flood. I am thinking of the way houses are built and the town planning and things like that."
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "I mean beyond Nepal too. Are you considering future climate risks whenever the UK advises on or invests in buildings and other infrastructure?",
+          "evidence": [
+            {
+              "source_turn": 71,
+              "quote": "I am not talking about Nepal specifically. Nepal needs to be the wake-up call."
+            },
+            {
+              "source_turn": 71,
+              "quote": "Are we doing the same thing around the world, knowing the climate change that is happening?"
+            },
+            {
+              "source_turn": 73,
+              "quote": "Maybe it should be a line in all our negotiations that it is a consideration."
+            }
+          ]
+        },
+        {
+          "speaker": "Nick Dyer",
+          "text": "We have examples, including buildings designed for floods in Bangladesh and planning for hotter cities. Climate adaptation work is intended to address such risks. But I can’t say we consider them everywhere, every time.",
+          "evidence": [
+            {
+              "source_turn": 72,
+              "quote": "We do urban planning that takes into account how cities are becoming hotter, and how you can respond to that. In Bangladesh, we are providing support to look at structures, such as increasing the height of houses in flood-prone areas."
+            },
+            {
+              "source_turn": 72,
+              "quote": "Can I say in front of you that we are doing that absolutely everywhere, every time we are doing some climate work? I am not sure that I could quite make that commitment"
+            },
+            {
+              "source_turn": 74,
+              "quote": "All our adaptation work is about how you adapt to a changing climate"
+            }
+          ]
+        },
+        {
+          "speaker": "Nick Dyer",
+          "text": "On climate funding for nature, we expect broadly a quarter to go to nature, but won’t make that a binding target. Past targets have pushed spending choices in the wrong direction. Instead, we’ve promised more regular reports on spending and results.",
+          "evidence": [
+            {
+              "source_turn": 81,
+              "quote": "if you put hard targets into your funding, it actually distorts the choices that you are making."
+            },
+            {
+              "source_turn": 81,
+              "quote": "we expect that broadly about 25% of the funding will go to nature, but we are not setting those as hard targets."
+            },
+            {
+              "source_turn": 81,
+              "quote": "we commit in our response to being a lot more transparent and regular about our funding and also the results that we are achieving."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Where aid goes—and what the public can see",
+      "takeaway": "Members challenged whether larger international organisations make up for direct UK aid cuts and whether the department explains the results clearly enough.",
+      "turns": [
+        {
+          "speaker": "Dr Rushworth",
+          "text": "Does putting more aid through international organisations deliver more than funding countries directly?",
+          "evidence": [
+            {
+              "source_turn": 82,
+              "quote": "I want to ask about the shift to multilateral funding at the expense of bilateral funding. Lindy, does spending through multilaterals achieve more impact?"
+            }
+          ]
+        },
+        {
+          "speaker": "Nick Dyer",
+          "text": "They can work at a scale we can’t achieve alone. For every pound the UK puts into the World Bank’s IDA fund, it brings in another £3. Organisations buying vaccines in bulk can also lower prices. But we expect the organisations we fund to improve how they work.",
+          "evidence": [
+            {
+              "source_turn": 84,
+              "quote": "For every pound we put into IDA, they leverage an additional £3 to put into their relationships and their investments in countries."
+            },
+            {
+              "source_turn": 84,
+              "quote": "With the Global Fund and Gavi, the fact that you are doing bulk procurement drives down prices"
+            },
+            {
+              "source_turn": 84,
+              "quote": "We will fund you, but we want to see the humanitarian system reform"
+            }
+          ]
         },
         {
           "speaker": "Lindy Cameron",
-          "text": "Lenders have responsibilities as well as borrowers. We need clear information that lets countries and lenders compare terms and make responsible decisions."
+          "text": "It shouldn’t be an either-or choice. Staff working directly in countries can see what international organisations are doing and challenge them. That helps the UK make better decisions when it funds those organisations.",
+          "evidence": [
+            {
+              "source_turn": 83,
+              "quote": "I do not think it is either/or. Making the two work in tandem has always been a strength of ours in development."
+            },
+            {
+              "source_turn": 83,
+              "quote": "Our brilliant expertise on the ground helps to inform the multilateral choices we make"
+            },
+            {
+              "source_turn": 83,
+              "quote": "I have seen some of our bilaterally funded staff go toe-to-toe with multilaterals on what they are doing."
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "But when was the last time you reviewed whether those organisations deliver value? And how can an ordinary taxpayer see what UK money achieves through them?",
+          "evidence": [
+            {
+              "source_turn": 85,
+              "quote": "I think the last review of the value of multilaterals was in 2016. With all the changes that you have detailed, is it now time to do a review to see if they do deliver?"
+            },
+            {
+              "source_turn": 96,
+              "quote": "could it do any job of communicating where our money goes?"
+            }
+          ]
+        },
+        {
+          "speaker": "Nick Dyer",
+          "text": "The organisations publish extensive project and results information, though I take the point that people won’t search a World Bank database. For example, our £1.25 billion investment in Gavi is expected to immunise 109 million children and save 1.95 million lives. We need to tell that story better.",
+          "evidence": [
+            {
+              "source_turn": 93,
+              "quote": "The World Bank has a corporate scorecard that it reports every year against the outputs and outcomes that it is actually delivering."
+            },
+            {
+              "source_turn": 95,
+              "quote": "I could point you to the World Bank database on its projects and programmes."
+            },
+            {
+              "source_turn": 98,
+              "quote": "Our £1.25 billion investment in Gavi is going to immunise 109 million children and save 1.95 million lives. We need to tell that story better."
+            }
+          ]
         },
         {
           "speaker": "Dr Rushworth",
-          "text": "Some campaigners want UK law to force private lenders to take part in debt relief. Why doesn’t the Government support that, and could responsible investors help restructure debt?"
+          "text": "Even if total aid to Africa holds up through international organisations, what happens in individual countries when UK-funded services lose support? Sudan’s education budget is one example.",
+          "evidence": [
+            {
+              "source_turn": 102,
+              "quote": "We heard evidence in this Committee from Sudan, for example, where 90% of its education budget was UK supported and that has been withdrawn."
+            },
+            {
+              "source_turn": 105,
+              "quote": "although the overall package to Africa as a continent might have increased, we are seeing examples of particular countries that are naming the UK as a donor that pulled the rug out from under them quite rapidly."
+            }
+          ]
         },
         {
           "speaker": "Nick Dyer",
-          "text": "We haven’t seen evidence that private creditors are refusing to take part in the debt restructurings we’ve observed. We understand campaigners’ arguments, but we don’t currently believe new legislation is needed."
+          "text": "These are real choices: more money for international health and humanitarian organisations leaves less for bilateral aid. We published an assessment acknowledging that the cuts would have effects. Ministers protected some funding for women, girls and education, and directed a greater share of direct country aid toward fragile countries.",
+          "evidence": [
+            {
+              "source_turn": 104,
+              "quote": "The more we put in those parts of the multilateral system, the less we have to spend on the bilaterals. That is basically the trade-off."
+            },
+            {
+              "source_turn": 106,
+              "quote": "we are also clear in the equality impact assessment that we did and that we published that there will be some impacts in terms of the reduction in the bilateral programmes"
+            },
+            {
+              "source_turn": 106,
+              "quote": "There was a decision to relatively protect and in some cases to fully protect our funding to women and girls, and to education."
+            },
+            {
+              "source_turn": 106,
+              "quote": "The share of our bilateral programme going into fragile countries has gone up from 57% to 71%"
+            }
+          ]
         },
         {
-          "speaker": "James Naish",
-          "text": "How do you know what UK-backed loans are achieving?"
+          "speaker": "Chair",
+          "text": "In Sierra Leone, UK support helped cut maternal deaths, but its health funding has now dropped sharply. Nurses and medicines need paying for. Are you actually helping the country manage that change, rather than assuming someone else will step in?",
+          "evidence": [
+            {
+              "source_turn": 109,
+              "quote": "We have done a fantastic job; we have cut maternal mortality by 80%."
+            },
+            {
+              "source_turn": 109,
+              "quote": "Last year, however, we cut the funding for their health from £35 million to just under £1 million now—I think that’s right—and there was no “glide path”; we have just cut the funding, so they cannot pay nurses and they cannot buy drugs."
+            },
+            {
+              "source_turn": 113,
+              "quote": "You can, or you are doing?"
+            }
+          ]
         },
         {
           "speaker": "Nick Dyer",
-          "text": "For most guarantees, we know which loan and programme they support. For example, UK guarantees to Ukraine have helped support teachers’ salaries and pension payments. One climate guarantee to the African Development Bank supports a portfolio of projects rather than a single named programme."
+          "text": "Teams should look for other funders, help governments organise services and work with international partners. But I can’t say what the Sierra Leone team is doing specifically. We can’t prevent every harmful effect of these cuts.",
+          "evidence": [
+            {
+              "source_turn": 112,
+              "quote": "We cannot pretend that this is not difficult, we cannot pretend it will not have impacts, and we cannot mitigate all the impacts in all the cases."
+            },
+            {
+              "source_turn": 112,
+              "quote": "What we can do is try to find alternative sources for the funding. We can help Governments to themselves try to work out institutionally how better to organise and buy things, such as drugs; and we can work with our multilateral partners"
+            },
+            {
+              "source_turn": 114,
+              "quote": "I am not on the ground in Sierra Leone, but I would be surprised if our teams in-country are not doing that."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Rushworth",
+          "text": "Can smaller local organisations still get UK funding? They may be able to make a pound go further in their communities than a large organisation can.",
+          "evidence": [
+            {
+              "source_turn": 115,
+              "quote": "UK aid, when it was spent through country offices, was often based on relationships between FCDO staff—or DFID staff, as they once were—and civil society organisations working locally at grassroots, where they could stretch a tax pound much further"
+            },
+            {
+              "source_turn": 117,
+              "quote": "But the third parties used to be smaller and more local, where decision making is more local because the relationships were there?"
+            }
+          ]
+        },
+        {
+          "speaker": "Nick Dyer",
+          "text": "Some programmes do work through local partners, but people tell us our application requirements are too difficult. We’re trying to simplify them so smaller organisations can seek funding. Doing that properly while checking how money is used is substantial work.",
+          "evidence": [
+            {
+              "source_turn": 118,
+              "quote": "We have examples of country programmes that are trying to do more local delivery through local partners. What most people tell us is that we are too bureaucratic and too difficult to work with as an organisation."
+            },
+            {
+              "source_turn": 118,
+              "quote": "We are simplifying and trying to strip back some of the expectations of our partners, so that some smaller partners can apply for our funding."
+            },
+            {
+              "source_turn": 120,
+              "quote": "Yes, we are, but it is a really heavy lift to do this and do it properly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Reporting results and setting priorities",
+      "takeaway": "The department promised better project information, but ministers do not plan to publish a single new development strategy.",
+      "turns": [
+        {
+          "speaker": "Dr Rushworth",
+          "text": "The UK has received its lowest score yet in an international ranking of aid transparency. What went wrong?",
+          "evidence": [
+            {
+              "source_turn": 122,
+              "quote": "The UK received its lowest score in this year’s aid transparency index since it began in 2011. What does the FCDO need to do to be more transparent?"
+            }
+          ]
+        },
+        {
+          "speaker": "Nick Dyer",
+          "text": "Three things hurt the score: we published country budgets late, information is available for only about 83% of our projects, and there’s no new document called a development strategy. We’ve published the budgets and plan a new project-information website next year. Ministers don’t expect to publish a separate strategy.",
+          "evidence": [
+            {
+              "source_turn": 123,
+              "quote": "One is that we had not set out our allocations by country."
+            },
+            {
+              "source_turn": 123,
+              "quote": "the number of our projects that we publish data on has dropped to about 83%. The last is that we have not set out a strategy for development."
+            },
+            {
+              "source_turn": 123,
+              "quote": "We have fixed the first, and I think we have fixed the second as well—next year, we will launch a new DevTracker"
+            },
+            {
+              "source_turn": 123,
+              "quote": "Our Ministers are not expecting to set out a new development strategy"
+            }
+          ]
         },
         {
           "speaker": "James Naish",
-          "text": "Is there a limit to how much financial risk the FCDO can take on through guarantees?"
+          "text": "If ministers change, wouldn’t a written strategy help staff and the public understand which priorities endure? Other countries are publishing theirs.",
+          "evidence": [
+            {
+              "source_turn": 129,
+              "quote": "are other countries renewing and publishing strategies in a way that we as the UK are not? Will a gap be left by us choosing not to republish?"
+            },
+            {
+              "source_turn": 140,
+              "quote": "We are already on our third Minister in two and a half years."
+            },
+            {
+              "source_turn": 140,
+              "quote": "not having foundational documents that outline the strategy for our approach to international development is a good thing. It only adds to the uncertainty and challenges we face."
+            }
+          ]
         },
         {
           "speaker": "Lindy Cameron",
-          "text": "Yes. A guarantee can have little up-front cost, but it leaves a long-term risk for future governments. We have to decide how much risk the department can responsibly carry."
-        },
-        {
-          "speaker": "Nick Dyer",
-          "text": "Accounting officers set limits on the expected risk and on exposure to any one country. Ukraine has pushed us beyond both limits. We chose to take that risk because of the war’s importance, and we’re discussing with the Treasury how best to manage it. Our guarantee capacity is now almost used up."
+          "text": "Ministers have explained their development approach in speeches, even if it isn’t in one document titled ‘development strategy’. But I agree we need to think about the department’s lasting purpose after the merger, and improve planning for our overseas offices.",
+          "evidence": [
+            {
+              "source_turn": 131,
+              "quote": "we are not publishing something entitled “development strategy”, but Ministers have laid out clearly what their approach to development is."
+            },
+            {
+              "source_turn": 137,
+              "quote": "post-merger, there is something about the enduring purpose of the organisation and the way everyone sees themselves in it. That is a live conversation"
+            },
+            {
+              "source_turn": 139,
+              "quote": "Something I take very seriously is that it is important that we run the network of overseas offices for the whole of Government."
+            },
+            {
+              "source_turn": 139,
+              "quote": "We brought in place last year for the first time a new country business plan process."
+            }
+          ]
         },
         {
           "speaker": "Brian Mathew",
-          "text": "The UK is committed to spending 0.3% of national income on aid. Was the department short-changed by about £320 million?"
+          "text": "Can you show whether the government’s commitment to women and girls is changing outcomes? And what information do you collect about people with disabilities?",
+          "evidence": [
+            {
+              "source_turn": 145,
+              "quote": "What data does the FCDO capture on how its projects help women and girls, and is that data enough to effectively hold the Minister to account?"
+            },
+            {
+              "source_turn": 153,
+              "quote": "How would you assess the FCDO’s capturing and use of data on the impact of ODA spending on people with disabilities?"
+            }
+          ]
         },
         {
           "speaker": "Nick Dyer",
-          "text": "I don’t recognise that figure. Aid spending in 2025 was lower than expected because national income was higher than forecast and another department underspent. Whether we meet the target also depends on how the economy performs."
+          "text": "We can track funding and projects aimed at women and girls, including support for mothers. Where possible, we also break down results by gender, disability, age and location. That isn’t a complete picture of every group or every outcome.",
+          "evidence": [
+            {
+              "source_turn": 147,
+              "quote": "we can track that 90% in terms of the funding."
+            },
+            {
+              "source_turn": 147,
+              "quote": "we can track how many mothers are supported and how many lives are saved through that."
+            },
+            {
+              "source_turn": 154,
+              "quote": "where we disaggregate, where possible we focus on four things: gender, disability, age and geography."
+            },
+            {
+              "source_turn": 154,
+              "quote": "That misses quite a lot of other protected characteristics."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Investment, debt and financial risk",
+      "takeaway": "Officials said investment and loan guarantees can bring in money beyond the aid budget, but acknowledged limits on what the department can fund or safely promise.",
+      "turns": [
+        {
+          "speaker": "Tulip Siddiq",
+          "text": "If the UK wants to invest rather than only give grants, why is funding for British International Investment being reduced?",
+          "evidence": [
+            {
+              "source_turn": 178,
+              "quote": "How does the reduced funding for BII fit with the FCDO’s shift from a donor to an investor model?"
+            }
+          ]
         },
         {
-          "speaker": "Tim Jones",
-          "text": "The current budget was agreed for several years, rather than adjusted each year when national income changes. We no longer make a last-minute annual adjustment. We’ll need to discuss the funding needed to meet the target at the next spending review."
+          "speaker": "Nick Dyer",
+          "text": "BII remains part of that approach, but the Treasury has given us much less money of the kind used to add to its investment funds. BII now needs to remain financially sustainable without further large payments from us. The shift toward investment also includes working through the World Bank.",
+          "evidence": [
+            {
+              "source_turn": 179,
+              "quote": "BII is clearly part of our investment offer."
+            },
+            {
+              "source_turn": 179,
+              "quote": "the type of capital that we are given by the Treasury to do things such as invest in BII has come down quite significantly. We are no longer able to capitalise its balance sheet."
+            },
+            {
+              "source_turn": 179,
+              "quote": "The donor to investment model is as much about what we are doing through the likes of the World Bank"
+            },
+            {
+              "source_turn": 179,
+              "quote": "the challenge for BII now is how it ensures financial sustainability without additional funding from the FCDO."
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "BII’s investments are large. How do you make sure its decisions really meet your goals for poorer countries, climate and women, rather than just sound good in presentations?",
+          "evidence": [
+            {
+              "source_turn": 189,
+              "quote": "I think that as the bilateral and multilateral budget is shrinking for FCDO, BII needs to sweat a little bit more for your policies, and it is whether you have the influence and oversight to be able to do that."
+            },
+            {
+              "source_turn": 193,
+              "quote": "are you sure that, for example, their definition of climate is the same as the one that you are working to?"
+            }
+          ]
+        },
+        {
+          "speaker": "Nick Dyer",
+          "text": "We meet BII regularly and have set expectations for its next five years: 25% of new investments in the least developed countries, 45% on climate and 30% benefiting women. I’m fairly sure its definitions match ours, but I’ll check. We shouldn’t have civil servants making its individual business investments.",
+          "evidence": [
+            {
+              "source_turn": 187,
+              "quote": "we have quarterly shareholder meetings with BII and monthly meetings with the CEO and members of the board"
+            },
+            {
+              "source_turn": 192,
+              "quote": "We expect it to spend 25% of its new investments in the least developed countries, 45% on climate and 30% on benefiting women in employment and investors."
+            },
+            {
+              "source_turn": 194,
+              "quote": "I will go away and check with my team, but I am pretty sure that that is the case."
+            },
+            {
+              "source_turn": 190,
+              "quote": "we should leave that to the professionals"
+            }
+          ]
         },
         {
           "speaker": "James Naish",
-          "text": "The department’s budget appears to fall substantially by 2028-29. Can it still run its overseas work and frontline programmes?"
+          "text": "Where does debt relief fit in? What’s different from the big debt-relief effort around 2000?",
+          "evidence": [
+            {
+              "source_turn": 206,
+              "quote": "How is the FCDO planning to retain both expertise and resources in that particular area? And where do debt relief and debt sustainability sit in the FCDO’s overarching objectives?"
+            },
+            {
+              "source_turn": 207,
+              "quote": "If you compare this to HIPC of the Jubilee debt in 2000, I would say that two things are different."
+            }
+          ]
+        },
+        {
+          "speaker": "Nick Dyer",
+          "text": "Many countries now owe more to private lenders and China. For some, the immediate problem isn’t the total debt but costly repayments that leave too little for health and education. We’re examining whether expensive, short-term debts can be replaced with cheaper loans repaid over longer periods. Better records of who owes what are essential.",
+          "evidence": [
+            {
+              "source_turn": 211,
+              "quote": "you now have a lot more private creditors and you have a lot of Chinese debt"
+            },
+            {
+              "source_turn": 211,
+              "quote": "The size of the debt is not a problem, but it is the payment they have got to make on it—the interest rates they are being charged on the debt"
+            },
+            {
+              "source_turn": 211,
+              "quote": "they are basically spending more on debt service than they are on health and education in many cases"
+            },
+            {
+              "source_turn": 211,
+              "quote": "how can you refinance debt that is high-cost and short-maturity into longer-maturity and lower-cost debt?"
+            },
+            {
+              "source_turn": 211,
+              "quote": "You really have to understand that creditor data set."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Rushworth",
+          "text": "Campaigners say some private lenders obstruct debt relief and want UK law changed. Why isn’t the government doing that?",
+          "evidence": [
+            {
+              "source_turn": 215,
+              "quote": "Various groups, including as CAFOD and Christian Aid, have been campaigning for this. Do you know why the Government are resisting their demands?"
+            },
+            {
+              "source_turn": 215,
+              "quote": "a few bad lenders that are not willing to restructure some of that debt multilaterally."
+            }
+          ]
+        },
+        {
+          "speaker": "Nick Dyer",
+          "text": "We hear the campaigners, but in the debt restructurings we’ve observed, private lenders have played their part. If there’s evidence of holdouts, we’re open to it. So far, we haven’t seen a problem that requires legislation.",
+          "evidence": [
+            {
+              "source_turn": 216,
+              "quote": "Our observed experience is that they are. We hear what the NGOs are saying about bringing forward UK legislation to force creditors to play their part, but we have not observed a problem."
+            },
+            {
+              "source_turn": 216,
+              "quote": "If there are, we are happy to be corrected, but we do not actually see a problem that needs to be fixed through legislation."
+            }
+          ]
+        },
+        {
+          "speaker": "James Naish",
+          "text": "What can you tell about the results when the UK gives a financial guarantee for a World Bank loan? And is there a limit to how much risk you’ll take?",
+          "evidence": [
+            {
+              "source_turn": 219,
+              "quote": "What information is the World Bank providing to the FCDO about the impact of loans that are supported by UK financial guarantees?"
+            },
+            {
+              "source_turn": 223,
+              "quote": "Is there a point when we say we are not going to do that any more because we are too exposed?"
+            }
+          ]
+        },
+        {
+          "speaker": "Nick Dyer",
+          "text": "We normally link a guarantee to a known loan and can track what it funds. In Ukraine, for example, guaranteed World Bank lending has paid teachers’ salaries and pensions. We set limits on annual risk and on exposure to any one country, but deliberately exceeded both for Ukraine. That leaves very little room for more guarantees.",
+          "evidence": [
+            {
+              "source_turn": 222,
+              "quote": "we have £3.8 billion of existing guarantees to Ukraine through the World Bank, and we know that we have funded the salaries of 450,000 teachers"
+            },
+            {
+              "source_turn": 222,
+              "quote": "Ditto we provided pensions for 10 million pensioners in Ukraine"
+            },
+            {
+              "source_turn": 227,
+              "quote": "We set a limit on that annual risk"
+            },
+            {
+              "source_turn": 232,
+              "quote": "We have a limit that we attach to the annual exposure, and then there is a concentration risk as well."
+            },
+            {
+              "source_turn": 232,
+              "quote": "Actually, we have broken both those limits because of Ukraine."
+            },
+            {
+              "source_turn": 232,
+              "quote": "our guarantee headroom has pretty much disappeared."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "What the budget allows",
+      "takeaway": "Officials valued a predictable multi-year budget despite deep cuts, and said future aid targets would be addressed at the next spending review.",
+      "turns": [
+        {
+          "speaker": "Monica Harding",
+          "text": "If the Home Office spends less UK aid on supporting refugees here than expected, could that money instead fund aid overseas?",
+          "evidence": [
+            {
+              "source_turn": 172,
+              "quote": "Have you had any discussions with the Treasury about whether that money will be reallocated into ODA spent overseas?"
+            }
+          ]
+        },
+        {
+          "speaker": "Nick Dyer",
+          "text": "We’ve had no indication of an underspend this year. Under the agreement made at the spending review, the Home Office keeps any underspend and must cover any overspend. Our official expectation is that the money wouldn’t come to the FCDO, though ministers could discuss it politically.",
+          "evidence": [
+            {
+              "source_turn": 171,
+              "quote": "No, we have not had an indication that they will underspend this year."
+            },
+            {
+              "source_turn": 173,
+              "quote": "If the Home Office overspends, it has to find the money; if it underspends, it will absorb the money."
+            },
+            {
+              "source_turn": 176,
+              "quote": "That is a political conversation. In terms of the official-level agreement at the SR and our official-level expectations now, that funding would not come to us."
+            }
+          ]
+        },
+        {
+          "speaker": "Brian Mathew",
+          "text": "If UK aid is meant to reach 0.3% of national income, shouldn’t the department press for more money if the figures show it’s falling short?",
+          "evidence": [
+            {
+              "source_turn": 235,
+              "quote": "Given that it is estimated that FCDO has effectively been short-changed to the tune of around £320 million on the 0.3% commitment, what can you do and what will you be doing"
+            },
+            {
+              "source_turn": 241,
+              "quote": "given that the amount is expected to grow, surely you as a Department, and us as your scrutineers, should be keeping an eye on this."
+            }
+          ]
         },
         {
           "speaker": "Tim Jones",
-          "text": "The figures depend partly on transfers between departments and changes made to smooth the budget. For day-to-day running costs, we agreed to stay at the same cash level by the end of the spending review period as at the start. The £290 million transformation fund is intended to help lower the cost of running the department."
+          "text": "Our budget was agreed for several years rather than adjusted whenever national income changes. That gives teams certainty after years of sudden increases and cuts. We expect to discuss how much is needed to meet the target in the next spending review, not adjust the budget each year.",
+          "evidence": [
+            {
+              "source_turn": 238,
+              "quote": "the spending review period we are in was negotiated on the understanding that we would have a very settled, predictable budget that would run for a multi-year period."
+            },
+            {
+              "source_turn": 238,
+              "quote": "it does not get adjusted as we go, tracking GNI movements."
+            },
+            {
+              "source_turn": 238,
+              "quote": "We fully anticipate that this will be a live part of our conversations with the Treasury on the next spending review"
+            }
+          ]
+        },
+        {
+          "speaker": "James Naish",
+          "text": "With spending falling, can you still pay for frontline programmes and the staff needed overseas?",
+          "evidence": [
+            {
+              "source_turn": 253,
+              "quote": "given that fall and trajectory, how confident are you that the frontline programmes, staffing and requirements of the overseas network can still be delivered with that level of reduction to day-to-day spending?"
+            }
+          ]
         },
         {
           "speaker": "Tim Jones",
-          "text": "The agreement also gives us more freedom over how we use that running-cost budget, including whether to hire our own specialists or pay outside contractors."
+          "text": "We agreed to bring the department’s running costs back to the same cash level at the end of this spending review as at the start. The £290 million transformation funding is intended to help lower ongoing costs. We also have more freedom to hire staff rather than outsource some work, if that gives taxpayers better value.",
+          "evidence": [
+            {
+              "source_turn": 257,
+              "quote": "we agreed to be at the same cash level at the end of this spending review period as we were at the start—that is the flat cash—but that the £290 million of transformation funding that I referenced at the start would be our investment to reduce the cost base"
+            },
+            {
+              "source_turn": 257,
+              "quote": "in certain types of development programming, and in things like digital, it is massively to the taxpayers’ benefit to create civil servant roles rather than to outsource it."
+            }
+          ]
         },
         {
           "speaker": "Lindy Cameron",
-          "text": "We may use that flexibility especially to build digital skills in-house. Staff reductions have been painful, but they should give us more choice about whether to invest in people or technology. Predictable budgets also help us plan aid over the long term."
+          "text": "That flexibility matters, especially for digital skills. The restructuring has been painful, but its aim is to lower staff costs enough that we can make real choices in future about investing in people or technology.",
+          "evidence": [
+            {
+              "source_turn": 261,
+              "quote": "The area where we will use it most, if I am honest, is in the digital skills."
+            },
+            {
+              "source_turn": 261,
+              "quote": "the transformation funding allowed us to do restructuring that has been painful, but none the less allowed us to bring down the run rate of our staff costs to a level at which we then have more flexibility to decide whether we are investing in people or technology"
+            }
+          ]
         }
       ]
     }

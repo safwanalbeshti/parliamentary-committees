@@ -2,9 +2,9 @@
   "schema_version": 1,
   "source_id": 18317,
   "source_sha256": "237c025fabdf527440edc55cdd9f893c998621843dbb582545f5a04d8f698b79",
-  "title": "Northern Ireland’s budget crisis and the challenge of rebuilding confidence",
-  "label": "18 November 2026 · Northern Ireland Secretary hearing",
-  "summary": "The committee questioned the Secretary of State and his team about Northern Ireland’s unresolved budget, the risk to public services, and possible changes to political arrangements. They also discussed community tensions after Drumcree, the future of investigations into Troubles-era deaths, policing, energy support and the effects of trade rules. The Secretary of State said the Executive must make difficult spending and revenue decisions, but warned that the UK Government may have to intervene if services are at risk. Members pressed him to act sooner and to ensure that victims, families and businesses receive practical answers.",
+  "title": "Northern Ireland’s budget crisis and the work still waiting",
+  "label": "18 November 2026 · Budget, community relations and the Troubles",
+  "summary": "The committee pressed Northern Ireland Secretary Chris Bryant on the Executive’s failure to agree a budget, the risk to public services and whether he might have to intervene. Witnesses also discussed reform of power-sharing institutions, tensions over parades in Portadown, policing, answers for families affected by the Troubles, and practical problems facing households and businesses. Bryant said he wanted decisions made in Northern Ireland, but could not rule out stepping in if the budget deadlock threatened services.",
   "speakers": [
     {
       "label": "Chair",
@@ -45,396 +45,820 @@
     {
       "label": "Robin Swann",
       "name": "Robin Swann",
-      "role": "Member of Parliament and committee member",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "Simon Hoare",
       "name": "Simon Hoare",
-      "role": "Member of Parliament and committee member",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "Sorcha Eastwood",
       "name": "Sorcha Eastwood",
-      "role": "Member of Parliament and committee member",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "Claire Hanna",
       "name": "Claire Hanna",
-      "role": "Member of Parliament and committee member",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "Sir Alec Shelbrooke",
       "name": "Sir Alec Shelbrooke",
-      "role": "Member of Parliament and committee member",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "Mike Kane",
       "name": "Mike Kane",
-      "role": "Member of Parliament and committee member",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "Mr Kohler",
-      "name": "Mr Kohler",
-      "role": "Member of Parliament and committee member",
+      "name": "Mr Paul Kohler",
+      "role": "Committee member",
       "kind": "member"
     }
   ],
   "glossary": [
     {
       "term": "Executive",
-      "definition": "Northern Ireland’s devolved government, made up of ministers from its political parties."
+      "definition": "Northern Ireland’s power-sharing government, whose ministers must agree how to spend its money."
     },
     {
-      "term": "Barnett consequentials",
-      "definition": "Extra funding for devolved governments when UK Government spending changes elsewhere."
-    },
-    {
-      "term": "Good Friday agreement",
-      "definition": "The 1998 agreement that helped end the Troubles and established Northern Ireland’s current power-sharing arrangements."
+      "term": "devolution",
+      "definition": "The transfer of decisions from the UK Government to Northern Ireland’s elected institutions."
     },
     {
       "term": "Parades Commission",
-      "definition": "The independent body that makes decisions about disputed parades in Northern Ireland."
-    },
-    {
-      "term": "ICRIR",
-      "definition": "The Independent Commission for Reconciliation and Information Recovery, set up to investigate Troubles-related deaths and serious harm."
+      "definition": "The body that makes decisions about public marches in Northern Ireland, including disputed routes."
     },
     {
       "term": "Legacy Commission",
-      "definition": "The proposed body that would replace the ICRIR under the legislation discussed at the hearing."
+      "definition": "The proposed body intended to investigate Troubles-related deaths and provide answers to families."
     },
     {
-      "term": "PEACEPLUS",
-      "definition": "A programme funded by the UK, Irish and European Union governments to support peace and cooperation."
+      "term": "ICRIR",
+      "definition": "The existing Independent Commission for Reconciliation and Information Recovery, which investigates Troubles-related deaths."
+    },
+    {
+      "term": "Troubles Bill",
+      "definition": "Proposed UK legislation changing how deaths and injuries from Northern Ireland’s conflict are investigated."
+    },
+    {
+      "term": "Operation Kenova",
+      "definition": "A police investigation into killings and alleged wrongdoing involving the agent known as Stakeknife."
     },
     {
       "term": "Windsor Framework",
-      "definition": "The agreement setting out how some goods moving between Great Britain and Northern Ireland are checked after Brexit."
+      "definition": "The UK–EU arrangements governing, among other things, how goods move between Great Britain and Northern Ireland."
     },
     {
-      "term": "Stormont brake",
-      "definition": "A process that can allow Northern Ireland politicians to ask for certain new EU rules not to apply there."
+      "term": "Barnett consequentials",
+      "definition": "Extra funding Northern Ireland receives when the UK Government increases comparable spending in England."
     },
     {
-      "term": "PSNI",
-      "definition": "The Police Service of Northern Ireland."
+      "term": "Royal Assent",
+      "definition": "The formal approval that turns a Bill passed by Parliament into law."
     }
   ],
   "chapters": [
     {
-      "title": "The budget impasse",
-      "takeaway": "The Secretary of State said the Executive must live within the funding offered, while warning that a prolonged failure to agree a budget could disrupt services.",
+      "title": "A budget without agreement",
+      "takeaway": "Bryant said the UK’s offer was final, while members pressed him on the growing cost of leaving Northern Ireland without an agreed budget.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "What’s the latest on budget talks with the parties in the Executive?"
+          "text": "Where have the budget talks with the parties in Northern Ireland’s Executive got to?",
+          "evidence": [
+            {
+              "source_turn": 1,
+              "quote": "Secretary of State, what is the latest update on the budget discussions with parties in the Executive?"
+            }
+          ]
         },
         {
           "speaker": "Chris Bryant",
-          "text": "There’s been no progress. Parties keep asking for more money, but our offer is final. The Executive is legally responsible for setting its budget, and it has to make the sums add up."
+          "text": "They’re stuck. Parties keep asking for more money, but there isn’t any more: our offer is final. The Executive, not I, has the legal responsibility to set its budget. That deadlock is also keeping us from work we want to do on issues such as violence against women and community tensions.",
+          "evidence": [
+            {
+              "source_turn": 2,
+              "quote": "Stasis. We have asked for information from them. My basic point is that in every meeting I have, people keep telling me they want more money, they want more money, they want more money, and I cannot say it in a clearer way than that there is no more money. We have made a full and final offer. That is all there is."
+            },
+            {
+              "source_turn": 2,
+              "quote": "It breaks our hearts when there are things that we would desperately love to get engaged in, such as the issues around violence against women and girls, community tensions issues, or—something I have been devoted to for a long time—tackling brain injury and problems relating to that, but I cannot get past this first stage of getting a budget sorted. In the end, the only people who have the legal responsibility for setting a budget are the Northern Ireland Executive."
+            }
+          ]
         },
         {
           "speaker": "Chris Bryant",
-          "text": "Our offer includes an extra £500 million a year for three years, on top of other funding. That would bring Northern Ireland’s spending per person to about 126% of England’s, above the 124% level used as a fair-funding guide."
+          "text": "The amount being requested changes; one recent figure was £1.5 billion for this year. Our offer is £500 million a year for three years, on top of other funding that follows UK spending decisions. I believe that would give Northern Ireland fair funding. Ministers there still have to make difficult choices, including about raising money locally.",
+          "evidence": [
+            {
+              "source_turn": 4,
+              "quote": "Oh, it changes every week. One version is another £1 billion. I think the latest version from John O’Dowd on Monday was £1.5 billion this year."
+            },
+            {
+              "source_turn": 4,
+              "quote": "If the Northern Ireland Executive accept our offer of £500 million a year for this year, next year and the year after—plus the consequentials that come from Barnett—they will be at 126%."
+            },
+            {
+              "source_turn": 4,
+              "quote": "The point is that Northern Ireland is getting fair funding."
+            },
+            {
+              "source_turn": 6,
+              "quote": "What they needed to do was take some possibly unpalatable and difficult decisions around revenue raising."
+            }
+          ]
         },
         {
           "speaker": "Chris Bryant",
-          "text": "The parties’ requests keep changing; one recent figure was £1.5 billion for this year. They also need to consider raising revenue. For example, household rates and water charges are much lower in Northern Ireland than in several English and Scottish areas."
+          "text": "The Executive says it needs money for public-sector pay, including health workers. I want those workers paid, but a pay award this year was predictable. Water is another example: if Northern Ireland needs better pipes and treatment facilities to build homes, its ministers must decide how to pay for them.",
+          "evidence": [
+            {
+              "source_turn": 6,
+              "quote": "One of the things that they say they want money for is Northern Ireland pay awards for the whole of the civil service, and in particular for “Agenda for Change”, which of course includes the whole of the NHS. They have not made their pay award for 2026-27."
+            },
+            {
+              "source_turn": 6,
+              "quote": "they knew they were going to have to make a pay award in this financial year, so that is not unpredictable expenditure—it is very predictable expenditure."
+            },
+            {
+              "source_turn": 10,
+              "quote": "if people complain, for instance, “We can’t build enough homes in Northern Ireland for people who need them because there is not proper water infrastructure,” someone is going to have to go, “How are we going to make sure we’ve got proper water infrastructure?”"
+            }
+          ]
         },
         {
           "speaker": "Robin Swann",
-          "text": "The frustration is shared here. Health workers still haven’t received their pay award, and doctors are preparing to strike. But the ministers responsible can’t approve the award without an agreed budget."
-        },
-        {
-          "speaker": "Robin Swann",
-          "text": "Previous Secretaries of State have stepped in when the Executive couldn’t set a budget. If this deadlock continues, when will you do that?"
+          "text": "The deadlock frustrates Northern Ireland parties too. Health workers still don’t have a pay award, doctors are about to strike, and the minister responsible cannot settle it without Executive approval. If the parties cannot agree, when will you set a budget yourself?",
+          "evidence": [
+            {
+              "source_turn": 17,
+              "quote": "the frustration that is coming from the impasse that has been created by the two larger parties, where we are not getting papers coming through the Executive."
+            },
+            {
+              "source_turn": 17,
+              "quote": "We have doctors in Northern Ireland going on strike on Friday and on Monday. Our health service workers’ unions are now balloting again for industrial action, because they have not received their pay parity agenda—well, that pay award. That is because there is no agreed budget, and my party colleague Robbie Butler does not have the legislative responsibility or ability to give that without Executive sign-off."
+            },
+            {
+              "source_turn": 17,
+              "quote": "If the current impasse between the political parties cannot be resolved, will you bring forward a budget?"
+            }
+          ]
         },
         {
           "speaker": "Chris Bryant",
-          "text": "I don’t have a plan to impose a budget today, and it would be unusual for the UK Government to do so. But I won’t avoid my responsibilities if there’s no other choice."
+          "text": "I don’t plan to impose one now, but I won’t avoid that responsibility if it becomes necessary. The Executive’s legal permission to spend against last year’s budget may run out soon; we’re asking its departments for the figures. If spending authority runs out at the end of January, schools and hospitals should stay open, but other planned work could stop.",
+          "evidence": [
+            {
+              "source_turn": 18,
+              "quote": "That lawful expenditure will run out fairly soon. It is difficult to be precisely clear on when that will be. I think the Northern Ireland Executive and the Department of Finance would have a clearer idea of that, which is why we have been asking for all that information."
+            },
+            {
+              "source_turn": 18,
+              "quote": "If we get to the end of January and there is no more lawful expenditure, I am sure that schools and hospitals would stay open, but a lot of elective and other work would simply not be able to proceed"
+            },
+            {
+              "source_turn": 18,
+              "quote": "I do not have a plan at the moment to introduce a budget, but I am not shy of my responsibilities if that is something that I end up having to do."
+            }
+          ]
         },
         {
           "speaker": "Chris Bryant",
-          "text": "The Executive can currently spend up to 95% of last year’s budget while waiting for a new one. That lawful spending could run out around the end of January. Schools and hospitals would probably stay open, but other work could be stopped or delayed."
-        },
-        {
-          "speaker": "Chris Bryant",
-          "text": "If there’s no budget before the financial year ends, they can’t spend next year, even money they raise themselves. Departments and community organisations have no certainty about next year’s funding."
+          "text": "This is about results as well as money. Northern Ireland spends more per person than elsewhere in the UK, yet its health and court waiting times are much worse than the comparisons I have seen. Without a budget before the financial year ends, the Executive cannot spend anything next year, even money it raises itself.",
+          "evidence": [
+            {
+              "source_turn": 18,
+              "quote": "we spend more in Northern Ireland per head of population than anywhere else in the United Kingdom, yet on health waiting lists, 53.7% are waiting for more than a year, whereas it is only 2% in England. In the justice system, 81% of major cases are waiting for more than a year, compared with 27% in England and Wales."
+            },
+            {
+              "source_turn": 18,
+              "quote": "Just spending money is not an achievement—getting outcomes for it is."
+            },
+            {
+              "source_turn": 22,
+              "quote": "If there is no budget in place before the end of this financial year, they literally cannot spend anything next year—including their own receipts—so there has to be a budget in place."
+            }
+          ]
         },
         {
           "speaker": "Sarah Owen",
-          "text": "Businesses tell me they couldn’t go months without setting a budget or making difficult choices. The uncertainty puts off investment and affects the whole economy, not just public services."
+          "text": "Businesses I’ve visited cannot understand how a government can go eight months without a budget. They’ve found ways to carry on, but uncertainty makes it harder to attract investment. This affects more than public services.",
+          "evidence": [
+            {
+              "source_turn": 23,
+              "quote": "I have done 18 visits to the business community since being in post, and every single one of them cannot fathom it, because they would not get away with not setting a budget for eight months or taking the difficult decisions"
+            },
+            {
+              "source_turn": 23,
+              "quote": "They have got used to—in their words—getting on with it without them, or finding workarounds."
+            },
+            {
+              "source_turn": 23,
+              "quote": "There is nothing that kills off growth faster than instability, which is why I think that it is not just the public sector or the third sector, but business and the future of Northern Ireland’s economy that is at stake here."
+            }
+          ]
         },
         {
           "speaker": "Simon Hoare",
-          "text": "You’ve described the harm clearly. What exactly would make you say, ‘Now I have to set a budget’? Is there a date or a specific event?"
+          "text": "Community groups are suffering too. We heard of relatively small grants that could keep young people out of costly detention. Given the election ahead and the risk of further division, what exactly would trigger you to impose a budget?",
+          "evidence": [
+            {
+              "source_turn": 27,
+              "quote": "They are often looking for grants of £130,000 or £180,000 to keep youngsters out of young offenders institutions, which would cost hundreds of thousands of pounds a year per capita."
+            },
+            {
+              "source_turn": 27,
+              "quote": "What will be the trigger? Is it a date? Is it a fact? Is it a circumstance that says to you, “Right. Pen and pencil out. Here’s the budget. I’m imposing it. Crack on and deliver it”?"
+            }
+          ]
         },
         {
           "speaker": "Chris Bryant",
-          "text": "We’re close to a point where we may have no choice. But most of the financial information is held by the Executive, and we’ve only just received more of the figures we requested."
+          "text": "I can’t give you a trigger yet. Taking over would be unprecedented while the Executive is in place, and its parties have told me not to. But we’re getting financial information from its departments, and we’re close to a point where protecting people in Northern Ireland may leave us no choice.",
+          "evidence": [
+            {
+              "source_turn": 28,
+              "quote": "Most of the information sits with the Northern Ireland Executive, not with us. We have now asked for all that information, which they are required to provide under section 67 of the Northern Ireland Act. That is all coming in now from each of the different Departments."
+            },
+            {
+              "source_turn": 28,
+              "quote": "It is unprecedented for the Westminster Government to set a budget over the heads of the Executive. Thus far, they have told me that they do not want me to do so"
+            },
+            {
+              "source_turn": 30,
+              "quote": "we are very close to a moment where we have absolutely no choice, in the interests of the people of Northern Ireland."
+            }
+          ]
         },
         {
           "speaker": "Sorcha Eastwood",
-          "text": "Is the additional money conditional on the Executive raising revenue?"
+          "text": "Would your three-year offer require the Executive to raise some money itself? And it cannot simply agree a budget that it knows won’t balance, can it?",
+          "evidence": [
+            {
+              "source_turn": 31,
+              "quote": "Is there conditionality around the £1.5 billion package, should it be agreed and offered at the moment? Is there some sort of figure around that in terms of revenue raising that you would be expecting"
+            },
+            {
+              "source_turn": 33,
+              "quote": "My understanding was that the Treasury itself said that that was not legal, in so far as they do not have the vires to sign off on that."
+            }
+          ]
         },
         {
           "speaker": "Chris Bryant",
-          "text": "Yes. The offer expects it to raise £100 million next year and £200 million the year after. Those are small sums compared with the overall budget. The aim is to put the finances on a stable footing over three years."
-        },
-        {
-          "speaker": "Sorcha Eastwood",
-          "text": "Would an interim budget that runs into the election period be lawful if it doesn’t balance?"
-        },
-        {
-          "speaker": "Chris Bryant",
-          "text": "The budget has to balance. Pay awards were predictable, so the Executive should have planned for them rather than discovering late in the year that it couldn’t afford them."
-        },
+          "text": "Yes. The offer expects the Executive to raise £100 million next year and £200 million the year after. It must agree a balanced budget; writing down figures that don’t add up would solve nothing. Only Northern Ireland’s ministers can raise that money under the current arrangements.",
+          "evidence": [
+            {
+              "source_turn": 32,
+              "quote": "Some of the conditionality around revenue raising is £100 million to be raised next year and £200 million the year after."
+            },
+            {
+              "source_turn": 32,
+              "quote": "Let’s say for the sake of argument that they set a budget and know that it does not balance—well, that’s no use"
+            },
+            {
+              "source_turn": 34,
+              "quote": "They have to settle a balanced budget."
+            },
+            {
+              "source_turn": 36,
+              "quote": "I do not have the power to do that revenue raising in Northern Ireland; the only people who do are Ministers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Could the institutions change?",
+      "takeaway": "Bryant favoured local decision-making but said the budget crisis had made changes to financial responsibility and power-sharing more urgent.",
+      "turns": [
         {
           "speaker": "Claire Hanna",
-          "text": "Are you still considering urgent changes before the election to make it harder to stop the Assembly working or bring down the Executive?"
+          "text": "You’ve talked about changing the rules before May’s election so the Assembly is harder to stop. Is that still the plan, and what changes matter most now?",
+          "evidence": [
+            {
+              "source_turn": 37,
+              "quote": "Are you still planning to do that before May, so that we have the comfort of a return of the Assembly after May? How will you be initiating that, and what do you see as the priorities for reform?"
+            }
+          ]
         },
         {
           "speaker": "Chris Bryant",
-          "text": "Yes, but we haven’t settled what those changes should be. The immediate priority is financial accountability. I don’t want to take powers away from the Executive, but we may have to decide what happens if services are put at risk."
+          "text": "I’m still considering changes before the election to make it harder to prevent the Assembly from meeting or for one party to bring down the Executive. But the immediate priority is making ministers answerable for setting a workable budget, this year and beyond. We haven’t decided on a package.",
+          "evidence": [
+            {
+              "source_turn": 38,
+              "quote": "I have certainly been interested in doing what others have referred to as keyhole surgery before the elections next year, to make it more difficult to prevent the Assembly from sitting and doing its work—and, for that matter, to make it more difficult for one party to bring down the Executive."
+            },
+            {
+              "source_turn": 38,
+              "quote": "We have not made a final decision on where we are going on this. What is the big priority for us at the moment? Top of my list is fiscal accountability and making sure we can put Northern Ireland’s finances on an even keel, not just in this year, but in next year and the year after."
+            }
+          ]
+        },
+        {
+          "speaker": "Chris Bryant",
+          "text": "We’re also considering whether the Assembly should choose its Speaker by a different voting rule, and what happens if a party refuses to nominate ministers. I have no finished plan to present today. Taking substantial powers away from Northern Ireland would need serious thought: I want devolution to work.",
+          "evidence": [
+            {
+              "source_turn": 46,
+              "quote": "I have talked publicly about how we may need to reform the election of the Speaker. That is the kind of thing that I have talked with party leaders about. There is another question about what we should do if a party does not nominate for posts. Should it pass to the second party within the designation? Should the election of the Speaker require cross-party consent, or should it be by a majority or enhanced majority vote? Those are all things that we are actively considering, but I am afraid that I do not have a plan to lay before you today."
+            },
+            {
+              "source_turn": 44,
+              "quote": "I believe in devolution. I want devolution to work. Power sharing is difficult."
+            }
+          ]
+        },
+        {
+          "speaker": "Sir Alec Shelbrooke",
+          "text": "Could explaining the consequences of having no budget build public support for you to act, if action becomes necessary?",
+          "evidence": [
+            {
+              "source_turn": 51,
+              "quote": "could those political parties start to think that there is a new game of chicken coming with the electorate, rather than just the game of chicken between you and the two parties?"
+            },
+            {
+              "source_turn": 53,
+              "quote": "The point I was driving at, though, is about empowering you through public opinion to make those decisions."
+            }
+          ]
+        },
+        {
+          "speaker": "Chris Bryant",
+          "text": "People I meet already feel let down by politicians, and I count myself among them. But public anger doesn’t make taking over Northern Ireland’s powers a small step. I don’t want to do it; if we have to, we have to.",
+          "evidence": [
+            {
+              "source_turn": 54,
+              "quote": "I think pretty much everybody says that they are way ahead of the politicians in Northern Ireland and feel let down by them. I include myself in those politicians; we are all part of the system, so we need to make it work."
+            },
+            {
+              "source_turn": 61,
+              "quote": "That is also true of taking powers to the Secretary of State. I do not really want to do it because I believe in devolution, but if we have to then we have to."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Political reform and community relations",
-      "takeaway": "Members called for changes to prevent political stand-offs, while ministers said trust after Drumcree will take sustained work and a fair review of parade decisions.",
+      "title": "Portadown and trust between communities",
+      "takeaway": "Ministers said a disputed parade was resolved peacefully, but rebuilding confidence in the decisions about future marches will take longer.",
       "turns": [
         {
           "speaker": "Sir Alec Shelbrooke",
-          "text": "Could public pressure help you act? People may support intervention if they understand what will happen when there’s no budget."
+          "text": "After the dispute over the Orange Order parade at Drumcree, what are you doing to repair relations in Portadown and elsewhere?",
+          "evidence": [
+            {
+              "source_turn": 66,
+              "quote": "What steps are you and your Department taking to help to repair community relations in Portadown and more widely across Northern Ireland after the events of Drumcree?"
+            }
+          ]
         },
         {
           "speaker": "Chris Bryant",
-          "text": "People I meet feel let down by politicians, but public opinion is hard to measure. I believe in devolution and don’t want to take powers away, though I would if that became necessary."
-        },
-        {
-          "speaker": "Chris Bryant",
-          "text": "I’m also frustrated by Northern Ireland’s missed opportunities. It has strong businesses, creative industries and expertise in areas such as cyber-security and defence. Its access to both the UK and EU markets could be an advantage."
-        },
-        {
-          "speaker": "Chair",
-          "text": "What are you doing to repair community relations in Portadown after the events around Drumcree?"
-        },
-        {
-          "speaker": "Chris Bryant",
-          "text": "We brought the parties together and came close to an agreement, but it fell apart. The important thing is that people turned to the courts rather than violence. Most of Northern Ireland’s roughly 4,000 annual parades take place without dispute."
-        },
-        {
-          "speaker": "Chris Bryant",
-          "text": "We asked Justice O’Hara to review the Parades Commission, and expect his report shortly. We’ll appoint new commissioners soon. I wanted some time to pass before starting wider talks about community relations."
+          "text": "We brought people together and came very close to an agreement. What matters is that they went to lawyers, not violence. Most of Northern Ireland’s roughly 4,000 annual parades pass without dispute, but the Parades Commission needs to examine how it works. Justice O’Hara’s review is due soon.",
+          "evidence": [
+            {
+              "source_turn": 67,
+              "quote": "We gathered people in Hillsborough. We were so close to an agreement between the two parties"
+            },
+            {
+              "source_turn": 67,
+              "quote": "people turned to their lawyers rather than to their arsenals. That is really important."
+            },
+            {
+              "source_turn": 67,
+              "quote": "There are something like 4,000 parades a year. The vast majority, 95% of them, are carried out without any kind of contention."
+            },
+            {
+              "source_turn": 67,
+              "quote": "The Parades Commission needed to look carefully at itself. Justice O’Hara has been doing a piece of work for us."
+            }
+          ]
         },
         {
           "speaker": "Baroness Anderson",
-          "text": "The hurt was real across communities, and the peace process remains fragile. Some people have lived separately from other parts of their town for decades. Rebuilding trust will take time and must respect different experiences and identities."
-        },
-        {
-          "speaker": "Baroness Anderson",
-          "text": "We need to make sure people on both sides have confidence in the Parades Commission. Some local agreements, such as those around parades in Derry/Londonderry, show that culture can be celebrated without making others feel threatened."
+          "text": "The hurt on both sides was real. For some people, this dispute reopened experiences stretching back decades. Repairing that won’t happen overnight, and both communities need to trust the Parades Commission. O’Hara’s review should help us decide what changes are needed.",
+          "evidence": [
+            {
+              "source_turn": 68,
+              "quote": "The hurt across the piece was real and tangible."
+            },
+            {
+              "source_turn": 68,
+              "quote": "We are talking of decades that most people thought the door had been closed on, but that door had not been closed. The consequences of what we are talking about are not going to be fixed tomorrow either."
+            },
+            {
+              "source_turn": 68,
+              "quote": "How do we make sure that people from both sides of the community have genuine faith and confidence in the Parades Commission to move forward?"
+            },
+            {
+              "source_turn": 68,
+              "quote": "There is Justice O’Hara’s report that will be published in Parliament when we have it."
+            }
+          ]
         },
         {
           "speaker": "Sir Alec Shelbrooke",
-          "text": "Why did you prohibit the Orange Order parade on 9 October? And how do you stop people concluding that whoever makes the biggest fuss gets their way next year?"
+          "text": "Why did you eventually stop the parade? I worry that next year people may conclude that whoever makes the most noise gets their way.",
+          "evidence": [
+            {
+              "source_turn": 69,
+              "quote": "What was the turning point where you made the order on 9 October that prohibited the Orange Order parade from going ahead?"
+            },
+            {
+              "source_turn": 69,
+              "quote": "the problem could be next year, where the lesson learned is that whoever shouts the loudest or creates the biggest fuss will ultimately win out."
+            }
+          ]
         },
         {
           "speaker": "Chris Bryant",
-          "text": "We first tried to reach a negotiated settlement and waited as long as we could before using powers that had never been used before. The Chief Constable asked me to act, but I used a different legal power. The decision was upheld through the courts."
-        },
-        {
-          "speaker": "Baroness Anderson",
-          "text": "The review should help clarify what the Commission is expected to do. We’ll use it as we appoint new members, while trying to preserve the confidence people already have and build confidence where it’s lacking."
-        },
-        {
-          "speaker": "Chris Bryant",
-          "text": "The goal should be respect, not simply putting up with other communities. We won’t always get everyone to agree, but we should seek the widest possible agreement."
+          "text": "I wanted negotiations to run their course before using powers that had never been used. When the proposed agreement fell apart, the Chief Constable asked me to act. I upheld the view that the original decision on the parade was right, but judged that the march could no longer go ahead.",
+          "evidence": [
+            {
+              "source_turn": 70,
+              "quote": "Our preference was very much to get to a negotiated settlement if possible."
+            },
+            {
+              "source_turn": 70,
+              "quote": "But anyway, it fell apart. I wanted to let the negotiation play itself out as much as possible before using powers that had never been used before."
+            },
+            {
+              "source_turn": 70,
+              "quote": "the Chief Constable wrote to me under section 9 and asked me to use section 9. I decided not to use section 9 powers, but to use section 11. I was effectively saying the original determination, which had also already been judicially reviewed, was right, but notwithstanding that, it was now impossible for that to be exercised and therefore I was banning it under section 11."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Investigations, victims and reconciliation",
-      "takeaway": "The ministers said the new legacy body must give families meaningful answers, while members challenged delays, funding and whether reconciliation is being clearly defined.",
+      "title": "Answers for families affected by the Troubles",
+      "takeaway": "Members challenged ministers on delayed answers and cooperation with Ireland; ministers said the new investigation system must earn families’ trust without promising more than it can deliver.",
       "turns": [
         {
           "speaker": "Mike Kane",
-          "text": "What’s stopping you from naming Freddie Scappaticci as Stakeknife, the British agent within the IRA?"
+          "text": "What stops you publicly naming Freddie Scappaticci as the agent known as Stakeknife? Families still want answers.",
+          "evidence": [
+            {
+              "source_turn": 77,
+              "quote": "what prevents the Secretary of State from naming Freddie Scappaticci as the operative Stakeknife?"
+            },
+            {
+              "source_turn": 83,
+              "quote": "“never confirm nor deny” does not give any solution to those families who grieve his crimes."
+            }
+          ]
         },
         {
           "speaker": "Chris Bryant",
-          "text": "I haven’t progressed the question yet. I need to meet Sir Iain Livingstone and speak with others in Government. A civil case is still under way, and the Government has long followed a policy of neither confirming nor denying intelligence identities."
-        },
-        {
-          "speaker": "Mike Kane",
-          "text": "Families are still grieving and need answers. Will you return to Parliament once you’ve reached a decision?"
-        },
-        {
-          "speaker": "Chris Bryant",
-          "text": "Yes. Once I’ve reached a settled position, I’ll explain it to the House."
+          "text": "I haven’t progressed this yet. There’s still a civil case, and the government’s long-standing practice of neither confirming nor denying an agent’s identity is part of its national security arrangements. I know families are grieving. I want to meet Sir Iain Livingstone of Operation Kenova and speak to colleagues before deciding; then I’ll make my position clear.",
+          "evidence": [
+            {
+              "source_turn": 80,
+              "quote": "I have not been able to progress this at all."
+            },
+            {
+              "source_turn": 82,
+              "quote": "There is one element that is still not concluded, which is of course the civil litigation."
+            },
+            {
+              "source_turn": 84,
+              "quote": "“Never confirm and never deny” has been around for a long time, as you know. It is a pretty solid part of our national security infrastructure, so breaching that is obviously a serious matter."
+            },
+            {
+              "source_turn": 84,
+              "quote": "I am very conscious that there are families who are still very angry, upset and grieving. It is one of the things that I want to turn my attention to as soon as I possibly can. I want to see Sir Iain Livingstone first, and I have to have conversations with others in Government."
+            },
+            {
+              "source_turn": 88,
+              "quote": "If we stick with our original, historical position, I will make that clear as well."
+            }
+          ]
         },
         {
           "speaker": "Simon Hoare",
-          "text": "Victims and survivors have been frustrated by the tone of debate on the Troubles Bill. How will you make sure they stay at its centre?"
+          "text": "Victims and survivors have told us they’re troubled by the tone of debate on the Troubles Bill. How will you make sure the new system puts them at its centre?",
+          "evidence": [
+            {
+              "source_turn": 108,
+              "quote": "we have heard frustrations from victims and survivors about both the tone and direction of debate around the Troubles Bill. What thought, if any—there has been a lot in the intro—have you given thus far to a detailed strategy for rebuilding confidence in the legislation and ensuring that both victims and survivors remain at the centre of the process"
+            }
+          ]
         },
         {
           "speaker": "Chris Bryant",
-          "text": "The debate has focused heavily on veterans’ concerns, which I understand, but this legislation is primarily about families getting answers. The new Legacy Commission must be able to do that job."
+          "text": "The debate has focused perhaps too much on veterans’ concerns, though I understand them. Many people seeking answers are veterans’ families too. The main purpose is to give families answers through the body that will become the Legacy Commission.",
+          "evidence": [
+            {
+              "source_turn": 109,
+              "quote": "It has ended up focusing, perhaps too much, on veterans’ concerns, and I understand the veterans’ concerns."
+            },
+            {
+              "source_turn": 109,
+              "quote": "many of the people seeking answers are actually the families of veterans."
+            },
+            {
+              "source_turn": 109,
+              "quote": "this is primarily about families."
+            },
+            {
+              "source_turn": 109,
+              "quote": "the organisation set up under the Legacy Act, which will become the Legacy Commission, is able to do the job of work it has to do, which is getting answers for people."
+            }
+          ]
         },
         {
           "speaker": "Baroness Anderson",
-          "text": "The bill is due to have its next major debate in the House of Lords on 2 December. I’ve promised victims’ groups that I’ll refer to victims in every speech I make."
-        },
-        {
-          "speaker": "Chris Bryant",
-          "text": "I want the Irish Government’s legislation to move in step with ours, so the two systems can work together. I also think it should drop its legal case against the UK, because I can’t see a reason for continuing it."
-        },
-        {
-          "speaker": "Chris Bryant",
-          "text": "The UK inquiry into the Omagh bombing is independent, and it must reach its own conclusions. I think it’s very likely that the Republic of Ireland will eventually need its own inquiry too, though it has said not yet."
-        },
-        {
-          "speaker": "Baroness Anderson",
-          "text": "The new commission is meant to begin work within four months of the bill becoming law. We’re working to ensure it’s ready. Most recommendations from the Peter May review have been dealt with, and the bill includes changes to improve its oversight and culture."
+          "text": "The Bill’s next debate in the House of Lords is on 2 December. Families have told me they feel missed in the debate, and I’ve promised to mention victims whenever I speak on it. Once it becomes law, the new arrangements are meant to start within four months; we’re working to get the commission ready.",
+          "evidence": [
+            {
+              "source_turn": 112,
+              "quote": "Second Reading will be on 2 December in the House of Lords"
+            },
+            {
+              "source_turn": 112,
+              "quote": "the genuine hurt that people are in, thinking they have been missed from the debate"
+            },
+            {
+              "source_turn": 112,
+              "quote": "I will reference victims in every speech I make."
+            },
+            {
+              "source_turn": 128,
+              "quote": "The legislation is clear that we have four months to start after Royal Assent."
+            },
+            {
+              "source_turn": 130,
+              "quote": "Every goal we are undertaking now is to make sure that they are ready, not least because people genuinely need to have confidence in the new commission."
+            }
+          ]
         },
         {
           "speaker": "Simon Hoare",
-          "text": "The commission has requested £628 million over ten years. Will it have enough funding to begin properly?"
+          "text": "Families need timely answers. The ICRIR says reports have waited about two months for national security checks, and it has struggled to get information from the Republic of Ireland. What will change?",
+          "evidence": [
+            {
+              "source_turn": 139,
+              "quote": "completed reports have spent around two months in your Department awaiting national security clearance."
+            },
+            {
+              "source_turn": 151,
+              "quote": "The commission has told us it continues to face difficulties in obtaining information from the Republic."
+            }
+          ]
+        },
+        {
+          "speaker": "Julie Harrison",
+          "text": "Security checks involve the police and others. The department and commission have had different views about the order in which steps should happen, and the commission is learning the process. We’ll do what we can to speed it up. We’re also discussing how families experience an investigation, including whether they can speak more directly to investigators.",
+          "evidence": [
+            {
+              "source_turn": 140,
+              "quote": "There is a process that needs to be followed, including with the police service and others, to do the security checking. We probably have a slightly different view on what needed to happen in what order. We will do everything we can as quickly as we can, working with the other people who need to do the security checking. The commission is also learning how to do this process."
+            },
+            {
+              "source_turn": 148,
+              "quote": "There are very active conversations going on with the interim chief executive and with Sir Declan and the team on the way the families experience the process at the moment and the way that needs to look. That includes conversations, for example, on the role of the kind of trauma team as opposed to the families just wanting to talk directly to the investigator and hear from the investigator"
+            }
+          ]
         },
         {
           "speaker": "Chris Bryant",
-          "text": "We’re making the case to the Treasury. We’re also working with the commission on ways to save money without making it harder to give families answers."
-        },
-        {
-          "speaker": "Julie Harrison",
-          "text": "Reports need security checks, which involve the police and others. We may disagree about the order of the steps, but we’ll work to complete them as quickly as we can."
-        },
-        {
-          "speaker": "Julie Harrison",
-          "text": "We’re also talking with the commission about how families experience investigations. Some want to speak directly with investigators rather than feel that support staff are standing between them and the person handling their case."
+          "text": "Getting information from Ireland is essential. The ICRIR hasn’t received what it wants, and I’ve raised that with the Irish Government. Ireland needs changes to its own law; I’m confident cooperation will improve when both countries have completed their legislation, but families need those answers.",
+          "evidence": [
+            {
+              "source_turn": 152,
+              "quote": "it is absolutely essential to this whole thing, because there is no point in the framework that we agreed with the Republic unless it delivers answers for families."
+            },
+            {
+              "source_turn": 152,
+              "quote": "Once their legislation is in place, then I think the quality of co-operation will be significantly improved"
+            },
+            {
+              "source_turn": 158,
+              "quote": "ICRIR has not got the information that it wants, and I want it to get that. I have made these points to the Irish Government, and I will be making them again. Some of it is because of the constitutional situation in the Republic. They need to change their laws."
+            }
+          ]
         },
         {
           "speaker": "Robin Swann",
-          "text": "The Irish authorities still haven’t provided the information the commission needs. Can you point to information they’ve shared without being forced through legal action?"
+          "text": "I’m less confident. I heard the Irish leader’s comments about a separate inquiry into the Omagh bombing as a ‘no’, not a ‘yes, but later’. What information has Ireland actually shared with the ICRIR without being forced by a court?",
+          "evidence": [
+            {
+              "source_turn": 155,
+              "quote": "some of us are not, because we have no belief that the Irish will ever commence an inquiry into their involvement in Omagh and what happened on the other side of the border. Somebody said that it was a “Yes, but—\"; I heard a “No.”"
+            },
+            {
+              "source_turn": 155,
+              "quote": "can you point to any information sharing provided by the Irish Government, on any of the inquiries or the work of ICRIR, that has not been brought about by a legal court case"
+            }
+          ]
         },
         {
           "speaker": "Chris Bryant",
-          "text": "The commission hasn’t received all the information it wants, and I’ve raised that with the Irish Government. Their laws need to change, and I hope cooperation will improve as both countries pass their legislation."
+          "text": "I don’t share your reading of cooperation with the UK’s Omagh inquiry; the inquiry itself should say if it has a complaint. For the ICRIR, the Irish contact point has provided little information so far. That must improve. I also think it’s inconceivable, in the end, that Ireland won’t hold its own Omagh inquiry, though that’s my judgment, not a decision for me to make.",
+          "evidence": [
+            {
+              "source_turn": 156,
+              "quote": "Some versions in the complaints I have heard have been somewhat distant from the facts. It is for the inquiry to say if it has complaints about co-operation, but that is not my reading at the moment."
+            },
+            {
+              "source_turn": 156,
+              "quote": "it has effectively just got a telephone number and an office, which does not provide a great deal of information at the moment—Sir Declan laid that out for you. That needs to improve"
+            },
+            {
+              "source_turn": 116,
+              "quote": "it is not for me to write the inquiry’s conclusions—I would have thought that it is inconceivable that the Republic will not want to do an inquiry of its own."
+            }
+          ]
         },
         {
           "speaker": "Mr Kohler",
-          "text": "Some families value answers even without prosecutions. Could the bill put more emphasis on restorative justice and define how progress on reconciliation will be measured?"
+          "text": "Beyond investigations, what does reconciliation mean in practice? Groups have asked how we would define it and know whether we’re making progress. Could the Bill do more?",
+          "evidence": [
+            {
+              "source_turn": 164,
+              "quote": "how can we really have reconciliation unless we define what it is and know how we are going to measure it? There is nothing in the Bill to take us there. Is there any way in which we are going to define reconciliation and measure how far we achieve it?"
+            }
+          ]
         },
         {
           "speaker": "Baroness Anderson",
-          "text": "You can’t legislate a single definition of reconciliation that every community will accept. Families want different things: some want responsibility acknowledged, some want answers, and some want prosecutions. The process has to respond to those differences."
+          "text": "I think that goes beyond what a Bill can achieve. Different communities may mean different things by reconciliation. The families I’ve met have chiefly asked how investigations will work, how they’ll be involved and how their histories will be understood—not for a definition. We must listen to those different needs.",
+          "evidence": [
+            {
+              "source_turn": 165,
+              "quote": "I think this is beyond the Bill. You cannot legislate for some of these issues, candidly."
+            },
+            {
+              "source_turn": 167,
+              "quote": "even definitions in Northern Ireland mean different things to different communities."
+            },
+            {
+              "source_turn": 171,
+              "quote": "A definition has not been in their top five, 10 or 20. They are asking me a whole host of other things, including how the Bill is going to work, how they are going to engage, what history looks like for everybody and how we come together."
+            }
+          ]
         },
         {
           "speaker": "Chris Bryant",
-          "text": "The commission itself can help people get answers, but we shouldn’t promise that it will resolve every case or bring families face to face with those responsible. We can seek broad agreement, but not unanimity."
+          "text": "We should also be honest about the limits. Some families may get fuller answers than others; some won’t be able to meet the person responsible. I don’t want to promise that the Legacy Commission can provide a meeting, a prosecution or every answer someone hopes for.",
+          "evidence": [
+            {
+              "source_turn": 181,
+              "quote": "We should not over-promise what it will be able to deliver. In some cases, people will not be able to meet the person. They are not going to sit down in a room in a conciliation session with the person who killed their father, uncle, husband or son. Some people will not get answers that are as full as they would want. I am very keen that we do not over-promise on the back of this."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Policing and the legacy of violence",
-      "takeaway": "Ministers praised the PSNI’s progress but said intimidation and organised crime still make community policing difficult.",
-      "turns": [
-        {
-          "speaker": "Chair",
-          "text": "What are you doing about paramilitary groups, and are you concerned about the resources available to local police?"
-        },
-        {
-          "speaker": "Chris Bryant",
-          "text": "We received a report on how paramilitary groups might move towards disbanding only a few weeks ago. I’ll discuss it with my Irish counterpart and hope to bring forward proposals. The goal is for all terrorist groups to give up weapons and return to democratic politics."
-        },
-        {
-          "speaker": "Chris Bryant",
-          "text": "Policing is devolved, but Northern Ireland’s police face additional costs. A more stable political and security situation could help free resources for officers. Recruitment must also reflect all communities."
-        },
-        {
-          "speaker": "Chris Bryant",
-          "text": "Former terrorists, current terrorists and organised crime can be closely linked. Intimidation can control a community even without bombs, and sometimes makes it harder for police to investigate."
-        },
-        {
-          "speaker": "Sarah Owen",
-          "text": "I visited the police training college and met new recruits from different communities. Their enthusiasm was encouraging, but the police also need to tackle issues such as violence against women and girls."
-        },
-        {
-          "speaker": "Baroness Anderson",
-          "text": "Police officers in Northern Ireland work under a particular threat. Their bravery is often celebrated in private because of the security risks. We should recognise what they do and the conditions they face."
-        }
-      ]
-    },
-    {
-      "title": "Household costs, business and trade",
-      "takeaway": "The Government pointed to some cost-of-living help and planned business advice, while members pressed for clearer timelines and support for Northern Ireland firms.",
+      "title": "Help for households and businesses",
+      "takeaway": "Energy support and simpler trading rules could help, but some payments depend on a Northern Ireland budget and several business measures remain unfinished.",
       "turns": [
         {
           "speaker": "Claire Hanna",
-          "text": "Can households in Northern Ireland receive the £100 energy payment announced in the UK Budget?"
+          "text": "Can Northern Ireland households get the energy payment announced in the UK Budget?",
+          "evidence": [
+            {
+              "source_turn": 182,
+              "quote": "In the UK Budget there was a household energy payment. What discussions have you been able to have with the Executive and what is the possibility of households in Northern Ireland accessing that support?"
+            }
+          ]
         },
         {
           "speaker": "Chris Bryant",
-          "text": "The Executive would need a budget before it could spend that money. Northern Ireland households should also benefit from removing a tax on heating oil, which is used by about 68% of homes, and we hope to extend a VAT cut from next April."
+          "text": "The Executive could choose a £100 payment, but it needs a budget that adds up. Money Northern Ireland receives because of comparable UK spending goes into its general budget, rather than being reserved for that payment. I’ve also heard that two parties want to pay every household; that would include wealthy households, unlike the approach we intended elsewhere.",
+          "evidence": [
+            {
+              "source_turn": 183,
+              "quote": "In relation to the £100, there are other cost of living things that we are doing in relation to Northern Ireland, but in the end, it depends on them setting a budget. I think that they would like to be able to do the £100 to families."
+            },
+            {
+              "source_turn": 185,
+              "quote": "what two parties have said to me, anyway—is that they would like to give it to everybody. But giving money to some of the wealthiest people in Northern Ireland just as you are to people who are poorer was not the aim of what we were trying to do in the Budget."
+            },
+            {
+              "source_turn": 185,
+              "quote": "Barnett consequentials just go into the pot."
+            }
+          ]
+        },
+        {
+          "speaker": "Robin Swann",
+          "text": "Businesses in Great Britain can already apply for help with high energy costs. How much comparable help will Northern Ireland get, and when?",
+          "evidence": [
+            {
+              "source_turn": 187,
+              "quote": "How much do the Government plan to provide to the Northern Ireland Executive for support that is comparable to that which is available through the British industrial competitive scheme?"
+            },
+            {
+              "source_turn": 189,
+              "quote": "The scheme in GB opened on 1 October, so it has already been up and running for six weeks."
+            }
+          ]
+        },
+        {
+          "speaker": "Chris Bryant",
+          "text": "I can’t give you a figure or date yet, and I’m sorry about that. Energy arrangements work differently in Northern Ireland, so we cannot simply copy the Great Britain scheme. Businesses have raised this with us; I’ll write to the committee when we have an answer.",
+          "evidence": [
+            {
+              "source_turn": 188,
+              "quote": "because energy plays out in a completely different way in Ireland, and in particular, in Northern Ireland, we have not come to a final figure on that yet. As soon as we have, I will write to the Committee"
+            },
+            {
+              "source_turn": 188,
+              "quote": "we cannot quite do it in the same way in Northern Ireland."
+            },
+            {
+              "source_turn": 190,
+              "quote": "I haven’t. I was trying to chase this down last night; I thought it was something that might be raised, because it has been raised with us by businesses as well. I am going to have to write to you, I am afraid."
+            }
+          ]
         },
         {
           "speaker": "Sarah Owen",
-          "text": "The Budget also extended a fuel-duty cut that reduces the cost of red diesel for rural and farming communities through June and July 2027."
-        },
-        {
-          "speaker": "Robin Swann",
-          "text": "When will Northern Ireland businesses receive support comparable to the UK scheme for industries with high electricity costs?"
-        },
-        {
-          "speaker": "Chris Bryant",
-          "text": "We haven’t settled the figure because energy works differently in Northern Ireland. I’ll write to the committee when we have an answer."
-        },
-        {
-          "speaker": "Robin Swann",
-          "text": "Will the planned closer relationship with the EU change whether Northern Ireland businesses can use that UK support?"
-        },
-        {
-          "speaker": "Chris Bryant",
-          "text": "I don’t think it will, but I’ll check. A closer EU relationship could reduce paperwork and checks for trade, especially for farmers and businesses moving goods."
-        },
-        {
-          "speaker": "Sarah Owen",
-          "text": "We’re setting up a one-stop service so businesses can find advice, support and answers in one place."
+          "text": "We’re preparing a single place where businesses can get answers about moving goods under the Windsor Framework. It’s meant to help them deal with the rules and see where trade could become easier.",
+          "evidence": [
+            {
+              "source_turn": 200,
+              "quote": "the one-stop shop that we will be setting up, and will be coming soon. That has been worked on in collaboration with businesses, because of some of the concerns that you have outlined, Mr Swann."
+            },
+            {
+              "source_turn": 200,
+              "quote": "They will be able to get advice, access support and get answers."
+            }
+          ]
         },
         {
           "speaker": "Fleur Johnson",
-          "text": "It’ll be online, with an AI tool for straightforward questions and a call centre for people who need more help. We’re testing an early version at the end of this year and expect the full service by the end of the financial year."
+          "text": "Businesses will find guidance on business.gov.uk, ask simple questions using an AI-assisted tool, or phone trained staff if they still need help. We expect a test version at the end of this calendar year and a full service at the end of the financial year.",
+          "evidence": [
+            {
+              "source_turn": 202,
+              "quote": "You will be able to go to one place on business.gov.uk and find all the information there. You will be able to use an AI-assisted tool to get answers to simple questions and simplify things for you. Then, if you get to the point where you still have questions, there will be a call centre; you can ring people up."
+            },
+            {
+              "source_turn": 204,
+              "quote": "We are working on the beta version at the moment, which should be live for some testing at the end of this calendar year. We then expect it to be fully live at the end of the financial year."
+            }
+          ]
         },
         {
           "speaker": "Robin Swann",
-          "text": "Businesses have heard promises about help before. The Windsor Framework monitoring panel is also overdue to report. People need delivery, not another promise of something coming soon."
-        },
-        {
-          "speaker": "Chris Bryant",
-          "text": "I agree that things need to move faster. I’ve read the panel’s draft report, which is encouraging about how trade is working, but Northern Ireland also needs to make the most of its economic opportunities."
-        },
-        {
-          "speaker": "Fleur Johnson",
-          "text": "We’ve met hauliers and set up a working group with them and the EU to address problems with customs processes. We’re looking at what can be made simpler within the Windsor Framework."
+          "text": "That service was promised some time ago. Businesses keep hearing that solutions are coming later, while they’re dealing with the rules now. Please treat the delays as urgent.",
+          "evidence": [
+            {
+              "source_turn": 205,
+              "quote": "the one-stop shop was promised quite a while ago and we are still waiting for it."
+            },
+            {
+              "source_turn": 205,
+              "quote": "Businesses and individuals in Northern Ireland are feeling the frustration that it is always something that is coming tomorrow. We are hearing that, too, with regard to the reset date—there will be a time delay. Can I urge urgency with regard to this?"
+            }
+          ]
         },
         {
           "speaker": "Chair",
-          "text": "The committee has heard that some firms in Great Britain have stopped selling to Northern Ireland. Are you considering the trusted-haulier proposal?"
+          "text": "Hauliers say the Windsor Framework isn’t working well for them. Is the government considering the proposed scheme to make their journeys easier?",
+          "evidence": [
+            {
+              "source_turn": 209,
+              "quote": "the Murphy review stated that the Windsor framework was not working for hauliers in Northern Ireland, and in GB as well."
+            },
+            {
+              "source_turn": 209,
+              "quote": "I just wanted to know whether the trusted haulier scheme is being considered by Government now, which the Murphy review recommended, or is it not being considered?"
+            }
+          ]
         },
         {
           "speaker": "Fleur Johnson",
-          "text": "We’re working directly with hauliers on practical improvements and on whether closer work with the EU can make shipments more flexible."
-        },
-        {
-          "speaker": "Chris Bryant",
-          "text": "We’ve also secured £1 million for a trade and investment summit next year, to promote Northern Ireland’s businesses at home and abroad."
+          "text": "We’ve met hauliers and set up a group with them to examine customs procedures, including discussions with the EU. We’re looking at what can be improved under the current rules and whether closer UK–EU cooperation could make journeys easier.",
+          "evidence": [
+            {
+              "source_turn": 212,
+              "quote": "We have met the hauliers, and one of the things that we have done most recently is set up a new customs working group, which meets both with ourselves and jointly with the EU to address directly the concerns that they have with the customs processes and how the systems work."
+            },
+            {
+              "source_turn": 212,
+              "quote": "We are working with them on what we can do, within the bounds of the Windsor framework, to improve the process."
+            },
+            {
+              "source_turn": 212,
+              "quote": "We are also looking with them in relation to what the Prime Minister has said in terms of closer working with the EU, to see what more we can do to improve flexibility and create frictionless movements."
+            }
+          ]
         }
       ]
     }

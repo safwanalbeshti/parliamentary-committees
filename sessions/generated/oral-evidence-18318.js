@@ -6,12 +6,12 @@
 window.COMMITTEE_SESSIONS = window.COMMITTEE_SESSIONS || [];
 window.COMMITTEE_SESSIONS.push({
   "id": "oral-evidence-18318",
-  "label": "17 November 2026 · Katia Sanhueza-Pino, Paul Tompkins, Tracey Garrett",
+  "label": "17 November 2026 · Katia Sanhueza-Pino, Paul Tompkins, Tracey Garrett, Councillor Matt Boughton, Andrew McGill, Phil Garrigan",
   "committee": "Environment, Food and Rural Affairs Committee",
   "date": "17 November 2026",
   "sourceUrl": "https://committees.parliament.uk/oralevidence/18318/html/",
   "sourceLabel": "Official published transcript",
-  "summary": "The committee heard that floods can cause lasting emotional, health and financial harm, while help often becomes hard to find once emergency crews leave. Witnesses called for clearer warnings and recovery support, better coordination between public bodies and communities, and more reliable funding for flood protection, farming and emergency services. They also disagreed on whether new legal duties are needed, but shared concerns about gaps in accountability and resources.",
+  "summary": "The committee heard from people supporting flooded households and farmers, followed by representatives of councils, drainage boards and fire services. Witnesses described lasting damage to health, finances, homes and farmland. They said emergency services often respond well, but warnings can be hard to act on and support becomes less clear once the immediate danger passes. They differed on whether some improvements need new legal duties or better use of existing arrangements, while repeatedly calling for clearer responsibilities, stronger local relationships and more support for recovery.",
   "room": {
     "image": "Energy Resilience/committee_room_4.png",
     "width": 2788,
@@ -95,7 +95,7 @@ window.COMMITTEE_SESSIONS.push({
     },
     "Tracey Garrett": {
       "name": "Tracey Garrett",
-      "role": "Chief Executive Officer, Flood Forum UK",
+      "role": "Chief Executive Officer, National Flood Forum",
       "description": "",
       "kind": "witness",
       "seats": [
@@ -126,8 +126,8 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#b17b2e",
       "soft": "#f5e8c4"
     },
-    "Charlie Dewhirst": {
-      "name": "Charlie Dewhirst",
+    "Terry Jermy": {
+      "name": "Terry Jermy",
       "role": "Committee member",
       "description": "",
       "kind": "member",
@@ -137,8 +137,8 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#8a5a78",
       "soft": "#f0e2ec"
     },
-    "Terry Jermy": {
-      "name": "Terry Jermy",
+    "Henry Tufnell": {
+      "name": "Henry Tufnell",
       "role": "Committee member",
       "description": "",
       "kind": "member",
@@ -148,8 +148,8 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#5c676d",
       "soft": "#e5e8e8"
     },
-    "Henry Tufnell": {
-      "name": "Henry Tufnell",
+    "Josh Newbury": {
+      "name": "Josh Newbury",
       "role": "Committee member",
       "description": "",
       "kind": "member",
@@ -159,16 +159,38 @@ window.COMMITTEE_SESSIONS.push({
       "color": "#315f72",
       "soft": "#d7edf0"
     },
-    "Josh Newbury": {
-      "name": "Josh Newbury",
-      "role": "Committee member",
+    "Councillor Boughton": {
+      "name": "Councillor Matt Boughton",
+      "role": "Chair, Safer and Stronger Communities Committee, Local Government Association",
       "description": "",
-      "kind": "member",
+      "kind": "witness",
       "seats": [
-        "member6"
+        "witness1"
       ],
       "color": "#6f5c91",
       "soft": "#ebe2f5"
+    },
+    "Andrew McGill": {
+      "name": "Andrew McGill",
+      "role": "Chief Executive Officer, Water Management Consortium",
+      "description": "",
+      "kind": "witness",
+      "seats": [
+        "witness2"
+      ],
+      "color": "#4c7b5d",
+      "soft": "#dff0dd"
+    },
+    "Phil Garrigan": {
+      "name": "Phil Garrigan",
+      "role": "Chair, National Fire Chiefs Council",
+      "description": "",
+      "kind": "witness",
+      "seats": [
+        "witness3"
+      ],
+      "color": "#9b543e",
+      "soft": "#f2e0d7"
     },
     "Helena Dollimore": {
       "name": "Helena Dollimore",
@@ -176,10 +198,10 @@ window.COMMITTEE_SESSIONS.push({
       "description": "",
       "kind": "member",
       "seats": [
-        "member1"
+        "member6"
       ],
-      "color": "#4c7b5d",
-      "soft": "#dff0dd"
+      "color": "#287079",
+      "soft": "#d9eeee"
     },
     "Dr Roz Savage": {
       "name": "Dr Roz Savage",
@@ -187,79 +209,43 @@ window.COMMITTEE_SESSIONS.push({
       "description": "",
       "kind": "member",
       "seats": [
-        "member2"
-      ],
-      "color": "#9b543e",
-      "soft": "#f2e0d7"
-    },
-    "Phil Garrigan": {
-      "name": "Phil Garrigan",
-      "role": "Chair, National Fire Chiefs Council",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member3"
-      ],
-      "color": "#287079",
-      "soft": "#d9eeee"
-    },
-    "Councillor Matt Boughton": {
-      "name": "Councillor Matt Boughton",
-      "role": "Chair, Safer and Stronger Communities Committee, Local Government Association",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member4"
+        "member1"
       ],
       "color": "#b17b2e",
       "soft": "#f5e8c4"
-    },
-    "Andrew McGill": {
-      "name": "Andrew McGill",
-      "role": "Chief Executive, Water Management Consortium",
-      "description": "",
-      "kind": "member",
-      "seats": [
-        "member5"
-      ],
-      "color": "#8a5a78",
-      "soft": "#f0e2ec"
     }
   },
-  "transcript": "# Climate adaptation and emergency response\n\n## Flooding’s lasting human cost\n> Flood damage is not just physical: its effects on health, finances and peace of mind can last for years.\n\nChair: What does flooding do to people, businesses and communities?\nKatia Sanhueza-Pino: The visible damage is only a small part of it. A flood can change people’s lives permanently, bringing trauma, anxiety and a long recovery. Communities often fill gaps in the official response, but that puts pressure on local people.\nKatia Sanhueza-Pino: Families and businesses can face large costs before grants arrive, even if they’re insured. We hear that around two-thirds of people who’ve flooded have mental health problems, while only about half get any professional practical or wellbeing support.\nPaul Tompkins: Floods can damage soil for years and disrupt moving livestock, planting crops and managing farm finances. Farmers we surveyed said they’d spent about £40,000 on average responding to climate events over the past decade—a serious burden on businesses with very thin margins.\nPaul Tompkins: There’s an emotional cost for farmers and their families too. But farmers also want to help prevent floods and respond when they happen.\nTracey Garrett: People tell us they can’t sleep when it rains, keep watch on water levels and no longer feel safe at home. Flooding can also mean time off work and costs that insurance doesn’t repay. In one community, people were still suffering breathing problems 12 years after homes weren’t properly dried.\nTracey Garrett: A study of businesses in Shrewsbury found costs nearly 50% higher than the official figures. The effects can last one to three years, or for a lifetime. One study found that only 10% of people who sought mental health support managed to access it.\nChair: Does the mental strain mainly affect people in rural areas or those who’ve flooded repeatedly?\nTracey Garrett: It can affect anyone who has flooded or come close. Even people who’ve spent a lot on protection can feel anxious whenever it rains.\n\n\n## Warnings and community readiness\n> Warnings need to tell people what to do, while communities need support rather than being left to manage emergencies alone.\n\nSarah Dyke: How could communication before, during and after floods be improved?\nKatia Sanhueza-Pino: Warnings matter, but they need accurate, local information about what people should do and where to get help. Some places face flood risk for the first time, so messages must be clear without causing unnecessary panic.\nPaul Tompkins: Local plans work best when farmers understand how their area behaves in both floods and droughts. We’ve seen good examples in Somerset and Lincolnshire, but elsewhere decisions still travel through informal WhatsApp groups and can arrive too late.\nTracey Garrett: It varies too much from place to place. About one-third of people at risk in England don’t know they’re at risk. People also say warnings can be too early or too late, and they miss the local interpretation that once helped them judge what to do.\nTracey Garrett: Communities can help monitor water and alert neighbours, but they need training, equipment and funding. We also need a single place to ask for help, including a phone service for people who can’t rely on online information.\nPaul Tompkins: A central contact point would help, but it shouldn’t replace local experts who know the area. We need both: one place to collect information and local people able to give practical advice.\nKatia Sanhueza-Pino: A Government-led information point could be trusted and consistent, but it must connect to local councils that know the area and have the resources to act. People who’ve flooded may already be watching for danger; those who haven’t need help understanding their risk and what to do.\nBen Goldsborough: How much does it cost communities to prepare when lots of different public bodies are involved?\nKatia Sanhueza-Pino: It takes time and money, and volunteers can feel isolated or under-equipped. Sometimes the people volunteering are dealing with flood damage at home themselves. Households and businesses also lose income; one report put the average household loss at £3,000.\nTracey Garrett: Protecting a home can cost thousands, and many people can’t afford it. But preparation pays: one estimate says every pound spent beforehand saves eight pounds in future flood costs.\nTerry Jermy: Do official emergency-planning groups work closely enough with local volunteers?\nTracey Garrett: Not consistently. Some local resilience forums work well with communities; others feel distant and hard to approach, so residents simply organise among themselves.\nKatia Sanhueza-Pino: Where communities have people willing and able to help, give them resources and training. But don’t assume every community has volunteers or can take on official responsibilities. Plans must account for people who are vulnerable or isolated.\nPaul Tompkins: Farmers are often the first to spot a breach, fallen cables or other danger, but can feel unable to act because of rules about land access, responsibility or insurance. They want to help, so local plans should give them clear permission and ways to contribute.\nTracey Garrett: We rely too much on volunteers without supporting them enough. Some flood wardens have faced abuse for closing roads and need practical and emotional support.\n\n\n## Water management and farming\n> Witnesses said flood plans must consider entire river areas, farmland and future water needs, not just homes in the immediate danger zone.\n\nChair: Farmers can be told to pump water away in winter, then find there’s not enough to use in summer. How can that be improved?\nPaul Tompkins: We need to store winter water for summer use, which means funding, planning permission and permission to fill reservoirs. The Government’s proposed water infrastructure grant could help; around 200 farmers are ready to build reservoirs if those pieces come together.\nChair: Should farmers be paid when they hold floodwater on their land?\nPaul Tompkins: Yes. If farmers hold water back to protect communities downstream, they should be properly compensated.\nCharlie Dewhirst: Are there good examples of agencies working together to manage rural flooding?\nPaul Tompkins: There aren’t enough. Internal drainage boards do important work, but they need to be fit for today’s needs and have the ability to manage water, not just pump it. Lincolnshire’s response plan has worked well and could offer lessons for other areas.\nKatia Sanhueza-Pino: Plans should look across the whole river area and address different kinds of flooding. Water can build up in towns because drainage is already over capacity, so action upstream—including natural flood management and built drainage—can help.\nTracey Garrett: Rural flooding matters too: it affects food production and can repeatedly isolate communities. For surface-water flooding, people often can’t tell if their home is at risk or which organisation to contact.\nPaul Tompkins: The Environment Agency should publish up-to-date information about the condition of its flood defences. Dry weather may have weakened them, but the latest figures we can see are months old, so communities can’t identify problems and act.\n\n\n## Recovery, grants and insurance\n> People often face a long, confusing recovery after emergency crews leave, with uncertain grant rules and insurance that may not cover all needs.\n\nHenry Tufnell: A resident described little communication after a major flood, with families still in temporary accommodation months later. Are people supported well enough once the emergency is over?\nKatia Sanhueza-Pino: No. When emergency crews leave, it’s often unclear who takes charge. Recovery can last years and needs people who understand flooded households’ practical, emotional and financial needs.\nKatia Sanhueza-Pino: Grant applications can involve a maze of paperwork. Councils may not have extra staff to process them, leaving people to pay for drying equipment or temporary housing while they wait. That’s especially hard for people without enough insurance.\nPaul Tompkins: Recovery means more than reopening roads. Farm losses can continue long after the immediate crisis, but farmers don’t know what rules the Government will use to decide whether help is available. Those rules should be clear in advance.\nTracey Garrett: People often don’t know what help exists, if any. Even insured households can spend months or years arguing over repairs and managing contractors themselves while trying to recover and keep up with work and family life.\nHenry Tufnell: Should there be clearer rules for when flood grants are activated?\nTracey Garrett: Yes. The current decisions aren’t clear-cut and shouldn’t depend only on the number of homes affected. A flood that devastates a rural area may affect fewer properties than one in a town.\nKatia Sanhueza-Pino: People who flood again may be unable to get some grants a second time, even though the damage and costs remain. Support should be available each time someone floods and needs it.\nHenry Tufnell: Will people still be able to get flood insurance in the future?\nTracey Garrett: Flood Re currently helps many households, but it’s due to end in 2039. If the insurance market isn’t ready by then, thousands could struggle to get cover. Homes built after 2009 can’t use the scheme, including some new homes built in high-risk areas.\nKatia Sanhueza-Pino: Without flood insurance, people may also struggle to get a mortgage. The ‘Build Back Better’ option can help pay for measures to make a home more flood-resilient, but it’s not available to everyone and the £10,000 limit is often below the average £30,000 cost of restoring a flooded home.\nPaul Tompkins: Farmers in France can get help with flood insurance premiums when costs become unaffordable. Australia has a plan to help farmers invest in flood and drought resilience. We look at both examples with envy.\n\n\n## Who coordinates the response?\n> Emergency crews often work effectively during the crisis, but unclear responsibilities and weak coordination can leave a gap when communities move into recovery.\n\nJosh Newbury: What makes it hard for public bodies to coordinate during a flood?\nPhil Garrigan: The immediate emergency response often works well, especially when agencies have practised together. The harder part is handing over from emergency response to the much longer recovery phase, when the work still needs people and resources.\nCouncillor Matt Boughton: Where local resilience forums have strong relationships, agencies usually work well together. But their effectiveness varies. They don’t have legal status, so decision-making, accountability and disagreements can become problems.\nAndrew McGill: In the Wainfleet flood, drainage boards, the Environment Agency and fire crews worked well together. But after the immediate danger passed, local people were left with a huge job. Normal rules can also stop people acting quickly, even when the emergency is still unfolding.\nJosh Newbury: What would help the Environment Agency work better with drainage boards?\nAndrew McGill: It needs to trust capable drainage boards to maintain more watercourses. The Environment Agency often focuses on the danger to homes, while drainage boards also manage water levels for the wider area, including farmland and other needs.\nAndrew McGill: Some watercourses aren’t maintained because the agency lacks money, but it can still be difficult for another competent organisation to do the work. I’ve discussed simpler arrangements with the Government, but there’s been little progress so far.\nCouncillor Matt Boughton: In my area, we work well with the Environment Agency, including on flood warnings and protecting individual homes. But when it changes water levels at a flood-storage site, it can protect one area while increasing risk elsewhere. That’s why agencies need quick, clear communication and relationships built before a flood.\nPhil Garrigan: The fire service has no legal duty specifically to rescue people from floods. A clear legal responsibility would help us plan, prepare and understand how our role fits with the Environment Agency and councils.\nHelena Dollimore: A flood linked to a water company’s failure cost the fire service £27,000 to respond. Can it recover those costs?\nPhil Garrigan: Not through a straightforward process, as far as I know. Fire crews responded to 17,000 flood incidents last year, and it’s difficult to recover the cost. I’d support a way to claim it back when a private company caused the flooding.\nCouncillor Matt Boughton: Councils should bring people together after floods, but utilities must also take responsibility when their failure caused the problem. The law should require them to work with councils and take part in planning, rather than leaving it to goodwill.\nDr Roz Savage: Should there be a required review after major floods, so agencies and communities can explain what went wrong and what should change?\nAndrew McGill: Reviews can help. After Wainfleet, residents and agencies met again to discuss future protection. Keeping those conversations going matters because people can remain frightened long after a flood.\nCouncillor Matt Boughton: Councils would review incidents, but they’re already stretched and would need funding if that became a legal responsibility. The review also has to happen while they prepare for the next emergency.\nPhil Garrigan: Agencies often review their own work, but communities need a chance to speak too. Local resilience forums could bring everyone together after serious or repeated floods. Whether that must be a legal duty or encouraged good practice is open to debate.\n\n\n## Funding and responsibility\n> Witnesses called for sustainable funding and clearer duties, while noting that changing the law alone won’t fix weak relationships or limited capacity.\n\nBen Goldsborough: Is the current funding system for drainage boards sustainable?\nAndrew McGill: No. One board’s electricity bill rose from about £344,000 to more than £1 million in a year. Grants focus heavily on protecting homes, which can leave areas that support farming and food production at a disadvantage.\nAndrew McGill: A grant application can take around 200 hours of staff time. The system needs to recognise the value of drainage to farming and the wider country, and make funding simpler to obtain.\nCouncillor Matt Boughton: Local councils’ payments to drainage boards have risen, but councils aren’t getting extra money to cover them. That means cuts elsewhere, so the current arrangement can’t continue indefinitely.\nHenry Tufnell: Should utilities and other infrastructure companies have stronger duties to prepare for floods and join exercises?\nCouncillor Matt Boughton: Yes. Their legal responsibilities are lighter than those of emergency services and councils, even though damage to water, energy or transport systems can affect everyone. It can also be very difficult to get them to act on councils’ advice.\nPhil Garrigan: They should take part in exercises so agencies can test whether emergency plans work. We also need national coordination when several areas need the same limited fire-service resources at once.\nChair: The law dividing emergency organisations into category 1 and category 2 responders is more than 20 years old. Should it be reviewed?\nPhil Garrigan: The categories help define who is responsible for what, but it’s sensible to check whether the law still works and whether organisations should be required to take part in exercises.\nCouncillor Matt Boughton: Yes, especially for category 2 organisations such as utilities, whose role in preparing for and responding to emergencies has become more important.\nAndrew McGill: Drainage boards aren’t included in those categories, even though they work closely with the organisations that are.\nChair: The central message is that flood response can work well at the height of an emergency, but people need clearer help and sustained support after the emergency crews leave.\n",
+  "transcript": "# Climate adaptation and emergency response\n\n## The harm that lasts\n> Flooding can leave people, businesses and farms dealing with costs and distress long after the visible damage is cleared.\n\nChair: What does flooding do to communities beyond the immediate damage?\nKatia Sanhueza-Pino: The visible damage is only a small part of it. Flooding can change a household's or business's life, bringing trauma, anxiety and a long recovery. Even insured people face costs, and help can arrive too late to cover what they must pay upfront. From what we hear, people often don't know where to get support, so communities fill gaps themselves.\nPaul Tompkins: Repeated floods can damage soil for years. In our surveys, farming members say they've spent about £40,000 on average responding to climate events, including floods, over the past decade. Farmers also describe the emotional strain on their families, alongside moving cattle, changing crops and dealing with the bills.\nTracey Garrett: People tell us they can't sleep when it rains and take turns watching water levels. Insurance often leaves expenses unpaid, and restoring a home can mean time off work. In one community we worked with, homes still hadn't been dried properly 12 years after a flood, and residents were suffering respiratory illnesses.\nChair: Is there enough mental health support for people after a flood?\nTracey Garrett: There isn't much. Research we cited found that even where support existed, only 10% managed to access it. And that fear of rain isn't confined to places with a long history of flooding: it can follow a single flood, or even a near miss.\nSarah Dyke: Some Somerset farmers have land underwater for months, holding water back from homes farther downstream. Should they be compensated for that?\nPaul Tompkins: Yes. If farmers are holding floodwater on their land, they should be adequately compensated.\n\n\n## Warnings people can use\n> Witnesses wanted clearer, more locally useful warnings and a dependable way to find help without expecting volunteers to do everything.\n\nSarah Dyke: How could communication improve before, during and immediately after a flood?\nKatia Sanhueza-Pino: Flood warnings matter enormously, but they need to say more clearly what people can do and where they can get help. Messages also need to fit the place: storms are putting some communities at risk that weren't at risk before. We must take care not to cause panic by telling people about a danger without giving them useful actions.\nPaul Tompkins: Farmers need to know what is happening across the area that drains into their local river. I've seen good local planning in Somerset and Lincolnshire. Elsewhere, people managing flood gates may still depend on informal WhatsApp messages about decisions made days earlier. That isn't reliable enough.\nTracey Garrett: Community-run monitoring could help, but asking residents to take on more needs funding and support. Where people live also affects the help they get. Some say warnings now lack the local human interpretation they once had, and when flooding starts they don't know whom to contact. Neighbours end up helping neighbours.\nSarah Dyke: The Government has introduced Flood Action Online, but not a single phone line for help. Would a phone line matter, particularly for people who struggle to use online services?\nTracey Garrett: Yes, one contact point for all kinds of flooding would help. It wouldn't necessarily have to be run by a government agency.\nPaul Tompkins: A single contact point could collect information and be available at all hours, but it mustn't replace the local agency staff who know the area and can help farmers directly.\nKatia Sanhueza-Pino: Flood Action Online helps with awareness and preparation, but says less about getting through recovery. People need consistent, trusted information in one place, backed by local councils with the knowledge and staff to put local plans into action.\nTracey Garrett: People who've signed up for alerts may still not know when to move their things or what else to do. Warnings can arrive when people are already standing in water; they can also arrive so early that people prepare for a flood that doesn't happen. That's emotionally hard, though failing to warn them could be worse.\nKatia Sanhueza-Pino: We particularly need to reach communities that haven't flooded before. And we can't assume every community has people with the time, resources or ability to organise a response. Planning has to account for those differences so vulnerable people aren't left behind.\n\n\n## Who helps after the emergency?\n> Volunteers and emergency services are vital, but witnesses described a difficult handover to prolonged, individual recovery.\n\nTerry Jermy: Are the official local resilience forums working closely enough with the volunteers who get on with helping their neighbours?\nTracey Garrett: No. It varies by area. Some communities have a relationship with their forum; others find it distant and simply organise locally. Volunteers also need support: flood wardens have told us they've faced abuse for closing flooded roads.\nKatia Sanhueza-Pino: Where people want to volunteer, give them training, equipment and the ability to do useful tasks. But volunteers aren't currently official emergency responders, and we must plan for places where there aren't enough people able to volunteer.\nPaul Tompkins: Farmers are often first to notice trouble and want to help. But they may not be able to move a flood defence they hold on their farm because of questions about land access, who controls it or insurance. Those practical barriers need addressing if farmers are to help at the right moment.\nHenry Tufnell: Once the immediate danger has passed, do people know what help is available, and is it enough?\nKatia Sanhueza-Pino: No. When the emergency services leave, it often isn't clear who takes over. Recovery is personal and can last months or years. People may need specialist practical, emotional and financial help. Even where grants exist, council staff have to administer them, and delays can leave residents paying for drying equipment or somewhere else to stay.\nPaul Tompkins: Reopening roads doesn't mean a farm has recovered. Farmers need to know in advance how the Government decides whether flood recovery money will be available. Some received the 2023–24 fund, but others affected by the same rainfall couldn't access it.\nTracey Garrett: People often don't know what support exists. Insurance doesn't necessarily make recovery straightforward either: disputes can drag on for a year or two, with residents caught between insurers and repair contractors. I agree that the rules for when recovery grants become available should be clearer.\nTracey Garrett: Flood Re helps thousands of households obtain insurance, but it's due to end in 2039. If ordinary insurance hasn't become available to them by then, they could be left without cover. Homes built after 2009 aren't eligible for the scheme, which is especially worrying when new homes are built in higher-risk areas.\n\n\n## Making the response work together\n> The second panel said emergency teams often work well together, but recovery and co-operation across organisations and areas are less dependable.\n\nJosh Newbury: What gets in the way when public bodies need to respond to a flood together?\nPhil Garrigan: The immediate emergency response is generally well co-ordinated. We need to practise together beforehand, though. The harder part is handing over responsibility as the response ends: recovery takes much longer and needs more people, money and effort.\nCouncillor Boughton: Local relationships make a big difference. The forums work unevenly, in part because a forum isn't itself a legal body that can require its members to follow one agreed decision. Utility and infrastructure companies also have different emergency-planning duties from councils and emergency services, which can make their input harder to secure.\nAndrew McGill: When Wainfleet flooded, drainage boards, the Environment Agency and fire services handled the emergency well. Later, the organisations left to deal with recovery faced their usual rules again. For example, moving water from a field back into a river could be held up by a demand to test it, even while the area was still in difficulty.\nAndrew McGill: I'd like the Environment Agency to trust capable internal drainage boards to maintain more watercourses. The agency has stopped maintaining some lower-risk rivers because of costs, but the conditions it places on others doing the work remain demanding. I think much could improve through a change in how the organisations work together, without new legislation for everything.\nCouncillor Boughton: My council has a good working relationship with the Environment Agency because we've built it over time. We need to know promptly when it decides to hold water in a flood-storage area: that protects homes downstream but can cause problems upstream. Larger councils planned in the future may find it harder to keep such local communication working.\nPhil Garrigan: Fire services still lack a statutory duty to respond to floods. We've sought one for a long time. It would clarify our role in rescue and preparation, and how we hand over to other organisations during recovery.\nPhil Garrigan: When floods cross local boundaries and several places need help at once, some national co-ordination is needed to decide where fire-service resources should go first.\n\n\n## Paying, preparing and learning\n> The witnesses raised difficult questions about who pays for repeated floods, whether utilities must do more, and how communities can help improve future responses.\n\nHelena Dollimore: In Hastings, a flood attributed to Southern Water cost the fire service £27,000 to respond to. If a company's failure causes a flood, can the fire service recover its costs from that company?\nPhil Garrigan: As far as I'm aware, there's no way for us to recover costs based on what caused a flood. Fire services responded to 17,000 flood incidents last year, and recovering the cost of those responses is usually very difficult, if possible at all. I would welcome an easier way to claim costs back from a company responsible for an incident.\nCouncillor Boughton: Councils should bring people together after a flood. But water, power and other infrastructure companies should have stronger duties to take part, too. Their failures can cause serious problems, and councils can't always secure their co-operation simply by asking.\nDr Roz Savage: After a flood, should there be a required review involving the agencies and the people who were flooded, so everyone can learn what to do better next time?\nAndrew McGill: I'm not sure a review needs to be required by law, but it should be built into the way we work. People in Wainfleet were still meeting agencies about the 2019 flood last week. Some remain worried whenever there's heavy rain, and those conversations help keep attention on protecting them.\nCouncillor Boughton: Councils should review what happened, but doing that while supporting recovery and preparing for the next emergency adds work for already stretched teams. If it becomes a legal duty, councils would need funding for it. Communities also need to see how their feedback changes future plans.\nPhil Garrigan: Services may review their own actions, but after a significant flood the local resilience forum should bring the organisations together to learn from it. Residents need a voice in that review too: they can tell us whether our response actually worked for them. I'm not convinced that making this a legal duty is essential.\nBen Goldsborough: Andrew, is the way internal drainage boards get money sustainable? Your boards have to protect low-lying land, but individual projects can need funding from several places.\nAndrew McGill: The costs can rise sharply: one board's annual electricity bill went from £344,000 to just over £1 million. Funding for flood projects tends to favour places with more homes, while our boards also protect farmland and food production. Applying for a grant can take around 200 hours of work. I'd change both how funding is judged and how hard it is to apply.\nCouncillor Boughton: Drainage boards do important work, but the charges councils pay them have risen across the country. Councils can't simply refuse those bills. Without more money coming in, they may have to cut something else to pay them; I don't think that's sustainable.\nChair: The law distinguishing organisations with primary emergency duties from those required to co-operate is over 20 years old. Is it time to revisit those responsibilities?\nPhil Garrigan: The distinction has been useful because it clarifies roles. A review would be sensible, though, and should look at what is expected of organisations when they practise emergency plans together.\nCouncillor Boughton: I would review what the law asks of category 2 responders, particularly infrastructure and utility companies. They're involved in preparing for emergencies, responding and recovering, and floods and other emergencies are becoming more frequent.\n",
   "inquiry": "Climate adaptation and emergency response",
+  "evidence": "sessions/generated/evidence/oral-evidence-18318.json?v=2b4fc4b5",
   "glossary": [
     {
+      "term": "Environment Agency",
+      "definition": "The public body responsible for managing flood risk from rivers and the sea in England, among other environmental work."
+    },
+    {
       "term": "local resilience forums",
-      "definition": "Groups of public services and other organisations that plan together for emergencies in their area."
+      "definition": "Groups that bring local public services and other organisations together to plan for and respond to emergencies."
     },
     {
       "term": "internal drainage boards",
-      "definition": "Local organisations that manage drainage and water levels in low-lying areas."
+      "definition": "Local public bodies that manage water levels and drainage in areas with particular drainage needs."
     },
     {
       "term": "Flood Re",
-      "definition": "A scheme that helps make flood insurance available to some households at high risk."
-    },
-    {
-      "term": "Bellwin scheme",
-      "definition": "A government scheme that can help councils meet some extra costs during major emergencies."
-    },
-    {
-      "term": "category 1 and category 2 responders",
-      "definition": "Legal categories for emergency-planning organisations; category 1 includes councils and emergency services, while category 2 includes utilities and infrastructure providers."
-    },
-    {
-      "term": "natural flood management",
-      "definition": "Using features such as wetlands and vegetation to slow or store water and reduce flooding."
+      "definition": "A scheme that helps insurers offer flood cover to eligible homes at high risk of flooding."
     },
     {
       "term": "statutory duty",
-      "definition": "A legal requirement for an organisation to carry out a particular responsibility."
+      "definition": "A responsibility that an organisation is required by law to carry out."
     },
     {
-      "term": "property-level protection",
-      "definition": "Measures such as flood barriers that help protect an individual home or building."
+      "term": "category 1 responders",
+      "definition": "Organisations with the main legal duties to prepare for and respond to emergencies, including councils and emergency services."
+    },
+    {
+      "term": "category 2 responders",
+      "definition": "Organisations, including utility companies, with duties to co-operate and share relevant information in emergency planning."
     }
   ]
 });

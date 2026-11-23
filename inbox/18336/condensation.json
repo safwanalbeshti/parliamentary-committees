@@ -1,0 +1,766 @@
+{
+  "schema_version": 1,
+  "source_id": 18336,
+  "source_sha256": "74e9712ba8f307dfe3750bafc15afcafe258f4e44f5fd9247f83042656d7c6f9",
+  "title": "More science funding, but fewer projects?",
+  "label": "17 November 2026 · Research funding and its consequences",
+  "summary": "The committee examined why particle physics, astronomy and national research facilities face cuts while the overall UK science budget is rising. Witnesses described cancelled projects, fewer early-career jobs and damage to international partnerships. They argued that holding budgets steady in cash terms does not cover rising costs, questioned how funding decisions were made, and warned that plans for the facilities may be difficult to deliver.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Dame Chi Onwurah",
+      "role": "Chair of the Science and Technology Committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Professor Butterworth",
+      "name": "Professor Jon Butterworth",
+      "role": "Professor of Physics, University College London",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Williams",
+      "name": "Dr Simon Williams",
+      "role": "Visiting scientist, University of Durham, and Postdoctoral Research Associate, Karlsruhe Institute of Technology",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Heymans",
+      "name": "Professor Catherine Heymans",
+      "role": "Astronomer Royal for Scotland and Professor of Astrophysics, University of Edinburgh",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Efstathiou",
+      "name": "Professor George Efstathiou",
+      "role": "Professor of Astrophysics, University of Cambridge",
+      "kind": "witness"
+    },
+    {
+      "label": "Freddie van Mierlo",
+      "name": "Freddie van Mierlo",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Daniel Zeichner",
+      "name": "Daniel Zeichner",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Emily Darlington",
+      "name": "Emily Darlington",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "STFC",
+      "definition": "The Science and Technology Facilities Council, a UK public funder of research and major scientific facilities."
+    },
+    {
+      "term": "UKRI",
+      "definition": "UK Research and Innovation, the public body that allocates funding across the UK's research councils."
+    },
+    {
+      "term": "PPAN",
+      "definition": "The STFC-funded fields of particle physics, astronomy and nuclear physics."
+    },
+    {
+      "term": "postdoc",
+      "definition": "A researcher working after completing a doctorate, usually in a temporary position."
+    },
+    {
+      "term": "CERN",
+      "definition": "The European particle-physics laboratory where the Large Hadron Collider operates."
+    },
+    {
+      "term": "LHCb",
+      "definition": "An experiment at CERN that studies differences between matter and antimatter."
+    },
+    {
+      "term": "flat cash",
+      "definition": "A budget held at the same amount of money each year, so rising costs reduce what it can buy."
+    },
+    {
+      "term": "QR funding",
+      "definition": "Quality-related research funding: money allocated to universities, which decide how to use it to support research."
+    },
+    {
+      "term": "ISIS Neutron and Muon Source",
+      "definition": "A UK research facility whose particle beams help scientists study the structure of materials."
+    },
+    {
+      "term": "Diamond-II",
+      "definition": "A major upgrade to the UK's Diamond Light Source, which uses powerful X-rays to study materials."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What changed after March",
+      "takeaway": "Witnesses said cuts have taken effect, while the reasoning behind important project decisions remains unpublished.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Since we last heard evidence in March, what's changed for researchers, facilities and international partnerships? Have the later funding decisions and temporary support addressed the problems?",
+          "evidence": [
+            {
+              "source_turn": 1,
+              "quote": "Today, we are going to examine what has changed for researchers, facilities, and international partnerships since March. We are going to look at what the impact has been, whether the prioritisation decisions that were made in July and October and the transitional support have really addressed the issues we identified in March"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Butterworth",
+          "text": "STFC has published which projects it will fund and a budget plan through 2029-30, but not the promised report explaining how it chose between projects. Some cancellations have been confirmed, including a programme linking quantum technology with fundamental physics.",
+          "evidence": [
+            {
+              "source_turn": 2,
+              "quote": "STFC on the back of that actually has not published its prioritisation; it has published the outcomes but it has not published the report. It has published a delivery plan, a statement of how it intends to plan its budgets up to 2029-30."
+            },
+            {
+              "source_turn": 2,
+              "quote": "Other things that have gone on are the damage to things such as the Quantum Technologies for Fundamental Physics and various other projects that were cancelled in the prioritisation process. That was confirmed."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Butterworth",
+          "text": "The UK also pulled out of a planned upgrade to LHCb at CERN. I warned in March that failing to resolve this would hurt our standing with partners, and I believe it has. The experiment now has to work out which scientific goals it can still achieve without the UK contribution.",
+          "evidence": [
+            {
+              "source_turn": 2,
+              "quote": "I said about the CERN one in particular that if we did not sort this out, then our name would be mud internationally. Unfortunately, we did not, and it is. That did huge damage to our reputation at CERN."
+            },
+            {
+              "source_turn": 2,
+              "quote": "It is damaging to the experiment as well; it will not be able to deliver all its science goals. It is working out now how to de-scope it and try to make it work without the UK contribution."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Williams",
+          "text": "Funding for theory postdocs has finally been announced, with a small increase on the number initially proposed. But in our survey, 70% of early-career researchers in posts planned to leave the UK for their next job, and only one in 20 thought they could secure that job here. I moved to Germany in October because there were no positions on offer in the UK.",
+          "evidence": [
+            {
+              "source_turn": 4,
+              "quote": "that funding has come out now and, as Jon said, there has been a small uplift to the number of postdocs in PPAN."
+            },
+            {
+              "source_turn": 4,
+              "quote": "It shows that 70% of early-career researchers we surveyed currently in position plan to leave the UK for their next position. Some 89% are seriously considering alternatives to a UK PPAN career, and only one in 20 believes they can secure their next position in the UK."
+            },
+            {
+              "source_turn": 8,
+              "quote": "I moved in October. I am just back visiting."
+            },
+            {
+              "source_turn": 10,
+              "quote": "There were no positions on offer in the UK. I would have liked to remain in the UK."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Heymans",
+          "text": "Our figures show astronomy projects losing 35% of their funding, which we can't reconcile with STFC's headline figure of a 2.7% cut across PPAN. Among the consequences are lost work on the Extremely Large Telescope and a planned 2028 closure of the e-MERLIN radio-telescope facility at Jodrell Bank.",
+          "evidence": [
+            {
+              "source_turn": 12,
+              "quote": "Yet today, 35% of the funding has been cut for our astronomy projects. You might be thinking, how can that be? The headline number from STFC is that PPAN has only been cut by 2.7%. That is a number we just cannot reconcile with what has actually happened."
+            },
+            {
+              "source_turn": 12,
+              "quote": "We are losing things such as our ability to develop cutting-edge technology for the Extremely Large Telescope."
+            },
+            {
+              "source_turn": 12,
+              "quote": "Our wonderful Jodrell Bank Observatory, the e-MERLIN facility there, is due to be closed in 2028."
+            }
+          ]
+        },
+        {
+          "speaker": "Freddie van Mierlo",
+          "text": "Ministers have suggested that the Jodrell Bank decision was led by scientific judgments. Do you think that describes the whole decision?",
+          "evidence": [
+            {
+              "source_turn": 14,
+              "quote": "since you mentioned Jodrell Bank, something I have followed in the Chamber and Ministers have implied is that the changes have been led by scientific decisions. What is your view on that?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Heymans",
+          "text": "I trust the scientists who had to make very hard choices. But, as I understand it, they assessed scientific merit, not every wider effect. At Jodrell Bank, visitors value seeing a working observatory, and it has begun work tracking space junk. I don't think those benefits were part of the science board's assessment, despite ministerial answers suggesting a broader review.",
+          "evidence": [
+            {
+              "source_turn": 15,
+              "quote": "They had an impossible task of working out what to cut in a portfolio of 48 different projects, all of which were internationally leading."
+            },
+            {
+              "source_turn": 15,
+              "quote": "nearly half of the visitors say that their prime reason for visiting is because it is a working professional observatory."
+            },
+            {
+              "source_turn": 15,
+              "quote": "It can map tumbling space junk that is moving out in space."
+            },
+            {
+              "source_turn": 15,
+              "quote": "It is not something that the science board could consider in its prioritisation because it was only looking at the scientific impact, which is in contrast to what the Ministers are saying when they are being asked about the impact assessment."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Efstathiou",
+          "text": "STFC's plan holds the PPAN budget roughly steady in cash, but that buys less as costs rise. STFC had already had an earlier year without an increase. I calculate that commitments to PPAN and international memberships leave a much smaller part of the budget from which the remaining cuts must come, putting the facilities under pressure.",
+          "evidence": [
+            {
+              "source_turn": 19,
+              "quote": "With the implementation plan, the PPAN budget is held roughly flat. It is not helpful to our community to be told that the cut is only 2.7% at the end of the spending review period when it is not inflation protected because flat cash is a cut."
+            },
+            {
+              "source_turn": 19,
+              "quote": "the year before the spending review was announced, we had an interim spending review settlement that was flat cash."
+            },
+            {
+              "source_turn": 19,
+              "quote": "You take out PPAN and the subscriptions, and that leaves a much smaller amount of money. The cuts then have to be made on that small budget. The impact is that the facilities then get the hit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Who made the choices?",
+      "takeaway": "The witnesses challenged the account that STFC simply took on too much, and asked for clearer reasons and accountability.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "UKRI's Michele Dougherty has said STFC took on more projects than it could afford. Is that a fair account of how this happened?",
+          "evidence": [
+            {
+              "source_turn": 24,
+              "quote": "When Michele Dougherty appeared before us, we talked about inflation and the other financial pressures. She talked about how one of the reasons was the STFC taking on more projects than it could afford. I just want to briefly ask if you think that is a reasonable assessment"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Butterworth",
+          "text": "There's some truth in the pressure from extra projects, but STFC was asked to deliver government priorities, including a satellite-testing facility and a quantum-computing centre, with budgets approved by UKRI and often ministers. When its budget was later held at flat cash, those earlier funding arrangements weren't maintained. Research jobs and projects were among the costs it could cut.",
+          "evidence": [
+            {
+              "source_turn": 25,
+              "quote": "under the previous administration, the STFC was being used as an effective delivery mechanism for a whole bunch of Government priorities."
+            },
+            {
+              "source_turn": 25,
+              "quote": "It has a very new satellite testing facility"
+            },
+            {
+              "source_turn": 25,
+              "quote": "Similarly, there is a National Quantum Computing Centre there."
+            },
+            {
+              "source_turn": 25,
+              "quote": "were signed off by UKRI, many of them at the ministerial level."
+            },
+            {
+              "source_turn": 25,
+              "quote": "That changed when we received the interim settlement of flat cash. Those funding lines were not respected."
+            },
+            {
+              "source_turn": 25,
+              "quote": "the bits of the budget that are flexible, which are essentially postdocs and projects."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Efstathiou",
+          "text": "I agree that UKRI approved the expansion. STFC couldn't spend freely without that approval, and it stayed within its yearly budget during Mark Thomson's time as chief executive. I think STFC is being blamed for decisions made above it.",
+          "evidence": [
+            {
+              "source_turn": 27,
+              "quote": "A chief executive of STFC cannot go on a spending spree without the approval of UKRI. It took on additional new facilities."
+            },
+            {
+              "source_turn": 29,
+              "quote": "Absolutely. I want to say this from a personal point of view because Mark Thomson is the most skilful chief executive I have ever worked with. STFC was on budget in each year of Mark’s term."
+            }
+          ]
+        },
+        {
+          "speaker": "Daniel Zeichner",
+          "text": "What can you tell us about the exercise that chose which research projects to keep?",
+          "evidence": [
+            {
+              "source_turn": 36,
+              "quote": "Could you all briefly comment on your view on the success or otherwise of that process? You all have experience of being involved in these difficult decisions."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Butterworth",
+          "text": "Without the science board's report, I can't tell whether its recommendations are the ones STFC ultimately followed. Some outcomes, especially the lack of future funding for LHCb, puzzle me. The board may have had evidence I haven't seen, but publishing its reasoning would let us understand the choice.",
+          "evidence": [
+            {
+              "source_turn": 37,
+              "quote": "it seems very strange, for instance, that LHCb was not prioritised for future funding given what we know about the priority nationally and internationally. We have not seen the rationale for that, so we do not know."
+            },
+            {
+              "source_turn": 37,
+              "quote": "I do not know how many of its actual recommendations emerged in the prioritisation that STFC eventually put out because we have not seen the report from the science board to STFC and UKRI."
+            },
+            {
+              "source_turn": 37,
+              "quote": "Maybe I have not seen all the evidence, so maybe the science board was right, or maybe that is not what it said."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Heymans",
+          "text": "We've heard there has been back and forth over the unpublished report, including requests from UKRI's chair to change its scope. That concerns astronomers who saw the science board as independent. Some small projects have lost all funding; without the report, they can't readily explain the decision when seeking other funders. We know even less about the separate exercise for national facilities.",
+          "evidence": [
+            {
+              "source_turn": 38,
+              "quote": "we were very concerned that we were hearing that the chair of UKRI, Ian Chapman, had been making recommendations and requests to re-scope that project report. It is an independent expert advisory panel; it should be able to write its report."
+            },
+            {
+              "source_turn": 38,
+              "quote": "lots of projects on the astronomy side that are relatively inexpensive—under £100,000 per year—that have been cut in their entirety."
+            },
+            {
+              "source_turn": 38,
+              "quote": "It should be able to find alternative funding hopefully because it is not that much money, but it cannot do that without that report to explain why it was not funded."
+            },
+            {
+              "source_turn": 38,
+              "quote": "On the facilities and labs side there is no report. There has been very little communication on the facilities side about how that prioritisation exercise was run"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Efstathiou",
+          "text": "Cutting many small projects disappoints many researchers without necessarily saving much. The largest international projects are hard to cut without making the wider research programme stop making sense.",
+          "evidence": [
+            {
+              "source_turn": 40,
+              "quote": "there are the big projects such as CMS, ATLAS, SKA and ESA, which you cannot touch really, otherwise the programme does not make any sense. There is then a large number of smaller projects and if you cut them all, you do not cut a lot of the budget."
+            },
+            {
+              "source_turn": 40,
+              "quote": "we have seen a lot of really disappointed people who have had their projects cut. It is not necessarily saving a lot of money."
+            }
+          ]
+        },
+        {
+          "speaker": "Freddie van Mierlo",
+          "text": "Should ministers be further from these decisions, leaving UKRI and STFC to distribute the budget and take the criticism?",
+          "evidence": [
+            {
+              "source_turn": 41,
+              "quote": "The answer from them both, frankly, is, “No. We’re responsible for setting the budget and it’s down to UKRI and STFC to distribute it as best they can or as they see fit.” Do you think it is right that Ministers are so distant from the decisions that are being taken by the council?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Efstathiou",
+          "text": "The overall science budget rose, but the core budgets for research councils were held at flat cash while more money went towards other goals, including support for companies. That's a policy choice. I haven't seen an assessment of its consequences or a discussion with researchers before it was made. Later consultation was about how to impose cuts within the budget already set.",
+          "evidence": [
+            {
+              "source_turn": 42,
+              "quote": "The increase goes from £9.2 billion to £9.986 billion."
+            },
+            {
+              "source_turn": 42,
+              "quote": "The money that was released went in to promoting buckets two and three. That is a policy decision. It is taking money out of basic research. We are not aware that any impact assessment was ever made of what the consequences of this would be. There was no discussion with the community"
+            },
+            {
+              "source_turn": 50,
+              "quote": "that was done on the back of boundary conditions of a budget that we had no consultation on. It was a consultation on how we imposed the cuts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Can the plan work?",
+      "takeaway": "Witnesses doubted that savings and new income could close the funding gap without reducing research or losing staff.",
+      "turns": [
+        {
+          "speaker": "Freddie van Mierlo",
+          "text": "The plan relies partly on greater efficiency and changes in how people work. What would those savings actually mean?",
+          "evidence": [
+            {
+              "source_turn": 51,
+              "quote": "How deliverable is that, in the sense that they are relying a lot on efficiency and cultural change, which is quite nebulous for us as a Committee? Anyone can throw out efficiency savings without really understanding what that means."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Butterworth",
+          "text": "I think the plan is extremely risky. In PPAN, a cut of £100,000 can mean losing a postdoc or other research. STFC's stated 2.7% cut becomes 11% after accounting for rising costs, or 17% against an earlier budget before cuts began. The planned cash reduction for facilities is also large, and much of their spending pays staff.",
+          "evidence": [
+            {
+              "source_turn": 52,
+              "quote": "I would characterise it as extremely high risk, shall we say?"
+            },
+            {
+              "source_turn": 52,
+              "quote": "Every £100,000 you cut there, you are losing science. It is a postdoc position or something that has gone. It says 2.7% is the planned cut. If you look at that in real terms, it is 11%. If you actually compare it with the real baseline, which was the year before, before any of these cuts actually hit us because we had already been cut before that, then it is a 17% cut in the real terms PPAN line."
+            },
+            {
+              "source_turn": 52,
+              "quote": "the 15% cut in cash to the other side, to the facilities, looks very, very challenging."
+            },
+            {
+              "source_turn": 52,
+              "quote": "A lot of that is in salaries. That means people."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Butterworth",
+          "text": "A facility could save electricity by running its equipment for fewer months, but that isn't an efficiency gain if its staff are still employed and researchers get less time to use it. STFC and the government need to decide whether they still want every national-lab activity assigned over recent years. If so, I think they'll need to fund them; otherwise, some may have to close.",
+          "evidence": [
+            {
+              "source_turn": 54,
+              "quote": "you can turn the beam off for half the year and you save the power bill for the neutron source. That makes a big difference. That is not an efficiency saving because you are paying everyone to run it and then only running it half the time."
+            },
+            {
+              "source_turn": 54,
+              "quote": "They have to re-examine the priorities STFC has been given to deliver on over the last five years on its national lab sites and decide if they still want them all. If they want them all, they are going to have to allocate more money. Otherwise they are going to have to shut some of them down."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Efstathiou",
+          "text": "The facilities aim to bring in £29 million over the spending period by earning more from users. That's worth trying, but it's ambitious: charging companies can be difficult if they can collaborate with someone and use an international facility without paying.",
+          "evidence": [
+            {
+              "source_turn": 60,
+              "quote": "The target is to try to raise £29 million over the spending review period. It has been tried before. It is difficult because if you start charging industry, it can maybe collaborate with somebody and use an international facility without charging. It is an ambitious target but great if they can achieve it."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Heymans",
+          "text": "Facility staff are also being offered a voluntary scheme to leave. Colleagues tell me they haven't seen a clear plan for handling those departures. It will be harder to earn more income if some of the people needed to run the facilities have gone.",
+          "evidence": [
+            {
+              "source_turn": 63,
+              "quote": "there is a voluntary exit scheme currently in operation. I quote from one of my colleagues on that side, “There appears to be no strategy and no plan about how those voluntary redundancies will go through.” It is going to be very hard for our colleagues on the facilities side to deliver this extra revenue while at the same time losing some of their best people."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Williams",
+          "text": "There's a longer-term cost too. If you cut researchers now, you may not have the people later to design or operate new facilities. In my view, this plan isn't looking far enough ahead at where those skills will come from.",
+          "evidence": [
+            {
+              "source_turn": 65,
+              "quote": "Then you get to the next generation of people who are going to run these facilities or design the new facilities, and they are not there"
+            },
+            {
+              "source_turn": 65,
+              "quote": "This reprioritisation is not necessarily looking long term in my view."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Jobs and the meaning of protection",
+      "takeaway": "Witnesses said postdoc numbers were protected only against a baseline that had already fallen, while a late funding decision cost one field a hiring round.",
+      "turns": [
+        {
+          "speaker": "Emily Darlington",
+          "text": "The government says it has protected postdoc numbers. How does that fit with falling funding for these areas?",
+          "evidence": [
+            {
+              "source_turn": 83,
+              "quote": "The Government have committed to protecting postdoctoral numbers, but the latest STFC figures show a 2.7% reduction in PPAN costs between 2025-26 and 2029-30. How can the number of postdoctoral positions be maintained while funding is being reduced?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Williams",
+          "text": "For theoretical particle physics, the promised number is measured against an already reduced figure, not the people actually funded in 2025-26. There were 58.3 full-time-equivalent postdoc positions funded then; the new figure is 25. Calling 25 protected hides a large fall from what was in place.",
+          "evidence": [
+            {
+              "source_turn": 84,
+              "quote": "In the year 2025-26 there were 58.3 FTE available for postdocs in particle theory."
+            },
+            {
+              "source_turn": 84,
+              "quote": "The Government are comparing the protected number with essentially a hypothetical number of what would have been awarded in the year 2025-26 if they were awarded in that year. That number is 25."
+            },
+            {
+              "source_turn": 84,
+              "quote": "The new baseline is not the reality of what was in place that year."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Williams",
+          "text": "Funding was also announced too late for the internationally agreed hiring deadline for researchers starting this October. That left very few UK theoretical-particle-physics posts starting this year. STFC and UKRI knew the deadline.",
+          "evidence": [
+            {
+              "source_turn": 86,
+              "quote": "Last year—for this academic year starting in October—the funding had not come through in time for the international deadline. It is an internationally defined deadline. Essentially there were no positions. There were a few from other funding grants but essentially no positions in the UK for theoretical particle physics."
+            },
+            {
+              "source_turn": 93,
+              "quote": "They are internationally defined. The whole world works to these deadlines. STFC and UKRI delayed the announcement of funding"
+            },
+            {
+              "source_turn": 95,
+              "quote": "They knew of the deadline, yes."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Efstathiou",
+          "text": "The science board had warned STFC that delaying the decision would have this effect. Ian Chapman, UKRI's chair, later acknowledged it as a mistake at a Royal Society meeting.",
+          "evidence": [
+            {
+              "source_turn": 91,
+              "quote": "the science board said, “If you do this, this will happen.” We have particle physics theorists on that panel and we gave that advice to STFC."
+            },
+            {
+              "source_turn": 97,
+              "quote": "At a Royal Society meeting where fellows of the Royal Society met with Ian Chapman, he said on that issue, “I hold my hands up. We made a mistake.”"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Heymans",
+          "text": "To be fair, STFC has since protected the total number of postdocs across PPAN against further cuts. But that starts from 2025-26, after an earlier 30% reduction. The astronomy grants panel's chair told me that the 177 government-funded astronomy postdocs this year are the lowest total since it began keeping records in 1999.",
+          "evidence": [
+            {
+              "source_turn": 101,
+              "quote": "In fairness, they have learned from that mistake and have now protected the total number of postdocs across PPAN."
+            },
+            {
+              "source_turn": 101,
+              "quote": "The numbers are linked to the numbers in 2025-26, which were already a 30% cut from the years before. The chair of the Astronomy Grants Panel confirmed to me that right now we have the lowest number of UK Government-funded astronomy postdocs since the panel started collecting that data in 1999."
+            },
+            {
+              "source_turn": 104,
+              "quote": "This year 177 is the total number of UK-funded astronomy postdocs."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Williams",
+          "text": "These decisions also affect whether researchers choose the UK at all. Moving country is costly and disruptive; if jobs suddenly disappear for a year, people will look somewhere with more dependable opportunities.",
+          "evidence": [
+            {
+              "source_turn": 100,
+              "quote": "If you look at the opportunities in a country and suddenly they chop it one year, then why would you choose that country? It is very expensive to move country; it is very hard to move your whole life to another country."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "What remains at risk",
+      "takeaway": "The witnesses warned that universities, shared facilities and international collaborations depend on funding that is not captured by a single headline budget.",
+      "turns": [
+        {
+          "speaker": "Daniel Zeichner",
+          "text": "Universities are under financial pressure too. Can their other funding make up for what's happening to STFC-supported research?",
+          "evidence": [
+            {
+              "source_turn": 117,
+              "quote": "We are all very aware of the pressures the universities in general are under. I just wanted perhaps comments from each of you in turn as to the impact of that and how we have seen in Nottingham, for instance, what has happened. What level of risk are we facing? To what extent can some other funding streams help or not help alongside the STFC challenges?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Butterworth",
+          "text": "Universities are already financially fragile. If research funding falls, they can lose staff and become less attractive to students as well. Universities' costs are also rising, so employing each postdoc costs research funders more than before.",
+          "evidence": [
+            {
+              "source_turn": 118,
+              "quote": "the higher education system in the UK is not in a very sustainable place at the moment."
+            },
+            {
+              "source_turn": 118,
+              "quote": "If the research pillar falls, you lose not only the financial ability there, but then you lose the staff and the attractiveness to students, and you hit a spiral of decline basically."
+            },
+            {
+              "source_turn": 118,
+              "quote": "The cost of an individual postdoc to the research councils goes up because the universities are having to charge more to cover the cost because they are in financial difficulties."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Heymans",
+          "text": "When UKRI says research driven by scientists' own questions is protected, it includes QR funding given to universities. That helps universities meet many costs; it isn't the same as money researchers can apply for to start a new project. With that university funding and international commitments in the same fixed budget, I expect less to be left for those applications.",
+          "evidence": [
+            {
+              "source_turn": 120,
+              "quote": "yes, of course, that QR funding supports what we do but it is not really delivering the blue-skies research. To call QR funding curiosity-driven research just does not work."
+            },
+            {
+              "source_turn": 120,
+              "quote": "the applicant-led curiosity-driven funding, which is what the minutes concerned, is going down. It has to go down because you have a flat capped budget, QR funding is going up, and international subscriptions map inflation."
+            },
+            {
+              "source_turn": 120,
+              "quote": "QR funding also should be separate because it is very different. It really is just supporting the backstop at the universities, which are struggling across the sector at the moment to find funding."
+            }
+          ]
+        },
+        {
+          "speaker": "Freddie van Mierlo",
+          "text": "What do you know about the effects on national research facilities used by people outside particle physics and astronomy?",
+          "evidence": [
+            {
+              "source_turn": 133,
+              "quote": "What are you hearing as academics, or within your fields, about the impact that the cuts to these facilities will have as people who are using them?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Heymans",
+          "text": "We're not the best people to speak for facility users, and some may not yet know what's coming. These facilities support work well beyond our fields, including dementia and antimicrobial research. People on the facilities science board have told me the cuts reach activities they considered important to preserving UK capabilities, but the committee should ask facility staff directly.",
+          "evidence": [
+            {
+              "source_turn": 134,
+              "quote": "Somebody said to me that the majority of users are not aware of what is about to happen."
+            },
+            {
+              "source_turn": 134,
+              "quote": "They said that the depths of the cuts they had to implement on the facilities side extended well into the line items that they had considered at really high risk of a loss of the UK sovereign capability. However, you have to ask those questions to our colleagues on the facilities"
+            },
+            {
+              "source_turn": 134,
+              "quote": "these national facilities deliver for all sectors of UK science."
+            },
+            {
+              "source_turn": 134,
+              "quote": "their research on dementia was going to be impacted by the facilities. I had no idea that our facilities were helping dementia research, antimicrobial research"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Efstathiou",
+          "text": "Under the plan, facilities face checks in 2027 and 2028 on whether they've made the required cuts. If they haven't, closing a facility is the default option. I'm particularly concerned about the ISIS Neutron and Muon Source. I don't know exactly what has already been lost, and my expectation that the first check will fail is a guess, not a certainty.",
+          "evidence": [
+            {
+              "source_turn": 140,
+              "quote": "I do not know the exact answer to your question about what has happened since the spending review."
+            },
+            {
+              "source_turn": 140,
+              "quote": "there will be a gateway point in 2027 and then a second gateway point in 2028. Should they fail to meet their cuts by one or both of those gateways, then the default position is to close the facility. There is a lot of concern that the ISIS Neutron and Muon Source will be the most vulnerable facility to be closed."
+            },
+            {
+              "source_turn": 152,
+              "quote": "I am not optimistic. My guess is that the first gateway in 2027 will fail."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Efstathiou",
+          "text": "A facility can also remain technically open while offering researchers less time on its equipment. STFC has reduced operating time before, when energy costs rose during the Ukraine crisis. The £550 million Diamond-II upgrade, as far as I know, is still going ahead.",
+          "evidence": [
+            {
+              "source_turn": 142,
+              "quote": "as far as I know the £550 million investment in Diamond-II is still going ahead."
+            },
+            {
+              "source_turn": 146,
+              "quote": "In the time of the Ukraine crisis, which put pressure on STFC, STFC decided to cut time. It decided to not keep them operational 100% of the time."
+            },
+            {
+              "source_turn": 148,
+              "quote": "Yes."
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "What are you hearing from partners abroad about whether the UK is still seen as a reliable collaborator?",
+          "evidence": [
+            {
+              "source_turn": 159,
+              "quote": "What are you actually hearing from the physics community in this country and international partners abroad about the impact on our reputation and our attractiveness for collaboration?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Butterworth",
+          "text": "The UK was never known for spending lavishly, but it was known for delivering what it promised. Pulling back from LHCb after signalling support shocked European partners who rely on us. I think that reputation may be recoverable, but it's been badly damaged.",
+          "evidence": [
+            {
+              "source_turn": 160,
+              "quote": "the UK has never had a reputation for being lavish. It has never had enough money to do everything it wanted to do but it has always delivered. Whatever we have promised, we have delivered."
+            },
+            {
+              "source_turn": 160,
+              "quote": "That is a really precious reputation and that has been absolutely shot in the foot by the LHCb decision because the signals that were going out on Government-approved documents were that we were keen on this and we were going to be good partners."
+            },
+            {
+              "source_turn": 160,
+              "quote": "It may be recoverable, but it is really sad to see."
+            },
+            {
+              "source_turn": 166,
+              "quote": "Where it has really had the biggest impact in project delivery has been with our European partners, who are our peers. We rely on each other"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Heymans",
+          "text": "Astronomy partners are surprised too. After roughly £20 million of UK investment in two instruments for the Extremely Large Telescope, we've had to tell them we're pulling out. A much smaller telescope instrument, costing about £60,000 a year to run, has also lost its funding. Partners ask why we invested and then withdrew.",
+          "evidence": [
+            {
+              "source_turn": 163,
+              "quote": "people are just shocked and surprised. This is not what the UK does."
+            },
+            {
+              "source_turn": 163,
+              "quote": "There has been £20 million of investment so far in two instruments that we have just had to say to our colleagues that we have had to pull out of."
+            },
+            {
+              "source_turn": 163,
+              "quote": "We are talking £60,000 a year. That has now been completely cut."
+            },
+            {
+              "source_turn": 163,
+              "quote": "our international colleagues are just a bit baffled, they are saying, “Well why did you invest so much just to pull out?”"
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "Can research driven by scientists' own questions really be protected if the shared facilities they need are weakened?",
+          "evidence": [
+            {
+              "source_turn": 169,
+              "quote": "Is it possible to protect curiosity-driven research while undermining multidisciplinary facilities?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Butterworth",
+          "text": "No. Those facilities give scientists the means to test their questions and develop the technology they need. Protecting the idea of research isn't enough if researchers can't use the equipment to do it.",
+          "evidence": [
+            {
+              "source_turn": 170,
+              "quote": "That is right. The facilities provide the capability to do the curiosity-led research."
+            },
+            {
+              "source_turn": 172,
+              "quote": "Even the theorists will run out of things to be curious about if you are not pushing the technologies and you do not have the facilities to address the questions they are interested in."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

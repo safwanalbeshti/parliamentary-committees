@@ -2,9 +2,9 @@
   "schema_version": 1,
   "source_id": 18320,
   "source_sha256": "d25164a0b833680efcc90d7a67277d78a155c6c0a28a3ff2dc666567a1ebcb7d",
-  "title": "Channel 4: complaints, programmes and financial pressures",
-  "label": "17 November 2026 · Channel 4's work and future",
-  "summary": "Channel 4’s leaders discussed the handling of past complaints about Russell Brand and Married at First Sight, the steps they say they are taking to improve safety, and concerns about confidentiality agreements and industry-wide accountability. They also explained why Channel 4 cancelled Married at First Sight, outlined job cuts and plans for regional work, and defended partnerships to reach audiences on Disney+ while protecting Channel 4’s independence. Committee members welcomed some planned changes but pressed for stronger, more independent scrutiny and clearer evidence that complaints are handled well.",
+  "title": "Channel 4: safety, spending and the future of its programmes",
+  "label": "17 November 2026 · Channel 4",
+  "summary": "Channel 4’s chief executive and chair faced questions about complaints linked to Russell Brand and Married at First Sight, how people working on programmes can report harm, and whether commercial success can undermine safety. They also discussed job cuts, production outside London, partnerships with other broadcasters, news and sport. Priya Dogra described changes already made and promised others, but committee members pressed her on complaints that had been mishandled and on whether people would feel safe speaking up.",
   "speakers": [
     {
       "label": "Chair",
@@ -82,395 +82,907 @@
   "glossary": [
     {
       "term": "CIISA",
-      "definition": "The Creative Industries Independent Standards Authority, an organisation intended to improve behaviour and safety across the creative industries."
+      "definition": "The Creative Industries Independent Standards Authority, an industry body developing standards and a route for raising concerns about harmful behaviour."
+    },
+    {
+      "term": "Speak Up",
+      "definition": "Channel 4’s service for reporting concerns, including anonymously."
     },
     {
       "term": "Ofcom",
-      "definition": "The UK regulator that oversees television, radio and other communications services."
+      "definition": "The UK regulator that oversees broadcasting standards."
     },
     {
-      "term": "NDA",
-      "definition": "A non-disclosure agreement, a contract that restricts what someone can share."
+      "term": "NDAs",
+      "definition": "Non-disclosure agreements: promises, usually in contracts, not to reveal certain information."
     },
     {
       "term": "settlement agreement",
-      "definition": "A legal agreement, often made when someone leaves a job, that sets out the terms for resolving a dispute."
+      "definition": "An agreement setting out the terms on which someone leaves a job or resolves a dispute."
     },
     {
-      "term": "PSB",
-      "definition": "A public-service broadcaster, which provides programmes intended to serve the public as well as attract audiences."
+      "term": "commissioning",
+      "definition": "Paying another company to make a programme for broadcast."
     },
     {
       "term": "ITN",
-      "definition": "A UK news and television production company that makes Channel 4 News and programmes for other broadcasters."
+      "definition": "The news organisation that makes Channel 4 News and news for other broadcasters."
+    },
+    {
+      "term": "CMA",
+      "definition": "The Competition and Markets Authority, which examines whether business deals could harm competition."
+    },
+    {
+      "term": "free-to-air",
+      "definition": "Available to watch without paying for a subscription."
     }
   ],
   "chapters": [
     {
-      "title": "Complaints and safety at work",
-      "takeaway": "Channel 4 says it has improved its reporting systems, but the Chair questioned whether people who complained in the past were properly heard and whether an independent inquiry is needed.",
+      "title": "When complaints weren't heard",
+      "takeaway": "Channel 4 accepted that it mishandled a former employee’s complaint twice, while the committee questioned whether its new reporting system would earn people’s trust.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "Channel 4’s Dispatches investigation helped bring Russell Brand’s behaviour into public view. But a former employee, known as Bella, says her complaint about an assault in 2009 wasn’t properly investigated then or when she raised it again in 2023. Has Channel 4 done enough to protect people and investigate complaints made inside the organisation?"
+          "text": "A former employee known as Bella complained that Russell Brand had sexually assaulted her. Channel 4 failed to investigate properly in 2009, and she says it mishandled her attempt to raise the complaint again in 2023. How can you know others weren't missed too?",
+          "evidence": [
+            {
+              "source_turn": 1,
+              "quote": "her complaint that Russell Brand had sexually assaulted her was not properly investigated twice, once in 2009 and again in 2023 after the “Dispatches” documentary"
+            },
+            {
+              "source_turn": 3,
+              "quote": "How confident are you that others who tried to come forward were all picked up or were there others who fell through the cracks and were never found?"
+            }
+          ]
         },
         {
           "speaker": "Priya Dogra",
-          "text": "Bella’s complaint should have been investigated properly both times. The previous chief executive apologised, and that apology stands. We’ve strengthened Speak Up, our anonymous complaints service, and complaints are reported regularly to the board."
+          "text": "Bella’s complaint should have been investigated in 2009. It wasn't handled properly when she came back in 2023 either. We've strengthened Speak Up, our anonymous reporting service: its details appear on production call sheets, and reports reach me and are regularly reported to the board.",
+          "evidence": [
+            {
+              "source_turn": 2,
+              "quote": "Her complaint was not investigated properly in 2009 and it should have been. It was not escalated properly."
+            },
+            {
+              "source_turn": 2,
+              "quote": "It is anonymous, run by a company called Safecall, where every call handler has 25 years of experience. Those complaints are escalated to me and reported to the board regularly."
+            },
+            {
+              "source_turn": 4,
+              "quote": "Initially, when Bella made her complaint in 2023 it was not handled properly and it is almost unforgivable that that happened twice. Since that time, beginning under Alex and continuing, we have strengthened Speak Up to show up on every call sheet."
+            }
+          ]
         },
         {
           "speaker": "Chair",
-          "text": "Bella says the later investigation was a shambles and that she had to repeat her account several times. She also knows of other people whose complaints were mishandled. How can former staff, not just current employees, be sure they won’t fall through the gaps?"
+          "text": "Bella had already left Channel 4 when she complained again. She says she had to go through the main switchboard and repeat her story. Does your system work for former staff, not just current employees and freelancers?",
+          "evidence": [
+            {
+              "source_turn": 5,
+              "quote": "Bella was not a member of staff at the time she made her complaint and that is why she thinks she fell through the cracks."
+            },
+            {
+              "source_turn": 7,
+              "quote": "in her case she had to go through the main switchboard and it was not properly handled. She was passed from pillar to post and literally her case fell through the gaps. She had to keep coming backwards and backwards and backwards to tell her story."
+            }
+          ]
         },
         {
           "speaker": "Priya Dogra",
-          "text": "I’m horrified to hear others may have been missed. Anyone in that position can contact Speak Up and remain anonymous. People also contact us through viewer enquiries or directly, and we should make sure they reach the right people without having to repeat painful experiences."
+          "text": "She shouldn't have had to relive that trauma. People can now use Speak Up, contact us through viewer enquiries or write directly to me or colleagues. I'm horrified to hear that others may also feel their complaints were missed, and I urge them to contact us.",
+          "evidence": [
+            {
+              "source_turn": 6,
+              "quote": "I am horrified to learn that there were others that I am not aware of who made complaints at that time and feel they have fallen through the cracks. If they have, I urge them to contact us through Speak Up if they want to stay anonymous."
+            },
+            {
+              "source_turn": 8,
+              "quote": "It should not be that way, particularly when someone is reliving their trauma by telling the story over and over."
+            },
+            {
+              "source_turn": 8,
+              "quote": "The first, as I mentioned, is Speak Up. A lot of people also come in through our viewer enquiries line. If they come in through viewer enquiries, generally that complaint, if it is appropriate, will be directed to Speak Up, and there are others who have written to me directly or other members of my staff."
+            }
+          ]
         },
         {
           "speaker": "Chair",
-          "text": "Bella says she was passed between people after calling the main switchboard. Having a system on paper isn’t enough if people don’t feel safe using it. Can you be certain staff have that confidence?"
+          "text": "Having a reporting service doesn't mean people feel safe using it. They may fear damage to their careers. And the review of what happened wasn't independent of Channel 4, was it?",
+          "evidence": [
+            {
+              "source_turn": 13,
+              "quote": "Just because you have something in place does not mean that people feel confident using it."
+            },
+            {
+              "source_turn": 13,
+              "quote": "people are afraid to speak up because they worry what it will do to their own careers."
+            },
+            {
+              "source_turn": 17,
+              "quote": "That is not independent, is it?"
+            }
+          ]
         },
         {
           "speaker": "Priya Dogra",
-          "text": "No, I can’t say that everyone feels confident. We believe Speak Up is strong and anonymous, but people may not trust it, so there should be other ways to raise concerns. We’re willing to have the service audited."
-        },
-        {
-          "speaker": "Chair",
-          "text": "Would you commission an independent inquiry into what happened in 2009 and 2023?"
+          "text": "You're right: I can't be certain everyone will use Speak Up. The review was overseen by a committee of our board, so it wasn't independent, though it was thorough. I'd be happy for Speak Up itself to be audited. We need to keep improving protection for people working on programmes.",
+          "evidence": [
+            {
+              "source_turn": 12,
+              "quote": "I would be happy for our Speak Up facility to be properly audited."
+            },
+            {
+              "source_turn": 18,
+              "quote": "The ethics committee is not independent. It is a sub-committee of the board, but the review was conducted by a member of the legal and compliance team who had joined in 2017."
+            },
+            {
+              "source_turn": 18,
+              "quote": "You are right, I cannot be 100% confident people will use our facility"
+            },
+            {
+              "source_turn": 18,
+              "quote": "we work with the industry as a whole to talk about not just the way that people come to us with complaints but how we protect welfare on a set."
+            }
+          ]
         },
         {
           "speaker": "Priya Dogra",
-          "text": "A thorough review was conducted under the board’s ethics committee, with a large document review and interviews. It wasn’t independent: a member of our legal and compliance team carried it out. We’re now focused on improving how complaints and welfare are handled."
+          "text": "There’s a power imbalance when a star can affect a freelancer’s prospects. We offer freelancers advice on their rights, and we're considering anonymous surveys during more productions so problems can be spotted before filming ends. Commercial success mustn't decide whether we act: I've walked away from a show over our values.",
+          "evidence": [
+            {
+              "source_turn": 10,
+              "quote": "in media we create stars. That is what TV and film does and they can appear larger than life. Another feature of media is the backbone of this industry is freelancers and they generally work on short-term contracts. That exacerbates the power imbalance."
+            },
+            {
+              "source_turn": 10,
+              "quote": "We created Action for Freelancers, in collaboration with the Film and TV Charity, that enables them to understand their rights"
+            },
+            {
+              "source_turn": 10,
+              "quote": "anonymous surveys through the course of productions so you are not waiting until the end to figure out if something happened. You can spot patterns early on."
+            },
+            {
+              "source_turn": 10,
+              "quote": "We will walk away from a big show, a big personality because it does not align with our values. I had to do that on a recent show"
+            }
+          ]
         },
         {
-          "speaker": "Chair",
-          "text": "That doesn’t give us confidence that people on Channel 4 productions will feel safe speaking up."
+          "speaker": "Nigel Huddleston",
+          "text": "What are you doing before filming starts to identify people who might abuse others? Industry gossip isn't enough if concerns only become formal complaints years later.",
+          "evidence": [
+            {
+              "source_turn": 56,
+              "quote": "What are you doing to proactively make sure that abuse does not happen in the first place? Do you have a watchlist?"
+            },
+            {
+              "source_turn": 58,
+              "quote": "Everybody knows the wrong’uns. There is the gossip out there, the rumour mill that you do not want your daughter being in a room with that person. We have all heard it but then years later we find out that there are complaints."
+            }
+          ]
         },
         {
           "speaker": "Priya Dogra",
-          "text": "We can’t promise every person will feel confident, but we can make it clear that complaints will be taken seriously. We’re making CIISA registration mandatory for production companies we work with, and it could provide a neutral place to raise concerns."
+          "text": "Informal watchlists risk mixing genuine misconduct with unreliable allegations and raise questions about personal data. We make enquiries about people we hire and check backgrounds for people we cast. But that relies partly on what others tell us. Sharing reports across the industry might reveal patterns; we'd need to work out how to do that lawfully.",
+          "evidence": [
+            {
+              "source_turn": 57,
+              "quote": "there are informal watchlists floating around the industry, not just our industry but others. It is fraught with a lot of concerns, not least of which is data protection and the fact that there may be some real misconduct on this list and there may be other examples that is not."
+            },
+            {
+              "source_turn": 57,
+              "quote": "We make proper enquiries, we ask around."
+            },
+            {
+              "source_turn": 59,
+              "quote": "When we cast people, whether it is members of the public or others, we do background checks and home visits, and we chat to friends and family."
+            },
+            {
+              "source_turn": 59,
+              "quote": "If it is collecting information across the industry, pattern spotting could help exactly in the instances that you raise. Obviously we now have to work out how you do that, and how you do that in a way that is compliant with data protection."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Who can raise concerns?",
+      "takeaway": "Channel 4 promised a direct welfare contact and wider use of industry standards, but questions remained about confidentiality agreements and complaints at companies making its programmes.",
+      "turns": [
+        {
+          "speaker": "Alison Hume",
+          "text": "Will every production company making programmes for Channel 4 have to join CIISA, the industry body setting standards for safe working?",
+          "evidence": [
+            {
+              "source_turn": 19,
+              "quote": "Will you make sure that all of the production companies that work for you sign up to CIISA going forward?"
+            }
+          ]
+        },
+        {
+          "speaker": "Priya Dogra",
+          "text": "Yes. We've encouraged companies to follow its standards; going forward, joining CIISA will be mandatory for companies we work with.",
+          "evidence": [
+            {
+              "source_turn": 20,
+              "quote": "We have encouraged the production companies we work with to follow the CIISA standards. Going forward, we will make it mandatory for companies we work with to be members of CIISA."
+            }
+          ]
         },
         {
           "speaker": "Alison Hume",
-          "text": "Young freelancers can be especially vulnerable, and a hotline on a call sheet may not be enough. Could they have a named person at Channel 4 to contact directly?"
+          "text": "Young freelancers also need a named person at Channel 4 they can contact about behaviour on a production—not just an anonymous number on a call sheet.",
+          "evidence": [
+            {
+              "source_turn": 21,
+              "quote": "Are you able to look at a scheme where there would be a point of contact in Channel 4 for that person so that you are looking out for the most vulnerable people in the industry?"
+            },
+            {
+              "source_turn": 23,
+              "quote": "young freelancers have a point of contact with Channel 4 and it is not just them ringing up Speak Up on the call sheet."
+            }
+          ]
         },
         {
           "speaker": "Priya Dogra",
-          "text": "We’ve appointed a welfare executive, Cheryl Woodcock, so welfare complaints go to someone separate from the person responsible for commissioning the programme. We’ll make her role more visible if that helps people contact us directly."
-        },
-        {
-          "speaker": "Alison Hume",
-          "text": "Channel 4’s supplier rules also cover disabled crew members and adjustments they may need. How do those rules work alongside CIISA’s standards?"
-        },
-        {
-          "speaker": "Priya Dogra",
-          "text": "Our supplier rules set out what companies and their staff should do, including making adjustments for disabled workers. They’re designed to work alongside CIISA’s standards, not replace them."
+          "text": "We've appointed Cheryl Woodcock to deal with welfare concerns separately from decisions about programmes. That's meant to give complaints a route other than the person overseeing the show. We'll make her role more visible so people can contact someone directly.",
+          "evidence": [
+            {
+              "source_turn": 22,
+              "quote": "we have appointed a welfare executive, Cheryl Woodcock. One of the recommendations that Lorraine made was a clearer distinction between welfare and commissioning, such that complaints related to welfare will now first go to Cheryl instead of the commissioning editor."
+            },
+            {
+              "source_turn": 24,
+              "quote": "we will make Cheryl’s role more prominent if it helps with the issue that they need to reach out to someone directly within Channel 4."
+            }
+          ]
         },
         {
           "speaker": "Chair",
-          "text": "You’ve committed to requiring production companies to register with CIISA, but Channel 4 has only signed up for one year. Will you commit for three?"
+          "text": "CIISA asks organisations to commit for three years. Why has Channel 4 committed for only one?",
+          "evidence": [
+            {
+              "source_turn": 29,
+              "quote": "CIISA, although not mandatory, asks organisations to register with it to commit to three years. Is Channel 4’s commitment for three years?"
+            }
+          ]
         },
         {
           "speaker": "Priya Dogra",
-          "text": "We’re committed to making registration mandatory for our production companies. Our own commitment is currently for one year because we have questions about the organisation’s plans for its second and third years, including how it would handle personal information and whether it could require people or companies to provide evidence."
-        }
-      ]
-    },
-    {
-      "title": "Contracts, culture and prevention",
-      "takeaway": "Witnesses rejected blanket gagging agreements and described culture changes, while members argued that systems and good intentions won’t by themselves prevent abuse or expose repeat offenders.",
-      "turns": [
-        {
-          "speaker": "Liz Jarvis",
-          "text": "Does Channel 4 use NDAs? A report described dozens of settlement deals with former employees and said £5 million was paid to keep complaints from escalating."
-        },
-        {
-          "speaker": "Geoff Cooper",
-          "text": "A blanket NDA isn’t the right approach, though confidentiality terms can have a proper use in particular circumstances."
-        },
-        {
-          "speaker": "Priya Dogra",
-          "text": "We don’t use blanket NDAs. Some employment contracts and settlement agreements have confidentiality clauses, but they shouldn’t prevent people reporting misconduct. Older agreements may have had broader wording; we’ve said we won’t enforce clauses that would stop someone speaking up."
+          "text": "We support CIISA, but want answers about its plans for years two and three. In particular, we have questions about protecting personal data and whether it could require witnesses to speak or companies to hand over information.",
+          "evidence": [
+            {
+              "source_turn": 30,
+              "quote": "At the moment we have made a one-year commitment to CIISA. The reason is not that we don’t believe in CIISA at all."
+            },
+            {
+              "source_turn": 30,
+              "quote": "We wanted to engage with CIISA on some of the specifics of the year 2 and year 3 activities they want to do. We have questions about data protection and ability to compel witnesses or ability to compel companies to release certain kinds of data."
+            }
+          ]
         },
         {
           "speaker": "Liz Jarvis",
-          "text": "How many such agreements have been signed since 2021, and how many involved allegations of harassment or misconduct?"
+          "text": "Does Channel 4 use NDAs—agreements that stop people speaking about what happened at work? Reports about earlier payments to departing staff have raised concerns that people were prevented from pursuing complaints.",
+          "evidence": [
+            {
+              "source_turn": 37,
+              "quote": "Geoff, does Channel 4 use NDAs?"
+            },
+            {
+              "source_turn": 40,
+              "quote": "Deadline said Channel 4 paid out £5 million to these individuals to prevent complaints escalating. They sound like NDAs to me."
+            }
+          ]
         },
         {
           "speaker": "Priya Dogra",
-          "text": "I don’t have those figures with me, so I’ll need to provide them later. Production companies make their own contracts with the people they hire; Channel 4 isn’t party to those agreements."
-        },
-        {
-          "speaker": "Liz Jarvis",
-          "text": "Could a junior person on a set complain about a star without fearing for their job?"
-        },
-        {
-          "speaker": "Priya Dogra",
-          "text": "Their complaint should be taken seriously, but I can’t responsibly guarantee that every person will always get the response they deserve. My job is to set expectations, provide ways to report problems, and make clear that people who raise concerns shouldn’t suffer consequences for doing so."
-        },
-        {
-          "speaker": "Liz Jarvis",
-          "text": "Did the money Channel 4 made from Big Brother affect how complaints about Brand’s behaviour were handled?"
-        },
-        {
-          "speaker": "Priya Dogra",
-          "text": "I wasn’t there, so I can’t say what people knew or why they made particular decisions. The review found no hard evidence that people at Channel 4 knew of the crimes Brand has since been convicted of. But commercial success can’t be allowed to override our values. I’ve walked away from a show when it didn’t fit those values."
-        },
-        {
-          "speaker": "Geoff Cooper",
-          "text": "Commercial targets can affect how people respond to a complaint. The board is treating culture as a serious issue. We’re considering how people’s conduct should affect their bonuses, and we’re adding board members with direct experience of production and commissioning."
-        },
-        {
-          "speaker": "Priya Dogra",
-          "text": "Culture also depends on who we hire, what behaviour we reward and who gets promoted. We’re recruiting a new people chief with experience leading cultural change, and we expect production companies to follow the standards we set."
-        },
-        {
-          "speaker": "Nigel Huddleston",
-          "text": "You can have procedures and still fail to prevent abuse. Do you keep a watchlist of people whose behaviour raises concern?"
-        },
-        {
-          "speaker": "Priya Dogra",
-          "text": "There are informal lists in the industry, but they raise serious concerns about accuracy and people’s privacy. We make checks, ask about people’s conduct on previous productions and use our judgment, but we aren’t an investigative body."
-        },
-        {
-          "speaker": "Nigel Huddleston",
-          "text": "People may have heard rumours for years before a complaint is made. Could the industry share information to spot patterns earlier?"
-        },
-        {
-          "speaker": "Priya Dogra",
-          "text": "That might help, and CIISA could potentially identify patterns across the industry. But we’d need to work out how to do that accurately and lawfully. No single measure will solve this: we need checks before filming, ways to monitor welfare during production and safe ways to report problems."
+          "text": "We don't use blanket NDAs. Some contracts and agreements made when staff leave have confidentiality clauses, and older ones could be broad. We now make clear that people can report misconduct, and we won't enforce older clauses to stop them doing so. I don't have the figures you asked for on agreements signed since 2021 or how many involved misconduct allegations; I'll have to get back to you.",
+          "evidence": [
+            {
+              "source_turn": 39,
+              "quote": "We don’t use blanket NDAs. There will be confidentiality clauses in certain contracts and in staff settlement agreements when people are leaving the company."
+            },
+            {
+              "source_turn": 39,
+              "quote": "if you want to report misbehaviour, misconduct, all of those are permissible because they should be. In prior contracts where those caveats were not available, we have made clear that we will not be enforcing them"
+            },
+            {
+              "source_turn": 41,
+              "quote": "You are correct in saying that prior to the last few years some of those clauses were quite broad."
+            },
+            {
+              "source_turn": 43,
+              "quote": "I am afraid I will have to get back to you on that. I do not know the details."
+            }
+          ]
         },
         {
           "speaker": "Dr Rupa Huq",
-          "text": "Channel 4 also relies on outside producers. ITN has faced allegations about how workplace complaints were handled, including claims that women were silenced. Do you know whether ITN has joined CIISA?"
+          "text": "There have also been complaints about how people at ITN, which makes Channel 4 News, were treated after raising sexual harassment concerns. Will you look into what they've told us?",
+          "evidence": [
+            {
+              "source_turn": 108,
+              "quote": "The allegations here are that there were seven NDAs taken out against women in “Channel 4 News”. Do you know anything about that?"
+            },
+            {
+              "source_turn": 110,
+              "quote": "Those people have written to us and they feel that they were gagged and disciplined for raising sexual harassment cases."
+            },
+            {
+              "source_turn": 112,
+              "quote": "This stuff we were all sent was about a freelance person."
+            }
+          ]
         },
         {
           "speaker": "Priya Dogra",
-          "text": "I don’t know whether it has. We expect our production partners to register with CIISA, and I’m aware of the ITN complaints, though ITN is handling them through its own human resources team. I’ll look into the concerns raised with the Committee."
+          "text": "I'm aware there are issues at ITN, though I'm not directly involved and its own staff team is handling them. I may have misunderstood whether the case you mean involves a freelancer. I'm happy to look into it.",
+          "evidence": [
+            {
+              "source_turn": 109,
+              "quote": "I am aware of the complaints and the issues around ITN. I am not directly involved in that. They are handling them via their own HR department"
+            },
+            {
+              "source_turn": 111,
+              "quote": "I do believe that in that instance we are talking about employees of ITN and not freelancers but I may have to check my facts in that instance."
+            },
+            {
+              "source_turn": 113,
+              "quote": "Okay. I am happy to look into that."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Why Channel 4 cancelled Married at First Sight",
-      "takeaway": "Channel 4 cancelled the popular reality show after reviews proposed changes its chief executive believed would fundamentally alter it, but the Chair challenged how fully earlier complaints had been examined.",
+      "title": "Why Married at First Sight ended",
+      "takeaway": "Dogra said reviews did not find that Channel 4 had broken broadcasting standards, but she cancelled the profitable show rather than make it under proposed new safeguards.",
       "turns": [
         {
           "speaker": "Mr Bayo Alaba",
-          "text": "Why did you decide to cancel Married at First Sight?"
+          "text": "Why did you cancel Married at First Sight?",
+          "evidence": [
+            {
+              "source_turn": 61,
+              "quote": "Why did you decide to cancel “Married at First Sight”?"
+            }
+          ]
         },
         {
           "speaker": "Priya Dogra",
-          "text": "Soon after I took the job, I received serious allegations from BBC Panorama. I commissioned a review by law firm Clyde & Co into how the complaints had been handled, and asked television executive Lorraine Heggessey to recommend future safety standards."
+          "text": "Four weeks after I started, BBC Panorama sent serious allegations of sexual assault. I asked for an independent review of how Channel 4 had handled the issues, plus recommendations for making the programme safely in future. The reviews said standards on set were high; one found no breach of Ofcom's broadcasting standards on the evidence it examined. They didn't decide whether the alleged assaults happened—that's for other authorities.",
+          "evidence": [
+            {
+              "source_turn": 62,
+              "quote": "four weeks later I received a very long letter from BBC “Panorama” with very shocking and serious allegations of sexual assault. I took that letter very seriously. Within days, I commissioned an independent review."
+            },
+            {
+              "source_turn": 62,
+              "quote": "I asked Clyde & Co to look at our handling of those issues when they were raised, based on what we knew, how we handled them and did we have the right standards and protocols in place. I also asked Lorraine Heggessey"
+            },
+            {
+              "source_turn": 62,
+              "quote": "The Clyde report and Lorraine’s report both said that the standards on the set were of a very high nature and other productions had learned from them. Clyde’s also said that, based on the evidence that they had reviewed, they did not believe that Channel 4 had breached Ofcom standards."
+            },
+            {
+              "source_turn": 62,
+              "quote": "The report does not adjudicate on the actual serious allegations"
+            }
+          ]
         },
         {
           "speaker": "Priya Dogra",
-          "text": "The reviews said the set’s standards were high and that Channel 4 hadn’t breached Ofcom rules based on the evidence examined. But some proposed changes, including recording around the clock and locking rooms and bathrooms, would have made it a completely different show. I decided to stop making it and use the budget for new programmes."
+          "text": "Putting all the recommendations into practice would, I felt, produce a different show. Some involved recording around the clock for monitoring, or changes to room and bathroom locks. I wasn't comfortable making that show, so I cancelled it and invited production companies to pitch new ideas instead.",
+          "evidence": [
+            {
+              "source_turn": 62,
+              "quote": "I felt that the wholesale implementation of those recommendations would lead to a completely different show."
+            },
+            {
+              "source_turn": 62,
+              "quote": "They would involve 24/7 recording, not for broadcast but for monitoring and editorial. There was talk of double-locking rooms and bathrooms and I did not feel that was a show that I wanted to be making. Ultimately, I made that decision."
+            },
+            {
+              "source_turn": 62,
+              "quote": "We should take the quite hefty programme budget from this show and invest it in exactly that, which is new shows. We have an open call to the independent production community to pitch us their best ideas."
+            }
+          ]
         },
         {
           "speaker": "Mr Bayo Alaba",
-          "text": "Does cancelling it acknowledge that the show had inherent risks or that Channel 4 failed in its duty of care?"
+          "text": "Does cancelling it mean you accept that this kind of programme had failed in its duty to keep participants safe?",
+          "evidence": [
+            {
+              "source_turn": 63,
+              "quote": "Is this also an acknowledgement of the inherent risks and the failure of a duty of care for these types of programmes?"
+            }
+          ]
         },
         {
           "speaker": "Priya Dogra",
-          "text": "That wasn’t what I meant by saying we’d take a different creative route. The reviews didn’t say the programme itself was faulty, though they did suggest changes that could be useful elsewhere. For example, they suggested people should choose to live together rather than having to opt out."
+          "text": "No, that isn't what my decision was meant to say. The reviews didn't say the programme itself was faulty. Some recommendations seem sensible—for example, asking participants to choose to live together rather than making that the default—but accepting recommendations isn't an admission that Channel 4 failed in the past. I recognise that three women have made very serious allegations.",
+          "evidence": [
+            {
+              "source_turn": 64,
+              "quote": "That is not what the statement was intended to do."
+            },
+            {
+              "source_turn": 64,
+              "quote": "I recognise, though, that I am making that statement in the context of three women coming forward and making very serious allegations."
+            },
+            {
+              "source_turn": 64,
+              "quote": "Both the reviews did not say that the programme itself was faulty but that there were changes that we could make"
+            },
+            {
+              "source_turn": 64,
+              "quote": "At the moment we have people opt out of living together and the recommendation suggests perhaps we should have them opt in."
+            },
+            {
+              "source_turn": 64,
+              "quote": "I don’t think that in itself was an admission that we failed in the past."
+            }
+          ]
         },
         {
           "speaker": "Mr Bayo Alaba",
-          "text": "How did the show serve the public, beyond entertainment?"
+          "text": "It was a profitable show. How can Channel 4 put safety and its wider purpose ahead of the income that pays for other programmes?",
+          "evidence": [
+            {
+              "source_turn": 67,
+              "quote": "there are also commercial pressures that all three will be responding to and working around. You mentioned earlier that ethical routes need to outrank commercial deals and you went on to talk about how PSBs follow that. How possible is that?"
+            }
+          ]
         },
         {
           "speaker": "Priya Dogra",
-          "text": "It began as a social experiment: could people build relationships if experts matched them? Over time it became more of an entertainment show. Some viewers also watched discussions about behaviour and conflict, but I wouldn’t overstate that part."
+          "text": "It has to be possible. Married at First Sight made money that helped pay for things like news, so cancelling it will hurt our finances. We need to develop other popular shows while continuing to fund programmes that serve the public but aren't designed to make money.",
+          "evidence": [
+            {
+              "source_turn": 68,
+              "quote": "it has to be possible if that is the kind of industry we want to fund."
+            },
+            {
+              "source_turn": 68,
+              "quote": "It was a very profitable show and, if it is profitable, it pays for all sorts of other programming, including our news"
+            },
+            {
+              "source_turn": 68,
+              "quote": "To say that it will not be a loss to the financials would be wrong, of course it will, but the job is to have a broad enough slate and to make bets for the future so you can have bigger returning shows."
+            },
+            {
+              "source_turn": 68,
+              "quote": "we balance the investment we make in that with investments elsewhere that are perhaps more commercial."
+            }
+          ]
         },
         {
           "speaker": "Chair",
-          "text": "People who took part have complained to Channel 4 and the production company, CPL. How many complaints about sexual misconduct were made during the show’s run?"
+          "text": "People who appeared on the show have told us their complaints weren't taken seriously. Did your review count all complaints about it, beyond the three cases featured by Panorama?",
+          "evidence": [
+            {
+              "source_turn": 69,
+              "quote": "we have received correspondence from individuals who took part in “Married at First Sight” in the past who had complained to CPL Productions and Channel 4 that they felt their complaints were not taken seriously at the time."
+            },
+            {
+              "source_turn": 81,
+              "quote": "You are saying that your inquiry did not actually look at how many complaints were made about this show in total?"
+            }
+          ]
         },
         {
           "speaker": "Priya Dogra",
-          "text": "I don’t have the total number. The review focused on the specific cases raised by Panorama, rather than going through every series and episode. We believe the complaints we looked at were handled appropriately, but if others feel they weren’t, we’ll take that seriously."
-        },
-        {
-          "speaker": "Chair",
-          "text": "The journalists said they had more cases than they could include in the programme. Why didn’t your review establish the total number of complaints?"
-        },
-        {
-          "speaker": "Priya Dogra",
-          "text": "The review’s purpose was to examine those specific cases, not conduct a wider count. Channel 4 and CPL should have records, and I’m concerned if other people have not been heard."
-        },
-        {
-          "speaker": "Chair",
-          "text": "It looks as if Channel 4 examines problems only once public attention makes them a reputational issue. Bella’s complaint was even filed under “Reputation”."
-        },
-        {
-          "speaker": "Priya Dogra",
-          "text": "That label was a default used by the people handling calls, and it was wrong. It was hurtful and we should have had a better process. We commissioned the Married at First Sight review before knowing whether Panorama would be broadcast, and it examined around 30,000 documents."
-        },
-        {
-          "speaker": "Chair",
-          "text": "Doesn’t labelling an abuse complaint as a reputation matter say something about the organisation’s culture?"
-        },
-        {
-          "speaker": "Priya Dogra",
-          "text": "It was an error, and the process has been changed. I don’t believe the label reflects the organisation’s culture, but I understand why it caused concern."
-        },
-        {
-          "speaker": "Priya Dogra",
-          "text": "We’ll also apply useful recommendations to other programmes, review practices regularly and rotate people who’ve worked on a production for many years, so new eyes can spot problems."
+          "text": "No. The review examined how we handled those specific cases, not every series or all complaints. I don't have the total number here; Channel 4 and the production company would hold that information. If others believe their complaints weren't handled properly, they should come to us and we'll look into them.",
+          "evidence": [
+            {
+              "source_turn": 80,
+              "quote": "I looked specifically into those instances. I did not do a broad sweep of every session or every episode of the show. That is not what the terms of reference for the review were. If there are others, we would take them seriously and we would look into them on the same basis."
+            },
+            {
+              "source_turn": 82,
+              "quote": "The inquiry looked at our handling of these specific incidents."
+            },
+            {
+              "source_turn": 76,
+              "quote": "I do not know the number of complaints in total that were made against that show."
+            },
+            {
+              "source_turn": 86,
+              "quote": "We would have that information internally through us and CPL."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Job cuts, regions and new talent",
-      "takeaway": "Channel 4 says a 28% staff reduction is intended to protect programme spending and make the organisation financially sustainable, while promising to retain offices and work across the UK.",
+      "title": "Jobs, regions and opportunity",
+      "takeaway": "Channel 4 plans to remove 340 roles to reduce non-programme spending, while saying it remains committed to work outside London.",
       "turns": [
         {
           "speaker": "Gill German",
-          "text": "You’ve announced cuts of 340 jobs, about 28% of staff. What will that mean for Channel 4’s offices and opportunities outside London?"
+          "text": "You're cutting 28% of roles. What will that mean for your offices outside London and for jobs across the UK?",
+          "evidence": [
+            {
+              "source_turn": 93,
+              "quote": "you were looking at a more efficient operating model and that involved a 28% cut in headcount across the organisation."
+            },
+            {
+              "source_turn": 93,
+              "quote": "What will those cuts look like across those locations and what does that mean for the regional spread of roles in the UK?"
+            }
+          ]
         },
         {
           "speaker": "Priya Dogra",
-          "text": "We’d reached a point where 40 pence of every pound went on costs other than programmes, up from 30 pence. Cutting 340 roles is a difficult decision, but we need to be sustainable and protect the money spent on programmes. We designed the changes without favouring one location over another."
-        },
-        {
-          "speaker": "Priya Dogra",
-          "text": "We’re still consulting, so I can’t yet say how roles will be distributed. Nobody will be asked to move, and we’ll keep a presence in our existing cities. Leeds is especially important for our digital news and social media work."
+          "text": "It's a difficult decision affecting 340 roles. Spending outside programme-making had risen from 30p to 40p of every pound, and we need more money available for programmes. We designed the changes without targeting particular locations. Consultation is still under way, so I can't give the final office-by-office figures. No one will be asked to move city, and we'll keep a presence in our existing locations.",
+          "evidence": [
+            {
+              "source_turn": 94,
+              "quote": "We had got into a state where we used to spend 30p in the pound on non-programming costs and we were spending 40p in the pound."
+            },
+            {
+              "source_turn": 94,
+              "quote": "28% of staff, 340 roles, is a lot of roles and these are people who have been part of our successes"
+            },
+            {
+              "source_turn": 94,
+              "quote": "When we designed it we did it on a location-neutral basis"
+            },
+            {
+              "source_turn": 94,
+              "quote": "We are still going through consultation so I do not have that information until the end of November or early December."
+            },
+            {
+              "source_turn": 94,
+              "quote": "no one will be asked to relocate. Whatever offices they work in, we will have a presence in those cities."
+            }
+          ]
         },
         {
           "speaker": "Geoff Cooper",
-          "text": "Our commitment to the nations and regions hasn’t weakened. I made sure my first day was in Leeds and that we scheduled more board meetings outside London, partly to show the organisation isn’t centred only on the capital."
+          "text": "The board's commitment to work across the UK hasn't weakened. But we need to finish consulting staff before we know exactly what the organisation will look like in each location.",
+          "evidence": [
+            {
+              "source_turn": 95,
+              "quote": "we will not know what we look like until we have gone through consultation but it does not represent a weakening of our commitment to nations and regions."
+            }
+          ]
         },
         {
           "speaker": "Gill German",
-          "text": "Will you protect 4Skills, your scheme for giving people training and entry routes into television?"
+          "text": "Will you protect the budget for 4Skills, which helps people enter the industry and develop careers? Opportunities outside London matter too.",
+          "evidence": [
+            {
+              "source_turn": 96,
+              "quote": "Channel 4 has its 4Skills programme that involves bringing young people into the industry."
+            },
+            {
+              "source_turn": 96,
+              "quote": "Will that 4Skills budget be protected within that transformation agenda?"
+            },
+            {
+              "source_turn": 98,
+              "quote": "That commitment to regional opportunities is still there, I hope. We know traditionally these industries are centred around London and the south-east."
+            }
+          ]
         },
         {
           "speaker": "Priya Dogra",
-          "text": "We’re proud of it. It created 51,000 opportunities in the past year, including apprenticeships and writing programmes. The budget was doubled to £10 million, but next year will be constrained and it may fall. We want to grow it again."
-        },
-        {
-          "speaker": "Priya Dogra",
-          "text": "Regional work goes beyond the scheme. Recent programmes have been made in Wales, Northern Ireland, Yorkshire, Manchester and Liverpool, and we work with production companies across the UK."
-        },
-        {
-          "speaker": "Geoff Cooper",
-          "text": "Reducing staff is only part of the savings. We’re reviewing how and where we spend, while trying to grow revenue. The aim is to give Channel 4 more room to make sustainable plans for the future."
+          "text": "We're proud of 4Skills, but next year's budget isn't settled and I suspect it will fall from its current £10 million. We want to grow it again. Our commitment to opportunities across the UK remains, through both training and programmes made by companies in different places.",
+          "evidence": [
+            {
+              "source_turn": 97,
+              "quote": "the 4Skills budget was doubled to £10 million and that has yielded a lot of benefits. We are still working through budgets for next year. We will continue with the obligations we have but I suspect there will be a drop in that budget. We aim to grow it again"
+            },
+            {
+              "source_turn": 99,
+              "quote": "The commitment to regional opportunities beyond 4Skills is absolutely there."
+            },
+            {
+              "source_turn": 99,
+              "quote": "It is in the way that we work with production companies across the sector."
+            }
+          ]
         },
         {
           "speaker": "Dr Rupa Huq",
-          "text": "Will the job cuts mean more programmes are made in-house, rather than commissioned from outside companies?"
-        },
-        {
-          "speaker": "Priya Dogra",
-          "text": "That isn’t the purpose of the changes. We’re simplifying how commissioning decisions are made, and may work differently with some larger companies, but we still want to work with smaller producers. We intend to protect Channel 4’s creative character."
-        }
-      ]
-    },
-    {
-      "title": "Streaming partnerships and independence",
-      "takeaway": "Channel 4 hopes its Disney+ partnership will bring new viewers and revenue without replacing its own streaming service, and says its editorial independence would be non-negotiable in any closer relationship with another broadcaster.",
-      "turns": [
-        {
-          "speaker": "Jeff Smith",
-          "text": "What’s the main reason for putting Channel 4 programmes on Disney+, and how will you judge whether the deal works?"
-        },
-        {
-          "speaker": "Priya Dogra",
-          "text": "People watch programmes on many different platforms, so we want to reach them where they are. Disney+ will carry our scheduled channel and a selection of programmes to watch on demand. A few shows will appear on both services on the same day, which may help them reach a bigger audience."
-        },
-        {
-          "speaker": "Jeff Smith",
-          "text": "How will you know whether you’re gaining viewers, rather than shifting them away from Channel 4?"
-        },
-        {
-          "speaker": "Priya Dogra",
-          "text": "Disney will report viewing data, and we’ll look at whether viewers then use Channel 4’s own service and whether people’s awareness of the brand improves. Our own service will remain the main home of Channel 4 programmes."
-        },
-        {
-          "speaker": "Jeff Smith",
-          "text": "Some of your most popular shows could be valuable to Disney. Are you worried about losing viewers or advertising income?"
-        },
-        {
-          "speaker": "Priya Dogra",
-          "text": "We’ve kept back our biggest shows, including Bake Off. The selection was carefully chosen, the agreement is for a set period, and Disney pays us. I’m confident the deal will make money for Channel 4."
-        },
-        {
-          "speaker": "Jeff Smith",
-          "text": "Did you check that Disney’s approach fits with Channel 4’s values?"
-        },
-        {
-          "speaker": "Priya Dogra",
-          "text": "Yes. I met senior Disney executives and made clear that our branding must be prominent, our own service must remain important and not all programmes would move to Disney+. I felt they understood our public-service role."
-        },
-        {
-          "speaker": "Jo Stevens",
-          "text": "Could Channel 4 programmes also appear on the BBC’s iPlayer?"
-        },
-        {
-          "speaker": "Priya Dogra",
-          "text": "It’s an idea worth exploring, but iPlayer doesn’t currently carry advertising. We’d also need to agree how Channel 4 programmes would appear in searches and recommendations, and make sure the arrangement didn’t undermine our ability to earn money and invest in programmes."
-        },
-        {
-          "speaker": "Jo Stevens",
-          "text": "What about suggestions that Channel 4 could merge with the BBC?"
-        },
-        {
-          "speaker": "Priya Dogra",
-          "text": "A merger with a much larger organisation could amount to a takeover. Channel 4’s editorial independence is a red line: without it, we wouldn’t be Channel 4. But we should explore practical partnerships, such as sharing costs or working together on advertising."
+          "text": "With so many jobs going, will managers bear some of the cost reduction too, rather than the cuts falling mainly on people lower down?",
+          "evidence": [
+            {
+              "source_turn": 128,
+              "quote": "Some of these organisations it is a pyramid structure. At the top it is mega-high and then you have these freelancers running around and maybe that is also something to address."
+            }
+          ]
         },
         {
           "speaker": "Geoff Cooper",
-          "text": "The board supports Priya in exploring partnerships while protecting the things that make Channel 4 distinctive."
+          "text": "The board has asked for the management structure to be reviewed and its total cost reduced, so the cuts don't fall only on lower-paid parts of the organisation.",
+          "evidence": [
+            {
+              "source_turn": 129,
+              "quote": "the board has asked if through the transformation we can look at the management structure and be sure that there will be a reduction in total cost of the management structure so that the cost cuts simply are not being visited on people lower down in the organisation."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "News, sport and Channel 4’s future",
-      "takeaway": "The witnesses argued that Channel 4’s news and distinctive programming remain central to its public role, while acknowledging financial pressures and the need to work with other broadcasters.",
+      "title": "Reaching viewers through other services",
+      "takeaway": "Channel 4 hopes its Disney+ deal will reach new audiences without replacing its own streaming service; a possible BBC partnership remains much less developed.",
+      "turns": [
+        {
+          "speaker": "Jeff Smith",
+          "text": "Why put Channel 4 programmes on Disney+, and how will you know whether the deal works?",
+          "evidence": [
+            {
+              "source_turn": 131,
+              "quote": "I want to talk about the deal with Disney to have Channel 4 content on Disney+. What do you see as the most important driver and how will you measure the success of that deal?"
+            }
+          ]
+        },
+        {
+          "speaker": "Priya Dogra",
+          "text": "People watch through many different services, so we want viewers who don't usually visit Channel 4 to find our shows on Disney+. Some selected programmes will appear there on the same day as on Channel 4, clearly marked as ours. Disney pays us. We'll look at viewing information, whether audiences come to our own service and what surveys tell us about recognition of Channel 4.",
+          "evidence": [
+            {
+              "source_turn": 132,
+              "quote": "given the fragmentation of distribution and audiences it is important that we are where people are."
+            },
+            {
+              "source_turn": 132,
+              "quote": "on some shows we do what we call day and date, so they would premier the same day on Disney as they would on Channel 4"
+            },
+            {
+              "source_turn": 132,
+              "quote": "people who may not habitually come to Channel 4 linear or Channel 4 streaming would encounter our programming on Disney and it will be prominent that it is a Channel 4 show"
+            },
+            {
+              "source_turn": 134,
+              "quote": "We will have data that will be reported back to us and it will be a sense of whether we are getting incremental audiences."
+            },
+            {
+              "source_turn": 134,
+              "quote": "If we find people engage with the programming and then come to Channel 4 streaming"
+            },
+            {
+              "source_turn": 134,
+              "quote": "we measure the brand metrics on a YouGov survey"
+            },
+            {
+              "source_turn": 144,
+              "quote": "Disney pay us for that."
+            }
+          ]
+        },
+        {
+          "speaker": "Jeff Smith",
+          "text": "Could viewers simply watch your most attractive programmes on Disney+ instead of Channel 4's own service?",
+          "evidence": [
+            {
+              "source_turn": 135,
+              "quote": "Do you worry at all that people will watch your content on Disney+ rather than the Channel 4 streaming service?"
+            },
+            {
+              "source_turn": 137,
+              "quote": "But some of your most attractive content will go on to Disney+."
+            }
+          ]
+        },
+        {
+          "speaker": "Priya Dogra",
+          "text": "Most shows will remain available only on our service, and we've kept some major programmes, including Bake Off, off Disney+. We chose shows we think suit its audience. The agreement lasts for a set period, so both sides can judge whether to continue.",
+          "evidence": [
+            {
+              "source_turn": 136,
+              "quote": "The vast majority of our shows will only be available on streaming and not every show is available on demand on Disney"
+            },
+            {
+              "source_turn": 138,
+              "quote": "we have held back what I would call our crown jewels so you will not see “Bake Off” appear on that."
+            },
+            {
+              "source_turn": 138,
+              "quote": "We selected shows that worked for the Disney audience and not all Channel 4 shows will work for the Disney audience."
+            },
+            {
+              "source_turn": 138,
+              "quote": "it is an agreement that has a certain time period. Both organisations will see what it does for each of us and then we will decide whether or not to stay with it."
+            }
+          ]
+        },
+        {
+          "speaker": "Jo Stevens",
+          "text": "Could Channel 4 programmes also appear on the BBC's iPlayer? And would closer cooperation ever mean merging the broadcasters?",
+          "evidence": [
+            {
+              "source_turn": 154,
+              "quote": "If that is a goer what would you see the timeline as being to have Channel 4 content on iPlayer?"
+            },
+            {
+              "source_turn": 158,
+              "quote": "There are suggestions that you will eventually merge with another broadcaster such as the BBC. How do you respond to that at the moment and as an organisation what are your red lines around potential mergers?"
+            }
+          ]
+        },
+        {
+          "speaker": "Priya Dogra",
+          "text": "iPlayer is worth exploring, but it doesn't currently carry advertising. We'd also need to agree how viewers find our shows and whether we'd earn enough if viewing shifted there. As for a merger, Channel 4 must keep control of its own editorial decisions. That doesn't rule out working more closely with the BBC or sharing some costs.",
+          "evidence": [
+            {
+              "source_turn": 155,
+              "quote": "it is an idea that is worth exploring but there are a lot of details that we would have to work out."
+            },
+            {
+              "source_turn": 155,
+              "quote": "iPlayer is not currently configured to have advertising."
+            },
+            {
+              "source_turn": 155,
+              "quote": "When someone searches for news, what appears? How do we ensure that we get prominence? Obviously iPlayer is habitually more used for streaming. If they displace some of the viewing and we cannot make enough money off it then that becomes a real problem for our ability to invest in programming."
+            },
+            {
+              "source_turn": 159,
+              "quote": "my red line, and I think Geoff would echo it, is Channel 4’s editorial independence."
+            },
+            {
+              "source_turn": 159,
+              "quote": "What that does not exclude is deeper collaboration."
+            },
+            {
+              "source_turn": 159,
+              "quote": "There may be some that we look at on a more permanent basis, whether it is sharing costs or making an ad sales partnership."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The future of Channel 4 News",
+      "takeaway": "Dogra warned that a possible change to ITV’s news arrangements could raise costs for Channel 4 News, while describing efforts to reach young viewers on social platforms.",
       "turns": [
         {
           "speaker": "Tom Rutland",
-          "text": "If Sky and ITV combine, what could happen to ITN and, in turn, Channel 4 News?"
+          "text": "If the proposed Sky News and ITV deal goes ahead, what could it mean for ITN, the company that makes Channel 4 News?",
+          "evidence": [
+            {
+              "source_turn": 162,
+              "quote": "If the Sky News and ITV merger goes ahead what are the implications for the long-term future of ITN and therefore the future of “Channel 4 News”?"
+            }
+          ]
         },
         {
           "speaker": "Priya Dogra",
-          "text": "Channel 4 News is made by ITN, and I’m proud of the work. ITN is unusual because it makes news for several different broadcasters. If ITV’s support changes, ITN might struggle to keep producing our news at the same cost, which could affect quality. We’ve raised our concerns with Ofcom and the Competition and Markets Authority."
+          "text": "I worry about ITN's future if ITV stops supporting it as it does now. ITN makes distinct news services for different broadcasters. Without ITV's continued support, I think it would struggle to supply our news at the same cost, which could reduce its quality. We've raised our concerns with the CMA and Ofcom, but I'm not proposing a particular regulatory solution.",
+          "evidence": [
+            {
+              "source_turn": 163,
+              "quote": "I think the Sky/ITV transaction raises some real questions about the future of ITN."
+            },
+            {
+              "source_turn": 163,
+              "quote": "one organisation provides such distinct news for different brands. Without ITV’s continued support of ITN it would be very hard for ITN to continue to provide news at the same cost that they provide to us which I am afraid would mean that the quality of news would decline."
+            },
+            {
+              "source_turn": 165,
+              "quote": "I am not sure it is my place to propose remedies to the regulator, structural or otherwise. What we have done is engage with both the CMA and now Ofcom to express our concerns"
+            }
+          ]
         },
         {
           "speaker": "Tom Rutland",
-          "text": "How do you make sure young people get reliable news, and how do you know your social media work is reaching people beyond the audience you already have?"
+          "text": "How are you getting reliable news to young people, and can you tell whether your short videos lead them to watch more?",
+          "evidence": [
+            {
+              "source_turn": 166,
+              "quote": "what is Channel 4 doing to make sure that young audiences have access to trusted news and current affairs?"
+            },
+            {
+              "source_turn": 168,
+              "quote": "Are you able to measure if they go on to watch longer forms of news?"
+            }
+          ]
         },
         {
           "speaker": "Priya Dogra",
-          "text": "We make news explainers for TikTok and YouTube, including longer videos that explain big stories. We follow Ofcom’s standards even when they don’t require it. We survey viewers, but we don’t receive enough information from platforms to track exactly what people watch next."
-        },
+          "text": "We make news specifically for YouTube and TikTok, from brief explanations to longer videos. Our research suggests many young people don't know whom to trust online. We can measure viewing and survey audiences, but the platforms don't give us enough information to follow exactly what someone watches next.",
+          "evidence": [
+            {
+              "source_turn": 167,
+              "quote": "We create content that is specific to every platform. You cannot just take a news clip that was made for linear, cut it up and put it elsewhere."
+            },
+            {
+              "source_turn": 167,
+              "quote": "There is a show called “FourSight”. I just met the team. They do 20-minute explainers on YouTube"
+            },
+            {
+              "source_turn": 167,
+              "quote": "There is also TikTok, where we do 30 to 60 second explainers"
+            },
+            {
+              "source_turn": 167,
+              "quote": "our research fundamentally showed that people do not know who to trust online"
+            },
+            {
+              "source_turn": 169,
+              "quote": "we do not get a lot of data from these platforms so we can triangulate to things but we cannot track what you do on YouTube exactly and what you go on to do"
+            },
+            {
+              "source_turn": 169,
+              "quote": "we do regular surveys of individuals to try to understand how we cater and how we tailor our programming."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sport and the bigger goal",
+      "takeaway": "Channel 4 wants to retain Paralympic coverage and is open to sharing some sports rights with other broadcasters, subject to cost.",
+      "turns": [
         {
           "speaker": "Nigel Huddleston",
-          "text": "Channel 4 has earned a strong reputation for Paralympics coverage. Will you keep investing in it despite the financial pressures?"
+          "text": "With budgets under pressure, can viewers count on Channel 4 continuing its Paralympic coverage? Could broadcasters work together on events such as the Commonwealth Games instead of competing for them?",
+          "evidence": [
+            {
+              "source_turn": 170,
+              "quote": "given the financial pressures of Channel 4 how confident can we be that you will continue to put para sport on the pedestal?"
+            },
+            {
+              "source_turn": 174,
+              "quote": "maybe my question is why did you not bid and will you bid in the future, maybe jointly with the BBC?"
+            },
+            {
+              "source_turn": 176,
+              "quote": "there is an opportunity for greater co-operation here as well. As I say, I am particularly keen that we see that on sports."
+            }
+          ]
         },
         {
           "speaker": "Priya Dogra",
-          "text": "We’re proud of the coverage and the audience grew compared with Beijing. We’re discussing the next rights and would like to remain the free-to-watch partner."
-        },
-        {
-          "speaker": "Nigel Huddleston",
-          "text": "Would you work with the BBC on sports such as the Commonwealth Games, rather than competing in ways that push up prices?"
+          "text": "Paralympic sport is central to what we do. We're discussing rights to the next Games and would love to remain a free-to-air broadcaster of them. We'd consider working with the BBC or others on events such as the Commonwealth Games, but the timing and cost would have to fit our budget.",
+          "evidence": [
+            {
+              "source_turn": 171,
+              "quote": "The paras is at the heart of what we do as an organisation and we are in discussions right now for the next set of rights."
+            },
+            {
+              "source_turn": 171,
+              "quote": "we are in discussions and would love to be the free-to-air partner."
+            },
+            {
+              "source_turn": 175,
+              "quote": "We would absolutely look at partnerships where they made sense. They would just have to come at a stage where we are not already committed for the year because that would not be financially responsible."
+            },
+            {
+              "source_turn": 177,
+              "quote": "on sport particularly the sports that you have mentioned, the Commonwealth Games and others, there is an opportunity for us to work together with the BBC as well as others."
+            }
+          ]
         },
         {
           "speaker": "Priya Dogra",
-          "text": "We’d consider partnerships, especially for sports that need wider coverage. The timing and cost would have to work with our budget, but I wouldn’t rule it out."
+          "text": "Ultimately, I'd like Channel 4 to be judged on the programmes we make and on whether these financial decisions keep us strong enough to make distinctive programmes for years to come.",
+          "evidence": [
+            {
+              "source_turn": 181,
+              "quote": "How I would like success to be measured for me, my team, in the future is first on the creative output, and secondly on putting in place financial rigour, all to ensure that there is long-term sustainability"
+            }
+          ]
         },
         {
           "speaker": "Chair",
-          "text": "What should people judge your leadership by?"
-        },
-        {
-          "speaker": "Priya Dogra",
-          "text": "By the quality and distinctiveness of our programmes, and by whether we manage money carefully enough to secure Channel 4’s long-term future. We’ve spent much of today on past failures, but the changes we’re making are meant to protect that future."
-        },
-        {
-          "speaker": "Chair",
-          "text": "We’ll follow up on the information you’ve promised to provide. We’d also like you to keep us updated on whether Channel 4 can commit to CIISA for three years."
+          "text": "We'll ask for the further information you promised. We'd also like Channel 4 to commit to CIISA for three years once its outstanding questions have been answered; please keep us informed.",
+          "evidence": [
+            {
+              "source_turn": 182,
+              "quote": "There have been a number of things that you promised to write to us about during the course of this last hour and a half so our team will be in touch to ask you for further information to fill the gaps"
+            },
+            {
+              "source_turn": 182,
+              "quote": "we would like to see Channel 4 committing to CIISA for three years, so when you have received answers to the questions that are preventing that from happening perhaps you could keep us posted on that as well."
+            }
+          ]
         }
       ]
     }

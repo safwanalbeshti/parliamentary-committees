@@ -2,9 +2,9 @@
   "schema_version": 1,
   "source_id": 18328,
   "source_sha256": "2e4c427276f6d4aa3d8338bbc1029e4123820ee2adc881c7c5d03ba7a31b9152",
-  "title": "Organised crime: better intelligence, stronger local policing and the limits of current plans",
-  "label": "18 November 2026 · Organised crime and local communities",
-  "summary": "The committee questioned the Home Office about how organised crime is changing, including criminal activity in high-street shops, rural areas and online. Sarah Jones said police need better shared information, stronger neighbourhood policing and a reformed national structure, while acknowledging that plans and evidence are still developing. Members challenged the Government on police staffing, the lack of dedicated funding for some successful local approaches, uneven support for rural areas, and whether enforcement alone can reduce drug harm.",
+  "title": "Organised crime on the high street, in rural areas and online",
+  "label": "18 November 2026 · Policing and organised crime",
+  "summary": "The committee questioned the Policing Minister and Home Office officials about how organised crime affects shops, rural communities and online markets. Ministers described raids, better information-sharing and plans to reorganise policing, but members pressed them on whether neighbourhood officers were genuinely additional, whether successful local projects had enough money, and how reforms would protect local knowledge. The Minister said several responses were still being developed, including the high-street crackdown and an update to the drugs strategy.",
   "speakers": [
     {
       "label": "Chair",
@@ -13,21 +13,9 @@
       "kind": "chair"
     },
     {
-      "label": "Dr Peter Prinsley",
-      "name": "Dr Peter Prinsley",
-      "role": "Member of the Home Affairs Committee",
-      "kind": "member"
-    },
-    {
-      "label": "Sarah Jones MP",
-      "name": "Sarah Jones MP",
+      "label": "Sarah Jones",
+      "name": "Sarah Jones",
       "role": "Minister of State for Policing and Crime Prevention, Home Office",
-      "kind": "witness"
-    },
-    {
-      "label": "Rod McLean",
-      "name": "Rod McLean",
-      "role": "Head of the Serious and Organised Crime System Unit and Drugs and Firearms Licensing Unit, Home Office",
       "kind": "witness"
     },
     {
@@ -37,430 +25,1058 @@
       "kind": "witness"
     },
     {
+      "label": "Rod McLean",
+      "name": "Rod McLean",
+      "role": "Head of the Serious and Organised Crime System Unit and the Drugs and Firearms Licensing Unit, Home Office",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Prinsley",
+      "name": "Dr Peter Prinsley",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
       "label": "Matt Bishop",
       "name": "Matt Bishop",
-      "role": "Member of the Home Affairs Committee",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "Robbie Moore",
       "name": "Robbie Moore",
-      "role": "Member of the Home Affairs Committee",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "Preet Kaur Gill",
       "name": "Preet Kaur Gill",
-      "role": "Member of the Home Affairs Committee",
-      "kind": "member"
-    },
-    {
-      "label": "Mr Paul Kohler",
-      "name": "Mr Paul Kohler",
-      "role": "Member of the Home Affairs Committee",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "Ben Maguire",
       "name": "Ben Maguire",
-      "role": "Member of the Home Affairs Committee",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Mr Kohler",
+      "name": "Mr Paul Kohler",
+      "role": "Committee member",
       "kind": "member"
     },
     {
       "label": "Bell Ribeiro-Addy",
       "name": "Bell Ribeiro-Addy",
-      "role": "Member of the Home Affairs Committee",
+      "role": "Committee member",
       "kind": "member"
     }
   ],
   "glossary": [
     {
-      "term": "NCA",
-      "definition": "The National Crime Agency, which investigates serious and organised crime and works with police and other agencies."
+      "term": "National Crime Agency",
+      "definition": "A UK agency that investigates serious and organised crime, including crimes crossing local or national borders."
+    },
+    {
+      "term": "trading standards",
+      "definition": "Council teams that enforce rules on goods and businesses, including the sale of illegal products."
     },
     {
       "term": "Clear, Hold, Build",
-      "definition": "A local crime-fighting approach: remove criminal activity, stop it returning, then work with partners to improve the area."
+      "definition": "An approach in which police remove criminals from an area, prevent their return, and work with others to improve the area over time."
     },
     {
-      "term": "ROCUs",
-      "definition": "Regional organised crime units that tackle serious crime across several local police areas."
+      "term": "county lines",
+      "definition": "Drug-dealing networks that move drugs between areas, often exploiting children or vulnerable people."
     },
     {
-      "term": "secondary legislation",
-      "definition": "Detailed rules made by ministers under powers given to them by an Act of Parliament."
+      "term": "synthetic opioids",
+      "definition": "Powerful laboratory-made drugs that can cause fatal overdoses."
+    },
+    {
+      "term": "asset recovery",
+      "definition": "Taking money or property obtained through crime away from criminals."
+    },
+    {
+      "term": "Ofcom",
+      "definition": "The UK regulator responsible for enforcing rules on online services, among other communications services."
     },
     {
       "term": "Online Safety Act",
-      "definition": "A UK law that requires online services to take steps to deal with illegal content and other online harms."
-    },
-    {
-      "term": "confiscation orders",
-      "definition": "Court orders requiring people convicted of crime to give up money or property gained through crime."
+      "definition": "A UK law that places duties on online services to address illegal content and other specified harms."
     }
   ],
   "chapters": [
     {
-      "title": "Changing crime and the need for local intelligence",
-      "takeaway": "Criminals adapt quickly, so the Home Office says police need better shared data and stronger local knowledge.",
+      "title": "Finding the pattern behind local crime",
+      "takeaway": "National information can reveal links between local incidents, but the Minister said police systems and knowledge of emerging crimes need improvement.",
       "turns": [
         {
-          "speaker": "Dr Peter Prinsley",
-          "text": "Where are the biggest gaps in what the Government know about serious and organised crime, and how will you improve the national picture?"
+          "speaker": "Dr Prinsley",
+          "text": "Where are the main gaps in what the Home Office knows about organised crime, and how will it get a better national picture?",
+          "evidence": [
+            {
+              "source_turn": 5,
+              "quote": "What does the Home Office see as the key gaps in the understanding of serious and organised crime threats? What plans are there to have a better national understanding of this problem?"
+            }
+          ]
         },
         {
-          "speaker": "Sarah Jones MP",
-          "text": "The threat keeps changing, particularly as criminals use new technology. The NCA collects information from police, surveys and other sources, then prioritises action according to the likely danger and harm."
+          "speaker": "Sarah Jones",
+          "text": "Crime changes quickly, particularly as criminals use new technology. The National Crime Agency draws on police information and other sources, including wastewater surveys, to judge threats and decide what needs attention. But we're still at an early stage in understanding how organised groups are connected to suspicious vape shops and other businesses on struggling high streets.",
+          "evidence": [
+            {
+              "source_turn": 6,
+              "quote": "serious and organised crime is extremely wide-ranging and constantly changing."
+            },
+            {
+              "source_turn": 6,
+              "quote": "the National Crime Agency will gather information from across a range of different sources—not just from their own intelligence but from policing or surveys, such as waste water surveys."
+            },
+            {
+              "source_turn": 6,
+              "quote": "our evidence and intelligence around what is joining up some of the OCGs that are involved are at the early stages."
+            }
+          ]
         },
         {
-          "speaker": "Sarah Jones MP",
-          "text": "But there are areas we still understand poorly. Criminals are using struggling high streets, including some vape shops, to carry out several kinds of crime. We’re only beginning to understand how the groups involved connect."
+          "speaker": "Dr Prinsley",
+          "text": "We saw a police programme bringing together information from many places. Are we investing enough in the technology to do that nationally, and can officers dealing with a shop on the street get the information they need?",
+          "evidence": [
+            {
+              "source_turn": 7,
+              "quote": "the way in which it was using technology to interpret data that was coming from all over the place."
+            },
+            {
+              "source_turn": 7,
+              "quote": "are we investing the right amount of money in the right stuff to help us do this?"
+            },
+            {
+              "source_turn": 10,
+              "quote": "How do they get what they need to know when they are dealing with the criminals in front of them?"
+            }
+          ]
         },
         {
-          "speaker": "Dr Peter Prinsley",
-          "text": "A committee visit showed how technology can bring together information from many sources. Are we investing enough in the right tools, and can useful intelligence reach officers dealing with a problem on the street?"
-        },
-        {
-          "speaker": "Sarah Jones MP",
-          "text": "Police systems are old and often don’t work well together. We’re investing in them so information can be analysed, including with artificial intelligence, but the data has to be made usable first."
-        },
-        {
-          "speaker": "Sarah Jones MP",
-          "text": "Technology is also needed to find new forms of drug smuggling. Criminals can change drugs into other products or leave them underwater with location trackers. The NCA is investing in upgrading its technology."
+          "speaker": "Sarah Jones",
+          "text": "First we have to fix old police computer systems that don't work well together; otherwise AI can't analyse the combined information properly. Criminals are also finding new ways to bring in drugs, including disguising them as other products, so detection technology has to keep up.",
+          "evidence": [
+            {
+              "source_turn": 8,
+              "quote": "we have a lot of old systems that do not necessarily speak to each other in the way that they should, so we are investing quite a lot of money in those systems to make sure that the datasets can be analysed with AI. But you have to fix the datasets first"
+            },
+            {
+              "source_turn": 8,
+              "quote": "the drugs are the boxes of bananas. They are literally being turned into new products, so we have to have the technology to find them."
+            }
+          ]
         },
         {
           "speaker": "Rod McLean",
-          "text": "The NCA has a budget close to £1.1 billion this year, up 19% on 2024-25. A significant part of the increase is for its technology."
+          "text": "The National Crime Agency has also received a budget of close to £1.1 billion this year, 19% above 2024–25. A lot of that is intended to improve its technology.",
+          "evidence": [
+            {
+              "source_turn": 9,
+              "quote": "It had a record funding settlement this year, giving it a budget of close to £1.1 billion—a 19% increase on 2024-25—and a lot of that is to invest in improvements to its technology."
+            }
+          ]
         },
         {
-          "speaker": "Sarah Jones MP",
-          "text": "For illegal shops, the answer also has to be agencies working together in person: police, trading standards, the tax authority and Companies House. The difficulty is making that kind of information-sharing work across all crime, not just one programme."
+          "speaker": "Sarah Jones",
+          "text": "A suspicious shop might involve illegal employment, illicit goods or money laundering. Police need to work with trading standards, tax officials and the body that registers companies. Bringing them together around a specific operation is easier than making information flow reliably across every kind of crime. That's one reason I want to reorganise policing.",
+          "evidence": [
+            {
+              "source_turn": 11,
+              "quote": "It may be selling illicit goods; it may be money laundering—it could be doing a range of criminal activity. You need all the agencies to work together."
+            },
+            {
+              "source_turn": 11,
+              "quote": "It has to go beyond policing to trading standards, HMRC, Companies House—all of those. The information flows have to be there."
+            },
+            {
+              "source_turn": 11,
+              "quote": "The challenge for us is how we do that across all crime types. That is one of the most powerful reasons why we believe we need to fundamentally reform the policing system"
+            }
+          ]
         },
         {
           "speaker": "David Grahame",
-          "text": "National teams that spot patterns across local areas have helped with different crime types. They can then pass what they learn back to local police, who can act on it."
+          "text": "We've seen a useful pattern with other crimes: a national team spots connections that individual areas might miss, then sends that information back to local teams so they can act.",
+          "evidence": [
+            {
+              "source_turn": 14,
+              "quote": "Getting that pattern at the national level and seeing beyond what is happening in local areas, but then being able to push that information back out to particular local areas to take action seems to be a model that is pretty effective across multiple crime types and threat types."
+            }
+          ]
         },
         {
-          "speaker": "Dr Peter Prinsley",
-          "text": "The public still feel unsafe even when some crime figures are falling. Why?"
-        },
-        {
-          "speaker": "Sarah Jones MP",
-          "text": "People see shop theft, antisocial behaviour and suspicious shops on their high streets. Those everyday crimes affect how safe people feel, and years of reduced neighbourhood policing have left a real gap."
-        },
-        {
-          "speaker": "Chair",
-          "text": "We’ve also heard that forced labour can occur throughout supply chains. When you change policy, for example on vape packaging, do you assess whether it could increase or reduce exploitation?"
-        },
-        {
-          "speaker": "Sarah Jones MP",
-          "text": "We can take that question away."
+          "speaker": "Sarah Jones",
+          "text": "Even if some crime figures are falling, the things people see locally—shop theft, antisocial behaviour and suspicious shops—have been going the wrong way. Years of declining neighbourhood policing have left a gap, so we need to protect it.",
+          "evidence": [
+            {
+              "source_turn": 16,
+              "quote": "the crime types that the public are most likely to observe have been going in the wrong direction. Shop theft, antisocial behaviour, the vape shops"
+            },
+            {
+              "source_turn": 16,
+              "quote": "the collapse of neighbourhood policing over many years has led to a real gap."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Neighbourhood policing and police reform",
-      "takeaway": "The Minister backed more neighbourhood policing but could not say how many planned officers are new recruits rather than officers moved from other jobs.",
+      "title": "Officers, local projects and difficult trade-offs",
+      "takeaway": "More officers are working in neighbourhoods, but members challenged whether that increases the total workforce or moves gaps elsewhere.",
       "turns": [
         {
+          "speaker": "Chair",
+          "text": "We've heard that forced labour can occur throughout a business's supply chain. When policies change—for example, rules on vape packaging—does the Home Office check whether they could increase or reduce that exploitation?",
+          "evidence": [
+            {
+              "source_turn": 17,
+              "quote": "We have had evidence throughout this inquiry that there is forced labour in every bit of the supply chain."
+            },
+            {
+              "source_turn": 19,
+              "quote": "When you are changing policies—for example, on plain packaging on vapes—do you do an analysis of what that might do to levels of exploitation and forced labour?"
+            }
+          ]
+        },
+        {
+          "speaker": "Sarah Jones",
+          "text": "I can take away the question about assessing that packaging policy. More generally, we're training neighbourhood officers to recognise exploitation, and it's part of our work on county lines and suspicious shops.",
+          "evidence": [
+            {
+              "source_turn": 20,
+              "quote": "We can take that away."
+            },
+            {
+              "source_turn": 18,
+              "quote": "One element of that is about serious and organised crime and vulnerability, and to know when exploitation is there when you see it."
+            },
+            {
+              "source_turn": 18,
+              "quote": "there is the county lines programme"
+            },
+            {
+              "source_turn": 18,
+              "quote": "There will be an exploitation strand in the work on vape shops."
+            }
+          ]
+        },
+        {
           "speaker": "Matt Bishop",
-          "text": "Neighbourhood police numbers have risen, but the overall police workforce has fallen. Was that intended, and where are the extra neighbourhood officers coming from?"
+          "text": "Neighbourhood police numbers have risen, but the overall police workforce has fallen. Was the plan to move people out of other jobs, and could that leave those jobs short-staffed?",
+          "evidence": [
+            {
+              "source_turn": 32,
+              "quote": "the workforce has gone down within the police overall. Was that the Government’s intention?"
+            },
+            {
+              "source_turn": 44,
+              "quote": "Are you concerned that your ambitions for safer high streets and other such projects may be undermined if investigative capacity is undermined in any way?"
+            }
+          ]
         },
         {
-          "speaker": "Sarah Jones MP",
-          "text": "The old funding rules encouraged forces to keep officer numbers up even when it meant moving officers into office jobs and cutting police staff. We’ve given chiefs more freedom to decide what roles they need."
-        },
-        {
-          "speaker": "Sarah Jones MP",
-          "text": "Some neighbourhood officers are new recruits; others are moved from different roles. By next year, we expect nearly 5,000 more people in neighbourhood policing, against a target of 13,000. There are about 20,900 now, but we don’t have a breakdown of how many are new."
+          "speaker": "Sarah Jones",
+          "text": "Police chiefs asked us to remove funding rules that encouraged them to keep officers in office jobs even when police staff could do those jobs for less. Chiefs can now choose their mix of officers and staff. Some neighbourhood officers are new recruits; others have moved from elsewhere. I don't yet know whether overall numbers will fall further—that depends on future spending decisions.",
+          "evidence": [
+            {
+              "source_turn": 33,
+              "quote": "they were maintaining officer levels, but they were then cutting police staff and putting those officers into back-office jobs that should be done by police staff, often for less cost."
+            },
+            {
+              "source_turn": 33,
+              "quote": "Some of them are new and some of them are redeployed."
+            },
+            {
+              "source_turn": 35,
+              "quote": "We have not made any decisions about how we do that, so we will have those conversations with the Treasury."
+            }
+          ]
         },
         {
           "speaker": "Robbie Moore",
-          "text": "If officers are moved into neighbourhood work, what happens to their old jobs? Forces have warned that community engagement, traffic policing and intelligence gathering could suffer."
+          "text": "Of the promised 13,000 additional neighbourhood police, how many so far are genuinely new recruits rather than officers moved from other roles? If an officer moves, are you checking what happens to their old job?",
+          "evidence": [
+            {
+              "source_turn": 48,
+              "quote": "how many of the 13,000 are new recruits so far?"
+            },
+            {
+              "source_turn": 58,
+              "quote": "If we are moving a police officer from a job to do neighbourhood policing, is the Home Office looking at the impact that is having on the previous role that the officer was doing?"
+            }
+          ]
         },
         {
-          "speaker": "Sarah Jones MP",
-          "text": "We’re collecting more information on force performance and would be surprised if other services were harmed. Chiefs are responsible for managing their staff, and we’ll monitor the results. Overall police numbers have gone down, though."
-        },
-        {
-          "speaker": "Matt Bishop",
-          "text": "Can technology reduce the time officers spend on paperwork? And how will you make sure neighbourhood policing doesn’t come at the expense of investigations or emergency response?"
-        },
-        {
-          "speaker": "Sarah Jones MP",
-          "text": "We think new tools could free up time equivalent to 3,000 officers by the end of this Parliament, including by reducing form-filling and speeding up the handling of evidence. But neighbourhood work, response and investigations can’t be treated as an either-or choice."
-        },
-        {
-          "speaker": "Sarah Jones MP",
-          "text": "We’re also setting clearer limits on when neighbourhood officers can be taken away for other duties. Local commands should protect neighbourhood policing, response and everyday crime work."
-        },
-        {
-          "speaker": "Matt Bishop",
-          "text": "Will neighbourhood officers be trained to investigate, and will they gain experience doing the job on the streets?"
-        },
-        {
-          "speaker": "Sarah Jones MP",
-          "text": "Investigation is part of all six areas of the new neighbourhood training. The College of Policing is also preparing the first professional guidance for neighbourhood policing. And yes, frontline experience matters."
+          "speaker": "Sarah Jones",
+          "text": "We don't have a figure separating new recruits from those moved into neighbourhood policing. We're tracking how many people work there, and we monitor how forces perform across crimes. I wouldn't expect other services to suffer, but chiefs decide how to organise their staff. The total number of police has gone down.",
+          "evidence": [
+            {
+              "source_turn": 51,
+              "quote": "We have not got that figure."
+            },
+            {
+              "source_turn": 59,
+              "quote": "We are monitoring how the police are doing across the board"
+            },
+            {
+              "source_turn": 59,
+              "quote": "I would certainly not expect other services to be detrimentally impacted"
+            },
+            {
+              "source_turn": 59,
+              "quote": "The police chief has to manage his or her workforce"
+            },
+            {
+              "source_turn": 63,
+              "quote": "It has gone down, yes."
+            }
+          ]
         },
         {
           "speaker": "Robbie Moore",
-          "text": "Clear, Hold, Build has been linked to a roughly 23% reduction in theft and other property crime. Why isn’t the Government funding it, and must every force use it?"
+          "text": "Clear, Hold, Build reduced theft and similar crimes in its trial. If it works, why doesn't the Home Office give it dedicated funding, especially when keeping an area free of crime and rebuilding it takes resources?",
+          "evidence": [
+            {
+              "source_turn": 68,
+              "quote": "Given that it is considered a success, why are the Government not funding it?"
+            },
+            {
+              "source_turn": 70,
+              "quote": "The Hold and Build parts have been identified as being a bit more challenging, but why would the Government not allocate ringfenced funding"
+            }
+          ]
         },
         {
-          "speaker": "Sarah Jones MP",
-          "text": "The Home Office hasn’t funded the approach, including during its trial. We generally give money to local forces and let them choose how to use it. The results are encouraging, but I haven’t told every force it must use it."
-        },
-        {
-          "speaker": "Rod McLean",
-          "text": "It depends on the area and on whether councils and community groups are involved. It has worked well in some medium-sized neighbourhoods, but it’s intensive and can’t simply be applied everywhere."
+          "speaker": "Sarah Jones",
+          "text": "The trials showed roughly a 23% to 24% fall in theft and similar crimes. But it works best where police, councils and community groups all commit, and rebuilding is the hardest part. Apart from one exception, this work has always come from local police budgets. I encourage forces to use it where it fits, rather than require it everywhere.",
+          "evidence": [
+            {
+              "source_turn": 67,
+              "quote": "in the main, there was quite a large reduction in acquisitive crime—about 23% or 24%"
+            },
+            {
+              "source_turn": 67,
+              "quote": "The Build bit is the trickiest: you need buy-in from lots of different organisations"
+            },
+            {
+              "source_turn": 69,
+              "quote": "We would expect it to come out of local police budgets"
+            },
+            {
+              "source_turn": 72,
+              "quote": "I have not instructed them to, but the evaluation is certainly positive, and I would encourage forces to use it."
+            }
+          ]
         },
         {
           "speaker": "Chair",
-          "text": "The difficult part is often the long-term work to rebuild a community after crime is cleared. Are you considering funding that longer stage?"
+          "text": "Members have seen this work locally and been impressed. But removing criminals may take weeks, while rebuilding a place can take years. Will you seek funding specifically for that longer phase?",
+          "evidence": [
+            {
+              "source_turn": 77,
+              "quote": "Clear is a few weeks; Hold is a few weeks; Build is years."
+            },
+            {
+              "source_turn": 77,
+              "quote": "are the Government considering putting a funding review bid in for build support"
+            }
+          ]
         },
         {
-          "speaker": "Sarah Jones MP",
-          "text": "We haven’t decided what will be in the next spending bid. Rebuilding an area takes sustained work and investment, whether that’s helping young people avoid crime or bringing viable businesses back to a high street."
-        },
-        {
-          "speaker": "Sarah Jones MP",
-          "text": "The wider reform plan is for a national police service, around 200 local policing areas and specialist teams between them. The exact boundaries aren’t settled. We want local commanders and named officers, but local policing mustn’t lose out as national structures change."
-        },
-        {
-          "speaker": "Ben Maguire",
-          "text": "Devon and Cornwall officers worry that large cities could get priority over rural towns. How will the new boundaries reflect rural travel, seasonal demand and local geography?"
-        },
-        {
-          "speaker": "Sarah Jones MP",
-          "text": "Those are live questions. We’re reviewing the funding formula, including whether it reflects rurality, deprivation and seasonal pressures. Local police commands must remain understandable and connected to their communities."
-        },
-        {
-          "speaker": "Dr Peter Prinsley",
-          "text": "Will each local area have senior, experienced police leadership rather than being left to more junior officers?"
-        },
-        {
-          "speaker": "Sarah Jones MP",
-          "text": "I agree that local areas need proper commanders, clear standards and ways for residents and councils to scrutinise what police do. The exact size and boundaries of those areas are still being worked out."
+          "speaker": "Sarah Jones",
+          "text": "I don't know yet what we'll ask for in the next spending review. The longer phase can involve much more than policing: helping young people avoid crime, tackling underlying problems and finding viable businesses to occupy shops after criminals leave. It needs investment.",
+          "evidence": [
+            {
+              "source_turn": 78,
+              "quote": "I do not know what is going to be in our spending review bid yet."
+            },
+            {
+              "source_turn": 78,
+              "quote": "the work that they do around trying to stop young people getting involved in crime could be called Build."
+            },
+            {
+              "source_turn": 78,
+              "quote": "you have to fill the shops with viable businesses."
+            },
+            {
+              "source_turn": 78,
+              "quote": "that last bit is always the hardest and involves investment."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "High-street crime and enforcement",
-      "takeaway": "The Government has funded raids and enforcement, but members questioned whether it can stop criminal shops reopening or support places left out of the main funding areas.",
+      "title": "Stopping criminal businesses reopening",
+      "takeaway": "The high-street crackdown has seized money and raided shops, but officials said they still need to identify the networks behind them and prevent them reopening elsewhere.",
       "turns": [
         {
           "speaker": "Preet Kaur Gill",
-          "text": "Operation Machinize visited or raided more than 3,000 premises. What happened after the arrests, and what else was seized?"
+          "text": "The high-street operation has visited or raided thousands of premises and made arrests. How many arrests led to charges, and how many of those charged ran or financed the networks?",
+          "evidence": [
+            {
+              "source_turn": 79,
+              "quote": "Operation Machinize—saw 3,029 premises visited or raided and made 349 arrests. How many of those arrests have led to charges and how many of those charged are alleged to have run or financed the networks?"
+            }
+          ]
         },
         {
-          "speaker": "Sarah Jones MP",
-          "text": "I don’t have the figures for charges. The operation seized £2.2 million in cash, froze £3.7 million in accounts, identified £4.2 million in tax evasion and seized £6.8 million in other assets."
+          "speaker": "Sarah Jones",
+          "text": "I don't have the number charged. My arrest figure is 232, which differs from the one you've given. The operation seized £2.2 million in cash and £6.8 million in other assets, froze accounts worth £3.7 million and identified £4.2 million in tax evasion. But that's only part of the problem.",
+          "evidence": [
+            {
+              "source_turn": 80,
+              "quote": "For arrests, we have 232. But I do not know how many of those have been subsequently charged."
+            },
+            {
+              "source_turn": 82,
+              "quote": "Some £2.2 million in cash was seized; £3.7 million worth of accounts were frozen; £4.2 million of tax evasion was identified as part of that op; and £6.8 million of non-cash assets were seized as well."
+            },
+            {
+              "source_turn": 82,
+              "quote": "that is the tip of the iceberg."
+            }
+          ]
         },
         {
           "speaker": "Preet Kaur Gill",
-          "text": "If a shop closes and the same people open elsewhere, how will the new council and police know? How much of the £30 million goes to local trading standards?"
+          "text": "If a closed shop reopens under the same people in another council area, how will the new area's police and trading standards know? And how is the £30 million for this crackdown divided?",
+          "evidence": [
+            {
+              "source_turn": 83,
+              "quote": "when a shop is closed and the same people reopen in another council area, who takes the lead in following that up? How are police and trading standards in the new area alerted?"
+            },
+            {
+              "source_turn": 85,
+              "quote": "of the £30 million that has been announced for the high street organised crime crackdown, how much is actually going to council trading standards teams?"
+            }
+          ]
         },
         {
-          "speaker": "Sarah Jones MP",
-          "text": "We’re still developing the programme. We need to go beyond raiding individual shops and identify the gangs behind them, while making it harder for them to set up in the first place. £6 million is for trading standards and £20 million for the NCA and wider law enforcement, with some support for other agencies."
-        },
-        {
-          "speaker": "Sarah Jones MP",
-          "text": "We’re looking at stronger powers for local authorities to stop unsuitable shops opening, and at whether sellers of vapes and illicit tobacco should need a licence. A ministerial group oversees the work, but we don’t yet have a target for the number of shops to close."
+          "speaker": "Sarah Jones",
+          "text": "We're still working out how to stop shops simply moving. We need to investigate the criminal groups behind them, not just raid individual premises, and make it harder to open such shops in the first place. Of the £30 million, £6 million goes to trading standards and £20 million to the National Crime Agency and wider law enforcement, with some support for tax and immigration enforcement.",
+          "evidence": [
+            {
+              "source_turn": 84,
+              "quote": "We need to move from a programme where we raid individual shops to understanding what the serious organised crime element is and how it all joins up. How exactly do we stop displacement into other areas?"
+            },
+            {
+              "source_turn": 84,
+              "quote": "how we try to make it harder for criminal gangs to open such shops in the first place"
+            },
+            {
+              "source_turn": 86,
+              "quote": "£6 million of that is trading standards, and £20 million is for the NCA and law enforcement more widely, with some support for HMRC and immigration enforcement, as well."
+            }
+          ]
         },
         {
           "speaker": "David Grahame",
-          "text": "We’re trying to measure lasting results, not just how many raids we carry out. That means identifying the groups behind the shops and using measures such as longer closure orders."
-        },
-        {
-          "speaker": "Sarah Jones MP",
-          "text": "The main target areas are the West Midlands, Greater Manchester, and Kent and Essex, based on intelligence about where the risk is greatest. Other forces can ask the NCA for support."
+          "text": "We're moving from counting raids towards asking whether we're stopping the groups behind the shops. Longer shop-closure powers are another way to seek a lasting result, rather than a series of separate raids.",
+          "evidence": [
+            {
+              "source_turn": 92,
+              "quote": "we are at the stage of moving from activity to how we get to outcomes more"
+            },
+            {
+              "source_turn": 92,
+              "quote": "the patterns and groups behind, and how we can better identify those and go against them more systematically."
+            },
+            {
+              "source_turn": 92,
+              "quote": "There are also the systemic changes, like closure orders"
+            }
+          ]
         },
         {
           "speaker": "Robbie Moore",
-          "text": "West Yorkshire has had 20 raids in Keighley and more than 3,000 reports about suspicious shops, yet it wasn’t named as a main target. That gives my constituents little reassurance."
+          "text": "West Yorkshire has serious problems with suspicious shops. Keighley alone has had 20 premises raided this year. Why wasn't West Yorkshire chosen as one of the three main areas receiving this funding?",
+          "evidence": [
+            {
+              "source_turn": 98,
+              "quote": "West Yorkshire trading standards raided 20 premises in Keighley this year alone"
+            },
+            {
+              "source_turn": 100,
+              "quote": "why was West Yorkshire not considered as one of the three target areas by the Government?"
+            }
+          ]
         },
         {
-          "speaker": "Sarah Jones MP",
-          "text": "The areas were chosen using intelligence about where the greatest harm was judged to be. West Yorkshire can still seek support, and police and local agencies can carry out their own operations. I’ll check what the trading standards funding means for the area."
+          "speaker": "Sarah Jones",
+          "text": "The intelligence identified the West Midlands, Greater Manchester, and Kent and Essex as the areas of greatest risk. Other forces can apply to the National Crime Agency for money. That doesn't mean West Yorkshire isn't a priority or that its police can't run their own operations; I can find out what the trading standards funding means for West Yorkshire.",
+          "evidence": [
+            {
+              "source_turn": 94,
+              "quote": "There are three areas that we are particularly targeting: West Midlands, Greater Manchester, and Kent and Essex police."
+            },
+            {
+              "source_turn": 94,
+              "quote": "Police forces across the country can also bid into the NCA for resources"
+            },
+            {
+              "source_turn": 99,
+              "quote": "No, that is not what I am saying. I am saying that there is a fund that West Yorkshire police can bid into."
+            },
+            {
+              "source_turn": 99,
+              "quote": "I can find out for you what that means in terms of West Yorkshire"
+            },
+            {
+              "source_turn": 101,
+              "quote": "That is not to say that our police forces will not be able to work with partners to do their own raids in their own areas."
+            }
+          ]
         },
         {
           "speaker": "Ben Maguire",
-          "text": "Raids don’t address professional services or financial institutions that may help criminal businesses operate. What are you doing to stop that support and to rebuild under-resourced trading standards teams?"
+          "text": "Raids happen after a business has opened. What about the accountants, solicitors, banks and others that may help these businesses operate? What are you doing to prevent them opening?",
+          "evidence": [
+            {
+              "source_turn": 104,
+              "quote": "They have things such as professional services, accountants, solicitors’ firms and, in some cases, banks transferring funds."
+            },
+            {
+              "source_turn": 104,
+              "quote": "What is the Home Office doing to tackle all those problems—which could actually stop these businesses in the first place?"
+            }
+          ]
         },
         {
-          "speaker": "Sarah Jones MP",
-          "text": "You’re right that we need to act earlier and share information held by different agencies. Local trading standards teams have lost capacity over many years, and rebuilding it is difficult. We’re also changing the law so authorities can close a shop for up to a year."
+          "speaker": "Sarah Jones",
+          "text": "That's right: we need to do more before a shop opens, including sharing what councils, tax officials and the company register know, and looking at landlords' responsibilities. Councils' trading standards teams have lost resources over many years. We're also changing the law to allow a shop to be closed for up to a year, but we may need to go further.",
+          "evidence": [
+            {
+              "source_turn": 105,
+              "quote": "What more can we do on the ownership of some of those buildings, and on making people responsible for who they are letting their shops to?"
+            },
+            {
+              "source_turn": 105,
+              "quote": "Companies House, HMRC and all these different agencies have bits of information, and we could be much better at sharing it"
+            },
+            {
+              "source_turn": 105,
+              "quote": "Trading standards resources in local authorities, as we know, have been hollowed out over many years"
+            },
+            {
+              "source_turn": 105,
+              "quote": "you can close a shop for a year"
+            },
+            {
+              "source_turn": 105,
+              "quote": "do we need to go further? Yes"
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Rural crime and regional cooperation",
-      "takeaway": "The Minister pointed to local policing and national operations as key tools, while members pressed her on the limited national funding for rural crime.",
+      "title": "Rural crime and the shape of police reform",
+      "takeaway": "The Minister argued that local forces should fund much rural policing, while members worried that limited resources and larger police structures could weaken local expertise.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "Rural crime can fall between national units and local police. Are you treating it as a specific priority?"
+          "text": "Rural crime can fall between local police, who may lack specialist knowledge, and regional organised-crime teams, who may see it as too small. Is the Home Office looking at that problem?",
+          "evidence": [
+            {
+              "source_turn": 29,
+              "quote": "maybe it was too low level for the ROCUs but local policing did not know enough about it."
+            },
+            {
+              "source_turn": 29,
+              "quote": "Are you specifically looking at rural crime in the Home Office?"
+            }
+          ]
         },
         {
-          "speaker": "Sarah Jones MP",
-          "text": "Yes. Crime data is usually organised by type, not by whether it happened in a rural area, which can make patterns harder to see. National operations have helped tackle problems such as waste crime, equipment theft and hare coursing."
-        },
-        {
-          "speaker": "Sarah Jones MP",
-          "text": "Local rural crime teams and officers who understand the area are important too. In places where farmers trust police and report crimes, forces can do a much better job."
+          "speaker": "Sarah Jones",
+          "text": "Yes. Rural crime isn't recorded as one single category, which can make patterns harder to see. Waste crime, for example, grew before it became a national priority. Officers need to understand rural offences, while dedicated teams and trusted relationships with farmers can help people feel it's worth reporting them.",
+          "evidence": [
+            {
+              "source_turn": 30,
+              "quote": "Because rural crime is not defined—the datasets, as you know, are by crime type rather than the type of area that they fall within"
+            },
+            {
+              "source_turn": 30,
+              "quote": "It was not seen as a national priority quickly enough, but it now is"
+            },
+            {
+              "source_turn": 30,
+              "quote": "training officers to understand what rural crime is."
+            },
+            {
+              "source_turn": 30,
+              "quote": "have a relationship with farmers who trust that something will be done so actually report the crime."
+            }
+          ]
         },
         {
           "speaker": "Ben Maguire",
-          "text": "The national rural crime unit received £800,000. Is that enough when rural areas can be expensive to cover, and does the force funding formula properly account for rurality?"
+          "text": "The national rural crime unit gets £800,000, but a force such as Devon and Cornwall has vast areas to cover. Is that amount enough, and will funding account for the cost of policing rural places?",
+          "evidence": [
+            {
+              "source_turn": 109,
+              "quote": "my Devon and Cornwall force would be quite concerned to hear that because, as far as I know, it does not receive any additional funding for the rurality aspect of what it has to police."
+            },
+            {
+              "source_turn": 109,
+              "quote": "do you really think that £800,000 is proportionate to the cost of rural policing in our country?"
+            }
+          ]
         },
         {
-          "speaker": "Sarah Jones MP",
-          "text": "Most rural policing is paid for from force budgets, and chiefs decide how to spend that money. The national unit gets £800,000, and I think it provides good value. We want reforms to make effective practice more consistent between forces."
-        },
-        {
-          "speaker": "Ben Maguire",
-          "text": "How will the waste crime crackdown work with rural police, and is there new money for it?"
+          "speaker": "Sarah Jones",
+          "text": "The £800,000 supports a targeted national unit; most rural policing is paid for from each force's wider budget. I expect forces to cover rural crime, though some do it better than others. I'm also reviewing how police funding is calculated, including whether it reflects rural geography and seasonal changes.",
+          "evidence": [
+            {
+              "source_turn": 108,
+              "quote": "you get a lot of value for what is actually a relatively small amount of Government investment—£800,000."
+            },
+            {
+              "source_turn": 110,
+              "quote": "Within that budget, the police make decisions about what they prioritise and what they do not, and I expect them to cover rural crime in their budgets"
+            },
+            {
+              "source_turn": 110,
+              "quote": "Other areas do it less well."
+            },
+            {
+              "source_turn": 165,
+              "quote": "I am doing a lot of work to review the funding formula."
+            },
+            {
+              "source_turn": 165,
+              "quote": "rurality, seasonality—all these things."
+            }
+          ]
         },
         {
           "speaker": "Rod McLean",
-          "text": "There’s £45 million over three years for the Environment Agency to tackle waste sites. Police and the NCA support its work, and a national joint team is tackling serious organised waste crime. That approach is also being tried in Greater Manchester and West Yorkshire."
-        },
-        {
-          "speaker": "Sarah Jones MP",
-          "text": "The Government’s equipment theft law still needs detailed rules before it can take full effect. Legal and practical issues around vehicle registration and manufacturers have delayed them. I hope we can bring them forward early next year."
+          "text": "There is £45 million over three years for the Environment Agency to tackle illegal waste sites. Police and the National Crime Agency are supporting its investigations. A joint national team is also being tried in Greater Manchester and West Yorkshire, but any wider rollout would need evaluation.",
+          "evidence": [
+            {
+              "source_turn": 117,
+              "quote": "There is £45 million over three years for the Environment Agency to tackle the sites"
+            },
+            {
+              "source_turn": 117,
+              "quote": "The NCA is leaning in to support the Environment Agency with mentoring and intelligence support."
+            },
+            {
+              "source_turn": 117,
+              "quote": "It includes the Environment Agency, the police, the NCA and a range of other partners. That approach is now being trialled in Greater Manchester and West Yorkshire."
+            },
+            {
+              "source_turn": 117,
+              "quote": "subject to evaluation, of course."
+            }
+          ]
         },
         {
           "speaker": "Robbie Moore",
-          "text": "Why have immobilisers been dropped from the plans? These vehicles are often stolen by organised criminals."
+          "text": "The law intended to prevent theft of equipment such as quad bikes was passed in 2023. When will the detailed rules needed to put it into effect arrive, and why have immobilisers been dropped from the proposals?",
+          "evidence": [
+            {
+              "source_turn": 120,
+              "quote": "We are three years down the line from this legislation being introduced. A lot of quad bikes and ATVs are stolen as part of serious and organised crime within rural areas"
+            },
+            {
+              "source_turn": 120,
+              "quote": "When will that be presented to the House? Why have the Government dropped immobilisers from their proposals?"
+            }
+          ]
         },
         {
-          "speaker": "Sarah Jones MP",
-          "text": "We’re still working through what manufacturers can provide and what the law allows. I want to move quickly, but we also need a workable system for manufacturers and buyers."
+          "speaker": "Sarah Jones",
+          "text": "We've run into legal and vehicle-registration issues, including how rules would affect manufacturers and imports. I want the rules in place quickly and hope to introduce them by early next year, but resolving those issues has been difficult.",
+          "evidence": [
+            {
+              "source_turn": 119,
+              "quote": "We have bumped up against complex legal trade vehicle registration issues."
+            },
+            {
+              "source_turn": 123,
+              "quote": "we need to make sure that that fits with the law and with WTO law. There is a whole raft of complexity around it."
+            },
+            {
+              "source_turn": 125,
+              "quote": "Hopefully by early next year."
+            }
+          ]
         },
         {
           "speaker": "Robbie Moore",
-          "text": "How will the regional units fit into police reform without losing their expertise or support for local forces?"
+          "text": "Regional organised-crime units can help local forces, but local areas don't always feel supported. What will happen to those units under your proposed police reforms, and how will you preserve what works?",
+          "evidence": [
+            {
+              "source_turn": 126,
+              "quote": "local areas do not always feel well supported by their regional organised crime units."
+            },
+            {
+              "source_turn": 130,
+              "quote": "How will the Government ensure that they remain effective when they are encompassed within a larger police force structure?"
+            }
+          ]
         },
         {
-          "speaker": "Sarah Jones MP",
-          "text": "Those units do good work, but their funding and staffing arrangements are fragile: local forces pay for them and lend them officers. We want a more reliable structure, with national work in the national police service and regional specialisms in the new system."
+          "speaker": "Sarah Jones",
+          "text": "The regional units do good work, but their funding depends partly on local forces, and their staff are borrowed from those forces. We want a more reliable arrangement: national work would sit in a proposed national police service, with regional specialist work in new bodies. We'd introduce changes gradually rather than move major crime functions before the new service can handle them.",
+          "evidence": [
+            {
+              "source_turn": 127,
+              "quote": "they are funded by local forces and the Home Office."
+            },
+            {
+              "source_turn": 127,
+              "quote": "all the staff in ROCUs are seconded from local forces."
+            },
+            {
+              "source_turn": 129,
+              "quote": "The national-facing resources will sit within the national police service, and then the more regional will sit within the new bodies."
+            },
+            {
+              "source_turn": 131,
+              "quote": "we start small with the national police service and we build out; we do not add serious and organised crime, the National Crime Agency or CT until it is load bearing"
+            }
+          ]
         },
         {
-          "speaker": "Sarah Jones MP",
-          "text": "We plan to build the national service gradually and only transfer major responsibilities when it can handle them. The aim is to improve both local policing and the national response to complex crime, without damaging work that already succeeds."
+          "speaker": "Chair",
+          "text": "The Home Secretary has announced 200 local policing areas. If areas and specialist teams get bigger, how will officers retain knowledge of places such as neighbouring parts of Staffordshire, Cheshire and Derbyshire? I don't want to lose a commander who knows my own district.",
+          "evidence": [
+            {
+              "source_turn": 140,
+              "quote": "The Home Secretary has today announced 200 local policing areas."
+            },
+            {
+              "source_turn": 146,
+              "quote": "they simply won’t understand the bit of England that I represent and that is represented by MPs in Derbyshire and Cheshire."
+            },
+            {
+              "source_turn": 194,
+              "quote": "You are telling me that I might have a commander at the north Staffordshire level and not at the Moorlands level, and that is worse for me."
+            }
+          ]
+        },
+        {
+          "speaker": "Sarah Jones",
+          "text": "Local officers must understand their areas, build relationships and pass information to specialists when needed. The 200 areas' exact boundaries haven't been settled. Each is meant to have a commander with real authority, while smaller neighbourhood teams and a named local officer remain. We have to make sure national reform doesn't weaken local policing.",
+          "evidence": [
+            {
+              "source_turn": 147,
+              "quote": "local police understand their local area and that they are able to police it, have relationships, build intelligence and feed that up the system"
+            },
+            {
+              "source_turn": 147,
+              "quote": "they took their eye off the ball on local policing. We have to not do that."
+            },
+            {
+              "source_turn": 189,
+              "quote": "the exact geography is TBC"
+            },
+            {
+              "source_turn": 191,
+              "quote": "Yes."
+            },
+            {
+              "source_turn": 193,
+              "quote": "We need to know who your named local officer is."
+            },
+            {
+              "source_turn": 195,
+              "quote": "the idea is that you have a proper commander with proper authority over a local area."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Drug supply, treatment and asset recovery",
-      "takeaway": "The Government plans to update its drug strategy rather than make a radical change, while members questioned whether enforcement and treatment are reducing demand and crime.",
+      "title": "Drugs, treatment and criminal profits",
+      "takeaway": "The Minister favoured updating the existing drugs strategy rather than replacing it, while members questioned demand, prevention and how much criminal money is recovered.",
       "turns": [
         {
           "speaker": "Preet Kaur Gill",
-          "text": "What does the review of the drug strategy involve, and when will it be published?"
+          "text": "What does the review of the drugs strategy mean? With cocaine production high and new drugs appearing, what evidence shows the Government is shrinking the market that criminal groups profit from?",
+          "evidence": [
+            {
+              "source_turn": 200,
+              "quote": "the Government are saying they are reviewing the drug strategy. Can you tell us what that means?"
+            },
+            {
+              "source_turn": 202,
+              "quote": "What evidence do you have that the Government are shrinking the market that these gangs profit from?"
+            }
+          ]
         },
         {
-          "speaker": "Sarah Jones MP",
-          "text": "The earlier strategy’s focus on reducing demand and supply and improving treatment still makes sense. We’re reviewing what has changed: cocaine supply is growing, new synthetic drugs are appearing, and ketamine use has increased. We also need to know whether treatment is reaching the right people and helping them."
+          "speaker": "Sarah Jones",
+          "text": "The existing approach—reducing demand and supply while improving treatment—is still broadly right. But cocaine supply has increased, stronger synthetic opioids are appearing and ketamine use is rising. We need to check not just how many people get treatment, but whether it's the right treatment and whether it helps. I hope we can publish the update before the end of the year.",
+          "evidence": [
+            {
+              "source_turn": 201,
+              "quote": "She had three priorities: one was to reduce demand, one was to reduce supply, and one was to improve treatment. All of those things stand true"
+            },
+            {
+              "source_turn": 201,
+              "quote": "There is a lot more cocaine coming into the country"
+            },
+            {
+              "source_turn": 201,
+              "quote": "There are complex new synthetic opioids that are harder to detect and, in many cases, are much stronger than traditional drugs. We have increasing usage of things like ketamine."
+            },
+            {
+              "source_turn": 201,
+              "quote": "we need to look at the quality of that treatment."
+            },
+            {
+              "source_turn": 203,
+              "quote": "I hope that we will be able to do that before the end of the year"
+            }
+          ]
         },
         {
-          "speaker": "Sarah Jones MP",
-          "text": "We’re looking at treatment for people who repeatedly steal, and at the links between drugs and rough sleeping. I hope we can set out the updated priorities before the end of the year."
+          "speaker": "Mr Kohler",
+          "text": "The existing strategy aimed to improve treatment, cut demand and cut supply. Haven't demand and the amount of drugs available gone in the wrong direction? Are you reconsidering the whole approach, or mainly updating it?",
+          "evidence": [
+            {
+              "source_turn": 208,
+              "quote": "Both the amount of demand and the amounts on the market have gone in the wrong direction, haven’t they?"
+            },
+            {
+              "source_turn": 218,
+              "quote": "rather than reconsidering the overall strategy, this is updating the overall strategy?"
+            }
+          ]
         },
         {
-          "speaker": "Mr Paul Kohler",
-          "text": "The strategy aimed to reduce demand and supply as well as improve treatment. Demand and the quantity of drugs available seem to have gone the wrong way. How far will you reconsider the approach?"
+          "speaker": "Sarah Jones",
+          "text": "Treatment is more available, but we need to measure what happens to people after they receive it. We've done less well at reducing demand. This isn't a radical departure: we want to update priorities and respond to new risks. We're not planning to legalise drugs or change the law on cannabis.",
+          "evidence": [
+            {
+              "source_turn": 205,
+              "quote": "The £750 million-odd going into treatment has made a substantial difference to people’s ability to access treatment."
+            },
+            {
+              "source_turn": 205,
+              "quote": "not just whether someone has turned up for their appointment, but what actually happened to that person"
+            },
+            {
+              "source_turn": 205,
+              "quote": "Where we have done less well—although there have been some public campaigns—is on anything to impact demand."
+            },
+            {
+              "source_turn": 221,
+              "quote": "There is not a radical departure, but we want to update the strategy and prioritise a bit more."
+            },
+            {
+              "source_turn": 230,
+              "quote": "We are not banning alcohol and we are not decriminalising cannabis."
+            },
+            {
+              "source_turn": 230,
+              "quote": "We are not looking to change the legislative framework."
+            }
+          ]
         },
         {
-          "speaker": "Sarah Jones MP",
-          "text": "There isn’t a radical change planned, and we’re not proposing to legalise drugs. We want to update the strategy, improve how we judge treatment, and focus on the changing risks, including drugs sold online and the links between drug use and violence against women."
+          "speaker": "Dr Prinsley",
+          "text": "We can't solve drug use just by arresting people. What are health and education services doing to explain the harm to young people and prevent them using drugs?",
+          "evidence": [
+            {
+              "source_turn": 252,
+              "quote": "What are we doing to educate young people about the dangers of drugs? What money are we spending on that?"
+            },
+            {
+              "source_turn": 252,
+              "quote": "you can’t arrest your way out of this problem; you have to somehow explain to people that this is harming them."
+            }
+          ]
         },
         {
-          "speaker": "Mr Paul Kohler",
-          "text": "Are you considering legalising or regulating cannabis, as some other countries have done?"
+          "speaker": "Sarah Jones",
+          "text": "I agree. There's been a campaign warning young people about ketamine's lasting damage to the bladder, and schools do drugs education. If money were available, I'd like more public campaigns: people may not understand either the harm to users or how buying drugs supports violence.",
+          "evidence": [
+            {
+              "source_turn": 253,
+              "quote": "There has been one recently on ketamine to try to make sure that young people in particular who are using ketamine as a party drug recognise and understand the impact it can have on ruining your bladder"
+            },
+            {
+              "source_turn": 253,
+              "quote": "There is still a lot of work that goes on in the education field in terms of drugs and schools"
+            },
+            {
+              "source_turn": 253,
+              "quote": "if money were available, I would personally love to do more campaigns about drugs"
+            },
+            {
+              "source_turn": 253,
+              "quote": "people do not realise the harm they do, not just to people here but to millions of people around the world."
+            }
+          ]
         },
         {
-          "speaker": "Sarah Jones MP",
-          "text": "No. We’re not changing the law on cannabis. We’ll keep studying its harms, including the mental health effects."
+          "speaker": "Mr Kohler",
+          "text": "Turning to asset recovery: one estimate says just 0.3% of criminal assets are recovered. Do you recognise that figure, and what's stopping more money and property being taken from criminals?",
+          "evidence": [
+            {
+              "source_turn": 234,
+              "quote": "Spotlight on Corruption estimates that 0.3% of criminal assets are recovered. Do you recognise that figure, and is it fair?"
+            },
+            {
+              "source_turn": 246,
+              "quote": "Are there still problems in the process?"
+            }
+          ]
         },
         {
-          "speaker": "Dr Peter Prinsley",
-          "text": "You can’t arrest your way out of drug use. What are health and education departments doing to prevent it and explain the harm to young people?"
-        },
-        {
-          "speaker": "Sarah Jones MP",
-          "text": "There has been a public campaign about ketamine and its serious effects on the bladder, and schools do drug education. I’d like to do more public health campaigns because many people don’t connect buying drugs with the harm they cause in communities and overseas."
-        },
-        {
-          "speaker": "Ben Maguire",
-          "text": "Are you learning from other countries about screening luggage at ports and airports to stop drugs entering the UK?"
-        },
-        {
-          "speaker": "Sarah Jones MP",
-          "text": "The NCA works closely with ports, but drugs are increasingly hidden in forms that existing detection methods may not find. We’re working to use better technology, though this is still a work in progress."
-        },
-        {
-          "speaker": "Mr Paul Kohler",
-          "text": "Only a tiny share of criminal assets may be recovered. What is the Government doing to improve that?"
-        },
-        {
-          "speaker": "Sarah Jones MP",
-          "text": "We recovered about £345 million last year. A new strategy includes £550 million over three years to improve asset recovery, and letting local forces keep part of the money they recover gives them an incentive."
+          "speaker": "Sarah Jones",
+          "text": "I haven't seen that estimate, but I wouldn't dismiss it. We recovered £345 million last year, which I imagine is only a fraction of what's possible. Court delays are one obstacle: a case might take three years to reach the point where assets can be recovered.",
+          "evidence": [
+            {
+              "source_turn": 235,
+              "quote": "I have not seen that figure, but I would not want to question it. We recovered £345 million last year, which I would imagine is a fraction of what we could do"
+            },
+            {
+              "source_turn": 247,
+              "quote": "There are problems in terms of court delays on getting to that, for sure. You might have a three-year delay"
+            }
+          ]
         },
         {
           "speaker": "Rod McLean",
-          "text": "The strategy also changes how confiscation orders are enforced, puts victims’ compensation first and aims to make court processes faster. Recovered assets rose 20% last year and are 57% higher than in 2020-21."
+          "text": "The new strategy aims to make it easier to take criminal assets and prioritise compensation for victims. The amount recovered has risen: £345.3 million this year, 20% above last year. The National Audit Office is reviewing how well the recovery system works.",
+          "evidence": [
+            {
+              "source_turn": 245,
+              "quote": "prioritising compensation for victims and streamlining procedures through jurisprudence in the court to accelerate the recovery of assets."
+            },
+            {
+              "source_turn": 245,
+              "quote": "it was £345.3 million this year, up 20% on last year"
+            },
+            {
+              "source_turn": 245,
+              "quote": "the National Audit Office is currently reviewing the effectiveness of the asset recovery system"
+            }
+          ]
         },
         {
           "speaker": "David Grahame",
-          "text": "It’s becoming harder to trace money, especially when it’s moved through cryptocurrency or hidden in complex financial arrangements. The plan includes new powers to seize cryptocurrency and more financial investigators."
+          "text": "It's also harder to find assets when criminals can hide them using cryptocurrency and other modern financial tools. The strategy includes new powers to seize crypto-assets and more investigators who can trace money.",
+          "evidence": [
+            {
+              "source_turn": 248,
+              "quote": "the complexity of the modern market—crypto, the ease of hiding things—and it is difficult to get into it."
+            },
+            {
+              "source_turn": 248,
+              "quote": "new crypto-asset seizure powers, how you track those things, more financial investigators"
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Crime and illegal sales online",
-      "takeaway": "The Government is testing new ways to find stolen goods online but accepts that existing rules do not give it enough power over every kind of illegal sale.",
+      "title": "Illegal goods sold online",
+      "takeaway": "The Government is testing ways to find stolen goods online, but the Minister acknowledged gaps in its ability to prevent other illegal listings.",
       "turns": [
         {
           "speaker": "Bell Ribeiro-Addy",
-          "text": "What is the Home Office doing about illegal and counterfeit goods sold through social media and online marketplaces?"
+          "text": "What are you doing about illegal goods sold through online marketplaces and social media? Can you require companies to act when goods are stolen, rather than just when the listings involve illegal knives?",
+          "evidence": [
+            {
+              "source_turn": 259,
+              "quote": "what action is the Home Office taking to tackle the sale of illegal goods through online marketplaces, particularly social media?"
+            },
+            {
+              "source_turn": 265,
+              "quote": "If they are illegal goods for other reasons, in that they have been stolen and so on, can you compel the companies in the same way?"
+            }
+          ]
         },
         {
-          "speaker": "Sarah Jones MP",
-          "text": "We’re funding a tool that scans second-hand marketplaces for stolen goods. The Online Safety Act requires services to have plans to deal with illegal content, but we’re considering whether the rules go far enough."
+          "speaker": "Sarah Jones",
+          "text": "We're funding an AI tool to look across second-hand sites for stolen goods, using details such as a tool's reference number. We've gone further on illegal knives, with powers to require companies to remove content. For other illegal listings, companies must have plans to prevent and remove them, but we don't necessarily have the enforcement tools we'd want.",
+          "evidence": [
+            {
+              "source_turn": 260,
+              "quote": "one of the pieces of work is looking across second-hand marketplaces to try to have an AI tool that can pick up stolen products."
+            },
+            {
+              "source_turn": 260,
+              "quote": "you have a description of it and the reference number for it"
+            },
+            {
+              "source_turn": 260,
+              "quote": "We have introduced a law that basically enables us to force companies to remove content"
+            },
+            {
+              "source_turn": 266,
+              "quote": "if they do have something that is illegal, we do not necessarily have the tools to take action in the way that we would want to."
+            },
+            {
+              "source_turn": 266,
+              "quote": "they have to take it down when it is seen"
+            }
+          ]
         },
         {
           "speaker": "Bell Ribeiro-Addy",
-          "text": "Could online companies be forced to act on stolen or counterfeit goods in the same way they can be made to deal with illegal knife sales?"
-        },
-        {
-          "speaker": "Sarah Jones MP",
-          "text": "There are stronger rules for knife sales, and companies or senior executives can face court action if they ignore them. For other illegal sales, companies must have plans and remove content when it is reported, but we don’t yet have the same tools to compel action."
-        },
-        {
-          "speaker": "Bell Ribeiro-Addy",
-          "text": "Could the Government warn people, especially young people, that cheap counterfeit goods may fund crime and can also be unsafe?"
+          "text": "Would you consider warning buyers about counterfeit goods? They may not realise that these purchases can be harmful, as well as illegal. And are the current duties on online companies strong enough?",
+          "evidence": [
+            {
+              "source_turn": 269,
+              "quote": "would the Government consider a public awareness campaign to make consumers more aware of the negative consequences of buying these goods online?"
+            },
+            {
+              "source_turn": 272,
+              "quote": "Is there some sort of duty on the companies so that you can actually take action"
+            }
+          ]
         },
         {
           "speaker": "David Grahame",
-          "text": "Counterfeit goods can harm buyers as well as support criminal activity, because their contents and quality may be unsafe."
+          "text": "Counterfeit goods can harm the buyer too, because of their quality or the substances in them. That's another reason to help people understand what they're buying.",
+          "evidence": [
+            {
+              "source_turn": 271,
+              "quote": "it can also be personally harmful to them in terms of the quality of the goods and the substances in them. It is about looking after yourself as well."
+            }
+          ]
         },
         {
-          "speaker": "Sarah Jones MP",
-          "text": "That’s worth considering. There’s more to do, including on drugs sold online and on helping people understand what they’re buying."
-        },
-        {
-          "speaker": "Bell Ribeiro-Addy",
-          "text": "Will the online crime work cover other crimes too, such as child sexual exploitation?"
-        },
-        {
-          "speaker": "Sarah Jones MP",
-          "text": "Yes. Police use undercover methods to catch online abusers, but these crimes often cross borders and the scale of the problem remains very large."
+          "speaker": "Sarah Jones",
+          "text": "People may not realise how many illegal products are online, so there's probably more we could do to inform them. Ofcom can act when the Online Safety Act is broken, but we're asking whether its powers are enough and how to stop illegal listings appearing in the first place. There's more work to do, including on drugs sold online.",
+          "evidence": [
+            {
+              "source_turn": 270,
+              "quote": "I do not think that people recognise the quantity of illegal produce online, absolutely. You are right: we probably could do some work in that area"
+            },
+            {
+              "source_turn": 273,
+              "quote": "Ofcom has powers, if the Online Safety Act is breached, but there is a live question about whether those powers are enough"
+            },
+            {
+              "source_turn": 273,
+              "quote": "There is more to be done in this space, for sure, not least in the drugs area, where you have children buying drugs online with QR codes."
+            }
+          ]
         },
         {
           "speaker": "Chair",
-          "text": "We want people to understand that a bargain that looks too good to be true may help fund criminal activity, forced labour and other harm."
+          "text": "We want people to know that an online bargain that looks too good to be true may be funding organised crime and forced labour.",
+          "evidence": [
+            {
+              "source_turn": 276,
+              "quote": "if you see something that looks too good to be true, you are probably funding criminals, their criminal activities, forced labour and everything else that goes on behind it"
+            }
+          ]
         }
       ]
     }
