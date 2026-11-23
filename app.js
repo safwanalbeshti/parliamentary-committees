@@ -50,7 +50,6 @@ function memberKindLabel(name) {
 }
 
 const STORAGE_KEY = "committee-viewer-progress";
-const EVIDENCE_KEY = "committee-viewer-evidence-open";
 
 /*
  * Terms a general reader is unlikely to know. Each session also carries its own
@@ -192,7 +191,8 @@ let currentIndex = 0;
 let menuMode = "committee";
 let openCommittee = null;
 const evidenceCache = new Map();
-let evidenceOpen = readEvidencePreference();
+// Off whenever the page loads; the reader switches it on when they want it.
+let evidenceOpen = false;
 let evidenceState = null; // { sessionId, paragraphs, perTurn, marked }
 // The inquiry whose sessions are listed on their own page (a meeting key).
 let openInquiry = null;
@@ -1238,14 +1238,6 @@ function populateSessionPicker() {
 // based on. The build matches them to character offsets in the transcript; here
 // we show that transcript beside the dialogue and highlight the current line's.
 
-function readEvidencePreference() {
-  try {
-    return localStorage.getItem(EVIDENCE_KEY) === "1";
-  } catch {
-    return false;
-  }
-}
-
 function setupEvidence() {
   const available = Boolean(session && session.evidence);
   el.evidenceToggleWrap.hidden = !available;
@@ -1419,11 +1411,6 @@ function highlightEvidence(immediate = false) {
 function bindEvidenceToggle() {
   el.evidenceToggle.addEventListener("change", () => {
     evidenceOpen = el.evidenceToggle.checked;
-    try {
-      localStorage.setItem(EVIDENCE_KEY, evidenceOpen ? "1" : "0");
-    } catch {
-      /* storage unavailable — the toggle still works for this visit */
-    }
     applyEvidenceMode();
   });
 }
