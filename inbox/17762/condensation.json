@@ -2,9 +2,9 @@
   "schema_version": 1,
   "source_id": 17762,
   "source_sha256": "fe9e8933857d6fd523c82253ff251d8bcd2b5f2c245254f58beadb73d8ea76f5",
-  "title": "How Prepared Is Britain for a National Emergency?",
-  "label": "11 June 2026 · National resilience and emergency communications",
-  "summary": "The committee examined how well the UK public, communications networks and essential services are prepared for major emergencies, including cyberattacks, power failures and prolonged communications blackouts. Professor Lee Miles argued that people often understand everyday local risks but have little awareness of wider national threats, and that government advice needs to connect with their practical concerns. Nihal Newman explained how Ofcom monitors the security of communications networks, what backup arrangements exist and how proposed legislation could improve protection against cyber threats. The discussion explored lessons from other countries, emergency education, the risks of relying too heavily on digital communications and concerns about potentially switching off traditional television broadcasting. Both witnesses called for better cooperation across government, industry and communities, while Miles particularly stressed that public trust is essential.",
+  "title": "Preparing Britain for Disruption: Warnings, Networks and Trust",
+  "label": "11 June 2026 · National resilience and communications",
+  "summary": "The committee questioned Ofcom’s Nihal Newman and disaster-management professor Lee Miles about how prepared UK households and communications services are for emergencies, from power cuts and cyberattacks to war. Miles argued that people tend to focus on immediate household risks and need clear, practical advice delivered through familiar channels. Newman described security rules, backup systems and the need for telecoms, energy providers and government to work together. Both said that preparedness must involve more than government alone; Miles stressed that public trust is essential. They raised concerns about prolonged outages and replacing broadcast television, without reaching a firm verdict on the proposed switch-off.",
   "speakers": [
     {
       "label": "Chair",
@@ -27,434 +27,826 @@
     {
       "label": "Lord Oates",
       "name": "Lord Oates",
-      "role": "Committee member",
+      "role": "Member of the National Resilience Committee",
       "kind": "member"
     },
     {
       "label": "Baroness Northover",
       "name": "Baroness Northover",
-      "role": "Committee member",
+      "role": "Member of the National Resilience Committee",
       "kind": "member"
     },
     {
       "label": "Baroness Hunter of Auchenreoch",
       "name": "Baroness Hunter of Auchenreoch",
-      "role": "Committee member",
+      "role": "Member of the National Resilience Committee",
       "kind": "member"
     },
     {
       "label": "Lord Farmer",
       "name": "Lord Farmer",
-      "role": "Committee member",
+      "role": "Member of the National Resilience Committee",
       "kind": "member"
     },
     {
       "label": "Baroness Mobarik",
       "name": "Baroness Mobarik",
-      "role": "Committee member",
+      "role": "Member of the National Resilience Committee",
       "kind": "member"
     },
     {
       "label": "Baroness Curran",
       "name": "Baroness Curran",
-      "role": "Committee member",
+      "role": "Member of the National Resilience Committee",
       "kind": "member"
     },
     {
       "label": "Lord Peach",
       "name": "Lord Peach",
-      "role": "Committee member",
+      "role": "Member of the National Resilience Committee",
       "kind": "member"
     },
     {
       "label": "Baroness Winterton of Doncaster",
       "name": "Baroness Winterton of Doncaster",
-      "role": "Committee member",
+      "role": "Member of the National Resilience Committee",
       "kind": "member"
     },
     {
       "label": "Baroness Helic",
       "name": "Baroness Helic",
-      "role": "Committee member",
+      "role": "Member of the National Resilience Committee",
       "kind": "member"
     }
   ],
   "glossary": [
     {
       "term": "Ofcom",
-      "definition": "The UK's communications regulator, responsible for overseeing services including telecommunications, broadcasting and online safety."
-    },
-    {
-      "term": "Connected Nations",
-      "definition": "An annual Ofcom report examining the availability, performance and resilience of UK communications networks."
-    },
-    {
-      "term": "Telecommunications (Security) Act",
-      "definition": "A 2021 UK law requiring telecommunications companies to take measures to protect their networks and services from security threats."
-    },
-    {
-      "term": "digital terrestrial television",
-      "definition": "Television broadcast from land-based transmitters to an aerial, allowing reception without an internet connection."
-    },
-    {
-      "term": "Emergency Services Network",
-      "definition": "A UK government programme developing a dedicated mobile communications service for police, fire and ambulance services."
+      "definition": "The UK regulator that oversees communications services, including telecoms networks."
     },
     {
       "term": "Cabinet Office",
-      "definition": "The central UK government department that helps coordinate work across departments, including planning for national emergencies."
+      "definition": "A UK government department that helps coordinate work across other departments, including national emergencies."
     },
     {
-      "term": "cyberattack",
-      "definition": "An attempt to break into, disrupt, damage or steal information from computers, networks or digital services."
+      "term": "DSIT",
+      "definition": "The Department for Science, Innovation and Technology, responsible for UK telecommunications policy."
     },
     {
-      "term": "National Cyber Security Centre",
-      "definition": "The UK government organisation that provides expert advice and support to protect the country against cyber threats."
+      "term": "Telecommunications (Security) Act",
+      "definition": "A UK law requiring telecommunications providers to protect their networks and services against security risks."
     },
     {
-      "term": "Cyber Security and Resilience Bill",
-      "definition": "Proposed UK legislation to strengthen security requirements and government oversight for essential digital services and their suppliers."
-    },
-    {
-      "term": "data centres",
-      "definition": "Buildings housing large numbers of computers that store information and run digital services, websites and AI systems."
-    },
-    {
-      "term": "AI",
-      "definition": "Artificial intelligence: computer technology that can perform tasks such as analysing information, generating content and recognising patterns."
+      "term": "Cyber Security and Resilience (Network and Information Systems) Bill",
+      "definition": "A proposed UK law to expand and strengthen protections for important digital services and their suppliers."
     },
     {
       "term": "Cyber Assessment Framework",
-      "definition": "A set of guidelines developed by the UK's National Cyber Security Centre to assess how well organisations protect essential services."
+      "definition": "A UK method for checking how well organisations manage threats to their computer systems and services."
     },
     {
-      "term": "secondary legislation",
-      "definition": "Detailed legal rules made under powers granted by an Act of Parliament, usually without passing another full Act."
+      "term": "data centres",
+      "definition": "Buildings filled with computer equipment that store information and run online services."
     },
     {
-      "term": "Ofgem",
-      "definition": "The regulator responsible for overseeing Great Britain's electricity and gas markets and protecting energy consumers."
+      "term": "digital terrestrial television",
+      "definition": "Television broadcasts received through an aerial rather than through the internet or satellite."
     },
     {
-      "term": "Five Eyes",
-      "definition": "An intelligence-sharing partnership between the UK, United States, Canada, Australia and New Zealand."
+      "term": "AI",
+      "definition": "Artificial intelligence: computer systems used to perform tasks that normally require human intelligence."
     },
     {
-      "term": "critical national infrastructure",
-      "definition": "Services and facilities so important that their failure could seriously harm the country's security, economy or everyday life."
+      "term": "cyberattack",
+      "definition": "An attempt to damage, disrupt or gain unauthorised access to computer systems or networks."
     }
   ],
   "chapters": [
     {
-      "title": "What risks does the public understand?",
-      "takeaway": "People tend to recognise threats close to home but often don't connect wider national and international risks with their everyday lives.",
+      "title": "What risks do people recognise?",
+      "takeaway": "People tend to focus on dangers close to home, while national threats can seem distant or hard to act on.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "How aware do you think the public is of the risks facing the country, particularly the way problems in one area can cause problems elsewhere? And how much do people understand about threats to communications networks?"
+          "text": "How much do people understand about national and international risks, especially risks to the communications networks we rely on?",
+          "evidence": [
+            {
+              "source_turn": 1,
+              "quote": "To what extent do you estimate that the public currently have awareness of interconnected national and international risks? Obviously, that includes the ones relating to communications networks, where your special expertise is important for us to hear about. What is the level of awareness of risks in those areas?"
+            }
+          ]
         },
         {
           "speaker": "Nihal Newman",
-          "text": "Communications networks are fundamental to everyday life and the economy. At Ofcom, our main job is to make sure the companies running those networks follow the security rules. We deal mainly with those companies rather than directly with the public. But we do publish information, including our annual Connected Nations report, explaining the risks and what we're doing about them."
-        },
-        {
-          "speaker": "Nihal Newman",
-          "text": "We also give consumers practical advice. For example, as older telephone networks are replaced, we explain what people should ask their providers and how to protect themselves against scams. When we identify important threats, we sometimes publish letters to the industry so the public can see our concerns."
+          "text": "Ofcom regulates the companies providing communications services, so we mostly deal with those companies rather than the public. We publish reports about risks and give consumers practical advice, including on replacing older phone networks and avoiding scams.",
+          "evidence": [
+            {
+              "source_turn": 2,
+              "quote": "Ofcom’s role as a regulator is to enforce the relevant frameworks and legal frameworks that we have, and we monitor industry’s compliance against those frameworks. Therefore, Ofcom’s engagement is predominantly with the industry—with those organisations that we regulate—and there is limited direct engagement with the general public."
+            },
+            {
+              "source_turn": 2,
+              "quote": "That is an annual publication where we set out the risks that the sector faces, plus what we are doing in that space. We also provide guidance and information for consumers. When we think about legacy networks such as the PSTN, we set out in our guidance the sorts of questions that consumers should be asking their operators to help prepare them for that transition, including for scams and fraud—practical tips for people to take; that is information that we make available on our website."
+            }
+          ]
         },
         {
           "speaker": "Chair",
-          "text": "You say you check whether communications companies are following the rules. How well are they doing?"
+          "text": "Are the companies actually following the security requirements?",
+          "evidence": [
+            {
+              "source_turn": 3,
+              "quote": "One of your functions, you said, is to monitor industry compliance. How compliant is it?"
+            }
+          ]
         },
         {
           "speaker": "Nihal Newman",
-          "text": "We have legal requirements under the Telecommunications (Security) Act. We're seeing companies take steps to meet those requirements, and we report their progress to the Government. But the threats keep changing, so protecting networks is an ongoing process. I wouldn't describe it as something that's finished."
+          "text": "Operators are taking steps to meet the requirements. We report their progress to the government, but this is ongoing work because the threats keep changing.",
+          "evidence": [
+            {
+              "source_turn": 4,
+              "quote": "It is a journey, and the threat landscape is evolving. We provide a report to the Secretary of State, and aspects of that have been published by DSIT. We are seeing steps that industry is taking, and they are implementing the measures that we expect them to take in the sector."
+            }
+          ]
         },
         {
           "speaker": "Professor Lee Miles",
-          "text": "My research suggests public awareness of risks is generally low. In our 2025 household study, about 52% of households said they were aware of all the hazards they faced, but around 21% weren't aware of any risks at all. There's a considerable gap between what government considers important and what households think about."
+          "text": "My answer on public awareness is “Not very far at all”. In our 2025 household study, about 52% were aware of all the dangers they faced at home, but about 21% didn’t think they faced, or know of, any risks. That suggests a gap between government priorities and what households recognise.",
+          "evidence": [
+            {
+              "source_turn": 5,
+              "quote": "“Not very far at all” would be my immediate response to that. I think it is because, when we look at most of the data available in terms of awareness, there is low awareness data among the public, particularly households, about specific types of risks and hazards."
+            },
+            {
+              "source_turn": 5,
+              "quote": "In the 2025 study that we did, something like 52% of households were aware of all the hazards that they faced in their households, but something like 21% did not think they had or were aware of any risks at all. That is an illustration of awareness. The first thing is low awareness, which may be part of the argument. The second is what you might call disconnected priorities—the messaging around resilience coming from the resilience action plan, the national security strategy, the industry strategy and around the ‘whole of society’ approach."
+            }
+          ]
         },
         {
           "speaker": "Professor Lee Miles",
-          "text": "People focus on dangers they might encounter personally. In our study, accidents at home were the most commonly identified threat, at 35%. Terrorism was at just 4%, and war and conflict at 5%. We also found that around 75% of households reported taking no specific action in relation to climate change. There's a gap between recognising national risks and preparing for them."
+          "text": "People mainly worry about dangers that feel personal. In our survey, 35% saw accidents at home as a threat, compared with 4% for terrorism and 5% for war or conflict. About three-quarters reported taking no specific action on climate change. But people increasingly see how international conflicts can raise their energy bills.",
+          "evidence": [
+            {
+              "source_turn": 5,
+              "quote": "What the data shows is that households, as well as the public in particular, see resilience in a very localised setting, often in their own personal dimension. In the survey study that I was involved in, something like the highest level of perceived threat were accidents at home (35%), and the lowest level, at only 4%, was terrorism, and 5% on conflict and war. You see this disconnection of priorities. That is an important point. In effect, that leads to limited action. Something like 75% of households that we looked at in the study indicated that they took no specific action at all in relation to climate change, for example, and those kinds of elements."
+            },
+            {
+              "source_turn": 5,
+              "quote": "with the Iran war and so forth, there is a rising awareness of what you might call ‘cascading effects’. The public and households have become very much aware that geopolitics leads to higher energy prices, with implications for their standards of living."
+            }
+          ]
         },
         {
           "speaker": "Lord Oates",
-          "text": "But couldn't those figures simply show that people have a realistic understanding of which risks are most likely to affect them?"
+          "text": "But might the public be judging the risks they actually face quite accurately?",
+          "evidence": [
+            {
+              "source_turn": 6,
+              "quote": "would you say that those figures were an accurate perception by the public of risks that they face?"
+            }
+          ]
         },
         {
           "speaker": "Professor Lee Miles",
-          "text": "Yes, that's an important distinction. What people believe is dangerous, what they do to prepare and how well those preparations work are different things. People naturally judge risks according to their circumstances. Someone living in the countryside may see things differently from someone in a city. We shouldn't assume that different priorities necessarily mean people are being irrational."
-        },
-        {
-          "speaker": "Professor Lee Miles",
-          "text": "We are also seeing greater awareness of how international events affect households. Conflict involving Iran, for example, can lead to higher energy prices and lower living standards. People may not view a distant conflict as a direct security threat, but they understand its effect when their bills rise. That's one way national and international risks become personally relevant."
+          "text": "What people notice, what they prepare for and what happens in practice are different things. Risks feel different depending on where someone lives, and the picture varies between urban and rural communities.",
+          "evidence": [
+            {
+              "source_turn": 7,
+              "quote": "there is often a difference between awareness, if you like, which is perception, action—which can be seen as preparedness—and, if you like, delivery or outcomes."
+            },
+            {
+              "source_turn": 7,
+              "quote": "There is also a very strong regional difference between urban communities and rural communities, about how they would perceive communication around awareness of interconnected hybrid threats."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "How do you reach people?",
-      "takeaway": "Emergency advice needs to be practical, trustworthy and delivered through the channels different communities actually use.",
+      "title": "How to reach people",
+      "takeaway": "Warnings need to explain why a risk matters to a household and reach people through the channels they actually use.",
       "turns": [
         {
           "speaker": "Baroness Northover",
-          "text": "Accidents at home really may be the most immediate danger for many families, especially those with young children. But how does the Government explain wider risks when people get their information from so many different places?"
+          "text": "It makes sense that families worry about accidents at home. How can the government help them prepare for wider risks when different people get information from so many different places?",
+          "evidence": [
+            {
+              "source_turn": 8,
+              "quote": "accidents in the home, especially with little children, would be high on the agenda and are most likely, so maybe that conclusion that people are coming to appears to be logical."
+            },
+            {
+              "source_turn": 8,
+              "quote": "With a fragmented media landscape, with audiences receiving information from different places, platforms, formats, and that changing as well and being likely to continue to change, how do you get the resilience or preparedness message across in that circumstance?"
+            }
+          ]
         },
         {
           "speaker": "Professor Lee Miles",
-          "text": "We have to start by recognising that people generally make sensible decisions about the risks around them. The challenge is to make national preparedness relevant to ordinary households. First, explain why a risk matters. Then help people decide what action suits them, rather than simply telling everyone to be prepared."
-        },
-        {
-          "speaker": "Professor Lee Miles",
-          "text": "That could mean installing fire alarms, protecting a home against flooding or buying equipment that would help during an emergency. But giving advice isn't enough. People may need help paying for those measures, perhaps through government support or lower insurance premiums. Finally, we should show whether the measures actually make people safer."
+          "text": "People are usually making reasonable judgments about their local risks. Start by explaining why wider threats matter to their own household. Then show the choices they can make, such as protecting a home against flooding or installing fire alarms. Help them act, perhaps through government support schemes or cheaper insurance, and show whether those steps actually make them safer.",
+          "evidence": [
+            {
+              "source_turn": 9,
+              "quote": "we have to recognise that households and the public are rational actors, for the most part. They are being perfectly rational in deciding what are the threats and hazards for them in their local community—in that dimension."
+            },
+            {
+              "source_turn": 9,
+              "quote": "The first E is what you might call ‘enlightened context’, which is making it clear in government communications why that context is important for the public and the households, to take on the resilience domain."
+            },
+            {
+              "source_turn": 9,
+              "quote": "Resilience is a choice about what they want to do and what they want to invest in. Do they want to invest in flooding measures for their houses, new technology, fire alarms or whatever, in relation to those kinds of elements?"
+            },
+            {
+              "source_turn": 9,
+              "quote": "That might mean incentivisation schemes, so that if they undertake resilience actions or buy different types of new technologies, they might see an insurance discount, reduced premium and/or government scheme that might help with that."
+            },
+            {
+              "source_turn": 9,
+              "quote": "The fourth and final element you might call the ‘evaluation of outcomes’ to show that doing this actually leads to an outcome of better resilience."
+            }
+          ]
         },
         {
           "speaker": "Baroness Northover",
-          "text": "But how do you make sure people receive reliable information? Young people may use TikTok, while others rely on WhatsApp messages from friends or family. Many won't visit an official government website."
+          "text": "That still leaves the problem of how to get reliable information to people who use social media or private WhatsApp groups instead of government websites or broadcasters.",
+          "evidence": [
+            {
+              "source_turn": 10,
+              "quote": "15 to 25 year-olds will be getting their information not from government or broadcasters and so on but from social media platforms. People may be getting their information in WhatsApp groups from their friends and relations and so on. Following up on your four Es, how do you get information over that is reliable, in our view, in those circumstances?"
+            }
+          ]
         },
         {
           "speaker": "Professor Lee Miles",
-          "text": "We need one agreed message about the risks, but different ways of delivering it. A government website is useful for someone already looking for information. It won't necessarily reach someone who isn't interested. We need messages designed for different audiences, whether that's social media, local organisations or conversations within communities. That takes planning and money; effective communication isn't cheap."
+          "text": "Agree on the essential warning, then adapt it for each audience and platform. A website reaches people already interested, but many others depend on TikTok, Facebook, family or local contacts. Messages must be tailored to those routes, which takes substantial resources.",
+          "evidence": [
+            {
+              "source_turn": 11,
+              "quote": "I would advocate a hub-and-spoke communications strategy. In effect, the hub is where you are providing a common agreement about what the communication of the threat should be—in other words, what the context should be. The spokes are the delivery across the various platforms according to the different audiences."
+            },
+            {
+              "source_turn": 11,
+              "quote": "We use websites as static places where the interested will go to find out more information. We have large elements of society in households that are not interested or engaged, and the platforms from which they gain information are anything from TikTok all the way through to Facebook and other social media, and anecdotal information, which might be the local community or family. The important thing to realise is that you need bespoke formats and delivery platforms to be able to achieve this. That means that communication on resilience, to put it bluntly, is not a cheap endeavour."
+            }
+          ]
         },
         {
           "speaker": "Nihal Newman",
-          "text": "Ofcom carries out research into how people use media, including our Media Nations research. I can provide the committee with that information to help understand where different audiences get their news and information."
-        },
-        {
-          "speaker": "Baroness Hunter of Auchenreoch",
-          "text": "You've worked in Sweden, Africa and the Caribbean. What lessons from those places could Britain use to help people prepare for emergencies?"
-        },
-        {
-          "speaker": "Professor Lee Miles",
-          "text": "Sweden is a useful example. It has a long tradition of preparing the whole population for national emergencies, including war. The government has distributed a booklet explaining what people should know and do in a crisis. It has also supported practical measures to help households and communities become better prepared."
-        },
-        {
-          "speaker": "Professor Lee Miles",
-          "text": "But we can't simply copy Sweden. Its approach developed in a society with a strong tradition of national defence and relatively high trust in government. Trust and a shared sense of responsibility make those messages easier to deliver. The UK has a different social and political environment, so we'd have to adapt the approach."
-        },
-        {
-          "speaker": "Baroness Hunter of Auchenreoch",
-          "text": "What about African countries dealing with floods and other disasters, or Caribbean countries facing hurricanes? What can we learn from them?"
-        },
-        {
-          "speaker": "Professor Lee Miles",
-          "text": "I've worked in Sierra Leone, including around the Ebola crisis. In places with fewer resources, communities often depend on simple ways of communicating rather than expensive technology. That might mean loudspeakers or agreed local arrangements for passing on warnings. Those methods are important because they can still work when mobile or internet services fail."
-        },
-        {
-          "speaker": "Professor Lee Miles",
-          "text": "In Britain, we're becoming increasingly dependent on digital networks while older alternatives are disappearing. We should learn from countries where communities have to manage without reliable technology. We need backup methods that don't depend on the same systems, particularly for rural areas with poor coverage."
-        },
-        {
-          "speaker": "Nihal Newman",
-          "text": "There are already some examples here. Japan has an emergency alert system, and the UK has a similar system that can send warnings to mobile phones in an affected area. It was used during the Plymouth bomb evacuation. The Cabinet Office leads that work. There's more to do, but we aren't starting from nothing."
+          "text": "Ofcom also studies how people consume media. I can provide the committee with relevant findings from our Media Nations research.",
+          "evidence": [
+            {
+              "source_turn": 12,
+              "quote": "Ofcom carries out consumer research, and there is one, specifically Media Nations, which, if the committee is interested, I can follow up and provide the information from, if it will be helpful."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "What happens if the networks go down?",
-      "takeaway": "Backup power, alternative networks and cooperation between essential services are vital, but prolonged or widespread failures remain a serious challenge.",
+      "title": "Lessons from other countries",
+      "takeaway": "Sweden offers useful ideas, but simpler community warning methods and public trust matter as much as advanced technology.",
+      "turns": [
+        {
+          "speaker": "Baroness Hunter of Auchenreoch",
+          "text": "What could Britain learn from Sweden and from your work in Africa and the Caribbean?",
+          "evidence": [
+            {
+              "source_turn": 14,
+              "quote": "you have had dealings with Sweden. We heard from the Nordic countries on their communications strategies. I know that you have also been in Africa and the Caribbean. I wonder what you could bring to the UK: what experience have you seen out there that might be effective back here?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Lee Miles",
+          "text": "Sweden gives households printed guidance on preparing for a crisis or war, and it has schemes to help communities prepare. But this works in a country with a long tradition of planning for national emergencies and relatively high trust in government. Britain’s circumstances are different, so we can’t simply copy it.",
+          "evidence": [
+            {
+              "source_turn": 15,
+              "quote": "there has been a total defence strategy, the legacy of non-alignment and neutrality and a high level of cultural and societal trust in the workings of government. That allows for strategies like hard-copy pamphlet templates, such as the famous In Case of Crisis or War piece from 2018, updated in 2024."
+            },
+            {
+              "source_turn": 15,
+              "quote": "they have also provided standards and incentivisation schemes to allow both households and communities to develop and move forward with various aspects."
+            },
+            {
+              "source_turn": 15,
+              "quote": "If you look there, it is often the case that citizen allegiance and trust in government are much higher than they would be in the UK context. We learn from that perspective, but we also have to recognise that the environmental conditions in the UK are very different."
+            }
+          ]
+        },
+        {
+          "speaker": "Nihal Newman",
+          "text": "Japan has a public emergency alert system, and Britain has a similar phone-based warning system. The UK system was tested when Plymouth needed a bomb evacuation, and the Cabinet Office leads it.",
+          "evidence": [
+            {
+              "source_turn": 16,
+              "quote": "Japan has an emergency alert system, and there is a similar facility in the UK, where we have our cell broadcast, which was launched in early 2003. It was tested and exercised in early 2024 when the Plymouth bomb evacuation needed to happen. I agree that there is a lot more to be done, but we do have some examples over here. The alert system is led by the Cabinet Office."
+            }
+          ]
+        },
+        {
+          "speaker": "Baroness Hunter of Auchenreoch",
+          "text": "And how do places dealing with floods in Africa or hurricanes in the Caribbean warn people?",
+          "evidence": [
+            {
+              "source_turn": 17,
+              "quote": "How do they do it in Africa, where there have been all these floods and climate situations? How do they do it in the Caribbean, with their hurricanes?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Lee Miles",
+          "text": "In parts of Africa, communities can’t rely on the satellite phones, spare mobile towers and other advanced equipment used in wealthier countries. Local agreements and low-tech tools, such as loudhailers, can be vital. Britain should keep workable fallbacks too, especially in rural areas, as older analogue phone networks may be phased out.",
+          "evidence": [
+            {
+              "source_turn": 18,
+              "quote": "They have a lot of technological advantages in terms of satellite phones, satellite redundancy situations and mobile networks they can call on, or masts, if they are damaged. You do not have that in the African context."
+            },
+            {
+              "source_turn": 18,
+              "quote": "The African context shows that there is also a very strong reliance on low-tech solutions. As we become more digitalised, the question of single points of failure and redundancy becomes really quite challenging. Where we would have used analogue phones, for example, for a digital breakdown in the UK, we may be moving away from having an analogue telecommunications system as it once was. That in itself creates challenges. Often you find that the strength is in having local communities that might have hailer systems, for example, and communication agreements about how to communicate and do it in the local setting."
+            },
+            {
+              "source_turn": 18,
+              "quote": "As part of building resilience, we should not forget that we do not just need to go high; we need to create redundancy which is lower, particularly in the parts of our communities that are rural and may be outside the communications networks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the networks go down",
+      "takeaway": "Backup systems exist, but prolonged failures would require power restoration, cooperation with private firms and realistic planning for outages.",
       "turns": [
         {
           "speaker": "Lord Farmer",
-          "text": "So much emergency information now depends on the internet. What happens if a cyberattack causes a complete communications blackout for several days? There's also concern about digital terrestrial television being switched off in 2034. Wouldn't that remove another way of warning people when the internet isn't available?"
+          "text": "What happens if a cyberattack cuts off internet communications for days? And if ordinary broadcast television is switched off in 2034, how would emergency warnings reach everyone?",
+          "evidence": [
+            {
+              "source_turn": 20,
+              "quote": "We have not really looked at the scenario of a total blackout in which it is lost for several days. In 2034, the digital terrestrial television signals will be switched off. What effect might that have on the ability to transmit emergency messaging to the whole population if there was a cyber attack causing a communications blackout?"
+            }
+          ]
         },
         {
           "speaker": "Nihal Newman",
-          "text": "We require communications companies to plan for failures. They shouldn't design a network so that one broken component can bring down the whole service. They need alternative equipment, backup power and plans for keeping services running or restoring them. Crucially, those plans must be understood and tested, not just written down."
+          "text": "Ofcom tells phone and internet companies not to let one failed part bring down their whole service. They should have backup power, clear recovery plans and practice using them. The government also has emergency-service communications and access to satellite systems.",
+          "evidence": [
+            {
+              "source_turn": 21,
+              "quote": "In there, we say to avoid single points of failure: build your infrastructure and architecture in a way that there is an aspect of redundancy; recognise the challenges with that; and, as part of that, have business continuity plans and disaster recovery plans. But within those plans, we say to be very clear what those processes are because often the processes can be there, but they are not understood and they are not tested. We make it clear that we expect the operators to do that. We also expect that there is power resilience. Where are the key sites that the operators should have the power backup?"
+            },
+            {
+              "source_turn": 21,
+              "quote": "for government, in the event of a national emergency situation, we have the Emergency Services Network. The Home Office is investing in this across the UK, and it is looking to further harden that network. There are also the satellite communication services available to the UK Government in the event of a national emergency."
+            }
+          ]
         },
         {
           "speaker": "Nihal Newman",
-          "text": "Companies can bring in temporary mobile masts when local infrastructure is damaged, and they have mobile generators to restore electricity to important sites. For national emergencies, the Government also has access to satellite communications and is investing in the Emergency Services Network, which is intended to give emergency responders more dependable communications."
+          "text": "For local outages, operators can bring in temporary mobile equipment and generators. People can use another mobile network to make an emergency call. Some places, including the Shetland Islands, are also investing in satellite equipment for community use.",
+          "evidence": [
+            {
+              "source_turn": 21,
+              "quote": "they can deploy mobile cell sites. Where there is either a specific incident, an outage or damage to a subsea cable, they can deploy an interim mobile coverage solution for that area. They also have generators on wheels, so they can deploy generators in the areas that need it."
+            },
+            {
+              "source_turn": 21,
+              "quote": "Currently, in the event of an emergency, individuals can roam on to different networks to make an emergency call."
+            },
+            {
+              "source_turn": 21,
+              "quote": "In certain communities, such as the Shetland Islands, we are also seeing investment in satellite terminals that are available to the community."
+            }
+          ]
         },
         {
           "speaker": "Nihal Newman",
-          "text": "Individuals have some protection too. If their usual mobile network isn't working, they may still be able to call emergency services through another operator's network. Satellite technology offers additional possibilities. In places such as the Shetland Islands, communities have also invested in satellite equipment for local use."
-        },
-        {
-          "speaker": "Nihal Newman",
-          "text": "But restoring power quickly is just as important as having backup equipment. We're working with the energy industry so electricity engineers and communications engineers can coordinate during an outage. The widespread power failure in Spain and Portugal shows why we need to prepare for these situations. A problem in the power network can quickly become a communications problem."
+          "text": "Restoring electricity quickly is just as important. Ofcom is working with energy companies and telecoms providers so their engineers can coordinate during an outage. We’re drawing lessons from the blackouts in Spain and Portugal.",
+          "evidence": [
+            {
+              "source_turn": 21,
+              "quote": "to restore the power very swiftly is also very important. Ofcom has been working very closely with the energy sector and industry to establish how communication can improve when there is an incident. How can the telecommunications sector and energy sector engineers communicate and co-ordinate on the ground to ensure the services are restored very swiftly? That work still continues, but we are learning from what happened in Spain and Portugal"
+            }
+          ]
         },
         {
           "speaker": "Lord Farmer",
-          "text": "But suppose satellites were also disrupted or destroyed during a conflict. How would we communicate then?"
+          "text": "But what if satellites themselves are destroyed in an attack?",
+          "evidence": [
+            {
+              "source_turn": 22,
+              "quote": "If we had some satellite disruption—satellite warfare, for example—and all the satellites were destroyed, how does that leave us?"
+            }
+          ]
         },
         {
           "speaker": "Nihal Newman",
-          "text": "It depends on how widespread the disruption is. We need several different ways to communicate, including fixed telephone networks, mobile networks and satellites. If multiple systems fail, it becomes a wider national emergency rather than something the communications industry can solve alone. That's where the Cabinet Office has a coordinating role."
+          "text": "It depends how widespread the failure is. Fixed lines, mobile networks and satellites provide different options. Once the problem goes beyond one industry, the Cabinet Office has to consider the national response.",
+          "evidence": [
+            {
+              "source_turn": 23,
+              "quote": "The point is how wide, because it is a tiered level of resilience.\n\nWhat is available in the fixed network? What is available in mobile? What is available in satellite? That is where the Government then step in from a national resilience perspective, rather than looking at it from a specific sectoral perspective. That is the role the Cabinet Office plays in this area."
+            }
+          ]
         },
         {
           "speaker": "Baroness Mobarik",
-          "text": "How much of Britain's emergency communications depends on private telecommunications and satellite companies? And what alternatives does the UK itself control if those services fail?"
+          "text": "What share of emergency communications relies on commercial phone and satellite networks? What UK-controlled alternatives would remain if those failed?",
+          "evidence": [
+            {
+              "source_turn": 24,
+              "quote": "what proportion of the UK’s emergency communications capability is dependent on commercial telecommunications and satellite networks? What sovereign alternatives exist, should those networks fail?"
+            }
+          ]
         },
         {
           "speaker": "Nihal Newman",
-          "text": "I don't have the proportions available, but I can come back with those figures. There's also a question about what we mean by national control. Does it mean relying only on equipment and services within the UK, or can it include trusted international partners? That's still being discussed. The UK is developing additional backup options and partnerships."
+          "text": "I’d need to come back with the figures. There’s also an unresolved question about what UK control means: must everything operate inside Britain, or can we rely on trusted international partners? We’re building extra safeguards and partnerships.",
+          "evidence": [
+            {
+              "source_turn": 25,
+              "quote": "On the facts about proportions, I am happy to come back on that point. Sovereignty is a very interesting point and a discussion that is pretty alive at the moment. It comes down to what we mean by sovereignty. Are we talking about trusted partners and nations, or are we looking at just working within the jurisdiction of the nation? That dialogue is continuing at this moment, but we are seeing that in the UK we are building those layers of resilience for ourselves. We are building those necessary partnerships that the UK requires, which is the key thing for us."
+            }
+          ]
         },
         {
           "speaker": "Baroness Curran",
-          "text": "Has Ofcom actually practised what would happen if Britain were attacked in a war and our communications networks suffered serious damage?"
+          "text": "Have you actually planned for a wartime attack that badly damages our communications?",
+          "evidence": [
+            {
+              "source_turn": 26,
+              "quote": "Has Ofcom game-planned the possibility of a war situation, if we were attacked and it was a very serious attack on our communications? Do you have emergencies for that kind of extreme situation?"
+            }
+          ]
         },
         {
           "speaker": "Nihal Newman",
-          "text": "The government department responsible for telecommunications policy leads planning for those national scenarios. Ofcom takes part alongside the Cabinet Office, communications companies and industry organisations."
+          "text": "The government department responsible for telecoms, DSIT, leads that kind of planning. Ofcom joins its discussions.",
+          "evidence": [
+            {
+              "source_turn": 27,
+              "quote": "DSIT is the policy owner for telecommunications and carries out the cross-sectoral risk scenario that you are describing. We join those conversations with DSIT and participate."
+            }
+          ]
         },
         {
           "speaker": "Baroness Curran",
-          "text": "But has that kind of exercise actually been carried out?"
+          "text": "So has that work actually been done?",
+          "evidence": [
+            {
+              "source_turn": 28,
+              "quote": "Have you done that? Has that been done?"
+            }
+          ]
         },
         {
           "speaker": "Nihal Newman",
-          "text": "We do participate in those government and industry discussions. That's part of our work with the department and the Cabinet Office."
+          "text": "We work with DSIT, the Cabinet Office and industry on those scenarios.",
+          "evidence": [
+            {
+              "source_turn": 29,
+              "quote": "We work with them in that space, including with the Cabinet Office and industry. We also work with the industry bodies that play a part in that. So, yes, we do engage in those conversations."
+            }
+          ]
         },
         {
           "speaker": "Professor Lee Miles",
-          "text": "We also need to think seriously about how long an outage could last. Hurricanes in the Caribbean have knocked out communications networks for weeks. In Cuba, following major hurricanes, power disruption was reported on a much longer timescale. Preparing for a two-day failure is very different from preparing for weeks or months without essential services."
+          "text": "We also need to think about how long failures last. Caribbean hurricanes have taken communications networks out for two weeks, and I cited a power outage that affected 80% of Cuba for eight months after hurricanes Irma and Maria. For households and small businesses, internet access is an essential service, so the public needs realistic expectations of recovery times.",
+          "evidence": [
+            {
+              "source_turn": 30,
+              "quote": "There are very good examples in the Caribbean of hurricanes that have knocked out entire communications networks for two weeks at a time. In the case of Cuba after Irma and Maria, there was a power outage for 80% of the island for eight months."
+            },
+            {
+              "source_turn": 30,
+              "quote": "For many people—SMEs, the business community, local communities and households—the internet is not optional; it is a way of life and an essential service. We need to be very clear about treating the length of disruption to an essential service as something that requires management of expectations, both nationally and for our service providers."
+            }
+          ]
         },
         {
           "speaker": "Professor Lee Miles",
-          "text": "For households and businesses, particularly smaller firms, the internet is now an essential service. We need to understand how long people could realistically cope without it and communicate what they should expect during recovery. We also rely heavily on private companies to repair damage and restore services. Their agreements must cover who will pay for prolonged recovery work, not just the immediate emergency."
+          "text": "Private companies carry out most emergency recovery work. Agreements with them must cover how their costs will be paid when recovery lasts longer than the immediate response.",
+          "evidence": [
+            {
+              "source_turn": 30,
+              "quote": "the vast majority of our recovery and response is delivered by private sector providers. It is often the case that 80% of recovery is provided by the private sector. The arrangements between those providers is important, not just over the short-term response phase but the longer-term recovery phase, because there are costs that have to be met commercially if those services are to continue to be provided beyond MoUs."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Teaching people to prepare",
-      "takeaway": "Schools, colleges and universities can help people develop practical emergency skills and train those who will manage future crises.",
+      "title": "Education and cybersecurity rules",
+      "takeaway": "Education and training can improve preparedness, while security rules must cover major operators and connected services without falling behind new threats.",
       "turns": [
         {
           "speaker": "Lord Oates",
-          "text": "What role should schools, colleges and universities play in helping people understand emergencies and prepare for them?"
+          "text": "What should schools, colleges and universities do to help people prepare for emergencies?",
+          "evidence": [
+            {
+              "source_turn": 31,
+              "quote": "Could you share your views about the role that the education sector, at all levels, should play in promoting preparedness and resilience to a wide audience?"
+            }
+          ]
         },
         {
           "speaker": "Professor Lee Miles",
-          "text": "Education is essential. Schools should teach children basic ways to recognise risks and respond to emergencies as part of learning how to be responsible citizens. That's common in parts of the Caribbean where serious natural hazards are a regular concern. We should treat preparedness as a normal part of life, rather than something we only discuss after a disaster."
+          "text": "Schools can teach children how to respond to emergencies, as happens in places regularly hit by disasters. Young people also influence how families prepare and may become future volunteers.",
+          "evidence": [
+            {
+              "source_turn": 32,
+              "quote": "if we look at the school level, there are lots of initiatives and work on smart schools, in which the idea is to build resilience—understanding resilience, basic resilience, response ideas and how to do things—into the curriculum. That is very common in places such as the Caribbean where there is a continual threat."
+            },
+            {
+              "source_turn": 32,
+              "quote": "it often has an important impact at home, in the household, where resilience influencers are in the teenage group. From a school perspective, we need to understand that 14 to 25 year-olds—if I may use that age bracket, which is beyond full school age—since these are the future volunteers on whom resilience will be based."
+            }
+          ]
         },
         {
           "speaker": "Professor Lee Miles",
-          "text": "Young people can also influence what happens at home. Teenagers may bring lessons about safety and preparedness back to their families. And people aged roughly 14 to 25 are especially important because they could become the volunteers and emergency workers we depend on in the future."
+          "text": "Further education colleges could offer practical training such as first aid, including to older adults. Universities can research which preparations work, train professional emergency planners and work with businesses on practical solutions.",
+          "evidence": [
+            {
+              "source_turn": 32,
+              "quote": "The FE level has a substantial role in widening access. What I mean by that is that FE colleges and provision do not just teach key subjects such as geography, where things such as hurricanes and earthquakes are part of the normal curriculum. Think about the access and competence courses that are provided, from boot camps to widening-access courses. There is a very strong market, particularly among the, say, 55 to 70 generation, who are interested in those resilience courses. It might also be the place where you find first-aid courses and basic issues to do with training, competencies and skills."
+            },
+            {
+              "source_turn": 32,
+              "quote": "At university level, it is absolutely essential, because our role is providing research about resilience and how it is evaluated in that piece. It is about building the knowledge and thinking. I am also a professor at a disaster management centre who trains emergency planners across the world. Universities have a fundamental role in training emergency planners"
+            },
+            {
+              "source_turn": 32,
+              "quote": "working, as I do, with companies including SMEs through to large multinationals, on resilience projects where the public-private partnerships are critical in providing the knowledge with commercial opportunities to deliver the competencies, skills, toolkits and markets of the future."
+            }
+          ]
         },
-        {
-          "speaker": "Professor Lee Miles",
-          "text": "Further education colleges can offer more practical training. That might include first aid, short courses on emergency preparation or skills for people returning to education. We've seen interest among older adults, particularly those aged around 55 to 70. Colleges could help people turn awareness into practical abilities."
-        },
-        {
-          "speaker": "Professor Lee Miles",
-          "text": "Universities have a different but equally important role. They research what makes communities better prepared, train emergency planners and test how well different approaches work. They also work with businesses to develop equipment, services and training. Preparedness isn't only an educational responsibility; it also creates opportunities for organisations that provide these services."
-        }
-      ]
-    },
-    {
-      "title": "Are the cyber protections strong enough?",
-      "takeaway": "Existing laws have strengthened security requirements, but changing threats, smaller providers and weaknesses between sectors require continued attention.",
-      "turns": [
         {
           "speaker": "Lord Peach",
-          "text": "The Government is proud of its work on cybersecurity. Is that justified? How well protected is the telecommunications industry, and are national emergency exercises frequent and demanding enough?"
+          "text": "Are Britain’s cyber defences as strong as the government suggests? And are national emergency exercises frequent and demanding enough?",
+          "evidence": [
+            {
+              "source_turn": 36,
+              "quote": "If we turn to cybersecurity, on which the Government are proud of their efforts, do you agree that they should be? How does the telecommunications industry look? You have raised a couple of times what I might call exercising at the national level. Is that frequent enough and are the scenarios tough enough?"
+            }
+          ]
         },
         {
           "speaker": "Nihal Newman",
-          "text": "For telecommunications, we have a substantial legal framework introduced through the Telecommunications (Security) Act in 2021. It followed an assessment by the National Cyber Security Centre of the threats facing UK networks. The law sets requirements for companies to protect their systems, and Ofcom checks whether they're meeting them."
+          "text": "The Telecommunications (Security) Act was introduced in 2021 after specialists assessed risks to the sector. All operators have legal duties, but the detailed security code focuses on medium and large companies because their risks are greater. Ofcom checks progress and reports to the government.",
+          "evidence": [
+            {
+              "source_turn": 37,
+              "quote": "Telecommunications (Security) Act because it is a key, comprehensive framework that we have in place. It was introduced in 2021 and came about off the back of a risk assessment and a threat assessment carried out by the National Cyber Security Centre."
+            },
+            {
+              "source_turn": 37,
+              "quote": "Ofcom has a key role in that space. We monitor industry compliance and report to the Secretary of State in DSIT on how the sector is performing. One thing that is important with that framework is that it is proportionate. The code of practice is not applicable to everybody, because there are large communication providers with turnovers greater than £1 billion, and much smaller operators as well. The UK Government segmented the market and said that the code of practice would be applicable to the large and medium-sized operators, because the risks they face are much larger and therefore there are different measures that they need to take and timetables that they need to follow."
+            },
+            {
+              "source_turn": 45,
+              "quote": "The Telecommunications (Security) Act is applicable to all telecoms operators."
+            }
+          ]
         },
         {
           "speaker": "Nihal Newman",
-          "text": "The rules take account of company size. The detailed code of practice mainly focuses on providers with turnover above £50 million, because larger operators face particular risks and have greater responsibilities. We're seeing them invest in security improvements. But the threats continue to change, so the requirements need regular updating."
-        },
-        {
-          "speaker": "Nihal Newman",
-          "text": "There are also separate rules for other parts of the digital infrastructure that supports the internet. We need to look beyond individual companies. A weakness in electricity, communications or another essential service can affect several industries at once. That's why we work with other regulators, including the energy regulator Ofgem, and with international partners such as the Five Eyes countries."
-        },
-        {
-          "speaker": "Nihal Newman",
-          "text": "The proposed Cyber Security and Resilience Bill aims to strengthen protection across essential services. It would give more organisations common minimum security expectations while allowing additional rules for particular industries. It would also extend oversight to services such as data centres, which are increasingly important to the UK's digital economy and AI ambitions."
+          "text": "Companies are investing to meet those requirements, but threats keep changing and the rules need updating. Wider internet infrastructure, including data centres, also needs protection. We coordinate with regulators in other industries and with international partners because failures can spread between sectors.",
+          "evidence": [
+            {
+              "source_turn": 37,
+              "quote": "What we are observing with those operators is a level of commitment to investing in the requirements that they have to follow. It is a journey—the risk landscape evolves and changes—and we have to ensure that any framework we put in place moves with the threat landscape."
+            },
+            {
+              "source_turn": 37,
+              "quote": "We are expecting data centres to come in, and they will be a key part of that value chain. When we think about communications, we think about subsea cables, satellite communications, terrestrial networks and, now, data centres, as they come in."
+            },
+            {
+              "source_turn": 37,
+              "quote": "We work very closely with other regulators. In the energy sector, with Ofgem, we work with the Information Commissioner’s Office. We work with the CAA in the aviation sector. Nationally, we are working across the board, and we also work with international partners."
+            }
+          ]
         },
         {
           "speaker": "Baroness Winterton of Doncaster",
-          "text": "You've described quite a lot of existing legislation. Why do data centres need to be included in the new Bill? What would the Bill actually add, and is there anything more we should be doing?"
+          "text": "Why would data centres need to be covered by the proposed Cyber Security and Resilience (Network and Information Systems) Bill? What would this law add to the rules we already have?",
+          "evidence": [
+            {
+              "source_turn": 38,
+              "quote": "You talked about data centres. It is not quite clear to me why a data centre needs to be in legislation, but you might expand on that a little. Do either of you have reflections on that Bill? Crucially, what extras will it bring?"
+            }
+          ]
         },
         {
           "speaker": "Nihal Newman",
-          "text": "Data centres are now considered critical national infrastructure. So much of our digital activity depends on them that their security matters to the whole country. The Bill proposes giving Ofcom responsibility for overseeing their security and resilience. That would mean a formal regulator checking that appropriate protections are in place."
-        },
-        {
-          "speaker": "Nihal Newman",
-          "text": "Another important change concerns suppliers. A company might have strong security itself but rely on another business whose systems are vulnerable. And that supplier may serve several industries. The Bill aims to address risks that spread through these relationships, rather than treating each industry separately."
+          "text": "Data centres are important to the UK’s plans for artificial intelligence, so the Bill proposes giving Ofcom responsibility for overseeing their security. It would also look at suppliers that different essential services depend on, not just the suppliers within one industry.",
+          "evidence": [
+            {
+              "source_turn": 39,
+              "quote": "The data infrastructure sector was designated as critical national infrastructure. It is pivotal for us in the UK when we think about AI and our AI growth and ambitions in that space. So, having an aspect of security and resilience oversight is important for us."
+            },
+            {
+              "source_turn": 41,
+              "quote": "It is the oversight that has been proposed in the legislation. Ofcom is named as the regulator in the legislation."
+            },
+            {
+              "source_turn": 41,
+              "quote": "The first is supply chain risks. We are seeing supply chains and the compromise of our supply chains filtering through all different industries. That is one aspect coming through in the Cyber Security and Resilience (Network and Information Systems) Bill. We are not just thinking about critical suppliers within our sectors but also across the sectors. At the moment, we look at our suppliers within our sectors. The Bill looks at not only the risks within your sector and your critical suppliers, but also across the sectors."
+            }
+          ]
         },
         {
           "speaker": "Baroness Winterton of Doncaster",
-          "text": "Would that mean actual new legal requirements for suppliers, or would the Government simply monitor the risks?"
+          "text": "Would the Bill make companies follow new rules, or simply let someone monitor them?",
+          "evidence": [
+            {
+              "source_turn": 42,
+              "quote": "Is it regulation or monitoring that is in the Bill?"
+            }
+          ]
         },
         {
           "speaker": "Nihal Newman",
-          "text": "The detailed requirements will come later through secondary legislation, so we haven't seen all the specifics yet. But the Government wants to strengthen protection against those wider risks. Its proposals draw on the existing Cyber Assessment Framework, which gives organisations a way to assess their security."
-        },
-        {
-          "speaker": "Nihal Newman",
-          "text": "The Bill also proposes improvements to reporting security incidents. We need organisations to tell the authorities about problems quickly. Without timely information, it's difficult to identify weaknesses, understand how attacks are spreading or decide what action is needed."
+          "text": "Much of the detail will come later in further regulations. The proposals draw on the existing Cyber Assessment Framework, a method for checking organisations’ security, and include faster reporting of incidents so regulators can see where problems are emerging.",
+          "evidence": [
+            {
+              "source_turn": 43,
+              "quote": "The detail will come in secondary legislation. The proposals at this moment involve looking at the risks around supply chains. The Government’s ambition is dealing with those risks. They are also looking at the specific requirements. Where the Bill reflects on existing frameworks, the National Cyber Security Centre has the Cyber Assessment Framework, which is peppered throughout the cyber Bill."
+            },
+            {
+              "source_turn": 43,
+              "quote": "Finally, learning from other countries, incident reporting is important. If we do not have the data in a timely fashion, we do not have that evidence and we do not know where our risks are. That is another proposal that the Government have put in the Bill."
+            }
+          ]
         },
         {
           "speaker": "Baroness Mobarik",
-          "text": "You've concentrated on larger telecommunications companies, but smaller businesses are increasingly threatened by cyberattacks. What are you doing to protect them?"
+          "text": "What about smaller operators? Small businesses are also facing more cyber threats.",
+          "evidence": [
+            {
+              "source_turn": 44,
+              "quote": "your focus is on the security of the larger telecoms providers, but we have heard that there is an increasing level of threat to SMEs. Are you looking at that? How are you proposing to strengthen that?"
+            }
+          ]
         },
         {
           "speaker": "Nihal Newman",
-          "text": "The Telecommunications (Security) Act applies to all telecommunications operators, although our detailed code of practice focuses on larger providers. We still work with smaller companies when there are incidents or specific concerns. We also speak to them through industry groups and encourage them to use the National Cyber Security Centre's guidance."
+          "text": "The law covers all telecoms operators. Our main checks focus on providers with annual turnover above £50 million, for whom the detailed code was designed. But we also speak to smaller operators, including through industry groups, and point them to security guidance.",
+          "evidence": [
+            {
+              "source_turn": 45,
+              "quote": "The Telecommunications (Security) Act is applicable to all telecoms operators. Our focus is on those operators that have a turnover greater than £50 million, because the code of practice is designed for that size of operations. But at the same time, where there are opportunities, we engage with the smaller operators, even through industry bodies, and encourage them to look at the code of practice."
+            },
+            {
+              "source_turn": 45,
+              "quote": "There is also quite a bit of information and guidance for smaller operators, which the NCSC publishes on its website. When there is an issue, concern or incident, we engage with the smaller operators as well."
+            }
+          ]
         },
         {
           "speaker": "Professor Lee Miles",
-          "text": "The new Bill is encouraging because it establishes basic security expectations and recognises that industries depend on each other. But the detailed rules must remain flexible. Technology changes quickly, particularly with AI, and attackers are developing new methods. I've seen research suggesting a very high proportion of smaller UK businesses have experienced cyberattacks. We can't assume that rules written today will cover tomorrow's threats."
-        },
-        {
-          "speaker": "Professor Lee Miles",
-          "text": "We also need to train senior managers, not just technical specialists. Managers make decisions about whether to spend money on security, while technical teams handle the practical defence of systems. Both groups need to understand the risks. At Bournemouth University, we use simulated emergencies to help organisations practise their responses and understand where their plans might fail."
+          "text": "Common minimum standards are helpful, but guidance must adapt quickly to changing attacks, including those using AI. I cited figures suggesting 60% to 70% of UK small and medium-sized businesses have experienced a cyberattack. Leaders also need to understand why investing in protection matters, not just leave it to technical staff.",
+          "evidence": [
+            {
+              "source_turn": 46,
+              "quote": "The Bill is encouraging in having baseline expectations and creating sector standards, which are very important—and inter-sector standards, which is the implication of what is being talked about. The important thing to also recognise is that the codes of practice that follow need to be agile enough to take into account that the sector itself is moving at great pace, particularly around AI and other domains. For example, I was struck that most recent data shows that 60% to 70% of SMEs in the UK have experienced a cyberattack"
+            },
+            {
+              "source_turn": 46,
+              "quote": "there is a big piece of work not just about how we train or exercise the Bill and its implications but about educating our senior management teams in the strategic value of investment beyond the regulation. That is very important."
+            }
+          ]
         },
         {
           "speaker": "Baroness Winterton of Doncaster",
-          "text": "I'm worried about the time it could take to introduce all the detailed regulations. Are we in danger of delaying training and improvements while we wait for those rules?"
+          "text": "If we have to wait for the detailed regulations before people can be trained, won’t that slow everything down?",
+          "evidence": [
+            {
+              "source_turn": 47,
+              "quote": "if we are waiting for all this secondary legislation, and if training will not start until the secondary legislation is there, I am a bit anxious as to whether that becomes a delay. Is there any danger in that?"
+            }
+          ]
         },
         {
           "speaker": "Nihal Newman",
-          "text": "Work is already happening. We're already applying the Cyber Assessment Framework in our dealings with companies, and other sectors are using it too. The new legislation would give some of these expectations a stronger legal basis. We're also reviewing our rules to make sure they don't unintentionally prevent companies from using AI tools to defend themselves against attacks."
+          "text": "We aren’t starting from zero. Ofcom already uses the Cyber Assessment Framework, even though the Bill would put parts of the approach into law. We’re also reviewing whether existing rules accidentally hinder companies from using AI to defend against attacks.",
+          "evidence": [
+            {
+              "source_turn": 48,
+              "quote": "We already apply that framework, so we are already setting those expectations in the way we are engaging with our sector, and other sectors are adopting the framework, because NCSC developed it a couple of years ago. We want to make sure that these frameworks are put on a legal footing, but that does not mean we have not been using them. That is the key difference. It has already started to be applied."
+            },
+            {
+              "source_turn": 48,
+              "quote": "We recently published our approach to AI, and in there is a piece of work that we are doing around looking at our existing regimes to ensure that we are not creating inadvertent barriers around the adoption of AI as defensive tools. We are doing that piece of work this year."
+            }
+          ]
         },
         {
           "speaker": "Professor Lee Miles",
-          "text": "Training hasn't stopped while we wait for legislation. Organisations are dealing with cybersecurity threats all the time. New rules will raise expectations, but we should already be teaching managers why investment matters and helping technical teams practise responding to incidents."
+          "text": "Training is already happening too. It needs to cover both the practical response to attacks and senior managers’ decisions about investing in protection.",
+          "evidence": [
+            {
+              "source_turn": 49,
+              "quote": "It is not a case of it having not started; it is already going all the time, because cybersecurity threats are a constant aspect in relation to that. Of course, as the legislation moves forward, this creates new environments and new expectations, so it is about raising that game. But I also think that, from this perspective, it is about the linkage between what you might call resilience management—training managers in the industry of the value of cybersecurity and the investment—alongside the operational aspects of defending and operationalising it."
+            }
+          ]
         },
         {
           "speaker": "Baroness Winterton of Doncaster",
-          "text": "Can training for senior managers and training for the people actually dealing with incidents happen together?"
+          "text": "Can you train senior managers and technical teams together?",
+          "evidence": [
+            {
+              "source_turn": 50,
+              "quote": "Do you think you can get the two tracks running together?"
+            }
+          ]
         },
         {
           "speaker": "Professor Lee Miles",
-          "text": "They have to. At Bournemouth, we run exercises involving both senior decision-makers and operational staff. That helps everyone understand the decisions, resources and practical actions needed during an emergency. Preparing the people making the decisions is just as important as preparing those carrying them out."
+          "text": "We have to. At Bournemouth University, we run exercises that make people at different management levels work through simulated emergencies together.",
+          "evidence": [
+            {
+              "source_turn": 51,
+              "quote": "They have to run together. At Bournemouth University, if I may use my own example, we have the Disaster Management Centre and the Cyber Competence Centre, and we plan and run operational and strategic courses where we build scenarios that go up and down the management chain to understand that investment and value opportunity."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "The future of emergency warnings",
-      "takeaway": "New technology must not leave vulnerable people without reliable information, and national preparedness will depend on cooperation and public trust.",
+      "title": "Keeping everyone informed",
+      "takeaway": "The witnesses urged caution about losing broadcast television and ended by calling for cooperation and public trust.",
       "turns": [
         {
           "speaker": "Chair",
-          "text": "I want to return to the possible switch-off of digital terrestrial television. Is that sensible when some older people aren't comfortable using broadband and others live in areas with poor internet connections? Would we risk losing a way of reaching vulnerable people during an emergency? Should the decision be reconsidered?"
+          "text": "Would ending digital terrestrial television make it harder to reach older people, rural communities or anyone with poor internet access? Should the plan be reconsidered?",
+          "evidence": [
+            {
+              "source_turn": 52,
+              "quote": "this plan to switch off digital terrestrial television in a few years’ time is sensible or completely undesirable, given the concern expressed that it would reduce universal access to information and have a particularly disproportionate adverse impact on certain vulnerable communities or groups of people, such as older people who do not necessarily know what to do with broadband and or do not have very good internet connections? Is this a sensible thing? Are we past the point of no return on the proposal? Is it reversible, and should it be?"
+            }
+          ]
         },
         {
           "speaker": "Professor Lee Miles",
-          "text": "Removing a service that a large part of the population relies on would create a real challenge. We'd need clear assurances that any replacement could reach those people reliably. There are already rural areas and local communities with poor digital connections. Before removing an existing way of communicating, we'd have to be confident that the alternatives work around the clock and have backups when something fails."
+          "text": "Removing a widely used television signal would create a real problem unless its replacement could reliably reach those audiences. We already have rural areas with poor digital coverage. Any replacement needs to work around the clock and have a backup if it fails.",
+          "evidence": [
+            {
+              "source_turn": 53,
+              "quote": "There is, no doubt, a challenge if you remove that terrestrial facility, which is used by a large demographic of society; we would need to have very clear assurances as to what it would be replaced with as an effective strategy for resilience."
+            },
+            {
+              "source_turn": 53,
+              "quote": "There are many communication channels, which affect rural communities and local communities, where you have dead spots and issues to do with digital delivery. We would have to considerably raise our expectations around a 24/7 delivery or a delivery of core services that is robust enough to provide redundancy if that system is taken out."
+            }
+          ]
         },
         {
           "speaker": "Nihal Newman",
-          "text": "Technology is changing, and we should consider the opportunities that creates. But I agree that whatever replaces an existing service must be dependable. We need to understand what different communities require and provide additional protection where people face particular difficulties or risks."
+          "text": "Technology is changing, so we should look at the options. But whatever replaces existing systems must be dependable, with extra safeguards where particular communities need them.",
+          "evidence": [
+            {
+              "source_turn": 54,
+              "quote": "Technology is evolving, and that is the key thing: we need to look at how it is, what the opportunities are and how we can harness those. The second, I agree, is around ensuring the resilience of whatever we roll out, looking at what the different areas and communities require and targeting any additional enhanced resilience requirements for those as well."
+            }
+          ]
         },
         {
           "speaker": "Baroness Helic",
-          "text": "If you could each make just one recommendation to the Government about improving national preparedness, what would it be?"
+          "text": "What single recommendation would each of you make to the government?",
+          "evidence": [
+            {
+              "source_turn": 55,
+              "quote": "if there were one recommendation that you could make to the Government on resilience and preparedness, what would that be?"
+            }
+          ]
         },
         {
           "speaker": "Nihal Newman",
-          "text": "My recommendation is to make clear what we mean when we say the whole of society should be involved in resilience. The risks are complicated and changing, and no single organisation can deal with them alone. Government departments, businesses, communities, universities and regulators all need to work together. We need a shared understanding of who's involved and how they'll cooperate."
+          "text": "Make it clear what preparing the whole country really involves, and bring government, businesses, researchers and communities together to work on it. No one sector can solve these problems alone.",
+          "evidence": [
+            {
+              "source_turn": 56,
+              "quote": "We cannot work within our silos. We need to continue to work across the sector, and with communities, industry and academia. My recommendation would be that we need to be clear what we mean by the whole-society approach and we need to bring everybody around the table to work together."
+            }
+          ]
         },
         {
           "speaker": "Professor Lee Miles",
-          "text": "For me, the priority is trust. People don't always trust messages from government and other institutions. If we want everyone to prepare for emergencies, we need to make preparedness meaningful in their everyday lives and build confidence in the advice they receive. We can learn from Sweden and other countries, but those approaches won't work here without public trust. That's the foundation we need to strengthen."
+          "text": "The central issue is trust. People need advice they believe and steps that make sense in everyday household life. We can learn from Sweden, but those lessons won’t work here unless we address the public’s confidence in institutions.",
+          "evidence": [
+            {
+              "source_turn": 57,
+              "quote": "we have to deal with the question of building trust, which is central to this."
+            },
+            {
+              "source_turn": 57,
+              "quote": "we have a society that has issues of trust in messaging and communication from our institutions. We need to invest and understand what we mean by everyday resilience that makes sense to the households and the publics of our country and, on the basis of that, most importantly, can build trust. Without trust, there is no point in looking at states such as Sweden or others."
+            }
+          ]
         }
       ]
     }

@@ -50,6 +50,7 @@ function memberKindLabel(name) {
 }
 
 const STORAGE_KEY = "committee-viewer-progress";
+const EVIDENCE_KEY = "committee-viewer-evidence-open";
 
 /*
  * Terms a general reader is unlikely to know. Each session also carries its own
@@ -171,6 +172,11 @@ const el = {
   dialogueRail: document.querySelector("#dialogueRail"),
   chapterList: document.querySelector("#chapterList"),
   castList: document.querySelector("#castList"),
+  evidenceToggleWrap: document.querySelector("#evidenceToggleWrap"),
+  evidenceToggle: document.querySelector("#evidenceToggle"),
+  evidencePanel: document.querySelector("#evidencePanel"),
+  evidenceNote: document.querySelector("#evidenceNote"),
+  evidenceBody: document.querySelector("#evidenceBody"),
 };
 
 const sessions = Array.isArray(window.COMMITTEE_SESSIONS) ? window.COMMITTEE_SESSIONS : [];
@@ -185,6 +191,9 @@ let cast = new Map();
 let currentIndex = 0;
 let menuMode = "committee";
 let openCommittee = null;
+const evidenceCache = new Map();
+let evidenceOpen = readEvidencePreference();
+let evidenceState = null; // { sessionId, paragraphs, perTurn, marked }
 // The inquiry whose sessions are listed on their own page (a meeting key).
 let openInquiry = null;
 
@@ -728,6 +737,7 @@ function selectSession(id) {
   renderChapterList();
   renderCastList();
   renderChapterTicks();
+  setupEvidence();
 }
 
 function parseTranscript(text) {
@@ -828,6 +838,7 @@ function setCurrent(nextIndex, options = {}) {
   positionBubble(seat);
   popBubble(options.immediate);
   persistProgress();
+  highlightEvidence(options.immediate);
 
 }
 
@@ -1221,7 +1232,204 @@ function populateSessionPicker() {
   el.sessionPickerWrap.hidden = siblings.length < 2;
 }
 
+/* ---------- original transcript (evidence) ---------- */
+
+// Each condensed line can carry the passages of the official transcript it is
+// based on. The build matches them to character offsets in the transcript; here
+// we show that transcript beside the dialogue and highlight the current line's.
+
+function readEvidencePreference() {
+  try {
+    return localStorage.getItem(EVIDENCE_KEY) === "1";
+  } catch {
+    return false;
+  }
+}
+
+function setupEvidence() {
+  const available = Boolean(session && session.evidence);
+  el.evidenceToggleWrap.hidden = !available;
+  el.evidenceToggle.checked = available && evidenceOpen;
+  evidenceState = null;
+  el.evidenceBody.replaceChildren();
+  applyEvidenceMode();
+}
+
+function applyEvidenceMode() {
+  const open = Boolean(session && session.evidence) && evidenceOpen;
+  el.appMain.classList.toggle("evidence-open", open);
+  el.evidencePanel.hidden = !open;
+  if (!open) return;
+  if (evidenceState && evidenceState.sessionId === session.id) {
+    highlightEvidence(true);
+    return;
+  }
+  el.evidenceNote.textContent = "Loading the transcript…";
+  const target = session;
+  loadEvidence(target)
+    .then((data) => {
+      if (session !== target || !evidenceOpen) return;
+      renderEvidence(target, data);
+      highlightEvidence(true);
+    })
+    .catch(() => {
+      if (session === target) el.evidenceNote.textContent = "The transcript couldn’t be loaded.";
+    });
+}
+
+function loadEvidence(target) {
+  if (!evidenceCache.has(target.id)) {
+    evidenceCache.set(
+      target.id,
+      fetch(target.evidence).then((response) => {
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        return response.json();
+      }),
+    );
+  }
+  const pending = evidenceCache.get(target.id);
+  pending.catch(() => evidenceCache.delete(target.id));
+  return pending;
+}
+
+function renderEvidence(target, data) {
+  const source = String(data.source || "");
+  const paragraphs = [];
+  const fragment = document.createDocumentFragment();
+  const splitter = /\n{2,}/g;
+  let start = 0;
+  for (const match of [...source.matchAll(splitter), { index: source.length, 0: "" }]) {
+    const end = match.index;
+    const text = source.slice(start, end);
+    if (text.trim()) {
+      const node = document.createElement("p");
+      node.className = "ev-para";
+      const label = text.match(/^(?:Q\d+\s+)?[A-Z][^:\n]{1,60}?:(?=\s)/);
+      const paragraph = { node, start, end, text, labelEnd: label ? label[0].length : 0 };
+      paintParagraph(paragraph, []);
+      paragraphs.push(paragraph);
+      fragment.append(node);
+    }
+    start = end + match[0].length;
+  }
+  el.evidenceBody.replaceChildren(fragment);
+
+  // Line the evidence up with the parsed dialogue by each line's opening words.
+  const turns = Array.isArray(data.turns) ? data.turns : [];
+  const perTurn = [];
+  let cursor = 0;
+  for (const entry of dialogue) {
+    let found = null;
+    for (let look = cursor; look < turns.length; look += 1) {
+      if (entry.line.startsWith(turns[look].key)) {
+        found = turns[look];
+        cursor = look + 1;
+        break;
+      }
+    }
+    perTurn.push(found);
+  }
+  evidenceState = { sessionId: target.id, paragraphs, perTurn, marked: new Set() };
+}
+
+function paintParagraph(paragraph, ranges) {
+  const { node, start, text, labelEnd } = paragraph;
+  const cuts = new Set([0, text.length, labelEnd]);
+  const local = ranges
+    .map(([from, to]) => [Math.max(from - start, 0), Math.min(to - start, text.length)])
+    .filter(([from, to]) => to > from);
+  for (const [from, to] of local) {
+    cuts.add(from);
+    cuts.add(to);
+  }
+  const points = [...cuts].sort((a, b) => a - b);
+  const pieces = document.createDocumentFragment();
+  for (let i = 0; i < points.length - 1; i += 1) {
+    const [from, to] = [points[i], points[i + 1]];
+    if (to <= from) continue;
+    let piece = document.createTextNode(text.slice(from, to));
+    if (from < labelEnd) {
+      const strong = document.createElement("strong");
+      strong.className = "ev-label";
+      strong.append(piece);
+      piece = strong;
+    }
+    if (local.some(([a, b]) => from >= a && to <= b)) {
+      const mark = document.createElement("mark");
+      mark.className = "ev-mark";
+      mark.append(piece);
+      piece = mark;
+    }
+    pieces.append(piece);
+  }
+  node.replaceChildren(pieces);
+  node.classList.toggle("has-mark", local.length > 0);
+}
+
+function highlightEvidence(immediate = false) {
+  if (!evidenceOpen || !evidenceState || !session || evidenceState.sessionId !== session.id) return;
+  const turn = evidenceState.perTurn[currentIndex];
+  const ranges = (turn && turn.ranges) || [];
+  const missing = (turn && turn.missing) || [];
+
+  const touched = new Set(evidenceState.marked);
+  const nowMarked = new Set();
+  for (const paragraph of evidenceState.paragraphs) {
+    if (ranges.some(([from, to]) => from < paragraph.end && to > paragraph.start)) {
+      nowMarked.add(paragraph);
+      touched.add(paragraph);
+    }
+  }
+  for (const paragraph of touched) {
+    paintParagraph(
+      paragraph,
+      nowMarked.has(paragraph) ? ranges.filter(([from, to]) => from < paragraph.end && to > paragraph.start) : [],
+    );
+  }
+  evidenceState.marked = nowMarked;
+
+  if (!turn) {
+    el.evidenceNote.textContent = "No source passages were recorded for this line.";
+  } else {
+    const count = ranges.length;
+    let note = count
+      ? `${count === 1 ? "The highlighted passage is" : `The ${count} highlighted passages are`} what this line is based on.`
+      : "None of this line’s source passages could be found in the transcript.";
+    if (count && missing.length) {
+      note += ` ${missing.length} more couldn’t be found word for word.`;
+    }
+    el.evidenceNote.textContent = note;
+  }
+
+  const first = el.evidenceBody.querySelector("mark.ev-mark");
+  if (first) {
+    const body = el.evidenceBody.getBoundingClientRect();
+    const markTop = first.getBoundingClientRect().top;
+    // Show who is speaking too, when the start of their answer is close by.
+    const paragraphTop = first.closest(".ev-para").getBoundingClientRect().top;
+    const anchor = markTop - paragraphTop < body.height * 0.4 ? paragraphTop : markTop;
+    const top = anchor - body.top + el.evidenceBody.scrollTop - 18;
+    el.evidenceBody.scrollTo({
+      top: Math.max(top, 0),
+      behavior: immediate || reducedMotion.matches ? "auto" : "smooth",
+    });
+  }
+}
+
+function bindEvidenceToggle() {
+  el.evidenceToggle.addEventListener("change", () => {
+    evidenceOpen = el.evidenceToggle.checked;
+    try {
+      localStorage.setItem(EVIDENCE_KEY, evidenceOpen ? "1" : "0");
+    } catch {
+      /* storage unavailable — the toggle still works for this visit */
+    }
+    applyEvidenceMode();
+  });
+}
+
 function bindControls() {
+  bindEvidenceToggle();
   for (const link of [el.homeBrowseLink, el.homeIntroBrowseBtn]) {
     link.addEventListener("click", (event) => {
       event.preventDefault();
