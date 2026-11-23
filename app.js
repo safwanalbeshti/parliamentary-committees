@@ -176,6 +176,7 @@ const el = {
   evidencePanel: document.querySelector("#evidencePanel"),
   evidenceNote: document.querySelector("#evidenceNote"),
   evidenceBody: document.querySelector("#evidenceBody"),
+  evidenceReport: document.querySelector("#evidenceReport"),
 };
 
 const sessions = Array.isArray(window.COMMITTEE_SESSIONS) ? window.COMMITTEE_SESSIONS : [];
@@ -1321,7 +1322,7 @@ function renderEvidence(target, data) {
     }
     perTurn.push(found);
   }
-  evidenceState = { sessionId: target.id, paragraphs, perTurn, marked: new Set() };
+  evidenceState = { sessionId: target.id, source, paragraphs, perTurn, marked: new Set() };
 }
 
 function paintParagraph(paragraph, ranges) {
@@ -1393,6 +1394,8 @@ function highlightEvidence(immediate = false) {
     el.evidenceNote.textContent = note;
   }
 
+  el.evidenceReport.href = reportUrl(turn, ranges);
+
   const first = el.evidenceBody.querySelector("mark.ev-mark");
   if (first) {
     const body = el.evidenceBody.getBoundingClientRect();
@@ -1406,6 +1409,51 @@ function highlightEvidence(immediate = false) {
       behavior: immediate || reducedMotion.matches ? "auto" : "smooth",
     });
   }
+}
+
+// "Doesn't match?" opens a GitHub issue form with the line's details filled in,
+// so the reader only has to say what's wrong.
+const REPORT_BASE =
+  "https://github.com/safwanalbeshti/parliamentary-committees/issues/new?template=doesnt-match.yml";
+
+function reportUrl(turn, ranges) {
+  const entry = dialogue[currentIndex];
+  const design = cast.get(entry.speaker) || { name: entry.speaker };
+  const lineNumber = currentIndex + 1;
+  const pageUrl = new URL(window.location.href);
+  pageUrl.search = "";
+  pageUrl.hash = `s=${encodeURIComponent(session.id)}&t=${lineNumber}`;
+  const clip = (text, limit) => (text.length > limit ? `${text.slice(0, limit).trimEnd()}…` : text);
+  const quoted = (text) => text.split(/\n+/).map((part) => `> ${part}`).join("\n");
+  const passages = ranges
+    .slice(0, 6)
+    .map(([from, to]) => {
+      // Keep an opening quotation mark the match itself started just after.
+      const start = /[“"‘']/.test(evidenceState.source[from - 1] || "") ? from - 1 : from;
+      return quoted(clip(evidenceState.source.slice(start, to).trim(), 400));
+    });
+  const missing = (turn && turn.missing) || [];
+
+  const context = [
+    `**Session:** ${el.sessionTitle.textContent} — ${session.committee || ""}, ${session.date || ""} (\`${session.id}\`)`,
+    `**Line ${lineNumber} of ${dialogue.length}:** ${design.name}`,
+    `**Link:** ${pageUrl.href}`,
+    "",
+    "**Condensed line**",
+    quoted(entry.line),
+    "",
+    `**Highlighted transcript passages (${ranges.length})**`,
+    passages.length ? passages.join("\n\n") : "_None_",
+    missing.length ? `\n_${missing.length} cited quote(s) couldn't be found word for word._` : "",
+    "",
+    `**Official transcript:** ${session.sourceUrl || ""}`,
+  ].join("\n");
+
+  const params = new URLSearchParams({
+    title: `[Doesn't match] ${el.sessionTitle.textContent} · line ${lineNumber}`,
+    context,
+  });
+  return `${REPORT_BASE}&${params.toString()}`;
 }
 
 function bindEvidenceToggle() {
