@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Parliamentary Committees, in Plain English</title>
-    <link rel="stylesheet" href="styles.css?v=32" />
+    <link rel="stylesheet" href="styles.css?v=36" />
     <link rel="preload" as="image" href="Energy Resilience/committee_room_4.png" />
   </head>
   <body>
@@ -329,6 +329,9 @@
           <button class="tab-button" role="tab" id="tabBtn-dialogue" data-tab="dialogue" aria-selected="false" aria-controls="tab-dialogue">
             Dialogue
           </button>
+          <button class="tab-button" role="tab" id="tabBtn-comments" data-tab="comments" aria-selected="false" aria-controls="tab-comments">
+            Comments
+          </button>
         </nav>
 
         <section class="tab-panel" id="tab-dialogue" role="tabpanel" aria-labelledby="tabBtn-dialogue" hidden>
@@ -344,6 +347,20 @@
           <div id="castList" class="cast-list"></div>
         </section>
 
+        <section class="tab-panel" id="tab-comments" role="tabpanel" aria-labelledby="tabBtn-comments" hidden>
+          <p class="comments-preview">Preview — commenting isn’t open yet, and the comments below are examples.</p>
+          <form class="comment-form" aria-label="Add a comment" onsubmit="return false">
+            <textarea id="commentText" rows="3" placeholder="Share your thoughts on this session…" disabled></textarea>
+            <div class="comment-form-row">
+              <button class="comment-line-chip" id="commentLineChip" type="button" aria-pressed="true">
+                <span aria-hidden="true">↪</span> <span id="commentLineLabel">Link to line 1</span>
+              </button>
+              <button class="comment-post" type="submit" disabled>Post</button>
+            </div>
+            <p class="comment-form-note">Comments are public. Please be respectful.</p>
+          </form>
+          <ol class="comment-list" id="commentList"></ol>
+        </section>
         <section class="tab-panel" id="tab-about" role="tabpanel" aria-labelledby="tabBtn-about">
           <div class="about-copy">
             <h3>This session in a nutshell</h3>
@@ -652,6 +669,6 @@
     <script src="sessions/generated/oral-evidence-18329.js?v=89164712"></script>
     <script src="sessions/generated/oral-evidence-18330.js?v=7495f089"></script>
     <!-- GENERATED_SESSIONS_END -->
-    <script defer src="app.js?v=27"></script>
+    <script defer src="app.js?v=31"></script>
   </body>
 </html>

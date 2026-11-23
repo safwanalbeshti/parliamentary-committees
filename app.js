@@ -171,6 +171,9 @@ const el = {
   dialogueRail: document.querySelector("#dialogueRail"),
   chapterList: document.querySelector("#chapterList"),
   castList: document.querySelector("#castList"),
+  commentList: document.querySelector("#commentList"),
+  commentLineChip: document.querySelector("#commentLineChip"),
+  commentLineLabel: document.querySelector("#commentLineLabel"),
   evidenceToggleWrap: document.querySelector("#evidenceToggleWrap"),
   evidenceToggle: document.querySelector("#evidenceToggle"),
   evidencePanel: document.querySelector("#evidencePanel"),
@@ -191,6 +194,32 @@ let cast = new Map();
 let currentIndex = 0;
 let menuMode = "committee";
 let openCommittee = null;
+// Example comments so the section can be judged before a comment service is
+// chosen. `line` is a 1-based dialogue line; it is clamped to the session.
+const EXAMPLE_COMMENTS = [
+  {
+    author: "Example reader",
+    when: "2 days ago",
+    line: 5,
+    text: "Is this a fair summary? Reading the original passage, the answer sounds more cautious to me.",
+    likes: 4,
+  },
+  {
+    author: "Another reader",
+    when: "1 day ago",
+    text: "Really helpful to read this alongside the official transcript.",
+    likes: 2,
+  },
+  {
+    author: "Third reader",
+    when: "5 hours ago",
+    line: 12,
+    text: "This exchange is the heart of the session for me.",
+    likes: 1,
+  },
+];
+
+let commentLinkOn = true;
 const evidenceCache = new Map();
 // Off whenever the page loads; the reader switches it on when they want it.
 let evidenceOpen = false;
@@ -739,6 +768,7 @@ function selectSession(id) {
   renderCastList();
   renderChapterTicks();
   setupEvidence();
+  renderComments();
 }
 
 function parseTranscript(text) {
@@ -840,6 +870,7 @@ function setCurrent(nextIndex, options = {}) {
   popBubble(options.immediate);
   persistProgress();
   highlightEvidence(options.immediate);
+  updateCommentLineChip();
 
 }
 
@@ -1463,7 +1494,78 @@ function bindEvidenceToggle() {
   });
 }
 
+/* ---------- comments (design preview: nothing is posted or stored) ---------- */
+
+
+function lineLabel(lineNumber) {
+  const entry = dialogue[lineNumber - 1];
+  const design = entry ? cast.get(entry.speaker) || { name: entry.speaker } : null;
+  return design ? `Line ${lineNumber} · ${design.name}` : `Line ${lineNumber}`;
+}
+
+function renderComments() {
+  const fragment = document.createDocumentFragment();
+  for (const comment of EXAMPLE_COMMENTS) {
+    const item = document.createElement("li");
+    item.className = "comment";
+
+    const avatar = document.createElement("span");
+    avatar.className = "comment-avatar";
+    avatar.setAttribute("aria-hidden", "true");
+    avatar.textContent = getInitials(comment.author);
+
+    const body = document.createElement("div");
+    body.className = "comment-body";
+    const meta = document.createElement("p");
+    meta.className = "comment-meta";
+    const name = document.createElement("strong");
+    name.textContent = comment.author;
+    meta.append(name, ` · ${comment.when}`);
+    body.append(meta);
+
+    if (comment.line && dialogue.length) {
+      const lineNumber = Math.min(comment.line, dialogue.length);
+      const jump = document.createElement("button");
+      jump.type = "button";
+      jump.className = "comment-line-link";
+      jump.textContent = `↪ ${lineLabel(lineNumber)}`;
+      jump.title = "Go to this line";
+      jump.addEventListener("click", () => setCurrent(lineNumber - 1));
+      body.append(jump);
+    }
+
+    const text = document.createElement("p");
+    text.className = "comment-text";
+    text.textContent = comment.text;
+    const actions = document.createElement("p");
+    actions.className = "comment-actions";
+    actions.textContent = `Reply · ♥ ${comment.likes}`;
+    body.append(text, actions);
+
+    item.append(avatar, body);
+    fragment.append(item);
+  }
+  el.commentList.replaceChildren(fragment);
+  updateCommentLineChip();
+}
+
+function updateCommentLineChip() {
+  if (!dialogue.length) return;
+  el.commentLineChip.setAttribute("aria-pressed", commentLinkOn ? "true" : "false");
+  el.commentLineLabel.textContent = commentLinkOn
+    ? `Linked to ${lineLabel(currentIndex + 1).replace(/^Line/, "line")}`
+    : "Link to the current line";
+}
+
+function bindComments() {
+  el.commentLineChip.addEventListener("click", () => {
+    commentLinkOn = !commentLinkOn;
+    updateCommentLineChip();
+  });
+}
+
 function bindControls() {
+  bindComments();
   bindEvidenceToggle();
   for (const link of [el.homeBrowseLink, el.homeIntroBrowseBtn]) {
     link.addEventListener("click", (event) => {
