@@ -100,11 +100,19 @@ class BillingError(PipelineError):
 # OpenAI error codes meaning "no money left to spend", from
 # https://developers.openai.com/api/docs/guides/error-codes
 BILLING_ERROR_CODES = {
+    "billing_hard_limit_reached",
     "credit_balance_exhausted",
     "insufficient_quota",
     "organization_spend_limit_exceeded",
     "project_spend_limit_exceeded",
 }
+BILLING_PHRASES = ("quota", "credit", "billing", "spend limit", "hard limit")
+
+
+def is_billing_error(status: int | None, codes: set[str], message: str) -> bool:
+    """True when the API refused because the account has no money (or budget) left."""
+    lowered = message.lower()
+    return status == 402 or bool(codes & BILLING_ERROR_CODES) or any(p in lowered for p in BILLING_PHRASES)
 BILLING_ALERT_MARKER = "condense-billing-alert"
 BILLING_ALERT_TITLE = "Model API credit has run out — condensation is paused"
 
@@ -982,9 +990,8 @@ def chat_completion(api_key: str, messages: list[dict[str, str]]) -> str:
                 detail = str(error_body["message"])
             except Exception:
                 detail = str(exc.reason)
-            lowered = detail.lower()
             codes = {str(error_body.get("code") or ""), str(error_body.get("type") or "")}
-            if exc.code == 402 or codes & BILLING_ERROR_CODES or "quota" in lowered or "credit" in lowered:
+            if is_billing_error(exc.code, codes, detail):
                 raise BillingError(
                     f"The condensation API rejected the request ({exc.code}): {detail} "
                     "Check the account balance."
@@ -1149,8 +1156,7 @@ def openai_request(
             error = {"message": text[:300] or str(exc.reason)}
         message = str(error.get("message") or exc.reason)
         codes = {str(error.get("code") or ""), str(error.get("type") or "")}
-        lowered = message.lower()
-        if exc.code == 402 or codes & BILLING_ERROR_CODES or "quota" in lowered or "credit" in lowered:
+        if is_billing_error(exc.code, codes, message):
             raise BillingError(
                 f"The model API rejected the request ({exc.code}): {message} Check the account balance."
             ) from exc
@@ -1237,6 +1243,31 @@ def apply_condensation(packet: Path, answer: str) -> tuple[list[str], list[str]]
     return errors, warnings
 
 
+def write_billing_alert(detail: str) -> None:
+    alert_file = os.environ.get("BILLING_ALERT_FILE")
+    if alert_file:
+        Path(alert_file).write_text(detail, encoding="utf-8")
+
+
+def batch_errors(api_key: str, batch: dict[str, Any]) -> dict[str, str]:
+    """Per-request failures, which OpenAI keeps in a separate error file."""
+    if not batch.get("error_file_id"):
+        return {}
+    content = openai_request(api_key, "GET", f"/files/{batch['error_file_id']}/content")
+    found: dict[str, str] = {}
+    for line in content.decode("utf-8").splitlines():
+        if not line.strip():
+            continue
+        record = json.loads(line)
+        body = ((record.get("response") or {}).get("body") or {})
+        error = record.get("error") or (body.get("error") if isinstance(body, dict) else None) or {}
+        if isinstance(error, dict):
+            found[str(record.get("custom_id"))] = f"{error.get('code') or ''}: {error.get('message') or ''}".strip(": ")
+        else:
+            found[str(record.get("custom_id"))] = str(error)
+    return found
+
+
 def batch_submit_command(args: argparse.Namespace) -> int:
     root = Path(args.root).resolve()
     pending, attempts = read_batch_state(root)
@@ -1281,10 +1312,11 @@ def batch_submit_command(args: argparse.Namespace) -> int:
             )
         )
     except BillingError as exc:
-        alert_file = os.environ.get("BILLING_ALERT_FILE")
-        if alert_file:
-            Path(alert_file).write_text(str(exc), encoding="utf-8")
-        raise
+        # Don't fail the run: results collected earlier must still be published.
+        # The billing-alert step opens an issue from this file instead.
+        write_billing_alert(str(exc))
+        print(f"Not submitted: {exc}", file=sys.stderr)
+        return 0
     pending.append(
         {
             "batch_id": batch["id"],
@@ -1329,12 +1361,13 @@ def batch_collect_command(args: argparse.Namespace) -> int:
                     record = json.loads(line)
                     results[str(record.get("custom_id"))] = record
         print(f"Batch {entry['batch_id']} {status}: {len(results)} result(s).")
+        request_errors = batch_errors(api_key, batch)
         for item in entry.get("items", []):
             record = results.get(item["custom_id"])
             answer = None
             problem = None
             if record is None:
-                problem = f"no result (batch {status})"
+                problem = request_errors.get(item["custom_id"]) or f"no result (batch {status})"
             elif record.get("error"):
                 problem = str(record["error"])
             else:
@@ -1353,6 +1386,11 @@ def batch_collect_command(args: argparse.Namespace) -> int:
                 if answer is None:
                     failed += 1
                     print(f"  {packet_id}: failed — {problem}", file=sys.stderr)
+                    if is_billing_error(None, set(), str(problem)):
+                        # Running out of money isn't the transcript's fault, so
+                        # this doesn't use up one of its attempts.
+                        attempts.pop(packet_id, None)
+                        write_billing_alert(f"A batch request was refused: {problem}")
                     continue
                 errors, warnings = apply_condensation(packet, answer)
                 for warning in warnings:

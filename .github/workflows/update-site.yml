@@ -50,6 +50,7 @@ jobs:
       - name: Collect finished condensations from earlier batches
         env:
           CONDENSE_API_KEY: ${{ secrets.CONDENSE_API_KEY }}
+          BILLING_ALERT_FILE: ${{ runner.temp }}/billing-alert.txt
         run: python3 scripts/parliament_pipeline.py batch-collect
 
       - name: Send new transcripts to GPT-6 Sol (Batch tier)
