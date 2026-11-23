@@ -2017,7 +2017,14 @@ body:has(.meeting-menu:not([hidden])) {
 }
 
 .app.evidence-open {
-  grid-template-columns: minmax(0, 1fr) minmax(360px, 46%);
+  grid-template-columns: minmax(0, 1fr) minmax(300px, 32%);
+}
+
+/* Side by side, the dialogue column eases narrower as the transcript arrives. */
+@media (min-width: 1081px) {
+  .app {
+    transition: grid-template-columns 0.55s cubic-bezier(0.22, 0.8, 0.2, 1);
+  }
 }
 
 .app.evidence-open .control-panel {
@@ -2040,7 +2047,7 @@ body:has(.meeting-menu:not([hidden])) {
   border-radius: var(--radius);
   background: var(--panel);
   box-shadow: 0 16px 38px rgba(24, 32, 38, 0.11);
-  animation: evidence-slide-in 0.45s cubic-bezier(0.2, 0.8, 0.2, 1);
+  animation: evidence-slide-in 0.55s cubic-bezier(0.22, 0.8, 0.2, 1);
 }
 
 .evidence-panel[hidden] {
@@ -2049,8 +2056,8 @@ body:has(.meeting-menu:not([hidden])) {
 
 @keyframes evidence-slide-in {
   from {
-    transform: translateX(-70%);
-    opacity: 0;
+    transform: translateX(105%);
+    opacity: 0.2;
   }
   to {
     transform: none;
