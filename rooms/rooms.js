@@ -60,6 +60,138 @@ window.COMMITTEE_ROOMS = {
    "Matt Turmaine": "seat_n"
   }
  },
+ "oral-evidence-18309": {
+  "image": "rooms/oral-evidence-18309.webp?v=c56f29ea",
+  "width": 1689,
+  "height": 931,
+  "seats": {
+   "seat_k": {
+    "x": 87.5,
+    "y": 42.0
+   },
+   "seat_l": {
+    "x": 88.1,
+    "y": 46.9
+   },
+   "seat_n": {
+    "x": 86.1,
+    "y": 58.6
+   },
+   "seat_i": {
+    "x": 77.6,
+    "y": 34.0
+   },
+   "seat_h": {
+    "x": 66.3,
+    "y": 30.7
+   },
+   "seat_f": {
+    "x": 49.2,
+    "y": 30.2
+   },
+   "seat_d": {
+    "x": 35.8,
+    "y": 33.2
+   },
+   "seat_c": {
+    "x": 30.4,
+    "y": 36.2
+   },
+   "seat_a": {
+    "x": 16.6,
+    "y": 44.3
+   },
+   "witness1": {
+    "x": 32.1,
+    "y": 72.9
+   },
+   "witness2": {
+    "x": 43.2,
+    "y": 75.9
+   },
+   "witness3": {
+    "x": 21.5,
+    "y": 69.8
+   }
+  },
+  "cast": {
+   "Chair": "seat_h",
+   "Lord Isaac": "seat_a",
+   "Baroness Brown of Silvertown": "seat_c",
+   "Olivia Bailey": "seat_d",
+   "Naz Shah": "seat_f",
+   "Sir Jeremy Wright": "seat_i",
+   "Lord Scriven": "seat_k",
+   "Baroness Prentis of Banbury": "seat_l",
+   "Danny Beales": "seat_n"
+  }
+ },
+ "oral-evidence-18310": {
+  "image": "rooms/oral-evidence-18310.webp?v=c56f29ea",
+  "width": 1689,
+  "height": 931,
+  "seats": {
+   "seat_k": {
+    "x": 87.5,
+    "y": 42.0
+   },
+   "seat_l": {
+    "x": 88.1,
+    "y": 46.9
+   },
+   "seat_n": {
+    "x": 86.1,
+    "y": 58.6
+   },
+   "seat_i": {
+    "x": 77.6,
+    "y": 34.0
+   },
+   "seat_h": {
+    "x": 66.3,
+    "y": 30.7
+   },
+   "seat_f": {
+    "x": 49.2,
+    "y": 30.2
+   },
+   "seat_d": {
+    "x": 35.8,
+    "y": 33.2
+   },
+   "seat_c": {
+    "x": 30.4,
+    "y": 36.2
+   },
+   "seat_a": {
+    "x": 16.6,
+    "y": 44.3
+   },
+   "witness1": {
+    "x": 32.1,
+    "y": 72.9
+   },
+   "witness2": {
+    "x": 43.2,
+    "y": 75.9
+   },
+   "witness3": {
+    "x": 21.5,
+    "y": 69.8
+   }
+  },
+  "cast": {
+   "Chair": "seat_h",
+   "Lord Isaac": "seat_a",
+   "Baroness Brown of Silvertown": "seat_c",
+   "Olivia Bailey": "seat_d",
+   "Naz Shah": "seat_f",
+   "Sir Jeremy Wright": "seat_i",
+   "Lord Scriven": "seat_k",
+   "Baroness Prentis of Banbury": "seat_l",
+   "Danny Beales": "seat_n"
+  }
+ },
  "oral-evidence-18311": {
   "image": "rooms/oral-evidence-18311.webp?v=f98409a7",
   "width": 1689,
@@ -109,6 +241,47 @@ window.COMMITTEE_ROOMS = {
    "Catherine Atkinson": "seat_g",
    "Baroness Tyler of Enfield": "seat_k",
    "Lord Tunnicliffe": "seat_n"
+  }
+ },
+ "oral-evidence-18312": {
+  "image": "rooms/oral-evidence-18312.webp?v=876547b1",
+  "width": 1689,
+  "height": 931,
+  "seats": {
+   "seat_n": {
+    "x": 86.9,
+    "y": 58.6
+   },
+   "seat_h": {
+    "x": 66.8,
+    "y": 30.8
+   },
+   "seat_g": {
+    "x": 57.6,
+    "y": 30.5
+   },
+   "seat_a": {
+    "x": 16.6,
+    "y": 44.2
+   },
+   "witness1": {
+    "x": 32.1,
+    "y": 72.9
+   },
+   "witness2": {
+    "x": 43.2,
+    "y": 75.9
+   },
+   "witness3": {
+    "x": 21.5,
+    "y": 69.8
+   }
+  },
+  "cast": {
+   "Helen Maguire": "seat_h",
+   "Lord Sedwill": "seat_a",
+   "Lord Godson": "seat_g",
+   "Lord Watts": "seat_n"
   }
  },
  "oral-evidence-18313": {
@@ -813,6 +986,72 @@ window.COMMITTEE_ROOMS = {
    "Bell Ribeiro-Addy": "seat_n"
   }
  },
+ "oral-evidence-18329": {
+  "image": "rooms/oral-evidence-18329.webp?v=1f6211d6",
+  "width": 1689,
+  "height": 931,
+  "seats": {
+   "seat_k": {
+    "x": 87.9,
+    "y": 41.3
+   },
+   "seat_l": {
+    "x": 88.5,
+    "y": 47.1
+   },
+   "seat_n": {
+    "x": 85.8,
+    "y": 58.5
+   },
+   "seat_i": {
+    "x": 77.8,
+    "y": 33.7
+   },
+   "seat_h": {
+    "x": 66.3,
+    "y": 30.7
+   },
+   "seat_f": {
+    "x": 49.6,
+    "y": 30.7
+   },
+   "seat_d": {
+    "x": 36.2,
+    "y": 34.0
+   },
+   "seat_c": {
+    "x": 30.4,
+    "y": 36.0
+   },
+   "seat_a": {
+    "x": 16.3,
+    "y": 44.0
+   },
+   "witness1": {
+    "x": 32.1,
+    "y": 72.9
+   },
+   "witness2": {
+    "x": 43.2,
+    "y": 75.9
+   },
+   "witness3": {
+    "x": 21.5,
+    "y": 69.8
+   }
+  },
+  "cast": {
+   "Chair": "seat_h",
+   "Danny Beales": "seat_a",
+   "Baroness Prentis of Banbury": "seat_c",
+   "Lord Scriven": "seat_d",
+   "Lord Isaac": "seat_f",
+   "Naz Shah": "seat_i",
+   "Olivia Bailey": "seat_k",
+   "Baroness Brown of Silvertown": "seat_l",
+   "Marie Goldman": "seat_n"
+  }
+ },
  "oral-evidence-18330": {
   "image": "rooms/oral-evidence-18330.webp?v=3b60656a",
   "width": 1689,
@@ -1066,6 +1305,77 @@ window.COMMITTEE_ROOMS = {
    "Danny Beales": "seat_g",
    "Sadik Al-Hassan": "seat_k",
    "Ben Coleman": "seat_n"
+  }
+ },
+ "oral-evidence-18335": {
+  "image": "rooms/oral-evidence-18335.webp?v=297307e6",
+  "width": 1689,
+  "height": 931,
+  "seats": {
+   "seat_j": {
+    "x": 85.1,
+    "y": 38.3
+   },
+   "seat_k": {
+    "x": 87.5,
+    "y": 39.5
+   },
+   "seat_l": {
+    "x": 87.7,
+    "y": 46.8
+   },
+   "seat_n": {
+    "x": 85.7,
+    "y": 58.7
+   },
+   "seat_h": {
+    "x": 66.5,
+    "y": 30.9
+   },
+   "seat_g": {
+    "x": 57.9,
+    "y": 30.1
+   },
+   "seat_e": {
+    "x": 42.1,
+    "y": 31.8
+   },
+   "seat_d": {
+    "x": 35.8,
+    "y": 33.6
+   },
+   "seat_c": {
+    "x": 30.2,
+    "y": 36.5
+   },
+   "seat_a": {
+    "x": 15.9,
+    "y": 43.4
+   },
+   "witness1": {
+    "x": 32.1,
+    "y": 72.9
+   },
+   "witness2": {
+    "x": 43.2,
+    "y": 75.9
+   },
+   "witness3": {
+    "x": 21.5,
+    "y": 69.8
+   }
+  },
+  "cast": {
+   "Chair": "seat_h",
+   "Lord German": "seat_a",
+   "Lord Hannay of Chiswick": "seat_c",
+   "Baroness Verma": "seat_d",
+   "Lord Boateng": "seat_e",
+   "Baroness Bi": "seat_g",
+   "Lord Anderson of Swansea": "seat_j",
+   "Baroness Lawlor": "seat_k",
+   "Baroness Anelay of St Johns": "seat_l",
+   "Lord McDonald of Salford": "seat_n"
   }
  },
  "oral-evidence-18336": {
