@@ -79,12 +79,19 @@ jobs:
           python3 -m unittest discover -s tests -v
           python3 scripts/parliament_pipeline.py build
 
+      # Each session's room with its own members seated, assembled from the pre-rendered seat snapshots in
+      # room-assets/ (no browser or 3D models needed here).
+      - name: Build committee rooms
+        run: |
+          python3 -m pip install --quiet "pillow==11.*"
+          python3 scripts/build_rooms.py
+
       - name: Commit packets and generated sessions
         run: |
           git config user.name "parliament-transcript-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add index.html
-          for path in inbox sessions/generated batches archive.json; do
+          for path in inbox sessions/generated batches archive.json rooms; do
             if [ -d "$path" ]; then
               git add "$path"
             fi
@@ -105,7 +112,7 @@ jobs:
         run: |
           mkdir -p _site
           cp index.html app.js styles.css NOTICE.md _site/
-          cp -R sessions assets "Energy Resilience" _site/
+          cp -R sessions assets "Energy Resilience" rooms _site/
           touch _site/.nojekyll
 
       - name: Configure GitHub Pages
