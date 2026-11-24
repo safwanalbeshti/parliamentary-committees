@@ -854,6 +854,153 @@ window.COMMITTEE_ROOMS = {
    "Vikki Slade": "seat_n"
   }
  },
+ "oral-evidence-18325": {
+  "image": "rooms/oral-evidence-18325.webp?v=2d0e14da",
+  "width": 1689,
+  "height": 931,
+  "seats": {
+   "seat_j": {
+    "x": 85.4,
+    "y": 38.2
+   },
+   "seat_k": {
+    "x": 87.4,
+    "y": 42.0
+   },
+   "seat_l": {
+    "x": 88.0,
+    "y": 47.1
+   },
+   "seat_n": {
+    "x": 86.1,
+    "y": 58.7
+   },
+   "seat_h": {
+    "x": 66.5,
+    "y": 30.5
+   },
+   "seat_g": {
+    "x": 57.7,
+    "y": 30.3
+   },
+   "seat_e": {
+    "x": 41.9,
+    "y": 32.1
+   },
+   "seat_d": {
+    "x": 36.0,
+    "y": 33.1
+   },
+   "seat_c": {
+    "x": 30.8,
+    "y": 36.7
+   },
+   "seat_a": {
+    "x": 16.4,
+    "y": 43.9
+   },
+   "witness1": {
+    "x": 32.1,
+    "y": 72.9
+   },
+   "witness2": {
+    "x": 43.2,
+    "y": 75.9
+   },
+   "witness3": {
+    "x": 21.5,
+    "y": 69.8
+   }
+  },
+  "cast": {
+   "Chair": "seat_h",
+   "Lord Sharkey": "seat_a",
+   "Lord Hill of Oareford": "seat_c",
+   "Baroness Bowles of Berkhamsted": "seat_d",
+   "Lord Eatwell": "seat_e",
+   "Lord Lilley": "seat_g",
+   "Lord Griffiths of Fforestfach": "seat_j",
+   "Lord Davies of Brixton": "seat_k",
+   "Baroness Donaghy": "seat_l",
+   "Lord Smith of Kelvin": "seat_n"
+  }
+ },
+ "oral-evidence-18326": {
+  "image": "rooms/oral-evidence-18326.webp?v=a20dd1b8",
+  "width": 1689,
+  "height": 931,
+  "seats": {
+   "seat_j": {
+    "x": 85.3,
+    "y": 38.1
+   },
+   "seat_k": {
+    "x": 87.9,
+    "y": 41.5
+   },
+   "seat_m": {
+    "x": 87.3,
+    "y": 52.3
+   },
+   "seat_n": {
+    "x": 86.1,
+    "y": 58.7
+   },
+   "seat_i": {
+    "x": 77.5,
+    "y": 34.3
+   },
+   "seat_h": {
+    "x": 66.5,
+    "y": 30.5
+   },
+   "seat_f": {
+    "x": 49.2,
+    "y": 30.5
+   },
+   "seat_e": {
+    "x": 41.9,
+    "y": 32.1
+   },
+   "seat_d": {
+    "x": 36.3,
+    "y": 34.1
+   },
+   "seat_b": {
+    "x": 24.1,
+    "y": 39.5
+   },
+   "seat_a": {
+    "x": 16.4,
+    "y": 43.9
+   },
+   "witness1": {
+    "x": 32.1,
+    "y": 72.9
+   },
+   "witness2": {
+    "x": 43.2,
+    "y": 75.9
+   },
+   "witness3": {
+    "x": 21.5,
+    "y": 69.8
+   }
+  },
+  "cast": {
+   "Chair": "seat_h",
+   "Lord Sharkey": "seat_a",
+   "Baroness Bowles of Berkhamsted": "seat_b",
+   "Lord Hill of Oareford": "seat_d",
+   "Lord Eatwell": "seat_e",
+   "Lord Lilley": "seat_f",
+   "Lord Griffiths of Fforestfach": "seat_i",
+   "Lord Davies of Brixton": "seat_j",
+   "Lord Vaux of Harrowden": "seat_k",
+   "Baroness Donaghy": "seat_m",
+   "Lord Smith of Kelvin": "seat_n"
+  }
+ },
  "oral-evidence-18327": {
   "image": "rooms/oral-evidence-18327.webp?v=0b33e81d",
   "width": 1689,
