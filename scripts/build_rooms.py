@@ -11,7 +11,8 @@ Inputs (room-assets/, built with face-pipeline/rooms/):
   members.json                                current members: id, name, house, committees (for matching names)
 
 Seating: the chair sits in the middle of the back row (seat H); the other speaking members are spread evenly
-around the rest of the table. Witnesses' turns use the empty front chairs.
+around the rest of the table. Witnesses sit in the front row as anonymous hooded figures seen from behind
+(figures/cloaks.webp + cloaks.json), one per witness, up to the seven front chairs, centred on the middle chair.
 
   python3 scripts/build_rooms.py          # needs Pillow
 """
@@ -30,8 +31,20 @@ OUT = ROOT / "rooms"
 # Seats around the table in order, from the near end of the left arm to the near end of the right arm.
 ARC = list("abcdefghijklmn")
 CHAIR_SEAT = "h"
-# Witnesses sit in the empty front chairs (their backs to us).
-WITNESS_CHAIRS = {"witness1": "Seat 3", "witness2": "Seat 4", "witness3": "Seat 2"}
+# Witnesses sit in the front row, their backs to us: chairs 1-7, left to right. A session's witnesses fill a block
+# of chairs centred on chair 4; with more than seven, the eighth onwards share the first chairs (they came in later
+# panels). Cloak colours alternate along the row.
+FRONT_CHAIRS = 7
+SHOULDER_ABOVE_CHAIR = 0.10    # shoulders this far above the chair back's top edge, as a fraction of the chair's height
+HOOD_CENTRE = 0.45             # spotlight on the hood: this far from its top towards the shoulders
+CLOAK_COLOURS = ["charcoal", "navy", "burgundy", "olive"]
+
+
+def witness_chairs(count: int) -> list[int]:
+    """Front chair (1-7) for each of `count` witnesses, in order."""
+    shown = min(count, FRONT_CHAIRS)
+    start = 4 - shown // 2
+    return [start + i % shown for i in range(count)] if shown else []
 
 HONORIFICS = r"^(the |rt hon |right hon )*(mr|mrs|ms|miss|dr|sir|dame|prof|professor|rev)\.? "
 PEER_TITLES = ("lord ", "baroness ", "viscount ", "earl ", "duke ", "countess ", "viscountess ", "marquess ", "bishop ")
@@ -90,7 +103,8 @@ def load_sessions() -> list[dict]:
 
 
 def plan(session: dict, members: list[dict], by_norm: dict, people: dict) -> tuple[dict, dict] | None:
-    """(seat -> member id, speaker label -> seat key), or None if anyone speaking hasn't got snapshots."""
+    """(seat -> member id, or front_<n> -> "witness"; speaker label -> seat key), or None if a speaking member
+    hasn't got snapshots."""
     cast = session.get("cast") or {}
     speakers = [(label, info) for label, info in cast.items() if info.get("kind") in ("chair", "member")]
     if not speakers:
@@ -105,10 +119,16 @@ def plan(session: dict, members: list[dict], by_norm: dict, people: dict) -> tup
     if len(set(i for _, i in ids)) != len(ids):
         return None
     seats = spread_seats(len(ids))
-    return ({s: mid for s, (_, mid) in zip(seats, ids)}, {label: f"seat_{s}" for s, (label, _) in zip(seats, ids)})
+    seating = {s: mid for s, (_, mid) in zip(seats, ids)}
+    cast_seats = {label: f"seat_{s}" for s, (label, _) in zip(seats, ids)}
+    witnesses = [label for label, info in cast.items() if info.get("kind") == "witness"]
+    for label, chair in zip(witnesses, witness_chairs(len(witnesses))):
+        seating[f"front_{chair}"] = "witness"
+        cast_seats[label] = f"front_{chair}"
+    return seating, cast_seats
 
 
-def compose(seating: dict, layers: dict, people: dict, cache: dict):
+def compose(seating: dict, layers: dict, people: dict, cache: dict, cloaks: dict | None = None, colour_shift: int = 0):
     from PIL import Image
 
     def img(path):
@@ -120,6 +140,18 @@ def compose(seating: dict, layers: dict, people: dict, cache: dict):
     heads = {}
     for layer in layers["layers"]:
         if layer["kind"] == "image":
+            front = re.fullmatch(r"Seat (\d)", layer.get("name") or "")
+            if front and cloaks and seating.get(f"front_{front.group(1)}"):
+                # A witness, drawn just before their chair so the chair back sits in front of them.
+                n = front.group(1)
+                colour = CLOAK_COLOURS[(int(n) + colour_shift) % len(CLOAK_COLOURS)]
+                fig, chair = cloaks["colours"][colour][n], cloaks["chairs"][n]
+                tile = img(ASSETS / "figures" / "cloaks.webp").crop((fig["sx"], 0, fig["sx"] + fig["w"], fig["h"]))
+                # Shoulders centred on the chair back, a little above its top edge.
+                x = round(chair["cx"] - fig["shoulder"][0])
+                y = round(chair["top"] - SHOULDER_ABOVE_CHAIR * chair["h"] - fig["shoulder"][1])
+                room.alpha_composite(tile, (x, y))
+                heads[f"front_{n}"] = (x + fig["top"][0], y + fig["top"][1] + HOOD_CENTRE * (fig["shoulder"][1] - fig["top"][1]))
             im = img(ASSETS / "layers" / layer["file"])
             room.alpha_composite(im, (layer["x"], layer["y"]))
             continue
@@ -146,11 +178,8 @@ def main() -> int:
     by_norm: dict[str, list[dict]] = {}
     for m in members:
         by_norm.setdefault(norm(m["name"]), []).append(m)
-    witness_seats = {}
-    for key, name in WITNESS_CHAIRS.items():
-        layer = next(l for l in layers["layers"] if l.get("name") == name)
-        witness_seats[key] = {"x": pct(layer["x"] + layer["w"] / 2, layers["width"]),
-                              "y": pct(layer["y"] + layer["h"] * 0.14, layers["height"])}
+    cloak_file = ASSETS / "figures" / "cloaks.json"
+    cloaks = json.loads(cloak_file.read_text()) if cloak_file.exists() else None
 
     OUT.mkdir(exist_ok=True)
     rooms, cache, skipped = {}, {}, []
@@ -160,7 +189,11 @@ def main() -> int:
             skipped.append(session["id"])
             continue
         seating, cast = planned
-        image, heads = compose(seating, layers, people, cache)
+        if not cloaks:                               # no witness figures built yet: leave the front row empty
+            seating = {k: v for k, v in seating.items() if not k.startswith("front_")}
+            cast = {k: v for k, v in cast.items() if not v.startswith("front_")}
+        shift = int(hashlib.sha256(session["id"].encode()).hexdigest(), 16) % len(CLOAK_COLOURS)
+        image, heads = compose(seating, layers, people, cache, cloaks, shift)
         target = OUT / f"{session['id']}.webp"
         image.save(target.with_suffix(".tmp.webp"), "WEBP", quality=75, method=6)
         new = target.with_suffix(".tmp.webp").read_bytes()
@@ -169,7 +202,6 @@ def main() -> int:
         else:
             target.with_suffix(".tmp.webp").replace(target)
         seats = {key: {"x": pct(x, layers["width"]), "y": pct(y, layers["height"])} for key, (x, y) in heads.items()}
-        seats.update(witness_seats)
         version = hashlib.sha256(new).hexdigest()[:8]
         rooms[session["id"]] = {"image": f"rooms/{session['id']}.webp?v={version}", "width": layers["width"],
                                 "height": layers["height"], "seats": seats, "cast": cast}

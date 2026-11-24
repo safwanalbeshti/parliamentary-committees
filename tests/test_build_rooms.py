@@ -51,6 +51,18 @@ class SpreadSeatsTests(unittest.TestCase):
         self.assertIn("n", seats)
 
 
+class WitnessChairTests(unittest.TestCase):
+    def test_centred_block_of_front_chairs(self):
+        self.assertEqual(build_rooms.witness_chairs(0), [])
+        self.assertEqual(build_rooms.witness_chairs(1), [4])
+        self.assertEqual(build_rooms.witness_chairs(2), [3, 4])
+        self.assertEqual(build_rooms.witness_chairs(3), [3, 4, 5])
+        self.assertEqual(build_rooms.witness_chairs(7), [1, 2, 3, 4, 5, 6, 7])
+
+    def test_more_than_seven_share_the_first_chairs(self):
+        self.assertEqual(build_rooms.witness_chairs(9), [1, 2, 3, 4, 5, 6, 7, 1, 2])
+
+
 class PlanTests(unittest.TestCase):
     def test_skips_when_a_speaker_has_no_snapshots(self):
         session = {"committee": "Public Accounts Committee", "cast": {
@@ -61,7 +73,8 @@ class PlanTests(unittest.TestCase):
         seating, cast = build_rooms.plan(session, MEMBERS, by_norm(), people)
         self.assertEqual(cast["Chair"], "seat_h")
         self.assertEqual(seating["h"], "2_sir-geoffrey-clifton-brown")
-        self.assertNotIn("A Witness", cast)
+        self.assertEqual(cast["A Witness"], "front_4")        # a lone witness takes the middle front chair
+        self.assertEqual(seating["front_4"], "witness")
         self.assertIsNone(build_rooms.plan(session, MEMBERS, by_norm(), {"2_sir-geoffrey-clifton-brown": {}}))
 
 

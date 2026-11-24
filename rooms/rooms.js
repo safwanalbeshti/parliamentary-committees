@@ -5,7 +5,7 @@
  */
 window.COMMITTEE_ROOMS = {
  "oral-evidence-18308": {
-  "image": "rooms/oral-evidence-18308.webp?v=77467d83",
+  "image": "rooms/oral-evidence-18308.webp?v=8796bc2f",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -37,17 +37,21 @@ window.COMMITTEE_ROOMS = {
     "x": 16.8,
     "y": 43.7
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
    },
-   "witness2": {
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   },
+   "front_2": {
     "x": 21.5,
-    "y": 69.8
+    "y": 58.5
    }
   },
   "cast": {
@@ -57,11 +61,15 @@ window.COMMITTEE_ROOMS = {
    "Mr Betts": "seat_f",
    "Al Carns": "seat_i",
    "Tristan Osborne": "seat_l",
-   "Matt Turmaine": "seat_n"
+   "Matt Turmaine": "seat_n",
+   "Samantha Jones": "front_2",
+   "Sir Jim Mackey": "front_3",
+   "Jan Thomas": "front_4",
+   "Elizabeth O’Mahony": "front_5"
   }
  },
  "oral-evidence-18309": {
-  "image": "rooms/oral-evidence-18309.webp?v=e1a27388",
+  "image": "rooms/oral-evidence-18309.webp?v=2fb69d50",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -101,17 +109,25 @@ window.COMMITTEE_ROOMS = {
     "x": 16.6,
     "y": 44.3
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_6": {
+    "x": 66.0,
+    "y": 69.7
    },
-   "witness2": {
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
+   },
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   },
+   "front_2": {
     "x": 21.5,
-    "y": 69.8
+    "y": 58.5
    }
   },
   "cast": {
@@ -123,11 +139,16 @@ window.COMMITTEE_ROOMS = {
    "Sir Jeremy Wright": "seat_i",
    "Lord Scriven": "seat_k",
    "Baroness Prentis of Banbury": "seat_l",
-   "Danny Beales": "seat_n"
+   "Danny Beales": "seat_n",
+   "Baroness Cass": "front_2",
+   "Professor Leng": "front_3",
+   "Mark Swindells": "front_4",
+   "Dr Chopra": "front_5",
+   "Andrew Smith": "front_6"
   }
  },
  "oral-evidence-18310": {
-  "image": "rooms/oral-evidence-18310.webp?v=e1a27388",
+  "image": "rooms/oral-evidence-18310.webp?v=b374358b",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -167,17 +188,25 @@ window.COMMITTEE_ROOMS = {
     "x": 16.6,
     "y": 44.3
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_6": {
+    "x": 66.0,
+    "y": 69.7
    },
-   "witness2": {
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
+   },
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   },
+   "front_2": {
     "x": 21.5,
-    "y": 69.8
+    "y": 58.5
    }
   },
   "cast": {
@@ -189,11 +218,16 @@ window.COMMITTEE_ROOMS = {
    "Sir Jeremy Wright": "seat_i",
    "Lord Scriven": "seat_k",
    "Baroness Prentis of Banbury": "seat_l",
-   "Danny Beales": "seat_n"
+   "Danny Beales": "seat_n",
+   "Baroness Cass": "front_2",
+   "Professor Leng": "front_3",
+   "Mark Swindells": "front_4",
+   "Dr Chopra": "front_5",
+   "Andrew Smith": "front_6"
   }
  },
  "oral-evidence-18311": {
-  "image": "rooms/oral-evidence-18311.webp?v=da0b9d3f",
+  "image": "rooms/oral-evidence-18311.webp?v=fb39bdd6",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -221,17 +255,17 @@ window.COMMITTEE_ROOMS = {
     "x": 15.9,
     "y": 43.6
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
    },
-   "witness2": {
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
-    "x": 21.5,
-    "y": 69.8
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
    }
   },
   "cast": {
@@ -240,11 +274,14 @@ window.COMMITTEE_ROOMS = {
    "Lord Arbuthnot of Edrom": "seat_d",
    "Catherine Atkinson": "seat_g",
    "Baroness Tyler of Enfield": "seat_k",
-   "Lord Tunnicliffe": "seat_n"
+   "Lord Tunnicliffe": "seat_n",
+   "Katie Barnes": "front_3",
+   "Dr Adam Bower": "front_4",
+   "Lee Willcox-Jones": "front_5"
   }
  },
  "oral-evidence-18312": {
-  "image": "rooms/oral-evidence-18312.webp?v=a86022c5",
+  "image": "rooms/oral-evidence-18312.webp?v=8332d07a",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -264,28 +301,31 @@ window.COMMITTEE_ROOMS = {
     "x": 16.6,
     "y": 44.2
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
    },
-   "witness2": {
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
-    "x": 21.5,
-    "y": 69.8
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
    }
   },
   "cast": {
    "Helen Maguire": "seat_h",
    "Lord Sedwill": "seat_a",
    "Lord Godson": "seat_g",
-   "Lord Watts": "seat_n"
+   "Lord Watts": "seat_n",
+   "Dr Michelle Howard": "front_3",
+   "Nathan Mathiot": "front_4",
+   "Major General Paul Tedman": "front_5"
   }
  },
  "oral-evidence-18313": {
-  "image": "rooms/oral-evidence-18313.webp?v=7e50cae4",
+  "image": "rooms/oral-evidence-18313.webp?v=d99247cc",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -301,27 +341,25 @@ window.COMMITTEE_ROOMS = {
     "x": 16.8,
     "y": 43.9
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
-   },
-   "witness2": {
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
-    "x": 21.5,
-    "y": 69.8
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
    }
   },
   "cast": {
    "Chair": "seat_h",
    "Will Stone": "seat_a",
-   "Mr Dillon": "seat_n"
+   "Mr Dillon": "seat_n",
+   "Grahame Morris": "front_3",
+   "Alison Hume": "front_4"
   }
  },
  "oral-evidence-18314": {
-  "image": "rooms/oral-evidence-18314.webp?v=722950e1",
+  "image": "rooms/oral-evidence-18314.webp?v=ce23a8a4",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -353,17 +391,17 @@ window.COMMITTEE_ROOMS = {
     "x": 15.6,
     "y": 44.0
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
    },
-   "witness2": {
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
-    "x": 21.5,
-    "y": 69.8
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
    }
   },
   "cast": {
@@ -373,11 +411,14 @@ window.COMMITTEE_ROOMS = {
    "Brian Mathew": "seat_f",
    "Dr Rushworth": "seat_i",
    "James Naish": "seat_l",
-   "Tulip Siddiq": "seat_n"
+   "Tulip Siddiq": "seat_n",
+   "Lindy Cameron": "front_3",
+   "Nick Dyer": "front_4",
+   "Tim Jones": "front_5"
   }
  },
  "oral-evidence-18315": {
-  "image": "rooms/oral-evidence-18315.webp?v=2af063ff",
+  "image": "rooms/oral-evidence-18315.webp?v=39f5b3bf",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -405,17 +446,9 @@ window.COMMITTEE_ROOMS = {
     "x": 16.5,
     "y": 43.5
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
-   },
-   "witness2": {
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
-   },
-   "witness3": {
-    "x": 21.5,
-    "y": 69.8
+    "y": 64.6
    }
   },
   "cast": {
@@ -424,11 +457,12 @@ window.COMMITTEE_ROOMS = {
    "Dave Doogan": "seat_d",
    "Mr MacDonald": "seat_g",
    "Douglas McAllister": "seat_k",
-   "Douglas Lumsden": "seat_n"
+   "Douglas Lumsden": "seat_n",
+   "Lord Mulholland": "front_4"
   }
  },
  "oral-evidence-18316": {
-  "image": "rooms/oral-evidence-18316.webp?v=cef76190",
+  "image": "rooms/oral-evidence-18316.webp?v=65373d62",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -468,17 +502,21 @@ window.COMMITTEE_ROOMS = {
     "x": 15.7,
     "y": 44.2
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
    },
-   "witness2": {
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   },
+   "front_2": {
     "x": 21.5,
-    "y": 69.8
+    "y": 58.5
    }
   },
   "cast": {
@@ -490,11 +528,15 @@ window.COMMITTEE_ROOMS = {
    "Simon Hoare": "seat_i",
    "Steve Witherden": "seat_k",
    "Ben Lake": "seat_l",
-   "Llinos Medi": "seat_n"
+   "Llinos Medi": "seat_n",
+   "Jeremy Vaughan": "front_2",
+   "Amanda Blakeman": "front_3",
+   "Ifan Charles": "front_4",
+   "Mark Hobrough": "front_5"
   }
  },
  "oral-evidence-18317": {
-  "image": "rooms/oral-evidence-18317.webp?v=b67535e2",
+  "image": "rooms/oral-evidence-18317.webp?v=4481db30",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -530,17 +572,25 @@ window.COMMITTEE_ROOMS = {
     "x": 15.7,
     "y": 43.9
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_6": {
+    "x": 66.0,
+    "y": 69.7
    },
-   "witness2": {
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
+   },
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   },
+   "front_2": {
     "x": 21.5,
-    "y": 69.8
+    "y": 58.5
    }
   },
   "cast": {
@@ -551,11 +601,16 @@ window.COMMITTEE_ROOMS = {
    "Claire Hanna": "seat_g",
    "Sir Alec Shelbrooke": "seat_j",
    "Mike Kane": "seat_l",
-   "Mr Kohler": "seat_n"
+   "Mr Kohler": "seat_n",
+   "Chris Bryant": "front_2",
+   "Sarah Owen": "front_3",
+   "Baroness Anderson": "front_4",
+   "Julie Harrison": "front_5",
+   "Fleur Johnson": "front_6"
   }
  },
  "oral-evidence-18318": {
-  "image": "rooms/oral-evidence-18318.webp?v=d3866c82",
+  "image": "rooms/oral-evidence-18318.webp?v=0bf39599",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -591,17 +646,29 @@ window.COMMITTEE_ROOMS = {
     "x": 16.2,
     "y": 43.6
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_6": {
+    "x": 66.0,
+    "y": 69.7
    },
-   "witness2": {
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
+   },
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   },
+   "front_2": {
     "x": 21.5,
-    "y": 69.8
+    "y": 58.5
+   },
+   "front_1": {
+    "x": 11.4,
+    "y": 54.8
    }
   },
   "cast": {
@@ -612,11 +679,17 @@ window.COMMITTEE_ROOMS = {
    "Henry Tufnell": "seat_g",
    "Josh Newbury": "seat_j",
    "Helena Dollimore": "seat_l",
-   "Dr Roz Savage": "seat_n"
+   "Dr Roz Savage": "seat_n",
+   "Katia Sanhueza-Pino": "front_1",
+   "Paul Tompkins": "front_2",
+   "Tracey Garrett": "front_3",
+   "Councillor Boughton": "front_4",
+   "Andrew McGill": "front_5",
+   "Phil Garrigan": "front_6"
   }
  },
  "oral-evidence-18319": {
-  "image": "rooms/oral-evidence-18319.webp?v=d3866c82",
+  "image": "rooms/oral-evidence-18319.webp?v=0bf39599",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -652,17 +725,29 @@ window.COMMITTEE_ROOMS = {
     "x": 16.2,
     "y": 43.6
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_6": {
+    "x": 66.0,
+    "y": 69.7
    },
-   "witness2": {
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
+   },
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   },
+   "front_2": {
     "x": 21.5,
-    "y": 69.8
+    "y": 58.5
+   },
+   "front_1": {
+    "x": 11.4,
+    "y": 54.8
    }
   },
   "cast": {
@@ -673,11 +758,17 @@ window.COMMITTEE_ROOMS = {
    "Henry Tufnell": "seat_g",
    "Josh Newbury": "seat_j",
    "Helena Dollimore": "seat_l",
-   "Dr Roz Savage": "seat_n"
+   "Dr Roz Savage": "seat_n",
+   "Katia Sanhueza-Pino": "front_1",
+   "Paul Tompkins": "front_2",
+   "Tracey Garrett": "front_3",
+   "Councillor Boughton": "front_4",
+   "Andrew McGill": "front_5",
+   "Phil Garrigan": "front_6"
   }
  },
  "oral-evidence-18320": {
-  "image": "rooms/oral-evidence-18320.webp?v=543ce71f",
+  "image": "rooms/oral-evidence-18320.webp?v=da4508d7",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -721,17 +812,13 @@ window.COMMITTEE_ROOMS = {
     "x": 16.4,
     "y": 43.9
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
-   },
-   "witness2": {
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
-    "x": 21.5,
-    "y": 69.8
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
    }
   },
   "cast": {
@@ -744,11 +831,13 @@ window.COMMITTEE_ROOMS = {
    "Dr Rupa Huq": "seat_j",
    "Jeff Smith": "seat_k",
    "Jo Stevens": "seat_l",
-   "Tom Rutland": "seat_n"
+   "Tom Rutland": "seat_n",
+   "Priya Dogra": "front_3",
+   "Geoff Cooper": "front_4"
   }
  },
  "oral-evidence-18321": {
-  "image": "rooms/oral-evidence-18321.webp?v=01124da9",
+  "image": "rooms/oral-evidence-18321.webp?v=0b81cf64",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -776,17 +865,33 @@ window.COMMITTEE_ROOMS = {
     "x": 16.5,
     "y": 43.9
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_6": {
+    "x": 66.0,
+    "y": 69.7
    },
-   "witness2": {
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
+   },
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   },
+   "front_2": {
     "x": 21.5,
-    "y": 69.8
+    "y": 58.5
+   },
+   "front_1": {
+    "x": 11.4,
+    "y": 54.8
+   },
+   "front_7": {
+    "x": 77.9,
+    "y": 72.6
    }
   },
   "cast": {
@@ -795,11 +900,18 @@ window.COMMITTEE_ROOMS = {
    "Mr Dillon": "seat_d",
    "Mr Brash": "seat_g",
    "Alan Strickland": "seat_k",
-   "Mr Mohindra": "seat_n"
+   "Mr Mohindra": "seat_n",
+   "Helen Dickinson": "front_1",
+   "Sacha Lord": "front_2",
+   "Caireen Wackett": "front_3",
+   "Liam Kelly": "front_4",
+   "Dan Neidle": "front_5",
+   "Aditi Sriram": "front_6",
+   "Professor Travers": "front_7"
   }
  },
  "oral-evidence-18324": {
-  "image": "rooms/oral-evidence-18324.webp?v=40970120",
+  "image": "rooms/oral-evidence-18324.webp?v=3998e280",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -831,17 +943,21 @@ window.COMMITTEE_ROOMS = {
     "x": 16.1,
     "y": 43.2
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
    },
-   "witness2": {
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   },
+   "front_2": {
     "x": 21.5,
-    "y": 69.8
+    "y": 58.5
    }
   },
   "cast": {
@@ -851,11 +967,15 @@ window.COMMITTEE_ROOMS = {
    "Sir Ashley Fox": "seat_f",
    "Rachel Taylor": "seat_i",
    "Janet Daby": "seat_l",
-   "Vikki Slade": "seat_n"
+   "Vikki Slade": "seat_n",
+   "Harriet Wistrich": "front_2",
+   "Rupert Cowper-Coles": "front_3",
+   "Verity Nevitt": "front_4",
+   "Jennifer Robinson": "front_5"
   }
  },
  "oral-evidence-18325": {
-  "image": "rooms/oral-evidence-18325.webp?v=4904818f",
+  "image": "rooms/oral-evidence-18325.webp?v=eebea1a8",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -899,17 +1019,21 @@ window.COMMITTEE_ROOMS = {
     "x": 16.4,
     "y": 43.9
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
    },
-   "witness2": {
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   },
+   "front_2": {
     "x": 21.5,
-    "y": 69.8
+    "y": 58.5
    }
   },
   "cast": {
@@ -922,11 +1046,15 @@ window.COMMITTEE_ROOMS = {
    "Lord Griffiths of Fforestfach": "seat_j",
    "Lord Davies of Brixton": "seat_k",
    "Baroness Donaghy": "seat_l",
-   "Lord Smith of Kelvin": "seat_n"
+   "Lord Smith of Kelvin": "seat_n",
+   "Lyubomira Dimitrova": "front_2",
+   "Kevin Sefton": "front_3",
+   "Vinay Anupindi": "front_4",
+   "Nick Tracey": "front_5"
   }
  },
  "oral-evidence-18326": {
-  "image": "rooms/oral-evidence-18326.webp?v=47857631",
+  "image": "rooms/oral-evidence-18326.webp?v=2fd6f6b6",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -974,17 +1102,13 @@ window.COMMITTEE_ROOMS = {
     "x": 16.4,
     "y": 43.9
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
-   },
-   "witness2": {
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
-    "x": 21.5,
-    "y": 69.8
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
    }
   },
   "cast": {
@@ -998,11 +1122,13 @@ window.COMMITTEE_ROOMS = {
    "Lord Davies of Brixton": "seat_j",
    "Lord Vaux of Harrowden": "seat_k",
    "Baroness Donaghy": "seat_m",
-   "Lord Smith of Kelvin": "seat_n"
+   "Lord Smith of Kelvin": "seat_n",
+   "Benjamin Cave": "front_3",
+   "Desmond McNamara": "front_4"
   }
  },
  "oral-evidence-18327": {
-  "image": "rooms/oral-evidence-18327.webp?v=887552a2",
+  "image": "rooms/oral-evidence-18327.webp?v=6d1d7c08",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -1046,17 +1172,17 @@ window.COMMITTEE_ROOMS = {
     "x": 16.2,
     "y": 43.8
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
    },
-   "witness2": {
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
-    "x": 21.5,
-    "y": 69.8
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
    }
   },
   "cast": {
@@ -1069,11 +1195,14 @@ window.COMMITTEE_ROOMS = {
    "Baroness Griffin of Princethorpe": "seat_j",
    "Lord Ravensdale": "seat_k",
    "Lord Cameron of Dillington": "seat_l",
-   "Lord Bassam of Brighton": "seat_n"
+   "Lord Bassam of Brighton": "seat_n",
+   "Mark Webb": "front_3",
+   "Rosie Apperley": "front_4",
+   "Dr Joseph Owen": "front_5"
   }
  },
  "oral-evidence-18328": {
-  "image": "rooms/oral-evidence-18328.webp?v=62af2438",
+  "image": "rooms/oral-evidence-18328.webp?v=e1fdad3c",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -1109,17 +1238,17 @@ window.COMMITTEE_ROOMS = {
     "x": 16.6,
     "y": 43.8
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
    },
-   "witness2": {
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
-    "x": 21.5,
-    "y": 69.8
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
    }
   },
   "cast": {
@@ -1130,11 +1259,14 @@ window.COMMITTEE_ROOMS = {
    "Preet Kaur Gill": "seat_g",
    "Ben Maguire": "seat_j",
    "Mr Kohler": "seat_l",
-   "Bell Ribeiro-Addy": "seat_n"
+   "Bell Ribeiro-Addy": "seat_n",
+   "Sarah Jones": "front_3",
+   "David Grahame": "front_4",
+   "Rod McLean": "front_5"
   }
  },
  "oral-evidence-18329": {
-  "image": "rooms/oral-evidence-18329.webp?v=1fd25cf3",
+  "image": "rooms/oral-evidence-18329.webp?v=961e9231",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -1174,17 +1306,21 @@ window.COMMITTEE_ROOMS = {
     "x": 16.3,
     "y": 44.0
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
    },
-   "witness2": {
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   },
+   "front_2": {
     "x": 21.5,
-    "y": 69.8
+    "y": 58.5
    }
   },
   "cast": {
@@ -1196,11 +1332,15 @@ window.COMMITTEE_ROOMS = {
    "Naz Shah": "seat_i",
    "Olivia Bailey": "seat_k",
    "Baroness Brown of Silvertown": "seat_l",
-   "Marie Goldman": "seat_n"
+   "Marie Goldman": "seat_n",
+   "Sarah Branson": "front_2",
+   "Des Johnson": "front_3",
+   "Matilda Gosling": "front_4",
+   "Shabana Jaffar": "front_5"
   }
  },
  "oral-evidence-18330": {
-  "image": "rooms/oral-evidence-18330.webp?v=f5e741c0",
+  "image": "rooms/oral-evidence-18330.webp?v=6a8d74f0",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -1228,17 +1368,13 @@ window.COMMITTEE_ROOMS = {
     "x": 16.0,
     "y": 42.6
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
-   },
-   "witness2": {
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
-    "x": 21.5,
-    "y": 69.8
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
    }
   },
   "cast": {
@@ -1247,11 +1383,13 @@ window.COMMITTEE_ROOMS = {
    "Liz Twist": "seat_d",
    "Andrew Pakes": "seat_g",
    "Steve Darling": "seat_k",
-   "Neil Duncan-Jordan": "seat_n"
+   "Neil Duncan-Jordan": "seat_n",
+   "Professor Finn": "front_3",
+   "Dr Paxton": "front_4"
   }
  },
  "oral-evidence-18331": {
-  "image": "rooms/oral-evidence-18331.webp?v=38038e0c",
+  "image": "rooms/oral-evidence-18331.webp?v=38a7f679",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -1279,17 +1417,33 @@ window.COMMITTEE_ROOMS = {
     "x": 16.6,
     "y": 44.1
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_6": {
+    "x": 66.0,
+    "y": 69.7
    },
-   "witness2": {
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
+   },
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   },
+   "front_2": {
     "x": 21.5,
-    "y": 69.8
+    "y": 58.5
+   },
+   "front_1": {
+    "x": 11.4,
+    "y": 54.8
+   },
+   "front_7": {
+    "x": 77.9,
+    "y": 72.6
    }
   },
   "cast": {
@@ -1298,11 +1452,19 @@ window.COMMITTEE_ROOMS = {
    "Claire Young": "seat_d",
    "Graeme Downie": "seat_g",
    "Torcuil Crichton": "seat_k",
-   "Melanie Onn": "seat_n"
+   "Melanie Onn": "seat_n",
+   "Dr Barrett": "front_1",
+   "Alex Belsham-Harris": "front_2",
+   "Nye Jones": "front_3",
+   "Ed Dodman": "front_4",
+   "Neil Kenward": "front_5",
+   "Martin McCluskey": "front_6",
+   "David Thomas": "front_7",
+   "Ben Golding": "front_1"
   }
  },
  "oral-evidence-18332": {
-  "image": "rooms/oral-evidence-18332.webp?v=38038e0c",
+  "image": "rooms/oral-evidence-18332.webp?v=38a7f679",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -1330,17 +1492,33 @@ window.COMMITTEE_ROOMS = {
     "x": 16.6,
     "y": 44.1
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_6": {
+    "x": 66.0,
+    "y": 69.7
    },
-   "witness2": {
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
+   },
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   },
+   "front_2": {
     "x": 21.5,
-    "y": 69.8
+    "y": 58.5
+   },
+   "front_1": {
+    "x": 11.4,
+    "y": 54.8
+   },
+   "front_7": {
+    "x": 77.9,
+    "y": 72.6
    }
   },
   "cast": {
@@ -1349,11 +1527,19 @@ window.COMMITTEE_ROOMS = {
    "Claire Young": "seat_d",
    "Graeme Downie": "seat_g",
    "Torcuil Crichton": "seat_k",
-   "Melanie Onn": "seat_n"
+   "Melanie Onn": "seat_n",
+   "Dr Barrett": "front_1",
+   "Alex Belsham-Harris": "front_2",
+   "Nye Jones": "front_3",
+   "Ed Dodman": "front_4",
+   "Neil Kenward": "front_5",
+   "Martin McCluskey": "front_6",
+   "David Thomas": "front_7",
+   "Ben Golding": "front_1"
   }
  },
  "oral-evidence-18333": {
-  "image": "rooms/oral-evidence-18333.webp?v=38038e0c",
+  "image": "rooms/oral-evidence-18333.webp?v=38a7f679",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -1381,17 +1567,33 @@ window.COMMITTEE_ROOMS = {
     "x": 16.6,
     "y": 44.1
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_6": {
+    "x": 66.0,
+    "y": 69.7
    },
-   "witness2": {
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
+   },
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   },
+   "front_2": {
     "x": 21.5,
-    "y": 69.8
+    "y": 58.5
+   },
+   "front_1": {
+    "x": 11.4,
+    "y": 54.8
+   },
+   "front_7": {
+    "x": 77.9,
+    "y": 72.6
    }
   },
   "cast": {
@@ -1400,11 +1602,19 @@ window.COMMITTEE_ROOMS = {
    "Claire Young": "seat_d",
    "Graeme Downie": "seat_g",
    "Torcuil Crichton": "seat_k",
-   "Melanie Onn": "seat_n"
+   "Melanie Onn": "seat_n",
+   "Dr Barrett": "front_1",
+   "Alex Belsham-Harris": "front_2",
+   "Nye Jones": "front_3",
+   "Ed Dodman": "front_4",
+   "Neil Kenward": "front_5",
+   "Martin McCluskey": "front_6",
+   "David Thomas": "front_7",
+   "Ben Golding": "front_1"
   }
  },
  "oral-evidence-18334": {
-  "image": "rooms/oral-evidence-18334.webp?v=5a23d6cd",
+  "image": "rooms/oral-evidence-18334.webp?v=2cb56528",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -1432,17 +1642,33 @@ window.COMMITTEE_ROOMS = {
     "x": 16.7,
     "y": 43.5
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_6": {
+    "x": 66.0,
+    "y": 69.7
    },
-   "witness2": {
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
+   },
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   },
+   "front_2": {
     "x": 21.5,
-    "y": 69.8
+    "y": 58.5
+   },
+   "front_1": {
+    "x": 11.4,
+    "y": 54.8
+   },
+   "front_7": {
+    "x": 77.9,
+    "y": 72.6
    }
   },
   "cast": {
@@ -1451,11 +1677,18 @@ window.COMMITTEE_ROOMS = {
    "Andrew Cooper": "seat_d",
    "Danny Beales": "seat_g",
    "Sadik Al-Hassan": "seat_k",
-   "Ben Coleman": "seat_n"
+   "Ben Coleman": "seat_n",
+   "Alex Bax": "front_1",
+   "Peter Moore": "front_2",
+   "Edward Redshaw": "front_3",
+   "Alison McGovern": "front_4",
+   "Natasha Burgon": "front_5",
+   "Catherine Bennion": "front_6",
+   "Lesley Watts": "front_7"
   }
  },
  "oral-evidence-18335": {
-  "image": "rooms/oral-evidence-18335.webp?v=4d3a376a",
+  "image": "rooms/oral-evidence-18335.webp?v=a7b614b1",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -1499,17 +1732,13 @@ window.COMMITTEE_ROOMS = {
     "x": 15.9,
     "y": 43.4
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
-   },
-   "witness2": {
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
-    "x": 21.5,
-    "y": 69.8
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
    }
   },
   "cast": {
@@ -1522,11 +1751,13 @@ window.COMMITTEE_ROOMS = {
    "Lord Anderson of Swansea": "seat_j",
    "Baroness Lawlor": "seat_k",
    "Baroness Anelay of St Johns": "seat_l",
-   "Lord McDonald of Salford": "seat_n"
+   "Lord McDonald of Salford": "seat_n",
+   "Sir Sebastian Wood": "front_3",
+   "Professor Kerry Brown": "front_4"
   }
  },
  "oral-evidence-18336": {
-  "image": "rooms/oral-evidence-18336.webp?v=0563d18e",
+  "image": "rooms/oral-evidence-18336.webp?v=dcd8338c",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -1546,28 +1777,36 @@ window.COMMITTEE_ROOMS = {
     "x": 16.6,
     "y": 43.7
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
    },
-   "witness2": {
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   },
+   "front_2": {
     "x": 21.5,
-    "y": 69.8
+    "y": 58.5
    }
   },
   "cast": {
    "Chair": "seat_h",
    "Freddie van Mierlo": "seat_a",
    "Daniel Zeichner": "seat_g",
-   "Emily Darlington": "seat_n"
+   "Emily Darlington": "seat_n",
+   "Professor Butterworth": "front_2",
+   "Dr Williams": "front_3",
+   "Professor Heymans": "front_4",
+   "Professor Efstathiou": "front_5"
   }
  },
  "oral-evidence-18337": {
-  "image": "rooms/oral-evidence-18337.webp?v=d6ccb1cf",
+  "image": "rooms/oral-evidence-18337.webp?v=ecb208e2",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -1599,17 +1838,33 @@ window.COMMITTEE_ROOMS = {
     "x": 16.6,
     "y": 43.7
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_6": {
+    "x": 66.0,
+    "y": 69.7
    },
-   "witness2": {
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
+   },
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   },
+   "front_2": {
     "x": 21.5,
-    "y": 69.8
+    "y": 58.5
+   },
+   "front_1": {
+    "x": 11.4,
+    "y": 54.8
+   },
+   "front_7": {
+    "x": 77.9,
+    "y": 72.6
    }
   },
   "cast": {
@@ -1619,11 +1874,19 @@ window.COMMITTEE_ROOMS = {
    "Freddie van Mierlo": "seat_f",
    "Tom Collins": "seat_i",
    "Martin Wrigley": "seat_l",
-   "Josh Fenton-Glynn": "seat_n"
+   "Josh Fenton-Glynn": "seat_n",
+   "Dr Rous": "front_1",
+   "Sarah Stevens": "front_2",
+   "Dr Woods": "front_3",
+   "Professor Lyratzopoulos": "front_4",
+   "Dr Smith-Byrne": "front_5",
+   "Professor Coleman": "front_6",
+   "Professor Riboli": "front_7",
+   "Professor Garcia-Closas": "front_1"
   }
  },
  "oral-evidence-18338": {
-  "image": "rooms/oral-evidence-18338.webp?v=d6ccb1cf",
+  "image": "rooms/oral-evidence-18338.webp?v=1de077e8",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -1655,17 +1918,33 @@ window.COMMITTEE_ROOMS = {
     "x": 16.6,
     "y": 43.7
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_6": {
+    "x": 66.0,
+    "y": 69.7
    },
-   "witness2": {
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
+   },
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   },
+   "front_2": {
     "x": 21.5,
-    "y": 69.8
+    "y": 58.5
+   },
+   "front_1": {
+    "x": 11.4,
+    "y": 54.8
+   },
+   "front_7": {
+    "x": 77.9,
+    "y": 72.6
    }
   },
   "cast": {
@@ -1675,11 +1954,19 @@ window.COMMITTEE_ROOMS = {
    "Freddie van Mierlo": "seat_f",
    "Tom Collins": "seat_i",
    "Martin Wrigley": "seat_l",
-   "Josh Fenton-Glynn": "seat_n"
+   "Josh Fenton-Glynn": "seat_n",
+   "Dr Rous": "front_1",
+   "Sarah Stevens": "front_2",
+   "Dr Woods": "front_3",
+   "Professor Lyratzopoulos": "front_4",
+   "Dr Smith-Byrne": "front_5",
+   "Professor Coleman": "front_6",
+   "Professor Riboli": "front_7",
+   "Professor Garcia-Closas": "front_1"
   }
  },
  "oral-evidence-18339": {
-  "image": "rooms/oral-evidence-18339.webp?v=b1dafbf1",
+  "image": "rooms/oral-evidence-18339.webp?v=6d0d5bb7",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -1711,17 +1998,17 @@ window.COMMITTEE_ROOMS = {
     "x": 16.1,
     "y": 43.5
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
    },
-   "witness2": {
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
-    "x": 21.5,
-    "y": 69.8
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
    }
   },
   "cast": {
@@ -1731,11 +2018,14 @@ window.COMMITTEE_ROOMS = {
    "Dr Roz Savage": "seat_f",
    "John Whitby": "seat_i",
    "Chris Hinchliff": "seat_l",
-   "Manuela Perteghella": "seat_n"
+   "Manuela Perteghella": "seat_n",
+   "Baroness Brown of Cambridge": "front_3",
+   "Dr Richardson": "front_4",
+   "Florence Bates": "front_5"
   }
  },
  "oral-evidence-18340": {
-  "image": "rooms/oral-evidence-18340.webp?v=3ded046f",
+  "image": "rooms/oral-evidence-18340.webp?v=67d431ed",
   "width": 1689,
   "height": 931,
   "seats": {
@@ -1767,17 +2057,17 @@ window.COMMITTEE_ROOMS = {
     "x": 16.2,
     "y": 43.7
    },
-   "witness1": {
-    "x": 32.1,
-    "y": 72.9
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
    },
-   "witness2": {
+   "front_4": {
     "x": 43.2,
-    "y": 75.9
+    "y": 64.6
    },
-   "witness3": {
-    "x": 21.5,
-    "y": 69.8
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
    }
   },
   "cast": {
@@ -1787,7 +2077,10 @@ window.COMMITTEE_ROOMS = {
    "John Whitby": "seat_f",
    "Manuela Perteghella": "seat_i",
    "Chris Hinchliff": "seat_l",
-   "Martin Rhodes": "seat_n"
+   "Martin Rhodes": "seat_n",
+   "Councillor Fodor": "front_3",
+   "Phil Garrigan": "front_4",
+   "Dr Kochhar": "front_5"
   }
  }
 };
