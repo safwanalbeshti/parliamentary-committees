@@ -237,6 +237,7 @@ const EXAMPLE_COMMENTS = [
 
 let commentLinkOn = true;
 const evidenceCache = new Map();
+const roomLoads = new Map(); // room picture url -> { ready, promise } (see preloadRoom)
 // Off whenever the page loads; the reader switches it on when they want it.
 let evidenceOpen = false;
 let evidenceState = null; // { sessionId, paragraphs, perTurn, marked }
@@ -705,6 +706,7 @@ function sessionBlock(item) {
 
   block.append(title, when, go);
   block.addEventListener("click", () => enterSession(item.id));
+  preloadOnIntent(block, item);
   return block;
 }
 
@@ -864,6 +866,71 @@ function findSession(id) {
   return sessions.find((item) => item.id === id) || null;
 }
 
+/* ---------- room pictures ---------- */
+
+// Each session has its own room picture (~250 KB). They are fetched ahead of time where we can guess the next one
+// (hovering or pressing a session link, the other sessions of the same meeting), and a new picture is only swapped
+// in once it has fully loaded, so the names never sit on the previous session's room.
+function preloadRoom(url) {
+  if (!url) return Promise.resolve();
+  let entry = roomLoads.get(url);
+  if (!entry) {
+    const img = new Image();
+    img.decoding = "async";
+    img.src = url;
+    entry = { ready: false, promise: null };
+    entry.promise = img
+      .decode()
+      .catch(() => {}) // a failed fetch still swaps, so the page never gets stuck on the old room
+      .then(() => {
+        entry.ready = true;
+      });
+    roomLoads.set(url, entry);
+  }
+  return entry.promise;
+}
+
+function roomAlt(room) {
+  return room.rendered
+    ? "Illustration of the committee room with this session's committee members seated around the curved table, and the witness chairs in front."
+    : "Illustration of a parliamentary committee room: committee members seated around a curved table, facing witnesses at a table opposite.";
+}
+
+function showRoom(room) {
+  const url = room.image;
+  const swap = () => {
+    el.roomImage.src = url;
+    el.roomImage.alt = roomAlt(room);
+    el.stage.classList.remove("room-loading");
+  };
+  const entry = roomLoads.get(url);
+  if (entry && entry.ready) {
+    swap();
+    return;
+  }
+  el.stage.classList.add("room-loading");
+  el.stage.dataset.loadingRoom = url;
+  preloadRoom(url).then(() => {
+    if (el.stage.dataset.loadingRoom === url) swap(); // skip if another session was opened meanwhile
+  });
+}
+
+function preloadSiblingRooms() {
+  const later = window.requestIdleCallback || ((fn) => setTimeout(fn, 400));
+  later(() => {
+    for (const item of meetingSessionsFor(session)) {
+      if (item.room && item.room.image) preloadRoom(item.room.image);
+    }
+  });
+}
+
+function preloadOnIntent(element, item) {
+  const go = () => item.room && item.room.image && preloadRoom(item.room.image);
+  element.addEventListener("pointerenter", go, { once: true });
+  element.addEventListener("pointerdown", go, { once: true });
+  element.addEventListener("focus", go, { once: true });
+}
+
 /* ---------- session loading ---------- */
 
 function selectSession(id) {
@@ -877,11 +944,11 @@ function selectSession(id) {
 
   const room = session.room || {};
   if (room.image && el.roomImage.getAttribute("src") !== room.image) {
-    el.roomImage.src = room.image;
-    el.roomImage.alt = room.rendered
-      ? "Illustration of the committee room with this session's committee members seated around the curved table, and the witness chairs in front."
-      : "Illustration of a parliamentary committee room: committee members seated around a curved table, facing witnesses at a table opposite.";
+    showRoom(room);
+  } else if (!room.image) {
+    el.stage.classList.remove("room-loading");
   }
+  preloadSiblingRooms();
   if (room.width && room.height) {
     el.stage.style.aspectRatio = `${room.width} / ${room.height}`;
   }
