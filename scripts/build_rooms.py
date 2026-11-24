@@ -162,7 +162,7 @@ def main() -> int:
         seating, cast = planned
         image, heads = compose(seating, layers, people, cache)
         target = OUT / f"{session['id']}.webp"
-        image.save(target.with_suffix(".tmp.webp"), "WEBP", quality=86, method=6)
+        image.save(target.with_suffix(".tmp.webp"), "WEBP", quality=75, method=6)
         new = target.with_suffix(".tmp.webp").read_bytes()
         if target.exists() and target.read_bytes() == new:
             target.with_suffix(".tmp.webp").unlink()

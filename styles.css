@@ -217,6 +217,20 @@ h1 {
   height: 100%;
   object-fit: cover;
   display: block;
+  transition: opacity 220ms ease;
+}
+
+/* While a session's own room picture is still loading: fade the previous room and hide the speaker's name and
+   spotlight, so they never appear over the wrong room. The new room fades back in once it has loaded. */
+.stage.room-loading .room-image {
+  opacity: 0.25;
+  transition-duration: 120ms;
+}
+
+.stage.room-loading .room-dim,
+.stage.room-loading .spotlight,
+.stage.room-loading .seat-nameplate {
+  visibility: hidden;
 }
 
 /* Dims the whole room except a soft ellipse around the active speaker. */
