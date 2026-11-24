@@ -189,6 +189,17 @@ const el = {
 
 const sessions = Array.isArray(window.COMMITTEE_SESSIONS) ? window.COMMITTEE_SESSIONS : [];
 
+// Sessions with a rendered room (their own members seated, see rooms/rooms.js) use it instead of the generic
+// illustration: swap in its image and seat positions, and move each member onto their seat in it.
+for (const item of sessions) {
+  const room = (window.COMMITTEE_ROOMS || {})[item.id];
+  if (!room) continue;
+  item.room = { image: room.image, width: room.width, height: room.height, seats: room.seats, rendered: true };
+  for (const [key, seat] of Object.entries(room.cast || {})) {
+    if (item.cast && item.cast[key]) item.cast[key] = { ...item.cast[key], seats: [seat] };
+  }
+}
+
 const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
 const compactLayout = window.matchMedia("(max-width: 720px)");
 
@@ -867,6 +878,9 @@ function selectSession(id) {
   const room = session.room || {};
   if (room.image && el.roomImage.getAttribute("src") !== room.image) {
     el.roomImage.src = room.image;
+    el.roomImage.alt = room.rendered
+      ? "Illustration of the committee room with this session's committee members seated around the curved table, and the witness chairs in front."
+      : "Illustration of a parliamentary committee room: committee members seated around a curved table, facing witnesses at a table opposite.";
   }
   if (room.width && room.height) {
     el.stage.style.aspectRatio = `${room.width} / ${room.height}`;

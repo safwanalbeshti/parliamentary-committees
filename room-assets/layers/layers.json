@@ -1,0 +1,224 @@
+{
+ "width": 1689,
+ "height": 931,
+ "layers": [
+  {
+   "kind": "image",
+   "name": "Background",
+   "file": "background.jpg",
+   "x": 0,
+   "y": 0,
+   "w": 1689,
+   "h": 931
+  },
+  {
+   "kind": "seat",
+   "seat": "j"
+  },
+  {
+   "kind": "image",
+   "name": "Seat J Armrest",
+   "file": "seat-j-armrest.png",
+   "x": 1454,
+   "y": 443,
+   "w": 68,
+   "h": 51
+  },
+  {
+   "kind": "seat",
+   "seat": "k"
+  },
+  {
+   "kind": "image",
+   "name": "Seat K Armrest",
+   "file": "seat-k-armrest.png",
+   "x": 1469,
+   "y": 493,
+   "w": 86,
+   "h": 61
+  },
+  {
+   "kind": "image",
+   "name": "right Curved Desk",
+   "file": "right-curved-desk.png",
+   "x": 13,
+   "y": 320,
+   "w": 1460,
+   "h": 533
+  },
+  {
+   "kind": "seat",
+   "seat": "l"
+  },
+  {
+   "kind": "image",
+   "name": "Seat L Armrest",
+   "file": "seat-l-armrest.png",
+   "x": 1449,
+   "y": 550,
+   "w": 102,
+   "h": 61
+  },
+  {
+   "kind": "seat",
+   "seat": "m"
+  },
+  {
+   "kind": "image",
+   "name": "Seat M Armrest",
+   "file": "seat-m-armrest.png",
+   "x": 1438,
+   "y": 592,
+   "w": 104,
+   "h": 68
+  },
+  {
+   "kind": "seat",
+   "seat": "n"
+  },
+  {
+   "kind": "image",
+   "name": "Seat N Armrest",
+   "file": "seat-n-armrest.png",
+   "x": 1389,
+   "y": 657,
+   "w": 148,
+   "h": 87
+  },
+  {
+   "kind": "seat",
+   "seat": "i"
+  },
+  {
+   "kind": "seat",
+   "seat": "h"
+  },
+  {
+   "kind": "seat",
+   "seat": "g"
+  },
+  {
+   "kind": "seat",
+   "seat": "f"
+  },
+  {
+   "kind": "seat",
+   "seat": "e"
+  },
+  {
+   "kind": "image",
+   "name": "Seat D Armrest",
+   "file": "seat-d-armrest.png",
+   "x": 543,
+   "y": 400,
+   "w": 38,
+   "h": 19
+  },
+  {
+   "kind": "seat",
+   "seat": "d"
+  },
+  {
+   "kind": "image",
+   "name": "Seat C Armrest",
+   "file": "seat-c-armrest.png",
+   "x": 445,
+   "y": 435,
+   "w": 46,
+   "h": 19
+  },
+  {
+   "kind": "seat",
+   "seat": "c"
+  },
+  {
+   "kind": "seat",
+   "seat": "b"
+  },
+  {
+   "kind": "image",
+   "name": "Seat B Armrest",
+   "file": "seat-b-armrest.png",
+   "x": 332,
+   "y": 470,
+   "w": 54,
+   "h": 31
+  },
+  {
+   "kind": "seat",
+   "seat": "a"
+  },
+  {
+   "kind": "image",
+   "name": "Seat A Armrest",
+   "file": "seat-a-armrest.png",
+   "x": 203,
+   "y": 521,
+   "w": 57,
+   "h": 21
+  },
+  {
+   "kind": "image",
+   "name": "left Curved Desk",
+   "file": "left-curved-desk.png",
+   "x": 33,
+   "y": 320,
+   "w": 1440,
+   "h": 493
+  },
+  {
+   "kind": "image",
+   "name": "Seat 6",
+   "file": "seat-6.png",
+   "x": 1020,
+   "y": 714,
+   "w": 191,
+   "h": 217
+  },
+  {
+   "kind": "image",
+   "name": "Seat 5",
+   "file": "seat-5.png",
+   "x": 824,
+   "y": 696,
+   "w": 193,
+   "h": 235
+  },
+  {
+   "kind": "image",
+   "name": "Seat 4",
+   "file": "seat-4.png",
+   "x": 631,
+   "y": 672,
+   "w": 197,
+   "h": 250
+  },
+  {
+   "kind": "image",
+   "name": "Seat 3",
+   "file": "seat-3.png",
+   "x": 445,
+   "y": 643,
+   "w": 196,
+   "h": 252
+  },
+  {
+   "kind": "image",
+   "name": "Seat 2",
+   "file": "seat-2.png",
+   "x": 269,
+   "y": 615,
+   "w": 187,
+   "h": 250
+  },
+  {
+   "kind": "image",
+   "name": "Seat 1",
+   "file": "seat-1.png",
+   "x": 100,
+   "y": 579,
+   "w": 183,
+   "h": 251
+  }
+ ]
+}

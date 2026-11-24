@@ -15,6 +15,8 @@ on:
       - "sessions/**"
       - "assets/**"
       - "Energy Resilience/**"
+      - "rooms/**"
+      - "room-assets/**"
   workflow_dispatch:
 
 concurrency:
@@ -44,6 +46,11 @@ jobs:
           python3 -m unittest discover -s tests -v
           python3 scripts/parliament_pipeline.py build
 
+      - name: Build committee rooms
+        run: |
+          python3 -m pip install --quiet "pillow==11.*"
+          python3 scripts/build_rooms.py
+
       - name: Commit generated sessions
         run: |
           git config user.name "parliament-transcript-bot"
@@ -52,6 +59,7 @@ jobs:
           if [ -d sessions/generated ]; then
             git add sessions/generated
           fi
+          git add rooms
           if git diff --cached --quiet; then
             echo "Generated website files are already current."
           else
@@ -68,7 +76,7 @@ jobs:
         run: |
           mkdir -p _site
           cp index.html app.js styles.css NOTICE.md _site/
-          cp -R sessions assets "Energy Resilience" _site/
+          cp -R sessions assets "Energy Resilience" rooms _site/
           touch _site/.nojekyll
 
       - name: Configure GitHub Pages
