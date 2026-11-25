@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "batch_id": "batch_6b0671bc3ed08190a3a71efbe0cd617d",
+    "input_file_id": "file-F4L676EWVtY43UdPh83Zwy",
+    "model": "gpt-6-sol",
+    "submitted_at": "2026-11-25T05:27:24+00:00",
+    "items": [
+      {
+        "custom_id": "18341",
+        "packets": [
+          "18341"
+        ],
+        "source_sha256": "356fc49b72968afddba7ea60d8e8a381418b3a69e52111a7ce5cf58385f2e5c6"
+      },
+      {
+        "custom_id": "18342",
+        "packets": [
+          "18342"
+        ],
+        "source_sha256": "bf47ba649c57f13a75453c553d70635c096bc99906986769ddd3566d6ddcad34"
+      },
+      {
+        "custom_id": "18343",
+        "packets": [
+          "18343"
+        ],
+        "source_sha256": "78546607807635eec022c15ad073287c086e86fb4da82eb822c92196b5ae9758"
+      },
+      {
+        "custom_id": "18344",
+        "packets": [
+          "18344"
+        ],
+        "source_sha256": "db4b52a569e1942ae8dbd6efd8d90493948febfe2322e4ae18478f00a2269047"
+      },
+      {
+        "custom_id": "18345",
+        "packets": [
+          "18345"
+        ],
+        "source_sha256": "61aab2552cb0b28f9df3bad6f5de1cf0cac1b3bb24e493e451bc19cd7b912545"
+      },
+      {
+        "custom_id": "18346",
+        "packets": [
+          "18346",
+          "18347"
+        ],
+        "source_sha256": "73e66231caed8f3b83be19a39f0ef6e0a8aa7ebab0442717681dceedf2178299"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18345,
+  "activity_id": 38681,
+  "document_id": 315666,
+  "meeting_date": "2026-11-18",
+  "meeting_date_display": "18 November 2026",
+  "publication_date": "2026-11-24T11:55:44",
+  "title": "Children’s social care",
+  "committee": "Public Services Committee",
+  "committees": [
+    {
+      "id": 430,
+      "name": "Public Services Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10001,
+      "title": "Children’s social care",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Chair",
+      "organisation": "Children's Services Development Group (CSDG)"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "CEO",
+      "organisation": "The Children's Homes Association"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Andrew Isaac",
+    "Dr Mark Kerr",
+    "Baroness Shawcross-Wolfson",
+    "Baroness Nichols of Selby",
+    "Baroness Redfern",
+    "Lord Faulkner of Worcester",
+    "Baroness Watkins of Tavistock",
+    "Lord Mott",
+    "Lord Barber of Chittlehampton",
+    "Lord Johnson of Marylebone",
+    "If you put all these things together, the prognosis is",
+    "Baroness Hollins",
+    "Lord Mohammed of Tinsley"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18345/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18345",
+  "source_sha256": "61aab2552cb0b28f9df3bad6f5de1cf0cac1b3bb24e493e451bc19cd7b912545",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18342,
+  "activity_id": 39588,
+  "document_id": 315641,
+  "meeting_date": "2026-11-18",
+  "meeting_date_display": "18 November 2026",
+  "publication_date": "2026-11-24T10:49:02",
+  "title": "Road Safety Strategy",
+  "committee": "Transport Committee",
+  "committees": [
+    {
+      "id": 153,
+      "name": "Transport Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9563,
+      "title": "Road Safety Strategy",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Chief Engineer in Test Services",
+      "organisation": "HORIBA MIRA"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Head of Safe Autonomy",
+      "organisation": "Warwick Manufacturing Group, University of Warwick"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Academy Director",
+      "organisation": "Transport Research Laboratory"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Chair",
+      "organisation": "TyreSafe"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Professor Khastgir",
+    "Professor Cuerden",
+    "Stuart Lovett",
+    "Ashley Patton",
+    "Joe Morris",
+    "Dr Arthur",
+    "Alex Mayer",
+    "Jacob Collier",
+    "Samantha Dixon",
+    "The public do not understand these systems"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18342/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18342",
+  "source_sha256": "bf47ba649c57f13a75453c553d70635c096bc99906986769ddd3566d6ddcad34",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

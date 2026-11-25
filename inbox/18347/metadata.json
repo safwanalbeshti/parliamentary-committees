@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18347,
+  "activity_id": 39680,
+  "document_id": 315731,
+  "meeting_date": "2026-11-23",
+  "meeting_date_display": "23 November 2026",
+  "publication_date": "2026-11-24T16:23:30",
+  "title": "Draft Conversion Practices Bill",
+  "committee": "Draft Conversion Practices Bill (Joint Committee)",
+  "committees": [
+    {
+      "id": 851,
+      "name": "Draft Conversion Practices Bill (Joint Committee)",
+      "house": "Joint"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10049,
+      "title": "Draft Conversion Practices Bill",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Simita Kumar MSP",
+      "role": "Minister for Equalities and International Development",
+      "organisation": "Scottish Government"
+    },
+    {
+      "name": "Sioned Williams MS",
+      "role": "Deputy First Minister and Cabinet Minister for Social Justice and Equality",
+      "organisation": "Welsh Government"
+    },
+    {
+      "name": "Gordon Lyons MLA",
+      "role": "Minister for Communities",
+      "organisation": "Northern Irish Government"
+    },
+    {
+      "name": "Kevin McGowan",
+      "role": "Unit Head, Equality Division",
+      "organisation": "Scottish Government"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Andrew Thomas",
+    "Tom Guest",
+    "Baroness Brown of Silvertown",
+    "Baroness Prentis of Banbury",
+    "Lord Isaac",
+    "On your point about maximum penalty, it is exactly that",
+    "Sir Jeremy Wright",
+    "Baroness Browning",
+    "Danny Beales",
+    "Naz Shah",
+    "On what I said about different sources of evidence, the same applies here",
+    "Marie Goldman",
+    "Sioned Williams",
+    "Gordon Lyons",
+    "Simita Kumar",
+    "I echo what my Welsh and Northern Irish colleagues said",
+    "My simple question is this"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18347/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18347",
+  "source_sha256": "73e66231caed8f3b83be19a39f0ef6e0a8aa7ebab0442717681dceedf2178299",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

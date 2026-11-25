@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18346,
+  "activity_id": 39679,
+  "document_id": 315730,
+  "meeting_date": "2026-11-23",
+  "meeting_date_display": "23 November 2026",
+  "publication_date": "2026-11-24T16:22:41",
+  "title": "Draft Conversion Practices Bill",
+  "committee": "Draft Conversion Practices Bill (Joint Committee)",
+  "committees": [
+    {
+      "id": 851,
+      "name": "Draft Conversion Practices Bill (Joint Committee)",
+      "house": "Joint"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10049,
+      "title": "Draft Conversion Practices Bill",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Tom Guest",
+      "role": "Deputy Director for Legal Policy",
+      "organisation": "Crown Prosecution Service"
+    },
+    {
+      "name": "Andrew Thomas KC",
+      "role": "Chair",
+      "organisation": "Criminal Bar Association"
+    }
+  ],
+  "speaker_candidates": [
+    "II",
+    "Chair",
+    "Andrew Thomas",
+    "Tom Guest",
+    "Baroness Brown of Silvertown",
+    "Baroness Prentis of Banbury",
+    "Lord Isaac",
+    "On your point about maximum penalty, it is exactly that",
+    "Sir Jeremy Wright",
+    "Baroness Browning",
+    "Danny Beales",
+    "Naz Shah",
+    "On what I said about different sources of evidence, the same applies here",
+    "Marie Goldman",
+    "Sioned Williams",
+    "Gordon Lyons",
+    "Simita Kumar",
+    "I echo what my Welsh and Northern Irish colleagues said",
+    "My simple question is this"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18346/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18346",
+  "source_sha256": "73e66231caed8f3b83be19a39f0ef6e0a8aa7ebab0442717681dceedf2178299",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}
