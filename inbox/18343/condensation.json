@@ -1,0 +1,616 @@
+{
+  "schema_version": 1,
+  "source_id": 18343,
+  "source_sha256": "78546607807635eec022c15ad073287c086e86fb4da82eb822c92196b5ae9758",
+  "title": "Road safety: a strategy, but will it save lives?",
+  "label": "18 November 2026 · Bereaved families on road safety",
+  "summary": "Four campaigners whose families were harmed in road crashes welcomed the new road safety strategy but questioned whether it could meet its targets without funding, faster action and stronger protections for new drivers. They also called for better road maintenance, investigations that lead to change, consistent speed limits and support for bereaved families.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Ruth Cadbury",
+      "role": "Chair of the Transport Committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Nicole Taylor",
+      "name": "Nicole Taylor",
+      "role": "Road safety campaigner and Rebecca Taylor’s mother",
+      "kind": "witness"
+    },
+    {
+      "label": "Chris Taylor",
+      "name": "Chris Taylor",
+      "role": "Road safety campaigner and Rebecca Taylor’s father",
+      "kind": "witness"
+    },
+    {
+      "label": "Sharron Huddleston",
+      "name": "Sharron Huddleston",
+      "role": "Founder of Caitlin’s Campaign for graduated driving licensing",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Greenwood",
+      "name": "Dr Ian Greenwood",
+      "role": "Road safety campaigner and Alice Greenwood’s father",
+      "kind": "witness"
+    },
+    {
+      "label": "Daniel Francis",
+      "name": "Daniel Francis",
+      "role": "Transport Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Olly Glover",
+      "name": "Olly Glover",
+      "role": "Transport Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Alex Mayer",
+      "name": "Alex Mayer",
+      "role": "Transport Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Dr Arthur",
+      "name": "Dr Scott Arthur",
+      "role": "Transport Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Steff Aquarone",
+      "name": "Steff Aquarone",
+      "role": "Transport Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Jacob Collier",
+      "name": "Jacob Collier",
+      "role": "Transport Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Samantha Dixon",
+      "name": "Samantha Dixon",
+      "role": "Transport Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "graduated driving licensing",
+      "definition": "A system that gives new drivers more freedom in stages, with restrictions such as limits on passengers or night driving."
+    },
+    {
+      "term": "prevention of future deaths reports",
+      "definition": "Reports in which coroners warn organisations about a risk revealed by a death and ask them to consider action."
+    },
+    {
+      "term": "road safety investigation branch",
+      "definition": "A proposed body that would investigate road crashes to learn how to prevent similar harm."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Why the witnesses came",
+      "takeaway": "Each witness’s campaigning grew from a family death, and they want the discussion to include roads and passengers as well as drivers.",
+      "turns": [
+        {
+          "speaker": "Nicole Taylor",
+          "text": "Our daughter Beccy was 18 when she died in 2008. Standing water from blocked drains caused her to lose control of her car before another car hit it. I’m here for her and for young people who could be protected by better-maintained roads and graduated driving licensing.",
+          "evidence": [
+            {
+              "source_turn": 2,
+              "quote": "My 18-year-old daughter, Beccy, died on 9 September 2008 at approximately 8:45 am. She hit a deep pool of standing water caused by blocked drains and grips. She experienced asymmetrical water drag and lost control of her car. After narrowly missing two cars she was hit on the side by a third oncoming car."
+            },
+            {
+              "source_turn": 2,
+              "quote": "I am here today to represent my Beccy and all the young drivers who have been seriously injured or killed on our roads, and who could have been protected by graduated driving licences and better-maintained roads."
+            }
+          ]
+        },
+        {
+          "speaker": "Chris Taylor",
+          "text": "When a road fails, I think families face a gap in accountability: drivers can be prosecuted, but highway authorities face no equivalent legal accountability. We need to examine the safety of roads, not just cars.",
+          "evidence": [
+            {
+              "source_turn": 3,
+              "quote": "It prosecutes drivers while highway authorities face no legal accountability. When roads fail it leaves bereaved families caught between a toothless ombudsman and absent HSE and police forces that focus on the Road Traffic Act."
+            },
+            {
+              "source_turn": 3,
+              "quote": "You have just had gentlemen here talking to you about five-star-rated cars; we’ve got a three-star-rated road."
+            }
+          ]
+        },
+        {
+          "speaker": "Sharron Huddleston",
+          "text": "My daughter Caitlin died at 18 while travelling with a friend who had recently passed her driving test. The crash was attributed to the driver’s inexperience. The coroner recommended graduated driving licensing, and I’ve campaigned for it ever since.",
+          "evidence": [
+            {
+              "source_turn": 4,
+              "quote": "Tragically, on 14 July 2017, at the age of 18, Caitlin was horrifically killed as a passenger in her 18-year-old female friend’s car. Her friend had recently passed her driving test and Caitlin had only been in the car for 15 minutes when the fatal crash happened on a rural road in Cumbria. The crash was put down to the inexperience of the young, new driver."
+            },
+            {
+              "source_turn": 4,
+              "quote": "At Caitlin’s inquest in September 2018, the coroner for Cumbria wrote a prevention of future deaths report to the Department for Transport and recommended a graduated driving licensing system be implemented nationwide."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Greenwood",
+          "text": "My daughter Alice died in a 2008 crash involving young, new drivers on a dark rural road. There were distractions, speeding and overtaking. Three people died. We were talking about graduated driving lessons in Parliament in 1993, yet we still haven’t acted.",
+          "evidence": [
+            {
+              "source_turn": 5,
+              "quote": "Coming in the opposite direction were five young, new drivers, their passengers and lots of distraction, noise, telephones, texting and speeding. Some did not wear seatbelts. The circumstances are really important. It was on a rural road—a single carriageway A-road—it was dark, I have already mentioned the distraction point, and there was lots of overtaking."
+            },
+            {
+              "source_turn": 5,
+              "quote": "Sadly, three people died. The two young lads in the car that was coming in the opposite direction did not have their seatbelts on; both were thrown out of the car and died instantly. My precious Alice’s little body was crumpled and she died as well."
+            },
+            {
+              "source_turn": 5,
+              "quote": "We talked about graduated driving lessons for the first time in the building next door in 1993; we have not acted."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "A welcome strategy, but enough action?",
+      "takeaway": "The witnesses welcomed a national strategy after a long gap, but doubted its measures and funding would meet its ambitious targets.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "The Government calls its strategy a turning point after years of little progress in reducing deaths and serious injuries. Does it feel like one?",
+          "evidence": [
+            {
+              "source_turn": 6,
+              "quote": "The Government have presented their road safety strategy as a turning point—as they call it—after a decade of stalled progress on KSIs. Does it feel like a turning point to you?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Greenwood",
+          "text": "It’s too soon to say. Publishing a strategy after the last one in 2011 is welcome, and its targets are ambitious. But I can’t see funding attached to it. Earlier strategies paired targets with funding and leadership and saw large reductions; the 2011 approach cut funding and left more decisions to local authorities, while progress largely stalled.",
+          "evidence": [
+            {
+              "source_turn": 7,
+              "quote": "We have waited since the last strategy in 2011, so we should commend the Government for publishing the report. It is ambitious, particularly in terms of the targets that have been set."
+            },
+            {
+              "source_turn": 7,
+              "quote": "The one in 2011 cut funding, roads police and research, did not have targets and basically said, “It’s all to do with localism so off you go, local authorities, and do what you want to do locally.” The result of the first two was that we had very significant reductions in the number of people killed or seriously injured; in the third we did not."
+            },
+            {
+              "source_turn": 7,
+              "quote": "You asked whether it is a turning point; it is too soon to say."
+            },
+            {
+              "source_turn": 7,
+              "quote": "We also know that there is no funding attached to it, or if there is it is not visible to me."
+            }
+          ]
+        },
+        {
+          "speaker": "Sharron Huddleston",
+          "text": "I welcome the renewed focus, but I was disappointed that strong graduated driving licensing isn’t in the strategy. Young drivers are involved in around a fifth of fatal collisions. Without stronger protections, I fear it will be hard to reach the target of cutting deaths and serious injuries by 65%.",
+          "evidence": [
+            {
+              "source_turn": 8,
+              "quote": "The renewed focus is welcome but the strategy did not go far enough."
+            },
+            {
+              "source_turn": 8,
+              "quote": "To see that life-saving law not part of the strategy was a great disappointment to me and many other bereaved families who are calling for this law. Without the strong elements of a GDL system being part of the road safety strategy I feel we will particularly struggle to reach the 65% reduction in the number of killed and seriously injured, as young drivers are heavily represented in those figures. Around a fifth of all fatal collisions involve young drivers."
+            }
+          ]
+        },
+        {
+          "speaker": "Daniel Francis",
+          "text": "Are the practical measures in the strategy enough to achieve its aims?",
+          "evidence": [
+            {
+              "source_turn": 12,
+              "quote": "The strategy lists a number of practical measures. Are they sufficient to deliver its ambitions?"
+            }
+          ]
+        },
+        {
+          "speaker": "Sharron Huddleston",
+          "text": "I don’t think so. Many measures are proposals for consultation rather than laws taking effect now. Meeting the target will depend on how quickly those proposals become law and whether councils and police get enough money to put them into practice.",
+          "evidence": [
+            {
+              "source_turn": 15,
+              "quote": "Many measures in the strategy were launched as consultations rather than immediate laws. Achieving that 65% reduction in KSIs in nine years will depend on how quickly consultations become law and whether local authorities and police receive the funding to enforce them."
+            },
+            {
+              "source_turn": 15,
+              "quote": "Much of the strategy is stating that it will consider, review or consult rather than pressing ahead. As Ian said, there is no new funding so almost everything relies on the budgets that were already announced."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Greenwood",
+          "text": "There are good proposals, including an investigation branch and work on vehicle safety and motorcycles, but I still don’t think the measures add up to the target. For example, there’s a specific target for children, yet very little in the strategy about what will be done to reach it.",
+          "evidence": [
+            {
+              "source_turn": 16,
+              "quote": "There are some really very strong things in the strategy that we have talked about, such as the road safety investigation branch, general safety regulations, which you have heard about this morning, and all the work on motorcycles. There are some really positive things in here, but the answer is still no."
+            },
+            {
+              "source_turn": 16,
+              "quote": "Children KSIs has its own target."
+            },
+            {
+              "source_turn": 16,
+              "quote": "If you set a very ambitious target, I would have expected some follow-up, actions, plans or something, but there is very little."
+            }
+          ]
+        },
+        {
+          "speaker": "Nicole Taylor",
+          "text": "Families also need help after a crash. Support depends too much on where you live, and I received it partly because of where I worked. Road deaths have a lasting effect; specialist support shouldn’t be an afterthought.",
+          "evidence": [
+            {
+              "source_turn": 14,
+              "quote": "Road deaths are three times more than homicides and there is no funding for victims. It is a postcode lottery. We campaigned after Rebecca having experiencing poor or no support. I was a teacher. By luck I had support come to me because of where I worked or the industry I was in."
+            },
+            {
+              "source_turn": 14,
+              "quote": "There is the long impact. I am 18 years in."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Why wait to protect new drivers?",
+      "takeaway": "The witnesses argued that longer learning alone misses risks immediately after a driving test, especially passengers and night driving.",
+      "turns": [
+        {
+          "speaker": "Olly Glover",
+          "text": "How well does the strategy follow the evidence about what makes roads safer?",
+          "evidence": [
+            {
+              "source_turn": 17,
+              "quote": "In the context of that campaigning for improvements in road safety for a very long time, how well do you think the strategy and the measures it sets out are based on evidence?"
+            }
+          ]
+        },
+        {
+          "speaker": "Sharron Huddleston",
+          "text": "For new drivers, the Government chose to consult on a minimum learning period before the test. That could help, but it didn’t consult on the measures I believe have the strongest evidence: limits on carrying passengers and safeguards against late-night driving just after passing.",
+          "evidence": [
+            {
+              "source_turn": 23,
+              "quote": "For me the strategy adopted the weakest evidence measures for preventing crashes involving young drivers, which was the minimum learning period. They decided to consult on that while not consulting on the strongest evidence measures to prevent crashes involving young drivers, which are the passenger limits and the night safeguards or curfew elements."
+            }
+          ]
+        },
+        {
+          "speaker": "Alex Mayer",
+          "text": "Several consultations have now closed. Is the evidence strong enough to act on some of these issues without waiting longer?",
+          "evidence": [
+            {
+              "source_turn": 28,
+              "quote": "The strategy announced five consultations, which are all now closed and on one of which we got a response. Do you feel that any of the areas that are being consulted on have strong enough evidence to act now without further delay?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Greenwood",
+          "text": "I sense a lack of urgency. We waited years for the strategy, and now there are further consultations without a clear answer about what happens next. I welcome decisions on vehicle safety, but question why the Government consulted when evidence and action elsewhere in Europe were already available.",
+          "evidence": [
+            {
+              "source_turn": 29,
+              "quote": "The general sense is that there is a lack of urgency."
+            },
+            {
+              "source_turn": 29,
+              "quote": "We have waited since the previous national strategy in 2011, then we had two and a bit years of this Government, and then it was published. Now we are doing consultation, which took this long and then the next bit will take this long. We still do not quite know what is going to happen."
+            },
+            {
+              "source_turn": 29,
+              "quote": "There have been some decisions about the subject matter of the first panel, which is really welcome. Did that really need consulting on anyway? You have heard some very strong evidence from that expert panel this morning."
+            },
+            {
+              "source_turn": 29,
+              "quote": "They are doing it in Europe; the evidence is really clear."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Arthur",
+          "text": "Sharron, what would graduated driving licensing add beyond the longer learning period the Government is considering?",
+          "evidence": [
+            {
+              "source_turn": 69,
+              "quote": "Do you want to talk about how it could be implemented and the difference between that and the minimum learning period approach that the Government are consulting on?"
+            }
+          ]
+        },
+        {
+          "speaker": "Sharron Huddleston",
+          "text": "The crucial protections come after the test, when crashes occur. More learning beforehand is welcome, but a new driver can otherwise immediately carry friends on any road at any hour. Research shows the risk rises with each extra passenger of a similar age, and many crashes happen late at night. Those are the risks passenger limits and night-time safeguards address.",
+          "evidence": [
+            {
+              "source_turn": 70,
+              "quote": "How it could be implemented and what we are really wanting is for the measures post test. We see that crashes occur post test. Putting in the element of the longer learning period is brilliant, because we do not want to see young drivers going out after just a few lessons, picking their friends up, driving on any road, in any car, at any time of day."
+            },
+            {
+              "source_turn": 70,
+              "quote": "We know that with every extra same-age passenger a newly qualified young driver carries, the crash risk increases. We know that driving late at night is when most young driver crashes occur. Those are the two elements that are part of a strong GDL system that will save the most lives."
+            }
+          ]
+        },
+        {
+          "speaker": "Nicole Taylor",
+          "text": "I understand the worry that restrictions could make it harder for young people to reach work or education. But they were getting there before passing their test; passing suddenly lets them drive several friends as well. We should weigh that freedom against the risk to everyone in the car.",
+          "evidence": [
+            {
+              "source_turn": 73,
+              "quote": "We keep hearing mobility as a reason not to do it—the mobility of young adults getting to work and education. I understand that. You will have a 17, 18 or 19-year-old who got to university, school or their job without driving themselves. They pass their test and suddenly they can drive themselves to work, school or university with two, three or four friends."
+            },
+            {
+              "source_turn": 73,
+              "quote": "They have managed without driving a few days before and then suddenly we are saying they are being restricted. We have four children here whose lives have been restricted for ever."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Greenwood",
+          "text": "This isn’t only about protecting the young driver. In crashes involving a young driver, I said 28% of those killed or seriously injured are the driver; the others include passengers and people they encounter. Nor do I think the Government has explained its refusal of graduated licensing clearly to campaigners.",
+          "evidence": [
+            {
+              "source_turn": 16,
+              "quote": "Some 28% of people who are killed or seriously injured in collisions involving a young driver are the driver. Most are strangers—such as my Alice—or their passengers."
+            },
+            {
+              "source_turn": 88,
+              "quote": "For a long time we have been asking, “Why? Help us out.” It really affects us emotionally. We get word soup. I did a freedom of information request, which you have in your pack, and the response was that it is a secret."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Investigate roads and act on what is found",
+      "takeaway": "The witnesses wanted more consistent oversight of road maintenance and an investigation body able to turn lessons from crashes into action.",
+      "turns": [
+        {
+          "speaker": "Chris Taylor",
+          "text": "Councils make their own decisions about road maintenance risks, but I don’t think anyone checks whether those decisions are appropriate. In my county, drains haven’t been properly maintained. Families can also struggle to get an independent examination when a road’s condition may have contributed to a death.",
+          "evidence": [
+            {
+              "source_turn": 41,
+              "quote": "We have a code of practice for well-maintained highway infrastructure that is risk based. I have nothing against risk-based policies as long as someone is auditing them, which they are not."
+            },
+            {
+              "source_turn": 43,
+              "quote": "I live in a county where our drains have not been properly maintained, certainly since 2018. They have a target of about 60,000 a year; we are lucky if they do 40,000."
+            },
+            {
+              "source_turn": 43,
+              "quote": "When Rebecca was killed it would not investigate because it does not do negligence."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Arthur",
+          "text": "Would national rules be more effective than hoping each council deals with issues such as speed limits and pavement parking?",
+          "evidence": [
+            {
+              "source_turn": 53,
+              "quote": "There are things the Government could do nationally, top-down, if you like—although we are a big fan of devolution these days—such as cutting the speed limit inside urban areas to 20 mph, and even on simple things such as pavement parking. A national directive is going to be much more effective than people hoping they have a local authority that takes the issue seriously."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Greenwood",
+          "text": "Yes. Local decisions can differ sharply even across neighbouring areas. If the Government only issues guidance and lets each council choose, people face different protections depending on where they live or travel. Setting limits road by road is costly too.",
+          "evidence": [
+            {
+              "source_turn": 54,
+              "quote": "North Yorkshire does not use very many speed cameras; West Yorkshire advocates the advanced ones rather than the fixed ones—you start to create problems with the model the Government are choosing to use: “Here is some guidance on pavement parking; do what you want locally.” You automatically have a postcode lottery."
+            },
+            {
+              "source_turn": 54,
+              "quote": "By only doing localism you generate more problems, and doing road by road-by-road speed limits is also very costly."
+            }
+          ]
+        },
+        {
+          "speaker": "Olly Glover",
+          "text": "How should the proposed road safety investigation branch be set up?",
+          "evidence": [
+            {
+              "source_turn": 57,
+              "quote": "What does the delivery and creation of a new road safety investigation branch look like in terms of getting it right?"
+            }
+          ]
+        },
+        {
+          "speaker": "Chris Taylor",
+          "text": "It should work more like the rail investigation branch. Its job would be to learn from deaths, not decide blame like the police. Investigators should examine vehicles and roads, and another body should have to respond to their safety recommendations. Otherwise we’ll keep producing strategies without learning enough between them.",
+          "evidence": [
+            {
+              "source_turn": 58,
+              "quote": "It needs to mirror the Rail Accident Investigation Branch; the proposal in the road safety strategy does not. What they do on railways is much more comprehensive."
+            },
+            {
+              "source_turn": 58,
+              "quote": "These investigations boards are not an adversarial thing. It is not like the police; this is about learning. On railways they investigate all fatalities; they are not proposing that for the roads."
+            },
+            {
+              "source_turn": 58,
+              "quote": "When you are talking about looking at vehicles and roads that stuff does not happen; the police do not have the resources to do that stuff."
+            },
+            {
+              "source_turn": 58,
+              "quote": "if the Office of Rail and Road gets a recommendation from the accident investigation branch, it has a statutory duty to respond and act on those recommendations."
+            },
+            {
+              "source_turn": 58,
+              "quote": "we need a strategy that learns and gives us a mechanism for making sure that those learnings are acted on going forward."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Greenwood",
+          "text": "It could also bring together police crash records and health data, which don’t always match. Given access to that information and enough authority, it might identify dangers before more crashes happen. But we don’t yet know what powers or shape the branch will have.",
+          "evidence": [
+            {
+              "source_turn": 59,
+              "quote": "the two separate datasets that we have between the health data and the STATS19 data. They often do not talk to each other and there are often lots of inaccuracies"
+            },
+            {
+              "source_turn": 59,
+              "quote": "if it is given teeth, given access to all the datasets that exist, and is more proactive than just a data repository—is start to get into not only learning from history and the data but also looking at proactively predicting the future."
+            },
+            {
+              "source_turn": 59,
+              "quote": "I certainly do not know what the make-up of this organisation is going to be yet. It is still a work in progress."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Speed, independence and support",
+      "takeaway": "The witnesses favoured safer speeds and fairer enforcement while recognising that people need practical alternatives to driving.",
+      "turns": [
+        {
+          "speaker": "Steff Aquarone",
+          "text": "Does the strategy strike the right balance between safety and older drivers’ independence?",
+          "evidence": [
+            {
+              "source_turn": 92,
+              "quote": "I have a slightly different question about whether you think the strategy has the right balance between road safety and this question of independence for older drivers."
+            }
+          ]
+        },
+        {
+          "speaker": "Chris Taylor",
+          "text": "Taking away my mother’s car affected her independence. But I don’t think age alone tells the whole story: older people may drive less and be more vulnerable if they crash. We need safe ways to make local journeys, including walking, buses and other alternatives, so independence doesn’t depend entirely on a car.",
+          "evidence": [
+            {
+              "source_turn": 93,
+              "quote": "My mother was driving into her 90s and we had the whole thing of having to take the car away from her. It really affects their independence."
+            },
+            {
+              "source_turn": 96,
+              "quote": "The whole thing about age is a bit of a misnomer; it is kind of pitching one group against the other."
+            },
+            {
+              "source_turn": 96,
+              "quote": "The reason why young and old people are skewed is that they both drive less. An average young person drives half as many miles. Old people are more fragile, so when they have a collision they are much more likely to be seriously injured and whatever."
+            },
+            {
+              "source_turn": 96,
+              "quote": "This is about more active travel, local buses and making sure that people can still get their independence without necessarily having to rely on a car."
+            }
+          ]
+        },
+        {
+          "speaker": "Jacob Collier",
+          "text": "Do police have enough staff and powers to enforce the strategy?",
+          "evidence": [
+            {
+              "source_turn": 102,
+              "quote": "Do you feel that police forces are sufficiently resourced in terms of the penalties they can give and the powers they have to provide the level of enforcement that the road safety strategy wants to deliver?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Greenwood",
+          "text": "Policing resources aren’t my area of expertise. But I worry that speeding and other dangerous behaviour are treated too casually, while some penalties seem weak. A driving licence is a privilege, not an automatic right.",
+          "evidence": [
+            {
+              "source_turn": 103,
+              "quote": "This is not an area of my expertise. I know you have had evidence from Joy Allen and Jo Shiner, so I defer to them, because obviously they know."
+            },
+            {
+              "source_turn": 103,
+              "quote": "There is a mindset that says, “Oh, it’s only 10 mph over the limit; it doesn’t really matter, does it?” Some penalties that you see in the media really make you scratch your head"
+            },
+            {
+              "source_turn": 103,
+              "quote": "licensing is a privilege."
+            }
+          ]
+        },
+        {
+          "speaker": "Samantha Dixon",
+          "text": "In Wales, 20 mph became the usual limit on many roads, but councils can make exceptions. I’ve heard negative reactions. Is that the right approach?",
+          "evidence": [
+            {
+              "source_turn": 130,
+              "quote": "I have knocked on a lot of doors and heard a lot of—not very good—feedback about the default 20 mph proposal that came in in Wales. I just wondered what you thought about the Welsh system, where it is default but local authorities could take roads out. Do you agree with that?"
+            }
+          ]
+        },
+        {
+          "speaker": "Chris Taylor",
+          "text": "Yes. Some roads need exceptions, but starting with a lower limit is better than trying to change individual roads afterwards. I’m particularly concerned about the 60 mph limit on single-carriageway roads that weren’t designed for traffic at those speeds.",
+          "evidence": [
+            {
+              "source_turn": 131,
+              "quote": "You have to be able to do that because there are some where it is just not right. It is much better that way than the other way; then you end up not having the right speed limits."
+            },
+            {
+              "source_turn": 131,
+              "quote": "On single carriageways the speed limit is 60 mph."
+            },
+            {
+              "source_turn": 131,
+              "quote": "Something we seem to ignore is that those roads were never designed to have traffic travelling at those sorts of speeds."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Greenwood",
+          "text": "Councils also have to choose limits people can understand. Some in Wales got that wrong. When people can see why a particular road is 20 mph or 50 mph, they’re more likely to comply.",
+          "evidence": [
+            {
+              "source_turn": 135,
+              "quote": "Some local authorities in Wales absolutely made this mistake. Often they are not credible. When the general public see a credible speed limit and understand why the speed limit is there, the evidence is very clear."
+            },
+            {
+              "source_turn": 135,
+              "quote": "If they understand why it is 20 mph or 50 mph, you get increased compliance."
+            }
+          ]
+        },
+        {
+          "speaker": "Sharron Huddleston",
+          "text": "Eight coroners have now issued prevention of future deaths reports calling for graduated driving licensing, including the coroner in Caitlin’s case. I want the Government to act, especially on passenger limits.",
+          "evidence": [
+            {
+              "source_turn": 144,
+              "quote": "there are now eight prevention of future deaths reports for graduated driving licensing from eight different coroners, including Caitlin’s, and still there is no action from the Government. They need to be acted on. We need a strong GDL system, especially with passenger limits included."
+            }
+          ]
+        },
+        {
+          "speaker": "Nicole Taylor",
+          "text": "And people harmed by road crashes should be offered specialist help automatically and promptly, whether or not a crime is involved. Families shouldn’t have to ask for help or wait years for a court case before receiving it.",
+          "evidence": [
+            {
+              "source_turn": 147,
+              "quote": "They need to extend automatic referrals, not wait for them to ask for it"
+            },
+            {
+              "source_turn": 147,
+              "quote": "Specialist support should also be offered to all road death and serious injury victims regardless of whether a crime has been involved. We know they are waiting years to go to court and you need immediate support."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

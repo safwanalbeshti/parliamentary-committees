@@ -124,7 +124,7 @@ The JSON is checked automatically.
 * Parliament oral-evidence ID: 18316
 * Required source hash: `4ef85ae288bc5c70a57b2b6955fb5652ef547d0f051d336de6cd36ba780e9f27`
 * Committee: Welsh Affairs Committee
-* Subject: The future of Policing in Wales
+* Subject: The future of policing in Wales
 * Meeting date: 18 November 2026
 * Transcript status: published
 * Source: https://committees.parliament.uk/oralevidence/18316/html/

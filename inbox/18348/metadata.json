@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18348,
+  "activity_id": 39530,
+  "document_id": 315789,
+  "meeting_date": "2026-11-23",
+  "meeting_date_display": "23 November 2026",
+  "publication_date": "2026-11-25T09:19:32",
+  "title": "Boosting construction skills",
+  "committee": "Public Accounts Committee",
+  "committees": [
+    {
+      "id": 127,
+      "name": "Public Accounts Committee",
+      "house": "Commons"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 9910,
+      "title": "Boosting construction skills",
+      "type": "Inquiry"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Name not supplied",
+      "role": "Director General, Skills Group",
+      "organisation": "Department for Education"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Permanent Secretary",
+      "organisation": "Department of Work and Pensions"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Senior Responsible Owner for the Construction Skills Package",
+      "organisation": "Department of Work and Pensions"
+    },
+    {
+      "name": "Name not supplied",
+      "role": "Joint Chief Executive Officer",
+      "organisation": "Skills England"
+    }
+  ],
+  "speaker_candidates": [
+    "Chair",
+    "Dame Sarah Healey",
+    "Sinead O’Sullivan",
+    "Sarah Maclean",
+    "Alexandra Fitzpatrick",
+    "Mr Betts",
+    "Rupert Lowe",
+    "Matt Turmaine",
+    "Sarah Green",
+    "Tristan Osborne",
+    "Al Carns"
+  ],
+  "transcript_status": "published",
+  "source_url": "https://committees.parliament.uk/oralevidence/18348/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18348",
+  "source_sha256": "ec5e0a8cf26dc7e51d5507ccb07e7cdf2dfd8af604d8b8e80278bca599215436",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

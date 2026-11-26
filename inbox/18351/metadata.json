@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18351,
+  "activity_id": 39694,
+  "document_id": 315803,
+  "meeting_date": "2026-11-25",
+  "meeting_date_display": "25 November 2026",
+  "publication_date": "2026-11-25T10:33:07",
+  "title": "E-Commerce Agreement",
+  "committee": "International Agreements Committee",
+  "committees": [
+    {
+      "id": 448,
+      "name": "International Agreements Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10129,
+      "title": "E-Commerce Agreement",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Ana Peres",
+      "role": "Assistant Professor in Law",
+      "organisation": "University of Sussex"
+    },
+    {
+      "name": "Chris Southworth",
+      "role": "Chair",
+      "organisation": "The International Centre for Digital Trade and Innovation"
+    },
+    {
+      "name": "Neil Ross",
+      "role": "Head of Practice for Tech, Media, and Telecoms",
+      "organisation": "Public First"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Baroness Bi",
+    "Neil Ross",
+    "That is the real benefit",
+    "Chris Southworth",
+    "Lord Hannay of Chiswick",
+    "Lord McDonald of Salford",
+    "Ana Peres",
+    "Lord Anderson of Swansea",
+    "The second group of concerns are about substantive matters for those concerned",
+    "Lord German",
+    "Baroness Anelay of St Johns",
+    "Baroness Bonham-Carter of Yarnbury",
+    "Lord Stevenson of Balmacara"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18351/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18351",
+  "source_sha256": "cce6c98afc7b1608360f1a756a77406094961c63a534c2b51c43e4ce6b701583",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

@@ -1,0 +1,728 @@
+{
+  "schema_version": 1,
+  "source_id": 18341,
+  "source_sha256": "356fc49b72968afddba7ea60d8e8a381418b3a69e52111a7ce5cf58385f2e5c6",
+  "title": "Who sets the rules for AI?",
+  "label": "18 November 2026 · International AI standards",
+  "summary": "The committee asked how countries can agree practical ways to test and manage AI, and whether the UK has enough influence over those rules. The witnesses described substantial work on standards, but said tests for the most advanced AI remain at an early stage. They agreed that sustained participation matters; they differed over whether the most serious risks call for a new international inspection body or better use of existing product-safety systems.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Robertson of Port Ellen",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Adam Leon Smith",
+      "name": "Adam Leon Smith",
+      "role": "Chair, The AIQI Consortium",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Nora von Ingersleben-Seip",
+      "name": "Dr Nora von Ingersleben-Seip",
+      "role": "Assistant Professor, Faculty of Governance and Global Affairs, University of Leiden",
+      "kind": "witness"
+    },
+    {
+      "label": "Baroness Crawley",
+      "name": "Baroness Crawley",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Lamont of Lerwick",
+      "name": "Lord Lamont of Lerwick",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Fraser of Craigmaddie",
+      "name": "Baroness Fraser of Craigmaddie",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Prashar",
+      "name": "Baroness Prashar",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Darroch of Kew",
+      "name": "Lord Darroch of Kew",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Houghton of Richmond",
+      "name": "Lord Houghton of Richmond",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Ahmad of Wimbledon",
+      "name": "Lord Ahmad of Wimbledon",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Grocott",
+      "name": "Lord Grocott",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "ISO/IEC",
+      "definition": "Two international organisations that jointly develop technical standards for information technology."
+    },
+    {
+      "term": "EU AI Act",
+      "definition": "A European Union law setting requirements for some uses of artificial intelligence."
+    },
+    {
+      "term": "ITU-T",
+      "definition": "The part of the UN telecommunications agency that develops technical recommendations."
+    },
+    {
+      "term": "frontier AI",
+      "definition": "The most advanced AI models, whose capabilities and risks are still being investigated."
+    },
+    {
+      "term": "AI Standards Hub",
+      "definition": "A UK initiative offering information, training and events about AI standards."
+    },
+    {
+      "term": "AI Security Institute",
+      "definition": "A UK government institute that tests advanced AI models and develops ways to evaluate them."
+    },
+    {
+      "term": "accreditation",
+      "definition": "Independent checking that an organisation is competent and impartial enough to carry out tests or issue certificates."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What standards actually do",
+      "takeaway": "Standards turn broad aims into shared technical methods, but the work of testing advanced AI is still developing.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Why have technical standards become so important for AI, and how much progress has been made?",
+          "evidence": [
+            {
+              "source_turn": 1,
+              "quote": "Why is it so important for artificial intelligence, and why has it achieved such a dramatic importance? Could you possibly outline for us the progress that has been made in establishing these standards for what we now know as artificial intelligence?"
+            }
+          ]
+        },
+        {
+          "speaker": "Adam Leon Smith",
+          "text": "A standard is an agreed way of doing something. International standards can turn a broad aim, such as making a product safe, into requirements that a company can follow and someone else can check. But a certificate is useful across borders only if the people doing those checks are qualified and impartial.",
+          "evidence": [
+            {
+              "source_turn": 2,
+              "quote": "I think a standard is simply an agreed way of doing things."
+            },
+            {
+              "source_turn": 2,
+              "quote": "Those are agreed through a very formal process and usually turn high-level principles into tangible technical requirements, which can then support things such as audit, which then generates trust, compliance and numerous different goals in the supply chain."
+            },
+            {
+              "source_turn": 2,
+              "quote": "Accreditation is important because it is about ensuring that the people checking the standards have been implemented correctly are qualified to do so, are impartial and are doing so in an internationally accepted way, so that a certificate you get in one country is worth the same in another country."
+            }
+          ]
+        },
+        {
+          "speaker": "Adam Leon Smith",
+          "text": "There are already many AI standards in development. In the EU, the AI Act sets outcomes that developers must meet, and technical standards spell out ways to meet them. That gives European standards work a clear target. From a UK perspective, I can't identify an equally clear answer to which standards we want.",
+          "evidence": [
+            {
+              "source_turn": 2,
+              "quote": "In its AI committee, we have 35 countries, and its work includes 10 prominent product safety standards for AI that underpin the EU AI Act."
+            },
+            {
+              "source_turn": 2,
+              "quote": "regulation outlines hazards and outlines outcomes that manufacturers—or AI developers in this case—should meet. Those outcomes are not technical; they are specified by the legislator. Underpinning those, we then develop technical standards against that regulation"
+            },
+            {
+              "source_turn": 2,
+              "quote": "From a UK perspective, I do not know how to answer the question: what standards do we exactly want? It is hard to get a consistent answer on that from people."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Nora von Ingersleben-Seip",
+          "text": "Without an international AI treaty, standards are often the only rules countries have agreed together. They give practical meaning to words such as ‘risk’ and ‘safety’. Work is progressing across several organisations, but ways to evaluate the most advanced models before release are still at an early stage.",
+          "evidence": [
+            {
+              "source_turn": 4,
+              "quote": "standards matter because in the absence of an international AI governance treaty, they are often the only internationally agreed rules."
+            },
+            {
+              "source_turn": 4,
+              "quote": "These standards define what “risk”, “safety” and “trustworthiness” mean in practice."
+            },
+            {
+              "source_turn": 4,
+              "quote": "In summary, there is lots of activity and there is important progress, but the area where we need to push forward is on evaluating the most advanced models, and that is still at an early stage."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Co-operation, competition and UK influence",
+      "takeaway": "Countries can agree on measurements even when they disagree on values, but influence depends on sustained expert participation.",
+      "turns": [
+        {
+          "speaker": "Baroness Crawley",
+          "text": "Are AI standards becoming a contest between countries, especially China and Western countries, or can they be a place for co-operation?",
+          "evidence": [
+            {
+              "source_turn": 5,
+              "quote": "Does this dynamic exist when it comes to the development of AI standards, or do you see standards as an area where there is a possibility of global co-operation?"
+            }
+          ]
+        },
+        {
+          "speaker": "Adam Leon Smith",
+          "text": "Countries do have different priorities. In one project on bias in AI, we couldn't agree which social risks mattered most, but we could agree that bias in the data and calculations could affect accuracy. Testing and measuring AI offer similar opportunities to agree on something practical.",
+          "evidence": [
+            {
+              "source_turn": 6,
+              "quote": "The EU is focused on product safety requirements, the US has a keen focus on frontier, and the UK and Singapore are notably more focused on assurance through testing and evaluation."
+            },
+            {
+              "source_turn": 6,
+              "quote": "We managed to agree that, while we might not agree on the social aspects of bias, there is a mathematical thing called bias that is in these systems and can lead to all these different problems. Regardless of your view of the social issues around bias, it is still important to you because it affects accuracy."
+            },
+            {
+              "source_turn": 6,
+              "quote": "The only place the world really seems to be coming together on these binding requirements is standards for assurance practices—testing and evaluation"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Nora von Ingersleben-Seip",
+          "text": "My research also finds co-operation between technical experts from rival countries. But leadership differs sharply between organisations: Chinese organisations hold about three-quarters of leadership positions in ITU-T, while none of the leaders we identified in the European committee were Chinese. That shows who holds roles, not who controlled the results.",
+          "evidence": [
+            {
+              "source_turn": 7,
+              "quote": "there is co-operation on technical standard setting, including among rivals from countries such as China and the US, which regularly work together on technical standard setting in bodies such as ISO, ITU and so on."
+            },
+            {
+              "source_turn": 7,
+              "quote": "about three-quarters of leadership positions in ITU-T—the ITU standards sector—are held by Chinese organisations. On the other hand, there are no Chinese leaders in CEN-CENELEC"
+            },
+            {
+              "source_turn": 7,
+              "quote": "Our data shows who holds leadership positions; it does not show that results were steered in any particular direction."
+            }
+          ]
+        },
+        {
+          "speaker": "Baroness Crawley",
+          "text": "How can countries agree technical standards if they can't agree on the principles behind them?",
+          "evidence": [
+            {
+              "source_turn": 8,
+              "quote": "How is it possible to agree standards that underpin principles if you cannot agree the principles?"
+            }
+          ]
+        },
+        {
+          "speaker": "Adam Leon Smith",
+          "text": "That makes international progress harder to judge than European progress. But countries can agree how to measure something without first agreeing on every principle about how it should be used.",
+          "evidence": [
+            {
+              "source_turn": 9,
+              "quote": "when you ask me about European standardisation, I can tell you about progress; with international standardisation, that is much harder."
+            },
+            {
+              "source_turn": 9,
+              "quote": "measuring is something we can agree on across borders without having those principles in place."
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Lamont of Lerwick",
+          "text": "Does the UK Government understand how important international AI standards are for safety and trade?",
+          "evidence": [
+            {
+              "source_turn": 10,
+              "quote": "Are the UK Government fully alive to the importance of standards as a vehicle for promoting safety and international trade and co-operation?"
+            }
+          ]
+        },
+        {
+          "speaker": "Adam Leon Smith",
+          "text": "The UK has a digital standards strategy and a voice in both international and European standards discussions. Staying involved in European work matters because it's a large market for us. UK experts also hold important roles, though their job in those roles is to help countries reach agreement, not dictate the wording.",
+          "evidence": [
+            {
+              "source_turn": 11,
+              "quote": "The digital standards strategy that what was DSIT issued earlier this year has four key objectives: sustained UK participation, ensuring that the ecosystem works—that it is effective, efficient, responsive, collaborative, expert-led, merit-based and open—ensuring that the standards reflect our values, and demonstrating UK leadership."
+            },
+            {
+              "source_turn": 11,
+              "quote": "It gives us a direct voice in EU as well as international standards, and this should be protected; it is very important because it is such a big market for us."
+            },
+            {
+              "source_turn": 11,
+              "quote": "those leadership roles, at least when the UK performs them, are not about setting the content of the standard; they are about facilitating international consensus"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Nora von Ingersleben-Seip",
+          "text": "The Government is aware of their importance, but saying ‘principles and standards’ leaves unclear whether it means political promises or detailed technical rules. I also haven't seen much public evidence of which standards organisations the UK will prioritise, or how it will pay for experts to attend year after year. That continued presence is how people gain influence.",
+          "evidence": [
+            {
+              "source_turn": 12,
+              "quote": "the UK Government are very aware of the importance of standards and AI standardisation in particular"
+            },
+            {
+              "source_turn": 12,
+              "quote": "The terminology is also somewhat ambiguous, and it does not make it clear which commitments are actually needed. It could be referring to political commitments or to technical standardisation"
+            },
+            {
+              "source_turn": 12,
+              "quote": "I have seen little public evidence of which bodies the UK tends or intends to prioritise or of how it intends, if at all, to sustain expert participation over years."
+            },
+            {
+              "source_turn": 12,
+              "quote": "Being there over years is what brings influence in standard setting."
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Lamont of Lerwick",
+          "text": "Can an AI system ever be made completely free of bias?",
+          "evidence": [
+            {
+              "source_turn": 13,
+              "quote": "how can you create an algorithm that is free of bias?"
+            }
+          ]
+        },
+        {
+          "speaker": "Adam Leon Smith",
+          "text": "No. Training data is only a sample of the world, and how it was collected affects the result. Adding more French text, for example, might improve a model's French but make its English worse. You have to identify and reduce the particular biases most likely to cause harm, while recognising that this can affect accuracy elsewhere.",
+          "evidence": [
+            {
+              "source_turn": 14,
+              "quote": "you can never have a machine-learning model that is not biased, because bias is how it works, through statistical bias."
+            },
+            {
+              "source_turn": 18,
+              "quote": "Any kind of dataset you take is a sample of the world; it is not the world."
+            },
+            {
+              "source_turn": 18,
+              "quote": "it will get better at French, but it will probably get less good at English."
+            },
+            {
+              "source_turn": 18,
+              "quote": "you can only ever decide which biases you really do not want to have, such as ones that might lead to safety or health issues, and mitigate those specifically, but that is often to the detriment of accuracy in other areas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Getting the right people into the room",
+      "takeaway": "UK training and testing work helps, but smaller organisations struggle to match the time and money large companies can devote to writing standards.",
+      "turns": [
+        {
+          "speaker": "Baroness Fraser of Craigmaddie",
+          "text": "Has the AI Standards Hub helped UK experts understand and influence international standards? What could it do better?",
+          "evidence": [
+            {
+              "source_turn": 20,
+              "quote": "How successful has this been? Can you give us any examples of clear achievements or areas that could be improved, and how do assets like that enable the UK to be well placed or to be in the room"
+            }
+          ]
+        },
+        {
+          "speaker": "Adam Leon Smith",
+          "text": "It offers a searchable database, free training and events that have drawn international attention. The next step is to help interested UK experts take part in the meetings where standards are actually written.",
+          "evidence": [
+            {
+              "source_turn": 21,
+              "quote": "specific achievements include a searchable standards database—that has gone down very well with a lot of stakeholders—free training and community events, and international partnerships."
+            },
+            {
+              "source_turn": 21,
+              "quote": "it really attracted the attention of the stakeholders globally that are working in standards"
+            },
+            {
+              "source_turn": 21,
+              "quote": "it also needs to become focused on converting interested UK domestic experts into participants in the actual process."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Nora von Ingersleben-Seip",
+          "text": "Training doesn't pay for people's time. Smaller companies, academics and public-interest groups often can't keep attending, and public-interest groups held only 3% of the leadership positions we studied. I'd track whether UK experts gain roles and whether their proposals are adopted, then fund participation over the long term. My research didn't directly evaluate the hub.",
+          "evidence": [
+            {
+              "source_turn": 23,
+              "quote": "Time and money are a scarce resource, especially for SMEs, academics and civil society. They cannot participate in these international standard-setting processes. Our data showed that only 3% of leadership positions in the six bodies that we looked at are held by civil society organisations."
+            },
+            {
+              "source_turn": 23,
+              "quote": "Training is good and helps to understand standards, but it does not pay for expert time"
+            },
+            {
+              "source_turn": 23,
+              "quote": "Specifically, I would look at how many UK experts hold roles in working groups and how many UK proposals are adopted. Finally, I would make sure to commit funding for sustained participation."
+            },
+            {
+              "source_turn": 23,
+              "quote": "Our data did not directly evaluate the standards hub"
+            }
+          ]
+        },
+        {
+          "speaker": "Baroness Prashar",
+          "text": "Can national institutes that test AI shape international standards? Does the UK's AI Security Institute give the country more influence?",
+          "evidence": [
+            {
+              "source_turn": 24,
+              "quote": "Do you see that they are likely to shape the international standard-making environment? Also, a number of witnesses have said to us in the past that the UK AI Security Institute is quite important and leading work on this. Does it add extra weight to what we do?"
+            }
+          ]
+        },
+        {
+          "speaker": "Adam Leon Smith",
+          "text": "The institute has made an AI-testing tool that's used internationally. Its methods could become standards that different organisations can apply consistently. But I've seen little involvement from it in the standards committees I attend so far. And its focus on frontier AI shouldn't make us forget AI in everyday products, such as lifts and hearing aids.",
+          "evidence": [
+            {
+              "source_turn": 25,
+              "quote": "The UK’s AISI, for instance, has developed an open source framework called Inspect that is very popular and used internationally."
+            },
+            {
+              "source_turn": 25,
+              "quote": "standards need stable and repeatable methods. We need these institutes to generate methods that flow into the formal system"
+            },
+            {
+              "source_turn": 25,
+              "quote": "the UK AISI has had very little involvement in international standards to date, at least not through the UK committee or any international committees that I attend."
+            },
+            {
+              "source_turn": 25,
+              "quote": "AISI’s focus is only on frontier AI. There is plenty of AI out there that is not frontier and that poses real risks to health, safety and human rights. AI is being built into lifts, motors and hearing aids."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Nora von Ingersleben-Seip",
+          "text": "The institute can test advanced models in ways volunteer standards writers usually can't. It says it has evaluated more than 55 models before release, and it helps bring national AI-testing institutes together. That's influence, though it isn't the same as leading a formal standards committee.",
+          "evidence": [
+            {
+              "source_turn": 26,
+              "quote": "They are essentially government organisations with technical teams and, crucially, post-deployment access to frontier models. This is something that standards volunteers typically lack"
+            },
+            {
+              "source_turn": 26,
+              "quote": "The institute has also evaluated over 55 models before release and, this year, it co-ordinated the international network"
+            },
+            {
+              "source_turn": 26,
+              "quote": "the security institute gives you real convening power. You now have the network co-ordinator role, which brings together the different AI security institutes"
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Darroch of Kew",
+          "text": "Are big companies dominating standards, or are they failing to take part enough for the resulting rules to be useful?",
+          "evidence": [
+            {
+              "source_turn": 29,
+              "quote": "Do you see examples of either excessive influence from the big players or non-engagement and, therefore, a limited-value product at the end?"
+            }
+          ]
+        },
+        {
+          "speaker": "Adam Leon Smith",
+          "text": "Both happen. Large firms can pay experts to attend meetings for years; smaller firms and consumer groups often can't. Requiring countries to settle their positions before each gets one vote limits one company's power, provided that process is managed properly. But I've also seen European discussions about AI in hiring with nobody from that industry taking part.",
+          "evidence": [
+            {
+              "source_turn": 30,
+              "quote": "The larger firms can obviously do that, but SMEs, consumers and civil society struggle to match that kind of time commitment."
+            },
+            {
+              "source_turn": 30,
+              "quote": "in European standards, there is nobody from an HR or employment AI background"
+            },
+            {
+              "source_turn": 30,
+              "quote": "the national mirror committee balances interests before positions reach the international level, which limits the capture that a single firm can achieve, as long as the system is managed robustly."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Nora von Ingersleben-Seip",
+          "text": "Businesses held 46% of the leadership positions we studied, but the most advanced AI developers may also make their own widely used technical rules outside the usual standards bodies. A lack of formal leadership doesn't prove they lack influence inside those bodies, either. We need to watch both where standards are made and who's missing.",
+          "evidence": [
+            {
+              "source_turn": 31,
+              "quote": "46% of leadership positions are being held by business organisations."
+            },
+            {
+              "source_turn": 31,
+              "quote": "Standards are being made outside the traditional organisations."
+            },
+            {
+              "source_turn": 31,
+              "quote": "That does not mean that frontier labs are not present in these traditional standard-setting processes at all, or that they do not have influence."
+            },
+            {
+              "source_turn": 31,
+              "quote": "both risks are real: the risks that rules reflect only those who are in the room, which is very clearly what our interviewees said to us, but also that we get rules that do not reflect frontier technology"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Keeping pace with AI",
+      "takeaway": "The witnesses favoured developing testing methods early, but warned that rushing formal agreement can weaken scrutiny and exclude less well-funded participants.",
+      "turns": [
+        {
+          "speaker": "Lord Houghton of Richmond",
+          "text": "Could rules for AI used in weapons help armed forces follow the laws of war more reliably than people sometimes do?",
+          "evidence": [
+            {
+              "source_turn": 36,
+              "quote": "are there ways in which you can establish policies and regulation to make warfare better able to conform to the legal and moral frameworks that the human agency fails, in its own way, to follow?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Nora von Ingersleben-Seip",
+          "text": "We shouldn't assume human decisions are flawless either. Putting agreed values into autonomous weapons may be technically possible, but I don't know of an initiative doing exactly that. The harder obstacle may be political: countries struggle to agree binding rules when values are contested.",
+          "evidence": [
+            {
+              "source_turn": 37,
+              "quote": "human decisions are also not flawless; we also have flaws and make mistakes"
+            },
+            {
+              "source_turn": 37,
+              "quote": "As to whether we could encode these values into autonomous weapons, I believe that is difficult, perhaps, but technically possible. As to whether there is such an initiative, I know there is work ongoing on the UN level that relates to lethal autonomous weapons, but I do not know whether they are talking about encoding certain values into autonomous weapons."
+            },
+            {
+              "source_turn": 37,
+              "quote": "I think it is difficult not so much from a technical perspective but from a political one."
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Ahmad of Wimbledon",
+          "text": "AI changes so quickly. How can standards keep up?",
+          "evidence": [
+            {
+              "source_turn": 40,
+              "quote": "How do you go about regulating such a dynamic source?"
+            }
+          ]
+        },
+        {
+          "speaker": "Adam Leon Smith",
+          "text": "A full international standard can take three years. Simply rushing it risks losing agreement or technical depth. Some testing methods will still work as AI changes. For newer methods, organisations can develop and try them out first, then bring the stable ones into international standards. We should also prepare the organisations that will test compliance before a standard is finished.",
+          "evidence": [
+            {
+              "source_turn": 41,
+              "quote": "A full international standard can take three years. The fastest I have ever done one is 18 months and that was with a regulatory-driven demand, so it was a bit faster. When you do it faster, you are giving up on either consensus or depth."
+            },
+            {
+              "source_turn": 41,
+              "quote": "a lot of that is technology agnostic."
+            },
+            {
+              "source_turn": 41,
+              "quote": "A lot of my work is getting stakeholders like that and getting them to bring their work to standards to be made globally applicable and ratified."
+            },
+            {
+              "source_turn": 41,
+              "quote": "when we are 25% of the way through developing the standard we start engaging all those downstream stakeholders"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Nora von Ingersleben-Seip",
+          "text": "The formal process is slow partly so people can scrutinise and agree the result. Voluntary good practices could come first, with formal standards following once methods settle down. But speeding up discussions could make it even harder for academics, smaller companies and public-interest groups to comment.",
+          "evidence": [
+            {
+              "source_turn": 45,
+              "quote": "Formal standardisation is slow by design. It is slow because consensus gives legitimacy and because there is essentially a legal process around it."
+            },
+            {
+              "source_turn": 45,
+              "quote": "AISI has proposed moving with voluntary best practices first and then standardising later what is stable."
+            },
+            {
+              "source_turn": 45,
+              "quote": "If you speed up the process, that might squeeze out in particular those with fewer resources who cannot quickly think about and comment on a standard."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "What action is worth taking?",
+      "takeaway": "Both witnesses wanted practical testing and better-funded participation, but disagreed about creating a new international body to inspect leading AI developers.",
+      "turns": [
+        {
+          "speaker": "Lord Grocott",
+          "text": "Given claims ranging from enormous benefits to the end of civilisation, should you rush to write standards, or take the time to get them right?",
+          "evidence": [
+            {
+              "source_turn": 46,
+              "quote": "on the one hand, you have people saying that AI means potentially the end of civilisation as we know it quite quickly; and, on the other hand, that it is going to cure cancer or whatever."
+            },
+            {
+              "source_turn": 46,
+              "quote": "are you taking the view that it is better to get it right than to do it quickly"
+            }
+          ]
+        },
+        {
+          "speaker": "Adam Leon Smith",
+          "text": "I favour quality over rushing. Standards could describe tests for dangerous capabilities, but a written standard won't itself stop a disaster. Someone would have to test systems against it before release, and there would need to be a reason for developers to submit to those checks.",
+          "evidence": [
+            {
+              "source_turn": 47,
+              "quote": "a PDF is not likely to stop the world-ending event that some of those people talk about."
+            },
+            {
+              "source_turn": 47,
+              "quote": "What we can do is build standards for the testing of frontier AI."
+            },
+            {
+              "source_turn": 47,
+              "quote": "Without market forces in place that mean things have to be checked against a standard pre-deployment, that cannot be enforced."
+            },
+            {
+              "source_turn": 47,
+              "quote": "we should put quality first and not rush against the PR machine."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Nora von Ingersleben-Seip",
+          "text": "I'm especially concerned about AI helping malicious actors develop new biological weapons, though standards alone may not prevent that. It would help if the US and China agreed ways to keep such actors from using their models, but trust between them is too low at present. An independent body could check whether leading developers' promised safeguards really work.",
+          "evidence": [
+            {
+              "source_turn": 48,
+              "quote": "I am especially concerned about new bioweapons."
+            },
+            {
+              "source_turn": 48,
+              "quote": "I am not sure how much standards can do to prevent these things."
+            },
+            {
+              "source_turn": 48,
+              "quote": "Coming together and agreeing on some processes for ensuring that malicious actors cannot use AI models for these kinds of purposes would be helpful. Right now there is too little trust among key players to actually do this."
+            },
+            {
+              "source_turn": 48,
+              "quote": "We need an organisation that can verify that the frontier labs in the US and China, and wherever else frontier labs might eventually emerge, are doing what they say they will do, and can make sure that safeguards are in place"
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "What sort of organisation could do those checks?",
+          "evidence": [
+            {
+              "source_turn": 49,
+              "quote": "What kind of organisation are you thinking about?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Nora von Ingersleben-Seip",
+          "text": "Designing it is difficult. It would need countries to work together, some power to enforce its findings, and independent experts who could enter leading AI developers' labs to check their claims.",
+          "evidence": [
+            {
+              "source_turn": 50,
+              "quote": "It would have to be a multilateral organisation that has enforcement powers in some ways. How to design that exactly is the subject of an academic or government study, and it is very difficult to say."
+            },
+            {
+              "source_turn": 50,
+              "quote": "this organisation needs to be able to send independent experts into frontier labs to test whether the claims that they are making are true."
+            }
+          ]
+        },
+        {
+          "speaker": "Adam Leon Smith",
+          "text": "This is where I disagree. Focusing on the most advanced AI overlooks risks in ordinary products, including hearing aids. I'm not convinced we need a new international body. I'd rather use existing independent, accredited organisations that already check whether products meet safety requirements.",
+          "evidence": [
+            {
+              "source_turn": 51,
+              "quote": "That is where Nora and I start to disagree"
+            },
+            {
+              "source_turn": 51,
+              "quote": "This is a much bigger problem than that. I do not know how many people in this room are wearing hearing aids, but nearly all hearing aids use AI models inside them"
+            },
+            {
+              "source_turn": 51,
+              "quote": "Is this problem big enough that we need to establish some kind of IAEA? I am unconvinced and believe that the existing quality infrastructure system is better suited to this."
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "What should this committee recommend to the British Government?",
+          "evidence": [
+            {
+              "source_turn": 52,
+              "quote": "In your field of interest in regulation, what should we be recommending to the British Government?"
+            }
+          ]
+        },
+        {
+          "speaker": "Adam Leon Smith",
+          "text": "UK law could set the safety outcomes AI products must meet and refer to technical standards for ways of meeting them. The UK should bring promising testing methods into existing international standards bodies, rather than create more bodies doing overlapping work. It should also pay attention to who can afford to participate.",
+          "evidence": [
+            {
+              "source_turn": 55,
+              "quote": "I would like to see domestic regulation that references standardisation in a similar way."
+            },
+            {
+              "source_turn": 55,
+              "quote": "We need to bring proven de facto standards that are coming out of the AISI and other things into standards—ideally into ISO/IEC international standards."
+            },
+            {
+              "source_turn": 55,
+              "quote": "Using the existing mechanisms, rather than trying to reinvent the wheel, is key, as is—as has come out several times in this meeting—looking at how people are funded to participate in standards"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Nora von Ingersleben-Seip",
+          "text": "The Government should say which AI Security Institute methods it plans to put forward as formal standards, where and when, then report what gets adopted. It should connect its promises in international political meetings to the experts writing technical rules. Each year, it should also check who holds standards roles, who is absent and whether the organisations disclose enough about their work.",
+          "evidence": [
+            {
+              "source_turn": 56,
+              "quote": "publish a pathway from AISI best practice to formal standards. I would be concrete about that, with timelines and named SDO venues, and then I would track what is adopted."
+            },
+            {
+              "source_turn": 56,
+              "quote": "create a standing link between the UK Government’s positions in political forums such as the UN, the G7, the OECD and the G20 and its technical delegations, so that principles become specifications"
+            },
+            {
+              "source_turn": 56,
+              "quote": "I would also recommend monitoring participation annually. Who leads where and who is absent? Then I would press SDOs for transparency on membership and process."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

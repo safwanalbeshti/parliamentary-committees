@@ -1,0 +1,868 @@
+{
+  "schema_version": 1,
+  "source_id": 18345,
+  "source_sha256": "61aab2552cb0b28f9df3bad6f5de1cf0cac1b3bb24e493e451bc19cd7b912545",
+  "title": "Children’s homes: the right care, in the right place",
+  "label": "18 November 2026 · Children’s homes and care leavers",
+  "summary": "The committee asked two representatives of children’s homes how well residential care meets children’s needs. Both said some children do very well, but others—especially those with severe mental health or behavioural needs—cannot get suitable care. They discussed support after leaving care, delays in opening homes, the mix of public and private providers, staff shortages and regional planning. They disagreed sharply about the risk posed by some heavily indebted providers, while agreeing that decisions should start with children’s needs rather than the ownership or price of a placement.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Bradley",
+      "role": "Chair of the Public Services Committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Andrew Isaac",
+      "name": "Andrew Isaac",
+      "role": "Chair, Children’s Services Development Group",
+      "kind": "witness"
+    },
+    {
+      "label": "Dr Mark Kerr",
+      "name": "Dr Mark Kerr",
+      "role": "Chief executive, Children’s Homes Association",
+      "kind": "witness"
+    },
+    {
+      "label": "Baroness Shawcross-Wolfson",
+      "name": "Baroness Shawcross-Wolfson",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Nichols of Selby",
+      "name": "Baroness Nichols of Selby",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Redfern",
+      "name": "Baroness Redfern",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Faulkner of Worcester",
+      "name": "Lord Faulkner of Worcester",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Watkins of Tavistock",
+      "name": "Baroness Watkins of Tavistock",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Johnson of Marylebone",
+      "name": "Lord Johnson of Marylebone",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Hollins",
+      "name": "Baroness Hollins",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Barber of Chittlehampton",
+      "name": "Lord Barber of Chittlehampton",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Mohammed of Tinsley",
+      "name": "Lord Mohammed of Tinsley",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Ofsted",
+      "definition": "The public body that registers and inspects children’s homes in England."
+    },
+    {
+      "term": "unregistered homes",
+      "definition": "Places providing care for children without the registration required for a children’s home."
+    },
+    {
+      "term": "regional care co-operatives",
+      "definition": "Arrangements for local councils to plan and buy some children’s care together across a wider area."
+    },
+    {
+      "term": "private equity",
+      "definition": "Investment firms that buy or finance companies, often intending to sell them later."
+    },
+    {
+      "term": "profit cap",
+      "definition": "A proposed limit on the profit a provider could make from publicly funded children’s care."
+    },
+    {
+      "term": "registered manager",
+      "definition": "The person legally required to manage a registered children’s home."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What counts as a good outcome?",
+      "takeaway": "The witnesses said success means a stable adult life, but children enter residential care with very different needs and prospects.",
+      "turns": [
+        {
+          "speaker": "Baroness Shawcross-Wolfson",
+          "text": "What would a good outcome look like for a child in a children’s home? How can we tell whether homes are achieving it?",
+          "evidence": [
+            {
+              "source_turn": 6,
+              "quote": "how do you define a good outcome, how do you measure it and track it, and to what degree do you think the market is delivering good outcomes at the moment?"
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Isaac",
+          "text": "For me, it’s a healthy move into adulthood. At 18, a young person goes from having one council responsible for their care to dealing with several agencies. They need practical help with housing, life skills and the next steps in their lives, not an abrupt end to support.",
+          "evidence": [
+            {
+              "source_turn": 7,
+              "quote": "A good outcome for a young person in the residential sector is realistically a healthy and positive transition into adulthood."
+            },
+            {
+              "source_turn": 7,
+              "quote": "Currently, they have a single corporate parent up until they are 18, and then they have to navigate up to nine different agencies to go on from there."
+            },
+            {
+              "source_turn": 7,
+              "quote": "There are so many things that could be helped, but it really needs the dots joining up."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Mark Kerr",
+          "text": "We should judge progress against each child’s starting point, not compare all children as if their needs were the same. Many do extremely well: they go on to stable lives, education, foster care or home. But others have needs that current services can’t meet, and their outcomes are poor.",
+          "evidence": [
+            {
+              "source_turn": 8,
+              "quote": "Outcomes are distance travelled in what children’s needs are, and it is important to recognise that children in residential start from a different place from those in foster care."
+            },
+            {
+              "source_turn": 8,
+              "quote": "Outcomes for a lot of children are fantastic. They really are tremendous and they have the life that they would not have had. They transition and they go on to stable lives—college, university. Younger ones go into foster care, hopefully, or return home."
+            },
+            {
+              "source_turn": 8,
+              "quote": "Those children will feel the most difficult outcomes, and at the moment they are poor because the sector cannot function to meet their needs."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Mark Kerr",
+          "text": "The children’s homes sector is now caring for some children with very serious needs. Far fewer children are in youth justice settings than 20 years ago, while hospital admissions for acute mental health problems have risen. We haven’t built enough suitable care for the children who need the most intensive help.",
+          "evidence": [
+            {
+              "source_turn": 8,
+              "quote": "we had around 3,200 children in youth justice settings. Today we have 383, which is a drop of 88%."
+            },
+            {
+              "source_turn": 8,
+              "quote": "there has been a 65% increase in acute mental health admissions to hospitals."
+            },
+            {
+              "source_turn": 8,
+              "quote": "we do not have enough of that top level. We are fine in the middle—in fact, we have too many"
+            }
+          ]
+        },
+        {
+          "speaker": "Baroness Shawcross-Wolfson",
+          "text": "Andrew, what about children’s lives before they turn 18? Are some doing well in residential care while others are being badly let down?",
+          "evidence": [
+            {
+              "source_turn": 9,
+              "quote": "Could I ask you for your reflections on what happens to them before 18 when they are in children’s social care, about the outcomes, and whether you think that, in the market, as Dr Kerr was very clear about saying, there are some children we are catastrophically failing and other children who are doing really well?"
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Isaac",
+          "text": "Homes do a great deal to help teenagers settle and engage with education. But we should also help families much earlier. More 14 to 17 year-olds are entering care, and support for young families was cut back. Where a child does need care and it suits their needs, a foster family is generally the better setting.",
+          "evidence": [
+            {
+              "source_turn": 10,
+              "quote": "the number of 14 to 17 year-olds entering care has gone up by 43%, and those are domestic entries"
+            },
+            {
+              "source_turn": 10,
+              "quote": "it started at the time when Early Starts were reduced dramatically. An Early Start situation helps young families, young children and young parents"
+            },
+            {
+              "source_turn": 10,
+              "quote": "a huge amount of work is done to stabilise them and get them interested and engaged in education"
+            },
+            {
+              "source_turn": 10,
+              "quote": "fostering, if a child is in care, really is the best setting for them, and it is the most cost effective in a family environment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Leaving care without losing support",
+      "takeaway": "Preparation can begin well before 18, but housing rules and uneven local support can still disrupt young people’s lives.",
+      "turns": [
+        {
+          "speaker": "Baroness Nichols of Selby",
+          "text": "Shouldn’t preparation for adult life start well before 18? And if some children are living in homes that aren’t registered, what should happen instead?",
+          "evidence": [
+            {
+              "source_turn": 11,
+              "quote": "do you think that part of the preparation should be done before they get anywhere near the age of 18?"
+            },
+            {
+              "source_turn": 11,
+              "quote": "You mentioned as well that the worst outcomes seem to be from unregistered homes. I wonder what evidence you have around that."
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Isaac",
+          "text": "Yes. Teenagers should be coached in life skills, but that doesn’t always happen. I’ve heard anecdotal estimates that about 20% of children in residential care shouldn’t be there. Care shouldn’t be provided in unregistered homes: it needs oversight. One provider has tried a staffed arrangement that gives young people continuing help with education, training and everyday life as they move towards independence.",
+          "evidence": [
+            {
+              "source_turn": 12,
+              "quote": "The anecdotal things that I have heard are that 20% of children who are in residential care should not be in there."
+            },
+            {
+              "source_turn": 12,
+              "quote": "When they then get to 16, it is quite right that they should be coached in life skills and where they are going; it does not always happen"
+            },
+            {
+              "source_turn": 12,
+              "quote": "I do not think unregistered provision is the answer. It needs to be registered and monitored."
+            },
+            {
+              "source_turn": 12,
+              "quote": "there is more engagement in education, further education, vocational training and life skills."
+            }
+          ]
+        },
+        {
+          "speaker": "Baroness Redfern",
+          "text": "What can councils do together to help young people placed away from home find somewhere stable to live, whether they stay where they are or return?",
+          "evidence": [
+            {
+              "source_turn": 13,
+              "quote": "What extra support can be given for children who are outside their area and want to come back?"
+            },
+            {
+              "source_turn": 13,
+              "quote": "What can local authorities work together to try to improve, so that young people can possibly get a place of their own and have a first stable part of their life?"
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Isaac",
+          "text": "Councils and independent providers should plan locally together. From about 16, each young person needs a managed transition, with somewhere to learn life skills and support into training or work, rather than being left to manage alone at 18.",
+          "evidence": [
+            {
+              "source_turn": 14,
+              "quote": "I would be encouraged if local authorities, either through the RCCs or in groups themselves, would work with the independent sector."
+            },
+            {
+              "source_turn": 14,
+              "quote": "You should have a planned transition so that, when they get to 16, they are carefully managed until 18 to move into a hub and spoke where they learn the life skills."
+            },
+            {
+              "source_turn": 14,
+              "quote": "taking forward how are we going to get them into more training, vocational training or basically into jobs."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Mark Kerr",
+          "text": "Age alone doesn’t tell you whether someone is ready to live independently. Many organisations begin preparation at about 14, but support after leaving care varies across the country. Housing is especially difficult: a young person may have built friendships and started college where they were placed, yet be told to return to their original council area for help.",
+          "evidence": [
+            {
+              "source_turn": 16,
+              "quote": "We get fixated on chronological age rather than where these children and young people are in their development."
+            },
+            {
+              "source_turn": 16,
+              "quote": "For children and young people leaving care, it is very varied across the country. Somebody asked whether we start earlier than 18—yes, we do. From about 14, a lot of the organisations start some of the softer preparation for independent skills."
+            },
+            {
+              "source_turn": 16,
+              "quote": "They have been there for several years, their friendship networks and homes are there, and they are at college there."
+            },
+            {
+              "source_turn": 16,
+              "quote": "You need to go back to Bromley, west London or wherever, because they have the statutory duty, which we do not"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Plenty of beds, but not the right ones",
+      "takeaway": "The witnesses described a shortage of specialist care alongside a surplus of more ordinary beds, with registration delays adding cost.",
+      "turns": [
+        {
+          "speaker": "Baroness Shawcross-Wolfson",
+          "text": "How well do councils and independent providers work together to decide what homes are needed and care for children?",
+          "evidence": [
+            {
+              "source_turn": 17,
+              "quote": "how well local authorities interact with independent providers and where it works well and where it works badly."
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Isaac",
+          "text": "Providers can ask councils what kinds of homes they need, but frequent changes of council staff make relationships harder to maintain. Opening a home can then take a long time because of registration, planning and sometimes local objections.",
+          "evidence": [
+            {
+              "source_turn": 18,
+              "quote": "they will go and visit the local authority to talk about their future sufficiency: “What is it you need and what type do you need?"
+            },
+            {
+              "source_turn": 18,
+              "quote": "the changes in local authority structures happen quite regularly, so the relationship-building can be challenging."
+            },
+            {
+              "source_turn": 18,
+              "quote": "the registration periods can sometimes be quite extensive and the local planning laws can be challenging."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Mark Kerr",
+          "text": "It varies enormously. Some councils and providers trust each other and plan together; elsewhere the relationship is very strained. Councils are under financial pressure, and I’m seeing children moved unexpectedly because another placement costs less. The child loses out.",
+          "evidence": [
+            {
+              "source_turn": 20,
+              "quote": "We have strong proactive partnerships with some of the LAs we work with and some of the regional approaches."
+            },
+            {
+              "source_turn": 20,
+              "quote": "there are several other areas where it is borderline toxic."
+            },
+            {
+              "source_turn": 20,
+              "quote": "The reality is that local authorities are moving children in an unplanned way based on fee."
+            },
+            {
+              "source_turn": 20,
+              "quote": "I sympathise, but it is the children who lose out in this."
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Faulkner of Worcester",
+          "text": "We’ve heard that registering a new children’s home can take up to 18 months. Why is it so slow, and what could change?",
+          "evidence": [
+            {
+              "source_turn": 21,
+              "quote": "I was shocked to discover that there are delays on registrations of up to 18 months."
+            },
+            {
+              "source_turn": 21,
+              "quote": "Can you tell us a bit more about why you think that has come about and what can be done to deal with it?"
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Isaac",
+          "text": "Before registration, a provider must prepare the building and recruit and train the manager and staff. They bear those costs while the home is empty, and staff may leave before it opens. Ofsted should work with providers to shorten the process, though I don’t have a complete answer for how.",
+          "evidence": [
+            {
+              "source_turn": 22,
+              "quote": "Then you have to employ a registered manager and the staff team; they all need to be in place and trained prior to full registration being granted."
+            },
+            {
+              "source_turn": 22,
+              "quote": "The operator or the provider would have to take huge financial costs until that home is being used."
+            },
+            {
+              "source_turn": 22,
+              "quote": "the staff themselves are going to ask, “Why am I here? When is all this going to happen?”"
+            },
+            {
+              "source_turn": 22,
+              "quote": "It is probably a bigger problem than I have an answer for"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Mark Kerr",
+          "text": "I suspect Ofsted lacks resources: the number of homes has roughly doubled in just over five years. It chose to prioritise inspecting existing homes, which is understandable for safety. But I’d inspect homes rated good or outstanding every two years rather than annually, freeing staff to register new homes. Our modelling suggests delays can add around £15,000 a month to a provider’s costs, which eventually feeds into council fees.",
+          "evidence": [
+            {
+              "source_turn": 24,
+              "quote": "The theory for me is Ofsted resource. In the space of just over five years, we have gone from 2,500 to 5,000 children’s homes."
+            },
+            {
+              "source_turn": 24,
+              "quote": "The decision was made to focus on inspections, which is probably right—it wants to keep children safe."
+            },
+            {
+              "source_turn": 24,
+              "quote": "If it was to say that children’s homes that are good or outstanding—those it does not have a concern with—go to two years, it would free up resource."
+            },
+            {
+              "source_turn": 24,
+              "quote": "our reasonably informed modelling—we have many members and we know the delays—says that the Ofsted delays are potentially putting on a cost of about £15,000 a month."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Mark Kerr",
+          "text": "This isn’t simply a shortage of beds. I count about 17,000 registered beds for roughly 9,500 children in residential care, with more homes awaiting registration. There are too many homes for some common needs but too few willing and able to care for children with the most serious difficulties. Delays make opening those specialist homes harder.",
+          "evidence": [
+            {
+              "source_turn": 27,
+              "quote": "We have about 17,000 registered beds. There are only 9,500 children in residential care. There are 1,000 more homes in the queue for Ofsted registration, which will be 2,000 to 3,000 beds."
+            },
+            {
+              "source_turn": 27,
+              "quote": "We have lots in that middle level of homes for EBD—emotional behavioural difficulties—but nobody will open our A&E and ICU wards because of registration delays."
+            }
+          ]
+        },
+        {
+          "speaker": "Baroness Watkins of Tavistock",
+          "text": "If there are already more beds than children using them, why are people still investing in new homes? I want existing homes inspected so standards remain high, though inspecting every two years sounds reasonable.",
+          "evidence": [
+            {
+              "source_turn": 34,
+              "quote": "Why are people wanting more registered homes when they know what the policy is?"
+            },
+            {
+              "source_turn": 34,
+              "quote": "I am quite comfortable that people keep inspecting current homes, because I want the standards to be right. Two years seems perfectly reasonable to me, rather than annually."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Mark Kerr",
+          "text": "I can only offer a theory: some investors may be looking for another use for their property, while others may not have studied the figures closely. Running a children’s home can look easier from the outside than it is.",
+          "evidence": [
+            {
+              "source_turn": 35,
+              "quote": "My only theory is that there are people with properties who need to find another purpose for them, or people have not drilled into the data."
+            },
+            {
+              "source_turn": 35,
+              "quote": "There are two jobs that people think are easy from the other side: running a pub and running a children’s home. People learn the hard way."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Who runs care, and who carries the risk?",
+      "takeaway": "Both witnesses defended a mix of providers, but disagreed about whether some investment-backed companies pose a serious risk to children’s care.",
+      "turns": [
+        {
+          "speaker": "Lord Johnson of Marylebone",
+          "text": "Private providers now run a much larger share of children’s homes. Has that changed the quality of care or what councils pay?",
+          "evidence": [
+            {
+              "source_turn": 47,
+              "quote": "private providers coming to dominate the sector and the share of homes run by local authorities and the voluntary sector reducing significantly. What impact do you think this has on the quality of outcomes and value for money for commissioners?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Mark Kerr",
+          "text": "Ownership alone doesn’t tell you whether a home is good. I see excellent and poor care among council, charity and independent homes. I support having all three, but my association won’t admit providers ultimately owned in tax havens: if they’re paid with public money, I think they should pay tax on their surplus back into public funds.",
+          "evidence": [
+            {
+              "source_turn": 48,
+              "quote": "I see excellent local authority homes, excellent charitable providers and excellent independents, but I also see poor quality in every area of the sector"
+            },
+            {
+              "source_turn": 48,
+              "quote": "I am personally and professionally committed to a mixed economy"
+            },
+            {
+              "source_turn": 48,
+              "quote": "one of the first things I did when I took over as CEO at the Children’s Homes Association was to change our membership criteria to exclude tax haven-based providers."
+            },
+            {
+              "source_turn": 48,
+              "quote": "you pay the tax on your surplus back into said public funds."
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Isaac",
+          "text": "Responsible profit-making isn’t the same as profiteering. Broad attacks on independent providers can damage the workforce and make partnership harder. Councils and providers should plan what kinds of homes children need in each area, rather than fill an empty bed simply because it’s available.",
+          "evidence": [
+            {
+              "source_turn": 49,
+              "quote": "There is a substantial difference between responsible profit-making and reinvestment in the sector and profiteering."
+            },
+            {
+              "source_turn": 49,
+              "quote": "the rhetoric in the public domain at the moment is tarnishing the future of the sector. It is damaging people that want to work there"
+            },
+            {
+              "source_turn": 49,
+              "quote": "the independent sector wants to work very closely with local authorities on a local or regional basis."
+            },
+            {
+              "source_turn": 49,
+              "quote": "We should reverse the whole thing, asking what the child or young person wants"
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Johnson of Marylebone",
+          "text": "Is private equity ownership itself a concern, or is the bigger problem councils’ ability to negotiate with providers on price and quality?",
+          "evidence": [
+            {
+              "source_turn": 50,
+              "quote": "Are there any particular issues to flag with private equity ownership within the universe of providers, or is it really more a general problem that local authorities have become so dependent on private provision of any sort that they have lost the ability to contract and negotiate effectively on price and quality?"
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Isaac",
+          "text": "Mark and I differ on private equity. I’ve worked with investment firms I consider ethical; they offer a way to finance homes. I welcome the new arrangements for checking providers’ finances and spotting warning signs before a provider gets into trouble.",
+          "evidence": [
+            {
+              "source_turn": 51,
+              "quote": "I think Mark and I would differ on private equity because I have worked with a number of organisations, and I find them very ethical in the way they are looking at investing in organisations."
+            },
+            {
+              "source_turn": 51,
+              "quote": "A private equity organisation is a different funding model"
+            },
+            {
+              "source_turn": 51,
+              "quote": "Transparency and finance are a safeguard for the public sector. Similarly, there is the provision for the provider oversight, which makes sure that if there is an issue that is happening in the future or there is the sign of one, it is dealt with before it happens."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Mark Kerr",
+          "text": "I’m much more worried. Some large providers carry substantial debts and pay interest to companies based in tax havens. I’m concerned that two or three could fail. Watching their finances may provide a warning, but I haven’t seen a plan for what happens to their services if they do fail.",
+          "evidence": [
+            {
+              "source_turn": 52,
+              "quote": "there is a massive overlap between private equity providers and being tax haven-based."
+            },
+            {
+              "source_turn": 52,
+              "quote": "There are two or three that I am extremely concerned about."
+            },
+            {
+              "source_turn": 52,
+              "quote": "I am looking at one provider that is carrying half a billion pounds of debt, and large tranches have to be refinanced in 2028."
+            },
+            {
+              "source_turn": 52,
+              "quote": "What I have not seen is what they are going to do when it happens, because it is going to happen."
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Isaac",
+          "text": "I fundamentally disagree about the likely impact of a provider’s failure. I believe foster-care arrangements could pass to another provider without putting a child at risk. The planned financial checks are intended to prevent a disaster.",
+          "evidence": [
+            {
+              "source_turn": 53,
+              "quote": "I fundamentally disagree with him—which I am sure he is not surprised at."
+            },
+            {
+              "source_turn": 53,
+              "quote": "The registration of each individual foster care family would immediately pass to another provider, whether that be independent or the local authority. No child would be at risk."
+            },
+            {
+              "source_turn": 53,
+              "quote": "That is the whole point of the financial oversight—so that we do not have a disaster."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Mark Kerr",
+          "text": "But what about a children’s-home provider that has leased its buildings and hasn’t paid the rent? Moving foster-care arrangements doesn’t answer that risk.",
+          "evidence": [
+            {
+              "source_turn": 54,
+              "quote": "You talked about foster. What about residential? You have a residential provider that has leased back its properties and it has not paid its rent."
+            }
+          ]
+        },
+        {
+          "speaker": "Baroness Watkins of Tavistock",
+          "text": "What about the proposed financial checks and a possible profit cap? You clearly have different views of the risks.",
+          "evidence": [
+            {
+              "source_turn": 58,
+              "quote": "You have two very different opinions. Can you specifically comment on the financial oversight scheme and the potential future implementation of a profit cap?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Mark Kerr",
+          "text": "The government should spell out the profit cap. I think a cap around 15% would suit most providers. But if a company pays large interest bills before declaring any profit, a cap on declared profit might leave that business model untouched—and even favour it.",
+          "evidence": [
+            {
+              "source_turn": 59,
+              "quote": "We know what it is—it is ONS reference data and it would be about 15% or 16%. Most of the providers are not making that profit."
+            },
+            {
+              "source_turn": 59,
+              "quote": "All our providers would be happy with a 15% profit cap"
+            },
+            {
+              "source_turn": 59,
+              "quote": "Their money goes out as an operating cost in interest payments before profit, so you will be introducing a market that favours PE."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "People, planning and immediate priorities",
+      "takeaway": "Better-trained staff, more suitable local care and sustained help into adulthood mattered more to the witnesses than simply creating more places to buy.",
+      "turns": [
+        {
+          "speaker": "Baroness Hollins",
+          "text": "Could better funding and professional support for foster families encourage more people to foster, including children with greater needs?",
+          "evidence": [
+            {
+              "source_turn": 62,
+              "quote": "whether properly resourcing foster care might encourage more people in—if they were properly resourced, supported and had the appropriate networks of support around them."
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Isaac",
+          "text": "I think so. A family caring for a 14 year-old may need different help from one caring for a four year-old. More access to professionals and therapies could help foster families take older children, though there aren’t enough of those professionals available.",
+          "evidence": [
+            {
+              "source_turn": 63,
+              "quote": "There are just not enough professionals out there."
+            },
+            {
+              "source_turn": 63,
+              "quote": "the more resources you can give a foster care family to help them through it, the more likely they are to have the older children. It is very different having a 14 year-old to having a four year-old."
+            },
+            {
+              "source_turn": 63,
+              "quote": "There has got to be an even spread of professionals who will put therapies and intervention processes around."
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Mohammed of Tinsley",
+          "text": "Do children’s homes have enough staff with the right skills for the young people living there?",
+          "evidence": [
+            {
+              "source_turn": 64,
+              "quote": "To what extent do you think the workforce there have the capacity and the skill mix to meet those needs?"
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Isaac",
+          "text": "We need to make caring for children in homes a career people can enter, develop in and feel proud of—not just a job. Staff need training for children’s increasingly complex needs, and the government could help show why this work matters.",
+          "evidence": [
+            {
+              "source_turn": 65,
+              "quote": "More than just a job, it needs to be positioned as a career."
+            },
+            {
+              "source_turn": 65,
+              "quote": "There is definitely a training need, but there is also a public awareness need in that coming to work in a children’s home and making a difference to these children’s lives is also a vocation that you can be proud of."
+            },
+            {
+              "source_turn": 65,
+              "quote": "probably the Government could help in promoting it as a career."
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Barber of Chittlehampton",
+          "text": "Is anyone developing this as a profession in a systematic way—sharing lessons, teaching specific skills and preparing future leaders?",
+          "evidence": [
+            {
+              "source_turn": 67,
+              "quote": "Secondly, there needs to be skills development in very specific areas"
+            },
+            {
+              "source_turn": 67,
+              "quote": "Thirdly, there needs to be leadership development so that there are career aspirations as you go through."
+            },
+            {
+              "source_turn": 67,
+              "quote": "Is anybody doing anything about that?"
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Isaac",
+          "text": "The work is fragmented. I’d like someone to look across the whole workforce, including why so many care and management jobs are vacant, rather than leave separate groups to tackle pieces of the problem.",
+          "evidence": [
+            {
+              "source_turn": 68,
+              "quote": "It is disjointed. There are social work professionals looking at it. The children’s bureau is being retained by DofE to look at it. There are a number of people looking at it"
+            },
+            {
+              "source_turn": 70,
+              "quote": "It is big enough to have somebody look at it as a whole—that is what I would like to see"
+            },
+            {
+              "source_turn": 70,
+              "quote": "there are a huge number of job vacancies across the sector. There are a huge number of registered manager positions in both the independent sector and the public sector that need filling."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Mark Kerr",
+          "text": "People are the crucial resource in a children’s home. Every home legally needs a registered manager, yet one in five doesn’t have one, because people don’t want the role. It’s also hard to attract people into a career when government says it wants the sector to shrink.",
+          "evidence": [
+            {
+              "source_turn": 75,
+              "quote": "the capital in a children’s home is the people."
+            },
+            {
+              "source_turn": 75,
+              "quote": "The registered manager is a statutory post—every home legally needs to have one—but one in 5 homes has not got one, and the reason is: people do not want that job."
+            },
+            {
+              "source_turn": 75,
+              "quote": "Why are you going to choose a career aspiration where they are saying, “This might not be here in five or 10 years”"
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "Could regional care co-operatives help councils work out where different kinds of care are needed and make sure children can get it?",
+          "evidence": [
+            {
+              "source_turn": 76,
+              "quote": "your assessment of what they are achieving and what they could achieve on many of the issues you have presented as a problem around sufficiency and demand and coverage across the country?"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Mark Kerr",
+          "text": "Councils should work together on specialist care needed by only a few children in each area. But I’m not convinced creating another organisation will fix shortages: councils have bought places together for years. A bigger purchasing group can’t by itself create staff with the skills to care for a child with complex needs.",
+          "evidence": [
+            {
+              "source_turn": 77,
+              "quote": "there is a strong case for local authorities to be working together for some of the specialist services. There are certain cohorts of children where they only have a small number"
+            },
+            {
+              "source_turn": 77,
+              "quote": "we need to distinguish between regional co-operation and the creation of another organisation."
+            },
+            {
+              "source_turn": 77,
+              "quote": "We have had regional commissioning frameworks where local authorities work together to commission placements for years, and it has not achieved what they think regional care co-operatives would"
+            },
+            {
+              "source_turn": 77,
+              "quote": "you cannot purchase more intensive-care beds in a general hospital ward just by creating a bigger purchasing organisation."
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Isaac",
+          "text": "Regional planning could help councils predict demand and arrange specialist care together. But it must be about finding the right care for each child, not using an empty council place simply to avoid spending elsewhere.",
+          "evidence": [
+            {
+              "source_turn": 79,
+              "quote": "RCCs could actually improve commissioning in sufficiency because, in my understanding, part of what they are looking at is demand forecasting."
+            },
+            {
+              "source_turn": 79,
+              "quote": "The pooling of empty places in local authority-owned residential care is really cost avoidance: “We’ve got an empty space there. Put that child in”."
+            },
+            {
+              "source_turn": 79,
+              "quote": "We should make sure that RCCs are focused purely on the need of the child or the individual, not the cost."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Mark Kerr",
+          "text": "Help into work also has to fit care leavers’ real lives. Someone on a low-paid apprenticeship may struggle to cover rent but also fail to qualify for benefits. Unlike many other young people, they may have no family home to live in while they train. Those rules need attention, alongside mental health support and employers who understand their circumstances.",
+          "evidence": [
+            {
+              "source_turn": 82,
+              "quote": "if you are to be pursuing apprenticeship or some other vocational route that does not give a full salary, you cannot afford to pay rent but you also cannot claim benefits because you are not available for work."
+            },
+            {
+              "source_turn": 82,
+              "quote": "They do not have the traditional Mum and Dad and cannot stay in the spare room while they pursue their apprenticeship."
+            },
+            {
+              "source_turn": 82,
+              "quote": "Mental and emotional health support as well is a key thing for a lot of them."
+            },
+            {
+              "source_turn": 82,
+              "quote": "If you educate the employers, there is a lot more chance of compassion and patience and understanding from them."
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "If you had to prioritise changes now, what would most improve children’s lives?",
+          "evidence": [
+            {
+              "source_turn": 83,
+              "quote": "what would you prioritise to improve the outcomes of children in the short term? What would be your key changes you would like to see implemented?"
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Isaac",
+          "text": "Develop the workforce across children’s services. Look seriously at support for young people leaving care up to 25, particularly those with disabilities. And get councils and independent providers working together rather than fighting each other.",
+          "evidence": [
+            {
+              "source_turn": 84,
+              "quote": "the development of the staffing base for the whole sector, and that includes fostering, residential and special needs education."
+            },
+            {
+              "source_turn": 84,
+              "quote": "a serious look at looked-after children going through to the age of 25, particularly those with disabilities"
+            },
+            {
+              "source_turn": 84,
+              "quote": "I would absolutely ask local authorities to work very closely with the experts that are available within the independent sector"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Mark Kerr",
+          "text": "Start with children’s needs, not the ownership of homes. My immediate priority is a shared response from health services, justice services, councils and Ofsted for the small group with needs that no suitable service currently meets. I’d also end the use of unregistered homes and map what each registered home can actually do—not just count its beds.",
+          "evidence": [
+            {
+              "source_turn": 85,
+              "quote": "stop thinking about structures and ownership, and instead start with the needs of children."
+            },
+            {
+              "source_turn": 85,
+              "quote": "there needs to be joint responsibility between the NHS, the Ministry of Justice, Ofsted and local authorities for how we respond to them"
+            },
+            {
+              "source_turn": 85,
+              "quote": "My second priority would be a national programme to end the use of illegal children’s homes."
+            },
+            {
+              "source_turn": 85,
+              "quote": "capacity is not capability, so we really need to have a better understanding of what the specialisms are of children’s homes around the country and try and match that to the needs."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

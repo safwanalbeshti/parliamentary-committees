@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "parliament_oral_evidence_id": 18352,
+  "activity_id": 39732,
+  "document_id": 315804,
+  "meeting_date": "2026-11-25",
+  "meeting_date_display": "25 November 2026",
+  "publication_date": "2026-11-25T10:35:17",
+  "title": "E-Commerce Agreement",
+  "committee": "International Agreements Committee",
+  "committees": [
+    {
+      "id": 448,
+      "name": "International Agreements Committee",
+      "house": "Lords"
+    }
+  ],
+  "businesses": [
+    {
+      "id": 10129,
+      "title": "E-Commerce Agreement",
+      "type": "Non-inquiry session"
+    }
+  ],
+  "witnesses": [
+    {
+      "name": "Chris Basiurski",
+      "role": "Deputy Director, Global Trading System Team",
+      "organisation": "Department for Business, Science, Innovation and Trade"
+    },
+    {
+      "name": "Ayesha Ali",
+      "role": "Deputy Director, Digital Trade and Telecoms",
+      "organisation": "Department for Business, Science, Innovation and Trade"
+    }
+  ],
+  "speaker_candidates": [
+    "The Chair",
+    "Ayesha Ali",
+    "Chris Basiurski",
+    "Baroness Bi",
+    "Lord Hannay of Chiswick",
+    "Baroness Lawlor",
+    "Lord Stevenson of Balmacara",
+    "Baroness Anelay of St Johns",
+    "Baroness Bonham-Carter of Yarnbury",
+    "Lord Anderson of Swansea"
+  ],
+  "transcript_status": "uncorrected",
+  "source_url": "https://committees.parliament.uk/oralevidence/18352/html/",
+  "api_url": "https://committees-api.parliament.uk/api/OralEvidence/18352",
+  "source_sha256": "c2554ee7733223364db8b8fab8c21017440bcf665b63cc5c76c1c02d7441daf3",
+  "licence": "Open Parliament Licence v3.0",
+  "packet_status": "awaiting-condensation",
+  "source_document_format": "Html"
+}

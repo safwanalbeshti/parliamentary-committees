@@ -2082,5 +2082,488 @@ window.COMMITTEE_ROOMS = {
    "Phil Garrigan": "front_4",
    "Dr Kochhar": "front_5"
   }
+ },
+ "oral-evidence-18341": {
+  "image": "rooms/oral-evidence-18341.webp?v=6ebe6fee",
+  "width": 1689,
+  "height": 931,
+  "seats": {
+   "seat_k": {
+    "x": 87.3,
+    "y": 41.2
+   },
+   "seat_l": {
+    "x": 88.4,
+    "y": 47.0
+   },
+   "seat_n": {
+    "x": 86.0,
+    "y": 58.8
+   },
+   "seat_i": {
+    "x": 77.4,
+    "y": 34.1
+   },
+   "seat_h": {
+    "x": 66.4,
+    "y": 30.8
+   },
+   "seat_f": {
+    "x": 49.1,
+    "y": 30.1
+   },
+   "seat_d": {
+    "x": 36.4,
+    "y": 33.7
+   },
+   "seat_c": {
+    "x": 30.7,
+    "y": 36.5
+   },
+   "seat_a": {
+    "x": 15.7,
+    "y": 44.1
+   },
+   "front_4": {
+    "x": 43.2,
+    "y": 64.6
+   },
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   }
+  },
+  "cast": {
+   "Chair": "seat_h",
+   "Baroness Crawley": "seat_a",
+   "Lord Lamont of Lerwick": "seat_c",
+   "Baroness Fraser of Craigmaddie": "seat_d",
+   "Baroness Prashar": "seat_f",
+   "Lord Darroch of Kew": "seat_i",
+   "Lord Houghton of Richmond": "seat_k",
+   "Lord Ahmad of Wimbledon": "seat_l",
+   "Lord Grocott": "seat_n",
+   "Adam Leon Smith": "front_3",
+   "Dr Nora von Ingersleben-Seip": "front_4"
+  }
+ },
+ "oral-evidence-18342": {
+  "image": "rooms/oral-evidence-18342.webp?v=d1c4d203",
+  "width": 1689,
+  "height": 931,
+  "seats": {
+   "seat_k": {
+    "x": 87.7,
+    "y": 41.4
+   },
+   "seat_n": {
+    "x": 87.4,
+    "y": 58.4
+   },
+   "seat_h": {
+    "x": 66.4,
+    "y": 30.5
+   },
+   "seat_g": {
+    "x": 57.6,
+    "y": 30.5
+   },
+   "seat_d": {
+    "x": 36.2,
+    "y": 35.7
+   },
+   "seat_a": {
+    "x": 17.0,
+    "y": 44.1
+   },
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
+   },
+   "front_4": {
+    "x": 43.2,
+    "y": 64.6
+   },
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   },
+   "front_2": {
+    "x": 21.5,
+    "y": 58.5
+   }
+  },
+  "cast": {
+   "Chair": "seat_h",
+   "Joe Morris": "seat_a",
+   "Dr Arthur": "seat_d",
+   "Alex Mayer": "seat_g",
+   "Jacob Collier": "seat_k",
+   "Samantha Dixon": "seat_n",
+   "Professor Khastgir": "front_2",
+   "Professor Cuerden": "front_3",
+   "Stuart Lovett": "front_4",
+   "Ashley Patton": "front_5"
+  }
+ },
+ "oral-evidence-18343": {
+  "image": "rooms/oral-evidence-18343.webp?v=2a210580",
+  "width": 1689,
+  "height": 931,
+  "seats": {
+   "seat_j": {
+    "x": 85.4,
+    "y": 38.0
+   },
+   "seat_l": {
+    "x": 87.9,
+    "y": 46.8
+   },
+   "seat_n": {
+    "x": 87.4,
+    "y": 58.4
+   },
+   "seat_h": {
+    "x": 66.4,
+    "y": 30.5
+   },
+   "seat_g": {
+    "x": 57.9,
+    "y": 32.2
+   },
+   "seat_e": {
+    "x": 41.6,
+    "y": 32.0
+   },
+   "seat_c": {
+    "x": 30.5,
+    "y": 36.2
+   },
+   "seat_a": {
+    "x": 16.8,
+    "y": 44.0
+   },
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
+   },
+   "front_4": {
+    "x": 43.2,
+    "y": 64.6
+   },
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   },
+   "front_2": {
+    "x": 21.5,
+    "y": 58.5
+   }
+  },
+  "cast": {
+   "Chair": "seat_h",
+   "Daniel Francis": "seat_a",
+   "Olly Glover": "seat_c",
+   "Alex Mayer": "seat_e",
+   "Dr Arthur": "seat_g",
+   "Steff Aquarone": "seat_j",
+   "Jacob Collier": "seat_l",
+   "Samantha Dixon": "seat_n",
+   "Nicole Taylor": "front_2",
+   "Chris Taylor": "front_3",
+   "Sharron Huddleston": "front_4",
+   "Dr Greenwood": "front_5"
+  }
+ },
+ "oral-evidence-18344": {
+  "image": "rooms/oral-evidence-18344.webp?v=c4251d51",
+  "width": 1689,
+  "height": 931,
+  "seats": {
+   "seat_j": {
+    "x": 85.3,
+    "y": 38.2
+   },
+   "seat_l": {
+    "x": 87.8,
+    "y": 47.0
+   },
+   "seat_n": {
+    "x": 86.5,
+    "y": 58.5
+   },
+   "seat_h": {
+    "x": 66.5,
+    "y": 30.5
+   },
+   "seat_g": {
+    "x": 57.9,
+    "y": 30.1
+   },
+   "seat_e": {
+    "x": 41.8,
+    "y": 32.0
+   },
+   "seat_c": {
+    "x": 31.0,
+    "y": 36.6
+   },
+   "seat_a": {
+    "x": 16.3,
+    "y": 43.8
+   },
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
+   },
+   "front_4": {
+    "x": 43.2,
+    "y": 64.6
+   },
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   }
+  },
+  "cast": {
+   "Chair": "seat_h",
+   "Lord Storey": "seat_a",
+   "Baroness Fleet": "seat_c",
+   "Lord Knight of Weymouth": "seat_e",
+   "Baroness Caine of Kentish Town": "seat_g",
+   "Viscount Colville of Culross": "seat_j",
+   "Lord Tarassenko": "seat_l",
+   "Baroness Elliott of Whitburn Bay": "seat_n",
+   "Katie O’Donovan": "front_3",
+   "Tim Scott": "front_4",
+   "Rebecca Stimson": "front_5"
+  }
+ },
+ "oral-evidence-18345": {
+  "image": "rooms/oral-evidence-18345.webp?v=f59e00d6",
+  "width": 1689,
+  "height": 931,
+  "seats": {
+   "seat_j": {
+    "x": 85.4,
+    "y": 37.8
+   },
+   "seat_k": {
+    "x": 87.6,
+    "y": 41.9
+   },
+   "seat_l": {
+    "x": 87.3,
+    "y": 47.0
+   },
+   "seat_n": {
+    "x": 86.1,
+    "y": 58.4
+   },
+   "seat_h": {
+    "x": 66.2,
+    "y": 30.7
+   },
+   "seat_g": {
+    "x": 58.0,
+    "y": 30.1
+   },
+   "seat_e": {
+    "x": 41.5,
+    "y": 31.8
+   },
+   "seat_d": {
+    "x": 35.9,
+    "y": 33.8
+   },
+   "seat_c": {
+    "x": 31.0,
+    "y": 36.6
+   },
+   "seat_a": {
+    "x": 16.2,
+    "y": 43.1
+   },
+   "front_4": {
+    "x": 43.2,
+    "y": 64.6
+   },
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   }
+  },
+  "cast": {
+   "Chair": "seat_h",
+   "Baroness Shawcross-Wolfson": "seat_a",
+   "Baroness Nichols of Selby": "seat_c",
+   "Baroness Redfern": "seat_d",
+   "Lord Faulkner of Worcester": "seat_e",
+   "Baroness Watkins of Tavistock": "seat_g",
+   "Lord Johnson of Marylebone": "seat_j",
+   "Baroness Hollins": "seat_k",
+   "Lord Barber of Chittlehampton": "seat_l",
+   "Lord Mohammed of Tinsley": "seat_n",
+   "Andrew Isaac": "front_3",
+   "Dr Mark Kerr": "front_4"
+  }
+ },
+ "oral-evidence-18346": {
+  "image": "rooms/oral-evidence-18346.webp?v=97371a9f",
+  "width": 1689,
+  "height": 931,
+  "seats": {
+   "seat_k": {
+    "x": 87.4,
+    "y": 41.7
+   },
+   "seat_l": {
+    "x": 88.8,
+    "y": 46.9
+   },
+   "seat_n": {
+    "x": 86.7,
+    "y": 58.7
+   },
+   "seat_i": {
+    "x": 77.5,
+    "y": 34.1
+   },
+   "seat_h": {
+    "x": 66.3,
+    "y": 30.7
+   },
+   "seat_f": {
+    "x": 49.6,
+    "y": 30.7
+   },
+   "seat_d": {
+    "x": 36.1,
+    "y": 33.4
+   },
+   "seat_c": {
+    "x": 30.9,
+    "y": 36.1
+   },
+   "seat_a": {
+    "x": 16.1,
+    "y": 43.6
+   },
+   "front_6": {
+    "x": 66.0,
+    "y": 69.7
+   },
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
+   },
+   "front_4": {
+    "x": 43.2,
+    "y": 64.6
+   },
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   },
+   "front_2": {
+    "x": 21.5,
+    "y": 58.5
+   }
+  },
+  "cast": {
+   "Chair": "seat_h",
+   "Baroness Prentis of Banbury": "seat_a",
+   "Sir Jeremy Wright": "seat_c",
+   "Naz Shah": "seat_d",
+   "Lord Isaac": "seat_f",
+   "Danny Beales": "seat_i",
+   "Marie Goldman": "seat_k",
+   "Baroness Browning": "seat_l",
+   "Baroness Brown of Silvertown": "seat_n",
+   "Tom Guest": "front_2",
+   "Andrew Thomas": "front_3",
+   "Sioned Williams": "front_4",
+   "Gordon Lyons": "front_5",
+   "Simita Kumar": "front_6"
+  }
+ },
+ "oral-evidence-18347": {
+  "image": "rooms/oral-evidence-18347.webp?v=9df6a095",
+  "width": 1689,
+  "height": 931,
+  "seats": {
+   "seat_k": {
+    "x": 87.4,
+    "y": 41.7
+   },
+   "seat_l": {
+    "x": 88.8,
+    "y": 46.9
+   },
+   "seat_n": {
+    "x": 86.7,
+    "y": 58.7
+   },
+   "seat_i": {
+    "x": 77.5,
+    "y": 34.1
+   },
+   "seat_h": {
+    "x": 66.3,
+    "y": 30.7
+   },
+   "seat_f": {
+    "x": 49.6,
+    "y": 30.7
+   },
+   "seat_d": {
+    "x": 36.1,
+    "y": 33.4
+   },
+   "seat_c": {
+    "x": 30.9,
+    "y": 36.1
+   },
+   "seat_a": {
+    "x": 16.1,
+    "y": 43.6
+   },
+   "front_6": {
+    "x": 66.0,
+    "y": 69.7
+   },
+   "front_5": {
+    "x": 54.5,
+    "y": 67.3
+   },
+   "front_4": {
+    "x": 43.2,
+    "y": 64.6
+   },
+   "front_3": {
+    "x": 32.1,
+    "y": 61.5
+   },
+   "front_2": {
+    "x": 21.5,
+    "y": 58.5
+   }
+  },
+  "cast": {
+   "Chair": "seat_h",
+   "Baroness Prentis of Banbury": "seat_a",
+   "Sir Jeremy Wright": "seat_c",
+   "Naz Shah": "seat_d",
+   "Lord Isaac": "seat_f",
+   "Danny Beales": "seat_i",
+   "Marie Goldman": "seat_k",
+   "Baroness Browning": "seat_l",
+   "Baroness Brown of Silvertown": "seat_n",
+   "Tom Guest": "front_2",
+   "Andrew Thomas": "front_3",
+   "Sioned Williams": "front_4",
+   "Gordon Lyons": "front_5",
+   "Simita Kumar": "front_6"
+  }
  }
 };

@@ -1,0 +1,1074 @@
+{
+  "schema_version": 1,
+  "source_id": 18344,
+  "source_sha256": "db4b52a569e1942ae8dbd6efd8d90493948febfe2322e4ae18478f00a2269047",
+  "title": "Are online platforms getting safer for children?",
+  "label": "17 November 2026 · Online safety and children",
+  "summary": "The committee challenged Google, Roblox and Meta over evidence that children are still encountering harmful material despite the Online Safety Act. The companies described new age checks, restrictions and systems for finding harmful content, but members pressed them on failures found by researchers and children’s organisations. The hearing ended without agreement that the measures are working well enough; witnesses said safety work must continue.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Baroness Keeley",
+      "role": "Chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Katie O’Donovan",
+      "name": "Katie O’Donovan",
+      "role": "Director for Government Affairs and Public Policy, Google UK",
+      "kind": "witness"
+    },
+    {
+      "label": "Tim Scott",
+      "name": "Tim Scott",
+      "role": "Senior Director for Public Policy, EMEA, Roblox",
+      "kind": "witness"
+    },
+    {
+      "label": "Rebecca Stimson",
+      "name": "Rebecca Stimson",
+      "role": "Director of Public Policy, UK, Meta",
+      "kind": "witness"
+    },
+    {
+      "label": "Lord Storey",
+      "name": "Lord Storey",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Fleet",
+      "name": "Baroness Fleet",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Knight of Weymouth",
+      "name": "Lord Knight of Weymouth",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Caine of Kentish Town",
+      "name": "Baroness Caine of Kentish Town",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Viscount Colville of Culross",
+      "name": "Viscount Colville of Culross",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Tarassenko",
+      "name": "Lord Tarassenko",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Elliott of Whitburn Bay",
+      "name": "Baroness Elliott of Whitburn Bay",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Online Safety Act",
+      "definition": "The UK law that requires online services to assess risks and protect users, particularly children, from specified harms."
+    },
+    {
+      "term": "Ofcom",
+      "definition": "The UK regulator responsible for overseeing how online services follow the Online Safety Act."
+    },
+    {
+      "term": "SafeSearch",
+      "definition": "A Google Search setting intended to filter explicit results."
+    },
+    {
+      "term": "age assurance",
+      "definition": "Methods a service uses to work out a user's age or likely age."
+    },
+    {
+      "term": "age verification",
+      "definition": "A check intended to establish a user's age using evidence such as identification."
+    },
+    {
+      "term": "risk assessment",
+      "definition": "A review of how a service or feature might expose users to harm and what the company will do about it."
+    },
+    {
+      "term": "teen accounts",
+      "definition": "Meta accounts for under-18s that start with extra privacy and safety restrictions."
+    },
+    {
+      "term": "app stores",
+      "definition": "Services through which people find and download applications onto their devices."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Has the Act made a difference?",
+      "takeaway": "The witnesses described safety changes, but the chair pressed them on Ofcom’s finding that children’s exposure to harmful content had not significantly changed.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "Ofcom found no significant overall change in children’s exposure to harmful content during the first nine months of the new safety requirements. Doesn’t that suggest companies like yours are failing to make their services safer?",
+          "evidence": [
+            {
+              "source_turn": 5,
+              "quote": "Ofcom recently found no significant overall change in children’s exposure to harmful content during the first nine months of the children’s safety duties."
+            },
+            {
+              "source_turn": 5,
+              "quote": "Does that show that companies such as yours are failing to make your platforms safer?"
+            }
+          ]
+        },
+        {
+          "speaker": "Katie O’Donovan",
+          "text": "I think Google’s services are becoming safer. In the UK, we turn on SafeSearch for under-18s and use clues about account activity when we don’t know someone’s age. On YouTube, we’re also reducing repeated recommendations of material, such as body-image videos, that could become harmful when watched over and over.",
+          "evidence": [
+            {
+              "source_turn": 8,
+              "quote": "I think our platforms are demonstrably being made safer by the actions that we are taking."
+            },
+            {
+              "source_turn": 6,
+              "quote": "in the UK we are locking on SafeSearch for under-18s."
+            },
+            {
+              "source_turn": 6,
+              "quote": "Where we do not know the age of the user, we use age inference to assure that the user is over or under 18."
+            },
+            {
+              "source_turn": 6,
+              "quote": "reduces the frequency of content that, viewed in isolation, may be appropriate—for example, a fitness video or something around body image—but, viewed in repetitive form, can be harmful."
+            }
+          ]
+        },
+        {
+          "speaker": "Tim Scott",
+          "text": "I think Roblox is safer too, though risks keep changing. We’ve introduced facial estimates of users’ ages to restrict features, and separate experiences for younger players. The Online Safety Act has helped shape that work, but implementing it is still ongoing.",
+          "evidence": [
+            {
+              "source_turn": 9,
+              "quote": "Over the last 18 months or so, we have introduced things such as facial age estimation and age assurance, which has allowed us to restrict certain features and functionalities for people on our platform."
+            },
+            {
+              "source_turn": 9,
+              "quote": "Earlier this year we introduced, for the first time, what we have called Roblox Kids and Roblox Select, so you effectively have two completely different experiences with different functionality and different content put in there."
+            },
+            {
+              "source_turn": 9,
+              "quote": "I think it is but safety is a continually moving target, shall we say, and something that we are constantly chasing and pursuing."
+            },
+            {
+              "source_turn": 9,
+              "quote": "the implementation is ongoing."
+            }
+          ]
+        },
+        {
+          "speaker": "Rebecca Stimson",
+          "text": "It’s too early to conclude that the Act hasn’t worked: those child-safety requirements have been in force for only nine months. At Meta, the law now requires detailed checks of the risks in every feature and product we bring to the UK, including work by the teams designing them.",
+          "evidence": [
+            {
+              "source_turn": 10,
+              "quote": "The child safety duty has been in force for only nine months, and I know that Ofcom’s report was a survey across a very large number of platforms. I think it would be premature to conclude from that that it has not worked."
+            },
+            {
+              "source_turn": 10,
+              "quote": "the risk assessment process has codified into law a very robust and extensive process of risk management and risk assessments that we now have to do on every feature and product that we bring to the UK."
+            },
+            {
+              "source_turn": 10,
+              "quote": "then reflected by all the product teams in the company, has made a real step change."
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "But Ofcom had to publicly challenge Meta to strengthen protections against adults grooming teenagers, including changes to who can see their connections. What are you prepared to do?",
+          "evidence": [
+            {
+              "source_turn": 11,
+              "quote": "It did take Ofcom to issue a public challenge to Meta, did it not, to get commitments from you to strengthen anti-grooming measures, including hiding teenagers’ connection lists and other changes?"
+            },
+            {
+              "source_turn": 11,
+              "quote": "What we are about is trying to understand what you as companies are prepared to do."
+            }
+          ]
+        },
+        {
+          "speaker": "Rebecca Stimson",
+          "text": "Meta already had protections against grooming and puts under-18s in more restricted private accounts. Ofcom said we needed to go further, and we accepted that. We’re discussing how to prevent unsafe connections without stopping teenagers using a social network.",
+          "evidence": [
+            {
+              "source_turn": 12,
+              "quote": "We have already had grooming measures in place since 2023, and everyone under 18 has been defaulted into a much more restricted private account experience where it is harder for people they do not know to connect with them."
+            },
+            {
+              "source_turn": 12,
+              "quote": "Ofcom felt that we needed to go further. We have agreed with that and we are currently in a conversation with it about what that looks like and how we can ensure we balance people’s ability to use the platform as a social network with not connecting them to people they should not be connected to and putting them in harm’s way."
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Storey",
+          "text": "Children’s organisations have told us that changes so far haven’t made enough difference. Give me one safety measure that goes beyond Ofcom’s minimum requirements.",
+          "evidence": [
+            {
+              "source_turn": 17,
+              "quote": "I have been quite shocked by the number of children’s charities or organisations that deal with children and say, “All right, some things have changed but really it has not made a difference”."
+            },
+            {
+              "source_turn": 17,
+              "quote": "can you give me an example of a safety measure you have introduced that goes beyond the minimum standards required by Ofcom’s code of practice? Just one."
+            }
+          ]
+        },
+        {
+          "speaker": "Rebecca Stimson",
+          "text": "Meta’s teen accounts now limit some material that isn’t against our rules but isn’t appropriate for younger people. Independent research we commissioned found teenagers saw 70% less of that material. Ofcom hasn’t commented on that particular change.",
+          "evidence": [
+            {
+              "source_turn": 18,
+              "quote": "content that may not violate our policies but would be inappropriate for a younger person to see."
+            },
+            {
+              "source_turn": 18,
+              "quote": "We have had independent research done that shows they are seeing 70% less of that inappropriate content."
+            },
+            {
+              "source_turn": 20,
+              "quote": "It has praised us for our work on violence against women and girls but it has not commented on that particular one."
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "Tim, why weren’t Roblox’s newer protections introduced sooner? Ofcom says Roblox reaches 61% of UK eight- to 14-year-olds in a month.",
+          "evidence": [
+            {
+              "source_turn": 24,
+              "quote": "Why did you not bring them in sooner?"
+            },
+            {
+              "source_turn": 24,
+              "quote": "I think Ofcom finds that in Roblox you reach 61% of UK eight to 14 year-olds in a month."
+            }
+          ]
+        },
+        {
+          "speaker": "Tim Scott",
+          "text": "The technology for facial age estimates has only recently become reliable enough for us to use. That doesn’t mean safety was an afterthought: Roblox has long excluded features we consider risky, such as image and file sharing.",
+          "evidence": [
+            {
+              "source_turn": 25,
+              "quote": "A number of the innovations that we have put in on safety that I have described briefly would not have been possible 12 years ago or 18 months ago."
+            },
+            {
+              "source_turn": 25,
+              "quote": "Safety is not an afterthought or something that we have just employed now; it has always been there."
+            },
+            {
+              "source_turn": 25,
+              "quote": "We do not have video sharing, file sharing, image sharing or anything like that. We have intentionally kept out all those things, which we see as risky"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Knowing users’ ages",
+      "takeaway": "The companies use several ways to estimate ages, while members questioned whether those checks and protections work in practice.",
+      "turns": [
+        {
+          "speaker": "Baroness Fleet",
+          "text": "What evidence shows that your age checks really protect children? Rebecca, Ofcom found that teen accounts were still recommended material about self-harm and potentially harmful body images.",
+          "evidence": [
+            {
+              "source_turn": 26,
+              "quote": "what specific evidence you can demonstrate that your current age-assurance systems are ensuring that children receive appropriate protection on your services."
+            },
+            {
+              "source_turn": 26,
+              "quote": "the Ofcom report on the teen accounts, which did show that the accounts receive algorithmic recommendations of self-harm and potentially harmful body images."
+            }
+          ]
+        },
+        {
+          "speaker": "Rebecca Stimson",
+          "text": "Working out children’s ages accurately is hard. Meta uses facial estimates, checks involving a parent or guardian, and technology to spot people who may have given the wrong age. We think age checks by devices and their operating systems should be added to those checks, not replace them.",
+          "evidence": [
+            {
+              "source_turn": 27,
+              "quote": "It is a huge challenge accurately identifying the age of children. This is why we take a multilayered approach"
+            },
+            {
+              "source_turn": 27,
+              "quote": "We work with Yoti and we will direct young people to use its facial estimation technology that is very accurate. We will have social vouching, by which we mean a parent or a guardian. We will have AI detect young people who we think are too young."
+            },
+            {
+              "source_turn": 27,
+              "quote": "expanding this out to include age verification at device levels and operating systems is a key part to add—not to remove anything that we are already doing"
+            }
+          ]
+        },
+        {
+          "speaker": "Tim Scott",
+          "text": "Roblox uses a short video selfie to estimate age. We also watch for unusual patterns of play and may ask someone to repeat the check or provide identification. Parents have a part to play, but protecting children isn’t their responsibility alone.",
+          "evidence": [
+            {
+              "source_turn": 28,
+              "quote": "We use Persona as an organisation to do the video selfie, effectively."
+            },
+            {
+              "source_turn": 28,
+              "quote": "we look at the signals that are happening in play—what time people might be playing, for example, or what experiences and interactions they are doing. If we spot that there is something anomalous going on there, we can go back in and say, “Hey, do this again or upload an ID verification”"
+            },
+            {
+              "source_turn": 32,
+              "quote": "Not remotely, no; it is a shared endeavour."
+            }
+          ]
+        },
+        {
+          "speaker": "Katie O’Donovan",
+          "text": "Google asks for an age when an account is created. An under-13 needs a parent involved. We also use activity such as Search or YouTube history to check whether a claimed age looks right; in some cases, we ask for government-supported identification and restrict a feature if the user can’t provide it.",
+          "evidence": [
+            {
+              "source_turn": 34,
+              "quote": "At account set-up we ask people for their age. Now, if the person puts in an age that is under 13, that becomes an account that can be created only with parental engagement"
+            },
+            {
+              "source_turn": 34,
+              "quote": "Across Google accounts you might have a search history or a YouTube history, which can give a really accurate indication of how old someone is."
+            },
+            {
+              "source_turn": 34,
+              "quote": "we will ask for hard age verification, which is government-supported ID. If they cannot provide that, we remove the access to that functionality and that content."
+            }
+          ]
+        },
+        {
+          "speaker": "Baroness Fleet",
+          "text": "YouTube is still recommending harmful material, including material encouraging anorexia. And Ofcom found first-page Google results linking to pornography sites without age checks. How do you account for that?",
+          "evidence": [
+            {
+              "source_turn": 35,
+              "quote": "YouTube is continuing to recommend harmful material, including things such as thinspiration—encouraging anorexia, for example"
+            },
+            {
+              "source_turn": 41,
+              "quote": "Ofcom found that a third of first-page Google Search results in its search linked to pornography, and often extreme pornography, websites without age checks or other protections. How do you explain that?"
+            }
+          ]
+        },
+        {
+          "speaker": "Katie O’Donovan",
+          "text": "YouTube’s rules don’t allow content encouraging anorexia. A single fitness video might be acceptable while repeated recommendations of similar videos aren’t, so we’ve reduced their frequency. On Search, we turn on SafeSearch for users we know or estimate are under 18. Adults can still find legal pornography, though we take action against certain harmful results.",
+          "evidence": [
+            {
+              "source_turn": 36,
+              "quote": "We have really clear guidelines on YouTube where we will not allow content that encourages anorexia or thinspiration or other content like that."
+            },
+            {
+              "source_turn": 36,
+              "quote": "There can be content where one video is a fitness video talking about weight loss and that might be appropriate on its own, but watching 10 videos like that really will not be appropriate"
+            },
+            {
+              "source_turn": 36,
+              "quote": "Our recommendation engines have now reduced the frequency of those videos being reviewed"
+            },
+            {
+              "source_turn": 42,
+              "quote": "SafeSearch, which is the tool that we lock on for anyone we know to be under 18 or anyone we infer through our age assurance to be under 18."
+            },
+            {
+              "source_turn": 42,
+              "quote": "Pornography in general is available on search that is available for adult users. Pornography is legal in the UK but there are certain measures that we are taking to derank and delist harmful priority content"
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Knight of Weymouth",
+          "text": "Why does Google let parents reconsider account protections when a child turns 13, if the Government wants to ban under-16s from social media?",
+          "evidence": [
+            {
+              "source_turn": 43,
+              "quote": "why is 13 the right age for family link? The Government want a social media ban at 16. Why 13?"
+            },
+            {
+              "source_turn": 45,
+              "quote": "Do you think it would be consistent with the social media ban at 16 to raise the digital age of consent from 13?"
+            }
+          ]
+        },
+        {
+          "speaker": "Katie O’Donovan",
+          "text": "Thirteen is the UK’s legal age for a child to consent to certain online data uses. When a child reaches that age, Google asks the parent which protections to keep. I can see the appeal of one age limit, but young people also benefit from access to information and communities; I’d start by asking whether each service and feature is designed safely.",
+          "evidence": [
+            {
+              "source_turn": 44,
+              "quote": "Thirteen is the digital age of consent in the UK and that is our grounding age, but what we do with family link is that when someone turns 13, the parent decides what protections they want to continue and what protections they are happy to remove or reduce."
+            },
+            {
+              "source_turn": 46,
+              "quote": "I certainly can see the attraction of having one age that makes sense."
+            },
+            {
+              "source_turn": 46,
+              "quote": "They are able to find a community that they might relate to. Rather than thinking about the age, it is thinking about the product, the design and the feature"
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Knight of Weymouth",
+          "text": "Independent testers found that only 17% of the Instagram teen safety tools they tested worked as Meta described. Do you accept that finding?",
+          "evidence": [
+            {
+              "source_turn": 47,
+              "quote": "Independent testing last year from a whistleblower and academics at New York University and the Molly Rose Foundation tested Instagram teen safety tools and found that only 17% were working as Meta described. Do you accept that?"
+            }
+          ]
+        },
+        {
+          "speaker": "Rebecca Stimson",
+          "text": "Other independent research and parent surveys give a much more positive picture. Some external tests may use accounts differently from ordinary users, but if testers find harmful content, we want to examine it and improve.",
+          "evidence": [
+            {
+              "source_turn": 48,
+              "quote": "We have lots of independent research, including from the Pew Research Center and other organisations that are entirely independent from us, that paint a much more positive picture than that."
+            },
+            {
+              "source_turn": 48,
+              "quote": "Sometimes in the tests run by external organisations those accounts do not behave in the way that a normal user would behave. However, if they are finding and reporting that content, of course we are concerned about that and want to look at how we can improve."
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Knight of Weymouth",
+          "text": "If Roblox has always put safety into its design, why didn’t it rebuild its younger children’s experience from scratch, rather than adding restrictions to an existing service where users create the games?",
+          "evidence": [
+            {
+              "source_turn": 53,
+              "quote": "When you did Roblox Kids, was that a build where you started again in order to make it fully safe, or was it still a bolt-on to a platform environment where various people can create games"
+            },
+            {
+              "source_turn": 55,
+              "quote": "If you were really doing safety by design, you might do a new build so that you can really do safety by design and avoid all the pitfalls that have been exposed over the intervening years."
+            }
+          ]
+        },
+        {
+          "speaker": "Tim Scott",
+          "text": "Roblox Kids is an enhancement, not a rebuild. We believe we can keep improving the existing service: younger users now see a more restricted selection of games and features, on top of safeguards we’ve had for years.",
+          "evidence": [
+            {
+              "source_turn": 54,
+              "quote": "I would describe it as an enhancement rather than a build from the beginning."
+            },
+            {
+              "source_turn": 54,
+              "quote": "Roblox Kids, for example, which is for the five to eight year-olds or under-nines, has a distinct look and feel. It is blue rather than black. There is a much more restricted library"
+            },
+            {
+              "source_turn": 56,
+              "quote": "we are actually able to just continually enhance something rather than rip it up and start again."
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Knight of Weymouth",
+          "text": "Meta wants app stores involved in checking ages. What could they do that the apps themselves can’t?",
+          "evidence": [
+            {
+              "source_turn": 57,
+              "quote": "Meta has advocated that those should be used and properly part of the regime. You mentioned that earlier, Rebecca. What can they achieve that you cannot?"
+            }
+          ]
+        },
+        {
+          "speaker": "Rebecca Stimson",
+          "text": "App stores and devices may know who pays for a device or which adult is linked to a child. Sharing useful age information could improve checks across apps. It would be an addition to our own responsibilities, not a way to hand them off.",
+          "evidence": [
+            {
+              "source_turn": 58,
+              "quote": "It would be an addition. A lot of people misinterpret what we are saying as that we would then stop doing it and pass off that responsibility. That is absolutely not true"
+            },
+            {
+              "source_turn": 58,
+              "quote": "They might have access to things such as bill payer information, to a better understanding of who a parent actually is and how that relates to a young person."
+            },
+            {
+              "source_turn": 58,
+              "quote": "then those signals can move between us, based on what we are able to establish on the platform"
+            }
+          ]
+        },
+        {
+          "speaker": "Katie O’Donovan",
+          "text": "Google’s Play Store already uses age checks on Google accounts and blocks access to over-18 apps without verified age. We’re developing a way to send developers an age indication while protecting privacy. But people can also download apps through browsers, and each app’s maker still needs to check its own users and content.",
+          "evidence": [
+            {
+              "source_turn": 34,
+              "quote": "We will not allow access to over-18 apps if there is not proven age verification on that."
+            },
+            {
+              "source_turn": 60,
+              "quote": "We are also developing an API, a tool that developers can use that will send an age signal in a privacy-preserving way to that developer."
+            },
+            {
+              "source_turn": 60,
+              "quote": "developers are also making their apps available from browsers."
+            },
+            {
+              "source_turn": 60,
+              "quote": "this should be in addition to the requirements that the developers themselves put in place, because they obviously know the behaviour of their user. They know the content and the functionality that is also relevant and could be a source of harm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Finding harm before users do",
+      "takeaway": "All three companies said they increasingly find harmful material automatically, but members brought examples that those systems had missed.",
+      "turns": [
+        {
+          "speaker": "Baroness Caine of Kentish Town",
+          "text": "We’ve heard that too much of the work of spotting illegal activity falls on users, parents and charities with far fewer resources than your companies. Are you doing enough to find it yourselves?",
+          "evidence": [
+            {
+              "source_turn": 63,
+              "quote": "too much responsibility for detecting illegal content and activity falls on the users, the parents and civil society organisations that have little resource compared to that which you all enjoy."
+            },
+            {
+              "source_turn": 63,
+              "quote": "Do you think your companies are doing enough to identify and prevent these harms proactively?"
+            }
+          ]
+        },
+        {
+          "speaker": "Katie O’Donovan",
+          "text": "Users still need a way to report content, but Google now relies much more on automated detection. On YouTube, most of the material we remove is found that way, sometimes before it reaches 100 views. That’s why I’m confident Google and YouTube have made progress, though Ofcom’s exposure figure covers many services.",
+          "evidence": [
+            {
+              "source_turn": 64,
+              "quote": "it is important that users can still report that information to us."
+            },
+            {
+              "source_turn": 64,
+              "quote": "most of that—including content with fewer than 100 views—is through automated detection."
+            },
+            {
+              "source_turn": 66,
+              "quote": "That was very broad research across all platforms. Obviously, I am just here talking about Google and YouTube, where we have invested significantly."
+            },
+            {
+              "source_turn": 68,
+              "quote": "Yes."
+            }
+          ]
+        },
+        {
+          "speaker": "Tim Scott",
+          "text": "Roblox’s systems examine conversations in context, not just lists of banned words; people can evade a simple word filter by changing spellings. Human teams also work around the clock because automated tools have limits. More content being caught and reported doesn’t necessarily mean more users saw it.",
+          "evidence": [
+            {
+              "source_turn": 70,
+              "quote": "which allows us to look at not just keywords, for example, but contextual conversations."
+            },
+            {
+              "source_turn": 70,
+              "quote": "then someone will start misspelling them deliberately to get around that."
+            },
+            {
+              "source_turn": 70,
+              "quote": "You may see in future transparency reports, for example, that reporting numbers are going up, but that is very different from what Ofcom is talking about when it says that people are being exposed to stuff."
+            },
+            {
+              "source_turn": 70,
+              "quote": "We have a dedicated team working 24/7 globally to identify this"
+            },
+            {
+              "source_turn": 70,
+              "quote": "there is a limitation to where artificial intelligence can come in."
+            }
+          ]
+        },
+        {
+          "speaker": "Rebecca Stimson",
+          "text": "For illegal material such as terrorism and child sexual exploitation, Meta’s figures show that we find and remove the great majority without a user report, often before it appears. Criminal groups keep changing tactics, though, so reports still help us understand what they’re doing.",
+          "evidence": [
+            {
+              "source_turn": 72,
+              "quote": "If you look at our transparency report, our proactive removal is in the high 90 percentiles, so before anyone reports it to us and, importantly, almost always before any of it actually hits the platform."
+            },
+            {
+              "source_turn": 72,
+              "quote": "this is criminal organisations abusing these platforms. It is very adversarial, and they will change their tactics."
+            },
+            {
+              "source_turn": 72,
+              "quote": "User reporting is still an important part of that—it helps build that picture—but it is absolutely not where we put the emphasis"
+            }
+          ]
+        },
+        {
+          "speaker": "Viscount Colville of Culross",
+          "text": "The Molly Rose Foundation heard from children whose Instagram searches suggested a banned suicide forum. That shouldn’t happen under your safety protections, should it? We’ve also heard that many children find reporting problems difficult.",
+          "evidence": [
+            {
+              "source_turn": 73,
+              "quote": "The Molly Rose Foundation has had a number of reports of ordinary children users who have used auto complete to do searching and, for instance, they have put in “su” and it has come up with a specific suicide forum that is banned."
+            },
+            {
+              "source_turn": 75,
+              "quote": "New research has come out from Internet Matters, which said that something like 60% of children find it very difficult to be able to report any complaints"
+            }
+          ]
+        },
+        {
+          "speaker": "Rebecca Stimson",
+          "text": "You’re right: children shouldn’t find that forum. We’d want to investigate the example. Most everyday reports take only a few clicks, but the separate UK route for reporting illegal material asks more questions so we can understand and handle the report. We’re open to looking at whether that route is too complicated.",
+          "evidence": [
+            {
+              "source_turn": 74,
+              "quote": "You are right: that should never have happened."
+            },
+            {
+              "source_turn": 74,
+              "quote": "if there is a specific example that the Molly Rose Foundation raised we would be very happy to try to understand what happened in that circumstance."
+            },
+            {
+              "source_turn": 76,
+              "quote": "For most reporting, it is just three or four."
+            },
+            {
+              "source_turn": 76,
+              "quote": "we built a specific UK reporting channel to report illegal harms. There, to help us triage those reports more quickly, we ask for some more clicks"
+            },
+            {
+              "source_turn": 78,
+              "quote": "We are happy to have a look at it if it is overly complex."
+            }
+          ]
+        },
+        {
+          "speaker": "Viscount Colville of Culross",
+          "text": "The Molly Rose Foundation also found Google Search results linking to a suicide forum, including instructions on how to die. Doesn’t that show your protections are still missing illegal material?",
+          "evidence": [
+            {
+              "source_turn": 79,
+              "quote": "the Molly Rose Foundation went online and looked for suicide fora. The first page came up with two results, the second of which detailed methods of how to die by suicide, which is illegal for all ages."
+            },
+            {
+              "source_turn": 79,
+              "quote": "This quite clearly means that the safety features you have put in, your talk of taking all this illegal content down, is not working well enough at the moment."
+            }
+          ]
+        },
+        {
+          "speaker": "Katie O’Donovan",
+          "text": "That result shouldn’t be there. We remove or stop listing content like that when it’s reported through the illegal-content process. I’ll investigate this particular result and get back to you.",
+          "evidence": [
+            {
+              "source_turn": 80,
+              "quote": "That result should not be there, so I can take that away and have a look at it. Through the illegal content reporting measures, we will remove and delist content like that."
+            },
+            {
+              "source_turn": 80,
+              "quote": "Let me look into that result and get back to you on the full detail."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Threats that move between services",
+      "takeaway": "Companies described sharing information about organised abuse, while members asked for clearer evidence of results and challenged Roblox’s checks on user-created games.",
+      "turns": [
+        {
+          "speaker": "Baroness Caine of Kentish Town",
+          "text": "People organising abuse can move between services. What are you doing together to spot and disrupt them, and could the rules require more? Tim, can you give a concrete example of a success?",
+          "evidence": [
+            {
+              "source_turn": 82,
+              "quote": "What more do you think you can do to collaborate as companies to improve that situation? What more do you think regulation could be asking of you?"
+            },
+            {
+              "source_turn": 82,
+              "quote": "bad actors moving across and into places where they are finding it easier to carry on with their business"
+            },
+            {
+              "source_turn": 84,
+              "quote": "With Lantern, could you give me one example of where you feel that you have collectively addressed something and have progressed?"
+            }
+          ]
+        },
+        {
+          "speaker": "Tim Scott",
+          "text": "Roblox shares information with law enforcement, government agencies and other companies about threats as they change. Gaming companies recently met UK officials and charities to compare what they were seeing. There’s also a scheme specifically for sharing information about child-safety threats across services. I don’t want to discuss individual cases publicly, because that could reveal how we disrupt offenders.",
+          "evidence": [
+            {
+              "source_turn": 83,
+              "quote": "we also talk directly and closely with law enforcement and with government agencies around the world to understand what signals they are seeing as well"
+            },
+            {
+              "source_turn": 83,
+              "quote": "a whole bunch of companies in the gaming sector took part in a round table with the Home Office, with the National Crime Agency, various other arms of that world and some NGOs."
+            },
+            {
+              "source_turn": 83,
+              "quote": "Then you have things like Lantern, which I mentioned before, which was established literally to do exactly as you describe."
+            },
+            {
+              "source_turn": 85,
+              "quote": "I do not really want to get into specific cases. The nature of this is that the more we talk publicly about it, the more people understand what we are doing to try to disrupt and engage."
+            }
+          ]
+        },
+        {
+          "speaker": "Baroness Caine of Kentish Town",
+          "text": "Australia’s online-safety regulator said Roblox used some tools to find harmful user-created games only after publication, while another gaming service checked every game before release. What share of grooming cases do you find yourselves, and what changed after those findings?",
+          "evidence": [
+            {
+              "source_turn": 86,
+              "quote": "the eSafety Commissioner has found that Roblox used several tools to detect harmful user-created experiences after publication, whereas Fortnite, another popular gaming platform, reviewed every experience before release."
+            },
+            {
+              "source_turn": 86,
+              "quote": "Could you let me know the latest proportion of grooming cases that you feel you have detected proactively and what changes it has made to the image and language moderation systems following Australia’s findings?"
+            }
+          ]
+        },
+        {
+          "speaker": "Tim Scott",
+          "text": "I don’t have the grooming figures here, but I can send them. Every piece of content uploaded to Roblox is scanned. Games for younger children face additional checks. For the wider service, some problems become clear only when a game’s parts come together during play; that’s when further scanning can detect them.",
+          "evidence": [
+            {
+              "source_turn": 87,
+              "quote": "I do not have those figures to hand, and I can get back to you on that."
+            },
+            {
+              "source_turn": 87,
+              "quote": "Every piece of content that is uploaded on to that is scanned. Everything goes through a moderation process et cetera."
+            },
+            {
+              "source_turn": 87,
+              "quote": "That goes through several tiers of moderation and play before it is even able to get on to that younger tier."
+            },
+            {
+              "source_turn": 87,
+              "quote": "For Roblox in the broader context, until a game is actually being played it is incredibly difficult to put all these component parts, like all the right notes, in the right order, as it were. As soon as they start to come together into a game, you can see that this is potentially a bad actor or experience. That is where our scanning tools kick in."
+            }
+          ]
+        },
+        {
+          "speaker": "Katie O’Donovan",
+          "text": "Google works with other organisations on child-abuse material and extremist content. Local experts who report emerging problems also help us recognise patterns we might otherwise miss.",
+          "evidence": [
+            {
+              "source_turn": 90,
+              "quote": "There are then a number of international fora where we collaborate, particularly on child abuse material, extremism and terrorism."
+            },
+            {
+              "source_turn": 90,
+              "quote": "We have trusted flaggers who bring that expertise and say, “This is something we have seen specifically in London” or “This is something emerging”, and that helps inform our work as well."
+            }
+          ]
+        },
+        {
+          "speaker": "Rebecca Stimson",
+          "text": "Meta also belongs to schemes for sharing information about terrorist content and child-safety threats, and it founded a scheme to help stop the spread of intimate images shared without consent. Some collaboration goes beyond what the law requires.",
+          "evidence": [
+            {
+              "source_turn": 91,
+              "quote": "We are a member of GIFCT, we are a founder of Lantern, and StopNCII was founded and funded by Meta, so we recognise that we need these forums for collaboration outside the regulated space, as well as what the law mandates."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Can outsiders check the claims?",
+      "takeaway": "Members wanted fuller risk assessments and researcher access so that the companies’ accounts of safety could be tested against children’s experiences.",
+      "turns": [
+        {
+          "speaker": "Lord Tarassenko",
+          "text": "The Children’s Commissioner has reported widespread exposure to pornography and harmful body-image messages among children. Why is there such a gap between children’s experiences and what companies tell us about safety? And why publish only summaries of your UK risk assessments when fuller assessments are published under EU rules?",
+          "evidence": [
+            {
+              "source_turn": 92,
+              "quote": "The list of harms that she reported from surveys of 625,000 children—it will go up to 1 million—is quite incredible."
+            },
+            {
+              "source_turn": 92,
+              "quote": "why do you think there is this disconnect between what we hear from your companies and the evidence we hear from children themselves?"
+            },
+            {
+              "source_turn": 92,
+              "quote": "Under the EU’s Digital Services Act, your companies publish these for EU users; in the UK we get only summaries."
+            }
+          ]
+        },
+        {
+          "speaker": "Katie O’Donovan",
+          "text": "That gap matters. For Google’s services, under-18s have SafeSearch turned on, and YouTube doesn’t allow pornography or advertising aimed at users it understands to be under 18. We’re due to publish summaries of our UK risk assessments. I can’t promise what a full publication would contain, but I’ll work with the team to publish as much as possible.",
+          "evidence": [
+            {
+              "source_turn": 93,
+              "quote": "I totally appreciate it, and I think it is a very important question."
+            },
+            {
+              "source_turn": 93,
+              "quote": "SafeSearch is locked on for all users who we know are under 18 or who we infer are under 18, and that will block access to all pornographic content. We do not allow any pornographic content on YouTube"
+            },
+            {
+              "source_turn": 93,
+              "quote": "We will not allow advertising on YouTube for users who we understand are under 18"
+            },
+            {
+              "source_turn": 93,
+              "quote": "We will, through Ofcom and the OSA, publish a summary of our risk assessment and transparency reports."
+            },
+            {
+              "source_turn": 95,
+              "quote": "I cannot guarantee you what is in our risk assessment today, but I work very closely with the team responsible for doing that and we will make sure that we publish as much information as possible."
+            }
+          ]
+        },
+        {
+          "speaker": "Tim Scott",
+          "text": "Publication rules vary between countries. If the UK decides full assessments would be better than summaries, we’d take that into account. The examples about video and images are less directly relevant to Roblox because we don’t allow users to share those files.",
+          "evidence": [
+            {
+              "source_turn": 96,
+              "quote": "there are various requirements around the world in terms of what we publish and what we are required to do under the various pieces of legislation out there."
+            },
+            {
+              "source_turn": 96,
+              "quote": "If the UK determines that it is better for everyone to be fully transparent versus summaries, I am sure we will take that into account."
+            },
+            {
+              "source_turn": 96,
+              "quote": "The first question is probably far less relevant to Roblox. We do not have any video, image or file sharing et cetera."
+            }
+          ]
+        },
+        {
+          "speaker": "Rebecca Stimson",
+          "text": "We publish a lot about how we assess risks, and we’re still working on Ofcom’s requirement for UK summaries. I’m not dismissing the harms you’ve described, but we need clearer agreement on which harms occur on which services and how to measure whether people are safer.",
+          "evidence": [
+            {
+              "source_turn": 97,
+              "quote": "We publish a great deal of information about how we assess risks and product design, and we are still working on the Ofcom requirement that you pointed out about summaries."
+            },
+            {
+              "source_turn": 97,
+              "quote": "I am not trying to dismiss the data you gave in your examples, but there is still work to do to have a common understanding of what we think safe looks like and how we measure that specifically."
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Tarassenko",
+          "text": "Meta agreed in a US settlement to an independent auditor with access to its data, systems and staff, followed by a public report. Will UK researchers and Ofcom get the same access?",
+          "evidence": [
+            {
+              "source_turn": 98,
+              "quote": "In the settlement in the US in August, Meta accepted an independent auditor with access to data, systems and staff, then publication of a full report on its findings. Is it your intention to offer Ofcom and UK researchers the same?"
+            }
+          ]
+        },
+        {
+          "speaker": "Rebecca Stimson",
+          "text": "We’ll follow the US settlement and meet the UK’s reporting requirements. Researchers already have some ways to access our data. I’m open to scrutiny, but I’m not committing here to the identical US arrangement in the UK.",
+          "evidence": [
+            {
+              "source_turn": 99,
+              "quote": "We will obviously be following that settlement. We also comply with all the transparency and reporting requirements under the OSA"
+            },
+            {
+              "source_turn": 99,
+              "quote": "We also have a number of separate ways in which independent academics and researchers can access our datasets now."
+            },
+            {
+              "source_turn": 99,
+              "quote": "There is no intention that any particular jurisdiction is second class to any other. We are very open to that."
+            },
+            {
+              "source_turn": 99,
+              "quote": "Yes, we will be doing that in the US and complying with everything we are asked to do here as well."
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "Why did Meta close CrowdTangle, a tool researchers used to examine activity on its services? Has its replacement made independent scrutiny harder?",
+          "evidence": [
+            {
+              "source_turn": 100,
+              "quote": "Can I ask you a question about why you closed CrowdTangle and how you would respond to concerns that its replacement has made that independent scrutiny more difficult?"
+            }
+          ]
+        },
+        {
+          "speaker": "Rebecca Stimson",
+          "text": "I don’t know the specifics of CrowdTangle well enough to answer today. Meta does give academic institutions access to data, and I’ll send the committee more detail about who can use it.",
+          "evidence": [
+            {
+              "source_turn": 101,
+              "quote": "I am not super familiar—I am happy to follow up on the specifics around CrowdTangle."
+            },
+            {
+              "source_turn": 101,
+              "quote": "We have a number of different ways in which we work with academic institutions—Harvard, Stanford, Oxford and Cambridge here in the UK—to allow them access to datasets to do analysis."
+            },
+            {
+              "source_turn": 103,
+              "quote": "It is, yes. I do not have the full details in front of me, but I would be happy to set it out to the committee."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "What happens next?",
+      "takeaway": "The witnesses said they would keep changing their services, while the committee pointed to continuing fraud, extremist activity and harmful search results.",
+      "turns": [
+        {
+          "speaker": "Baroness Elliott of Whitburn Bay",
+          "text": "Did working with Ofcom lead you to introduce any safety measure you wouldn’t otherwise have introduced?",
+          "evidence": [
+            {
+              "source_turn": 111,
+              "quote": "Have Ofcom’s engagement, supervision or enforcement activities led you to introduce any safety measures that you would not otherwise have introduced, and can you give an example if you have done that?"
+            }
+          ]
+        },
+        {
+          "speaker": "Tim Scott",
+          "text": "To an extent. Facial age estimates weren’t specifically required by the Act, but working with Ofcom helped us decide the technology was ready and would make Roblox safer.",
+          "evidence": [
+            {
+              "source_turn": 112,
+              "quote": "To an extent, yes. We looked at things like our facial age estimation and realised the time was right to do it. We had the technology there. We were not required to do it as a point of the OSA, but by speaking to and working with Ofcom, we were able to realise that this is actually something that will enhance the product and keep people safer."
+            }
+          ]
+        },
+        {
+          "speaker": "Rebecca Stimson",
+          "text": "A conversation with Ofcom led us to move ahead with making teenagers’ feeds more age-appropriate, beyond removing illegal material and content that breaks Meta’s rules.",
+          "evidence": [
+            {
+              "source_turn": 113,
+              "quote": "the safer feeds approach, which is not just tackling illegal content and content that is violating our rules but actually making it a more age-appropriate experience."
+            },
+            {
+              "source_turn": 113,
+              "quote": "We were doing lots of work in that space anyway, but it was a conversation with Ofcom around that that led to us then moving forward with that feature change."
+            }
+          ]
+        },
+        {
+          "speaker": "Katie O’Donovan",
+          "text": "Google has introduced new ways for users and others to flag serious material so we can remove it or stop showing it in Search results.",
+          "evidence": [
+            {
+              "source_turn": 114,
+              "quote": "There are new ways for users and others to flag priority content, which we can then remove or delist from search."
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "Other witnesses have given us examples of fraud on Meta’s services, an ISIS fundraising network spanning several services, unlicensed gambling appearing in Google results, and extreme pornography still found through Search. Given those examples, what more will you do without waiting to be told?",
+          "evidence": [
+            {
+              "source_turn": 117,
+              "quote": "We heard evidence from Tech Against Terrorism, which told us that it had identified an ISIS fundraising network operating across Facebook, Instagram, WhatsApp and Telegram, and that had been there for nine months"
+            },
+            {
+              "source_turn": 117,
+              "quote": "pages promoting unlicensed gambling accounted for 23% of overall visibility in Google Search results."
+            },
+            {
+              "source_turn": 117,
+              "quote": "Google continues to return results for extreme pornography, even where Google has down-ranked the search terms."
+            },
+            {
+              "source_turn": 117,
+              "quote": "what further steps are you prepared to take now to make your services safer by design and without necessarily waiting for Ofcom and Parliament to tell you to do so?"
+            }
+          ]
+        },
+        {
+          "speaker": "Rebecca Stimson",
+          "text": "Fraudsters try to make their posts look genuine, and payments may happen elsewhere. We share information with banks and removed 65 million scam ads in the first half of this year, most before anyone reported them. Following referrals from Tech Against Terrorism, we also disabled accounts it identified. More recently, we’ve expanded technology that estimates users’ ages.",
+          "evidence": [
+            {
+              "source_turn": 118,
+              "quote": "the fraudsters post things on services like ours that are intended to look as credible and realistic as possible and the transaction happens somewhere else."
+            },
+            {
+              "source_turn": 118,
+              "quote": "We are a founder of something called the FIRE channel, where we work collaboratively with banks to share information to try to tackle it. We removed 65 million scam ads in the first half of this year, and 94% of that proactively."
+            },
+            {
+              "source_turn": 118,
+              "quote": "We disabled the majority of accounts that it reported to us there and then. It did a second report to us just on Friday; that was a great lead for some funding networks, and we have taken down 71 accounts as a result."
+            },
+            {
+              "source_turn": 118,
+              "quote": "we now have the ability to accurately use AI for age detection. We just recently announced that we have rolled that out across the platform."
+            }
+          ]
+        },
+        {
+          "speaker": "Tim Scott",
+          "text": "There isn’t one change I can promise that will settle safety for good. Roblox will keep improving its tools, including technology for detecting harm, and take feedback from parents, teenagers and outside experts.",
+          "evidence": [
+            {
+              "source_turn": 119,
+              "quote": "safety is a constant endeavour, so there is no single thing that I can point to and say, “We will put this widget into the functionality”."
+            },
+            {
+              "source_turn": 119,
+              "quote": "I think AI is a really important thing. It will make a massive difference to the scale and the nature of safety that we can work on."
+            },
+            {
+              "source_turn": 119,
+              "quote": "We have a parent council and a teen council, and we take that direct feedback from our users and our parents to say what features are missing and what we could do"
+            }
+          ]
+        },
+        {
+          "speaker": "Katie O’Donovan",
+          "text": "Google must keep improving while young people use its services. We’re updating the search terms we use to identify extreme pornography and have suggested a way for Ofcom to alert us to pornography sites that lack age checks. I also think rules aimed at harmful features could let young people keep access to useful information.",
+          "evidence": [
+            {
+              "source_turn": 120,
+              "quote": "it is our responsibility to continue to improve our safety standards."
+            },
+            {
+              "source_turn": 120,
+              "quote": "Canada is thinking about an approach where it is very prescriptive about the functionality and the features that it thinks are harmful and that platforms are able to respond to that and update their designs."
+            },
+            {
+              "source_turn": 120,
+              "quote": "we are continuing to update our terminology around extreme pornography so that we can continue to delist that"
+            },
+            {
+              "source_turn": 120,
+              "quote": "we have suggested to it an update to the children’s code so that it can report those websites to us and we can take further action on those too."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

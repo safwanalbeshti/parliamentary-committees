@@ -1,0 +1,772 @@
+{
+  "schema_version": 1,
+  "source_id": 18342,
+  "source_sha256": "bf47ba649c57f13a75453c553d70635c096bc99906986769ddd3566d6ddcad34",
+  "title": "Safer cars need to stay safe",
+  "label": "18 November 2026 · Vehicle safety",
+  "summary": "The committee examined how vehicle technology could reduce deaths and serious injuries on the roads. Witnesses supported stronger safety requirements for new cars, but said the benefits depend on drivers understanding the systems, keeping them switched on and maintaining vehicles throughout their lives. They also pressed for better checks of older cars, action on tyre defects and further work on headlight glare.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Ruth Cadbury",
+      "role": "Chair of the Transport Committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Professor Khastgir",
+      "name": "Professor Siddartha Khastgir",
+      "role": "Head of Safe Autonomy, Warwick Manufacturing Group, University of Warwick",
+      "kind": "witness"
+    },
+    {
+      "label": "Professor Cuerden",
+      "name": "Professor Richard Cuerden",
+      "role": "Academy Director, Transport Research Laboratory",
+      "kind": "witness"
+    },
+    {
+      "label": "Stuart Lovett",
+      "name": "Stuart Lovett",
+      "role": "Chair, TyreSafe",
+      "kind": "witness"
+    },
+    {
+      "label": "Ashley Patton",
+      "name": "Ashley Patton",
+      "role": "Chief Engineer in Test Services, HORIBA MIRA",
+      "kind": "witness"
+    },
+    {
+      "label": "Joe Morris",
+      "name": "Joe Morris",
+      "role": "Transport Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Dr Arthur",
+      "name": "Dr Scott Arthur",
+      "role": "Transport Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Alex Mayer",
+      "name": "Alex Mayer",
+      "role": "Transport Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Jacob Collier",
+      "name": "Jacob Collier",
+      "role": "Transport Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Samantha Dixon",
+      "name": "Samantha Dixon",
+      "role": "Transport Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Euro NCAP",
+      "definition": "An independent programme that tests and gives star ratings to new cars for safety."
+    },
+    {
+      "term": "MOT",
+      "definition": "The regular test required for most older vehicles in Great Britain to check that they meet basic roadworthiness standards."
+    },
+    {
+      "term": "THINK!",
+      "definition": "The UK Government's road safety publicity campaign."
+    },
+    {
+      "term": "STATS19",
+      "definition": "The system used to record police-reported road collisions involving injuries in Great Britain."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What new safety systems can do",
+      "takeaway": "Technology can prevent serious harm, but its benefits depend on how well it works and whether drivers use it.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "How much can safer vehicles help meet the Government's targets for reducing deaths and serious injuries?",
+          "evidence": [
+            {
+              "source_turn": 6,
+              "quote": "What role do “safer vehicles” play in enabling the Government to deliver the KSI targets set out in the road safety strategy?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Khastgir",
+          "text": "Systems that brake automatically or help keep a car in its lane can prevent crashes. But they won't deliver their full benefit if drivers switch them off or use them incorrectly.",
+          "evidence": [
+            {
+              "source_turn": 7,
+              "quote": "We have technologies such as advanced driver assistance systems, autonomous emergency braking, lane-keep assist and so on, which can be mandated as part of the regulations to ensure we can help meet the targets."
+            },
+            {
+              "source_turn": 7,
+              "quote": "a lot of users tend to switch them off or do not use them in the way they need to be used."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Cuerden",
+          "text": "Even with today's shortcomings, we estimate these systems prevent 14,000 people from being killed or seriously injured. They've brought real benefits, though they could work much better.",
+          "evidence": [
+            {
+              "source_turn": 9,
+              "quote": "we estimate that the systems are preventing 14,000 from being killed or seriously injured."
+            },
+            {
+              "source_turn": 9,
+              "quote": "It has been really beneficial to introduce what we have now. Exactly as Siddartha was saying, what we have now could be so much better."
+            }
+          ]
+        },
+        {
+          "speaker": "Stuart Lovett",
+          "text": "Crash-avoidance systems also rely on the car itself being in good condition. Defective tyres or brakes can undermine them.",
+          "evidence": [
+            {
+              "source_turn": 10,
+              "quote": "those systems that we are going to be relying on in the future for new vehicles and technology are compromised if people are driving around with an illegal or defective vehicle, particularly in respect of tyres and brakes."
+            }
+          ]
+        },
+        {
+          "speaker": "Ashley Patton",
+          "text": "Many manufacturers already go beyond the proposed minimum requirements. Under Euro NCAP's tests, a car meeting only those requirements would get no stars, while many cars sold today get five.",
+          "evidence": [
+            {
+              "source_turn": 11,
+              "quote": "If you look at a GSR2 vehicle, which is exactly the 18 safety implementations we are looking at, that would be scored as a zero-star Euro NCAP car."
+            },
+            {
+              "source_turn": 11,
+              "quote": "the majority of vehicles sold today already get an NCAP star, and usually five."
+            }
+          ]
+        },
+        {
+          "speaker": "Stuart Lovett",
+          "text": "New-car requirements will take time to affect the cars people actually drive. The average vehicle is now 10 years old, and that estimate of 14,000 people saved is spread over 15 years. We need to deal with the condition of today's vehicles too.",
+          "evidence": [
+            {
+              "source_turn": 13,
+              "quote": "the average age of the vehicle fleet in this country is now 10 years, for any new vehicle coming on board we will miss the 2035 deadline for the casualty reduction targets."
+            },
+            {
+              "source_turn": 13,
+              "quote": "that 14,000 is over 15 years, which is less than 1,000 a year. We have to look at the current and existing fleet of vehicles in this country"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Set standards that work in practice",
+      "takeaway": "Witnesses wanted the proposed minimum rules adopted, then improved through better tests and attention to how drivers experience the systems.",
+      "turns": [
+        {
+          "speaker": "Joe Morris",
+          "text": "Where are the gaps in today's vehicle safety rules, and what should the Government change first?",
+          "evidence": [
+            {
+              "source_turn": 14,
+              "quote": "What are the main weaknesses in the current vehicles standards framework? What changes to the regime do you believe the Government should prioritise?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Cuerden",
+          "text": "Adopt the 18 proposed measures, but treat them as a starting point. Speed warnings, for example, could be more proportionate: a driver doing 31 mph in a 30 mph limit doesn't need the same alarms as one doing 50.",
+          "evidence": [
+            {
+              "source_turn": 16,
+              "quote": "it is essential in my mind that the 18 measures are adapted. We should think of them as the introduction level: this is what gets us started."
+            },
+            {
+              "source_turn": 16,
+              "quote": "if I am driving along at 31 mph and the limit is 30 mph, perhaps I do not need all the alarms on the vehicle going off at the same time; if I am doing 50 mph in a 30 mph then I do need them."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Cuerden",
+          "text": "Screens need attention too. A driver who once found a button by touch may now have to look away from the road and search through a menu. And while protection for people inside vehicles has improved, we've done much less for pedestrians and cyclists struck by them.",
+          "evidence": [
+            {
+              "source_turn": 16,
+              "quote": "Now I have to look, take my eyes and brain off the road and find a menu."
+            },
+            {
+              "source_turn": 16,
+              "quote": "We have been shamefully poor at protecting pedestrians and cyclists when they are struck by vehicles. We need to address that."
+            }
+          ]
+        },
+        {
+          "speaker": "Ashley Patton",
+          "text": "Even a good system needs usable roads: speed-limit signs must be readable and lane markings visible. We also need research into when a warning is justified and when the system has made a mistake.",
+          "evidence": [
+            {
+              "source_turn": 18,
+              "quote": "we need the signs to be legible, not covered in graffiti, turned the wrong way or just needing cleaning."
+            },
+            {
+              "source_turn": 18,
+              "quote": "white paint on the roads is very important for emergency lane-keeping systems."
+            },
+            {
+              "source_turn": 18,
+              "quote": "do we really know whether it should have warned you or not? We need research and funding for this."
+            }
+          ]
+        },
+        {
+          "speaker": "Joe Morris",
+          "text": "Your evidence says the rules for front and side crash protection have changed little since 1994. What are the tests missing?",
+          "evidence": [
+            {
+              "source_turn": 20,
+              "quote": "the legislation governing front and side protection has not changed substantially since 1994. What risks do you feel current safety tests are failing to capture?"
+            }
+          ]
+        },
+        {
+          "speaker": "Ashley Patton",
+          "text": "Better crash-test dummies can represent people of different sizes more accurately, including women and children. That gives manufacturers better information for designing seatbelts and other protection.",
+          "evidence": [
+            {
+              "source_turn": 21,
+              "quote": "it is using females that are different sizes and children that are actually the size of children rather than just scaled-down adults."
+            },
+            {
+              "source_turn": 21,
+              "quote": "The information we can gather from these much more advanced devices helps us to optimise restraint systems to protect occupants to the optimal level."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Cuerden",
+          "text": "That's important, though changing the test conditions has already helped make restraints gentler without waiting for a new female dummy to be ready for regulation. There's still more to do.",
+          "evidence": [
+            {
+              "source_turn": 22,
+              "quote": "it was too expensive and difficult to get a female crash test dummy developed and validated in time to be in regulation, because it would take 10 or 15 years."
+            },
+            {
+              "source_turn": 22,
+              "quote": "By testing in different conditions we got the same benefits. The restraint system is now much kinder and softer"
+            },
+            {
+              "source_turn": 22,
+              "quote": "Everything that Ashley said is true; we can do a lot more."
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Arthur",
+          "text": "When you say safety features can sit behind a paywall, do you mean software that can be switched on for a fee, or simply different versions of a car?",
+          "evidence": [
+            {
+              "source_turn": 27,
+              "quote": "When you mentioned a paywall I assumed you meant software-based features so that you could somehow deactivate or have more control over the features within your touchscreen. Are you talking about the basic specification of the vehicle?"
+            }
+          ]
+        },
+        {
+          "speaker": "Ashley Patton",
+          "text": "Both are concerns, but the immediate example is that buyers can get a well-equipped version of a car or a cheaper one without its safety package. With more features controlled by software, a paid option could also emerge if the feature isn't required by law.",
+          "evidence": [
+            {
+              "source_turn": 26,
+              "quote": "you can buy a model of a vehicle with everything on it—let us say a five-star Euro NCAP—that is absolutely cutting-edge in safety technologies, and maybe a lower one without the safety pack will be different."
+            },
+            {
+              "source_turn": 28,
+              "quote": "if it is not mandated through the leadership on the GB scheme—then there could potentially become a paywall. It is an industry trend."
+            }
+          ]
+        },
+        {
+          "speaker": "Alex Mayer",
+          "text": "The UK and EU now have different vehicle rules. Should Britain match the European requirements or go further?",
+          "evidence": [
+            {
+              "source_turn": 29,
+              "quote": "Since we have left there has been some divergence of British vehicle standards from EU ones. What are the road safety implications of that? In which areas do you think we should be aligning or perhaps going further?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Cuerden",
+          "text": "Until Britain puts the 18 measures into law, its mandatory requirements are behind the EU's. Matching them would also give us more opportunity to help improve how the systems work and communicate with drivers.",
+          "evidence": [
+            {
+              "source_turn": 36,
+              "quote": "until we get the legislation in place so that we have these 18 vehicle tech measures in Great Britain, we are behind the EU27, which has more stringent, mandatory requirements."
+            },
+            {
+              "source_turn": 36,
+              "quote": "we can improve upon and influence that standard if we are aligning with our friends, neighbours and international markets."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Khastgir",
+          "text": "Not every useful rule comes from Europe. Countries including the UK also make rules together through the United Nations. We should use whichever standard offers the best safety protection, whether it's from there or Euro NCAP.",
+          "evidence": [
+            {
+              "source_turn": 37,
+              "quote": "The European Commission, member states, the UK and other parts of the world are collaborating to do a joint regulation."
+            },
+            {
+              "source_turn": 43,
+              "quote": "If the best is at Euro NCAP, adopt that. If the best is at the United Nations, adopt that. Ultimately, safety is what we want; we do not care if it comes from Euro NCAP or the United Nations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Keep cars safe as they age",
+      "takeaway": "Current checks do not reliably show whether a car's electronic safety systems still work, while familiar defects such as worn tyres remain common.",
+      "turns": [
+        {
+          "speaker": "Jacob Collier",
+          "text": "Has the Government got the balance right between improving new cars and looking after those already on the road?",
+          "evidence": [
+            {
+              "source_turn": 44,
+              "quote": "Have the Government struck the right balance between safety technology in new vehicles and those that currently exist on the road?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Khastgir",
+          "text": "A system has to keep working after the car is sold. The MOT doesn't generally check these sensor-based features, and sensors can lose their alignment. Tests of three of the UK's five most popular cars found that they didn't pass every part of the UN test for automatic emergency braking later in their lives.",
+          "evidence": [
+            {
+              "source_turn": 15,
+              "quote": "most of our MOT mechanisms do not look into the ADAS technologies or the sensor-based technology. There are a lot of reports right now in terms of sensor calibration being off"
+            },
+            {
+              "source_turn": 49,
+              "quote": "from the five most popular cars that exist on UK roads, three did not pass every test of the UN regulation for autonomous emergency braking. This was randomly done in the vehicle lifetime, not on day zero."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Cuerden",
+          "text": "The MOT grew up around physical checks such as rust, seatbelts, brakes and tyres. Cars now contain computers and software, but for some safety systems we're largely relying on whether the car's own warning light comes on. That isn't always a reliable test.",
+          "evidence": [
+            {
+              "source_turn": 54,
+              "quote": "The MOT system was basically developed to make sure that the seatbelts would still work, the vehicle was not rusty, structurally it was sound, the brakes and tyres were in good condition"
+            },
+            {
+              "source_turn": 54,
+              "quote": "What has happened in the last 15 years is that we have introduced computers and technology to our vehicles."
+            },
+            {
+              "source_turn": 16,
+              "quote": "Some self-diagnostic systems do not put that warning light on when they are not working."
+            }
+          ]
+        },
+        {
+          "speaker": "Ashley Patton",
+          "text": "A replacement windscreen shows the difficulty. Even a change in the thickness of the glue holding a camera bracket could leave the camera pointing the wrong way, while the car's own check suggests everything is fine.",
+          "evidence": [
+            {
+              "source_turn": 47,
+              "quote": "even the change in the thickness of the glue to which the camera bracket is attached could mean the camera is pointing in a completely different direction. On a self-check procedure it looks fine"
+            }
+          ]
+        },
+        {
+          "speaker": "Stuart Lovett",
+          "text": "There's a more immediate problem with familiar parts. Around 1.5 million vehicles pass an MOT with a safety-critical issue recorded as advice rather than a failure. About nine in 10 of those warnings concern tyres or brakes, yet drivers may assume a pass means the car is safe.",
+          "evidence": [
+            {
+              "source_turn": 17,
+              "quote": "Most people are under the belief that if you pass the MOT then the vehicle is safe."
+            },
+            {
+              "source_turn": 17,
+              "quote": "there is something in the order of 1.5 million vehicles that pass their MOT but have a safety-critical issue that can be ignored"
+            },
+            {
+              "source_turn": 17,
+              "quote": "nine out of 10 of those safety-critical advisories are down to tyres and brakes"
+            }
+          ]
+        },
+        {
+          "speaker": "Stuart Lovett",
+          "text": "TyreSafe also found serious problems with used tyres sold for further use. In one Norfolk inspection, 190 of 191 tyres were being sold illegally, even though sellers had been warned six weeks beforehand. We're asking for the existing rules to be enforced, not for a ban.",
+          "evidence": [
+            {
+              "source_turn": 51,
+              "quote": "Out of 191 part-worn tyres that were inspected—after giving them six weeks’ warning that it was coming in to look at them—190 were illegal."
+            },
+            {
+              "source_turn": 51,
+              "quote": "We are not saying too much other than that Trading Standards needs to make sure that those tyres that are available to the public are sold in a safe, legal and compliant manner"
+            }
+          ]
+        },
+        {
+          "speaker": "Dr Arthur",
+          "text": "If the MOT starts checking these systems, what happens when a windscreen is replaced between tests? How do we make sure the repairer checks the camera properly?",
+          "evidence": [
+            {
+              "source_turn": 65,
+              "quote": "Let us say that the day after I get my MOT I get my windscreen replaced because it gets chipped."
+            },
+            {
+              "source_turn": 65,
+              "quote": "How do we make sure that fitters are doing the right thing? If we assume we have fixed the MOT problem, how do we fix any work that has been done on the car between MOTs"
+            }
+          ]
+        },
+        {
+          "speaker": "Ashley Patton",
+          "text": "I don't know what penalties would apply if a fitter got that wrong. Insurers tend to use approved windscreen fitters, which covers much of the market, but there may still be a risk when older-car owners go elsewhere.",
+          "evidence": [
+            {
+              "source_turn": 68,
+              "quote": "The honest answer is that I do not know. If you were to do it through your insurance company, it would do it through one of its approved and assured windscreen fitters."
+            },
+            {
+              "source_turn": 68,
+              "quote": "I do not know the market beyond that as the vehicles get older and people perhaps do not use their insurance companies."
+            },
+            {
+              "source_turn": 68,
+              "quote": "Most of this is captured because of the economics, but there is a risk."
+            }
+          ]
+        },
+        {
+          "speaker": "Samantha Dixon",
+          "text": "Are the people who repair these systems and carry out MOTs getting the right training?",
+          "evidence": [
+            {
+              "source_turn": 74,
+              "quote": "I want to talk about the training of the professionals who fit Scott’s windscreen and do our MOTs."
+            },
+            {
+              "source_turn": 74,
+              "quote": "are we training these professionals? Are they being trained properly?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Cuerden",
+          "text": "I don't know whether their training is adequate. But we'll need more people who can service increasingly automated cars, including their software. A common national training syllabus is worth considering.",
+          "evidence": [
+            {
+              "source_turn": 75,
+              "quote": "I do not know if they are being trained properly but we should be training more people."
+            },
+            {
+              "source_turn": 75,
+              "quote": "We should be thinking about a national syllabus for this sort of thing."
+            },
+            {
+              "source_turn": 75,
+              "quote": "who is going to look after those vehicles, service them and clean them, right through to the software management of cyber-security?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Help drivers understand their cars",
+      "takeaway": "Better information, less irritating warnings and practical driving-test questions could help people use safety equipment properly.",
+      "turns": [
+        {
+          "speaker": "Dr Arthur",
+          "text": "If people switch safety systems off, what's the answer: requiring their use, changing insurance, or teaching drivers? We need more than a complaint about their behaviour.",
+          "evidence": [
+            {
+              "source_turn": 56,
+              "quote": "What is the solution to that? Do we pass legislation saying that people must use it? Do we link it into insurance"
+            },
+            {
+              "source_turn": 56,
+              "quote": "Do we just try to educate the public?"
+            },
+            {
+              "source_turn": 56,
+              "quote": "It is easy to complain about people switching them off, but what do we do?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Khastgir",
+          "text": "Don't simply blame drivers. Some don't understand what a system can do; others lose trust when it gives false or irritating warnings. Stronger performance tests could reduce those problems. Manufacturers should also explain a system's limits, not just advertise its abilities.",
+          "evidence": [
+            {
+              "source_turn": 62,
+              "quote": "We should not blame the driver for turning the system off; we need to look into the root cause of the reason behind it, which is distrust in the system."
+            },
+            {
+              "source_turn": 62,
+              "quote": "If we can drive up the performance standards of these systems, that would lead to less nuisance from a usage perspective, and higher trust in these systems."
+            },
+            {
+              "source_turn": 62,
+              "quote": "not just publicise the capabilities but also inform the limitations, because the two together will lead to appropriate trust in the system."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Cuerden",
+          "text": "We should improve how cars are sold, too. In my experience, dealers often explain how to turn assistance systems off rather than what they do. That may contribute to their reputation.",
+          "evidence": [
+            {
+              "source_turn": 59,
+              "quote": "when you buy a new car they do not show you what to do with it other than how to switch it off."
+            },
+            {
+              "source_turn": 59,
+              "quote": "The way in which we are presenting these—from a dealer level as well—is not particularly great and we have a bad reputation. That is one of the potential sources of this."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Khastgir",
+          "text": "There's also the opposite risk: drivers may trust a system too much and stop paying attention. We should design and set requirements for systems that make misuse harder. Road-safety education in schools could help young people understand the risks before they drive.",
+          "evidence": [
+            {
+              "source_turn": 73,
+              "quote": "there is not enough about education and raising awareness in schools."
+            },
+            {
+              "source_turn": 73,
+              "quote": "Over-trust leads to complacency in the system’s capabilities and leads drivers to use it in a way that the system is not designed to be used."
+            },
+            {
+              "source_turn": 73,
+              "quote": "we can and should come up with standards and regulations that prevent misuse from happening."
+            }
+          ]
+        },
+        {
+          "speaker": "Alex Mayer",
+          "text": "Should driving tests check that learners know how to use these features, including what happens when they're switched on or off?",
+          "evidence": [
+            {
+              "source_turn": 77,
+              "quote": "should there be a specific exercise on having them on and off and knowing how to use them?"
+            }
+          ]
+        },
+        {
+          "speaker": "Ashley Patton",
+          "text": "Yes. If the technology becomes standard equipment, people learning to drive need to understand the car's functions.",
+          "evidence": [
+            {
+              "source_turn": 78,
+              "quote": "The quick and easy answer is yes. As the technology becomes mandatory on vehicles it is really important that when you are learning to drive a vehicle you know how to drive it and all its functions."
+            }
+          ]
+        },
+        {
+          "speaker": "Stuart Lovett",
+          "text": "TyreSafe wants learners to show an examiner how they check tyre tread, rather than just recite the answer. Three in five young drivers say they've never checked a tyre and wouldn't know how, despite passing their test.",
+          "evidence": [
+            {
+              "source_turn": 79,
+              "quote": "TyreSafe is already in discussions with DVSA—with the support of our partners—to ask for a potential change to the test, from a “tell me” to a “show me” question."
+            },
+            {
+              "source_turn": 79,
+              "quote": "Three out of five young drivers say they have never checked a tyre and would not know how to, but they have passed their driving test."
+            }
+          ]
+        },
+        {
+          "speaker": "Stuart Lovett",
+          "text": "We also want a THINK! campaign explaining why vehicle condition and safety systems matter. Current collision figures don't show the full scale of vehicle-condition problems, and people may not understand what an MOT warning asks them to do.",
+          "evidence": [
+            {
+              "source_turn": 76,
+              "quote": "we strongly believe that a THINK! campaign around vehicle condition is important, and that there is a gap in the strategy."
+            },
+            {
+              "source_turn": 76,
+              "quote": "STATS19, which massively under-reports the scale of this problem and does not even look at vehicle condition or the number of incidents, collisions or damage-only incidents."
+            },
+            {
+              "source_turn": 76,
+              "quote": "the public do not understand what they mean or what the potential risk is once they have an advisory."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Glare, evidence and future checks",
+      "takeaway": "Headlight glare needs both research and action, while better access to vehicle information could show whether safety systems remain effective.",
+      "turns": [
+        {
+          "speaker": "Alex Mayer",
+          "text": "Your research found that 97% of drivers are affected by headlight glare at least sometimes. Do we need more research, or should we change the rules now?",
+          "evidence": [
+            {
+              "source_turn": 82,
+              "quote": "in October 2025 your research found that 97% of drivers are regularly or sometimes affected by headlight glare. Do we need to do any more research, or should we just get on with legislating?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Cuerden",
+          "text": "Both. More than half the people surveyed said glare had stopped them driving, or would stop them driving, when they didn't have to. But we don't yet know precisely how changes to measurable features of headlights would affect what people's eyes experience. Road shape, lights and ageing eyes all matter.",
+          "evidence": [
+            {
+              "source_turn": 83,
+              "quote": "Over half of the people surveyed said that they either did not or would not drive if they did not have to, because of glare"
+            },
+            {
+              "source_turn": 83,
+              "quote": "I am struggling with the glare response in the human eye and linking it to those measures. If I change the parameters here, will I reduce glare? We do not yet understand the science."
+            },
+            {
+              "source_turn": 83,
+              "quote": "The things that contribute to glare are the road geometry, the LED type, the vehicle and the intensity."
+            },
+            {
+              "source_turn": 83,
+              "quote": "as we age our eyes change, so we can get a lot more susceptible to the effect of glare"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Cuerden",
+          "text": "The UK should help update international lighting rules. But we must check that any new measurement actually reduces glare, rather than just being easy to put in a regulation.",
+          "evidence": [
+            {
+              "source_turn": 85,
+              "quote": "We absolutely must contribute to the UN working groups and update the lighting standards for international vehicles."
+            },
+            {
+              "source_turn": 85,
+              "quote": "My concern is that we might find ourselves measuring something in a regulation that we can measure, but that may not have the outcome we intended of reduced glare."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Khastgir",
+          "text": "New rules would generally apply only to vehicles made after their start date. For cars already on the road, I don't know of many regulatory tools; explaining how to use features such as automatic headlight dimming may be the practical option.",
+          "evidence": [
+            {
+              "source_turn": 88,
+              "quote": "when you update a regulation you also update an enforcement date, and then it is only valid for new vehicles manufactured after that date."
+            },
+            {
+              "source_turn": 88,
+              "quote": "Unfortunately, we do not have many tools in our library to tackle the vehicles that we already have"
+            },
+            {
+              "source_turn": 88,
+              "quote": "All we can do is educate and increase awareness among the general public about how to use the automatic dimming headlights"
+            }
+          ]
+        },
+        {
+          "speaker": "Jacob Collier",
+          "text": "What information would help the Government check whether safety technology keeps working throughout a vehicle's life?",
+          "evidence": [
+            {
+              "source_turn": 98,
+              "quote": "How could the Government ensure that they collect that data to ensure that vehicles continue to have this technology working in the way that they should throughout the whole lifetime of the vehicle?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Cuerden",
+          "text": "Researchers need better ways to bring together information we already hold about vehicles, their equipment and how far they're driven. It should be available for research without identifying individual people.",
+          "evidence": [
+            {
+              "source_turn": 99,
+              "quote": "What we do not know in easy-to-find ways, which is crazy in the modern digital world, is about the kits, the vehicles and the mileage they are doing."
+            },
+            {
+              "source_turn": 99,
+              "quote": "Linking the datasets we have already and making that within all the right rules—I do not want to identify people, but making that available to academics and fellow researchers—is going to help us to understand."
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Khastgir",
+          "text": "For fully automated vehicles, developers already have to report incidents and provide regular reports to the regulator. We could consider something similar for more advanced driver-assistance systems, including recording how far cars travel with those features on or off.",
+          "evidence": [
+            {
+              "source_turn": 103,
+              "quote": "Whenever an incident happens, a full report and an investigation needs to be provided by the developer to the regulator."
+            },
+            {
+              "source_turn": 103,
+              "quote": "a periodic report also needs to be provided to the regulator by the manufacturer and operator. A similar thing can also be done, especially for more advanced ADA systems"
+            },
+            {
+              "source_turn": 103,
+              "quote": "the data gets created on when and how many miles are being driven with the ADAS switched on and off."
+            }
+          ]
+        },
+        {
+          "speaker": "Chair",
+          "text": "Could insurers give drivers a reason to leave safety equipment on and maintain their vehicles properly?",
+          "evidence": [
+            {
+              "source_turn": 104,
+              "quote": "could there be a role for insurance companies to incentivise drivers not to switch the kit off and so on?"
+            }
+          ]
+        },
+        {
+          "speaker": "Professor Cuerden",
+          "text": "Cars can now hold data that insurers might use, by agreement, to offer policies based partly on how safety features are used. That sort of product could develop, but it isn't something we can assume every insurer already offers.",
+          "evidence": [
+            {
+              "source_turn": 105,
+              "quote": "That could be available to insurance companies through a cloud server, under an agreement. Therefore, if I am not getting speed warning alerts at a certain amount, I would pay less per mile. We will be seeing that sort of product."
+            },
+            {
+              "source_turn": 106,
+              "quote": "So that interconnection of data is possible but not currently done?"
+            },
+            {
+              "source_turn": 107,
+              "quote": "Yes. Imagine if an OEM wants to help to sell you the insurance; that is the way the market is going to go."
+            }
+          ]
+        },
+        {
+          "speaker": "Stuart Lovett",
+          "text": "TyreSafe hasn't succeeded in getting insurers to engage on this. A quicker step would be a public campaign explaining what safety systems do, why vehicle condition affects them and why drivers should act on warnings.",
+          "evidence": [
+            {
+              "source_turn": 108,
+              "quote": "TyreSafe has singularly failed to engage with the insurance industry, whether as a collective or with individual companies, despite all our requests."
+            },
+            {
+              "source_turn": 108,
+              "quote": "a national public campaign such as a THINK! campaign to explain the importance of the technology—about the roadworthiness of vehicles, how these systems are there to help you and what can compromise them—would be a quick win and very effective."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,924 @@
+{
+  "schema_version": 1,
+  "source_id": 18347,
+  "source_sha256": "73e66231caed8f3b83be19a39f0ef6e0a8aa7ebab0442717681dceedf2178299",
+  "title": "Where would a conversion practices law draw the line?",
+  "label": "23 November 2026 · Conversion practices and the proposed law",
+  "summary": "Prosecutors and a criminal barrister examined what the draft Bill would add to existing law, how its safeguards might work and where its wording remains uncertain. Representatives from Wales, Scotland and Northern Ireland then discussed limited evidence about how widespread conversion practices are, differing views on the need for legislation, and whether the proposed protections would be clear enough for families, faith groups and healthcare workers.",
+  "speakers": [
+    {
+      "label": "Chair",
+      "name": "Lord Hope of Craighead",
+      "role": "Acting chair of the committee",
+      "kind": "chair"
+    },
+    {
+      "label": "Tom Guest",
+      "name": "Tom Guest",
+      "role": "Deputy Director for Legal Policy, Crown Prosecution Service",
+      "kind": "witness"
+    },
+    {
+      "label": "Andrew Thomas",
+      "name": "Andrew Thomas",
+      "role": "Chair, Criminal Bar Association of England and Wales",
+      "kind": "witness"
+    },
+    {
+      "label": "Baroness Prentis of Banbury",
+      "name": "Baroness Prentis of Banbury",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Sir Jeremy Wright",
+      "name": "Sir Jeremy Wright",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Naz Shah",
+      "name": "Naz Shah",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Lord Isaac",
+      "name": "Lord Isaac",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Danny Beales",
+      "name": "Danny Beales",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Marie Goldman",
+      "name": "Marie Goldman",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Baroness Browning",
+      "name": "Baroness Browning",
+      "role": "Committee member",
+      "kind": "member"
+    },
+    {
+      "label": "Sioned Williams",
+      "name": "Sioned Williams",
+      "role": "Deputy First Minister and Cabinet Minister for Social Justice and Equality, Welsh Government",
+      "kind": "witness"
+    },
+    {
+      "label": "Gordon Lyons",
+      "name": "Gordon Lyons",
+      "role": "Minister for Communities, Northern Irish Government",
+      "kind": "witness"
+    },
+    {
+      "label": "Simita Kumar",
+      "name": "Simita Kumar",
+      "role": "Minister for Equalities and International Development, Scottish Government",
+      "kind": "witness"
+    },
+    {
+      "label": "Baroness Brown of Silvertown",
+      "name": "Baroness Brown of Silvertown",
+      "role": "Committee member",
+      "kind": "member"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "conversion practices",
+      "definition": "Actions intended to change or suppress someone’s sexual orientation or gender identity; the precise legal definition was debated at this hearing."
+    },
+    {
+      "term": "private prosecution",
+      "definition": "A criminal case started by someone other than the police or a public prosecution authority."
+    },
+    {
+      "term": "suppression",
+      "definition": "Pressuring someone to hide or avoid expressing their sexual orientation or gender identity."
+    },
+    {
+      "term": "reasonableness defence",
+      "definition": "A proposed way for an accused person to argue that their conduct was reasonable in the circumstances."
+    },
+    {
+      "term": "regulated healthcare",
+      "definition": "Healthcare provided by professionals who must meet the rules of a formal professional regulator."
+    },
+    {
+      "term": "devolution",
+      "definition": "The transfer of some lawmaking and government powers from the UK Parliament to governments and legislatures in Scotland, Wales and Northern Ireland."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What existing law can and can’t cover",
+      "takeaway": "The witnesses identified possible gaps in existing offences, but said they had found no recent cases with which to measure their practical importance.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "The Government estimates that 75,000 to 93,000 people a year may experience conversion practices in England and Wales. Do prosecution records tell us how many cases there are?",
+          "evidence": [
+            {
+              "source_turn": 4,
+              "quote": "we have been told that the Government estimate that between 75,000 and 93,000 people per year may experience conversion practices in England and Wales. Does that fit with your information"
+            }
+          ]
+        },
+        {
+          "speaker": "Tom Guest",
+          "text": "No. We don’t record whether an allegation of conversion practices forms part of another offence. We made inquiries before this hearing but found no recent or current cases seen by the Crown Prosecution Service and taken through the courts. That doesn’t tell us how many people have experienced these practices.",
+          "evidence": [
+            {
+              "source_turn": 5,
+              "quote": "The CPS and, as far as I am aware, other law enforcement agencies do not collect that data."
+            },
+            {
+              "source_turn": 5,
+              "quote": "we would need to look at whether any existing criminal offences have an allegation of conversion practices wrapped into them as part of the facts."
+            },
+            {
+              "source_turn": 5,
+              "quote": "we have made every reasonable inquiry to find out whether there are any recent or current cases, and we have not identified any."
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Thomas",
+          "text": "In about 35 years as a criminal lawyer, I don’t recall seeing or hearing of a case that would fall within this draft Bill.",
+          "evidence": [
+            {
+              "source_turn": 11,
+              "quote": "I have practised as a criminal lawyer for about 35 years, mainly in the Crown court, and I do not recall seeing or hearing of any case that would fall within scope of the draft Bill."
+            }
+          ]
+        },
+        {
+          "speaker": "Baroness Prentis of Banbury",
+          "text": "So what gaps in the law would the Bill fill? Have you found cases that couldn’t be prosecuted without it?",
+          "evidence": [
+            {
+              "source_turn": 12,
+              "quote": "Perhaps you would both give me your assessment of which gaps in legislation the draft Bill is designed to fill."
+            },
+            {
+              "source_turn": 14,
+              "quote": "Have you had experience of such cases in which you have not been able to prosecute?"
+            }
+          ]
+        },
+        {
+          "speaker": "Tom Guest",
+          "text": "We can identify possible gaps, though we shouldn’t overstate them. Existing child-cruelty offences don’t cover a victim aged 16 or over. Some less serious physical assaults can no longer be prosecuted after six months. And psychological harm may fall short of what another offence requires, even where there’s no assault. We haven’t identified actual cases we were unable to prosecute on those grounds; this is an analysis of the law.",
+          "evidence": [
+            {
+              "source_turn": 13,
+              "quote": "We do not want to overstate the extent of it, but we would recognise a gap in the law."
+            },
+            {
+              "source_turn": 13,
+              "quote": "First, an allegation of child cruelty that involves a victim who is 16 or over is not currently covered by child cruelty offences. Secondly, some cases of battery—which is time-barred after six months—could be prosecuted under the Bill as drafted if the second limb of harm was established. The third example is psychological or psychiatric harm falling short of the standard for grievous bodily harm, where there was no assault but there was none the less psychological or psychiatric harm."
+            },
+            {
+              "source_turn": 15,
+              "quote": "We have not identified those cases; that is an analysis of the existing parameters of the criminal law."
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Thomas",
+          "text": "The Bill’s test of serious alarm or distress might also reach conduct that the existing offences don’t. Harassment law could cover a significant number of lower-level cases, but not the Bill’s full range.",
+          "evidence": [
+            {
+              "source_turn": 17,
+              "quote": "the slightly lower threshold of “serious alarm or distress to the individual” perhaps would not be captured by the long list of other offences"
+            },
+            {
+              "source_turn": 19,
+              "quote": "the offence of harassment would capture a significant number of lower-level offences."
+            },
+            {
+              "source_turn": 19,
+              "quote": "harassment would not capture the full range of offences that this draft Bill would."
+            }
+          ]
+        },
+        {
+          "speaker": "Tom Guest",
+          "text": "Increasing a sentence because an existing offence involved conversion practices wouldn’t fill a gap where no existing offence fits: the person would already have to be convicted. A separate offence could also let prosecutors present both an assault and an allegation of abusive conversion practice where that reflects what happened.",
+          "evidence": [
+            {
+              "source_turn": 23,
+              "quote": "it would address the question at sentencing. Again, if there is evidence of a shortfall or shortcoming in sentencing, I do not dissuade the Committee from looking at that at all, but the issue is the route to liability. If you are at sentence, you have already convicted someone of an offence."
+            },
+            {
+              "source_turn": 21,
+              "quote": "There was an assault, but also, members of the jury, we want you to consider this as an allegation of abusive conversion practice."
+            }
+          ]
+        },
+        {
+          "speaker": "Baroness Prentis of Banbury",
+          "text": "Does the proposed maximum of five years in prison fit the seriousness of this offence? And how would you choose between this charge and another one?",
+          "evidence": [
+            {
+              "source_turn": 30,
+              "quote": "Could I ask you both for your views on the available penalties of up to five years in prison and unlimited fines? Do you think that is about right?"
+            },
+            {
+              "source_turn": 33,
+              "quote": "What factors would determine whether you would use this legislation or other offences that might be available to you to prosecute?"
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Thomas",
+          "text": "Five years is in line with the maximum for comparable offences involving serious harm.",
+          "evidence": [
+            {
+              "source_turn": 31,
+              "quote": "this is an offence that contemplates serious harm. The maximum sentence of five years’ imprisonment would be in line with those for similar offences under the Offences against the Person Act or with controlling and coercive behaviour."
+            }
+          ]
+        },
+        {
+          "speaker": "Tom Guest",
+          "text": "I agree. Prosecutors would choose charges that show the extent of the conduct, give the court enough power to sentence it and keep the case clear. A long pattern might justify this charge alongside others; for a single incident, several charges may not help. A more serious sexual or violent offence might be the better charge if it carries a higher penalty.",
+          "evidence": [
+            {
+              "source_turn": 32,
+              "quote": "I agree."
+            },
+            {
+              "source_turn": 34,
+              "quote": "first, to reflect the seriousness and extent of the offending; secondly, to ensure that the court has adequate powers of sentence; and thirdly, to present the case in a clear and simple way to the court and the jury."
+            },
+            {
+              "source_turn": 34,
+              "quote": "if you were thinking of something that had taken place over a long period of time and where there were several instances, we may well look at charging this offence as well as others"
+            },
+            {
+              "source_turn": 34,
+              "quote": "if you have a very serious sexual offence or offences against the person, which carry more than five years, I would tend in favour of charging that offence."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Defining the offence",
+      "takeaway": "The witnesses disagreed about how clearly the Bill defines abuse, while both saw reasons to clarify its treatment of suppression.",
+      "turns": [
+        {
+          "speaker": "Sir Jeremy Wright",
+          "text": "The draft wording seems broader than trying to change someone’s identity. It could also cover trying to steer someone away from an identity, or reinforcing one they already have. Is that how you read it?",
+          "evidence": [
+            {
+              "source_turn": 37,
+              "quote": "the wording of the draft Bill is not limited to changing someone’s status; it is also potentially about trying to divert someone away from a particular status or indeed affirming an existing status. Would you agree with that?"
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Thomas",
+          "text": "Yes. In my view, it could cover affirming an existing tendency where the person has some uncertainty.",
+          "evidence": [
+            {
+              "source_turn": 38,
+              "quote": "I would, yes."
+            },
+            {
+              "source_turn": 41,
+              "quote": "There has to be some element of uncertainty in the mind of the subject, but certainly affirming an existing tendency would be covered in my view."
+            }
+          ]
+        },
+        {
+          "speaker": "Tom Guest",
+          "text": "It clearly covers trying to dissuade someone. I find it harder to picture a case where reinforcing an identity someone already knows they have would meet the wording.",
+          "evidence": [
+            {
+              "source_turn": 39,
+              "quote": "I certainly would in terms of it being to have or not to have—so dissuading someone from something."
+            },
+            {
+              "source_turn": 39,
+              "quote": "I am struggling with how that is conduct towards them with the intention of causing them to have or not to have."
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Thomas",
+          "text": "I’m concerned that the Bill leaves juries or magistrates too much room to decide for themselves what counts as abusive. Even the listed examples aren’t conclusive. I’d also remove ‘words or behaviour of a sexual nature’ from that list: it’s so broad that an ordinary discussion of sexual orientation could fit it without being abusive.",
+          "evidence": [
+            {
+              "source_turn": 45,
+              "quote": "It seems to me that it is essentially leaving the decision to be a subjective decision by the tribunal of fact, whether it is a jury or magistrates."
+            },
+            {
+              "source_turn": 45,
+              "quote": "In theory, they could look at the non-exhaustive list, look at “violent or threatening words”, and decide that that is not abusive."
+            },
+            {
+              "source_turn": 45,
+              "quote": "“words or behaviour of a sexual nature”, really makes that second element almost pointless"
+            },
+            {
+              "source_turn": 45,
+              "quote": "That is such a broad term. One can reasonably conclude that that is not abusive, so I suggest that that be deleted"
+            }
+          ]
+        },
+        {
+          "speaker": "Tom Guest",
+          "text": "I see it differently. Courts already ask juries to apply the ordinary meaning of ‘abusive’. The examples in this Bill would draw attention to the question, not decide it automatically. A conversation about sexual orientation isn’t abusive just because it happens; the circumstances matter. Prayer alone might meet the first part of the proposed offence, but normally wouldn’t meet its separate abuse test.",
+          "evidence": [
+            {
+              "source_turn": 47,
+              "quote": "we think we can apply an ordinary and common-sense approach."
+            },
+            {
+              "source_turn": 47,
+              "quote": "It is not a checklist, but it ensures that the question is given the attention that it needs"
+            },
+            {
+              "source_turn": 51,
+              "quote": "conversations are not per se abusive"
+            },
+            {
+              "source_turn": 59,
+              "quote": "prayer might be a conversion practice but, as it is commonly understood, it is very difficult to say how it could be abusive. There may well be facts and circumstances that manage to transform it into that"
+            }
+          ]
+        },
+        {
+          "speaker": "Sir Jeremy Wright",
+          "text": "The Bill requires an intention to carry out a conversion practice, but not an intention to be abusive or cause the specified harm. Does that trouble you?",
+          "evidence": [
+            {
+              "source_turn": 58,
+              "quote": "As the Bill is drafted, intent applies only to the conversion practice; it does not apply to the other two elements of the offence. Does that cause you any concern?"
+            }
+          ]
+        },
+        {
+          "speaker": "Tom Guest",
+          "text": "Not necessarily, because abuse and harm are real, separate requirements. But we’re open to discussing a further test, such as whether the person knew, or should have known, what their conduct would do.",
+          "evidence": [
+            {
+              "source_turn": 59,
+              "quote": "It does not necessarily cause us concern per se."
+            },
+            {
+              "source_turn": 59,
+              "quote": "Because these are genuine thresholds, what has been identified by other witnesses about a lack of mens rea causes us less concern, but we are certainly open to discussion about whether what is used in other legislation—a “knew or ought to have known” requirement, for instance—should be inserted"
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Thomas",
+          "text": "I was surprised there wasn’t a further requirement about what the accused knew or should have known. That’s the kind of test used in the stalking offence.",
+          "evidence": [
+            {
+              "source_turn": 60,
+              "quote": "I was surprised that there was no further mental element beyond that first requirement. It is in contrast with the stalking offence, which uses that “knew or ought to have known” test"
+            }
+          ]
+        },
+        {
+          "speaker": "Sir Jeremy Wright",
+          "text": "Other places’ laws explicitly cover suppression—pressuring someone to hide their identity. This Bill doesn’t. Should it?",
+          "evidence": [
+            {
+              "source_turn": 61,
+              "quote": "it is also about attempting to persuade or pressure them into suppressing that identity. That is not present here. Do you think it should be?"
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Thomas",
+          "text": "Yes. The harm can be equivalent, so including suppression would be a logical extension.",
+          "evidence": [
+            {
+              "source_turn": 62,
+              "quote": "It is a harm that is equivalent, so I think that would be a logical extension."
+            }
+          ]
+        },
+        {
+          "speaker": "Tom Guest",
+          "text": "Some cases of suppression might already meet every part of this offence; I wouldn’t rule that out. But if Parliament intends to cover suppression, it would be better to say so clearly.",
+          "evidence": [
+            {
+              "source_turn": 63,
+              "quote": "we would not be prepared to say that every case of suppression is not caught by this Bill"
+            },
+            {
+              "source_turn": 63,
+              "quote": "it is better that it is put beyond doubt if the Bill is intended to cover that. It should address that"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Parents, harm and healthcare",
+      "takeaway": "The witnesses considered the harm test substantial, but questions remained about ordinary parenting, healthcare exemptions and when a case should reach court.",
+      "turns": [
+        {
+          "speaker": "Naz Shah",
+          "text": "If parents put emotional or financial pressure on a child under 16, is the Bill clear enough about what’s abuse and what’s ordinary parenting?",
+          "evidence": [
+            {
+              "source_turn": 69,
+              "quote": "how those terms would be understood in cases of parents dealing with children aged under 16?"
+            },
+            {
+              "source_turn": 73,
+              "quote": "for an under-16-year-old, is that clear enough?"
+            },
+            {
+              "source_turn": 73,
+              "quote": "if I, as a parent, took the phone off my child, that would be good parenting. Is the Bill clear enough"
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Thomas",
+          "text": "That would depend on the whole situation. Juries already have to make judgments of degree in cases involving children. The Bill could expressly tell them to consider the parent-child relationship, though it doesn’t currently give an accused person a defence based on reasonable conduct.",
+          "evidence": [
+            {
+              "source_turn": 72,
+              "quote": "You are going to be leaving it to people—for example, a jury—to use their common sense and knowledge of the world to know whether the way in which a parent acted is consistent with ordinary parenting"
+            },
+            {
+              "source_turn": 74,
+              "quote": "juries or magistrates have to judge cases of child cruelty and assess the threshold that applies there."
+            },
+            {
+              "source_turn": 74,
+              "quote": "You could put in thresholds or specifically acknowledge in the Bill that one matter to be taken into account is whether the relationship of parent and child, or of guardianship, applies."
+            },
+            {
+              "source_turn": 76,
+              "quote": "No, which is, again, a concern about the Bill: whether that is an alternative way of addressing those sorts of issues."
+            }
+          ]
+        },
+        {
+          "speaker": "Tom Guest",
+          "text": "The police must consider a complaint, but can decide whether to investigate. Before a case reaches a jury, the police must assess the evidence and the Crown Prosecution Service must decide whether to charge. Simply taking a child’s phone away wouldn’t, in the ordinary sense, be abusive.",
+          "evidence": [
+            {
+              "source_turn": 79,
+              "quote": "The police retain their discretion on whether, and how, to investigate. They are not beholden to take forward every complaint; they must consider it, but they decide whether to investigate."
+            },
+            {
+              "source_turn": 79,
+              "quote": "the police would first have to conclude that they had finished an investigation and that there was a realistic prospect of conviction. They would then have to ask the CPS for a charging decision"
+            },
+            {
+              "source_turn": 79,
+              "quote": "I hope that any ordinary use of the word “abusive” would not capture that situation."
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Isaac",
+          "text": "What does the Bill mean by ‘serious alarm or distress’? Could ordinary parental decisions, such as withholding pocket money, meet that test?",
+          "evidence": [
+            {
+              "source_turn": 83,
+              "quote": "We have heard various examples of parents’ conduct in various day-to-day habits, such as withholding pocket money. What are your views on what might or might not count as “serious alarm or distress” in that context?"
+            }
+          ]
+        },
+        {
+          "speaker": "Tom Guest",
+          "text": "The test is more than distress alone. It must be serious and must cause a substantial harmful effect on the person’s usual day-to-day activities. Investigators would need evidence of that effect.",
+          "evidence": [
+            {
+              "source_turn": 84,
+              "quote": "It is not mere “alarm or distress”, but “serious alarm or distress”; it would also have to have that causal link."
+            },
+            {
+              "source_turn": 84,
+              "quote": "what does the evidence show about the impact on the usual day-to-day activities of the complainant?"
+            },
+            {
+              "source_turn": 84,
+              "quote": "the causation of disruption to day-to-day activities."
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Thomas",
+          "text": "Someone not leaving home or going to school or work for a significant time could meet that test, even after one serious incident. Simply withholding pocket money seems trivial by comparison.",
+          "evidence": [
+            {
+              "source_turn": 90,
+              "quote": "someone ends up not leaving the house, not seeing their friends or not going to work or school for significant periods of time because of the conduct"
+            },
+            {
+              "source_turn": 92,
+              "quote": "a single serious incident that then meant that someone became socially isolated and did not leave the house and did not go to school or work for a significant period of time is something the criminal law could properly look at."
+            },
+            {
+              "source_turn": 94,
+              "quote": "That would seem to be a trivial level."
+            }
+          ]
+        },
+        {
+          "speaker": "Danny Beales",
+          "text": "The Bill has a healthcare exemption tied to whether conduct falls ‘far below’ what’s reasonably expected. Could people providing counselling without a professional regulator use that exemption?",
+          "evidence": [
+            {
+              "source_turn": 96,
+              "quote": "how easy would you find it to judge the definition of conduct that falls “far below” what is reasonably expected"
+            },
+            {
+              "source_turn": 100,
+              "quote": "where professional standards are more debatable, for example around what good mental health services, practice and counselling looks like for people with LGBT backgrounds"
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Thomas",
+          "text": "‘Far below’ is a reasonably clear test, but the exemption could be a significant loophole. Some counselling and psychotherapy have no mandatory professional regulator. A group of practitioners could put forward its own standards as evidence that its approach was reasonable, even if others disagreed.",
+          "evidence": [
+            {
+              "source_turn": 97,
+              "quote": "Personally, I prefer the “far below” formulation. It is an easier one to understand."
+            },
+            {
+              "source_turn": 101,
+              "quote": "I am concerned that this could prove to be quite a significant loophole"
+            },
+            {
+              "source_turn": 101,
+              "quote": "A lot of counselling services and psychotherapy, fall outside that."
+            },
+            {
+              "source_turn": 103,
+              "quote": "You can see how a network of people could put together some sort of protocol, guideline or set of standards that they say is appropriate"
+            },
+            {
+              "source_turn": 107,
+              "quote": "they do not have a mandatory professional regulator."
+            }
+          ]
+        },
+        {
+          "speaker": "Sir Jeremy Wright",
+          "text": "Mr Guest, the healthcare exemption applies when deciding whether something is a conversion practice at all. If it applies, the case never gets as far as the tests for abuse and serious harm.",
+          "evidence": [
+            {
+              "source_turn": 109,
+              "quote": "The exemption being put to you is an exemption to a consideration as to whether or not this is a conversion practice. You do not get as far as abusiveness or seriousness harm. If you can take advantage of this exemption, that is the end of the matter."
+            }
+          ]
+        },
+        {
+          "speaker": "Marie Goldman",
+          "text": "Would it help to stop private prosecutions under this Bill unless the Director of Public Prosecutions consents?",
+          "evidence": [
+            {
+              "source_turn": 114,
+              "quote": "Would it be helpful for the Bill to require consent from the Director of Public Prosecutions?"
+            }
+          ]
+        },
+        {
+          "speaker": "Tom Guest",
+          "text": "Yes. The Crown Prosecution Service would then make the charging decision, rather than a private prosecutor or the police.",
+          "evidence": [
+            {
+              "source_turn": 116,
+              "quote": "Yes, it would. That would mean that the CPS would be the prosecutor, so it cannot be charged by private prosecutors or the police; only the CPS could charge it."
+            }
+          ]
+        },
+        {
+          "speaker": "Baroness Browning",
+          "text": "The Bill doesn’t expressly protect reasonable parenting. Healthcare workers have an exemption, yet parents may also have difficult conversations with children that cause distress. Should the Bill address that difference?",
+          "evidence": [
+            {
+              "source_turn": 121,
+              "quote": "The Bill does not include any defences or exemptions for reasonable parenting decisions."
+            },
+            {
+              "source_turn": 123,
+              "quote": "parents, who may well ask very similar questions and have the same pressures and results as a medical professional, do not have that carve-out."
+            }
+          ]
+        },
+        {
+          "speaker": "Andrew Thomas",
+          "text": "I strongly support a reasonableness defence. A well-meaning parent, or someone asked to discuss these issues with a child or adult, could otherwise be drawn into a case. It would be safer to put that protection in the Bill than leave them to argue that prosecution isn’t in the public interest.",
+          "evidence": [
+            {
+              "source_turn": 122,
+              "quote": "I would strongly support the inclusion of a reasonable conduct defence in the Bill."
+            },
+            {
+              "source_turn": 122,
+              "quote": "you could envisage the well-meaning parent or person, who could be asked to discuss issues with a concerned child or even a concerned adult, being caught up in this."
+            },
+            {
+              "source_turn": 122,
+              "quote": "Without it, a defendant would fall on the mercy of the Crown Prosecution Service and argue that it is not in the public interest for a charge to be brought. It would be safer if it was in the Bill."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "What the three nations know",
+      "takeaway": "All three representatives described limits in local evidence, but drew different conclusions about the need for new legislation.",
+      "turns": [
+        {
+          "speaker": "Chair",
+          "text": "How widespread are conversion practices in Wales, Northern Ireland and Scotland, and what evidence do you have?",
+          "evidence": [
+            {
+              "source_turn": 126,
+              "quote": "How significant a concern are conversion practices in your nation, and what evidence has informed your assessment of their prevalence?"
+            }
+          ]
+        },
+        {
+          "speaker": "Sioned Williams",
+          "text": "We can’t give a reliable estimate for Wales. In a 2018 UK survey, 2.1% of cisgender LGBQ+ respondents in Wales and 5.6% of trans respondents said they’d undergone conversion practices. Reports from a specialist support service also describe survivors’ experiences, including emotional, mental and physical impacts. The Welsh Government wants effective legislation.",
+          "evidence": [
+            {
+              "source_turn": 127,
+              "quote": "Wales-specific prevalence data is limited, so I cannot give the Committee a reliable estimate of how widespread conversion practices are in Wales."
+            },
+            {
+              "source_turn": 127,
+              "quote": "2.1% had undergone them. This was higher for trans populations, with 9% of respondents in Wales being offered but not undergoing conversion practices and an additional 5.6% having undergone them."
+            },
+            {
+              "source_turn": 127,
+              "quote": "Case studies provided to the Welsh Government from Galop highlight the far-reaching emotional, mental and physical impacts"
+            },
+            {
+              "source_turn": 127,
+              "quote": "We want to see legislation that is clear, enforceable, proportionate and effective for Wales."
+            }
+          ]
+        },
+        {
+          "speaker": "Gordon Lyons",
+          "text": "Northern Ireland has accounts from individuals and some research, but no comprehensive figures that let us confidently estimate how widespread these practices are. There’s also disagreement over what counts as a conversion practice. I don’t believe the proposed Northern Ireland law is appropriate.",
+          "evidence": [
+            {
+              "source_turn": 129,
+              "quote": "We have had some stakeholder accounts and some qualitative research done, but not of a sufficient number to give us certainty as to the actual prevalence in Northern Ireland, and we have no comprehensive Northern Ireland dataset"
+            },
+            {
+              "source_turn": 129,
+              "quote": "There is considerable dispute as to what constitutes a conversion practice."
+            },
+            {
+              "source_turn": 131,
+              "quote": "I do not believe that the legislation we have in Northern Ireland is appropriate for what we need."
+            }
+          ]
+        },
+        {
+          "speaker": "Simita Kumar",
+          "text": "Scotland also lacks its own figures and uses UK-wide survey evidence. But a lack of data doesn’t mean conversion practices aren’t happening: people may not recognise an experience as such at the time. We’re also concerned by the rise in hate crimes targeting LGBT people, particularly trans people.",
+          "evidence": [
+            {
+              "source_turn": 135,
+              "quote": "we do not have Scottish-specific data. Like Ms Williams said, we rely on the UK Government’s national LGBT survey and the Galop study."
+            },
+            {
+              "source_turn": 135,
+              "quote": "in Scotland we have seen an increase in hate crimes, mostly targeted at LGBT communities and specifically trans communities."
+            },
+            {
+              "source_turn": 135,
+              "quote": "although there may be a gap in data collection, that does not necessarily mean that there is a gap in conversion practices happening. A lot of people who go through conversion practice perhaps do not realise that they are going through it at that point"
+            }
+          ]
+        },
+        {
+          "speaker": "Danny Beales",
+          "text": "Mr Lyons, are you saying Northern Ireland is already securing convictions for abusive conversion practices under existing offences?",
+          "evidence": [
+            {
+              "source_turn": 138,
+              "quote": "Are you saying that in Northern Ireland you are seeing successful prosecutions for things that would be deemed conversion practices?"
+            }
+          ]
+        },
+        {
+          "speaker": "Gordon Lyons",
+          "text": "No—that isn’t the claim I’m making. I’m saying no one has brought us an example of conduct that existing criminal law doesn’t already cover.",
+          "evidence": [
+            {
+              "source_turn": 139,
+              "quote": "I am saying we are not getting anybody coming forward to us to give us examples of something that is taking place that there is not already a cover for under criminal law."
+            }
+          ]
+        },
+        {
+          "speaker": "Baroness Brown of Silvertown",
+          "text": "Would different laws across the UK make protection or public understanding harder?",
+          "evidence": [
+            {
+              "source_turn": 140,
+              "quote": "Do you see any benefits or risks with the legislation banning abusive conversion practices applying only in England and Wales rather than on a UK basis? How might different laws in different parts of the UK affect the general understanding"
+            }
+          ]
+        },
+        {
+          "speaker": "Simita Kumar",
+          "text": "Scotland has asked to be considered for inclusion in this Bill so there can be a consistent approach across the UK. If the UK Bill doesn’t go ahead, the Scottish Government has committed to bringing forward its own.",
+          "evidence": [
+            {
+              "source_turn": 141,
+              "quote": "we have engaged with Mr Lightwood and asked that Scotland be considered as an extension for the Bill, just so that we have that consistent approach."
+            },
+            {
+              "source_turn": 158,
+              "quote": "If that were not the case, and if, for whatever reason, the Bill did not go through, the Scottish Government have made a commitment to bring forward our own conversion practices Bill"
+            }
+          ]
+        },
+        {
+          "speaker": "Sioned Williams",
+          "text": "For Wales, working with the UK Government on an England-and-Wales law is our preferred approach under current arrangements. It should offer consistent protection, while working alongside Welsh responsibilities for health, education and protecting people from harm. A Wales-only ban faces limits on what Wales can legislate for.",
+          "evidence": [
+            {
+              "source_turn": 142,
+              "quote": "under the current devolution settlement, our preferred approach is to work with the UK Government on effective legislation in this policy area for England and Wales."
+            },
+            {
+              "source_turn": 142,
+              "quote": "a shared framework should support consistent protection and enforcement, but of course it would need to also work alongside devolved health, education and safeguarding responsibilities."
+            },
+            {
+              "source_turn": 142,
+              "quote": "there are significant legislative competence constraints on a Wales-only ban."
+            }
+          ]
+        },
+        {
+          "speaker": "Gordon Lyons",
+          "text": "Common rules across the UK could be helpful, but devolution also lets Northern Ireland respond to its own circumstances. Whatever the jurisdiction, criminal law must be clear and consistently enforceable. I’m concerned that both this Bill and the Northern Ireland proposal leave too much uncertainty.",
+          "evidence": [
+            {
+              "source_turn": 144,
+              "quote": "if we can have uniformity of legislation across the UK, that is a good thing. However, I believe in devolution"
+            },
+            {
+              "source_turn": 144,
+              "quote": "we need to respond to our own needs, look at the evidence base, and look at the legal framework that applies here."
+            },
+            {
+              "source_turn": 144,
+              "quote": "we need to make sure that the law is clear, predictable and capable of consistent enforcement"
+            },
+            {
+              "source_turn": 180,
+              "quote": "There is too much uncertainty, and that is not how the law should work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Changes the governments would consider",
+      "takeaway": "The Welsh and Scottish representatives sought clearer coverage of suppression and tighter healthcare wording, while Northern Ireland’s minister warned against rules that could reach ordinary conversations.",
+      "turns": [
+        {
+          "speaker": "Sioned Williams",
+          "text": "Welsh stakeholders have described attempts to stop people expressing their identity, as well as attempts to change it. We don’t think the current wording adequately covers suppression, so it should say so explicitly. We also have questions about the definition of conversion practices and why healthcare is treated differently from other professional settings.",
+          "evidence": [
+            {
+              "source_turn": 148,
+              "quote": "Welsh stakeholders have described practices aimed at preventing individuals from expressing their identity, and attempts to change it. We do not believe the current drafting adequately captures that conduct and we do think that explicit reference to suppression is needed."
+            },
+            {
+              "source_turn": 146,
+              "quote": "we support the concerns about the definition of conversion practices used in the Bill"
+            },
+            {
+              "source_turn": 146,
+              "quote": "Healthcare seems to be held to a different standard from other professional settings."
+            }
+          ]
+        },
+        {
+          "speaker": "Simita Kumar",
+          "text": "Scottish stakeholders also want suppression made clearer. I’m concerned that the healthcare exemption could cover providers without a professional regulator. Our proposals also looked at repeated conduct over time rather than just a single act, and at protecting ordinary parenting and religious practice while distinguishing guidance from coercion.",
+          "evidence": [
+            {
+              "source_turn": 150,
+              "quote": "from consultation with our stakeholders there is a greater need to clarify and strengthen the inclusion of suppression."
+            },
+            {
+              "source_turn": 150,
+              "quote": "That is not necessarily true for healthcare that is not regulated, so I have concerns around that."
+            },
+            {
+              "source_turn": 150,
+              "quote": "the most common form of conversion practice is that of a series of actions—not a one-off—conducted over a period of time."
+            },
+            {
+              "source_turn": 152,
+              "quote": "respecting the ability of parents to parent ordinarily with a child"
+            },
+            {
+              "source_turn": 152,
+              "quote": "there is a distinction between what could be considered ordinary guidance versus coercion"
+            }
+          ]
+        },
+        {
+          "speaker": "Sioned Williams",
+          "text": "Any defence for reasonable conduct mustn’t create a loophole that harms children’s rights. More broadly, people need to be able to understand where lawful expression ends and prohibited conduct begins.",
+          "evidence": [
+            {
+              "source_turn": 169,
+              "quote": "We do not want to see any potential loopholes that would have an impact on children and young people’s rights."
+            },
+            {
+              "source_turn": 171,
+              "quote": "the distinction between lawful expression and prohibited contact must be really clear, and people should be able to understand where that legal boundary lies."
+            }
+          ]
+        },
+        {
+          "speaker": "Gordon Lyons",
+          "text": "The proposed Northern Ireland Bill includes a reasonableness defence, but I worry that accused people would have to prove it without clear guidance. Its definition also extends to counselling, talking therapy, coaching and instruction. I think that risks reaching ordinary conversations in families or faith settings.",
+          "evidence": [
+            {
+              "source_turn": 162,
+              "quote": "the reasonableness defence, which is included in the Northern Ireland Bill. There is a difficulty with that; the burden is placed on the accused to prove their innocence rather than on the state to prove their guilt."
+            },
+            {
+              "source_turn": 162,
+              "quote": "we have no guidelines for people who may be affected by this, so you are left wondering what crosses the line or counts as reasonableness."
+            },
+            {
+              "source_turn": 162,
+              "quote": "“counselling or any form of talking therapy…coaching or instruction.” That casts the net very widely"
+            },
+            {
+              "source_turn": 144,
+              "quote": "what can be taught in a faith-based environment, and what a parent can say to a child."
+            }
+          ]
+        },
+        {
+          "speaker": "Lord Isaac",
+          "text": "Earlier, the prosecutors described the Bill’s test for an offence as a high one. Does that ease your concerns?",
+          "evidence": [
+            {
+              "source_turn": 181,
+              "quote": "You may have heard us in the first part of today’s session exploring the threshold, and the view of prosecutors that it was high. Does that change any of the points you have just made?"
+            }
+          ]
+        },
+        {
+          "speaker": "Gordon Lyons",
+          "text": "I didn’t hear that evidence, but a conviction isn’t my only concern. Even an investigation could be traumatic for a parent who thought they were helping their child. People need to know in advance what the law allows. That doesn’t mean I accept abusive or coercive practices: I want those tackled, but I question whether this legislation is needed beyond existing law.",
+          "evidence": [
+            {
+              "source_turn": 182,
+              "quote": "I did not have the opportunity to hear what was said in the previous session."
+            },
+            {
+              "source_turn": 184,
+              "quote": "This is not just about who may be successfully convicted at the end."
+            },
+            {
+              "source_turn": 184,
+              "quote": "to get a knock on the door from the police, even as an investigation, is an exceptionally traumatic thing for some people."
+            },
+            {
+              "source_turn": 187,
+              "quote": "I have no truck with anybody at all who is trying to engage in or put others through these abusive practices."
+            },
+            {
+              "source_turn": 187,
+              "quote": "is this legislation required, or, if people are facing those abusive and coercive practices, is there already a provision in law that allows that to be dealt with?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
